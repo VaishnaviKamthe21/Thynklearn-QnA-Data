@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.04",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Everyday Things"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which thing do we eat?",
+      "options": [
+        { "option_id": 1, "text": "Rice", "is_correct": true },
+        { "option_id": 2, "text": "Milk", "is_correct": false },
+        { "option_id": 3, "text": "Tie", "is_correct": false },
+        { "option_id": 4, "text": "Spoon", "is_correct": false }
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which thing do we drink?",
+      "options": [
+        { "option_id": 1, "text": "Milk", "is_correct": true },
+        { "option_id": 2, "text": "Rice", "is_correct": false },
+        { "option_id": 3, "text": "Tie", "is_correct": false },
+        { "option_id": 4, "text": "Garland", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which thing do we wear?",
+      "options": [
+        { "option_id": 1, "text": "Tie", "is_correct": true },
+        { "option_id": 2, "text": "Milk", "is_correct": false },
+        { "option_id": 3, "text": "Rice", "is_correct": false },
+        { "option_id": 4, "text": "Spoon", "is_correct": false }
+      ],
+      "answer": "Tie"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which thing do we use?",
+      "options": [
+        { "option_id": 1, "text": "Spoon", "is_correct": true },
+        { "option_id": 2, "text": "Rice", "is_correct": false },
+        { "option_id": 3, "text": "Milk", "is_correct": false },
+        { "option_id": 4, "text": "Tie", "is_correct": false }
+      ],
+      "answer": "Spoon"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What can we make?",
+      "options": [
+        { "option_id": 1, "text": "A garland", "is_correct": true },
+        { "option_id": 2, "text": "Milk", "is_correct": false },
+        { "option_id": 3, "text": "Tie", "is_correct": false },
+        { "option_id": 4, "text": "Rice", "is_correct": false }
+      ],
+      "answer": "A garland"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which thing do we hear?",
+      "options": [
+        { "option_id": 1, "text": "Doorbell", "is_correct": true },
+        { "option_id": 2, "text": "Rice", "is_correct": false },
+        { "option_id": 3, "text": "Milk", "is_correct": false },
+        { "option_id": 4, "text": "Spoon", "is_correct": false }
+      ],
+      "answer": "Doorbell"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which thing can we smell?",
+      "options": [
+        { "option_id": 1, "text": "Scent", "is_correct": true },
+        { "option_id": 2, "text": "Rice", "is_correct": false },
+        { "option_id": 3, "text": "Tie", "is_correct": false },
+        { "option_id": 4, "text": "Spoon", "is_correct": false }
+      ],
+      "answer": "Scent"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which thing do we care for?",
+      "options": [
+        { "option_id": 1, "text": "Pet animal", "is_correct": true },
+        { "option_id": 2, "text": "Doorbell", "is_correct": false },
+        { "option_id": 3, "text": "Tie", "is_correct": false },
+        { "option_id": 4, "text": "Milk", "is_correct": false }
+      ],
+      "answer": "Pet animal"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which category does rice belong to?",
+      "options": [
+        { "option_id": 1, "text": "Things you eat", "is_correct": true },
+        { "option_id": 2, "text": "Things you wear", "is_correct": false },
+        { "option_id": 3, "text": "Things you hear", "is_correct": false },
+        { "option_id": 4, "text": "Things you smell", "is_correct": false }
+      ],
+      "answer": "Things you eat"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which category does milk belong to?",
+      "options": [
+        { "option_id": 1, "text": "Things you drink", "is_correct": true },
+        { "option_id": 2, "text": "Things you wear", "is_correct": false },
+        { "option_id": 3, "text": "Things you hear", "is_correct": false },
+        { "option_id": 4, "text": "Things you make", "is_correct": false }
+      ],
+      "answer": "Things you drink"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which category does tie belong to?",
+      "options": [
+        { "option_id": 1, "text": "Things you wear", "is_correct": true },
+        { "option_id": 2, "text": "Things you eat", "is_correct": false },
+        { "option_id": 3, "text": "Things you drink", "is_correct": false },
+        { "option_id": 4, "text": "Things you hear", "is_correct": false }
+      ],
+      "answer": "Things you wear"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which category does spoon belong to?",
+      "options": [
+        { "option_id": 1, "text": "Things you use", "is_correct": true },
+        { "option_id": 2, "text": "Things you eat", "is_correct": false },
+        { "option_id": 3, "text": "Things you smell", "is_correct": false },
+        { "option_id": 4, "text": "Things you hear", "is_correct": false }
+      ],
+      "answer": "Things you use"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which category does doorbell belong to?",
+      "options": [
+        { "option_id": 1, "text": "Things you hear", "is_correct": true },
+        { "option_id": 2, "text": "Things you eat", "is_correct": false },
+        { "option_id": 3, "text": "Things you wear", "is_correct": false },
+        { "option_id": 4, "text": "Things you make", "is_correct": false }
+      ],
+      "answer": "Things you hear"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which category does scent belong to?",
+      "options": [
+        { "option_id": 1, "text": "Things you smell", "is_correct": true },
+        { "option_id": 2, "text": "Things you hear", "is_correct": false },
+        { "option_id": 3, "text": "Things you eat", "is_correct": false },
+        { "option_id": 4, "text": "Things you wear", "is_correct": false }
+      ],
+      "answer": "Things you smell"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which category does a pet animal belong to?",
+      "options": [
+        { "option_id": 1, "text": "Things you care for", "is_correct": true },
+        { "option_id": 2, "text": "Things you eat", "is_correct": false },
+        { "option_id": 3, "text": "Things you drink", "is_correct": false },
+        { "option_id": 4, "text": "Things you hear", "is_correct": false }
+      ],
+      "answer": "Things you care for"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Name one thing you eat.",
+      "answer": "I eat rice."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Name one thing you drink.",
+      "answer": "I drink milk."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Name one thing you wear.",
+      "answer": "I wear a tie."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Name one thing you use.",
+      "answer": "I use a spoon."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Name one thing you can make.",
+      "answer": "I can make a garland."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Name one thing you hear.",
+      "answer": "I hear a doorbell."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Name one thing you smell.",
+      "answer": "I smell a scent."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Name one thing you care for.",
+      "answer": "I care for my pet animal."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Which thing do we eat?",
+      "answer": "We eat rice."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which thing do we drink?",
+      "answer": "We drink milk."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which thing do we wear?",
+      "answer": "We wear a tie."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Which thing do we use?",
+      "answer": "We use a spoon."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Which thing do we hear?",
+      "answer": "We hear a doorbell."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Which thing do we smell?",
+      "answer": "We smell a scent."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Which thing do we care for?",
+      "answer": "We care for a pet animal."
+    }
+  ]
+}

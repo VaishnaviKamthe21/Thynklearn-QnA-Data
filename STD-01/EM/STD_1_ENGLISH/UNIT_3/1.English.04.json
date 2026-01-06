@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.04",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Let’s Know More About Animals"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which animals live on land?",
+      "options": [
+        { "option_id": 1, "text": "Lion and elephant", "is_correct": true },
+        { "option_id": 2, "text": "Fish and whale", "is_correct": false },
+        { "option_id": 3, "text": "Duck and frog", "is_correct": false },
+        { "option_id": 4, "text": "Crab and fish", "is_correct": false }
+      ],
+      "answer": "Lion and elephant"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which animals live in water?",
+      "options": [
+        { "option_id": 1, "text": "Fish and whale", "is_correct": true },
+        { "option_id": 2, "text": "Dog and cat", "is_correct": false },
+        { "option_id": 3, "text": "Cow and horse", "is_correct": false },
+        { "option_id": 4, "text": "Lion and tiger", "is_correct": false }
+      ],
+      "answer": "Fish and whale"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which animals can fly?",
+      "options": [
+        { "option_id": 1, "text": "Birds", "is_correct": true },
+        { "option_id": 2, "text": "Dogs", "is_correct": false },
+        { "option_id": 3, "text": "Fish", "is_correct": false },
+        { "option_id": 4, "text": "Cows", "is_correct": false }
+      ],
+      "answer": "Birds"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which animal gives us milk?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": true },
+        { "option_id": 2, "text": "Lion", "is_correct": false },
+        { "option_id": 3, "text": "Tiger", "is_correct": false },
+        { "option_id": 4, "text": "Monkey", "is_correct": false }
+      ],
+      "answer": "Cow"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which animal lays eggs?",
+      "options": [
+        { "option_id": 1, "text": "Hen", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Hen"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which animals are wild animals?",
+      "options": [
+        { "option_id": 1, "text": "Lion and tiger", "is_correct": true },
+        { "option_id": 2, "text": "Cow and goat", "is_correct": false },
+        { "option_id": 3, "text": "Dog and cat", "is_correct": false },
+        { "option_id": 4, "text": "Hen and duck", "is_correct": false }
+      ],
+      "answer": "Lion and tiger"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which animals are domestic animals?",
+      "options": [
+        { "option_id": 1, "text": "Dog and cat", "is_correct": true },
+        { "option_id": 2, "text": "Lion and tiger", "is_correct": false },
+        { "option_id": 3, "text": "Deer and elephant", "is_correct": false },
+        { "option_id": 4, "text": "Fox and wolf", "is_correct": false }
+      ],
+      "answer": "Dog and cat"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which animal helps us carry loads?",
+      "options": [
+        { "option_id": 1, "text": "Donkey", "is_correct": true },
+        { "option_id": 2, "text": "Cat", "is_correct": false },
+        { "option_id": 3, "text": "Hen", "is_correct": false },
+        { "option_id": 4, "text": "Fish", "is_correct": false }
+      ],
+      "answer": "Donkey"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which animal gives us wool?",
+      "options": [
+        { "option_id": 1, "text": "Sheep", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Horse", "is_correct": false }
+      ],
+      "answer": "Sheep"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which animal has a long trunk?",
+      "options": [
+        { "option_id": 1, "text": "Elephant", "is_correct": true },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which animal is very fast?",
+      "options": [
+        { "option_id": 1, "text": "Horse", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Goat", "is_correct": false },
+        { "option_id": 4, "text": "Hen", "is_correct": false }
+      ],
+      "answer": "Horse"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which animal lives both on land and in water?",
+      "options": [
+        { "option_id": 1, "text": "Frog", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Horse", "is_correct": false }
+      ],
+      "answer": "Frog"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which animal is called man's best friend?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": true },
+        { "option_id": 2, "text": "Cat", "is_correct": false },
+        { "option_id": 3, "text": "Cow", "is_correct": false },
+        { "option_id": 4, "text": "Sheep", "is_correct": false }
+      ],
+      "answer": "Dog"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which animal lives in a hive?",
+      "options": [
+        { "option_id": 1, "text": "Bee", "is_correct": true },
+        { "option_id": 2, "text": "Hen", "is_correct": false },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Cow", "is_correct": false }
+      ],
+      "answer": "Bee"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do we learn from this lesson?",
+      "options": [
+        { "option_id": 1, "text": "Different types of animals", "is_correct": true },
+        { "option_id": 2, "text": "Animal sounds only", "is_correct": false },
+        { "option_id": 3, "text": "Animal stories", "is_correct": false },
+        { "option_id": 4, "text": "Animal colours", "is_correct": false }
+      ],
+      "answer": "Different types of animals"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Name one land animal.",
+      "answer": "A lion is a land animal."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Name one water animal.",
+      "answer": "A fish is a water animal."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Which animal can fly?",
+      "answer": "Birds can fly."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which animal gives us milk?",
+      "answer": "A cow gives us milk."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which animal lays eggs?",
+      "answer": "A hen lays eggs."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Name one wild animal.",
+      "answer": "A tiger is a wild animal."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Name one domestic animal.",
+      "answer": "A dog is a domestic animal."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Which animal helps carry loads?",
+      "answer": "A donkey helps carry loads."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Which animal gives wool?",
+      "answer": "A sheep gives wool."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which animal has a trunk?",
+      "answer": "An elephant has a trunk."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which animal runs fast?",
+      "answer": "A horse runs fast."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Which animal lives on land and water?",
+      "answer": "A frog lives on land and in water."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Who is man's best friend?",
+      "answer": "The dog is man's best friend."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Which animal lives in a hive?",
+      "answer": "A bee lives in a hive."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What do we learn from this lesson?",
+      "answer": "We learn about different types of animals."
+    }
+  ]
+}

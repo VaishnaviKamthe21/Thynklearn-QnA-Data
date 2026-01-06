@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.01",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Traffic Rules"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where do we go when we are outside?",
+      "options": [
+        { "option_id": 1, "text": "Into the street", "is_correct": true },
+        { "option_id": 2, "text": "Into the house", "is_correct": false },
+        { "option_id": 3, "text": "Into the school", "is_correct": false },
+        { "option_id": 4, "text": "Into the room", "is_correct": false }
+      ],
+      "answer": "Into the street"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How can we go out?",
+      "options": [
+        { "option_id": 1, "text": "In a vehicle or on foot", "is_correct": true },
+        { "option_id": 2, "text": "Only running", "is_correct": false },
+        { "option_id": 3, "text": "Only flying", "is_correct": false },
+        { "option_id": 4, "text": "Only sitting", "is_correct": false }
+      ],
+      "answer": "In a vehicle or on foot"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What should we look out for on the street?",
+      "options": [
+        { "option_id": 1, "text": "Traffic signs", "is_correct": true },
+        { "option_id": 2, "text": "Trees", "is_correct": false },
+        { "option_id": 3, "text": "Houses", "is_correct": false },
+        { "option_id": 4, "text": "Shops", "is_correct": false }
+      ],
+      "answer": "Traffic signs"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why should we look at traffic signs?",
+      "options": [
+        { "option_id": 1, "text": "To keep us safe", "is_correct": true },
+        { "option_id": 2, "text": "To play", "is_correct": false },
+        { "option_id": 3, "text": "To run fast", "is_correct": false },
+        { "option_id": 4, "text": "To shout", "is_correct": false }
+      ],
+      "answer": "To keep us safe"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Where should we cross the road?",
+      "options": [
+        { "option_id": 1, "text": "Zebra crossing", "is_correct": true },
+        { "option_id": 2, "text": "Anywhere", "is_correct": false },
+        { "option_id": 3, "text": "Middle of the road", "is_correct": false },
+        { "option_id": 4, "text": "Near the shop", "is_correct": false }
+      ],
+      "answer": "Zebra crossing"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What colour tells vehicles to STOP?",
+      "options": [
+        { "option_id": 1, "text": "Red", "is_correct": true },
+        { "option_id": 2, "text": "Green", "is_correct": false },
+        { "option_id": 3, "text": "Yellow", "is_correct": false },
+        { "option_id": 4, "text": "Blue", "is_correct": false }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What should we do when the signal is red?",
+      "options": [
+        { "option_id": 1, "text": "Stop at once", "is_correct": true },
+        { "option_id": 2, "text": "Go fast", "is_correct": false },
+        { "option_id": 3, "text": "Run", "is_correct": false },
+        { "option_id": 4, "text": "Jump", "is_correct": false }
+      ],
+      "answer": "Stop at once"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What colour means GET READY?",
+      "options": [
+        { "option_id": 1, "text": "Yellow", "is_correct": true },
+        { "option_id": 2, "text": "Red", "is_correct": false },
+        { "option_id": 3, "text": "Green", "is_correct": false },
+        { "option_id": 4, "text": "Black", "is_correct": false }
+      ],
+      "answer": "Yellow"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What should we do when the signal is yellow?",
+      "options": [
+        { "option_id": 1, "text": "Be careful", "is_correct": true },
+        { "option_id": 2, "text": "Sleep", "is_correct": false },
+        { "option_id": 3, "text": "Run fast", "is_correct": false },
+        { "option_id": 4, "text": "Stop talking", "is_correct": false }
+      ],
+      "answer": "Be careful"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What colour tells us it is safe to GO?",
+      "options": [
+        { "option_id": 1, "text": "Green", "is_correct": true },
+        { "option_id": 2, "text": "Red", "is_correct": false },
+        { "option_id": 3, "text": "Yellow", "is_correct": false },
+        { "option_id": 4, "text": "White", "is_correct": false }
+      ],
+      "answer": "Green"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What should we do when the signal turns green?",
+      "options": [
+        { "option_id": 1, "text": "Go safely", "is_correct": true },
+        { "option_id": 2, "text": "Stop", "is_correct": false },
+        { "option_id": 3, "text": "Sit", "is_correct": false },
+        { "option_id": 4, "text": "Sleep", "is_correct": false }
+      ],
+      "answer": "Go safely"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What should we obey?",
+      "options": [
+        { "option_id": 1, "text": "Traffic rules", "is_correct": true },
+        { "option_id": 2, "text": "Games", "is_correct": false },
+        { "option_id": 3, "text": "Stories", "is_correct": false },
+        { "option_id": 4, "text": "Songs", "is_correct": false }
+      ],
+      "answer": "Traffic rules"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What happens when we obey rules?",
+      "options": [
+        { "option_id": 1, "text": "We reach home safe", "is_correct": true },
+        { "option_id": 2, "text": "We get lost", "is_correct": false },
+        { "option_id": 3, "text": "We fall", "is_correct": false },
+        { "option_id": 4, "text": "We cry", "is_correct": false }
+      ],
+      "answer": "We reach home safe"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which action word is shown in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "STOP", "is_correct": true },
+        { "option_id": 2, "text": "READ", "is_correct": false },
+        { "option_id": 3, "text": "WRITE", "is_correct": false },
+        { "option_id": 4, "text": "DRAW", "is_correct": false }
+      ],
+      "answer": "STOP"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who should follow traffic rules?",
+      "options": [
+        { "option_id": 1, "text": "Everyone", "is_correct": true },
+        { "option_id": 2, "text": "Only drivers", "is_correct": false },
+        { "option_id": 3, "text": "Only children", "is_correct": false },
+        { "option_id": 4, "text": "Only elders", "is_correct": false }
+      ],
+      "answer": "Everyone"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Where do we go when we go out?",
+      "answer": "We go into the street."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How can we go out?",
+      "answer": "We can go in a vehicle or on foot."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What should we look out for?",
+      "answer": "We should look out for traffic signs."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Where should we cross the road?",
+      "answer": "We should cross at the zebra crossing."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What does red signal tell us?",
+      "answer": "Red signal tells us to stop."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What does yellow signal tell us?",
+      "answer": "Yellow signal tells us to get ready."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What does green signal tell us?",
+      "answer": "Green signal tells us to go."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why should we obey rules?",
+      "answer": "To reach home safe."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What colour is the stop signal?",
+      "answer": "The stop signal is red."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What colour means go?",
+      "answer": "Green means go."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What colour means get ready?",
+      "answer": "Yellow means get ready."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Is it safe to follow traffic rules?",
+      "answer": "Yes, it is safe."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Who is precious?",
+      "answer": "We are precious."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What should we do at red light?",
+      "answer": "We should stop."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What should we do at green light?",
+      "answer": "We should go safely."
+    }
+  ]
+}

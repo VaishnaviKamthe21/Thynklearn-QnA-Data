@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.06",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Frame Words"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word is made by adding 'b' to 'an'?",
+      "options": [
+        { "option_id": 1, "text": "ban", "is_correct": true },
+        { "option_id": 2, "text": "bin", "is_correct": false },
+        { "option_id": 3, "text": "bun", "is_correct": false },
+        { "option_id": 4, "text": "ben", "is_correct": false }
+      ],
+      "answer": "ban"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which letter makes the word 'can'?",
+      "options": [
+        { "option_id": 1, "text": "c", "is_correct": true },
+        { "option_id": 2, "text": "b", "is_correct": false },
+        { "option_id": 3, "text": "d", "is_correct": false },
+        { "option_id": 4, "text": "f", "is_correct": false }
+      ],
+      "answer": "c"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word is NOT formed using 'an'?",
+      "options": [
+        { "option_id": 1, "text": "fan", "is_correct": false },
+        { "option_id": 2, "text": "man", "is_correct": false },
+        { "option_id": 3, "text": "pan", "is_correct": false },
+        { "option_id": 4, "text": "hen", "is_correct": true }
+      ],
+      "answer": "hen"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which word is made using 'en'?",
+      "options": [
+        { "option_id": 1, "text": "pen", "is_correct": true },
+        { "option_id": 2, "text": "pan", "is_correct": false },
+        { "option_id": 3, "text": "pin", "is_correct": false },
+        { "option_id": 4, "text": "pun", "is_correct": false }
+      ],
+      "answer": "pen"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word belongs to the 'un' family?",
+      "options": [
+        { "option_id": 1, "text": "sun", "is_correct": true },
+        { "option_id": 2, "text": "son", "is_correct": false },
+        { "option_id": 3, "text": "sin", "is_correct": false },
+        { "option_id": 4, "text": "san", "is_correct": false }
+      ],
+      "answer": "sun"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which letter forms the word 'run'?",
+      "options": [
+        { "option_id": 1, "text": "r", "is_correct": true },
+        { "option_id": 2, "text": "b", "is_correct": false },
+        { "option_id": 3, "text": "t", "is_correct": false },
+        { "option_id": 4, "text": "p", "is_correct": false }
+      ],
+      "answer": "r"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word is formed using 'ow'?",
+      "options": [
+        { "option_id": 1, "text": "cow", "is_correct": true },
+        { "option_id": 2, "text": "cap", "is_correct": false },
+        { "option_id": 3, "text": "cup", "is_correct": false },
+        { "option_id": 4, "text": "cat", "is_correct": false }
+      ],
+      "answer": "cow"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word shows the sound 'ow'?",
+      "options": [
+        { "option_id": 1, "text": "now", "is_correct": true },
+        { "option_id": 2, "text": "net", "is_correct": false },
+        { "option_id": 3, "text": "nut", "is_correct": false },
+        { "option_id": 4, "text": "nap", "is_correct": false }
+      ],
+      "answer": "now"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word belongs to the 'in' family?",
+      "options": [
+        { "option_id": 1, "text": "pin", "is_correct": true },
+        { "option_id": 2, "text": "pan", "is_correct": false },
+        { "option_id": 3, "text": "pen", "is_correct": false },
+        { "option_id": 4, "text": "pun", "is_correct": false }
+      ],
+      "answer": "pin"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which letter makes the word 'bin'?",
+      "options": [
+        { "option_id": 1, "text": "b", "is_correct": true },
+        { "option_id": 2, "text": "c", "is_correct": false },
+        { "option_id": 3, "text": "d", "is_correct": false },
+        { "option_id": 4, "text": "f", "is_correct": false }
+      ],
+      "answer": "b"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word is formed using 'win'?",
+      "options": [
+        { "option_id": 1, "text": "win", "is_correct": true },
+        { "option_id": 2, "text": "won", "is_correct": false },
+        { "option_id": 3, "text": "wan", "is_correct": false },
+        { "option_id": 4, "text": "wen", "is_correct": false }
+      ],
+      "answer": "win"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word is NOT in the 'in' group?",
+      "options": [
+        { "option_id": 1, "text": "tin", "is_correct": false },
+        { "option_id": 2, "text": "bin", "is_correct": false },
+        { "option_id": 3, "text": "fin", "is_correct": false },
+        { "option_id": 4, "text": "fan", "is_correct": true }
+      ],
+      "answer": "fan"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word is made using 'ow' and 'b'?",
+      "options": [
+        { "option_id": 1, "text": "bow", "is_correct": true },
+        { "option_id": 2, "text": "boy", "is_correct": false },
+        { "option_id": 3, "text": "box", "is_correct": false },
+        { "option_id": 4, "text": "bat", "is_correct": false }
+      ],
+      "answer": "bow"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word ends with 'ow'?",
+      "options": [
+        { "option_id": 1, "text": "how", "is_correct": true },
+        { "option_id": 2, "text": "hen", "is_correct": false },
+        { "option_id": 3, "text": "hat", "is_correct": false },
+        { "option_id": 4, "text": "hit", "is_correct": false }
+      ],
+      "answer": "how"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do we do in the Frame Words lesson?",
+      "options": [
+        { "option_id": 1, "text": "Make new words", "is_correct": true },
+        { "option_id": 2, "text": "Draw pictures", "is_correct": false },
+        { "option_id": 3, "text": "Sing songs", "is_correct": false },
+        { "option_id": 4, "text": "Count numbers", "is_correct": false }
+      ],
+      "answer": "Make new words"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is word framing?",
+      "answer": "Word framing means making new words using letters."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Write one word from the 'an' family.",
+      "answer": "Man is a word from the 'an' family."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Write one word from the 'en' family.",
+      "answer": "Pen is a word from the 'en' family."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Write one word from the 'un' family.",
+      "answer": "Sun is a word from the 'un' family."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Write one word from the 'ow' family.",
+      "answer": "Cow is a word from the 'ow' family."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Write one word from the 'in' family.",
+      "answer": "Pin is a word from the 'in' family."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Which letter makes the word 'fan'?",
+      "answer": "The letter f makes the word fan."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Which word is made using 'run'?",
+      "answer": "Run is made using r and un."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why do we learn frame words?",
+      "answer": "We learn frame words to read better."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Name one word ending with 'ow'.",
+      "answer": "How ends with 'ow'."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Write one three-letter word.",
+      "answer": "Cat is a three-letter word."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What sound is common in 'pin' and 'tin'?",
+      "answer": "The sound 'in' is common."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Is 'bow' a word?",
+      "answer": "Yes, bow is a word."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Do frame words help in reading?",
+      "answer": "Yes, frame words help in reading."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What do we add to make new words?",
+      "answer": "We add letters to make new words."
+    }
+  ]
+}

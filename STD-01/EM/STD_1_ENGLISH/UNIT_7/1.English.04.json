@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.04",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "This – That"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word do we use for a thing near us?",
+      "options": [
+        { "option_id": 1, "text": "This", "is_correct": true },
+        { "option_id": 2, "text": "That", "is_correct": false },
+        { "option_id": 3, "text": "These", "is_correct": false },
+        { "option_id": 4, "text": "Those", "is_correct": false }
+      ],
+      "answer": "This"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word do we use for a thing far away?",
+      "options": [
+        { "option_id": 1, "text": "That", "is_correct": true },
+        { "option_id": 2, "text": "This", "is_correct": false },
+        { "option_id": 3, "text": "These", "is_correct": false },
+        { "option_id": 4, "text": "Those", "is_correct": false }
+      ],
+      "answer": "That"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Choose the correct word: ___ is my book. (near)",
+      "options": [
+        { "option_id": 1, "text": "This", "is_correct": true },
+        { "option_id": 2, "text": "That", "is_correct": false },
+        { "option_id": 3, "text": "Those", "is_correct": false },
+        { "option_id": 4, "text": "These", "is_correct": false }
+      ],
+      "answer": "This"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Choose the correct word: ___ is a tree. (far)",
+      "options": [
+        { "option_id": 1, "text": "That", "is_correct": true },
+        { "option_id": 2, "text": "This", "is_correct": false },
+        { "option_id": 3, "text": "These", "is_correct": false },
+        { "option_id": 4, "text": "Those", "is_correct": false }
+      ],
+      "answer": "That"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word is used for one thing near?",
+      "options": [
+        { "option_id": 1, "text": "This", "is_correct": true },
+        { "option_id": 2, "text": "That", "is_correct": false },
+        { "option_id": 3, "text": "These", "is_correct": false },
+        { "option_id": 4, "text": "Those", "is_correct": false }
+      ],
+      "answer": "This"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word is used for one thing far?",
+      "options": [
+        { "option_id": 1, "text": "That", "is_correct": true },
+        { "option_id": 2, "text": "This", "is_correct": false },
+        { "option_id": 3, "text": "These", "is_correct": false },
+        { "option_id": 4, "text": "Those", "is_correct": false }
+      ],
+      "answer": "That"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Point to a pen near you. Which word will you say?",
+      "options": [
+        { "option_id": 1, "text": "This", "is_correct": true },
+        { "option_id": 2, "text": "That", "is_correct": false },
+        { "option_id": 3, "text": "These", "is_correct": false },
+        { "option_id": 4, "text": "Those", "is_correct": false }
+      ],
+      "answer": "This"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Point to a bird far away. Which word will you say?",
+      "options": [
+        { "option_id": 1, "text": "That", "is_correct": true },
+        { "option_id": 2, "text": "This", "is_correct": false },
+        { "option_id": 3, "text": "These", "is_correct": false },
+        { "option_id": 4, "text": "Those", "is_correct": false }
+      ],
+      "answer": "That"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Fill in the blank: ___ is my bag. (near)",
+      "options": [
+        { "option_id": 1, "text": "This", "is_correct": true },
+        { "option_id": 2, "text": "That", "is_correct": false },
+        { "option_id": 3, "text": "These", "is_correct": false },
+        { "option_id": 4, "text": "Those", "is_correct": false }
+      ],
+      "answer": "This"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Fill in the blank: ___ is a house. (far)",
+      "options": [
+        { "option_id": 1, "text": "That", "is_correct": true },
+        { "option_id": 2, "text": "This", "is_correct": false },
+        { "option_id": 3, "text": "These", "is_correct": false },
+        { "option_id": 4, "text": "Those", "is_correct": false }
+      ],
+      "answer": "That"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word comes first in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "This", "is_correct": true },
+        { "option_id": 2, "text": "That", "is_correct": false },
+        { "option_id": 3, "text": "These", "is_correct": false },
+        { "option_id": 4, "text": "Those", "is_correct": false }
+      ],
+      "answer": "This"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word is taught with pictures?",
+      "options": [
+        { "option_id": 1, "text": "This and That", "is_correct": true },
+        { "option_id": 2, "text": "He and She", "is_correct": false },
+        { "option_id": 3, "text": "In and On", "is_correct": false },
+        { "option_id": 4, "text": "Big and Small", "is_correct": false }
+      ],
+      "answer": "This and That"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word do we not use in this lesson?",
+      "options": [
+        { "option_id": 1, "text": "Those", "is_correct": true },
+        { "option_id": 2, "text": "This", "is_correct": false },
+        { "option_id": 3, "text": "That", "is_correct": false },
+        { "option_id": 4, "text": "This – That", "is_correct": false }
+      ],
+      "answer": "Those"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Is this lesson about one thing or many things?",
+      "options": [
+        { "option_id": 1, "text": "One thing", "is_correct": true },
+        { "option_id": 2, "text": "Many things", "is_correct": false },
+        { "option_id": 3, "text": "People", "is_correct": false },
+        { "option_id": 4, "text": "Animals", "is_correct": false }
+      ],
+      "answer": "One thing"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Is this lesson about near and far?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Only far", "is_correct": false },
+        { "option_id": 4, "text": "Only near", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Which word is used for a thing near us?",
+      "answer": "We use ‘this’."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Which word is used for a thing far away?",
+      "answer": "We use ‘that’."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Fill in: ___ is my book. (near)",
+      "answer": "This is my book."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Fill in: ___ is a tree. (far)",
+      "answer": "That is a tree."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which word is used for one thing near?",
+      "answer": "This is used for one thing near."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which word is used for one thing far?",
+      "answer": "That is used for one thing far."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Point to a pen near you. What will you say?",
+      "answer": "I will say ‘this’."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Point to a bird far away. What will you say?",
+      "answer": "I will say ‘that’."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Is ‘this’ used for near?",
+      "answer": "Yes, ‘this’ is used for near."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Is ‘that’ used for far?",
+      "answer": "Yes, ‘that’ is used for far."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which word comes first?",
+      "answer": "‘This’ comes first."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Are pictures used in this lesson?",
+      "answer": "Yes, pictures are used."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Is this lesson easy?",
+      "answer": "Yes, it is easy."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Is this lesson about one thing?",
+      "answer": "Yes, it is about one thing."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Is this lesson about ‘this’ and ‘that’?",
+      "answer": "Yes, it is about ‘this’ and ‘that’."
+    }
+  ]
+}

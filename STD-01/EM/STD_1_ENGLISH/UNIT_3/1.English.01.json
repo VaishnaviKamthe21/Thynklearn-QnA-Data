@@ -1,0 +1,192 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.01",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Bow, Wow"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which animal says 'Bow, wow'?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": true },
+        { "option_id": 2, "text": "Cat", "is_correct": false },
+        { "option_id": 3, "text": "Duck", "is_correct": false },
+        { "option_id": 4, "text": "Crow", "is_correct": false }
+      ],
+      "answer": "Dog"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which animal says 'Meow, meow'?",
+      "options": [
+        { "option_id": 1, "text": "Cat", "is_correct": true },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Hog", "is_correct": false },
+        { "option_id": 4, "text": "Owl", "is_correct": false }
+      ],
+      "answer": "Cat"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which animal makes the sound 'Grunt, grunt'?",
+      "options": [
+        { "option_id": 1, "text": "Hog", "is_correct": true },
+        { "option_id": 2, "text": "Rat", "is_correct": false },
+        { "option_id": 3, "text": "Duck", "is_correct": false },
+        { "option_id": 4, "text": "Crow", "is_correct": false }
+      ],
+      "answer": "Hog"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which animal says 'Squeak'?",
+      "options": [
+        { "option_id": 1, "text": "Rat", "is_correct": true },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Duck", "is_correct": false }
+      ],
+      "answer": "Rat"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which animal says 'Tu-whoo'?",
+      "options": [
+        { "option_id": 1, "text": "Owl", "is_correct": true },
+        { "option_id": 2, "text": "Crow", "is_correct": false },
+        { "option_id": 3, "text": "Duck", "is_correct": false },
+        { "option_id": 4, "text": "Rat", "is_correct": false }
+      ],
+      "answer": "Owl"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which animal says 'Cau, cau'?",
+      "options": [
+        { "option_id": 1, "text": "Crow", "is_correct": true },
+        { "option_id": 2, "text": "Owl", "is_correct": false },
+        { "option_id": 3, "text": "Duck", "is_correct": false },
+        { "option_id": 4, "text": "Cat", "is_correct": false }
+      ],
+      "answer": "Crow"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which animal says 'Quack, quack'?",
+      "options": [
+        { "option_id": 1, "text": "Duck", "is_correct": true },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Hog", "is_correct": false }
+      ],
+      "answer": "Duck"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What type of lesson is 'Bow, Wow'?",
+      "options": [
+        { "option_id": 1, "text": "Poem", "is_correct": true },
+        { "option_id": 2, "text": "Story", "is_correct": false },
+        { "option_id": 3, "text": "Letter writing", "is_correct": false },
+        { "option_id": 4, "text": "Grammar", "is_correct": false }
+      ],
+      "answer": "Poem"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the poem mainly about?",
+      "options": [
+        { "option_id": 1, "text": "Animal sounds", "is_correct": true },
+        { "option_id": 2, "text": "Animal food", "is_correct": false },
+        { "option_id": 3, "text": "Animal homes", "is_correct": false },
+        { "option_id": 4, "text": "Animal colors", "is_correct": false }
+      ],
+      "answer": "Animal sounds"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which animal is NOT mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": true },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Duck", "is_correct": false }
+      ],
+      "answer": "Cow"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Which animal says bow, wow?",
+      "answer": "A dog says bow, wow."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What sound does a cat make?",
+      "answer": "A cat makes the sound meow."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Which animal makes a squeak sound?",
+      "answer": "A rat makes a squeak sound."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What sound does a duck make?",
+      "answer": "A duck makes the sound quack."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which animal says tu-whoo?",
+      "answer": "An owl says tu-whoo."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What sound does a crow make?",
+      "answer": "A crow makes the sound cau, cau."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Is Bow, Wow a poem or a story?",
+      "answer": "Bow, Wow is a poem."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What do we learn from this poem?",
+      "answer": "We learn the sounds of animals."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Name one animal from the poem.",
+      "answer": "Dog is one animal from the poem."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Do animals make different sounds?",
+      "answer": "Yes, animals make different sounds."
+    }
+  ]
+}

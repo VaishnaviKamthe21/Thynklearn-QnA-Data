@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.05",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Let’s Learn Alphabet"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which letter comes first in the alphabet?",
+      "options": [
+        { "option_id": 1, "text": "A", "is_correct": true },
+        { "option_id": 2, "text": "B", "is_correct": false },
+        { "option_id": 3, "text": "C", "is_correct": false },
+        { "option_id": 4, "text": "D", "is_correct": false }
+      ],
+      "answer": "A"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which letter comes after A?",
+      "options": [
+        { "option_id": 1, "text": "B", "is_correct": true },
+        { "option_id": 2, "text": "C", "is_correct": false },
+        { "option_id": 3, "text": "D", "is_correct": false },
+        { "option_id": 4, "text": "Z", "is_correct": false }
+      ],
+      "answer": "B"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these is a small letter?",
+      "options": [
+        { "option_id": 1, "text": "a", "is_correct": true },
+        { "option_id": 2, "text": "A", "is_correct": false },
+        { "option_id": 3, "text": "B", "is_correct": false },
+        { "option_id": 4, "text": "C", "is_correct": false }
+      ],
+      "answer": "a"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which of these is a capital letter?",
+      "options": [
+        { "option_id": 1, "text": "B", "is_correct": true },
+        { "option_id": 2, "text": "b", "is_correct": false },
+        { "option_id": 3, "text": "c", "is_correct": false },
+        { "option_id": 4, "text": "d", "is_correct": false }
+      ],
+      "answer": "B"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word starts with the letter C?",
+      "options": [
+        { "option_id": 1, "text": "Cat", "is_correct": true },
+        { "option_id": 2, "text": "Bat", "is_correct": false },
+        { "option_id": 3, "text": "Hen", "is_correct": false },
+        { "option_id": 4, "text": "Dog", "is_correct": false }
+      ],
+      "answer": "Cat"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which letter comes before D?",
+      "options": [
+        { "option_id": 1, "text": "C", "is_correct": true },
+        { "option_id": 2, "text": "B", "is_correct": false },
+        { "option_id": 3, "text": "E", "is_correct": false },
+        { "option_id": 4, "text": "F", "is_correct": false }
+      ],
+      "answer": "C"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which letter comes after F?",
+      "options": [
+        { "option_id": 1, "text": "G", "is_correct": true },
+        { "option_id": 2, "text": "H", "is_correct": false },
+        { "option_id": 3, "text": "E", "is_correct": false },
+        { "option_id": 4, "text": "D", "is_correct": false }
+      ],
+      "answer": "G"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which letter matches the sound in 'bat'?",
+      "options": [
+        { "option_id": 1, "text": "B", "is_correct": true },
+        { "option_id": 2, "text": "C", "is_correct": false },
+        { "option_id": 3, "text": "D", "is_correct": false },
+        { "option_id": 4, "text": "H", "is_correct": false }
+      ],
+      "answer": "B"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which letter is used to start names?",
+      "options": [
+        { "option_id": 1, "text": "Capital letter", "is_correct": true },
+        { "option_id": 2, "text": "Small letter", "is_correct": false },
+        { "option_id": 3, "text": "Number", "is_correct": false },
+        { "option_id": 4, "text": "Symbol", "is_correct": false }
+      ],
+      "answer": "Capital letter"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How many letters are there in the English alphabet?",
+      "options": [
+        { "option_id": 1, "text": "26", "is_correct": true },
+        { "option_id": 2, "text": "20", "is_correct": false },
+        { "option_id": 3, "text": "24", "is_correct": false },
+        { "option_id": 4, "text": "30", "is_correct": false }
+      ],
+      "answer": "26"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which letter comes before A?",
+      "options": [
+        { "option_id": 1, "text": "None", "is_correct": true },
+        { "option_id": 2, "text": "Z", "is_correct": false },
+        { "option_id": 3, "text": "B", "is_correct": false },
+        { "option_id": 4, "text": "C", "is_correct": false }
+      ],
+      "answer": "None"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which letter is written like a circle?",
+      "options": [
+        { "option_id": 1, "text": "O", "is_correct": true },
+        { "option_id": 2, "text": "L", "is_correct": false },
+        { "option_id": 3, "text": "T", "is_correct": false },
+        { "option_id": 4, "text": "I", "is_correct": false }
+      ],
+      "answer": "O"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which letter comes between B and D?",
+      "options": [
+        { "option_id": 1, "text": "C", "is_correct": true },
+        { "option_id": 2, "text": "A", "is_correct": false },
+        { "option_id": 3, "text": "E", "is_correct": false },
+        { "option_id": 4, "text": "F", "is_correct": false }
+      ],
+      "answer": "C"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which letter starts the word 'dog'?",
+      "options": [
+        { "option_id": 1, "text": "D", "is_correct": true },
+        { "option_id": 2, "text": "G", "is_correct": false },
+        { "option_id": 3, "text": "O", "is_correct": false },
+        { "option_id": 4, "text": "B", "is_correct": false }
+      ],
+      "answer": "D"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which letter is written as a small letter?",
+      "options": [
+        { "option_id": 1, "text": "m", "is_correct": true },
+        { "option_id": 2, "text": "M", "is_correct": false },
+        { "option_id": 3, "text": "N", "is_correct": false },
+        { "option_id": 4, "text": "K", "is_correct": false }
+      ],
+      "answer": "m"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is the first letter of the alphabet?",
+      "answer": "A is the first letter of the alphabet."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How many letters are there in the alphabet?",
+      "answer": "There are 26 letters in the alphabet."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is a small letter?",
+      "answer": "A small letter is used to write words."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is a capital letter?",
+      "answer": "A capital letter is used at the start of names."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which letter comes after C?",
+      "answer": "D comes after C."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which letter comes before B?",
+      "answer": "A comes before B."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Write one word that starts with B.",
+      "answer": "Bat starts with the letter B."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Which letter starts your name?",
+      "answer": "My name starts with a capital letter."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Which letter looks like a circle?",
+      "answer": "The letter O looks like a circle."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which letter comes between D and F?",
+      "answer": "E comes between D and F."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Why do we learn the alphabet?",
+      "answer": "We learn the alphabet to read and write."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Write one small letter.",
+      "answer": "a is a small letter."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Write one capital letter.",
+      "answer": "A is a capital letter."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Which letter comes last in the alphabet?",
+      "answer": "Z comes last in the alphabet."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Is alphabet learning important?",
+      "answer": "Yes, alphabet learning is important."
+    }
+  ]
+}

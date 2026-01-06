@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.01",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Sun"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poem about?",
+      "options": [
+        { "option_id": 1, "text": "The Sun", "is_correct": true },
+        { "option_id": 2, "text": "The Moon", "is_correct": false },
+        { "option_id": 3, "text": "The Star", "is_correct": false },
+        { "option_id": 4, "text": "The Sky", "is_correct": false }
+      ],
+      "answer": "The Sun"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where is the Sun?",
+      "options": [
+        { "option_id": 1, "text": "In the sky", "is_correct": true },
+        { "option_id": 2, "text": "In the water", "is_correct": false },
+        { "option_id": 3, "text": "On the ground", "is_correct": false },
+        { "option_id": 4, "text": "In the house", "is_correct": false }
+      ],
+      "answer": "In the sky"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the Sun doing in the sky?",
+      "options": [
+        { "option_id": 1, "text": "Shining", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping", "is_correct": false },
+        { "option_id": 3, "text": "Crying", "is_correct": false },
+        { "option_id": 4, "text": "Falling", "is_correct": false }
+      ],
+      "answer": "Shining"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How does the Sun shine?",
+      "options": [
+        { "option_id": 1, "text": "In a pleasant way", "is_correct": true },
+        { "option_id": 2, "text": "In a sad way", "is_correct": false },
+        { "option_id": 3, "text": "In a dark way", "is_correct": false },
+        { "option_id": 4, "text": "In a slow way", "is_correct": false }
+      ],
+      "answer": "In a pleasant way"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What did the poet feel?",
+      "options": [
+        { "option_id": 1, "text": "Glad", "is_correct": true },
+        { "option_id": 2, "text": "Angry", "is_correct": false },
+        { "option_id": 3, "text": "Afraid", "is_correct": false },
+        { "option_id": 4, "text": "Tired", "is_correct": false }
+      ],
+      "answer": "Glad"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What did the poet say to the Sun?",
+      "options": [
+        { "option_id": 1, "text": "I’m happy", "is_correct": true },
+        { "option_id": 2, "text": "I’m sad", "is_correct": false },
+        { "option_id": 3, "text": "Go away", "is_correct": false },
+        { "option_id": 4, "text": "Be quiet", "is_correct": false }
+      ],
+      "answer": "I’m happy"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where was the poet walking?",
+      "options": [
+        { "option_id": 1, "text": "On the hill", "is_correct": true },
+        { "option_id": 2, "text": "On the road", "is_correct": false },
+        { "option_id": 3, "text": "In the forest", "is_correct": false },
+        { "option_id": 4, "text": "In the house", "is_correct": false }
+      ],
+      "answer": "On the hill"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with ‘why’?",
+      "options": [
+        { "option_id": 1, "text": "sky", "is_correct": true },
+        { "option_id": 2, "text": "sun", "is_correct": false },
+        { "option_id": 3, "text": "head", "is_correct": false },
+        { "option_id": 4, "text": "glad", "is_correct": false }
+      ],
+      "answer": "sky"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with ‘glad’?",
+      "options": [
+        { "option_id": 1, "text": "had", "is_correct": true },
+        { "option_id": 2, "text": "fun", "is_correct": false },
+        { "option_id": 3, "text": "sky", "is_correct": false },
+        { "option_id": 4, "text": "sun", "is_correct": false }
+      ],
+      "answer": "had"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with ‘fun’?",
+      "options": [
+        { "option_id": 1, "text": "Sun", "is_correct": true },
+        { "option_id": 2, "text": "Head", "is_correct": false },
+        { "option_id": 3, "text": "Glad", "is_correct": false },
+        { "option_id": 4, "text": "Why", "is_correct": false }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with ‘head’?",
+      "options": [
+        { "option_id": 1, "text": "said", "is_correct": true },
+        { "option_id": 2, "text": "sun", "is_correct": false },
+        { "option_id": 3, "text": "why", "is_correct": false },
+        { "option_id": 4, "text": "sky", "is_correct": false }
+      ],
+      "answer": "said"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The Sun is ______ in the sky.",
+      "options": [
+        { "option_id": 1, "text": "shining", "is_correct": true },
+        { "option_id": 2, "text": "singing", "is_correct": false },
+        { "option_id": 3, "text": "climbing", "is_correct": false },
+        { "option_id": 4, "text": "eating", "is_correct": false }
+      ],
+      "answer": "shining"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Raj is ______ a ladder.",
+      "options": [
+        { "option_id": 1, "text": "climbing", "is_correct": true },
+        { "option_id": 2, "text": "eating", "is_correct": false },
+        { "option_id": 3, "text": "singing", "is_correct": false },
+        { "option_id": 4, "text": "shining", "is_correct": false }
+      ],
+      "answer": "climbing"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "John is ______ a song.",
+      "options": [
+        { "option_id": 1, "text": "singing", "is_correct": true },
+        { "option_id": 2, "text": "eating", "is_correct": false },
+        { "option_id": 3, "text": "climbing", "is_correct": false },
+        { "option_id": 4, "text": "shining", "is_correct": false }
+      ],
+      "answer": "singing"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Jenny is ______ a banana.",
+      "options": [
+        { "option_id": 1, "text": "eating", "is_correct": true },
+        { "option_id": 2, "text": "singing", "is_correct": false },
+        { "option_id": 3, "text": "climbing", "is_correct": false },
+        { "option_id": 4, "text": "shining", "is_correct": false }
+      ],
+      "answer": "eating"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Where is the Sun?",
+      "answer": "The Sun is in the sky."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What is the Sun doing?",
+      "answer": "The Sun is shining."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "How did the poet feel?",
+      "answer": "The poet felt glad."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What did the poet say to the Sun?",
+      "answer": "He said, ‘I’m happy’."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Where was the poet walking?",
+      "answer": "The poet was walking on the hill."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Write one rhyming word for ‘why’.",
+      "answer": "Sky."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Write one rhyming word for ‘glad’.",
+      "answer": "Had."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Write one rhyming word for ‘fun’.",
+      "answer": "Sun."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Write one rhyming word for ‘head’.",
+      "answer": "Said."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "The Sun is ______ in the sky.",
+      "answer": "The Sun is shining in the sky."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Raj is ______ a ladder.",
+      "answer": "Raj is climbing a ladder."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "John is ______ a song.",
+      "answer": "John is singing a song."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Jenny is ______ a banana.",
+      "answer": "Jenny is eating a banana."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Is this lesson a poem?",
+      "answer": "Yes, it is a poem."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Is the poem about the Sun?",
+      "answer": "Yes, the poem is about the Sun."
+    }
+  ]
+}

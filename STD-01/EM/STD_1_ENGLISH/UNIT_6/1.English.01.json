@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.01",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Alphabet Song"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which letter ate an apple?",
+      "options": [
+        { "option_id": 1, "text": "a", "is_correct": true },
+        { "option_id": 2, "text": "b", "is_correct": false },
+        { "option_id": 3, "text": "c", "is_correct": false },
+        { "option_id": 4, "text": "d", "is_correct": false }
+      ],
+      "answer": "a"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which letter bounced a ball?",
+      "options": [
+        { "option_id": 1, "text": "b", "is_correct": true },
+        { "option_id": 2, "text": "c", "is_correct": false },
+        { "option_id": 3, "text": "d", "is_correct": false },
+        { "option_id": 4, "text": "e", "is_correct": false }
+      ],
+      "answer": "b"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which letter cut a carrot?",
+      "options": [
+        { "option_id": 1, "text": "c", "is_correct": true },
+        { "option_id": 2, "text": "b", "is_correct": false },
+        { "option_id": 3, "text": "d", "is_correct": false },
+        { "option_id": 4, "text": "e", "is_correct": false }
+      ],
+      "answer": "c"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which letter dressed a doll?",
+      "options": [
+        { "option_id": 1, "text": "d", "is_correct": true },
+        { "option_id": 2, "text": "c", "is_correct": false },
+        { "option_id": 3, "text": "e", "is_correct": false },
+        { "option_id": 4, "text": "f", "is_correct": false }
+      ],
+      "answer": "d"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which letter eats eggs?",
+      "options": [
+        { "option_id": 1, "text": "e", "is_correct": true },
+        { "option_id": 2, "text": "f", "is_correct": false },
+        { "option_id": 3, "text": "g", "is_correct": false },
+        { "option_id": 4, "text": "h", "is_correct": false }
+      ],
+      "answer": "e"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which letter falls flat?",
+      "options": [
+        { "option_id": 1, "text": "f", "is_correct": true },
+        { "option_id": 2, "text": "e", "is_correct": false },
+        { "option_id": 3, "text": "g", "is_correct": false },
+        { "option_id": 4, "text": "h", "is_correct": false }
+      ],
+      "answer": "f"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which letter grows grapes?",
+      "options": [
+        { "option_id": 1, "text": "g", "is_correct": true },
+        { "option_id": 2, "text": "h", "is_correct": false },
+        { "option_id": 3, "text": "f", "is_correct": false },
+        { "option_id": 4, "text": "e", "is_correct": false }
+      ],
+      "answer": "g"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which letter hangs a hat?",
+      "options": [
+        { "option_id": 1, "text": "h", "is_correct": true },
+        { "option_id": 2, "text": "g", "is_correct": false },
+        { "option_id": 3, "text": "i", "is_correct": false },
+        { "option_id": 4, "text": "j", "is_correct": false }
+      ],
+      "answer": "h"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which letter is on an island?",
+      "options": [
+        { "option_id": 1, "text": "i", "is_correct": true },
+        { "option_id": 2, "text": "j", "is_correct": false },
+        { "option_id": 3, "text": "k", "is_correct": false },
+        { "option_id": 4, "text": "l", "is_correct": false }
+      ],
+      "answer": "i"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which letter jumps and jogs?",
+      "options": [
+        { "option_id": 1, "text": "j", "is_correct": true },
+        { "option_id": 2, "text": "i", "is_correct": false },
+        { "option_id": 3, "text": "k", "is_correct": false },
+        { "option_id": 4, "text": "l", "is_correct": false }
+      ],
+      "answer": "j"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which letter keeps kittens?",
+      "options": [
+        { "option_id": 1, "text": "k", "is_correct": true },
+        { "option_id": 2, "text": "l", "is_correct": false },
+        { "option_id": 3, "text": "m", "is_correct": false },
+        { "option_id": 4, "text": "n", "is_correct": false }
+      ],
+      "answer": "k"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which letter lifts logs?",
+      "options": [
+        { "option_id": 1, "text": "l", "is_correct": true },
+        { "option_id": 2, "text": "k", "is_correct": false },
+        { "option_id": 3, "text": "m", "is_correct": false },
+        { "option_id": 4, "text": "n", "is_correct": false }
+      ],
+      "answer": "l"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which letter uses an umbrella?",
+      "options": [
+        { "option_id": 1, "text": "u", "is_correct": true },
+        { "option_id": 2, "text": "v", "is_correct": false },
+        { "option_id": 3, "text": "w", "is_correct": false },
+        { "option_id": 4, "text": "x", "is_correct": false }
+      ],
+      "answer": "u"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which letter washes windows?",
+      "options": [
+        { "option_id": 1, "text": "w", "is_correct": true },
+        { "option_id": 2, "text": "v", "is_correct": false },
+        { "option_id": 3, "text": "x", "is_correct": false },
+        { "option_id": 4, "text": "y", "is_correct": false }
+      ],
+      "answer": "w"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which letter says zig-zag-zoom?",
+      "options": [
+        { "option_id": 1, "text": "z", "is_correct": true },
+        { "option_id": 2, "text": "y", "is_correct": false },
+        { "option_id": 3, "text": "x", "is_correct": false },
+        { "option_id": 4, "text": "w", "is_correct": false }
+      ],
+      "answer": "z"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Which letter ate an apple?",
+      "answer": "The letter a ate an apple."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Which letter bounced a ball?",
+      "answer": "The letter b bounced a ball."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Which letter cut a carrot?",
+      "answer": "The letter c cut a carrot."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which letter dressed a doll?",
+      "answer": "The letter d dressed a doll."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which letter eats eggs?",
+      "answer": "The letter e eats eggs."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which letter falls flat?",
+      "answer": "The letter f falls flat."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Which letter grows grapes?",
+      "answer": "The letter g grows grapes."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Which letter hangs a hat?",
+      "answer": "The letter h hangs a hat."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Which letter is on an island?",
+      "answer": "The letter i is on an island."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which letter jumps and jogs?",
+      "answer": "The letter j jumps and jogs."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which letter keeps kittens?",
+      "answer": "The letter k keeps kittens."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Which letter lifts logs?",
+      "answer": "The letter l lifts logs."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Which letter uses an umbrella?",
+      "answer": "The letter u uses an umbrella."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Which letter washes windows?",
+      "answer": "The letter w washes windows."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Which letter says zig-zag-zoom?",
+      "answer": "The letter z says zig-zag-zoom."
+    }
+  ]
+}
+

@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.04",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Crossword"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word is shown in picture number 1?",
+      "options": [
+        { "option_id": 1, "text": "Tree", "is_correct": true },
+        { "option_id": 2, "text": "Rose", "is_correct": false },
+        { "option_id": 3, "text": "Crow", "is_correct": false },
+        { "option_id": 4, "text": "Flower", "is_correct": false }
+      ],
+      "answer": "Tree"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word matches picture number 2?",
+      "options": [
+        { "option_id": 1, "text": "Rose", "is_correct": true },
+        { "option_id": 2, "text": "Tree", "is_correct": false },
+        { "option_id": 3, "text": "Mango", "is_correct": false },
+        { "option_id": 4, "text": "Moon", "is_correct": false }
+      ],
+      "answer": "Rose"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is shown in picture number 3?",
+      "options": [
+        { "option_id": 1, "text": "Crow", "is_correct": true },
+        { "option_id": 2, "text": "Car", "is_correct": false },
+        { "option_id": 3, "text": "Boat", "is_correct": false },
+        { "option_id": 4, "text": "Flower", "is_correct": false }
+      ],
+      "answer": "Crow"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which picture shows a flower?",
+      "options": [
+        { "option_id": 1, "text": "Picture 4", "is_correct": true },
+        { "option_id": 2, "text": "Picture 6", "is_correct": false },
+        { "option_id": 3, "text": "Picture 7", "is_correct": false },
+        { "option_id": 4, "text": "Picture 9", "is_correct": false }
+      ],
+      "answer": "Picture 4"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word is shown in picture number 5?",
+      "options": [
+        { "option_id": 1, "text": "Rainbow", "is_correct": true },
+        { "option_id": 2, "text": "Moon", "is_correct": false },
+        { "option_id": 3, "text": "Boat", "is_correct": false },
+        { "option_id": 4, "text": "Car", "is_correct": false }
+      ],
+      "answer": "Rainbow"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is shown in picture number 6?",
+      "options": [
+        { "option_id": 1, "text": "Moon", "is_correct": true },
+        { "option_id": 2, "text": "Mango", "is_correct": false },
+        { "option_id": 3, "text": "Rose", "is_correct": false },
+        { "option_id": 4, "text": "Tree", "is_correct": false }
+      ],
+      "answer": "Moon"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word matches picture number 7?",
+      "options": [
+        { "option_id": 1, "text": "Mango", "is_correct": true },
+        { "option_id": 2, "text": "Boat", "is_correct": false },
+        { "option_id": 3, "text": "Car", "is_correct": false },
+        { "option_id": 4, "text": "Crow", "is_correct": false }
+      ],
+      "answer": "Mango"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which picture shows a boat?",
+      "options": [
+        { "option_id": 1, "text": "Picture 8", "is_correct": true },
+        { "option_id": 2, "text": "Picture 3", "is_correct": false },
+        { "option_id": 3, "text": "Picture 5", "is_correct": false },
+        { "option_id": 4, "text": "Picture 7", "is_correct": false }
+      ],
+      "answer": "Picture 8"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is shown in picture number 9?",
+      "options": [
+        { "option_id": 1, "text": "Car", "is_correct": true },
+        { "option_id": 2, "text": "Boat", "is_correct": false },
+        { "option_id": 3, "text": "Moon", "is_correct": false },
+        { "option_id": 4, "text": "Rainbow", "is_correct": false }
+      ],
+      "answer": "Car"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word starts with letter 'M'?",
+      "options": [
+        { "option_id": 1, "text": "Mango", "is_correct": true },
+        { "option_id": 2, "text": "Rose", "is_correct": false },
+        { "option_id": 3, "text": "Tree", "is_correct": false },
+        { "option_id": 4, "text": "Boat", "is_correct": false }
+      ],
+      "answer": "Mango"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word is a bird?",
+      "options": [
+        { "option_id": 1, "text": "Crow", "is_correct": true },
+        { "option_id": 2, "text": "Car", "is_correct": false },
+        { "option_id": 3, "text": "Boat", "is_correct": false },
+        { "option_id": 4, "text": "Tree", "is_correct": false }
+      ],
+      "answer": "Crow"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word is a fruit?",
+      "options": [
+        { "option_id": 1, "text": "Mango", "is_correct": true },
+        { "option_id": 2, "text": "Moon", "is_correct": false },
+        { "option_id": 3, "text": "Boat", "is_correct": false },
+        { "option_id": 4, "text": "Car", "is_correct": false }
+      ],
+      "answer": "Mango"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word is a vehicle?",
+      "options": [
+        { "option_id": 1, "text": "Car", "is_correct": true },
+        { "option_id": 2, "text": "Crow", "is_correct": false },
+        { "option_id": 3, "text": "Rose", "is_correct": false },
+        { "option_id": 4, "text": "Tree", "is_correct": false }
+      ],
+      "answer": "Car"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word is seen in the sky?",
+      "options": [
+        { "option_id": 1, "text": "Rainbow", "is_correct": true },
+        { "option_id": 2, "text": "Boat", "is_correct": false },
+        { "option_id": 3, "text": "Tree", "is_correct": false },
+        { "option_id": 4, "text": "Mango", "is_correct": false }
+      ],
+      "answer": "Rainbow"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which word is a flower?",
+      "options": [
+        { "option_id": 1, "text": "Rose", "is_correct": true },
+        { "option_id": 2, "text": "Moon", "is_correct": false },
+        { "option_id": 3, "text": "Car", "is_correct": false },
+        { "option_id": 4, "text": "Crow", "is_correct": false }
+      ],
+      "answer": "Rose"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Write the word for picture number 1.",
+      "answer": "Tree."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Write the word for picture number 2.",
+      "answer": "Rose."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Write the word for picture number 3.",
+      "answer": "Crow."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Write the word for picture number 4.",
+      "answer": "Flower."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Write the word for picture number 5.",
+      "answer": "Rainbow."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Write the word for picture number 6.",
+      "answer": "Moon."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Write the word for picture number 7.",
+      "answer": "Mango."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Write the word for picture number 8.",
+      "answer": "Boat."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Write the word for picture number 9.",
+      "answer": "Car."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Write one word that is a bird.",
+      "answer": "Crow."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Write one word that is a fruit.",
+      "answer": "Mango."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Write one word that is a flower.",
+      "answer": "Rose."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Write one word that is a vehicle.",
+      "answer": "Car."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Write one word seen in the sky.",
+      "answer": "Rainbow."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Write one word that comes from the crossword.",
+      "answer": "Tree."
+    }
+  ]
+}

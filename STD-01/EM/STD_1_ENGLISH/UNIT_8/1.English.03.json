@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.03",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "It’s a Funny World"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where are the fish shown in the picture?",
+      "options": [
+        { "option_id": 1, "text": "Hanging from trees", "is_correct": true },
+        { "option_id": 2, "text": "In the water", "is_correct": false },
+        { "option_id": 3, "text": "On the road", "is_correct": false },
+        { "option_id": 4, "text": "In the house", "is_correct": false }
+      ],
+      "answer": "Hanging from trees"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where is the boat shown?",
+      "options": [
+        { "option_id": 1, "text": "On land", "is_correct": true },
+        { "option_id": 2, "text": "In the river", "is_correct": false },
+        { "option_id": 3, "text": "In the sea", "is_correct": false },
+        { "option_id": 4, "text": "In the pond", "is_correct": false }
+      ],
+      "answer": "On land"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where is the car shown?",
+      "options": [
+        { "option_id": 1, "text": "In the water", "is_correct": true },
+        { "option_id": 2, "text": "On the road", "is_correct": false },
+        { "option_id": 3, "text": "In the garage", "is_correct": false },
+        { "option_id": 4, "text": "In the house", "is_correct": false }
+      ],
+      "answer": "In the water"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where is the train running?",
+      "options": [
+        { "option_id": 1, "text": "On the road", "is_correct": true },
+        { "option_id": 2, "text": "On railway tracks", "is_correct": false },
+        { "option_id": 3, "text": "In the water", "is_correct": false },
+        { "option_id": 4, "text": "In the sky", "is_correct": false }
+      ],
+      "answer": "On the road"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is flying in the sky?",
+      "options": [
+        { "option_id": 1, "text": "Apples", "is_correct": true },
+        { "option_id": 2, "text": "Birds", "is_correct": false },
+        { "option_id": 3, "text": "Kites", "is_correct": false },
+        { "option_id": 4, "text": "Planes", "is_correct": false }
+      ],
+      "answer": "Apples"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where is the road shown?",
+      "options": [
+        { "option_id": 1, "text": "In the water", "is_correct": true },
+        { "option_id": 2, "text": "On land", "is_correct": false },
+        { "option_id": 3, "text": "In the sky", "is_correct": false },
+        { "option_id": 4, "text": "In the house", "is_correct": false }
+      ],
+      "answer": "In the water"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Are these things normal?",
+      "options": [
+        { "option_id": 1, "text": "No", "is_correct": true },
+        { "option_id": 2, "text": "Yes", "is_correct": false },
+        { "option_id": 3, "text": "Sometimes", "is_correct": false },
+        { "option_id": 4, "text": "Always", "is_correct": false }
+      ],
+      "answer": "No"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What kind of world is shown?",
+      "options": [
+        { "option_id": 1, "text": "A funny world", "is_correct": true },
+        { "option_id": 2, "text": "A real world", "is_correct": false },
+        { "option_id": 3, "text": "A sad world", "is_correct": false },
+        { "option_id": 4, "text": "A quiet world", "is_correct": false }
+      ],
+      "answer": "A funny world"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where do fish live in our world?",
+      "options": [
+        { "option_id": 1, "text": "In water", "is_correct": true },
+        { "option_id": 2, "text": "On trees", "is_correct": false },
+        { "option_id": 3, "text": "On roads", "is_correct": false },
+        { "option_id": 4, "text": "In houses", "is_correct": false }
+      ],
+      "answer": "In water"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Where does a boat move in our world?",
+      "options": [
+        { "option_id": 1, "text": "In water", "is_correct": true },
+        { "option_id": 2, "text": "On land", "is_correct": false },
+        { "option_id": 3, "text": "In the sky", "is_correct": false },
+        { "option_id": 4, "text": "On trees", "is_correct": false }
+      ],
+      "answer": "In water"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Where does a car move in our world?",
+      "options": [
+        { "option_id": 1, "text": "On the road", "is_correct": true },
+        { "option_id": 2, "text": "In water", "is_correct": false },
+        { "option_id": 3, "text": "In the sky", "is_correct": false },
+        { "option_id": 4, "text": "On trees", "is_correct": false }
+      ],
+      "answer": "On the road"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where does a train run in our world?",
+      "options": [
+        { "option_id": 1, "text": "On railway tracks", "is_correct": true },
+        { "option_id": 2, "text": "On roads", "is_correct": false },
+        { "option_id": 3, "text": "In water", "is_correct": false },
+        { "option_id": 4, "text": "In the sky", "is_correct": false }
+      ],
+      "answer": "On railway tracks"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the first word in the word pyramid?",
+      "options": [
+        { "option_id": 1, "text": "Fish", "is_correct": true },
+        { "option_id": 2, "text": "Fishes", "is_correct": false },
+        { "option_id": 3, "text": "Five", "is_correct": false },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Fish"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How many fishes are shown in the pyramid?",
+      "options": [
+        { "option_id": 1, "text": "Five", "is_correct": true },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Two", "is_correct": false },
+        { "option_id": 4, "text": "Ten", "is_correct": false }
+      ],
+      "answer": "Five"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Where do the fishes live in the pyramid?",
+      "options": [
+        { "option_id": 1, "text": "In the water", "is_correct": true },
+        { "option_id": 2, "text": "On trees", "is_correct": false },
+        { "option_id": 3, "text": "On roads", "is_correct": false },
+        { "option_id": 4, "text": "In houses", "is_correct": false }
+      ],
+      "answer": "In the water"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Where are the fish shown in the picture?",
+      "answer": "The fish are hanging from trees."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Where is the boat shown?",
+      "answer": "The boat is shown on land."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Where is the car shown?",
+      "answer": "The car is shown in the water."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Where is the train running?",
+      "answer": "The train is running on the road."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is flying in the sky?",
+      "answer": "Apples are flying in the sky."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Where do fish live in our world?",
+      "answer": "Fish live in water."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Do fish hang from trees in our world?",
+      "answer": "No, fish do not hang from trees."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Where does a boat move in our world?",
+      "answer": "A boat moves in water."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Where does a car move in our world?",
+      "answer": "A car moves on the road."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Where does a train run in our world?",
+      "answer": "A train runs on railway tracks."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Write the first word of the pyramid.",
+      "answer": "Fish."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Write the second line of the pyramid.",
+      "answer": "Five fishes."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Write the third line of the pyramid.",
+      "answer": "Five fishes live."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Write the fourth line of the pyramid.",
+      "answer": "Five fishes live in the water."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Write the last line of the pyramid.",
+      "answer": "Five fat fishes live in the cold water."
+    }
+  ]
+}

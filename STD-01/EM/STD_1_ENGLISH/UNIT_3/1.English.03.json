@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.03",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Toto – The Hen"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is Toto?",
+      "options": [
+        { "option_id": 1, "text": "A hen", "is_correct": true },
+        { "option_id": 2, "text": "A dog", "is_correct": false },
+        { "option_id": 3, "text": "A cat", "is_correct": false },
+        { "option_id": 4, "text": "A cow", "is_correct": false }
+      ],
+      "answer": "A hen"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where does Toto live?",
+      "options": [
+        { "option_id": 1, "text": "In a coop", "is_correct": true },
+        { "option_id": 2, "text": "In a kennel", "is_correct": false },
+        { "option_id": 3, "text": "In a nest on a tree", "is_correct": false },
+        { "option_id": 4, "text": "In water", "is_correct": false }
+      ],
+      "answer": "In a coop"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What sound does Toto make?",
+      "options": [
+        { "option_id": 1, "text": "Cluck, cluck", "is_correct": true },
+        { "option_id": 2, "text": "Bow, wow", "is_correct": false },
+        { "option_id": 3, "text": "Meow, meow", "is_correct": false },
+        { "option_id": 4, "text": "Quack, quack", "is_correct": false }
+      ],
+      "answer": "Cluck, cluck"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does Toto lay?",
+      "options": [
+        { "option_id": 1, "text": "Eggs", "is_correct": true },
+        { "option_id": 2, "text": "Milk", "is_correct": false },
+        { "option_id": 3, "text": "Wool", "is_correct": false },
+        { "option_id": 4, "text": "Honey", "is_correct": false }
+      ],
+      "answer": "Eggs"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What colour are Toto’s eggs?",
+      "options": [
+        { "option_id": 1, "text": "White", "is_correct": true },
+        { "option_id": 2, "text": "Red", "is_correct": false },
+        { "option_id": 3, "text": "Green", "is_correct": false },
+        { "option_id": 4, "text": "Blue", "is_correct": false }
+      ],
+      "answer": "White"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does Toto eat?",
+      "options": [
+        { "option_id": 1, "text": "Grains", "is_correct": true },
+        { "option_id": 2, "text": "Meat", "is_correct": false },
+        { "option_id": 3, "text": "Leaves only", "is_correct": false },
+        { "option_id": 4, "text": "Fish", "is_correct": false }
+      ],
+      "answer": "Grains"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who takes care of Toto?",
+      "options": [
+        { "option_id": 1, "text": "The farmer", "is_correct": true },
+        { "option_id": 2, "text": "The lion", "is_correct": false },
+        { "option_id": 3, "text": "The cat", "is_correct": false },
+        { "option_id": 4, "text": "The frog", "is_correct": false }
+      ],
+      "answer": "The farmer"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does Toto do all day?",
+      "options": [
+        { "option_id": 1, "text": "Walks and pecks", "is_correct": true },
+        { "option_id": 2, "text": "Swims", "is_correct": false },
+        { "option_id": 3, "text": "Climbs trees", "is_correct": false },
+        { "option_id": 4, "text": "Sleeps only", "is_correct": false }
+      ],
+      "answer": "Walks and pecks"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What animal is Toto?",
+      "options": [
+        { "option_id": 1, "text": "Bird", "is_correct": true },
+        { "option_id": 2, "text": "Mammal", "is_correct": false },
+        { "option_id": 3, "text": "Fish", "is_correct": false },
+        { "option_id": 4, "text": "Reptile", "is_correct": false }
+      ],
+      "answer": "Bird"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which place is shown in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "Farm", "is_correct": true },
+        { "option_id": 2, "text": "Jungle", "is_correct": false },
+        { "option_id": 3, "text": "Sea", "is_correct": false },
+        { "option_id": 4, "text": "School", "is_correct": false }
+      ],
+      "answer": "Farm"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does Toto do after laying eggs?",
+      "options": [
+        { "option_id": 1, "text": "Sits on them", "is_correct": true },
+        { "option_id": 2, "text": "Throws them", "is_correct": false },
+        { "option_id": 3, "text": "Eats them", "is_correct": false },
+        { "option_id": 4, "text": "Hides them", "is_correct": false }
+      ],
+      "answer": "Sits on them"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why does Toto sit on the eggs?",
+      "options": [
+        { "option_id": 1, "text": "To hatch chicks", "is_correct": true },
+        { "option_id": 2, "text": "To play", "is_correct": false },
+        { "option_id": 3, "text": "To break them", "is_correct": false },
+        { "option_id": 4, "text": "To sell them", "is_correct": false }
+      ],
+      "answer": "To hatch chicks"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who comes out of the eggs?",
+      "options": [
+        { "option_id": 1, "text": "Chicks", "is_correct": true },
+        { "option_id": 2, "text": "Ducklings", "is_correct": false },
+        { "option_id": 3, "text": "Puppies", "is_correct": false },
+        { "option_id": 4, "text": "Calves", "is_correct": false }
+      ],
+      "answer": "Chicks"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does Toto teach us?",
+      "options": [
+        { "option_id": 1, "text": "Care and patience", "is_correct": true },
+        { "option_id": 2, "text": "Fighting", "is_correct": false },
+        { "option_id": 3, "text": "Running fast", "is_correct": false },
+        { "option_id": 4, "text": "Roaring", "is_correct": false }
+      ],
+      "answer": "Care and patience"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do we learn from this lesson?",
+      "options": [
+        { "option_id": 1, "text": "About a hen and her eggs", "is_correct": true },
+        { "option_id": 2, "text": "About wild animals", "is_correct": false },
+        { "option_id": 3, "text": "About colours", "is_correct": false },
+        { "option_id": 4, "text": "About numbers", "is_correct": false }
+      ],
+      "answer": "About a hen and her eggs"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Who is Toto?",
+      "answer": "Toto is a hen."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Where does Toto live?",
+      "answer": "Toto lives in a coop."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What sound does Toto make?",
+      "answer": "Toto makes the sound cluck, cluck."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What does Toto lay?",
+      "answer": "Toto lays eggs."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What colour are the eggs?",
+      "answer": "The eggs are white."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What does Toto eat?",
+      "answer": "Toto eats grains."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Who takes care of Toto?",
+      "answer": "A farmer takes care of Toto."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What comes out of the eggs?",
+      "answer": "Chicks come out of the eggs."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why does Toto sit on the eggs?",
+      "answer": "Toto sits on the eggs to hatch chicks."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Is Toto a bird?",
+      "answer": "Yes, Toto is a bird."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Where is the story set?",
+      "answer": "The story is set on a farm."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Does Toto care for her eggs?",
+      "answer": "Yes, Toto cares for her eggs."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What lesson does the story teach?",
+      "answer": "The story teaches care and patience."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Name the baby of a hen.",
+      "answer": "The baby of a hen is a chick."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What do we learn from this lesson?",
+      "answer": "We learn about a hen and her eggs."
+    }
+  ]
+}
