@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.01",
+    "standard": "1",
+    "subject": "Lets Play Do Learn",
+    "medium": "Marathi",
+    "chapter_name": "गिरगिटणे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "गिरगिटणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "सरळ रेषा काढणे", "is_correct": false },
+        { "option_id": 2, "text": "मनाप्रमाणे रेषा काढणे", "is_correct": true },
+        { "option_id": 3, "text": "चित्र रंगवणे", "is_correct": false },
+        { "option_id": 4, "text": "अक्षरे लिहिणे", "is_correct": false }
+      ],
+      "answer": "मनाप्रमाणे रेषा काढणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "गिरगिटताना कोणत्या हालचाली होतात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त हातांच्या", "is_correct": false },
+        { "option_id": 2, "text": "हात व डोळ्यांच्या", "is_correct": true },
+        { "option_id": 3, "text": "फक्त पायांच्या", "is_correct": false },
+        { "option_id": 4, "text": "फक्त डोक्याच्या", "is_correct": false }
+      ],
+      "answer": "हात व डोळ्यांच्या"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "गिरगिटताना चेहऱ्यावर काय दिसते?",
+      "options": [
+        { "option_id": 1, "text": "झोप", "is_correct": false },
+        { "option_id": 2, "text": "हावभाव", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "हावभाव"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "गिरगिटताना तोंडाने काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "बोलणे", "is_correct": false },
+        { "option_id": 2, "text": "गुणगुणणे", "is_correct": true },
+        { "option_id": 3, "text": "ओरडणे", "is_correct": false },
+        { "option_id": 4, "text": "हसणे", "is_correct": false }
+      ],
+      "answer": "गुणगुणणे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "गिरगिटण्यामुळे कोणत्या प्रकारच्या रेषा तयार होतात?",
+      "options": [
+        { "option_id": 1, "text": "तुटलेल्या", "is_correct": false },
+        { "option_id": 2, "text": "लयदार", "is_correct": true },
+        { "option_id": 3, "text": "फिकट", "is_correct": false },
+        { "option_id": 4, "text": "सरळ", "is_correct": false }
+      ],
+      "answer": "लयदार"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "गिरगिटलेल्या रेषांमध्ये काय करायला सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "खोडणे", "is_correct": false },
+        { "option_id": 2, "text": "रंग भरणे", "is_correct": true },
+        { "option_id": 3, "text": "फाडणे", "is_correct": false },
+        { "option_id": 4, "text": "मोजणे", "is_correct": false }
+      ],
+      "answer": "रंग भरणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गिरगिटताना रेषा कशा काढायच्या असतात?",
+      "options": [
+        { "option_id": 1, "text": "ठराविक", "is_correct": false },
+        { "option_id": 2, "text": "मनाप्रमाणे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त सरळ", "is_correct": false },
+        { "option_id": 4, "text": "फक्त वाकड्या", "is_correct": false }
+      ],
+      "answer": "मनाप्रमाणे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "गिरगिटणे कोणत्या कृतीत येते?",
+      "options": [
+        { "option_id": 1, "text": "माझी कृती", "is_correct": true },
+        { "option_id": 2, "text": "वाचन", "is_correct": false },
+        { "option_id": 3, "text": "लेखन", "is_correct": false },
+        { "option_id": 4, "text": "गणित", "is_correct": false }
+      ],
+      "answer": "माझी कृती"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "गिरगिटण्याचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "हात दुखण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "सुंदर रेषा तयार करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "वेळ घालवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "सुंदर रेषा तयार करण्यासाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "गिरगिटताना विद्यार्थी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त खडू", "is_correct": false },
+        { "option_id": 2, "text": "पेन्सिल किंवा रंग", "is_correct": true },
+        { "option_id": 3, "text": "कात्री", "is_correct": false },
+        { "option_id": 4, "text": "गोंद", "is_correct": false }
+      ],
+      "answer": "पेन्सिल किंवा रंग"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "गिरगिटणे करताना विद्यार्थ्यांनी कसे बसावे?",
+      "options": [
+        { "option_id": 1, "text": "घाईत", "is_correct": false },
+        { "option_id": 2, "text": "सावधपणे", "is_correct": true },
+        { "option_id": 3, "text": "धावत", "is_correct": false },
+        { "option_id": 4, "text": "उभे राहून", "is_correct": false }
+      ],
+      "answer": "सावधपणे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "गिरगिटण्यामुळे कोणते कौशल्य वाढते?",
+      "options": [
+        { "option_id": 1, "text": "धावण्याचे", "is_correct": false },
+        { "option_id": 2, "text": "हात-डोळा समन्वय", "is_correct": true },
+        { "option_id": 3, "text": "गाण्याचे", "is_correct": false },
+        { "option_id": 4, "text": "वाचनाचे", "is_correct": false }
+      ],
+      "answer": "हात-डोळा समन्वय"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "गिरगिटताना विद्यार्थी काय तयार करतात?",
+      "options": [
+        { "option_id": 1, "text": "शब्द", "is_correct": false },
+        { "option_id": 2, "text": "रेषांचे चित्र", "is_correct": true },
+        { "option_id": 3, "text": "संख्या", "is_correct": false },
+        { "option_id": 4, "text": "अक्षरे", "is_correct": false }
+      ],
+      "answer": "रेषांचे चित्र"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "गिरगिटण्यातील काही भागांना काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "कापतात", "is_correct": false },
+        { "option_id": 2, "text": "रंग देतात", "is_correct": true },
+        { "option_id": 3, "text": "पुसतात", "is_correct": false },
+        { "option_id": 4, "text": "फाडतात", "is_correct": false }
+      ],
+      "answer": "रंग देतात"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा उपक्रम कोणत्या वर्गासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "इयत्ता पहिली", "is_correct": true },
+        { "option_id": 2, "text": "इयत्ता पाचवी", "is_correct": false },
+        { "option_id": 3, "text": "इयत्ता सातवी", "is_correct": false },
+        { "option_id": 4, "text": "इयत्ता दहावी", "is_correct": false }
+      ],
+      "answer": "इयत्ता पहिली"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "गिरगिटणे म्हणजे काय?",
+      "answer": "मनाप्रमाणे रेषा काढण्याची कृती म्हणजे गिरगिटणे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "गिरगिटताना कोणत्या हालचाली होतात?",
+      "answer": "गिरगिटताना हात आणि डोळ्यांच्या हालचाली होतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "गिरगिटताना तोंडाने काय करतात?",
+      "answer": "गिरगिटताना तोंडाने गुणगुणतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "गिरगिटण्यामुळे कशाची निर्मिती होते?",
+      "answer": "गिरगिटण्यामुळे लयदार रेषांची निर्मिती होते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "गिरगिटलेल्या रेषांमध्ये काय करायला सांगतात?",
+      "answer": "गिरगिटलेल्या रेषांमध्ये काही भागांना रंग द्यायला सांगतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "गिरगिटताना रेषा कशा काढाव्यात?",
+      "answer": "रेषा मनाप्रमाणे काढाव्यात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "गिरगिटणे कोणत्या कृतीत येते?",
+      "answer": "गिरगिटणे ‘माझी कृती’ या भागात येते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "गिरगिटण्याचा उपयोग काय आहे?",
+      "answer": "सुंदर रेषा आणि चित्र काढण्यास मदत होते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "गिरगिटताना कोणती साधने वापरतात?",
+      "answer": "पेन्सिल आणि रंग वापरतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "गिरगिटण्यामुळे कोणते कौशल्य वाढते?",
+      "answer": "हात-डोळा समन्वय वाढतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "गिरगिटताना विद्यार्थी काय तयार करतात?",
+      "answer": "विद्यार्थी रेषांचे चित्र तयार करतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "गिरगिटताना कसे वागावे?",
+      "answer": "सावधपणे आणि शांतपणे वागावे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "गिरगिटण्यातील रेषांना रंग का देतात?",
+      "answer": "चित्र अधिक सुंदर दिसावे म्हणून रंग देतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "हा उपक्रम कोणत्या इयत्तेसाठी आहे?",
+      "answer": "हा उपक्रम इयत्ता पहिलीसाठी आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "गिरगिटणे विद्यार्थ्यांना कसे उपयुक्त आहे?",
+      "answer": "विद्यार्थ्यांची कल्पकता आणि हाताची सफाई वाढते."
+    }
+  ]
+}

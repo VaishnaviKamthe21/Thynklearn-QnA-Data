@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.04",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Traffic Signals"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What do traffic signals help us do?",
+      "options": [
+        { "option_id": 1, "text": "Control traffic", "is_correct": true },
+        { "option_id": 2, "text": "Play games", "is_correct": false },
+        { "option_id": 3, "text": "Read books", "is_correct": false },
+        { "option_id": 4, "text": "Sing songs", "is_correct": false }
+      ],
+      "answer": "Control traffic"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which colour tells us to stop?",
+      "options": [
+        { "option_id": 1, "text": "Red", "is_correct": true },
+        { "option_id": 2, "text": "Green", "is_correct": false },
+        { "option_id": 3, "text": "Yellow", "is_correct": false },
+        { "option_id": 4, "text": "Blue", "is_correct": false }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which colour tells us to go?",
+      "options": [
+        { "option_id": 1, "text": "Green", "is_correct": true },
+        { "option_id": 2, "text": "Red", "is_correct": false },
+        { "option_id": 3, "text": "Yellow", "is_correct": false },
+        { "option_id": 4, "text": "Black", "is_correct": false }
+      ],
+      "answer": "Green"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which colour tells us to wait?",
+      "options": [
+        { "option_id": 1, "text": "Yellow", "is_correct": true },
+        { "option_id": 2, "text": "Green", "is_correct": false },
+        { "option_id": 3, "text": "Red", "is_correct": false },
+        { "option_id": 4, "text": "White", "is_correct": false }
+      ],
+      "answer": "Yellow"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How many colours are there in traffic signals?",
+      "options": [
+        { "option_id": 1, "text": "Three", "is_correct": true },
+        { "option_id": 2, "text": "Two", "is_correct": false },
+        { "option_id": 3, "text": "Four", "is_correct": false },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where do we see traffic signals?",
+      "options": [
+        { "option_id": 1, "text": "On the road", "is_correct": true },
+        { "option_id": 2, "text": "In the classroom", "is_correct": false },
+        { "option_id": 3, "text": "In the park", "is_correct": false },
+        { "option_id": 4, "text": "At home", "is_correct": false }
+      ],
+      "answer": "On the road"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who follows traffic signals?",
+      "options": [
+        { "option_id": 1, "text": "Drivers and people", "is_correct": true },
+        { "option_id": 2, "text": "Only animals", "is_correct": false },
+        { "option_id": 3, "text": "Only children", "is_correct": false },
+        { "option_id": 4, "text": "Only teachers", "is_correct": false }
+      ],
+      "answer": "Drivers and people"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What should we do when the light is red?",
+      "options": [
+        { "option_id": 1, "text": "Stop", "is_correct": true },
+        { "option_id": 2, "text": "Go fast", "is_correct": false },
+        { "option_id": 3, "text": "Run", "is_correct": false },
+        { "option_id": 4, "text": "Jump", "is_correct": false }
+      ],
+      "answer": "Stop"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What should we do when the light is green?",
+      "options": [
+        { "option_id": 1, "text": "Go", "is_correct": true },
+        { "option_id": 2, "text": "Stop", "is_correct": false },
+        { "option_id": 3, "text": "Wait", "is_correct": false },
+        { "option_id": 4, "text": "Sit", "is_correct": false }
+      ],
+      "answer": "Go"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What should we do when the light is yellow?",
+      "options": [
+        { "option_id": 1, "text": "Wait", "is_correct": true },
+        { "option_id": 2, "text": "Run", "is_correct": false },
+        { "option_id": 3, "text": "Sleep", "is_correct": false },
+        { "option_id": 4, "text": "Play", "is_correct": false }
+      ],
+      "answer": "Wait"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why should we follow traffic signals?",
+      "options": [
+        { "option_id": 1, "text": "To stay safe", "is_correct": true },
+        { "option_id": 2, "text": "To play", "is_correct": false },
+        { "option_id": 3, "text": "To win races", "is_correct": false },
+        { "option_id": 4, "text": "To be late", "is_correct": false }
+      ],
+      "answer": "To stay safe"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which colour comes at the top of the signal?",
+      "options": [
+        { "option_id": 1, "text": "Red", "is_correct": true },
+        { "option_id": 2, "text": "Green", "is_correct": false },
+        { "option_id": 3, "text": "Yellow", "is_correct": false },
+        { "option_id": 4, "text": "Blue", "is_correct": false }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which colour is in the middle?",
+      "options": [
+        { "option_id": 1, "text": "Yellow", "is_correct": true },
+        { "option_id": 2, "text": "Red", "is_correct": false },
+        { "option_id": 3, "text": "Green", "is_correct": false },
+        { "option_id": 4, "text": "White", "is_correct": false }
+      ],
+      "answer": "Yellow"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which colour is at the bottom?",
+      "options": [
+        { "option_id": 1, "text": "Green", "is_correct": true },
+        { "option_id": 2, "text": "Red", "is_correct": false },
+        { "option_id": 3, "text": "Yellow", "is_correct": false },
+        { "option_id": 4, "text": "Black", "is_correct": false }
+      ],
+      "answer": "Green"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is this lesson teaching?",
+      "options": [
+        { "option_id": 1, "text": "Road safety", "is_correct": true },
+        { "option_id": 2, "text": "Poetry", "is_correct": false },
+        { "option_id": 3, "text": "Drawing", "is_correct": false },
+        { "option_id": 4, "text": "Counting", "is_correct": false }
+      ],
+      "answer": "Road safety"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What do traffic signals help us do?",
+      "answer": "They help control traffic."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Which colour tells us to stop?",
+      "answer": "Red tells us to stop."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Which colour tells us to go?",
+      "answer": "Green tells us to go."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which colour tells us to wait?",
+      "answer": "Yellow tells us to wait."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "How many colours are in traffic signals?",
+      "answer": "There are three colours."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Where do we see traffic signals?",
+      "answer": "We see them on the road."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Who should follow traffic signals?",
+      "answer": "Drivers and people should follow them."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why should we follow traffic rules?",
+      "answer": "To stay safe."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What should we do when the light is red?",
+      "answer": "We should stop."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What should we do when the light is green?",
+      "answer": "We should go."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What should we do when the light is yellow?",
+      "answer": "We should wait."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Which colour is on top of the signal?",
+      "answer": "Red is on top."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Which colour is in the middle?",
+      "answer": "Yellow is in the middle."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Which colour is at the bottom?",
+      "answer": "Green is at the bottom."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What does this lesson teach children?",
+      "answer": "It teaches road safety."
+    }
+  ]
+}

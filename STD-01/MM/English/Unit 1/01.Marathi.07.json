@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.07",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "My Name"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What do children say when someone asks their name?",
+      "options": [
+        { "option_id": 1, "text": "I am fine", "is_correct": false },
+        { "option_id": 2, "text": "My name is ___", "is_correct": true },
+        { "option_id": 3, "text": "Good morning", "is_correct": false },
+        { "option_id": 4, "text": "Thank you", "is_correct": false }
+      ],
+      "answer": "My name is ___"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which question is used to ask a name?",
+      "options": [
+        { "option_id": 1, "text": "How are you?", "is_correct": false },
+        { "option_id": 2, "text": "What is your name?", "is_correct": true },
+        { "option_id": 3, "text": "Where are you?", "is_correct": false },
+        { "option_id": 4, "text": "How old are you?", "is_correct": false }
+      ],
+      "answer": "What is your name?"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What word comes first in the sentence 'My name is Riya'?",
+      "options": [
+        { "option_id": 1, "text": "Name", "is_correct": false },
+        { "option_id": 2, "text": "Is", "is_correct": false },
+        { "option_id": 3, "text": "My", "is_correct": true },
+        { "option_id": 4, "text": "Riya", "is_correct": false }
+      ],
+      "answer": "My"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which word tells who you are?",
+      "options": [
+        { "option_id": 1, "text": "Bag", "is_correct": false },
+        { "option_id": 2, "text": "Name", "is_correct": true },
+        { "option_id": 3, "text": "Book", "is_correct": false },
+        { "option_id": 4, "text": "Pen", "is_correct": false }
+      ],
+      "answer": "Name"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What do children do in the 'My Name' activity?",
+      "options": [
+        { "option_id": 1, "text": "Write stories", "is_correct": false },
+        { "option_id": 2, "text": "Tell their names", "is_correct": true },
+        { "option_id": 3, "text": "Count numbers", "is_correct": false },
+        { "option_id": 4, "text": "Draw pictures", "is_correct": false }
+      ],
+      "answer": "Tell their names"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which sentence is correct to tell your name?",
+      "options": [
+        { "option_id": 1, "text": "Name my Riya", "is_correct": false },
+        { "option_id": 2, "text": "My name Riya", "is_correct": false },
+        { "option_id": 3, "text": "My name is Riya", "is_correct": true },
+        { "option_id": 4, "text": "Is my name Riya", "is_correct": false }
+      ],
+      "answer": "My name is Riya"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What word is used to talk about yourself?",
+      "options": [
+        { "option_id": 1, "text": "You", "is_correct": false },
+        { "option_id": 2, "text": "He", "is_correct": false },
+        { "option_id": 3, "text": "My", "is_correct": true },
+        { "option_id": 4, "text": "They", "is_correct": false }
+      ],
+      "answer": "My"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who tells their name in class?",
+      "options": [
+        { "option_id": 1, "text": "Only teacher", "is_correct": false },
+        { "option_id": 2, "text": "Children", "is_correct": true },
+        { "option_id": 3, "text": "Parents", "is_correct": false },
+        { "option_id": 4, "text": "Visitors", "is_correct": false }
+      ],
+      "answer": "Children"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What should we do when someone asks our name?",
+      "options": [
+        { "option_id": 1, "text": "Keep quiet", "is_correct": false },
+        { "option_id": 2, "text": "Run away", "is_correct": false },
+        { "option_id": 3, "text": "Reply politely", "is_correct": true },
+        { "option_id": 4, "text": "Laugh", "is_correct": false }
+      ],
+      "answer": "Reply politely"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word joins 'name' and 'Riya'?",
+      "options": [
+        { "option_id": 1, "text": "My", "is_correct": false },
+        { "option_id": 2, "text": "Is", "is_correct": true },
+        { "option_id": 3, "text": "The", "is_correct": false },
+        { "option_id": 4, "text": "And", "is_correct": false }
+      ],
+      "answer": "Is"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which sentence is used to introduce yourself?",
+      "options": [
+        { "option_id": 1, "text": "I like apples", "is_correct": false },
+        { "option_id": 2, "text": "My name is Aman", "is_correct": true },
+        { "option_id": 3, "text": "I am happy", "is_correct": false },
+        { "option_id": 4, "text": "Good night", "is_correct": false }
+      ],
+      "answer": "My name is Aman"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What do we learn in the 'My Name' lesson?",
+      "options": [
+        { "option_id": 1, "text": "To sing songs", "is_correct": false },
+        { "option_id": 2, "text": "To tell our names", "is_correct": true },
+        { "option_id": 3, "text": "To count numbers", "is_correct": false },
+        { "option_id": 4, "text": "To draw animals", "is_correct": false }
+      ],
+      "answer": "To tell our names"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word shows ownership in 'My name'?",
+      "options": [
+        { "option_id": 1, "text": "Name", "is_correct": false },
+        { "option_id": 2, "text": "My", "is_correct": true },
+        { "option_id": 3, "text": "Is", "is_correct": false },
+        { "option_id": 4, "text": "Riya", "is_correct": false }
+      ],
+      "answer": "My"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What should we do after telling our name?",
+      "options": [
+        { "option_id": 1, "text": "Shout", "is_correct": false },
+        { "option_id": 2, "text": "Be polite", "is_correct": true },
+        { "option_id": 3, "text": "Cry", "is_correct": false },
+        { "option_id": 4, "text": "Run", "is_correct": false }
+      ],
+      "answer": "Be polite"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which activity helps children learn names?",
+      "options": [
+        { "option_id": 1, "text": "Playing games", "is_correct": false },
+        { "option_id": 2, "text": "Asking and telling names", "is_correct": true },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Drawing", "is_correct": false }
+      ],
+      "answer": "Asking and telling names"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is your name?",
+      "answer": "My name is Riya."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Which sentence is used to tell your name?",
+      "answer": "We use the sentence 'My name is ___'."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why do we tell our names?",
+      "answer": "We tell our names to introduce ourselves."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What word comes first in 'My name is Amit'?",
+      "answer": "The word 'My' comes first."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Who tells their name in class?",
+      "answer": "Children tell their names in class."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How should we say our name?",
+      "answer": "We should say our name clearly and politely."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Which word shows ownership in 'My name'?",
+      "answer": "The word 'My' shows ownership."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What do we reply when someone asks our name?",
+      "answer": "We reply by telling our name."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Is telling your name a good habit?",
+      "answer": "Yes, it is a good habit."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What should we say after telling our name?",
+      "answer": "We should speak politely."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which word joins 'name' and a person?",
+      "answer": "The word 'is' joins them."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Can children learn names through games?",
+      "answer": "Yes, children can learn names through games."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is introduction?",
+      "answer": "Introduction is telling who you are."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why is learning names important?",
+      "answer": "It helps us talk and make friends."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is the correct way to answer your name?",
+      "answer": "The correct way is 'My name is ___'."
+    }
+  ]
+}

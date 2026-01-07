@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.02",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Action Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the lesson 'Action Time' about?",
+      "options": [
+        { "option_id": 1, "text": "Doing actions with words", "is_correct": true },
+        { "option_id": 2, "text": "Learning numbers", "is_correct": false },
+        { "option_id": 3, "text": "Reading a story", "is_correct": false },
+        { "option_id": 4, "text": "Drawing pictures", "is_correct": false }
+      ],
+      "answer": "Doing actions with words"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which action uses your legs?",
+      "options": [
+        { "option_id": 1, "text": "Run", "is_correct": true },
+        { "option_id": 2, "text": "Clap", "is_correct": false },
+        { "option_id": 3, "text": "Write", "is_correct": false },
+        { "option_id": 4, "text": "Read", "is_correct": false }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which action uses your hands?",
+      "options": [
+        { "option_id": 1, "text": "Clap", "is_correct": true },
+        { "option_id": 2, "text": "Jump", "is_correct": false },
+        { "option_id": 3, "text": "Walk", "is_correct": false },
+        { "option_id": 4, "text": "Sleep", "is_correct": false }
+      ],
+      "answer": "Clap"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which action uses your eyes?",
+      "options": [
+        { "option_id": 1, "text": "See", "is_correct": true },
+        { "option_id": 2, "text": "Eat", "is_correct": false },
+        { "option_id": 3, "text": "Kick", "is_correct": false },
+        { "option_id": 4, "text": "Sit", "is_correct": false }
+      ],
+      "answer": "See"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which action uses your mouth?",
+      "options": [
+        { "option_id": 1, "text": "Eat", "is_correct": true },
+        { "option_id": 2, "text": "Jump", "is_correct": false },
+        { "option_id": 3, "text": "Clap", "is_correct": false },
+        { "option_id": 4, "text": "Run", "is_correct": false }
+      ],
+      "answer": "Eat"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which action uses your ears?",
+      "options": [
+        { "option_id": 1, "text": "Hear", "is_correct": true },
+        { "option_id": 2, "text": "See", "is_correct": false },
+        { "option_id": 3, "text": "Write", "is_correct": false },
+        { "option_id": 4, "text": "Run", "is_correct": false }
+      ],
+      "answer": "Hear"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which action means to move your body up?",
+      "options": [
+        { "option_id": 1, "text": "Jump", "is_correct": true },
+        { "option_id": 2, "text": "Sit", "is_correct": false },
+        { "option_id": 3, "text": "Sleep", "is_correct": false },
+        { "option_id": 4, "text": "Read", "is_correct": false }
+      ],
+      "answer": "Jump"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which action means to move slowly?",
+      "options": [
+        { "option_id": 1, "text": "Walk", "is_correct": true },
+        { "option_id": 2, "text": "Run", "is_correct": false },
+        { "option_id": 3, "text": "Jump", "is_correct": false },
+        { "option_id": 4, "text": "Fly", "is_correct": false }
+      ],
+      "answer": "Walk"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which action do we do while tired?",
+      "options": [
+        { "option_id": 1, "text": "Sleep", "is_correct": true },
+        { "option_id": 2, "text": "Run", "is_correct": false },
+        { "option_id": 3, "text": "Jump", "is_correct": false },
+        { "option_id": 4, "text": "Clap", "is_correct": false }
+      ],
+      "answer": "Sleep"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which action uses a pencil?",
+      "options": [
+        { "option_id": 1, "text": "Write", "is_correct": true },
+        { "option_id": 2, "text": "Eat", "is_correct": false },
+        { "option_id": 3, "text": "Read", "is_correct": false },
+        { "option_id": 4, "text": "Clap", "is_correct": false }
+      ],
+      "answer": "Write"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which action means to use your voice?",
+      "options": [
+        { "option_id": 1, "text": "Speak", "is_correct": true },
+        { "option_id": 2, "text": "Sit", "is_correct": false },
+        { "option_id": 3, "text": "Sleep", "is_correct": false },
+        { "option_id": 4, "text": "Jump", "is_correct": false }
+      ],
+      "answer": "Speak"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which action uses your hands and feet together?",
+      "options": [
+        { "option_id": 1, "text": "Play", "is_correct": true },
+        { "option_id": 2, "text": "Read", "is_correct": false },
+        { "option_id": 3, "text": "Sleep", "is_correct": false },
+        { "option_id": 4, "text": "Listen", "is_correct": false }
+      ],
+      "answer": "Play"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which action is done in the classroom?",
+      "options": [
+        { "option_id": 1, "text": "Read", "is_correct": true },
+        { "option_id": 2, "text": "Swim", "is_correct": false },
+        { "option_id": 3, "text": "Fly", "is_correct": false },
+        { "option_id": 4, "text": "Drive", "is_correct": false }
+      ],
+      "answer": "Read"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which action helps you learn?",
+      "options": [
+        { "option_id": 1, "text": "Listen", "is_correct": true },
+        { "option_id": 2, "text": "Sleep", "is_correct": false },
+        { "option_id": 3, "text": "Run", "is_correct": false },
+        { "option_id": 4, "text": "Cry", "is_correct": false }
+      ],
+      "answer": "Listen"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do children do in this lesson?",
+      "options": [
+        { "option_id": 1, "text": "Act and learn words", "is_correct": true },
+        { "option_id": 2, "text": "Write stories", "is_correct": false },
+        { "option_id": 3, "text": "Solve sums", "is_correct": false },
+        { "option_id": 4, "text": "Draw pictures", "is_correct": false }
+      ],
+      "answer": "Act and learn words"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is the lesson 'Action Time' about?",
+      "answer": "It is about doing actions with words."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Name one action word.",
+      "answer": "Run."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Which action uses your hands?",
+      "answer": "Clap uses hands."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which action uses your legs?",
+      "answer": "Run uses legs."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which action uses your eyes?",
+      "answer": "See uses eyes."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which action uses your ears?",
+      "answer": "Hear uses ears."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Which action means to move up?",
+      "answer": "Jump means to move up."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Which action do we do when tired?",
+      "answer": "We sleep when tired."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Which action uses a pencil?",
+      "answer": "Write uses a pencil."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which action means to talk?",
+      "answer": "Speak means to talk."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which action helps us learn?",
+      "answer": "Listening helps us learn."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Do children act in this lesson?",
+      "answer": "Yes, children act in this lesson."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Is this lesson fun?",
+      "answer": "Yes, it is fun."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Is this lesson easy?",
+      "answer": "Yes, it is easy."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is this lesson important?",
+      "answer": "It helps children learn action words."
+    }
+  ]
+}

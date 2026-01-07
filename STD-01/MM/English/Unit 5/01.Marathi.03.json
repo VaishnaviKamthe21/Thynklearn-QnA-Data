@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.03",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "My Grandfather Had a Farm"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What type of lesson is 'My Grandfather Had a Farm'?",
+      "options": [
+        { "option_id": 1, "text": "A song", "is_correct": true },
+        { "option_id": 2, "text": "A letter", "is_correct": false },
+        { "option_id": 3, "text": "A poem", "is_correct": false },
+        { "option_id": 4, "text": "A dialogue", "is_correct": false }
+      ],
+      "answer": "A song"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who had a farm in the song?",
+      "options": [
+        { "option_id": 1, "text": "Grandfather", "is_correct": true },
+        { "option_id": 2, "text": "Father", "is_correct": false },
+        { "option_id": 3, "text": "Uncle", "is_correct": false },
+        { "option_id": 4, "text": "Brother", "is_correct": false }
+      ],
+      "answer": "Grandfather"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is found on the farm?",
+      "options": [
+        { "option_id": 1, "text": "Animals", "is_correct": true },
+        { "option_id": 2, "text": "Cars", "is_correct": false },
+        { "option_id": 3, "text": "Books", "is_correct": false },
+        { "option_id": 4, "text": "Toys", "is_correct": false }
+      ],
+      "answer": "Animals"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which animal says 'moo moo'?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": true },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Duck", "is_correct": false }
+      ],
+      "answer": "Cow"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which animal says 'bow bow'?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Hen", "is_correct": false },
+        { "option_id": 4, "text": "Goat", "is_correct": false }
+      ],
+      "answer": "Dog"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which animal says 'meow meow'?",
+      "options": [
+        { "option_id": 1, "text": "Cat", "is_correct": true },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Cow", "is_correct": false },
+        { "option_id": 4, "text": "Sheep", "is_correct": false }
+      ],
+      "answer": "Cat"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which animal says 'quack quack'?",
+      "options": [
+        { "option_id": 1, "text": "Duck", "is_correct": true },
+        { "option_id": 2, "text": "Hen", "is_correct": false },
+        { "option_id": 3, "text": "Goat", "is_correct": false },
+        { "option_id": 4, "text": "Pig", "is_correct": false }
+      ],
+      "answer": "Duck"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which animal says 'cluck cluck'?",
+      "options": [
+        { "option_id": 1, "text": "Hen", "is_correct": true },
+        { "option_id": 2, "text": "Duck", "is_correct": false },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Cat", "is_correct": false }
+      ],
+      "answer": "Hen"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which animal says 'baa baa'?",
+      "options": [
+        { "option_id": 1, "text": "Sheep", "is_correct": true },
+        { "option_id": 2, "text": "Cow", "is_correct": false },
+        { "option_id": 3, "text": "Goat", "is_correct": false },
+        { "option_id": 4, "text": "Pig", "is_correct": false }
+      ],
+      "answer": "Sheep"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which animal says 'oink oink'?",
+      "options": [
+        { "option_id": 1, "text": "Pig", "is_correct": true },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Cow", "is_correct": false },
+        { "option_id": 4, "text": "Hen", "is_correct": false }
+      ],
+      "answer": "Pig"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What do children do while singing this song?",
+      "options": [
+        { "option_id": 1, "text": "Make animal sounds", "is_correct": true },
+        { "option_id": 2, "text": "Write sentences", "is_correct": false },
+        { "option_id": 3, "text": "Read silently", "is_correct": false },
+        { "option_id": 4, "text": "Draw maps", "is_correct": false }
+      ],
+      "answer": "Make animal sounds"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where do all these animals live?",
+      "options": [
+        { "option_id": 1, "text": "On a farm", "is_correct": true },
+        { "option_id": 2, "text": "In a city", "is_correct": false },
+        { "option_id": 3, "text": "In a school", "is_correct": false },
+        { "option_id": 4, "text": "In a market", "is_correct": false }
+      ],
+      "answer": "On a farm"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which skill does this song help improve?",
+      "options": [
+        { "option_id": 1, "text": "Listening and speaking", "is_correct": true },
+        { "option_id": 2, "text": "Writing essays", "is_correct": false },
+        { "option_id": 3, "text": "Solving sums", "is_correct": false },
+        { "option_id": 4, "text": "Drawing pictures", "is_correct": false }
+      ],
+      "answer": "Listening and speaking"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Is this lesson fun for children?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Sometimes", "is_correct": false },
+        { "option_id": 4, "text": "Never", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the main aim of this lesson?",
+      "options": [
+        { "option_id": 1, "text": "To learn animal names and sounds", "is_correct": true },
+        { "option_id": 2, "text": "To learn numbers", "is_correct": false },
+        { "option_id": 3, "text": "To read a story", "is_correct": false },
+        { "option_id": 4, "text": "To write letters", "is_correct": false }
+      ],
+      "answer": "To learn animal names and sounds"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is the lesson 'My Grandfather Had a Farm' about?",
+      "answer": "It is about animals on a farm."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Who had a farm?",
+      "answer": "Grandfather had a farm."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Name one animal from the song.",
+      "answer": "Cow."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What sound does a cow make?",
+      "answer": "A cow says moo moo."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What sound does a dog make?",
+      "answer": "A dog says bow bow."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What sound does a cat make?",
+      "answer": "A cat says meow meow."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Where do these animals live?",
+      "answer": "They live on a farm."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Is this lesson a song?",
+      "answer": "Yes, it is a song."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Do children make animal sounds?",
+      "answer": "Yes, children make animal sounds."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Is this lesson enjoyable?",
+      "answer": "Yes, it is enjoyable."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What skill does this lesson improve?",
+      "answer": "It improves listening and speaking skills."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Name one bird from the farm.",
+      "answer": "Hen."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What sound does a duck make?",
+      "answer": "A duck says quack quack."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Do children learn new words here?",
+      "answer": "Yes, they learn new words."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is this lesson important?",
+      "answer": "It helps children learn animals and sounds."
+    }
+  ]
+}

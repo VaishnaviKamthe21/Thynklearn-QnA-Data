@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.01",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Who are you dear?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who teaches students in school?",
+      "options": [
+        { "option_id": 1, "text": "Teacher", "is_correct": true },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Driver", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Teacher"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who treats patients in a hospital?",
+      "options": [
+        { "option_id": 1, "text": "Doctor", "is_correct": true },
+        { "option_id": 2, "text": "Teacher", "is_correct": false },
+        { "option_id": 3, "text": "Soldier", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Doctor"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who drives the bus?",
+      "options": [
+        { "option_id": 1, "text": "Driver", "is_correct": true },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Driver"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who works on the farm?",
+      "options": [
+        { "option_id": 1, "text": "Farmer", "is_correct": true },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Driver", "is_correct": false }
+      ],
+      "answer": "Farmer"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who guards the nation?",
+      "options": [
+        { "option_id": 1, "text": "Soldier", "is_correct": true },
+        { "option_id": 2, "text": "Farmer", "is_correct": false },
+        { "option_id": 3, "text": "Driver", "is_correct": false },
+        { "option_id": 4, "text": "Teacher", "is_correct": false }
+      ],
+      "answer": "Soldier"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where does a teacher work?",
+      "options": [
+        { "option_id": 1, "text": "School", "is_correct": true },
+        { "option_id": 2, "text": "Hospital", "is_correct": false },
+        { "option_id": 3, "text": "Farm", "is_correct": false },
+        { "option_id": 4, "text": "Border", "is_correct": false }
+      ],
+      "answer": "School"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where does a doctor work?",
+      "options": [
+        { "option_id": 1, "text": "Hospital", "is_correct": true },
+        { "option_id": 2, "text": "School", "is_correct": false },
+        { "option_id": 3, "text": "Farm", "is_correct": false },
+        { "option_id": 4, "text": "Bus", "is_correct": false }
+      ],
+      "answer": "Hospital"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where does a farmer work?",
+      "options": [
+        { "option_id": 1, "text": "Farm", "is_correct": true },
+        { "option_id": 2, "text": "Hospital", "is_correct": false },
+        { "option_id": 3, "text": "School", "is_correct": false },
+        { "option_id": 4, "text": "Bus stop", "is_correct": false }
+      ],
+      "answer": "Farm"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where does a soldier stay?",
+      "options": [
+        { "option_id": 1, "text": "Border", "is_correct": true },
+        { "option_id": 2, "text": "Farm", "is_correct": false },
+        { "option_id": 3, "text": "School", "is_correct": false },
+        { "option_id": 4, "text": "Hospital", "is_correct": false }
+      ],
+      "answer": "Border"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What type of lesson is this?",
+      "options": [
+        { "option_id": 1, "text": "Action rhyme", "is_correct": true },
+        { "option_id": 2, "text": "Story", "is_correct": false },
+        { "option_id": 3, "text": "Letter writing", "is_correct": false },
+        { "option_id": 4, "text": "Grammar", "is_correct": false }
+      ],
+      "answer": "Action rhyme"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does a driver do?",
+      "options": [
+        { "option_id": 1, "text": "Drives a bus", "is_correct": true },
+        { "option_id": 2, "text": "Teaches students", "is_correct": false },
+        { "option_id": 3, "text": "Treats patients", "is_correct": false },
+        { "option_id": 4, "text": "Grows crops", "is_correct": false }
+      ],
+      "answer": "Drives a bus"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who grows crops?",
+      "options": [
+        { "option_id": 1, "text": "Farmer", "is_correct": true },
+        { "option_id": 2, "text": "Soldier", "is_correct": false },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Driver", "is_correct": false }
+      ],
+      "answer": "Farmer"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who fights for the nation?",
+      "options": [
+        { "option_id": 1, "text": "Soldier", "is_correct": true },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Soldier"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who teaches children?",
+      "options": [
+        { "option_id": 1, "text": "Teacher", "is_correct": true },
+        { "option_id": 2, "text": "Driver", "is_correct": false },
+        { "option_id": 3, "text": "Soldier", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Teacher"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do all these people have?",
+      "options": [
+        { "option_id": 1, "text": "Different jobs", "is_correct": true },
+        { "option_id": 2, "text": "Same job", "is_correct": false },
+        { "option_id": 3, "text": "No work", "is_correct": false },
+        { "option_id": 4, "text": "Only one place", "is_correct": false }
+      ],
+      "answer": "Different jobs"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Who teaches students?",
+      "answer": "A teacher teaches students."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Who treats patients?",
+      "answer": "A doctor treats patients."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Who drives a bus?",
+      "answer": "A driver drives a bus."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Who works on a farm?",
+      "answer": "A farmer works on a farm."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Who guards our country?",
+      "answer": "A soldier guards our country."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Where does a teacher work?",
+      "answer": "A teacher works in a school."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Where does a doctor work?",
+      "answer": "A doctor works in a hospital."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Where does a farmer work?",
+      "answer": "A farmer works on a farm."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Where does a soldier stay?",
+      "answer": "A soldier stays at the border."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "The lesson is about different jobs."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Is this a poem?",
+      "answer": "Yes, it is an action rhyme."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Who helps sick people?",
+      "answer": "A doctor helps sick people."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Who grows food for us?",
+      "answer": "A farmer grows food for us."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Who protects the nation?",
+      "answer": "A soldier protects the nation."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is this lesson important?",
+      "answer": "It helps children know about jobs."
+    }
+  ]
+}

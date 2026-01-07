@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.07",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Odd Man Out"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which is the odd one out: apple, ant, axe?",
+      "options": [
+        { "option_id": 1, "text": "Apple", "is_correct": false },
+        { "option_id": 2, "text": "Ant", "is_correct": false },
+        { "option_id": 3, "text": "Axe", "is_correct": true },
+        { "option_id": 4, "text": "All are same", "is_correct": false }
+      ],
+      "answer": "Axe"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which is the odd one out: egg, elephant, cat?",
+      "options": [
+        { "option_id": 1, "text": "Egg", "is_correct": true },
+        { "option_id": 2, "text": "Elephant", "is_correct": false },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "All are animals", "is_correct": false }
+      ],
+      "answer": "Egg"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which is the odd one out: oil, orange, cow?",
+      "options": [
+        { "option_id": 1, "text": "Oil", "is_correct": true },
+        { "option_id": 2, "text": "Orange", "is_correct": false },
+        { "option_id": 3, "text": "Cow", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Oil"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which is the odd one out: hat, umbrella, umpire?",
+      "options": [
+        { "option_id": 1, "text": "Hat", "is_correct": false },
+        { "option_id": 2, "text": "Umbrella", "is_correct": false },
+        { "option_id": 3, "text": "Umpire", "is_correct": true },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Umpire"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which is the odd one out: ink pot, injection, insects?",
+      "options": [
+        { "option_id": 1, "text": "Ink pot", "is_correct": false },
+        { "option_id": 2, "text": "Injection", "is_correct": false },
+        { "option_id": 3, "text": "Insects", "is_correct": true },
+        { "option_id": 4, "text": "All start with I", "is_correct": false }
+      ],
+      "answer": "Insects"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word ends with a different sound: ant, axe, apple?",
+      "options": [
+        { "option_id": 1, "text": "Ant", "is_correct": false },
+        { "option_id": 2, "text": "Axe", "is_correct": true },
+        { "option_id": 3, "text": "Apple", "is_correct": false },
+        { "option_id": 4, "text": "All same", "is_correct": false }
+      ],
+      "answer": "Axe"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which is the odd one out: elephant, ox, cow?",
+      "options": [
+        { "option_id": 1, "text": "Elephant", "is_correct": false },
+        { "option_id": 2, "text": "Ox", "is_correct": false },
+        { "option_id": 3, "text": "Cow", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": true }
+      ],
+      "answer": "None"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which is the odd one out: oil, orange, umbrella?",
+      "options": [
+        { "option_id": 1, "text": "Oil", "is_correct": false },
+        { "option_id": 2, "text": "Orange", "is_correct": false },
+        { "option_id": 3, "text": "Umbrella", "is_correct": true },
+        { "option_id": 4, "text": "All are objects", "is_correct": false }
+      ],
+      "answer": "Umbrella"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which picture is different: dog, cat, injection?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": false },
+        { "option_id": 2, "text": "Cat", "is_correct": false },
+        { "option_id": 3, "text": "Injection", "is_correct": true },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Injection"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which is the odd one out: orange, oil, apple?",
+      "options": [
+        { "option_id": 1, "text": "Orange", "is_correct": false },
+        { "option_id": 2, "text": "Oil", "is_correct": true },
+        { "option_id": 3, "text": "Apple", "is_correct": false },
+        { "option_id": 4, "text": "All are fruits", "is_correct": false }
+      ],
+      "answer": "Oil"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which is the odd one out: umpire, hat, umbrella?",
+      "options": [
+        { "option_id": 1, "text": "Umpire", "is_correct": true },
+        { "option_id": 2, "text": "Hat", "is_correct": false },
+        { "option_id": 3, "text": "Umbrella", "is_correct": false },
+        { "option_id": 4, "text": "All same", "is_correct": false }
+      ],
+      "answer": "Umpire"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word does NOT name a living thing?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": false },
+        { "option_id": 2, "text": "Elephant", "is_correct": false },
+        { "option_id": 3, "text": "Ox", "is_correct": false },
+        { "option_id": 4, "text": "Oil", "is_correct": true }
+      ],
+      "answer": "Oil"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word does NOT belong: ink, insects, injection?",
+      "options": [
+        { "option_id": 1, "text": "Ink", "is_correct": false },
+        { "option_id": 2, "text": "Injection", "is_correct": false },
+        { "option_id": 3, "text": "Insects", "is_correct": true },
+        { "option_id": 4, "text": "All same", "is_correct": false }
+      ],
+      "answer": "Insects"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which one is different: apple, orange, axe?",
+      "options": [
+        { "option_id": 1, "text": "Apple", "is_correct": false },
+        { "option_id": 2, "text": "Orange", "is_correct": false },
+        { "option_id": 3, "text": "Axe", "is_correct": true },
+        { "option_id": 4, "text": "All fruits", "is_correct": false }
+      ],
+      "answer": "Axe"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the aim of the lesson 'Odd Man Out'?",
+      "options": [
+        { "option_id": 1, "text": "To find the different word", "is_correct": true },
+        { "option_id": 2, "text": "To write sentences", "is_correct": false },
+        { "option_id": 3, "text": "To sing a song", "is_correct": false },
+        { "option_id": 4, "text": "To read a story", "is_correct": false }
+      ],
+      "answer": "To find the different word"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is the lesson 'Odd Man Out' about?",
+      "answer": "It teaches children to find the different word or picture."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What do children do in this lesson?",
+      "answer": "They find the odd or different word."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Is this lesson based on pictures?",
+      "answer": "Yes, it is based on pictures."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which skill does this lesson improve?",
+      "answer": "It improves thinking skills."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Name one fruit used in the lesson.",
+      "answer": "Apple."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Name one animal used in the lesson.",
+      "answer": "Elephant."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Name one object used in the lesson.",
+      "answer": "Umbrella."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What should children listen to before answering?",
+      "answer": "They should listen to the teacher."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Is this lesson fun?",
+      "answer": "Yes, it is fun."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Do children learn new words here?",
+      "answer": "Yes, they learn new words."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Is this a speaking activity?",
+      "answer": "Yes, children speak while answering."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Do children use pictures in this lesson?",
+      "answer": "Yes, pictures are used."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why is this lesson important?",
+      "answer": "It helps children think and learn words."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Can children work in groups?",
+      "answer": "Yes, children can work in groups."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What should children find in each group?",
+      "answer": "They should find the odd one out."
+    }
+  ]
+}

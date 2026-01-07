@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.04",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Daily Words"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which object is used to wear on the head?",
+      "options": [
+        { "option_id": 1, "text": "Cap", "is_correct": true },
+        { "option_id": 2, "text": "Mat", "is_correct": false },
+        { "option_id": 3, "text": "Plate", "is_correct": false },
+        { "option_id": 4, "text": "Gate", "is_correct": false }
+      ],
+      "answer": "Cap"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which object do we sit on?",
+      "options": [
+        { "option_id": 1, "text": "Mat", "is_correct": true },
+        { "option_id": 2, "text": "Bottle", "is_correct": false },
+        { "option_id": 3, "text": "Pen", "is_correct": false },
+        { "option_id": 4, "text": "Cycle", "is_correct": false }
+      ],
+      "answer": "Mat"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which object is used to carry food?",
+      "options": [
+        { "option_id": 1, "text": "Tiffin", "is_correct": true },
+        { "option_id": 2, "text": "Cap", "is_correct": false },
+        { "option_id": 3, "text": "Mat", "is_correct": false },
+        { "option_id": 4, "text": "Gate", "is_correct": false }
+      ],
+      "answer": "Tiffin"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which object is used to drink water?",
+      "options": [
+        { "option_id": 1, "text": "Bottle", "is_correct": true },
+        { "option_id": 2, "text": "Book", "is_correct": false },
+        { "option_id": 3, "text": "Shoes", "is_correct": false },
+        { "option_id": 4, "text": "Gate", "is_correct": false }
+      ],
+      "answer": "Bottle"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which object is used to carry books?",
+      "options": [
+        { "option_id": 1, "text": "Bag", "is_correct": true },
+        { "option_id": 2, "text": "Plate", "is_correct": false },
+        { "option_id": 3, "text": "Cap", "is_correct": false },
+        { "option_id": 4, "text": "Pen", "is_correct": false }
+      ],
+      "answer": "Bag"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which object is worn on feet?",
+      "options": [
+        { "option_id": 1, "text": "Shoes", "is_correct": true },
+        { "option_id": 2, "text": "Cap", "is_correct": false },
+        { "option_id": 3, "text": "Mat", "is_correct": false },
+        { "option_id": 4, "text": "Book", "is_correct": false }
+      ],
+      "answer": "Shoes"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which object is used to eat food?",
+      "options": [
+        { "option_id": 1, "text": "Plate", "is_correct": true },
+        { "option_id": 2, "text": "Bag", "is_correct": false },
+        { "option_id": 3, "text": "Shoes", "is_correct": false },
+        { "option_id": 4, "text": "Gate", "is_correct": false }
+      ],
+      "answer": "Plate"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which object do we read?",
+      "options": [
+        { "option_id": 1, "text": "Book", "is_correct": true },
+        { "option_id": 2, "text": "Bottle", "is_correct": false },
+        { "option_id": 3, "text": "Mat", "is_correct": false },
+        { "option_id": 4, "text": "Shoes", "is_correct": false }
+      ],
+      "answer": "Book"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which object is used to write?",
+      "options": [
+        { "option_id": 1, "text": "Pencil", "is_correct": true },
+        { "option_id": 2, "text": "Gate", "is_correct": false },
+        { "option_id": 3, "text": "Shoes", "is_correct": false },
+        { "option_id": 4, "text": "Mat", "is_correct": false }
+      ],
+      "answer": "Pencil"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which object is also used for writing?",
+      "options": [
+        { "option_id": 1, "text": "Pen", "is_correct": true },
+        { "option_id": 2, "text": "Bottle", "is_correct": false },
+        { "option_id": 3, "text": "Plate", "is_correct": false },
+        { "option_id": 4, "text": "Gate", "is_correct": false }
+      ],
+      "answer": "Pen"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which object is found at the entrance of a house?",
+      "options": [
+        { "option_id": 1, "text": "Gate", "is_correct": true },
+        { "option_id": 2, "text": "Mat", "is_correct": false },
+        { "option_id": 3, "text": "Book", "is_correct": false },
+        { "option_id": 4, "text": "Bottle", "is_correct": false }
+      ],
+      "answer": "Gate"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which object is used to ride?",
+      "options": [
+        { "option_id": 1, "text": "Cycle", "is_correct": true },
+        { "option_id": 2, "text": "Bag", "is_correct": false },
+        { "option_id": 3, "text": "Plate", "is_correct": false },
+        { "option_id": 4, "text": "Pen", "is_correct": false }
+      ],
+      "answer": "Cycle"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is a school object?",
+      "options": [
+        { "option_id": 1, "text": "Bag", "is_correct": true },
+        { "option_id": 2, "text": "Gate", "is_correct": false },
+        { "option_id": 3, "text": "Shoes", "is_correct": false },
+        { "option_id": 4, "text": "Bottle", "is_correct": false }
+      ],
+      "answer": "Bag"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which object is kept on the floor?",
+      "options": [
+        { "option_id": 1, "text": "Mat", "is_correct": true },
+        { "option_id": 2, "text": "Cap", "is_correct": false },
+        { "option_id": 3, "text": "Pen", "is_correct": false },
+        { "option_id": 4, "text": "Bottle", "is_correct": false }
+      ],
+      "answer": "Mat"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which object helps us go from one place to another?",
+      "options": [
+        { "option_id": 1, "text": "Cycle", "is_correct": true },
+        { "option_id": 2, "text": "Book", "is_correct": false },
+        { "option_id": 3, "text": "Plate", "is_correct": false },
+        { "option_id": 4, "text": "Cap", "is_correct": false }
+      ],
+      "answer": "Cycle"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is a cap?",
+      "answer": "A cap is worn on the head."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What is a mat used for?",
+      "answer": "A mat is used to sit on."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What do we keep in a tiffin?",
+      "answer": "We keep food in a tiffin."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is a bottle used for?",
+      "answer": "A bottle is used to drink water."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why do we use a bag?",
+      "answer": "We use a bag to carry books."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What are shoes used for?",
+      "answer": "Shoes are worn on feet."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What do we eat food in?",
+      "answer": "We eat food in a plate."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is a book?",
+      "answer": "A book is used for reading."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is a pencil used for?",
+      "answer": "A pencil is used for writing."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is a pen used for?",
+      "answer": "A pen is used for writing."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Where is a gate found?",
+      "answer": "A gate is found at the entrance."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is a cycle?",
+      "answer": "A cycle is used to ride."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Which object is used in school?",
+      "answer": "A bag is used in school."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Name one daily word from the lesson.",
+      "answer": "Cap is one daily word."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why do we learn daily words?",
+      "answer": "We learn daily words to name objects around us."
+    }
+  ]
+}

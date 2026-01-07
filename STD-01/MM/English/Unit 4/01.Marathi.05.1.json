@@ -1,0 +1,102 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.05",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Story Time - 1 (Two Silly Goats)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "How many goats are in the story?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": true },
+        { "option_id": 2, "text": "One", "is_correct": false },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where were the goats walking?",
+      "options": [
+        { "option_id": 1, "text": "On a narrow bridge", "is_correct": true },
+        { "option_id": 2, "text": "On a road", "is_correct": false },
+        { "option_id": 3, "text": "In a field", "is_correct": false },
+        { "option_id": 4, "text": "In a forest", "is_correct": false }
+      ],
+      "answer": "On a narrow bridge"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What did the goats say to each other?",
+      "options": [
+        { "option_id": 1, "text": "I will go first", "is_correct": true },
+        { "option_id": 2, "text": "Let us help", "is_correct": false },
+        { "option_id": 3, "text": "Sorry", "is_correct": false },
+        { "option_id": 4, "text": "Thank you", "is_correct": false }
+      ],
+      "answer": "I will go first"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What did the goats start doing?",
+      "options": [
+        { "option_id": 1, "text": "Fighting", "is_correct": true },
+        { "option_id": 2, "text": "Singing", "is_correct": false },
+        { "option_id": 3, "text": "Helping", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Fighting"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What happened because of the fight?",
+      "options": [
+        { "option_id": 1, "text": "They fell into the stream", "is_correct": true },
+        { "option_id": 2, "text": "They crossed safely", "is_correct": false },
+        { "option_id": 3, "text": "They went home", "is_correct": false },
+        { "option_id": 4, "text": "They slept", "is_correct": false }
+      ],
+      "answer": "They fell into the stream"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Who are the characters in the story?",
+      "answer": "The characters are two goats."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Where did the goats meet?",
+      "answer": "They met on a narrow bridge."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why did the goats fight?",
+      "answer": "They both wanted to go first."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What happened at the end of the story?",
+      "answer": "Both goats fell into the stream."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What kind of goats were they?",
+      "answer": "They were silly goats."
+    }
+  ]
+}

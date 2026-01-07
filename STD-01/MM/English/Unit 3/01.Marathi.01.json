@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.01",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "This is my head"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which body part is on the top of the body?",
+      "options": [
+        { "option_id": 1, "text": "Head", "is_correct": true },
+        { "option_id": 2, "text": "Foot", "is_correct": false },
+        { "option_id": 3, "text": "Hand", "is_correct": false },
+        { "option_id": 4, "text": "Knee", "is_correct": false }
+      ],
+      "answer": "Head"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which body part helps us see?",
+      "options": [
+        { "option_id": 1, "text": "Eyes", "is_correct": true },
+        { "option_id": 2, "text": "Ears", "is_correct": false },
+        { "option_id": 3, "text": "Nose", "is_correct": false },
+        { "option_id": 4, "text": "Mouth", "is_correct": false }
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which body part helps us hear?",
+      "options": [
+        { "option_id": 1, "text": "Ears", "is_correct": true },
+        { "option_id": 2, "text": "Eyes", "is_correct": false },
+        { "option_id": 3, "text": "Nose", "is_correct": false },
+        { "option_id": 4, "text": "Teeth", "is_correct": false }
+      ],
+      "answer": "Ears"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which body part helps us smell?",
+      "options": [
+        { "option_id": 1, "text": "Nose", "is_correct": true },
+        { "option_id": 2, "text": "Eyes", "is_correct": false },
+        { "option_id": 3, "text": "Ears", "is_correct": false },
+        { "option_id": 4, "text": "Hands", "is_correct": false }
+      ],
+      "answer": "Nose"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which body part helps us eat?",
+      "options": [
+        { "option_id": 1, "text": "Mouth", "is_correct": true },
+        { "option_id": 2, "text": "Eyes", "is_correct": false },
+        { "option_id": 3, "text": "Ears", "is_correct": false },
+        { "option_id": 4, "text": "Knees", "is_correct": false }
+      ],
+      "answer": "Mouth"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which body part has teeth?",
+      "options": [
+        { "option_id": 1, "text": "Mouth", "is_correct": true },
+        { "option_id": 2, "text": "Hand", "is_correct": false },
+        { "option_id": 3, "text": "Foot", "is_correct": false },
+        { "option_id": 4, "text": "Head", "is_correct": false }
+      ],
+      "answer": "Mouth"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which body part helps us walk?",
+      "options": [
+        { "option_id": 1, "text": "Feet", "is_correct": true },
+        { "option_id": 2, "text": "Hands", "is_correct": false },
+        { "option_id": 3, "text": "Eyes", "is_correct": false },
+        { "option_id": 4, "text": "Ears", "is_correct": false }
+      ],
+      "answer": "Feet"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which body part is between the legs?",
+      "options": [
+        { "option_id": 1, "text": "Knees", "is_correct": true },
+        { "option_id": 2, "text": "Hands", "is_correct": false },
+        { "option_id": 3, "text": "Eyes", "is_correct": false },
+        { "option_id": 4, "text": "Nose", "is_correct": false }
+      ],
+      "answer": "Knees"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which body part helps us wave?",
+      "options": [
+        { "option_id": 1, "text": "Arms", "is_correct": true },
+        { "option_id": 2, "text": "Feet", "is_correct": false },
+        { "option_id": 3, "text": "Eyes", "is_correct": false },
+        { "option_id": 4, "text": "Ears", "is_correct": false }
+      ],
+      "answer": "Arms"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which body part has fingers?",
+      "options": [
+        { "option_id": 1, "text": "Hands", "is_correct": true },
+        { "option_id": 2, "text": "Feet", "is_correct": false },
+        { "option_id": 3, "text": "Head", "is_correct": false },
+        { "option_id": 4, "text": "Knees", "is_correct": false }
+      ],
+      "answer": "Hands"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which body part can wiggle?",
+      "options": [
+        { "option_id": 1, "text": "Nose", "is_correct": true },
+        { "option_id": 2, "text": "Foot", "is_correct": false },
+        { "option_id": 3, "text": "Hand", "is_correct": false },
+        { "option_id": 4, "text": "Knee", "is_correct": false }
+      ],
+      "answer": "Nose"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which body part is on the side of the head?",
+      "options": [
+        { "option_id": 1, "text": "Ears", "is_correct": true },
+        { "option_id": 2, "text": "Eyes", "is_correct": false },
+        { "option_id": 3, "text": "Mouth", "is_correct": false },
+        { "option_id": 4, "text": "Nose", "is_correct": false }
+      ],
+      "answer": "Ears"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which body part helps us hold hands together?",
+      "options": [
+        { "option_id": 1, "text": "Hands", "is_correct": true },
+        { "option_id": 2, "text": "Feet", "is_correct": false },
+        { "option_id": 3, "text": "Eyes", "is_correct": false },
+        { "option_id": 4, "text": "Ears", "is_correct": false }
+      ],
+      "answer": "Hands"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which body part can stretch?",
+      "options": [
+        { "option_id": 1, "text": "Arms", "is_correct": true },
+        { "option_id": 2, "text": "Teeth", "is_correct": false },
+        { "option_id": 3, "text": "Eyes", "is_correct": false },
+        { "option_id": 4, "text": "Nose", "is_correct": false }
+      ],
+      "answer": "Arms"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is this lesson about?",
+      "options": [
+        { "option_id": 1, "text": "Body parts", "is_correct": true },
+        { "option_id": 2, "text": "Animals", "is_correct": false },
+        { "option_id": 3, "text": "Fruits", "is_correct": false },
+        { "option_id": 4, "text": "Vehicles", "is_correct": false }
+      ],
+      "answer": "Body parts"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is this lesson about?",
+      "answer": "This lesson is about our body parts."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Which body part helps us see?",
+      "answer": "Eyes help us see."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Which body part helps us hear?",
+      "answer": "Ears help us hear."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which body part helps us smell?",
+      "answer": "The nose helps us smell."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which body part helps us eat?",
+      "answer": "The mouth helps us eat."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which body part has teeth?",
+      "answer": "The mouth has teeth."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Which body part helps us walk?",
+      "answer": "Feet help us walk."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Which body part helps us wave?",
+      "answer": "Arms help us wave."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Which body part has fingers?",
+      "answer": "Hands have fingers."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which body part is on top of the body?",
+      "answer": "The head is on top of the body."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which body part can wiggle?",
+      "answer": "The nose can wiggle."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Which body part helps us hold hands together?",
+      "answer": "Hands help us hold together."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Which body part is between the legs?",
+      "answer": "Knees are between the legs."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Which body part is on the side of the head?",
+      "answer": "Ears are on the side of the head."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why do children learn this lesson?",
+      "answer": "They learn to know their body parts."
+    }
+  ]
+}

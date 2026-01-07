@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.01",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Humpty Dumpty"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who sat on a wall?",
+      "options": [
+        { "option_id": 1, "text": "Humpty Dumpty", "is_correct": true },
+        { "option_id": 2, "text": "A cat", "is_correct": false },
+        { "option_id": 3, "text": "A king", "is_correct": false },
+        { "option_id": 4, "text": "A boy", "is_correct": false }
+      ],
+      "answer": "Humpty Dumpty"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where did Humpty Dumpty sit?",
+      "options": [
+        { "option_id": 1, "text": "On a chair", "is_correct": false },
+        { "option_id": 2, "text": "On a wall", "is_correct": true },
+        { "option_id": 3, "text": "On a bed", "is_correct": false },
+        { "option_id": 4, "text": "On the floor", "is_correct": false }
+      ],
+      "answer": "On a wall"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What happened to Humpty Dumpty?",
+      "options": [
+        { "option_id": 1, "text": "He slept", "is_correct": false },
+        { "option_id": 2, "text": "He had a great fall", "is_correct": true },
+        { "option_id": 3, "text": "He ran away", "is_correct": false },
+        { "option_id": 4, "text": "He laughed", "is_correct": false }
+      ],
+      "answer": "He had a great fall"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who tried to fix Humpty Dumpty?",
+      "options": [
+        { "option_id": 1, "text": "The children", "is_correct": false },
+        { "option_id": 2, "text": "The king’s horses and men", "is_correct": true },
+        { "option_id": 3, "text": "The doctor", "is_correct": false },
+        { "option_id": 4, "text": "The teacher", "is_correct": false }
+      ],
+      "answer": "The king’s horses and men"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Could Humpty Dumpty be put together again?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": false },
+        { "option_id": 2, "text": "No", "is_correct": true },
+        { "option_id": 3, "text": "Sometimes", "is_correct": false },
+        { "option_id": 4, "text": "Maybe", "is_correct": false }
+      ],
+      "answer": "No"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What kind of poem is Humpty Dumpty?",
+      "options": [
+        { "option_id": 1, "text": "Story poem", "is_correct": false },
+        { "option_id": 2, "text": "Rhyme", "is_correct": true },
+        { "option_id": 3, "text": "Letter poem", "is_correct": false },
+        { "option_id": 4, "text": "Number poem", "is_correct": false }
+      ],
+      "answer": "Rhyme"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What sound words are used in the rhyme?",
+      "options": [
+        { "option_id": 1, "text": "Sit and run", "is_correct": false },
+        { "option_id": 2, "text": "Wall and fall", "is_correct": true },
+        { "option_id": 3, "text": "Cat and dog", "is_correct": false },
+        { "option_id": 4, "text": "Pen and book", "is_correct": false }
+      ],
+      "answer": "Wall and fall"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with wall?",
+      "options": [
+        { "option_id": 1, "text": "Ball", "is_correct": true },
+        { "option_id": 2, "text": "Book", "is_correct": false },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Pen", "is_correct": false }
+      ],
+      "answer": "Ball"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who could not help Humpty Dumpty?",
+      "options": [
+        { "option_id": 1, "text": "The king’s men", "is_correct": false },
+        { "option_id": 2, "text": "The king’s horses", "is_correct": false },
+        { "option_id": 3, "text": "All of them", "is_correct": true },
+        { "option_id": 4, "text": "The children", "is_correct": false }
+      ],
+      "answer": "All of them"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How do children say this rhyme?",
+      "options": [
+        { "option_id": 1, "text": "With actions", "is_correct": true },
+        { "option_id": 2, "text": "Silently", "is_correct": false },
+        { "option_id": 3, "text": "By writing", "is_correct": false },
+        { "option_id": 4, "text": "By reading only", "is_correct": false }
+      ],
+      "answer": "With actions"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What happened after the fall?",
+      "options": [
+        { "option_id": 1, "text": "Humpty Dumpty broke", "is_correct": true },
+        { "option_id": 2, "text": "Humpty Dumpty ran", "is_correct": false },
+        { "option_id": 3, "text": "Humpty Dumpty slept", "is_correct": false },
+        { "option_id": 4, "text": "Humpty Dumpty laughed", "is_correct": false }
+      ],
+      "answer": "Humpty Dumpty broke"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who are mentioned in the rhyme?",
+      "options": [
+        { "option_id": 1, "text": "Doctors", "is_correct": false },
+        { "option_id": 2, "text": "King’s horses and men", "is_correct": true },
+        { "option_id": 3, "text": "Teachers", "is_correct": false },
+        { "option_id": 4, "text": "Students", "is_correct": false }
+      ],
+      "answer": "King’s horses and men"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What lesson does the rhyme show?",
+      "options": [
+        { "option_id": 1, "text": "Be careful", "is_correct": true },
+        { "option_id": 2, "text": "Run fast", "is_correct": false },
+        { "option_id": 3, "text": "Eat more", "is_correct": false },
+        { "option_id": 4, "text": "Sleep early", "is_correct": false }
+      ],
+      "answer": "Be careful"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word shows Humpty Dumpty fell?",
+      "options": [
+        { "option_id": 1, "text": "Sat", "is_correct": false },
+        { "option_id": 2, "text": "Fall", "is_correct": true },
+        { "option_id": 3, "text": "Help", "is_correct": false },
+        { "option_id": 4, "text": "Sing", "is_correct": false }
+      ],
+      "answer": "Fall"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Humpty Dumpty is best described as?",
+      "options": [
+        { "option_id": 1, "text": "A character in a rhyme", "is_correct": true },
+        { "option_id": 2, "text": "A teacher", "is_correct": false },
+        { "option_id": 3, "text": "A student", "is_correct": false },
+        { "option_id": 4, "text": "An animal", "is_correct": false }
+      ],
+      "answer": "A character in a rhyme"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Who is Humpty Dumpty?",
+      "answer": "Humpty Dumpty is a character in a rhyme."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Where did Humpty Dumpty sit?",
+      "answer": "Humpty Dumpty sat on a wall."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What happened to Humpty Dumpty?",
+      "answer": "He had a great fall."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Who tried to help Humpty Dumpty?",
+      "answer": "The king’s horses and men tried to help him."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Could Humpty Dumpty be fixed?",
+      "answer": "No, he could not be put together again."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What type of poem is Humpty Dumpty?",
+      "answer": "It is a nursery rhyme."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Which words rhyme in the poem?",
+      "answer": "Wall and fall rhyme."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What lesson does the rhyme teach?",
+      "answer": "The rhyme teaches us to be careful."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How do children say this rhyme?",
+      "answer": "Children say it with actions."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Who are mentioned in the rhyme?",
+      "answer": "The king’s horses and men are mentioned."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What happened after the fall?",
+      "answer": "Humpty Dumpty broke."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Is Humpty Dumpty a real person?",
+      "answer": "No, he is a character in a rhyme."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why do children like this rhyme?",
+      "answer": "They like it because it is fun and rhythmic."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What word shows falling in the rhyme?",
+      "answer": "The word 'fall' shows falling."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is the rhyme about?",
+      "answer": "The rhyme is about Humpty Dumpty’s fall."
+    }
+  ]
+}

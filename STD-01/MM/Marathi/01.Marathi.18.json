@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.18",
+    "standard": "1",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "जंगलात ठरली नाचगाण्याची मैफल"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या कवितेचे शीर्षक काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "माझा भारत", "is_correct": false },
+        { "option_id": 2, "text": "जंगलात ठरली नाचगाण्याची मैफल", "is_correct": true },
+        { "option_id": 3, "text": "रेघ लहान झाली", "is_correct": false },
+        { "option_id": 4, "text": "वेडं कोकरू", "is_correct": false }
+      ],
+      "answer": "जंगलात ठरली नाचगाण्याची मैफल"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या कवितेची रचना कोणी केली आहे?",
+      "options": [
+        { "option_id": 1, "text": "शांता शेळके", "is_correct": false },
+        { "option_id": 2, "text": "पूर्वी भावे", "is_correct": true },
+        { "option_id": 3, "text": "मंगेश पाडगावकर", "is_correct": false },
+        { "option_id": 4, "text": "पु. ल. देशपांडे", "is_correct": false }
+      ],
+      "answer": "पूर्वी भावे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "जंगलात कशाची मैफल ठरली होती?",
+      "options": [
+        { "option_id": 1, "text": "क्रीडांची", "is_correct": false },
+        { "option_id": 2, "text": "नाचगाण्याची", "is_correct": true },
+        { "option_id": 3, "text": "कथांची", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यांची", "is_correct": false }
+      ],
+      "answer": "नाचगाण्याची"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "तबल्यावर कोणाची साथ होती?",
+      "options": [
+        { "option_id": 1, "text": "वाघोबा", "is_correct": false },
+        { "option_id": 2, "text": "कोल्होबा", "is_correct": true },
+        { "option_id": 3, "text": "हत्ती", "is_correct": false },
+        { "option_id": 4, "text": "ससा", "is_correct": false }
+      ],
+      "answer": "कोल्होबा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पेटी कोण वाजवत होते?",
+      "options": [
+        { "option_id": 1, "text": "साळींदर", "is_correct": true },
+        { "option_id": 2, "text": "मोर", "is_correct": false },
+        { "option_id": 3, "text": "ससा", "is_correct": false },
+        { "option_id": 4, "text": "मुंगी", "is_correct": false }
+      ],
+      "answer": "साळींदर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "तंबोरा वाजवण्याची हौस कोणाला होती?",
+      "options": [
+        { "option_id": 1, "text": "गुंडू-पांडू लांडगे", "is_correct": true },
+        { "option_id": 2, "text": "हत्ती", "is_correct": false },
+        { "option_id": 3, "text": "वाघ", "is_correct": false },
+        { "option_id": 4, "text": "ससा", "is_correct": false }
+      ],
+      "answer": "गुंडू-पांडू लांडगे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "संतूर कोण वाजवते?",
+      "options": [
+        { "option_id": 1, "text": "मुंगी", "is_correct": false },
+        { "option_id": 2, "text": "चिकीमिकी माऊस", "is_correct": true },
+        { "option_id": 3, "text": "मोर", "is_correct": false },
+        { "option_id": 4, "text": "ससा", "is_correct": false }
+      ],
+      "answer": "चिकीमिकी माऊस"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वरचा ‘सा’ कोण लावते?",
+      "options": [
+        { "option_id": 1, "text": "मोर", "is_correct": false },
+        { "option_id": 2, "text": "मुंगी", "is_correct": true },
+        { "option_id": 3, "text": "ससा", "is_correct": false },
+        { "option_id": 4, "text": "हत्ती", "is_correct": false }
+      ],
+      "answer": "मुंगी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "‘आवाज आवाज’ असे कोण ओरडते?",
+      "options": [
+        { "option_id": 1, "text": "ससा", "is_correct": true },
+        { "option_id": 2, "text": "वाघ", "is_correct": false },
+        { "option_id": 3, "text": "कोल्हा", "is_correct": false },
+        { "option_id": 4, "text": "मोर", "is_correct": false }
+      ],
+      "answer": "ससा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ठुमकत नाचत कोण आला?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "मोर", "is_correct": true },
+        { "option_id": 3, "text": "हत्ती", "is_correct": false },
+        { "option_id": 4, "text": "साळींदर", "is_correct": false }
+      ],
+      "answer": "मोर"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        { "option_id": 1, "text": "कथा", "is_correct": false },
+        { "option_id": 2, "text": "कविता", "is_correct": true },
+        { "option_id": 3, "text": "संवाद", "is_correct": false },
+        { "option_id": 4, "text": "निबंध", "is_correct": false }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवितेचा स्वभाव कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "गंभीर", "is_correct": false },
+        { "option_id": 2, "text": "गमतीशीर", "is_correct": true },
+        { "option_id": 3, "text": "भीतीदायक", "is_correct": false },
+        { "option_id": 4, "text": "दु:खद", "is_correct": false }
+      ],
+      "answer": "गमतीशीर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या धड्यात कोणता देशपरिचय भाग आहे?",
+      "options": [
+        { "option_id": 1, "text": "माझा भारत", "is_correct": true },
+        { "option_id": 2, "text": "बाजार", "is_correct": false },
+        { "option_id": 3, "text": "माझी शाळा", "is_correct": false },
+        { "option_id": 4, "text": "गमती शोध", "is_correct": false }
+      ],
+      "answer": "माझा भारत"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "भारताचा राष्ट्रीय पक्षी कोण आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "मोर", "is_correct": true },
+        { "option_id": 3, "text": "गरुड", "is_correct": false },
+        { "option_id": 4, "text": "कावळा", "is_correct": false }
+      ],
+      "answer": "मोर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त वाचन", "is_correct": false },
+        { "option_id": 2, "text": "संगीत, सहकार्य व देशपरिचय", "is_correct": true },
+        { "option_id": 3, "text": "फक्त लेखन", "is_correct": false },
+        { "option_id": 4, "text": "फक्त पाठांतर", "is_correct": false }
+      ],
+      "answer": "संगीत, सहकार्य व देशपरिचय"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "या कवितेचे नाव काय आहे?",
+      "answer": "या कवितेचे नाव जंगलात ठरली नाचगाण्याची मैफल आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "जंगलात कोणती मैफल ठरली होती?",
+      "answer": "जंगलात नाचगाण्याची मैफल ठरली होती."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "तबल्यावर कोणाची साथ होती?",
+      "answer": "तबल्यावर कोल्होबाची साथ होती."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "पेटी कोण वाजवत होते?",
+      "answer": "पेटी साळींदर वाजवत होते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "संतूर कोण वाजवते?",
+      "answer": "संतूर चिकीमिकी माऊस वाजवते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "वरचा ‘सा’ कोण लावते?",
+      "answer": "वरचा ‘सा’ मुंगी लावते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "ठुमकत नाचत कोण आला?",
+      "answer": "ठुमकत नाचत मोर आला."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "ही रचना कोणत्या प्रकारची आहे?",
+      "answer": "ही रचना कविता आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "कवितेचा स्वभाव कसा आहे?",
+      "answer": "कवितेचा स्वभाव गमतीशीर आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "भारताचा राष्ट्रध्वज कसा आहे?",
+      "answer": "भारताचा राष्ट्रध्वज तिरंगी आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "भारताचा राष्ट्रीय पक्षी कोण आहे?",
+      "answer": "भारताचा राष्ट्रीय पक्षी मोर आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "भारताचा राष्ट्रीय पशू कोण आहे?",
+      "answer": "भारताचा राष्ट्रीय पशू वाघ आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "भारताची राजधानी कोणती आहे?",
+      "answer": "भारताची राजधानी दिल्ली आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "या धड्यात कोणते उपक्रम दिले आहेत?",
+      "answer": "या धड्यात वाचन, अक्षर-मात्रा सराव आणि शब्दजोड उपक्रम दिले आहेत."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "तुला या कवितेत काय आवडले?",
+      "answer": "मला प्राण्यांची नाचगाण्याची मजेशीर मैफल आवडली."
+    }
+  ]
+}

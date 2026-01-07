@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.13",
+    "standard": "1",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "माझा घोडा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या कवितेचे शीर्षक काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "माझी शाळा", "is_correct": false },
+        { "option_id": 2, "text": "माझा घोडा", "is_correct": true },
+        { "option_id": 3, "text": "बाजार", "is_correct": false },
+        { "option_id": 4, "text": "मांजराची गंमत", "is_correct": false }
+      ],
+      "answer": "माझा घोडा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणी लिहिली आहे?",
+      "options": [
+        { "option_id": 1, "text": "राजा मंगळवेढेकर", "is_correct": false },
+        { "option_id": 2, "text": "शांता शेळके", "is_correct": true },
+        { "option_id": 3, "text": "पु. ल. देशपांडे", "is_correct": false },
+        { "option_id": 4, "text": "वि. वा. शिरवाडकर", "is_correct": false }
+      ],
+      "answer": "शांता शेळके"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "घोडा कसा चालतो असे कवितेत सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "हळूहळू", "is_correct": false },
+        { "option_id": 2, "text": "टपटप टपटप", "is_correct": true },
+        { "option_id": 3, "text": "रेंगाळत", "is_correct": false },
+        { "option_id": 4, "text": "उडत", "is_correct": false }
+      ],
+      "answer": "टपटप टपटप"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "घोड्याच्या पाठीवर काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "पिशवी", "is_correct": false },
+        { "option_id": 2, "text": "मखमली जीन", "is_correct": true },
+        { "option_id": 3, "text": "दोरा", "is_correct": false },
+        { "option_id": 4, "text": "चादर", "is_correct": false }
+      ],
+      "answer": "मखमली जीन"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "घोड्याचे कान कसे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "उंच", "is_correct": true },
+        { "option_id": 3, "text": "वाकडे", "is_correct": false },
+        { "option_id": 4, "text": "झुकलेले", "is_correct": false }
+      ],
+      "answer": "उंच"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "घोडा कसा आहे असे कवितेत म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "आळशी", "is_correct": false },
+        { "option_id": 2, "text": "फार हुशार", "is_correct": true },
+        { "option_id": 3, "text": "कमकुवत", "is_correct": false },
+        { "option_id": 4, "text": "रागीट", "is_correct": false }
+      ],
+      "answer": "फार हुशार"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "घोड्याला चालवण्यासाठी कशाची गरज नाही?",
+      "options": [
+        { "option_id": 1, "text": "इशारा", "is_correct": false },
+        { "option_id": 2, "text": "चाबूक", "is_correct": true },
+        { "option_id": 3, "text": "स्वार", "is_correct": false },
+        { "option_id": 4, "text": "रिंगण", "is_correct": false }
+      ],
+      "answer": "चाबूक"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "घोडा कुठे रिंगण घालतो?",
+      "options": [
+        { "option_id": 1, "text": "घरात", "is_correct": false },
+        { "option_id": 2, "text": "अंगणात", "is_correct": true },
+        { "option_id": 3, "text": "नदीत", "is_correct": false },
+        { "option_id": 4, "text": "शाळेत", "is_correct": false }
+      ],
+      "answer": "अंगणात"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "घोड्याला काय अडवत नाही?",
+      "options": [
+        { "option_id": 1, "text": "डोंगर", "is_correct": false },
+        { "option_id": 2, "text": "नदी किंवा ओढा", "is_correct": true },
+        { "option_id": 3, "text": "रस्ता", "is_correct": false },
+        { "option_id": 4, "text": "घर", "is_correct": false }
+      ],
+      "answer": "नदी किंवा ओढा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "घोडा किती अरण्ये ओलांडतो?",
+      "options": [
+        { "option_id": 1, "text": "तीन", "is_correct": false },
+        { "option_id": 2, "text": "सात", "is_correct": true },
+        { "option_id": 3, "text": "दोन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "सात"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "घोडा समुद्र किती वेळात ओलांडतो?",
+      "options": [
+        { "option_id": 1, "text": "हळूहळू", "is_correct": false },
+        { "option_id": 2, "text": "एक दमात", "is_correct": true },
+        { "option_id": 3, "text": "दिवसभरात", "is_correct": false },
+        { "option_id": 4, "text": "रात्री", "is_correct": false }
+      ],
+      "answer": "एक दमात"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        { "option_id": 1, "text": "कथा", "is_correct": false },
+        { "option_id": 2, "text": "कविता", "is_correct": true },
+        { "option_id": 3, "text": "संवाद", "is_correct": false },
+        { "option_id": 4, "text": "निबंध", "is_correct": false }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या धड्यात कोणता व्याकरण भाग आहे?",
+      "options": [
+        { "option_id": 1, "text": "तो, ती, ते", "is_correct": true },
+        { "option_id": 2, "text": "समानार्थी शब्द", "is_correct": false },
+        { "option_id": 3, "text": "विरुद्धार्थी शब्द", "is_correct": false },
+        { "option_id": 4, "text": "काळ", "is_correct": false }
+      ],
+      "answer": "तो, ती, ते"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या धड्यात कोणत्या चिन्हाची ओळख आहे?",
+      "options": [
+        { "option_id": 1, "text": "पूर्णविराम", "is_correct": false },
+        { "option_id": 2, "text": "प्रश्नचिन्ह", "is_correct": true },
+        { "option_id": 3, "text": "स्वल्पविराम", "is_correct": false },
+        { "option_id": 4, "text": "उद्गारचिन्ह", "is_correct": false }
+      ],
+      "answer": "प्रश्नचिन्ह"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त पाठांतर", "is_correct": false },
+        { "option_id": 2, "text": "कविता, वाचन व शब्दखेळ", "is_correct": true },
+        { "option_id": 3, "text": "फक्त चित्रकला", "is_correct": false },
+        { "option_id": 4, "text": "फक्त लेखन", "is_correct": false }
+      ],
+      "answer": "कविता, वाचन व शब्दखेळ"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "या कवितेचे नाव काय आहे?",
+      "answer": "या कवितेचे नाव माझा घोडा आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणी लिहिली आहे?",
+      "answer": "ही कविता शांता शेळके यांनी लिहिली आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "घोडा कसा चालतो?",
+      "answer": "घोडा टपटप टपटप टापा चालतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "घोड्याच्या पाठीवर काय आहे?",
+      "answer": "घोड्याच्या पाठीवर मखमली जीन आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "घोडा कसा आहे?",
+      "answer": "घोडा फार हुशार आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "घोड्याला कशाची गरज नाही?",
+      "answer": "घोड्याला चाबकाची गरज नाही."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "घोडा कुठे रिंगण घालतो?",
+      "answer": "घोडा अंगणात रिंगण घालतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "घोड्याला कोणत्या गोष्टी अडवत नाहीत?",
+      "answer": "नदी आणि ओढा घोड्याला अडवत नाहीत."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "घोडा किती अरण्ये ओलांडतो?",
+      "answer": "घोडा सात अरण्ये ओलांडतो."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "घोडा समुद्र कसा ओलांडतो?",
+      "answer": "घोडा समुद्र एक दमात ओलांडतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "या धड्यात कोणता व्याकरण भाग आहे?",
+      "answer": "या धड्यात तो, ती, ते हा व्याकरण भाग आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "प्रश्नचिन्ह कशासाठी वापरतात?",
+      "answer": "प्रश्न विचारण्यासाठी प्रश्नचिन्ह वापरतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "या धड्यात शब्दखेळ का दिला आहे?",
+      "answer": "शब्द ओळख आणि वाचन वाढवण्यासाठी शब्दखेळ दिला आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "ही कविता कशी आहे?",
+      "answer": "ही कविता गोड आणि गमतीशीर आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "तुला या कवितेत काय आवडले?",
+      "answer": "मला घोड्याचे वेगवान वर्णन आवडले."
+    }
+  ]
+}

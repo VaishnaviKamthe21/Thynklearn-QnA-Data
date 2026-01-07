@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.05",
+    "standard": "1",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "माझे कुटुंब"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या धड्याचे शीर्षक काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "माझे मित्र", "is_correct": false },
+        { "option_id": 2, "text": "माझे खेळ", "is_correct": false },
+        { "option_id": 3, "text": "माझे कुटुंब", "is_correct": true },
+        { "option_id": 4, "text": "बीज", "is_correct": false }
+      ],
+      "answer": "माझे कुटुंब"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मुलीचा अभ्यास कधी पूर्ण झाला आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळानंतर", "is_correct": false },
+        { "option_id": 2, "text": "अभ्यासानंतर", "is_correct": true },
+        { "option_id": 3, "text": "झोपल्यानंतर", "is_correct": false },
+        { "option_id": 4, "text": "जेवणानंतर", "is_correct": false }
+      ],
+      "answer": "अभ्यासानंतर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "मुलगी बाबांकडे कुठे जाते?",
+      "options": [
+        { "option_id": 1, "text": "घरात", "is_correct": false },
+        { "option_id": 2, "text": "बागेत", "is_correct": true },
+        { "option_id": 3, "text": "शाळेत", "is_correct": false },
+        { "option_id": 4, "text": "मैदानात", "is_correct": false }
+      ],
+      "answer": "बागेत"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "बागेत काय फुलले आहे?",
+      "options": [
+        { "option_id": 1, "text": "झाडे", "is_correct": false },
+        { "option_id": 2, "text": "फळे", "is_correct": false },
+        { "option_id": 3, "text": "सुंदर फुले", "is_correct": true },
+        { "option_id": 4, "text": "भाजी", "is_correct": false }
+      ],
+      "answer": "सुंदर फुले"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मुलगी बाबांना कशासाठी मदत करू इच्छिते?",
+      "options": [
+        { "option_id": 1, "text": "खेळायला", "is_correct": false },
+        { "option_id": 2, "text": "पाणी घालायला", "is_correct": true },
+        { "option_id": 3, "text": "फुले तोडायला", "is_correct": false },
+        { "option_id": 4, "text": "माती खोदायला", "is_correct": false }
+      ],
+      "answer": "पाणी घालायला"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मुलगी आईला काय सांगते?",
+      "options": [
+        { "option_id": 1, "text": "खेळायला जाणार", "is_correct": false },
+        { "option_id": 2, "text": "अभ्यास पूर्ण झाला", "is_correct": true },
+        { "option_id": 3, "text": "झोपायला जाणार", "is_correct": false },
+        { "option_id": 4, "text": "जेवायला जाणार", "is_correct": false }
+      ],
+      "answer": "अभ्यास पूर्ण झाला"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "दादा कोणाबरोबर खेळतो?",
+      "options": [
+        { "option_id": 1, "text": "आईबरोबर", "is_correct": false },
+        { "option_id": 2, "text": "मुलीबरोबर", "is_correct": true },
+        { "option_id": 3, "text": "आजोबांबरोबर", "is_correct": false },
+        { "option_id": 4, "text": "बाबांबरोबर", "is_correct": false }
+      ],
+      "answer": "मुलीबरोबर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "आजी-आजोबा कुठे बसले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "घरात", "is_correct": false },
+        { "option_id": 2, "text": "बागेत", "is_correct": true },
+        { "option_id": 3, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 4, "text": "शाळेत", "is_correct": false }
+      ],
+      "answer": "बागेत"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मुलगी आजी-आजोबांना काय म्हणते?",
+      "options": [
+        { "option_id": 1, "text": "इथेच बसा", "is_correct": false },
+        { "option_id": 2, "text": "चला, घरी जाऊया", "is_correct": true },
+        { "option_id": 3, "text": "खेळायला चला", "is_correct": false },
+        { "option_id": 4, "text": "झोपायला चला", "is_correct": false }
+      ],
+      "answer": "चला, घरी जाऊया"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "या धड्यात कोणकोणते कुटुंबीय दाखवले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "आई, बाबा, मुलगी", "is_correct": false },
+        { "option_id": 2, "text": "दादा, आजी, आजोबा", "is_correct": false },
+        { "option_id": 3, "text": "आई, बाबा, दादा, आजी, आजोबा", "is_correct": true },
+        { "option_id": 4, "text": "फक्त मुले", "is_correct": false }
+      ],
+      "answer": "आई, बाबा, दादा, आजी, आजोबा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "मुलगी कुटुंबातील लोकांशी कशी वागते?",
+      "options": [
+        { "option_id": 1, "text": "रागाने", "is_correct": false },
+        { "option_id": 2, "text": "प्रेमाने", "is_correct": true },
+        { "option_id": 3, "text": "दुर्लक्ष करून", "is_correct": false },
+        { "option_id": 4, "text": "भीतीने", "is_correct": false }
+      ],
+      "answer": "प्रेमाने"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "बाबा बागेत काय करत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "खेळत आहेत", "is_correct": false },
+        { "option_id": 2, "text": "फुलांना पाणी घालत आहेत", "is_correct": true },
+        { "option_id": 3, "text": "झोपले आहेत", "is_correct": false },
+        { "option_id": 4, "text": "वाचत आहेत", "is_correct": false }
+      ],
+      "answer": "फुलांना पाणी घालत आहेत"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "हा धडा कशावर आधारित आहे?",
+      "options": [
+        { "option_id": 1, "text": "कविता", "is_correct": false },
+        { "option_id": 2, "text": "चित्रे आणि संवाद", "is_correct": true },
+        { "option_id": 3, "text": "कथा", "is_correct": false },
+        { "option_id": 4, "text": "गाणे", "is_correct": false }
+      ],
+      "answer": "चित्रे आणि संवाद"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "options": [
+        { "option_id": 1, "text": "भांडण", "is_correct": false },
+        { "option_id": 2, "text": "कुटुंबातील प्रेम आणि मदत", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "कुटुंबातील प्रेम आणि मदत"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मुलगी अभ्यासानंतर काय करते?",
+      "options": [
+        { "option_id": 1, "text": "झोपते", "is_correct": false },
+        { "option_id": 2, "text": "बाबांना मदत करते", "is_correct": true },
+        { "option_id": 3, "text": "शाळेत जाते", "is_correct": false },
+        { "option_id": 4, "text": "टीव्ही पाहते", "is_correct": false }
+      ],
+      "answer": "बाबांना मदत करते"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "या धड्याचे नाव काय आहे?",
+      "answer": "या धड्याचे नाव माझे कुटुंब आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "मुलीचा अभ्यास कधी पूर्ण झाला?",
+      "answer": "मुलीचा अभ्यास पूर्ण झाला आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "मुलगी बाबांकडे कुठे जाते?",
+      "answer": "मुलगी बाबांकडे बागेत जाते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "बागेत काय फुलले आहे?",
+      "answer": "बागेत सुंदर फुले फुलली आहेत."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "मुलगी बाबांना कशी मदत करते?",
+      "answer": "मुलगी बाबांना फुलांना पाणी घालायला मदत करते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "दादा काय करतो?",
+      "answer": "दादा खेळत आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "आजी-आजोबा कुठे बसले आहेत?",
+      "answer": "आजी-आजोबा बागेत बसले आहेत."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "मुलगी आजी-आजोबांना काय म्हणते?",
+      "answer": "मुलगी आजी-आजोबांना चला, घरी जाऊया असे म्हणते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "या धड्यात कोणते कुटुंबीय दाखवले आहेत?",
+      "answer": "या धड्यात आई, बाबा, दादा, आजी आणि आजोबा दाखवले आहेत."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "मुलगी कुटुंबाशी कशी वागते?",
+      "answer": "मुलगी कुटुंबाशी प्रेमाने वागते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "बाबा बागेत काय करत आहेत?",
+      "answer": "बाबा बागेत फुलांना पाणी घालत आहेत."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "हा धडा कशावर आधारित आहे?",
+      "answer": "हा धडा चित्रे आणि संवादावर आधारित आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "answer": "या धड्यातून कुटुंबातील प्रेम आणि सहकार्य शिकायला मिळते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "मुलगी अभ्यासानंतर काय करते?",
+      "answer": "मुलगी अभ्यासानंतर बाबांना मदत करते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "तुला तुझ्या कुटुंबात कोण आवडते?",
+      "answer": "मला माझ्या कुटुंबातील सगळेच आवडतात."
+    }
+  ]
+}

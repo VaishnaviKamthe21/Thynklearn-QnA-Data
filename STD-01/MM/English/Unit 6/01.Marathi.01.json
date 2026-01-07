@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.01",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Days of the Week"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is this lesson about?",
+      "options": [
+        { "option_id": 1, "text": "Days of the week", "is_correct": true },
+        { "option_id": 2, "text": "Months of the year", "is_correct": false },
+        { "option_id": 3, "text": "Colours", "is_correct": false },
+        { "option_id": 4, "text": "Animals", "is_correct": false }
+      ],
+      "answer": "Days of the week"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How many days are there in a week?",
+      "options": [
+        { "option_id": 1, "text": "Seven", "is_correct": true },
+        { "option_id": 2, "text": "Five", "is_correct": false },
+        { "option_id": 3, "text": "Six", "is_correct": false },
+        { "option_id": 4, "text": "Eight", "is_correct": false }
+      ],
+      "answer": "Seven"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which day comes after Monday?",
+      "options": [
+        { "option_id": 1, "text": "Tuesday", "is_correct": true },
+        { "option_id": 2, "text": "Sunday", "is_correct": false },
+        { "option_id": 3, "text": "Friday", "is_correct": false },
+        { "option_id": 4, "text": "Saturday", "is_correct": false }
+      ],
+      "answer": "Tuesday"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which is the first day of the week?",
+      "options": [
+        { "option_id": 1, "text": "Sunday", "is_correct": true },
+        { "option_id": 2, "text": "Monday", "is_correct": false },
+        { "option_id": 3, "text": "Saturday", "is_correct": false },
+        { "option_id": 4, "text": "Friday", "is_correct": false }
+      ],
+      "answer": "Sunday"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which day comes before Friday?",
+      "options": [
+        { "option_id": 1, "text": "Thursday", "is_correct": true },
+        { "option_id": 2, "text": "Wednesday", "is_correct": false },
+        { "option_id": 3, "text": "Saturday", "is_correct": false },
+        { "option_id": 4, "text": "Sunday", "is_correct": false }
+      ],
+      "answer": "Thursday"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which day is the last day of the week?",
+      "options": [
+        { "option_id": 1, "text": "Saturday", "is_correct": true },
+        { "option_id": 2, "text": "Friday", "is_correct": false },
+        { "option_id": 3, "text": "Sunday", "is_correct": false },
+        { "option_id": 4, "text": "Monday", "is_correct": false }
+      ],
+      "answer": "Saturday"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which day comes after Wednesday?",
+      "options": [
+        { "option_id": 1, "text": "Thursday", "is_correct": true },
+        { "option_id": 2, "text": "Tuesday", "is_correct": false },
+        { "option_id": 3, "text": "Friday", "is_correct": false },
+        { "option_id": 4, "text": "Saturday", "is_correct": false }
+      ],
+      "answer": "Thursday"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which day comes before Monday?",
+      "options": [
+        { "option_id": 1, "text": "Sunday", "is_correct": true },
+        { "option_id": 2, "text": "Saturday", "is_correct": false },
+        { "option_id": 3, "text": "Tuesday", "is_correct": false },
+        { "option_id": 4, "text": "Friday", "is_correct": false }
+      ],
+      "answer": "Sunday"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which day comes after Friday?",
+      "options": [
+        { "option_id": 1, "text": "Saturday", "is_correct": true },
+        { "option_id": 2, "text": "Sunday", "is_correct": false },
+        { "option_id": 3, "text": "Thursday", "is_correct": false },
+        { "option_id": 4, "text": "Monday", "is_correct": false }
+      ],
+      "answer": "Saturday"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which day comes before Wednesday?",
+      "options": [
+        { "option_id": 1, "text": "Tuesday", "is_correct": true },
+        { "option_id": 2, "text": "Monday", "is_correct": false },
+        { "option_id": 3, "text": "Thursday", "is_correct": false },
+        { "option_id": 4, "text": "Friday", "is_correct": false }
+      ],
+      "answer": "Tuesday"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which day comes after Tuesday?",
+      "options": [
+        { "option_id": 1, "text": "Wednesday", "is_correct": true },
+        { "option_id": 2, "text": "Thursday", "is_correct": false },
+        { "option_id": 3, "text": "Monday", "is_correct": false },
+        { "option_id": 4, "text": "Friday", "is_correct": false }
+      ],
+      "answer": "Wednesday"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which day comes before Saturday?",
+      "options": [
+        { "option_id": 1, "text": "Friday", "is_correct": true },
+        { "option_id": 2, "text": "Thursday", "is_correct": false },
+        { "option_id": 3, "text": "Sunday", "is_correct": false },
+        { "option_id": 4, "text": "Monday", "is_correct": false }
+      ],
+      "answer": "Friday"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which day is between Tuesday and Thursday?",
+      "options": [
+        { "option_id": 1, "text": "Wednesday", "is_correct": true },
+        { "option_id": 2, "text": "Monday", "is_correct": false },
+        { "option_id": 3, "text": "Friday", "is_correct": false },
+        { "option_id": 4, "text": "Saturday", "is_correct": false }
+      ],
+      "answer": "Wednesday"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which day is a holiday for many children?",
+      "options": [
+        { "option_id": 1, "text": "Sunday", "is_correct": true },
+        { "option_id": 2, "text": "Monday", "is_correct": false },
+        { "option_id": 3, "text": "Tuesday", "is_correct": false },
+        { "option_id": 4, "text": "Thursday", "is_correct": false }
+      ],
+      "answer": "Sunday"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do children learn from this lesson?",
+      "options": [
+        { "option_id": 1, "text": "Names and order of days", "is_correct": true },
+        { "option_id": 2, "text": "Colours", "is_correct": false },
+        { "option_id": 3, "text": "Animal names", "is_correct": false },
+        { "option_id": 4, "text": "Road rules", "is_correct": false }
+      ],
+      "answer": "Names and order of days"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is this lesson about?",
+      "answer": "This lesson is about the days of the week."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How many days are there in a week?",
+      "answer": "There are seven days in a week."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Which is the first day of the week?",
+      "answer": "Sunday is the first day of the week."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which is the last day of the week?",
+      "answer": "Saturday is the last day of the week."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which day comes after Monday?",
+      "answer": "Tuesday comes after Monday."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which day comes before Friday?",
+      "answer": "Thursday comes before Friday."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Which day comes after Wednesday?",
+      "answer": "Thursday comes after Wednesday."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Which day comes before Monday?",
+      "answer": "Sunday comes before Monday."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Which day comes after Friday?",
+      "answer": "Saturday comes after Friday."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which day comes before Wednesday?",
+      "answer": "Tuesday comes before Wednesday."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which day is between Tuesday and Thursday?",
+      "answer": "Wednesday is between Tuesday and Thursday."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Which day is a holiday for many children?",
+      "answer": "Sunday is a holiday for many children."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Do children learn the order of days?",
+      "answer": "Yes, children learn the order of days."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Is this lesson easy for children?",
+      "answer": "Yes, this lesson is easy for children."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is this lesson important?",
+      "answer": "It helps children learn the names and order of days."
+    }
+  ]
+}

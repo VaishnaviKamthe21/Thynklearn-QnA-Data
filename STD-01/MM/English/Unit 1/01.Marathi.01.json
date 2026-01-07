@@ -1,0 +1,192 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.01",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Welcome Song"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What type of song is sung at the beginning of the class?",
+      "options": [
+        { "option_id": 1, "text": "Goodbye song", "is_correct": false },
+        { "option_id": 2, "text": "Welcome song", "is_correct": true },
+        { "option_id": 3, "text": "Birthday song", "is_correct": false },
+        { "option_id": 4, "text": "Sleep song", "is_correct": false }
+      ],
+      "answer": "Welcome song"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What sound does the bell make in the Welcome Song?",
+      "options": [
+        { "option_id": 1, "text": "Tick tick", "is_correct": false },
+        { "option_id": 2, "text": "Ding dong", "is_correct": true },
+        { "option_id": 3, "text": "Clap clap", "is_correct": false },
+        { "option_id": 4, "text": "Ring ring", "is_correct": false }
+      ],
+      "answer": "Ding dong"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who sings the Welcome Song together?",
+      "options": [
+        { "option_id": 1, "text": "Teachers only", "is_correct": false },
+        { "option_id": 2, "text": "Children", "is_correct": true },
+        { "option_id": 3, "text": "Parents", "is_correct": false },
+        { "option_id": 4, "text": "Animals", "is_correct": false }
+      ],
+      "answer": "Children"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does the Welcome Song bring?",
+      "options": [
+        { "option_id": 1, "text": "Sadness", "is_correct": false },
+        { "option_id": 2, "text": "Fear", "is_correct": false },
+        { "option_id": 3, "text": "Joy", "is_correct": true },
+        { "option_id": 4, "text": "Sleep", "is_correct": false }
+      ],
+      "answer": "Joy"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When is the Welcome Song sung?",
+      "options": [
+        { "option_id": 1, "text": "At night", "is_correct": false },
+        { "option_id": 2, "text": "At the start of the day", "is_correct": true },
+        { "option_id": 3, "text": "Before sleeping", "is_correct": false },
+        { "option_id": 4, "text": "After lunch", "is_correct": false }
+      ],
+      "answer": "At the start of the day"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What do children do while singing the Welcome Song?",
+      "options": [
+        { "option_id": 1, "text": "Sit silently", "is_correct": false },
+        { "option_id": 2, "text": "Sing and act", "is_correct": true },
+        { "option_id": 3, "text": "Sleep", "is_correct": false },
+        { "option_id": 4, "text": "Write notes", "is_correct": false }
+      ],
+      "answer": "Sing and act"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What feeling does the Welcome Song create?",
+      "options": [
+        { "option_id": 1, "text": "Anger", "is_correct": false },
+        { "option_id": 2, "text": "Happiness", "is_correct": true },
+        { "option_id": 3, "text": "Fear", "is_correct": false },
+        { "option_id": 4, "text": "Tiredness", "is_correct": false }
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does the bell invite children to do?",
+      "options": [
+        { "option_id": 1, "text": "Go home", "is_correct": false },
+        { "option_id": 2, "text": "Come together", "is_correct": true },
+        { "option_id": 3, "text": "Sleep", "is_correct": false },
+        { "option_id": 4, "text": "Stop singing", "is_correct": false }
+      ],
+      "answer": "Come together"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which activity makes learning fun in the Welcome Song?",
+      "options": [
+        { "option_id": 1, "text": "Dancing and singing", "is_correct": true },
+        { "option_id": 2, "text": "Writing long answers", "is_correct": false },
+        { "option_id": 3, "text": "Reading silently", "is_correct": false },
+        { "option_id": 4, "text": "Doing homework", "is_correct": false }
+      ],
+      "answer": "Dancing and singing"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What begins with the Welcome Song?",
+      "options": [
+        { "option_id": 1, "text": "The school day", "is_correct": true },
+        { "option_id": 2, "text": "Lunch time", "is_correct": false },
+        { "option_id": 3, "text": "Holiday", "is_correct": false },
+        { "option_id": 4, "text": "Examination", "is_correct": false }
+      ],
+      "answer": "The school day"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is a Welcome Song?",
+      "answer": "A Welcome Song is sung to greet everyone happily at the beginning of the day."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why do children sing the Welcome Song?",
+      "answer": "Children sing the Welcome Song to start the day happily."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Who sings the Welcome Song in class?",
+      "answer": "Children sing the Welcome Song together in class."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What sound is heard in the Welcome Song?",
+      "answer": "The sound 'ding dong' is heard in the Welcome Song."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "When is the Welcome Song sung?",
+      "answer": "The Welcome Song is sung at the beginning of the school day."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How does the Welcome Song make children feel?",
+      "answer": "It makes children feel happy and joyful."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What do children do while singing the Welcome Song?",
+      "answer": "Children sing and do actions while singing the song."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why is the Welcome Song important?",
+      "answer": "It helps children feel excited and ready to learn."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What does the bell tell children to do?",
+      "answer": "The bell tells children to come together."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How does the Welcome Song help learning?",
+      "answer": "It makes learning fun and joyful."
+    }
+  ]
+}

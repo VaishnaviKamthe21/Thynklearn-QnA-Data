@@ -1,0 +1,192 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.02",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Greetings"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which greeting do we use in the morning?",
+      "options": [
+        { "option_id": 1, "text": "Good night", "is_correct": false },
+        { "option_id": 2, "text": "Good morning", "is_correct": true },
+        { "option_id": 3, "text": "Good evening", "is_correct": false },
+        { "option_id": 4, "text": "Goodbye", "is_correct": false }
+      ],
+      "answer": "Good morning"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What do children say to the teacher in the morning?",
+      "options": [
+        { "option_id": 1, "text": "Good night", "is_correct": false },
+        { "option_id": 2, "text": "Good morning", "is_correct": true },
+        { "option_id": 3, "text": "Goodbye", "is_correct": false },
+        { "option_id": 4, "text": "Sorry", "is_correct": false }
+      ],
+      "answer": "Good morning"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which greeting is used in the afternoon?",
+      "options": [
+        { "option_id": 1, "text": "Good night", "is_correct": false },
+        { "option_id": 2, "text": "Good afternoon", "is_correct": true },
+        { "option_id": 3, "text": "Good morning", "is_correct": false },
+        { "option_id": 4, "text": "Goodbye", "is_correct": false }
+      ],
+      "answer": "Good afternoon"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which greeting is used in the evening?",
+      "options": [
+        { "option_id": 1, "text": "Good afternoon", "is_correct": false },
+        { "option_id": 2, "text": "Good evening", "is_correct": true },
+        { "option_id": 3, "text": "Good morning", "is_correct": false },
+        { "option_id": 4, "text": "Good night", "is_correct": false }
+      ],
+      "answer": "Good evening"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which greeting is used before sleeping?",
+      "options": [
+        { "option_id": 1, "text": "Good morning", "is_correct": false },
+        { "option_id": 2, "text": "Good afternoon", "is_correct": false },
+        { "option_id": 3, "text": "Good night", "is_correct": true },
+        { "option_id": 4, "text": "Good evening", "is_correct": false }
+      ],
+      "answer": "Good night"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word is used to greet elders politely?",
+      "options": [
+        { "option_id": 1, "text": "Hello", "is_correct": false },
+        { "option_id": 2, "text": "Namaste", "is_correct": true },
+        { "option_id": 3, "text": "Bye", "is_correct": false },
+        { "option_id": 4, "text": "Welcome", "is_correct": false }
+      ],
+      "answer": "Namaste"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What do we say when we meet someone politely?",
+      "options": [
+        { "option_id": 1, "text": "Thank you", "is_correct": false },
+        { "option_id": 2, "text": "Good morning", "is_correct": true },
+        { "option_id": 3, "text": "Sorry", "is_correct": false },
+        { "option_id": 4, "text": "Please", "is_correct": false }
+      ],
+      "answer": "Good morning"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which greeting shows respect to teachers?",
+      "options": [
+        { "option_id": 1, "text": "Bye", "is_correct": false },
+        { "option_id": 2, "text": "Namaste", "is_correct": true },
+        { "option_id": 3, "text": "Hello", "is_correct": false },
+        { "option_id": 4, "text": "Welcome", "is_correct": false }
+      ],
+      "answer": "Namaste"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "When do we say Good evening?",
+      "options": [
+        { "option_id": 1, "text": "In the morning", "is_correct": false },
+        { "option_id": 2, "text": "In the afternoon", "is_correct": false },
+        { "option_id": 3, "text": "In the evening", "is_correct": true },
+        { "option_id": 4, "text": "At midnight", "is_correct": false }
+      ],
+      "answer": "In the evening"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What do children reply when the teacher says Good morning?",
+      "options": [
+        { "option_id": 1, "text": "Goodbye", "is_correct": false },
+        { "option_id": 2, "text": "Good morning", "is_correct": true },
+        { "option_id": 3, "text": "Good night", "is_correct": false },
+        { "option_id": 4, "text": "Sorry", "is_correct": false }
+      ],
+      "answer": "Good morning"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What are greetings?",
+      "answer": "Greetings are polite words we use when we meet someone."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "When do we say Good morning?",
+      "answer": "We say Good morning in the morning when we meet someone."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What greeting is used in the afternoon?",
+      "answer": "Good afternoon is used in the afternoon."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which greeting is used before sleeping?",
+      "answer": "Good night is used before sleeping."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why do we greet our teachers?",
+      "answer": "We greet our teachers to show respect."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What does Namaste show?",
+      "answer": "Namaste shows respect and politeness."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "When do we say Good evening?",
+      "answer": "We say Good evening in the evening."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why are greetings important?",
+      "answer": "Greetings help us talk politely with others."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What greeting do children say to elders?",
+      "answer": "Children say Namaste to elders."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What should we reply when someone greets us?",
+      "answer": "We should reply with the same greeting politely."
+    }
+  ]
+}

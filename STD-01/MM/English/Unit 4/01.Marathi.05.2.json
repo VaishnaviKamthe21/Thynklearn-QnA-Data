@@ -1,0 +1,102 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.06",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Story Time - 2 (Two Wise Goats)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "How many goats are in this story?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": true },
+        { "option_id": 2, "text": "One", "is_correct": false },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What problem did the goats face?",
+      "options": [
+        { "option_id": 1, "text": "Crossing a narrow bridge", "is_correct": true },
+        { "option_id": 2, "text": "Finding food", "is_correct": false },
+        { "option_id": 3, "text": "Running fast", "is_correct": false },
+        { "option_id": 4, "text": "Climbing a hill", "is_correct": false }
+      ],
+      "answer": "Crossing a narrow bridge"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What did one goat do to help?",
+      "options": [
+        { "option_id": 1, "text": "Sat down", "is_correct": true },
+        { "option_id": 2, "text": "Pushed", "is_correct": false },
+        { "option_id": 3, "text": "Shouted", "is_correct": false },
+        { "option_id": 4, "text": "Ran away", "is_correct": false }
+      ],
+      "answer": "Sat down"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How did the other goat cross the bridge?",
+      "options": [
+        { "option_id": 1, "text": "By walking over the first goat", "is_correct": true },
+        { "option_id": 2, "text": "By jumping", "is_correct": false },
+        { "option_id": 3, "text": "By swimming", "is_correct": false },
+        { "option_id": 4, "text": "By flying", "is_correct": false }
+      ],
+      "answer": "By walking over the first goat"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What kind of goats were they?",
+      "options": [
+        { "option_id": 1, "text": "Wise", "is_correct": true },
+        { "option_id": 2, "text": "Silly", "is_correct": false },
+        { "option_id": 3, "text": "Lazy", "is_correct": false },
+        { "option_id": 4, "text": "Angry", "is_correct": false }
+      ],
+      "answer": "Wise"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Who are the characters in the story?",
+      "answer": "The characters are two wise goats."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What problem did the goats face?",
+      "answer": "They had to cross a narrow bridge."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "How did the goats solve the problem?",
+      "answer": "They helped each other."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Did the goats fight?",
+      "answer": "No, they did not fight."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What lesson does the story teach?",
+      "answer": "The story teaches us to be helpful and wise."
+    }
+  ]
+}

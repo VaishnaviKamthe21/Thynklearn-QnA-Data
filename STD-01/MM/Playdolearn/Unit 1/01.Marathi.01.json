@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.01",
+    "standard": "1",
+    "subject": "Lets Play Do Learn",
+    "medium": "Marathi",
+    "chapter_name": "माझी दिनचर्या"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "मुलांनी कधी उठावे?",
+      "options": [
+        { "option_id": 1, "text": "दुपारी", "is_correct": false },
+        { "option_id": 2, "text": "रात्री", "is_correct": false },
+        { "option_id": 3, "text": "सूर्योदयापूर्वी", "is_correct": true },
+        { "option_id": 4, "text": "संध्याकाळी", "is_correct": false }
+      ],
+      "answer": "सूर्योदयापूर्वी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "उठल्यानंतर प्रथम कोणती कृती करावी?",
+      "options": [
+        { "option_id": 1, "text": "खेळणे", "is_correct": false },
+        { "option_id": 2, "text": "दात घासणे", "is_correct": true },
+        { "option_id": 3, "text": "जेवण करणे", "is_correct": false },
+        { "option_id": 4, "text": "झोपणे", "is_correct": false }
+      ],
+      "answer": "दात घासणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "दात घासल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "दात स्वच्छ राहतात", "is_correct": true },
+        { "option_id": 2, "text": "भूक लागत नाही", "is_correct": false },
+        { "option_id": 3, "text": "झोप येते", "is_correct": false },
+        { "option_id": 4, "text": "खेळ चांगला होतो", "is_correct": false }
+      ],
+      "answer": "दात स्वच्छ राहतात"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "अंघोळ केल्याने शरीर कसे राहते?",
+      "options": [
+        { "option_id": 1, "text": "मळकट", "is_correct": false },
+        { "option_id": 2, "text": "आजारी", "is_correct": false },
+        { "option_id": 3, "text": "स्वच्छ", "is_correct": true },
+        { "option_id": 4, "text": "थकलेले", "is_correct": false }
+      ],
+      "answer": "स्वच्छ"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "केस कशासाठी विंचरतात?",
+      "options": [
+        { "option_id": 1, "text": "सुंदर दिसण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "अभ्यासासाठी", "is_correct": false }
+      ],
+      "answer": "सुंदर दिसण्यासाठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "वेळेवर जेवण केल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "आळस येतो", "is_correct": false },
+        { "option_id": 2, "text": "शरीर निरोगी राहते", "is_correct": true },
+        { "option_id": 3, "text": "भूक लागत नाही", "is_correct": false },
+        { "option_id": 4, "text": "खेळ बंद होतो", "is_correct": false }
+      ],
+      "answer": "शरीर निरोगी राहते"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शाळेत कशासाठी जातो?",
+      "options": [
+        { "option_id": 1, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "अभ्यासासाठी", "is_correct": true },
+        { "option_id": 4, "text": "फिरण्यासाठी", "is_correct": false }
+      ],
+      "answer": "अभ्यासासाठी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मैदानावर खेळल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "थकवा येतो", "is_correct": false },
+        { "option_id": 2, "text": "शरीर तंदुरुस्त राहते", "is_correct": true },
+        { "option_id": 3, "text": "आळस येतो", "is_correct": false },
+        { "option_id": 4, "text": "भूक लागत नाही", "is_correct": false }
+      ],
+      "answer": "शरीर तंदुरुस्त राहते"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "अभ्यास केल्याने काय वाढते?",
+      "options": [
+        { "option_id": 1, "text": "आळस", "is_correct": false },
+        { "option_id": 2, "text": "ज्ञान", "is_correct": true },
+        { "option_id": 3, "text": "थकवा", "is_correct": false },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "ज्ञान"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "घरची कामे केल्याने कोणती सवय लागते?",
+      "options": [
+        { "option_id": 1, "text": "आळस", "is_correct": false },
+        { "option_id": 2, "text": "जबाबदारी", "is_correct": true },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "आजारीपणा", "is_correct": false }
+      ],
+      "answer": "जबाबदारी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "स्वच्छ कपडे का घालावेत?",
+      "options": [
+        { "option_id": 1, "text": "मळकट दिसण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "निरोगी राहण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "खेळ टाळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "निरोगी राहण्यासाठी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "झोप कशासाठी आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळासाठी", "is_correct": false },
+        { "option_id": 2, "text": "शरीराला विश्रांती मिळण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "अभ्यास टाळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "भूक वाढण्यासाठी", "is_correct": false }
+      ],
+      "answer": "शरीराला विश्रांती मिळण्यासाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "चांगली दिनचर्या कशासाठी उपयुक्त आहे?",
+      "options": [
+        { "option_id": 1, "text": "आळसासाठी", "is_correct": false },
+        { "option_id": 2, "text": "आरोग्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "आजारीपणासाठी", "is_correct": false },
+        { "option_id": 4, "text": "गोंधळासाठी", "is_correct": false }
+      ],
+      "answer": "आरोग्यासाठी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "सकाळची स्वच्छता कोणत्या सवयीशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाईट सवय", "is_correct": false },
+        { "option_id": 2, "text": "चांगली सवय", "is_correct": true },
+        { "option_id": 3, "text": "आळशी सवय", "is_correct": false },
+        { "option_id": 4, "text": "धोकादायक सवय", "is_correct": false }
+      ],
+      "answer": "चांगली सवय"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "दिनचर्येत कोणती गोष्ट टाळावी?",
+      "options": [
+        { "option_id": 1, "text": "वेळेवर काम करणे", "is_correct": false },
+        { "option_id": 2, "text": "स्वच्छता ठेवणे", "is_correct": false },
+        { "option_id": 3, "text": "आळस करणे", "is_correct": true },
+        { "option_id": 4, "text": "अभ्यास करणे", "is_correct": false }
+      ],
+      "answer": "आळस करणे"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "दिनचर्या म्हणजे काय?",
+      "answer": "दररोज आपण करतो त्या कामांची सवय म्हणजे दिनचर्या."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "सूर्योदयापूर्वी उठणे का चांगले आहे?",
+      "answer": "लवकर उठल्याने शरीर ताजेतवाने राहते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "दात घासल्याने काय फायदा होतो?",
+      "answer": "दात स्वच्छ राहतात आणि आजार टाळता येतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "अंघोळ केल्याने शरीर कसे राहते?",
+      "answer": "अंघोळ केल्याने शरीर स्वच्छ आणि निरोगी राहते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "केस विंचरणे का आवश्यक आहे?",
+      "answer": "केस नीट राहतात आणि स्वच्छ दिसतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "वेळेवर जेवण का करावे?",
+      "answer": "वेळेवर जेवण केल्याने शरीर निरोगी राहते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "शाळेत जाऊन काय शिकतो?",
+      "answer": "शाळेत जाऊन नवीन गोष्टी शिकतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "खेळण्याचा फायदा काय?",
+      "answer": "खेळल्याने शरीर मजबूत होते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "अभ्यास का करावा?",
+      "answer": "अभ्यास केल्याने ज्ञान वाढते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "घरची कामे करणे का चांगले आहे?",
+      "answer": "घरची कामे केल्याने जबाबदारीची सवय लागते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "स्वच्छ कपडे का घालावेत?",
+      "answer": "स्वच्छ कपड्यांमुळे आजार टाळता येतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "झोप का आवश्यक आहे?",
+      "answer": "झोपेमुळे शरीराला विश्रांती मिळते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "चांगली दिनचर्या कशी असावी?",
+      "answer": "वेळेवर आणि स्वच्छ सवयींनी भरलेली असावी."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "सकाळची स्वच्छता का महत्त्वाची आहे?",
+      "answer": "स्वच्छतेमुळे आरोग्य चांगले राहते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "दिनचर्येचा आरोग्यावर काय परिणाम होतो?",
+      "answer": "चांगल्या दिनचर्येमुळे आरोग्य सुधारते."
+    }
+  ]
+}

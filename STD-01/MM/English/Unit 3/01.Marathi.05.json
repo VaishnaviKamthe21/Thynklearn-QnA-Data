@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.05",
+    "standard": "1",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "My Fruit Basket"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is shown in the fruit basket?",
+      "options": [
+        { "option_id": 1, "text": "Fruits", "is_correct": true },
+        { "option_id": 2, "text": "Vegetables", "is_correct": false },
+        { "option_id": 3, "text": "Animals", "is_correct": false },
+        { "option_id": 4, "text": "Toys", "is_correct": false }
+      ],
+      "answer": "Fruits"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which fruit is yellow and long?",
+      "options": [
+        { "option_id": 1, "text": "Banana", "is_correct": true },
+        { "option_id": 2, "text": "Apple", "is_correct": false },
+        { "option_id": 3, "text": "Grapes", "is_correct": false },
+        { "option_id": 4, "text": "Guava", "is_correct": false }
+      ],
+      "answer": "Banana"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which fruit has many small seeds?",
+      "options": [
+        { "option_id": 1, "text": "Pomegranate", "is_correct": true },
+        { "option_id": 2, "text": "Apple", "is_correct": false },
+        { "option_id": 3, "text": "Banana", "is_correct": false },
+        { "option_id": 4, "text": "Mango", "is_correct": false }
+      ],
+      "answer": "Pomegranate"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which fruit is shown as water-melon?",
+      "options": [
+        { "option_id": 1, "text": "Water-melon", "is_correct": true },
+        { "option_id": 2, "text": "Orange", "is_correct": false },
+        { "option_id": 3, "text": "Apple", "is_correct": false },
+        { "option_id": 4, "text": "Guava", "is_correct": false }
+      ],
+      "answer": "Water-melon"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which fruit is small and round in a bunch?",
+      "options": [
+        { "option_id": 1, "text": "Grapes", "is_correct": true },
+        { "option_id": 2, "text": "Apple", "is_correct": false },
+        { "option_id": 3, "text": "Mango", "is_correct": false },
+        { "option_id": 4, "text": "Papaya", "is_correct": false }
+      ],
+      "answer": "Grapes"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which fruit is red or green?",
+      "options": [
+        { "option_id": 1, "text": "Apple", "is_correct": true },
+        { "option_id": 2, "text": "Banana", "is_correct": false },
+        { "option_id": 3, "text": "Papaya", "is_correct": false },
+        { "option_id": 4, "text": "Pineapple", "is_correct": false }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which fruit has a crown on top?",
+      "options": [
+        { "option_id": 1, "text": "Pineapple", "is_correct": true },
+        { "option_id": 2, "text": "Mango", "is_correct": false },
+        { "option_id": 3, "text": "Apple", "is_correct": false },
+        { "option_id": 4, "text": "Guava", "is_correct": false }
+      ],
+      "answer": "Pineapple"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which sentence is correct?",
+      "options": [
+        { "option_id": 1, "text": "Do you like apples?", "is_correct": true },
+        { "option_id": 2, "text": "You like apples?", "is_correct": false },
+        { "option_id": 3, "text": "Like you apples?", "is_correct": false },
+        { "option_id": 4, "text": "Apples you like?", "is_correct": false }
+      ],
+      "answer": "Do you like apples?"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which is a correct answer?",
+      "options": [
+        { "option_id": 1, "text": "Yes, I do.", "is_correct": true },
+        { "option_id": 2, "text": "Yes I.", "is_correct": false },
+        { "option_id": 3, "text": "Do yes.", "is_correct": false },
+        { "option_id": 4, "text": "I yes.", "is_correct": false }
+      ],
+      "answer": "Yes, I do."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which answer shows dislike?",
+      "options": [
+        { "option_id": 1, "text": "No, I don’t.", "is_correct": true },
+        { "option_id": 2, "text": "Yes, I do.", "is_correct": false },
+        { "option_id": 3, "text": "I like.", "is_correct": false },
+        { "option_id": 4, "text": "Very good.", "is_correct": false }
+      ],
+      "answer": "No, I don’t."
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who has a pineapple in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "Pranav", "is_correct": true },
+        { "option_id": 2, "text": "Shreya", "is_correct": false },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Riya", "is_correct": false }
+      ],
+      "answer": "Pranav"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who has many oranges?",
+      "options": [
+        { "option_id": 1, "text": "Shreya", "is_correct": true },
+        { "option_id": 2, "text": "Pranav", "is_correct": false },
+        { "option_id": 3, "text": "Raj", "is_correct": false },
+        { "option_id": 4, "text": "Abha", "is_correct": false }
+      ],
+      "answer": "Shreya"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word shows more than one fruit?",
+      "options": [
+        { "option_id": 1, "text": "Many", "is_correct": true },
+        { "option_id": 2, "text": "One", "is_correct": false },
+        { "option_id": 3, "text": "This", "is_correct": false },
+        { "option_id": 4, "text": "That", "is_correct": false }
+      ],
+      "answer": "Many"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What do we do in this lesson?",
+      "options": [
+        { "option_id": 1, "text": "Talk about fruits", "is_correct": true },
+        { "option_id": 2, "text": "Read a story", "is_correct": false },
+        { "option_id": 3, "text": "Count numbers", "is_correct": false },
+        { "option_id": 4, "text": "Learn colours", "is_correct": false }
+      ],
+      "answer": "Talk about fruits"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What skill is practiced here?",
+      "options": [
+        { "option_id": 1, "text": "Speaking", "is_correct": true },
+        { "option_id": 2, "text": "Drawing", "is_correct": false },
+        { "option_id": 3, "text": "Writing", "is_correct": false },
+        { "option_id": 4, "text": "Counting", "is_correct": false }
+      ],
+      "answer": "Speaking"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is shown in the fruit basket?",
+      "answer": "Different fruits are shown in the basket."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Name any one fruit from the lesson.",
+      "answer": "Apple."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Which fruit is long and yellow?",
+      "answer": "Banana is long and yellow."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which fruit has many seeds?",
+      "answer": "Pomegranate has many seeds."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What question is used to ask likes?",
+      "answer": "Do you like apples?"
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "How do you say you like something?",
+      "answer": "We say Yes, I do."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How do you say you do not like something?",
+      "answer": "We say No, I don’t."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Who has a pineapple?",
+      "answer": "Pranav has a pineapple."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Who has many oranges?",
+      "answer": "Shreya has many oranges."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which fruit comes in a bunch?",
+      "answer": "Grapes come in a bunch."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which fruit has a crown?",
+      "answer": "Pineapple has a crown."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What does the word many show?",
+      "answer": "It shows more than one."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Is this lesson about fruits or animals?",
+      "answer": "This lesson is about fruits."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Do children talk or write in this lesson?",
+      "answer": "Children talk in this lesson."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why is this lesson useful?",
+      "answer": "It helps children name fruits and speak."
+    }
+  ]
+}

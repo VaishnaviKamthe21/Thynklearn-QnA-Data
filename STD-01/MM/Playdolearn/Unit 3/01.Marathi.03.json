@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.03",
+    "standard": "1",
+    "subject": "Lets Play Do Learn",
+    "medium": "Marathi",
+    "chapter_name": "गायन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "गायन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "चित्र काढणे", "is_correct": false },
+        { "option_id": 2, "text": "स्वरांच्या साहाय्याने गाणे", "is_correct": true },
+        { "option_id": 3, "text": "नाचणे", "is_correct": false },
+        { "option_id": 4, "text": "लिहिणे", "is_correct": false }
+      ],
+      "answer": "स्वरांच्या साहाय्याने गाणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "गायनासाठी वाद्ये असणे आवश्यक आहे का?",
+      "options": [
+        { "option_id": 1, "text": "होय, नेहमीच", "is_correct": false },
+        { "option_id": 2, "text": "नाही, गुणगुणणेही गायन आहे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त ढोल लागतो", "is_correct": false },
+        { "option_id": 4, "text": "फक्त पेटी लागते", "is_correct": false }
+      ],
+      "answer": "नाही, गुणगुणणेही गायन आहे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "अंकगीतामध्ये काय शिकवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "अक्षरे", "is_correct": false },
+        { "option_id": 2, "text": "संख्या", "is_correct": true },
+        { "option_id": 3, "text": "चित्रे", "is_correct": false },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "संख्या"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "अंकगीतामध्ये कोणत्या गोष्टींचे वर्णन आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळणी", "is_correct": false },
+        { "option_id": 2, "text": "फुले, नदी, वारा, पक्षी", "is_correct": true },
+        { "option_id": 3, "text": "वाहने", "is_correct": false },
+        { "option_id": 4, "text": "घर", "is_correct": false }
+      ],
+      "answer": "फुले, नदी, वारा, पक्षी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अक्षरगीतामध्ये कोणती अक्षरे वापरली आहेत?",
+      "options": [
+        { "option_id": 1, "text": "क ख ग", "is_correct": false },
+        { "option_id": 2, "text": "अ आ इ ई उ ऊ", "is_correct": true },
+        { "option_id": 3, "text": "च छ ज", "is_correct": false },
+        { "option_id": 4, "text": "ट ठ ड", "is_correct": false }
+      ],
+      "answer": "अ आ इ ई उ ऊ"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अक्षरगीतामध्ये कोणती वस्तू दाखवली आहे?",
+      "options": [
+        { "option_id": 1, "text": "चेंडू", "is_correct": false },
+        { "option_id": 2, "text": "फुगा", "is_correct": true },
+        { "option_id": 3, "text": "पतंग", "is_correct": false },
+        { "option_id": 4, "text": "खेळणी", "is_correct": false }
+      ],
+      "answer": "फुगा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गोष्टीरूप गीतामध्ये कोणती गोष्ट आहे?",
+      "options": [
+        { "option_id": 1, "text": "सिंह आणि उंदीर", "is_correct": false },
+        { "option_id": 2, "text": "ससा आणि कासव", "is_correct": true },
+        { "option_id": 3, "text": "कावळा आणि घडा", "is_correct": false },
+        { "option_id": 4, "text": "माकड आणि मगर", "is_correct": false }
+      ],
+      "answer": "ससा आणि कासव"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ससा कसा होता?",
+      "options": [
+        { "option_id": 1, "text": "आळशी", "is_correct": false },
+        { "option_id": 2, "text": "चपळ", "is_correct": true },
+        { "option_id": 3, "text": "हळू", "is_correct": false },
+        { "option_id": 4, "text": "घाबरट", "is_correct": false }
+      ],
+      "answer": "चपळ"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कासव कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "आळशी", "is_correct": false },
+        { "option_id": 2, "text": "हुशार", "is_correct": true },
+        { "option_id": 3, "text": "चपळ", "is_correct": false },
+        { "option_id": 4, "text": "रागीट", "is_correct": false }
+      ],
+      "answer": "हुशार"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "शर्यतीत शेवटी कोण जिंकले?",
+      "options": [
+        { "option_id": 1, "text": "ससा", "is_correct": false },
+        { "option_id": 2, "text": "कासव", "is_correct": true },
+        { "option_id": 3, "text": "दोघेही", "is_correct": false },
+        { "option_id": 4, "text": "कोणीच नाही", "is_correct": false }
+      ],
+      "answer": "कासव"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ससा का हरला?",
+      "options": [
+        { "option_id": 1, "text": "तो आजारी होता", "is_correct": false },
+        { "option_id": 2, "text": "तो झोपला", "is_correct": true },
+        { "option_id": 3, "text": "तो थांबला नाही", "is_correct": false },
+        { "option_id": 4, "text": "तो पडला", "is_correct": false }
+      ],
+      "answer": "तो झोपला"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "गायन करताना काय वाढते?",
+      "options": [
+        { "option_id": 1, "text": "राग", "is_correct": false },
+        { "option_id": 2, "text": "आनंद", "is_correct": true },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "आळस", "is_correct": false }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "गायनाचा सराव कशासाठी केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "आवाज थकवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "स्वर सुधारण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "वेळ घालवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "स्वर सुधारण्यासाठी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "गायन कोणत्या कृतीत येते?",
+      "options": [
+        { "option_id": 1, "text": "शारीरिक", "is_correct": false },
+        { "option_id": 2, "text": "सांगीतिक", "is_correct": true },
+        { "option_id": 3, "text": "गणितीय", "is_correct": false },
+        { "option_id": 4, "text": "वैज्ञानिक", "is_correct": false }
+      ],
+      "answer": "सांगीतिक"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा अध्याय कोणत्या इयत्तेसाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "इयत्ता पहिली", "is_correct": true },
+        { "option_id": 2, "text": "इयत्ता तिसरी", "is_correct": false },
+        { "option_id": 3, "text": "इयत्ता पाचवी", "is_correct": false },
+        { "option_id": 4, "text": "इयत्ता सातवी", "is_correct": false }
+      ],
+      "answer": "इयत्ता पहिली"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "गायन म्हणजे काय?",
+      "answer": "स्वरांच्या साहाय्याने गाणे किंवा गुणगुणणे म्हणजे गायन."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "अंकगीत कशासाठी आहे?",
+      "answer": "अंक ओळखण्यासाठी आणि लक्षात ठेवण्यासाठी अंकगीत आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "अंकगीतामध्ये कोणते निसर्गदृश्य आहे?",
+      "answer": "फुले, नदी, वारा आणि पक्षी यांचे वर्णन आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "अक्षरगीतामध्ये कोणती अक्षरे येतात?",
+      "answer": "अ, आ, इ, ई, उ, ऊ ही अक्षरे येतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "अक्षरगीतामध्ये कोणती वस्तू आहे?",
+      "answer": "अक्षरगीतामध्ये फुगा दाखवलेला आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "गोष्टीरूप गीत म्हणजे काय?",
+      "answer": "गोष्ट गाण्याच्या स्वरूपात सांगितलेले गीत म्हणजे गोष्टीरूप गीत."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "गोष्टीरूप गीतात कोणते प्राणी आहेत?",
+      "answer": "ससा आणि कासव हे प्राणी आहेत."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "ससा कसा होता?",
+      "answer": "ससा चपळ होता."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "कासव कसे होते?",
+      "answer": "कासव हुशार होते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "शर्यत कोण जिंकले?",
+      "answer": "शर्यत कासवाने जिंकली."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "ससा का हरला?",
+      "answer": "ससा झोपल्यामुळे हरला."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "गायन करताना विद्यार्थ्यांना कसे वाटते?",
+      "answer": "गायन करताना विद्यार्थ्यांना आनंद वाटतो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "गायनाचा सराव का करावा?",
+      "answer": "स्वर सुधारण्यासाठी गायनाचा सराव करावा."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "हा अध्याय कोणत्या विषयात आहे?",
+      "answer": "हा अध्याय Lets Play Do Learn या विषयात आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "गायन विद्यार्थ्यांना कसे उपयुक्त आहे?",
+      "answer": "गायनामुळे विद्यार्थ्यांची भाषा आणि आत्मविश्वास वाढतो."
+    }
+  ]
+}

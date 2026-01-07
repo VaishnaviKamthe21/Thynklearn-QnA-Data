@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "01.Marathi.03",
+    "standard": "1",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "माझे खेळ"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "चित्रात मुले काय करत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "झोपत आहेत", "is_correct": false },
+        { "option_id": 2, "text": "खेळत आहेत", "is_correct": true },
+        { "option_id": 3, "text": "वाचत आहेत", "is_correct": false },
+        { "option_id": 4, "text": "खात आहेत", "is_correct": false }
+      ],
+      "answer": "खेळत आहेत"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मुले कुठे खेळत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "घरात", "is_correct": false },
+        { "option_id": 2, "text": "मैदानात", "is_correct": true },
+        { "option_id": 3, "text": "वर्गात", "is_correct": false },
+        { "option_id": 4, "text": "रस्त्यावर", "is_correct": false }
+      ],
+      "answer": "मैदानात"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "चित्रात किती मुले दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": false },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": true }
+      ],
+      "answer": "पाच"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मुले कोणता खेळ खेळत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "कबड्डी", "is_correct": false },
+        { "option_id": 2, "text": "पकडापकडी", "is_correct": true },
+        { "option_id": 3, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 4, "text": "फुटबॉल", "is_correct": false }
+      ],
+      "answer": "पकडापकडी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "दुसऱ्या चित्रात मुले काय खेळत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "चेंडू", "is_correct": true },
+        { "option_id": 2, "text": "गाणे", "is_correct": false },
+        { "option_id": 3, "text": "चित्रकला", "is_correct": false },
+        { "option_id": 4, "text": "नाच", "is_correct": false }
+      ],
+      "answer": "चेंडू"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "तिसऱ्या चित्रात कोणता खेळ दाखवला आहे?",
+      "options": [
+        { "option_id": 1, "text": "सापशिडी", "is_correct": false },
+        { "option_id": 2, "text": "कॅरम", "is_correct": true },
+        { "option_id": 3, "text": "बुद्धिबळ", "is_correct": false },
+        { "option_id": 4, "text": "लगोरी", "is_correct": false }
+      ],
+      "answer": "कॅरम"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कॅरम खेळायला काय लागते?",
+      "options": [
+        { "option_id": 1, "text": "चेंडू", "is_correct": false },
+        { "option_id": 2, "text": "पट आणि गोट्या", "is_correct": true },
+        { "option_id": 3, "text": "दोरी", "is_correct": false },
+        { "option_id": 4, "text": "काठी", "is_correct": false }
+      ],
+      "answer": "पट आणि गोट्या"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शेवटच्या चित्रात मुले कोणता खेळ खेळत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "लुडो", "is_correct": true },
+        { "option_id": 2, "text": "कबड्डी", "is_correct": false },
+        { "option_id": 3, "text": "खो-खो", "is_correct": false },
+        { "option_id": 4, "text": "क्रिकेट", "is_correct": false }
+      ],
+      "answer": "लुडो"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "लुडो खेळ कुठे खेळला जातो?",
+      "options": [
+        { "option_id": 1, "text": "मैदानात", "is_correct": false },
+        { "option_id": 2, "text": "घरात", "is_correct": true },
+        { "option_id": 3, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यात", "is_correct": false }
+      ],
+      "answer": "घरात"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "खेळताना मुले कशी दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "रागावलेली", "is_correct": false },
+        { "option_id": 2, "text": "आनंदी", "is_correct": true },
+        { "option_id": 3, "text": "घाबरलेली", "is_correct": false },
+        { "option_id": 4, "text": "झोपाळलेली", "is_correct": false }
+      ],
+      "answer": "आनंदी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "खेळ खेळल्याने काय वाढते?",
+      "options": [
+        { "option_id": 1, "text": "आळस", "is_correct": false },
+        { "option_id": 2, "text": "आरोग्य", "is_correct": true },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "दु:ख", "is_correct": false }
+      ],
+      "answer": "आरोग्य"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खेळताना मुले काय शिकतात?",
+      "options": [
+        { "option_id": 1, "text": "भांडण", "is_correct": false },
+        { "option_id": 2, "text": "मैत्री", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "एकटेपणा", "is_correct": false }
+      ],
+      "answer": "मैत्री"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "चित्रातील खेळ कसे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "धोकादायक", "is_correct": false },
+        { "option_id": 2, "text": "मैदानी आणि घरगुती", "is_correct": true },
+        { "option_id": 3, "text": "फक्त मैदानी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त घरगुती", "is_correct": false }
+      ],
+      "answer": "मैदानी आणि घरगुती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "खेळ खेळताना काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "भांडण", "is_correct": false },
+        { "option_id": 2, "text": "शिस्त", "is_correct": true },
+        { "option_id": 3, "text": "आळस", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "शिस्त"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा धडा कशावर आधारित आहे?",
+      "options": [
+        { "option_id": 1, "text": "कथा", "is_correct": false },
+        { "option_id": 2, "text": "चित्रे", "is_correct": true },
+        { "option_id": 3, "text": "कविता", "is_correct": false },
+        { "option_id": 4, "text": "संवाद", "is_correct": false }
+      ],
+      "answer": "चित्रे"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "चित्रात मुले काय करत आहेत?",
+      "answer": "चित्रात मुले वेगवेगळे खेळ खेळत आहेत."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "मुले कुठे खेळत आहेत?",
+      "answer": "मुले मैदानात आणि घरात खेळत आहेत."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "पहिल्या चित्रात कोणता खेळ आहे?",
+      "answer": "पहिल्या चित्रात मुले पकडापकडी खेळत आहेत."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "दुसऱ्या चित्रात मुले काय वापरत आहेत?",
+      "answer": "दुसऱ्या चित्रात मुले चेंडू वापरत आहेत."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "कॅरम खेळ कसा खेळला जातो?",
+      "answer": "कॅरम खेळ पटावर गोट्या मारून खेळला जातो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "लुडो खेळायला काय लागते?",
+      "answer": "लुडो खेळायला पट आणि सोंगट्या लागतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "खेळ खेळल्याने शरीराला काय फायदा होतो?",
+      "answer": "खेळ खेळल्याने शरीर निरोगी राहते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "खेळताना मुले कशी दिसतात?",
+      "answer": "खेळताना मुले आनंदी दिसतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "खेळामुळे मैत्री कशी वाढते?",
+      "answer": "एकत्र खेळल्याने मुले एकमेकांशी मैत्री करतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "घरगुती खेळाचे एक उदाहरण द्या.",
+      "answer": "लुडो हा एक घरगुती खेळ आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "मैदानी खेळाचे एक उदाहरण द्या.",
+      "answer": "पकडापकडी हा एक मैदानी खेळ आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "खेळ खेळताना शिस्त का आवश्यक आहे?",
+      "answer": "शिस्त असल्याने खेळ नीट आणि सुरक्षित खेळता येतो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "हा धडा कशावर आधारित आहे?",
+      "answer": "हा धडा चित्रांवर आधारित आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "answer": "या धड्यातून खेळाचे महत्त्व शिकायला मिळते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "तुला कोणता खेळ आवडतो?",
+      "answer": "मला पकडापकडी खेळ आवडतो."
+    }
+  ]
+}
