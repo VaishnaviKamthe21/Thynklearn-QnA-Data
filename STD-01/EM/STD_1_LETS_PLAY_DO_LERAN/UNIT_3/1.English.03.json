@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.03",
+    "standard": "1",
+    "subject": "Play Do Learn",
+    "medium": "English",
+    "chapter_name": "Singing"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What do we use to sing?",
+      "options": [
+        { "option_id": 1, "text": "Voice", "is_correct": true },
+        { "option_id": 2, "text": "Hands", "is_correct": false },
+        { "option_id": 3, "text": "Feet", "is_correct": false },
+        { "option_id": 4, "text": "Eyes", "is_correct": false }
+      ],
+      "answer": "Voice"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which sense is used to hear songs?",
+      "options": [
+        { "option_id": 1, "text": "Hearing", "is_correct": true },
+        { "option_id": 2, "text": "Seeing", "is_correct": false },
+        { "option_id": 3, "text": "Smelling", "is_correct": false },
+        { "option_id": 4, "text": "Touching", "is_correct": false }
+      ],
+      "answer": "Hearing"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What do children sing in class?",
+      "options": [
+        { "option_id": 1, "text": "Songs and rhymes", "is_correct": true },
+        { "option_id": 2, "text": "Stories only", "is_correct": false },
+        { "option_id": 3, "text": "Numbers only", "is_correct": false },
+        { "option_id": 4, "text": "Letters only", "is_correct": false }
+      ],
+      "answer": "Songs and rhymes"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How should we sing songs?",
+      "options": [
+        { "option_id": 1, "text": "Clearly", "is_correct": true },
+        { "option_id": 2, "text": "Very fast", "is_correct": false },
+        { "option_id": 3, "text": "Very softly always", "is_correct": false },
+        { "option_id": 4, "text": "Without sound", "is_correct": false }
+      ],
+      "answer": "Clearly"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which activity uses voice?",
+      "options": [
+        { "option_id": 1, "text": "Singing", "is_correct": true },
+        { "option_id": 2, "text": "Drawing", "is_correct": false },
+        { "option_id": 3, "text": "Running", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Singing"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What helps us sing together?",
+      "options": [
+        { "option_id": 1, "text": "Listening carefully", "is_correct": true },
+        { "option_id": 2, "text": "Shouting", "is_correct": false },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Running", "is_correct": false }
+      ],
+      "answer": "Listening carefully"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which activity makes us happy?",
+      "options": [
+        { "option_id": 1, "text": "Singing songs", "is_correct": true },
+        { "option_id": 2, "text": "Being silent", "is_correct": false },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Standing", "is_correct": false }
+      ],
+      "answer": "Singing songs"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What should we do while others sing?",
+      "options": [
+        { "option_id": 1, "text": "Listen", "is_correct": true },
+        { "option_id": 2, "text": "Talk loudly", "is_correct": false },
+        { "option_id": 3, "text": "Run", "is_correct": false },
+        { "option_id": 4, "text": "Sleep", "is_correct": false }
+      ],
+      "answer": "Listen"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which activity uses rhythm?",
+      "options": [
+        { "option_id": 1, "text": "Singing", "is_correct": true },
+        { "option_id": 2, "text": "Drawing", "is_correct": false },
+        { "option_id": 3, "text": "Writing", "is_correct": false },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Singing"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What helps us remember songs?",
+      "options": [
+        { "option_id": 1, "text": "Practice", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping", "is_correct": false },
+        { "option_id": 3, "text": "Running", "is_correct": false },
+        { "option_id": 4, "text": "Crying", "is_correct": false }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which activity is done together in class?",
+      "options": [
+        { "option_id": 1, "text": "Group singing", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping", "is_correct": false },
+        { "option_id": 3, "text": "Reading alone", "is_correct": false },
+        { "option_id": 4, "text": "Writing alone", "is_correct": false }
+      ],
+      "answer": "Group singing"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What should our voice be while singing?",
+      "options": [
+        { "option_id": 1, "text": "Sweet and clear", "is_correct": true },
+        { "option_id": 2, "text": "Very loud always", "is_correct": false },
+        { "option_id": 3, "text": "Silent", "is_correct": false },
+        { "option_id": 4, "text": "Rough", "is_correct": false }
+      ],
+      "answer": "Sweet and clear"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which activity improves pronunciation?",
+      "options": [
+        { "option_id": 1, "text": "Singing", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping", "is_correct": false },
+        { "option_id": 3, "text": "Running", "is_correct": false },
+        { "option_id": 4, "text": "Eating", "is_correct": false }
+      ],
+      "answer": "Singing"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What do songs have?",
+      "options": [
+        { "option_id": 1, "text": "Tune", "is_correct": true },
+        { "option_id": 2, "text": "Pictures", "is_correct": false },
+        { "option_id": 3, "text": "Shapes", "is_correct": false },
+        { "option_id": 4, "text": "Numbers", "is_correct": false }
+      ],
+      "answer": "Tune"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why do we sing songs?",
+      "options": [
+        { "option_id": 1, "text": "To enjoy and learn", "is_correct": true },
+        { "option_id": 2, "text": "To get tired", "is_correct": false },
+        { "option_id": 3, "text": "To waste time", "is_correct": false },
+        { "option_id": 4, "text": "To stop learning", "is_correct": false }
+      ],
+      "answer": "To enjoy and learn"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What do we use to sing?",
+      "answer": "We use our voice to sing."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Which sense helps us hear songs?",
+      "answer": "Hearing sense helps us hear songs."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What do children sing in class?",
+      "answer": "Children sing songs and rhymes."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How should we sing?",
+      "answer": "We should sing clearly."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which activity uses voice?",
+      "answer": "Singing uses voice."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What helps us sing together?",
+      "answer": "Listening carefully helps us sing together."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Why do children enjoy singing?",
+      "answer": "They enjoy singing because it is fun."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What should we do when others sing?",
+      "answer": "We should listen."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Which activity uses rhythm?",
+      "answer": "Singing uses rhythm."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What helps remember songs?",
+      "answer": "Practice helps remember songs."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which activity is done together?",
+      "answer": "Group singing is done together."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How should our voice be while singing?",
+      "answer": "Our voice should be sweet and clear."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Which activity improves pronunciation?",
+      "answer": "Singing improves pronunciation."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What do songs have?",
+      "answer": "Songs have tune."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why do we sing songs?",
+      "answer": "We sing songs to enjoy and learn."
+    }
+  ]
+}

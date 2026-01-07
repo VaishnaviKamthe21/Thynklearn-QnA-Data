@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.04",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Tasty Treat"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "How many slices of bread are needed to make a sandwich?",
+      "options": [
+        { "option_id": 1, "text": "One slice", "is_correct": false },
+        { "option_id": 2, "text": "Two slices", "is_correct": true },
+        { "option_id": 3, "text": "Three slices", "is_correct": false },
+        { "option_id": 4, "text": "Four slices", "is_correct": false }
+      ],
+      "answer": "Two slices"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What do we spread on each slice of bread?",
+      "options": [
+        { "option_id": 1, "text": "Butter", "is_correct": true },
+        { "option_id": 2, "text": "Milk", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Oil", "is_correct": false }
+      ],
+      "answer": "Butter"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is spread on the butter?",
+      "options": [
+        { "option_id": 1, "text": "Chutney", "is_correct": true },
+        { "option_id": 2, "text": "Sugar", "is_correct": false },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "Flour", "is_correct": false }
+      ],
+      "answer": "Chutney"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How do we keep one slice over the other?",
+      "options": [
+        { "option_id": 1, "text": "Butter side down", "is_correct": true },
+        { "option_id": 2, "text": "Dry side down", "is_correct": false },
+        { "option_id": 3, "text": "Upward", "is_correct": false },
+        { "option_id": 4, "text": "Sideways", "is_correct": false }
+      ],
+      "answer": "Butter side down"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What do we do after placing the bread slices?",
+      "options": [
+        { "option_id": 1, "text": "Press a little", "is_correct": true },
+        { "option_id": 2, "text": "Bake it", "is_correct": false },
+        { "option_id": 3, "text": "Cut it", "is_correct": false },
+        { "option_id": 4, "text": "Boil it", "is_correct": false }
+      ],
+      "answer": "Press a little"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is ready after pressing the bread?",
+      "options": [
+        { "option_id": 1, "text": "Sandwich", "is_correct": true },
+        { "option_id": 2, "text": "Soup", "is_correct": false },
+        { "option_id": 3, "text": "Salad", "is_correct": false },
+        { "option_id": 4, "text": "Juice", "is_correct": false }
+      ],
+      "answer": "Sandwich"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which of these can be used in a sandwich?",
+      "options": [
+        { "option_id": 1, "text": "Jam", "is_correct": true },
+        { "option_id": 2, "text": "Stone", "is_correct": false },
+        { "option_id": 3, "text": "Paper", "is_correct": false },
+        { "option_id": 4, "text": "Wood", "is_correct": false }
+      ],
+      "answer": "Jam"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How many bananas are needed for Banana Delight?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": true },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What do we do first with the bananas?",
+      "options": [
+        { "option_id": 1, "text": "Peel them", "is_correct": true },
+        { "option_id": 2, "text": "Cut them", "is_correct": false },
+        { "option_id": 3, "text": "Fry them", "is_correct": false },
+        { "option_id": 4, "text": "Wash them", "is_correct": false }
+      ],
+      "answer": "Peel them"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What do we do after peeling the bananas?",
+      "options": [
+        { "option_id": 1, "text": "Mash them", "is_correct": true },
+        { "option_id": 2, "text": "Bake them", "is_correct": false },
+        { "option_id": 3, "text": "Freeze them", "is_correct": false },
+        { "option_id": 4, "text": "Dry them", "is_correct": false }
+      ],
+      "answer": "Mash them"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How much milk is added to Banana Delight?",
+      "options": [
+        { "option_id": 1, "text": "One cup", "is_correct": true },
+        { "option_id": 2, "text": "Two cups", "is_correct": false },
+        { "option_id": 3, "text": "Half cup", "is_correct": false },
+        { "option_id": 4, "text": "No milk", "is_correct": false }
+      ],
+      "answer": "One cup"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How many teaspoons of sugar are added?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Four", "is_correct": true },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Four"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What do we use to stir Banana Delight?",
+      "options": [
+        { "option_id": 1, "text": "Spoon", "is_correct": true },
+        { "option_id": 2, "text": "Fork", "is_correct": false },
+        { "option_id": 3, "text": "Knife", "is_correct": false },
+        { "option_id": 4, "text": "Plate", "is_correct": false }
+      ],
+      "answer": "Spoon"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What sweet dish is made in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "Banana Delight", "is_correct": true },
+        { "option_id": 2, "text": "Fruit salad", "is_correct": false },
+        { "option_id": 3, "text": "Ice cream", "is_correct": false },
+        { "option_id": 4, "text": "Cake", "is_correct": false }
+      ],
+      "answer": "Banana Delight"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do we do at the end of making Banana Delight?",
+      "options": [
+        { "option_id": 1, "text": "Stir well", "is_correct": true },
+        { "option_id": 2, "text": "Freeze it", "is_correct": false },
+        { "option_id": 3, "text": "Throw it", "is_correct": false },
+        { "option_id": 4, "text": "Cut it", "is_correct": false }
+      ],
+      "answer": "Stir well"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "How many slices of bread are used to make a sandwich?",
+      "answer": "Two slices of bread are used."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What is spread on the bread first?",
+      "answer": "Butter is spread on the bread."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is spread on the butter?",
+      "answer": "Chutney is spread on the butter."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What do we do after keeping the bread slices together?",
+      "answer": "We press the bread a little."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is ready after pressing the bread?",
+      "answer": "The sandwich is ready."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Name one thing that can be used in a sandwich.",
+      "answer": "Jam can be used in a sandwich."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How many bananas are needed for Banana Delight?",
+      "answer": "Two bananas are needed."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What do we do first with the bananas?",
+      "answer": "We peel the bananas."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What do we do after peeling the bananas?",
+      "answer": "We mash the bananas."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "How much milk is added?",
+      "answer": "One cup of milk is added."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "How many teaspoons of sugar are added?",
+      "answer": "Four teaspoons of sugar are added."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What do we use to stir the mixture?",
+      "answer": "We use a spoon."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Name the sweet dish made in the lesson.",
+      "answer": "Banana Delight is made."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What do we do at the end of making Banana Delight?",
+      "answer": "We stir it well."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Is this lesson about making food?",
+      "answer": "Yes, it is about making food."
+    }
+  ]
+}

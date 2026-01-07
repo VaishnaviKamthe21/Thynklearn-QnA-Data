@@ -1,0 +1,283 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.08",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Where is the Cat?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is shown in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "A cat", "is_correct": true },
+        { "option_id": 2, "text": "A dog", "is_correct": false },
+        { "option_id": 3, "text": "A bird", "is_correct": false },
+        { "option_id": 4, "text": "A cow", "is_correct": false }
+      ],
+      "answer": "A cat"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the lesson about?",
+      "options": [
+        { "option_id": 1, "text": "Where the cat is", "is_correct": true },
+        { "option_id": 2, "text": "Cat food", "is_correct": false },
+        { "option_id": 3, "text": "Cat sounds", "is_correct": false },
+        { "option_id": 4, "text": "Cat colours", "is_correct": false }
+      ],
+      "answer": "Where the cat is"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word tells position?",
+      "options": [
+        { "option_id": 1, "text": "On", "is_correct": true },
+        { "option_id": 2, "text": "Cat", "is_correct": false },
+        { "option_id": 3, "text": "Run", "is_correct": false },
+        { "option_id": 4, "text": "Happy", "is_correct": false }
+      ],
+      "answer": "On"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which word shows the cat is below something?",
+      "options": [
+        { "option_id": 1, "text": "Under", "is_correct": true },
+        { "option_id": 2, "text": "On", "is_correct": false },
+        { "option_id": 3, "text": "Near", "is_correct": false },
+        { "option_id": 4, "text": "In", "is_correct": false }
+      ],
+      "answer": "Under"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word shows the cat is inside something?",
+      "options": [
+        { "option_id": 1, "text": "In", "is_correct": true },
+        { "option_id": 2, "text": "On", "is_correct": false },
+        { "option_id": 3, "text": "Behind", "is_correct": false },
+        { "option_id": 4, "text": "Near", "is_correct": false }
+      ],
+      "answer": "In"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word shows the cat is close to something?",
+      "options": [
+        { "option_id": 1, "text": "Near", "is_correct": true },
+        { "option_id": 2, "text": "Under", "is_correct": false },
+        { "option_id": 3, "text": "In", "is_correct": false },
+        { "option_id": 4, "text": "Behind", "is_correct": false }
+      ],
+      "answer": "Near"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word shows the cat is at the back?",
+      "options": [
+        { "option_id": 1, "text": "Behind", "is_correct": true },
+        { "option_id": 2, "text": "On", "is_correct": false },
+        { "option_id": 3, "text": "In", "is_correct": false },
+        { "option_id": 4, "text": "Near", "is_correct": false }
+      ],
+      "answer": "Behind"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Are position words used in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Only numbers", "is_correct": false },
+        { "option_id": 4, "text": "Only colours", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word tells where the cat is?",
+      "options": [
+        { "option_id": 1, "text": "Position word", "is_correct": true },
+        { "option_id": 2, "text": "Action word", "is_correct": false },
+        { "option_id": 3, "text": "Naming word", "is_correct": false },
+        { "option_id": 4, "text": "Colour word", "is_correct": false }
+      ],
+      "answer": "Position word"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Is this lesson easy to understand?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Hard", "is_correct": false },
+        { "option_id": 4, "text": "Confusing", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Do pictures help in this lesson?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Not used", "is_correct": false },
+        { "option_id": 4, "text": "Only words", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who should read this lesson?",
+      "options": [
+        { "option_id": 1, "text": "Children", "is_correct": true },
+        { "option_id": 2, "text": "Only adults", "is_correct": false },
+        { "option_id": 3, "text": "Teachers only", "is_correct": false },
+        { "option_id": 4, "text": "Doctors", "is_correct": false }
+      ],
+      "answer": "Children"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word is NOT a position word?",
+      "options": [
+        { "option_id": 1, "text": "Cat", "is_correct": true },
+        { "option_id": 2, "text": "On", "is_correct": false },
+        { "option_id": 3, "text": "Under", "is_correct": false },
+        { "option_id": 4, "text": "Near", "is_correct": false }
+      ],
+      "answer": "Cat"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What helps us know where the cat is?",
+      "options": [
+        { "option_id": 1, "text": "Position words", "is_correct": true },
+        { "option_id": 2, "text": "Colour words", "is_correct": false },
+        { "option_id": 3, "text": "Action words", "is_correct": false },
+        { "option_id": 4, "text": "Number words", "is_correct": false }
+      ],
+      "answer": "Position words"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do we learn from this lesson?",
+      "options": [
+        { "option_id": 1, "text": "Position words", "is_correct": true },
+        { "option_id": 2, "text": "Animal sounds", "is_correct": false },
+        { "option_id": 3, "text": "Colours", "is_correct": false },
+        { "option_id": 4, "text": "Numbers", "is_correct": false }
+      ],
+      "answer": "Position words"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Who is in the lesson?",
+      "answer": "A cat is in the lesson."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "The lesson is about where the cat is."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Name one position word.",
+      "answer": "On is a position word."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which word shows below?",
+      "answer": "Under shows below."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which word shows inside?",
+      "answer": "In shows inside."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which word shows close to?",
+      "answer": "Near shows close to."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Which word shows at the back?",
+      "answer": "Behind shows at the back."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Do position words tell place?",
+      "answer": "Yes, they tell place."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Is the lesson easy?",
+      "answer": "Yes, the lesson is easy."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Are pictures used?",
+      "answer": "Yes, pictures are used."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Who should read this lesson?",
+      "answer": "Children should read this lesson."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Is 'on' a position word?",
+      "answer": "Yes, 'on' is a position word."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Is 'cat' a position word?",
+      "answer": "No, 'cat' is not a position word."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What helps us know place?",
+      "answer": "Position words help us know place."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What do we learn from this lesson?",
+      "answer": "We learn position words."
+    }
+  ]
+}
+

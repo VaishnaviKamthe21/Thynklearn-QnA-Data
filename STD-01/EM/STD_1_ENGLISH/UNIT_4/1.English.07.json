@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.07",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Bicycle"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is shown in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "A bicycle", "is_correct": true },
+        { "option_id": 2, "text": "A car", "is_correct": false },
+        { "option_id": 3, "text": "A train", "is_correct": false },
+        { "option_id": 4, "text": "A bus", "is_correct": false }
+      ],
+      "answer": "A bicycle"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How many wheels does a bicycle have?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": true },
+        { "option_id": 2, "text": "One", "is_correct": false },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What do we use to ride a bicycle?",
+      "options": [
+        { "option_id": 1, "text": "Pedals", "is_correct": true },
+        { "option_id": 2, "text": "Wings", "is_correct": false },
+        { "option_id": 3, "text": "Buttons", "is_correct": false },
+        { "option_id": 4, "text": "Keys", "is_correct": false }
+      ],
+      "answer": "Pedals"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which part is used to hold the bicycle?",
+      "options": [
+        { "option_id": 1, "text": "Handle", "is_correct": true },
+        { "option_id": 2, "text": "Seat", "is_correct": false },
+        { "option_id": 3, "text": "Wheel", "is_correct": false },
+        { "option_id": 4, "text": "Bell", "is_correct": false }
+      ],
+      "answer": "Handle"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What part do we sit on while riding?",
+      "options": [
+        { "option_id": 1, "text": "Seat", "is_correct": true },
+        { "option_id": 2, "text": "Wheel", "is_correct": false },
+        { "option_id": 3, "text": "Pedal", "is_correct": false },
+        { "option_id": 4, "text": "Bell", "is_correct": false }
+      ],
+      "answer": "Seat"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What do we ring to give a signal?",
+      "options": [
+        { "option_id": 1, "text": "Bell", "is_correct": true },
+        { "option_id": 2, "text": "Light", "is_correct": false },
+        { "option_id": 3, "text": "Wheel", "is_correct": false },
+        { "option_id": 4, "text": "Pedal", "is_correct": false }
+      ],
+      "answer": "Bell"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who rides a bicycle in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "A child", "is_correct": true },
+        { "option_id": 2, "text": "A teacher", "is_correct": false },
+        { "option_id": 3, "text": "A driver", "is_correct": false },
+        { "option_id": 4, "text": "A shopkeeper", "is_correct": false }
+      ],
+      "answer": "A child"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Is riding a bicycle fun?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Never", "is_correct": false },
+        { "option_id": 4, "text": "Not sure", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What helps the bicycle move?",
+      "options": [
+        { "option_id": 1, "text": "Pedaling", "is_correct": true },
+        { "option_id": 2, "text": "Pushing", "is_correct": false },
+        { "option_id": 3, "text": "Pulling", "is_correct": false },
+        { "option_id": 4, "text": "Lifting", "is_correct": false }
+      ],
+      "answer": "Pedaling"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Is a bicycle good for children?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Only adults", "is_correct": false },
+        { "option_id": 4, "text": "Never", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which part helps to stop the bicycle?",
+      "options": [
+        { "option_id": 1, "text": "Brake", "is_correct": true },
+        { "option_id": 2, "text": "Bell", "is_correct": false },
+        { "option_id": 3, "text": "Seat", "is_correct": false },
+        { "option_id": 4, "text": "Handle", "is_correct": false }
+      ],
+      "answer": "Brake"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where should children ride a bicycle?",
+      "options": [
+        { "option_id": 1, "text": "Safe place", "is_correct": true },
+        { "option_id": 2, "text": "Busy road", "is_correct": false },
+        { "option_id": 3, "text": "Inside class", "is_correct": false },
+        { "option_id": 4, "text": "On stairs", "is_correct": false }
+      ],
+      "answer": "Safe place"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What should children wear while riding?",
+      "options": [
+        { "option_id": 1, "text": "Helmet", "is_correct": true },
+        { "option_id": 2, "text": "Slippers", "is_correct": false },
+        { "option_id": 3, "text": "Cap", "is_correct": false },
+        { "option_id": 4, "text": "Bag", "is_correct": false }
+      ],
+      "answer": "Helmet"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Is the lesson about a vehicle?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "About animals", "is_correct": false },
+        { "option_id": 4, "text": "About food", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do we learn from this lesson?",
+      "options": [
+        { "option_id": 1, "text": "About a bicycle", "is_correct": true },
+        { "option_id": 2, "text": "About numbers", "is_correct": false },
+        { "option_id": 3, "text": "About animals", "is_correct": false },
+        { "option_id": 4, "text": "About colours", "is_correct": false }
+      ],
+      "answer": "About a bicycle"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is a bicycle?",
+      "answer": "A bicycle is a two-wheeled vehicle."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How many wheels does a bicycle have?",
+      "answer": "A bicycle has two wheels."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What do we use to move the bicycle?",
+      "answer": "We use pedals to move the bicycle."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What do we hold while riding?",
+      "answer": "We hold the handle."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What do we sit on?",
+      "answer": "We sit on the seat."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What do we ring on a bicycle?",
+      "answer": "We ring the bell."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Who rides a bicycle in the lesson?",
+      "answer": "A child rides the bicycle."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Is riding a bicycle fun?",
+      "answer": "Yes, riding a bicycle is fun."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Which part helps to stop the bicycle?",
+      "answer": "The brake helps to stop the bicycle."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Where should we ride a bicycle?",
+      "answer": "We should ride in a safe place."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Should children wear a helmet?",
+      "answer": "Yes, children should wear a helmet."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Is a bicycle good for children?",
+      "answer": "Yes, a bicycle is good for children."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What helps the bicycle move?",
+      "answer": "Pedaling helps the bicycle move."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Is this lesson simple?",
+      "answer": "Yes, this lesson is simple."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What do we learn from this lesson?",
+      "answer": "We learn about a bicycle."
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.05",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Who Are You?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the first speaker in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Little bird", "is_correct": true },
+        { "option_id": 2, "text": "Little cat", "is_correct": false },
+        { "option_id": 3, "text": "Little dog", "is_correct": false },
+        { "option_id": 4, "text": "Little boy", "is_correct": false }
+      ],
+      "answer": "Little bird"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where does the little bird live?",
+      "options": [
+        { "option_id": 1, "text": "In a nest", "is_correct": true },
+        { "option_id": 2, "text": "In a house", "is_correct": false },
+        { "option_id": 3, "text": "In a box", "is_correct": false },
+        { "option_id": 4, "text": "In a cave", "is_correct": false }
+      ],
+      "answer": "In a nest"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who is the second speaker in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Little cat", "is_correct": true },
+        { "option_id": 2, "text": "Little bird", "is_correct": false },
+        { "option_id": 3, "text": "Little frog", "is_correct": false },
+        { "option_id": 4, "text": "Little boy", "is_correct": false }
+      ],
+      "answer": "Little cat"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where does the little cat live?",
+      "options": [
+        { "option_id": 1, "text": "In a house", "is_correct": true },
+        { "option_id": 2, "text": "In a nest", "is_correct": false },
+        { "option_id": 3, "text": "In water", "is_correct": false },
+        { "option_id": 4, "text": "On a tree", "is_correct": false }
+      ],
+      "answer": "In a house"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who is the third speaker?",
+      "options": [
+        { "option_id": 1, "text": "Little dog", "is_correct": true },
+        { "option_id": 2, "text": "Little bird", "is_correct": false },
+        { "option_id": 3, "text": "Little cat", "is_correct": false },
+        { "option_id": 4, "text": "Little fish", "is_correct": false }
+      ],
+      "answer": "Little dog"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where does the little dog live?",
+      "options": [
+        { "option_id": 1, "text": "In a kennel", "is_correct": true },
+        { "option_id": 2, "text": "In a nest", "is_correct": false },
+        { "option_id": 3, "text": "In a pond", "is_correct": false },
+        { "option_id": 4, "text": "On a leaf", "is_correct": false }
+      ],
+      "answer": "In a kennel"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who is the fourth speaker?",
+      "options": [
+        { "option_id": 1, "text": "Little frog", "is_correct": true },
+        { "option_id": 2, "text": "Little bird", "is_correct": false },
+        { "option_id": 3, "text": "Little cat", "is_correct": false },
+        { "option_id": 4, "text": "Little boy", "is_correct": false }
+      ],
+      "answer": "Little frog"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where does the little frog live?",
+      "options": [
+        { "option_id": 1, "text": "In water", "is_correct": true },
+        { "option_id": 2, "text": "In a house", "is_correct": false },
+        { "option_id": 3, "text": "In a nest", "is_correct": false },
+        { "option_id": 4, "text": "In a kennel", "is_correct": false }
+      ],
+      "answer": "In water"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who is the last speaker in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Little boy", "is_correct": true },
+        { "option_id": 2, "text": "Little dog", "is_correct": false },
+        { "option_id": 3, "text": "Little cat", "is_correct": false },
+        { "option_id": 4, "text": "Little frog", "is_correct": false }
+      ],
+      "answer": "Little boy"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Where does the little boy live?",
+      "options": [
+        { "option_id": 1, "text": "In a house", "is_correct": true },
+        { "option_id": 2, "text": "In a kennel", "is_correct": false },
+        { "option_id": 3, "text": "In water", "is_correct": false },
+        { "option_id": 4, "text": "In a nest", "is_correct": false }
+      ],
+      "answer": "In a house"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which animal lives in a nest?",
+      "options": [
+        { "option_id": 1, "text": "Bird", "is_correct": true },
+        { "option_id": 2, "text": "Dog", "is_correct": false },
+        { "option_id": 3, "text": "Frog", "is_correct": false },
+        { "option_id": 4, "text": "Boy", "is_correct": false }
+      ],
+      "answer": "Bird"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which animal lives in water?",
+      "options": [
+        { "option_id": 1, "text": "Frog", "is_correct": true },
+        { "option_id": 2, "text": "Bird", "is_correct": false },
+        { "option_id": 3, "text": "Cat", "is_correct": false },
+        { "option_id": 4, "text": "Dog", "is_correct": false }
+      ],
+      "answer": "Frog"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which animal lives in a kennel?",
+      "options": [
+        { "option_id": 1, "text": "Dog", "is_correct": true },
+        { "option_id": 2, "text": "Cat", "is_correct": false },
+        { "option_id": 3, "text": "Bird", "is_correct": false },
+        { "option_id": 4, "text": "Frog", "is_correct": false }
+      ],
+      "answer": "Dog"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the poem about?",
+      "options": [
+        { "option_id": 1, "text": "Homes of animals and people", "is_correct": true },
+        { "option_id": 2, "text": "Colours", "is_correct": false },
+        { "option_id": 3, "text": "Numbers", "is_correct": false },
+        { "option_id": 4, "text": "Classroom things", "is_correct": false }
+      ],
+      "answer": "Homes of animals and people"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do we learn from this poem?",
+      "options": [
+        { "option_id": 1, "text": "Everyone has a home", "is_correct": true },
+        { "option_id": 2, "text": "Animals go to school", "is_correct": false },
+        { "option_id": 3, "text": "Birds live in water", "is_correct": false },
+        { "option_id": 4, "text": "Dogs live on trees", "is_correct": false }
+      ],
+      "answer": "Everyone has a home"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Who lives in a nest?",
+      "answer": "A bird lives in a nest."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Where does a cat live?",
+      "answer": "A cat lives in a house."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Where does a dog live?",
+      "answer": "A dog lives in a kennel."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Where does a frog live?",
+      "answer": "A frog lives in water."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Who lives in a house?",
+      "answer": "A boy lives in a house."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Name one animal from the poem.",
+      "answer": "A bird is an animal in the poem."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Is a nest a home?",
+      "answer": "Yes, a nest is a home."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Is water a home for a frog?",
+      "answer": "Yes, water is a home for a frog."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Do all living beings have homes?",
+      "answer": "Yes, all living beings have homes."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is a kennel?",
+      "answer": "A kennel is a home for a dog."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Where do people live?",
+      "answer": "People live in houses."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Is a house a home?",
+      "answer": "Yes, a house is a home."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What does the poem teach us?",
+      "answer": "The poem teaches us about homes."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Name one home from the poem.",
+      "answer": "A nest is a home."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What do we learn from this lesson?",
+      "answer": "We learn that everyone has a home."
+    }
+  ]
+}

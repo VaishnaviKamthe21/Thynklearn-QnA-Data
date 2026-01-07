@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.05",
+    "standard": "1",
+    "subject": "Play Do Learn",
+    "medium": "English",
+    "chapter_name": "Dance"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What do we do in dance?",
+      "options": [
+        { "option_id": 1, "text": "Move our body", "is_correct": true },
+        { "option_id": 2, "text": "Sit still", "is_correct": false },
+        { "option_id": 3, "text": "Sleep", "is_correct": false },
+        { "option_id": 4, "text": "Read", "is_correct": false }
+      ],
+      "answer": "Move our body"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which body part is used most in dance?",
+      "options": [
+        { "option_id": 1, "text": "Whole body", "is_correct": true },
+        { "option_id": 2, "text": "Eyes only", "is_correct": false },
+        { "option_id": 3, "text": "Ears only", "is_correct": false },
+        { "option_id": 4, "text": "Nose only", "is_correct": false }
+      ],
+      "answer": "Whole body"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Dance is done with what?",
+      "options": [
+        { "option_id": 1, "text": "Music", "is_correct": true },
+        { "option_id": 2, "text": "Silence", "is_correct": false },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Reading", "is_correct": false }
+      ],
+      "answer": "Music"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which sense helps us follow music?",
+      "options": [
+        { "option_id": 1, "text": "Hearing", "is_correct": true },
+        { "option_id": 2, "text": "Smelling", "is_correct": false },
+        { "option_id": 3, "text": "Tasting", "is_correct": false },
+        { "option_id": 4, "text": "Touching", "is_correct": false }
+      ],
+      "answer": "Hearing"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What do children show through dance?",
+      "options": [
+        { "option_id": 1, "text": "Feelings", "is_correct": true },
+        { "option_id": 2, "text": "Sleep", "is_correct": false },
+        { "option_id": 3, "text": "Silence", "is_correct": false },
+        { "option_id": 4, "text": "Tiredness", "is_correct": false }
+      ],
+      "answer": "Feelings"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What should we do before dancing?",
+      "options": [
+        { "option_id": 1, "text": "Warm up", "is_correct": true },
+        { "option_id": 2, "text": "Sleep", "is_correct": false },
+        { "option_id": 3, "text": "Sit", "is_correct": false },
+        { "option_id": 4, "text": "Eat", "is_correct": false }
+      ],
+      "answer": "Warm up"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Dance is done with ____ movements.",
+      "options": [
+        { "option_id": 1, "text": "Rhythm", "is_correct": true },
+        { "option_id": 2, "text": "Noise", "is_correct": false },
+        { "option_id": 3, "text": "Sleep", "is_correct": false },
+        { "option_id": 4, "text": "Stillness", "is_correct": false }
+      ],
+      "answer": "Rhythm"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which activity makes children happy?",
+      "options": [
+        { "option_id": 1, "text": "Dancing", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping", "is_correct": false },
+        { "option_id": 3, "text": "Standing", "is_correct": false },
+        { "option_id": 4, "text": "Waiting", "is_correct": false }
+      ],
+      "answer": "Dancing"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which movement is used in dance?",
+      "options": [
+        { "option_id": 1, "text": "Steps", "is_correct": true },
+        { "option_id": 2, "text": "Writing", "is_correct": false },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Reading", "is_correct": false }
+      ],
+      "answer": "Steps"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What should we do while dancing?",
+      "options": [
+        { "option_id": 1, "text": "Enjoy", "is_correct": true },
+        { "option_id": 2, "text": "Rush", "is_correct": false },
+        { "option_id": 3, "text": "Push others", "is_correct": false },
+        { "option_id": 4, "text": "Stop", "is_correct": false }
+      ],
+      "answer": "Enjoy"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which skill improves with dance?",
+      "options": [
+        { "option_id": 1, "text": "Body coordination", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping habit", "is_correct": false },
+        { "option_id": 3, "text": "Noise making", "is_correct": false },
+        { "option_id": 4, "text": "Sitting skill", "is_correct": false }
+      ],
+      "answer": "Body coordination"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which activity uses music and movement?",
+      "options": [
+        { "option_id": 1, "text": "Dance", "is_correct": true },
+        { "option_id": 2, "text": "Drawing", "is_correct": false },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Reading", "is_correct": false }
+      ],
+      "answer": "Dance"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Dance should be done ____.",
+      "options": [
+        { "option_id": 1, "text": "Carefully", "is_correct": true },
+        { "option_id": 2, "text": "Roughly", "is_correct": false },
+        { "option_id": 3, "text": "Without space", "is_correct": false },
+        { "option_id": 4, "text": "Without music", "is_correct": false }
+      ],
+      "answer": "Carefully"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What helps us follow dance steps?",
+      "options": [
+        { "option_id": 1, "text": "Listening to music", "is_correct": true },
+        { "option_id": 2, "text": "Closing eyes", "is_correct": false },
+        { "option_id": 3, "text": "Sleeping", "is_correct": false },
+        { "option_id": 4, "text": "Talking", "is_correct": false }
+      ],
+      "answer": "Listening to music"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why do children dance?",
+      "options": [
+        { "option_id": 1, "text": "To enjoy and express", "is_correct": true },
+        { "option_id": 2, "text": "To get tired", "is_correct": false },
+        { "option_id": 3, "text": "To waste time", "is_correct": false },
+        { "option_id": 4, "text": "To stop learning", "is_correct": false }
+      ],
+      "answer": "To enjoy and express"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is dance?",
+      "answer": "Dance is moving the body with music."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Which body part is used in dance?",
+      "answer": "The whole body is used in dance."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is needed for dance?",
+      "answer": "Music is needed for dance."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which sense helps us follow music?",
+      "answer": "Hearing sense helps us follow music."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What do children show through dance?",
+      "answer": "Children show their feelings through dance."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What should we do before dancing?",
+      "answer": "We should warm up."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What makes dance beautiful?",
+      "answer": "Rhythm makes dance beautiful."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Which activity makes children happy?",
+      "answer": "Dancing makes children happy."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Name one movement used in dance.",
+      "answer": "Steps are used in dance."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What should we do while dancing?",
+      "answer": "We should enjoy dancing."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which skill improves with dance?",
+      "answer": "Dance improves body coordination."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Which activity uses music and movement?",
+      "answer": "Dance uses music and movement."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "How should dance be done?",
+      "answer": "Dance should be done carefully."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What helps us follow dance steps?",
+      "answer": "Listening to music helps us follow dance steps."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Why do children dance?",
+      "answer": "Children dance to enjoy and express themselves."
+    }
+  ]
+}

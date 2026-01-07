@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.02",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Tommy is Lost"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was Joy?",
+      "options": [
+        { "option_id": 1, "text": "A girl", "is_correct": true },
+        { "option_id": 2, "text": "A dog", "is_correct": false },
+        { "option_id": 3, "text": "A cat", "is_correct": false },
+        { "option_id": 4, "text": "A bird", "is_correct": false }
+      ],
+      "answer": "A girl"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who did Joy like very much?",
+      "options": [
+        { "option_id": 1, "text": "Tommy", "is_correct": true },
+        { "option_id": 2, "text": "A cat", "is_correct": false },
+        { "option_id": 3, "text": "A bird", "is_correct": false },
+        { "option_id": 4, "text": "A cow", "is_correct": false }
+      ],
+      "answer": "Tommy"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who was Tommy?",
+      "options": [
+        { "option_id": 1, "text": "A dog", "is_correct": true },
+        { "option_id": 2, "text": "A boy", "is_correct": false },
+        { "option_id": 3, "text": "A cat", "is_correct": false },
+        { "option_id": 4, "text": "A horse", "is_correct": false }
+      ],
+      "answer": "A dog"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What happened to Tommy?",
+      "options": [
+        { "option_id": 1, "text": "He was lost", "is_correct": true },
+        { "option_id": 2, "text": "He was sleeping", "is_correct": false },
+        { "option_id": 3, "text": "He was eating", "is_correct": false },
+        { "option_id": 4, "text": "He was playing", "is_correct": false }
+      ],
+      "answer": "He was lost"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why did Joy cry?",
+      "options": [
+        { "option_id": 1, "text": "Tommy was lost", "is_correct": true },
+        { "option_id": 2, "text": "She was hungry", "is_correct": false },
+        { "option_id": 3, "text": "She fell down", "is_correct": false },
+        { "option_id": 4, "text": "She was tired", "is_correct": false }
+      ],
+      "answer": "Tommy was lost"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Whom did Tommy see coming?",
+      "options": [
+        { "option_id": 1, "text": "A car", "is_correct": true },
+        { "option_id": 2, "text": "A cat", "is_correct": false },
+        { "option_id": 3, "text": "A boy", "is_correct": false },
+        { "option_id": 4, "text": "A bird", "is_correct": false }
+      ],
+      "answer": "A car"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What did Tommy and Joy begin to do?",
+      "options": [
+        { "option_id": 1, "text": "Run", "is_correct": true },
+        { "option_id": 2, "text": "Sleep", "is_correct": false },
+        { "option_id": 3, "text": "Sit", "is_correct": false },
+        { "option_id": 4, "text": "Eat", "is_correct": false }
+      ],
+      "answer": "Run"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who led Joy home?",
+      "options": [
+        { "option_id": 1, "text": "Tommy", "is_correct": true },
+        { "option_id": 2, "text": "A man", "is_correct": false },
+        { "option_id": 3, "text": "A cat", "is_correct": false },
+        { "option_id": 4, "text": "A boy", "is_correct": false }
+      ],
+      "answer": "Tommy"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where did Joy and Tommy reach?",
+      "options": [
+        { "option_id": 1, "text": "Home", "is_correct": true },
+        { "option_id": 2, "text": "School", "is_correct": false },
+        { "option_id": 3, "text": "Park", "is_correct": false },
+        { "option_id": 4, "text": "Shop", "is_correct": false }
+      ],
+      "answer": "Home"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How did Joy and Tommy reach home?",
+      "options": [
+        { "option_id": 1, "text": "Safely", "is_correct": true },
+        { "option_id": 2, "text": "Slowly", "is_correct": false },
+        { "option_id": 3, "text": "Sadly", "is_correct": false },
+        { "option_id": 4, "text": "Angrily", "is_correct": false }
+      ],
+      "answer": "Safely"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Find the rhyming word for 'box'.",
+      "options": [
+        { "option_id": 1, "text": "fox", "is_correct": true },
+        { "option_id": 2, "text": "dog", "is_correct": false },
+        { "option_id": 3, "text": "cat", "is_correct": false },
+        { "option_id": 4, "text": "pen", "is_correct": false }
+      ],
+      "answer": "fox"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Find the rhyming word for 'pot'.",
+      "options": [
+        { "option_id": 1, "text": "hot", "is_correct": true },
+        { "option_id": 2, "text": "hat", "is_correct": false },
+        { "option_id": 3, "text": "pan", "is_correct": false },
+        { "option_id": 4, "text": "bat", "is_correct": false }
+      ],
+      "answer": "hot"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Find the rhyming word for 'say'.",
+      "options": [
+        { "option_id": 1, "text": "way", "is_correct": true },
+        { "option_id": 2, "text": "sun", "is_correct": false },
+        { "option_id": 3, "text": "boy", "is_correct": false },
+        { "option_id": 4, "text": "run", "is_correct": false }
+      ],
+      "answer": "way"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Find the rhyming word for 'boy'.",
+      "options": [
+        { "option_id": 1, "text": "toy", "is_correct": true },
+        { "option_id": 2, "text": "man", "is_correct": false },
+        { "option_id": 3, "text": "dog", "is_correct": false },
+        { "option_id": 4, "text": "pen", "is_correct": false }
+      ],
+      "answer": "toy"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Find the rhyming word for 'pan'.",
+      "options": [
+        { "option_id": 1, "text": "can", "is_correct": true },
+        { "option_id": 2, "text": "pot", "is_correct": false },
+        { "option_id": 3, "text": "boy", "is_correct": false },
+        { "option_id": 4, "text": "dog", "is_correct": false }
+      ],
+      "answer": "can"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Who was Joy?",
+      "answer": "Joy was a girl."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Who was Tommy?",
+      "answer": "Tommy was a dog."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Whom did Joy like very much?",
+      "answer": "Joy liked Tommy very much."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Why did Joy cry?",
+      "answer": "Joy cried because Tommy was lost."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Whom did Tommy see coming?",
+      "answer": "Tommy saw a car coming."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What did Joy and Tommy begin to do?",
+      "answer": "They began to run."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Who led Joy home?",
+      "answer": "Tommy led Joy home."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Where did Joy and Tommy reach?",
+      "answer": "They reached home."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How did they reach home?",
+      "answer": "They reached home safely."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Write a rhyming word for 'box'.",
+      "answer": "Fox."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Write a rhyming word for 'pot'.",
+      "answer": "Hot."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Write a rhyming word for 'say'.",
+      "answer": "Way."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Write a rhyming word for 'boy'.",
+      "answer": "Toy."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Write a rhyming word for 'pan'.",
+      "answer": "Can."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Complete: Joy liked ______ very much.",
+      "answer": "Joy liked Tommy very much."
+    }
+  ]
+}

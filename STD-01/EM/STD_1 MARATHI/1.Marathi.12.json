@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.Marathi.12",
+    "standard": "1",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "ओळख आपल्या वर्गाची"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या धड्यात कशाची ओळख करून दिली आहे?",
+      "options": [
+        { "option_id": 1, "text": "घराची", "is_correct": false },
+        { "option_id": 2, "text": "वर्गाची", "is_correct": true },
+        { "option_id": 3, "text": "बागेची", "is_correct": false },
+        { "option_id": 4, "text": "रस्त्याची", "is_correct": false }
+      ],
+      "answer": "वर्गाची"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आपण कुठे शिकतो?",
+      "options": [
+        { "option_id": 1, "text": "घरात", "is_correct": false },
+        { "option_id": 2, "text": "वर्गात", "is_correct": true },
+        { "option_id": 3, "text": "बाजारात", "is_correct": false },
+        { "option_id": 4, "text": "मैदानात", "is_correct": false }
+      ],
+      "answer": "वर्गात"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वर्गात फळा कशासाठी असतो?",
+      "options": [
+        { "option_id": 1, "text": "बसण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "लिहिण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "लिहिण्यासाठी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "वर्गात विद्यार्थी कुठे बसतात?",
+      "options": [
+        { "option_id": 1, "text": "जमिनीवर", "is_correct": false },
+        { "option_id": 2, "text": "बाकांवर", "is_correct": true },
+        { "option_id": 3, "text": "फळ्यावर", "is_correct": false },
+        { "option_id": 4, "text": "दाराजवळ", "is_correct": false }
+      ],
+      "answer": "बाकांवर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वर्गात शिक्षक काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळतात", "is_correct": false },
+        { "option_id": 2, "text": "शिकवतात", "is_correct": true },
+        { "option_id": 3, "text": "झोपतात", "is_correct": false },
+        { "option_id": 4, "text": "धावतात", "is_correct": false }
+      ],
+      "answer": "शिकवतात"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "वर्गात विद्यार्थी काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "शिकतात", "is_correct": true },
+        { "option_id": 2, "text": "खेळतात", "is_correct": false },
+        { "option_id": 3, "text": "रडतात", "is_correct": false },
+        { "option_id": 4, "text": "झोपतात", "is_correct": false }
+      ],
+      "answer": "शिकतात"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "वर्गात बाक कशासाठी असतो?",
+      "options": [
+        { "option_id": 1, "text": "बसण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "लिहिण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "ठेवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "बसण्यासाठी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वर्गात खुर्ची कोणासाठी असते?",
+      "options": [
+        { "option_id": 1, "text": "विद्यार्थ्यांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षकांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "पालकांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "मित्रांसाठी", "is_correct": false }
+      ],
+      "answer": "शिक्षकांसाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वर्गात फळा कुठे असतो?",
+      "options": [
+        { "option_id": 1, "text": "मागे", "is_correct": false },
+        { "option_id": 2, "text": "समोर", "is_correct": true },
+        { "option_id": 3, "text": "खाली", "is_correct": false },
+        { "option_id": 4, "text": "बाजूला", "is_correct": false }
+      ],
+      "answer": "समोर"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "वर्गात शिस्त का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "भांडण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "चांगले शिकण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "रडण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळ टाळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "चांगले शिकण्यासाठी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "वर्गात आपण कसे वागतो?",
+      "options": [
+        { "option_id": 1, "text": "शिस्तीत", "is_correct": true },
+        { "option_id": 2, "text": "गोंधळात", "is_correct": false },
+        { "option_id": 3, "text": "रागाने", "is_correct": false },
+        { "option_id": 4, "text": "आळशीपणे", "is_correct": false }
+      ],
+      "answer": "शिस्तीत"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वर्गात कोणते लोक असतात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त विद्यार्थी", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षक आणि विद्यार्थी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त शिक्षक", "is_correct": false },
+        { "option_id": 4, "text": "पालक", "is_correct": false }
+      ],
+      "answer": "शिक्षक आणि विद्यार्थी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "वर्गात फळ्यावर कोण लिहितो?",
+      "options": [
+        { "option_id": 1, "text": "विद्यार्थी", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षक", "is_correct": true },
+        { "option_id": 3, "text": "पालक", "is_correct": false },
+        { "option_id": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "शिक्षक"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "हा धडा कशासाठी उपयुक्त आहे?",
+      "options": [
+        { "option_id": 1, "text": "वर्गाची ओळख होण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "खेळ शिकण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "गाण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "कथा वाचण्यासाठी", "is_correct": false }
+      ],
+      "answer": "वर्गाची ओळख होण्यासाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘ओळख आपल्या वर्गाची’ याचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "वर्गाची माहिती", "is_correct": true },
+        { "option_id": 2, "text": "वर्ग सजावट", "is_correct": false },
+        { "option_id": 3, "text": "वर्ग खेळ", "is_correct": false },
+        { "option_id": 4, "text": "वर्ग सुट्टी", "is_correct": false }
+      ],
+      "answer": "वर्गाची माहिती"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "या धड्याचे नाव काय आहे?",
+      "answer": "या धड्याचे नाव ‘ओळख आपल्या वर्गाची’ आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "आपण कुठे शिकतो?",
+      "answer": "आपण वर्गात शिकतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "वर्गात फळा कशासाठी असतो?",
+      "answer": "वर्गात फळा लिहिण्यासाठी असतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "वर्गात विद्यार्थी कुठे बसतात?",
+      "answer": "वर्गात विद्यार्थी बाकांवर बसतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "वर्गात शिक्षक काय करतात?",
+      "answer": "वर्गात शिक्षक शिकवतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "वर्गात विद्यार्थी काय करतात?",
+      "answer": "वर्गात विद्यार्थी शिकतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "वर्गात बाक कशासाठी असतो?",
+      "answer": "वर्गात बाक बसण्यासाठी असतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "वर्गात खुर्ची कोणासाठी असते?",
+      "answer": "वर्गात खुर्ची शिक्षकांसाठी असते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "वर्गात फळा कुठे असतो?",
+      "answer": "वर्गात फळा समोर असतो."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "वर्गात शिस्त का आवश्यक आहे?",
+      "answer": "वर्गात चांगले शिकण्यासाठी शिस्त आवश्यक आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "वर्गात आपण कसे वागतो?",
+      "answer": "वर्गात आपण शिस्तीत वागतो."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "वर्गात कोणते लोक असतात?",
+      "answer": "वर्गात शिक्षक आणि विद्यार्थी असतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "वर्गात फळ्यावर कोण लिहितो?",
+      "answer": "वर्गात फळ्यावर शिक्षक लिहितात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "हा धडा कशासाठी उपयुक्त आहे?",
+      "answer": "हा धडा वर्गाची ओळख होण्यासाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "‘ओळख आपल्या वर्गाची’ याचा अर्थ काय?",
+      "answer": "‘ओळख आपल्या वर्गाची’ याचा अर्थ आपल्या वर्गाची माहिती असा आहे."
+    }
+  ]
+}

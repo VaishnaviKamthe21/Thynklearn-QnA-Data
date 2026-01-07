@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.Marathi.22",
+    "standard": "1",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "आरसा रडला, आरसा हसला"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या धड्यात कोणत्या वस्तूचा उल्लेख आहे?",
+      "options": [
+        { "option_id": 1, "text": "खिडकी", "is_correct": false },
+        { "option_id": 2, "text": "आरसा", "is_correct": true },
+        { "option_id": 3, "text": "पुस्तक", "is_correct": false },
+        { "option_id": 4, "text": "खेळणी", "is_correct": false }
+      ],
+      "answer": "आरसा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आरशात काय दिसते?",
+      "options": [
+        { "option_id": 1, "text": "आपले प्रतिबिंब", "is_correct": true },
+        { "option_id": 2, "text": "चित्र", "is_correct": false },
+        { "option_id": 3, "text": "कथा", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "आपले प्रतिबिंब"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "आपण हसलो तर आरशात काय दिसते?",
+      "options": [
+        { "option_id": 1, "text": "रडणे", "is_correct": false },
+        { "option_id": 2, "text": "हसणे", "is_correct": true },
+        { "option_id": 3, "text": "झोप", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "हसणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आपण रडलो तर आरशात काय दिसते?",
+      "options": [
+        { "option_id": 1, "text": "हसणे", "is_correct": false },
+        { "option_id": 2, "text": "रडणे", "is_correct": true },
+        { "option_id": 3, "text": "खेळ", "is_correct": false },
+        { "option_id": 4, "text": "गाणे", "is_correct": false }
+      ],
+      "answer": "रडणे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "आरसा आपल्याला काय दाखवतो?",
+      "options": [
+        { "option_id": 1, "text": "आपले भाव", "is_correct": true },
+        { "option_id": 2, "text": "इतर लोक", "is_correct": false },
+        { "option_id": 3, "text": "खेळणी", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तके", "is_correct": false }
+      ],
+      "answer": "आपले भाव"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "हा धडा कशावर आधारित आहे?",
+      "options": [
+        { "option_id": 1, "text": "निरीक्षणावर", "is_correct": true },
+        { "option_id": 2, "text": "हिशेबावर", "is_correct": false },
+        { "option_id": 3, "text": "लेखनावर", "is_correct": false },
+        { "option_id": 4, "text": "गाण्यावर", "is_correct": false }
+      ],
+      "answer": "निरीक्षणावर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "आरसा कधी हसलेला दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "आपण हसलो तेव्हा", "is_correct": true },
+        { "option_id": 2, "text": "आपण झोपलो तेव्हा", "is_correct": false },
+        { "option_id": 3, "text": "आपण खेळलो तेव्हा", "is_correct": false },
+        { "option_id": 4, "text": "आपण गायलो तेव्हा", "is_correct": false }
+      ],
+      "answer": "आपण हसलो तेव्हा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "आरसा कधी रडलेला दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "आपण रडलो तेव्हा", "is_correct": true },
+        { "option_id": 2, "text": "आपण हसलो तेव्हा", "is_correct": false },
+        { "option_id": 3, "text": "आपण धावलो तेव्हा", "is_correct": false },
+        { "option_id": 4, "text": "आपण उडी मारली तेव्हा", "is_correct": false }
+      ],
+      "answer": "आपण रडलो तेव्हा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "आरसा वापरून आपण काय शिकतो?",
+      "options": [
+        { "option_id": 1, "text": "भाव ओळख", "is_correct": true },
+        { "option_id": 2, "text": "धावणे", "is_correct": false },
+        { "option_id": 3, "text": "गाणे", "is_correct": false },
+        { "option_id": 4, "text": "हिशेब", "is_correct": false }
+      ],
+      "answer": "भाव ओळख"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "विद्यार्थ्यांसाठी", "is_correct": true },
+        { "option_id": 2, "text": "फक्त शिक्षकांसाठी", "is_correct": false },
+        { "option_id": 3, "text": "पालकांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "कोणीच नाही", "is_correct": false }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आरसा वापरताना कोणता अवयव जास्त उपयोगी आहे?",
+      "options": [
+        { "option_id": 1, "text": "डोळे", "is_correct": true },
+        { "option_id": 2, "text": "कान", "is_correct": false },
+        { "option_id": 3, "text": "पाय", "is_correct": false },
+        { "option_id": 4, "text": "हात", "is_correct": false }
+      ],
+      "answer": "डोळे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "आरसा कोणती भावना दाखवतो?",
+      "options": [
+        { "option_id": 1, "text": "आपली", "is_correct": true },
+        { "option_id": 2, "text": "इतरांची", "is_correct": false },
+        { "option_id": 3, "text": "खेळण्यांची", "is_correct": false },
+        { "option_id": 4, "text": "प्राण्यांची", "is_correct": false }
+      ],
+      "answer": "आपली"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "आरसा कशामुळे बदलतो?",
+      "options": [
+        { "option_id": 1, "text": "आपल्या कृतीमुळे", "is_correct": true },
+        { "option_id": 2, "text": "हवेमुळे", "is_correct": false },
+        { "option_id": 3, "text": "पाण्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "रंगामुळे", "is_correct": false }
+      ],
+      "answer": "आपल्या कृतीमुळे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "हा धडा कशासाठी उपयुक्त आहे?",
+      "options": [
+        { "option_id": 1, "text": "भाव ओळखण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "हिशेबासाठी", "is_correct": false },
+        { "option_id": 3, "text": "लेखनासाठी", "is_correct": false },
+        { "option_id": 4, "text": "रंग भरण्यासाठी", "is_correct": false }
+      ],
+      "answer": "भाव ओळखण्यासाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘आरसा रडला, आरसा हसला’ याचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "आपले भाव आरशात दिसतात", "is_correct": true },
+        { "option_id": 2, "text": "आरसा जिवंत आहे", "is_correct": false },
+        { "option_id": 3, "text": "आरसा बोलतो", "is_correct": false },
+        { "option_id": 4, "text": "आरसा खेळतो", "is_correct": false }
+      ],
+      "answer": "आपले भाव आरशात दिसतात"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "या धड्याचे नाव काय आहे?",
+      "answer": "या धड्याचे नाव ‘आरसा रडला, आरसा हसला’ आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "आरशात काय दिसते?",
+      "answer": "आरशात आपले प्रतिबिंब दिसते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "आपण हसलो तर आरशात काय दिसते?",
+      "answer": "आपण हसलो तर आरशात हसणे दिसते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "आपण रडलो तर आरशात काय दिसते?",
+      "answer": "आपण रडलो तर आरशात रडणे दिसते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "आरसा आपल्याला काय दाखवतो?",
+      "answer": "आरसा आपल्याला आपले भाव दाखवतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "हा धडा कशावर आधारित आहे?",
+      "answer": "हा धडा निरीक्षणावर आधारित आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "आरसा कधी हसलेला दिसतो?",
+      "answer": "आपण हसलो तेव्हा आरसा हसलेला दिसतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "आरसा कधी रडलेला दिसतो?",
+      "answer": "आपण रडलो तेव्हा आरसा रडलेला दिसतो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "या धड्यात काय शिकायला मिळते?",
+      "answer": "या धड्यात भाव ओळखायला मिळते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी आहे?",
+      "answer": "हा धडा विद्यार्थ्यांसाठी आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "आरसा वापरताना कोणता अवयव उपयोगी आहे?",
+      "answer": "आरसा वापरताना डोळे उपयोगी आहेत."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "आरसा कोणती भावना दाखवतो?",
+      "answer": "आरसा आपली भावना दाखवतो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "आरसा कशामुळे बदलतो?",
+      "answer": "आरसा आपल्या कृतीमुळे बदलतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "हा धडा कशासाठी उपयुक्त आहे?",
+      "answer": "हा धडा भाव ओळखण्यासाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "धड्याचा मुख्य अर्थ काय आहे?",
+      "answer": "धड्याचा मुख्य अर्थ म्हणजे आपले भाव आरशात दिसतात."
+    }
+  ]
+}

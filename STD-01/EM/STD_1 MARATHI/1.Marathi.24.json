@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.Marathi.24",
+    "standard": "1",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "माझी ओळख"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "हा धडा कशाबद्दल आहे?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःची ओळख", "is_correct": true },
+        { "option_id": 2, "text": "खेळ", "is_correct": false },
+        { "option_id": 3, "text": "कथा", "is_correct": false },
+        { "option_id": 4, "text": "चित्रकला", "is_correct": false }
+      ],
+      "answer": "स्वतःची ओळख"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना प्रथम काय सांगतो?",
+      "options": [
+        { "option_id": 1, "text": "नाव", "is_correct": true },
+        { "option_id": 2, "text": "खेळ", "is_correct": false },
+        { "option_id": 3, "text": "झोप", "is_correct": false },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "नाव"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "आपण कोणत्या वर्गात आहोत?",
+      "options": [
+        { "option_id": 1, "text": "पहिला", "is_correct": true },
+        { "option_id": 2, "text": "दुसरा", "is_correct": false },
+        { "option_id": 3, "text": "तिसरा", "is_correct": false },
+        { "option_id": 4, "text": "चौथा", "is_correct": false }
+      ],
+      "answer": "पहिला"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना शाळेचे नाव सांगणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "माहिती देणे", "is_correct": true },
+        { "option_id": 2, "text": "खेळ", "is_correct": false },
+        { "option_id": 3, "text": "गाणे", "is_correct": false },
+        { "option_id": 4, "text": "धावणे", "is_correct": false }
+      ],
+      "answer": "माहिती देणे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना कोणती गोष्ट योग्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "सोप्या वाक्यांत सांगणे", "is_correct": true },
+        { "option_id": 2, "text": "मोठ्याने ओरडणे", "is_correct": false },
+        { "option_id": 3, "text": "धावणे", "is_correct": false },
+        { "option_id": 4, "text": "रडणे", "is_correct": false }
+      ],
+      "answer": "सोप्या वाक्यांत सांगणे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना कोणाबद्दल बोलतो?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःबद्दल", "is_correct": true },
+        { "option_id": 2, "text": "इतरांबद्दल", "is_correct": false },
+        { "option_id": 3, "text": "खेळाबद्दल", "is_correct": false },
+        { "option_id": 4, "text": "चित्राबद्दल", "is_correct": false }
+      ],
+      "answer": "स्वतःबद्दल"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना आवाज कसा असावा?",
+      "options": [
+        { "option_id": 1, "text": "शांत आणि स्पष्ट", "is_correct": true },
+        { "option_id": 2, "text": "खूप मोठा", "is_correct": false },
+        { "option_id": 3, "text": "खूप हळू", "is_correct": false },
+        { "option_id": 4, "text": "गोंधळलेला", "is_correct": false }
+      ],
+      "answer": "शांत आणि स्पष्ट"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना कोणती माहिती असू शकते?",
+      "options": [
+        { "option_id": 1, "text": "आवड", "is_correct": true },
+        { "option_id": 2, "text": "धावणे", "is_correct": false },
+        { "option_id": 3, "text": "झोप", "is_correct": false },
+        { "option_id": 4, "text": "रडणे", "is_correct": false }
+      ],
+      "answer": "आवड"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या प्रकारचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "कृती आधारित", "is_correct": true },
+        { "option_id": 2, "text": "कथा", "is_correct": false },
+        { "option_id": 3, "text": "कविता", "is_correct": false },
+        { "option_id": 4, "text": "चित्रकथा", "is_correct": false }
+      ],
+      "answer": "कृती आधारित"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना आपण काय शिकतो?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःबद्दल सांगणे", "is_correct": true },
+        { "option_id": 2, "text": "हिशेब", "is_correct": false },
+        { "option_id": 3, "text": "गाणे", "is_correct": false },
+        { "option_id": 4, "text": "चित्र काढणे", "is_correct": false }
+      ],
+      "answer": "स्वतःबद्दल सांगणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना वाक्ये कशी असावीत?",
+      "options": [
+        { "option_id": 1, "text": "लहान आणि सोपी", "is_correct": true },
+        { "option_id": 2, "text": "खूप लांब", "is_correct": false },
+        { "option_id": 3, "text": "अवघड", "is_correct": false },
+        { "option_id": 4, "text": "गोंधळाची", "is_correct": false }
+      ],
+      "answer": "लहान आणि सोपी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना कोणती भावना दिसते?",
+      "options": [
+        { "option_id": 1, "text": "आत्मविश्वास", "is_correct": true },
+        { "option_id": 2, "text": "भीती", "is_correct": false },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "दुःख", "is_correct": false }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना कोणाचा आदर ठेवतो?",
+      "options": [
+        { "option_id": 1, "text": "ऐकणाऱ्यांचा", "is_correct": true },
+        { "option_id": 2, "text": "खेळण्यांचा", "is_correct": false },
+        { "option_id": 3, "text": "चित्रांचा", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तकांचा", "is_correct": false }
+      ],
+      "answer": "ऐकणाऱ्यांचा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ओळख सांगणे कशासाठी उपयुक्त आहे?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःला ओळख करून देण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "खेळ टाळण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "रडण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "स्वतःला ओळख करून देण्यासाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘माझी ओळख’ याचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःची माहिती", "is_correct": true },
+        { "option_id": 2, "text": "खेळाची माहिती", "is_correct": false },
+        { "option_id": 3, "text": "कथेची माहिती", "is_correct": false },
+        { "option_id": 4, "text": "चित्राची माहिती", "is_correct": false }
+      ],
+      "answer": "स्वतःची माहिती"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "या धड्याचे नाव काय आहे?",
+      "answer": "या धड्याचे नाव ‘माझी ओळख’ आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना आपण कोणाबद्दल बोलतो?",
+      "answer": "ओळख सांगताना आपण स्वतःबद्दल बोलतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना प्रथम काय सांगतो?",
+      "answer": "ओळख सांगताना प्रथम नाव सांगतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "आपण कोणत्या वर्गात आहोत?",
+      "answer": "आपण पहिल्या वर्गात आहोत."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना आवाज कसा असावा?",
+      "answer": "ओळख सांगताना आवाज शांत आणि स्पष्ट असावा."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना कोणती माहिती देतो?",
+      "answer": "ओळख सांगताना नाव, वर्ग आणि आवड यांची माहिती देतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना वाक्ये कशी असावीत?",
+      "answer": "ओळख सांगताना वाक्ये लहान आणि सोपी असावीत."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या प्रकारचा आहे?",
+      "answer": "हा धडा कृती आधारित आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना कोणती भावना दिसते?",
+      "answer": "ओळख सांगताना आत्मविश्वास दिसतो."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना कोणाचा आदर ठेवतो?",
+      "answer": "ओळख सांगताना ऐकणाऱ्यांचा आदर ठेवतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "ओळख सांगणे कशासाठी उपयुक्त आहे?",
+      "answer": "ओळख सांगणे स्वतःला ओळख करून देण्यासाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना आपण काय शिकतो?",
+      "answer": "ओळख सांगताना स्वतःबद्दल सांगणे शिकतो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना वागणूक कशी असावी?",
+      "answer": "ओळख सांगताना वागणूक सभ्य असावी."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना कोणती गोष्ट महत्त्वाची आहे?",
+      "answer": "ओळख सांगताना स्पष्ट बोलणे महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "धड्याचा मुख्य उद्देश काय आहे?",
+      "answer": "धड्याचा मुख्य उद्देश स्वतःची ओळख सांगणे आहे."
+    }
+  ]
+}

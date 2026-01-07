@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.01",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Rain"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is falling all around in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Rain", "is_correct": true },
+        { "option_id": 2, "text": "Snow", "is_correct": false },
+        { "option_id": 3, "text": "Wind", "is_correct": false },
+        { "option_id": 4, "text": "Sun", "is_correct": false }
+      ],
+      "answer": "Rain"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where does the rain fall?",
+      "options": [
+        { "option_id": 1, "text": "On field and tree", "is_correct": true },
+        { "option_id": 2, "text": "On houses only", "is_correct": false },
+        { "option_id": 3, "text": "On roads only", "is_correct": false },
+        { "option_id": 4, "text": "On people only", "is_correct": false }
+      ],
+      "answer": "On field and tree"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where does it rain on umbrellas?",
+      "options": [
+        { "option_id": 1, "text": "Here", "is_correct": true },
+        { "option_id": 2, "text": "There", "is_correct": false },
+        { "option_id": 3, "text": "Inside", "is_correct": false },
+        { "option_id": 4, "text": "Outside", "is_correct": false }
+      ],
+      "answer": "Here"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where do the ships sail?",
+      "options": [
+        { "option_id": 1, "text": "Sea", "is_correct": true },
+        { "option_id": 2, "text": "River", "is_correct": false },
+        { "option_id": 3, "text": "Pond", "is_correct": false },
+        { "option_id": 4, "text": "Road", "is_correct": false }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem 'Rain'?",
+      "options": [
+        { "option_id": 1, "text": "Robert Stevenson", "is_correct": true },
+        { "option_id": 2, "text": "Ruskin Bond", "is_correct": false },
+        { "option_id": 3, "text": "A. A. Milne", "is_correct": false },
+        { "option_id": 4, "text": "Anonymous", "is_correct": false }
+      ],
+      "answer": "Robert Stevenson"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which thing is used during rain?",
+      "options": [
+        { "option_id": 1, "text": "Umbrella", "is_correct": true },
+        { "option_id": 2, "text": "Fan", "is_correct": false },
+        { "option_id": 3, "text": "Heater", "is_correct": false },
+        { "option_id": 4, "text": "Lamp", "is_correct": false }
+      ],
+      "answer": "Umbrella"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which thing grows because of rain?",
+      "options": [
+        { "option_id": 1, "text": "Tree", "is_correct": true },
+        { "option_id": 2, "text": "Chair", "is_correct": false },
+        { "option_id": 3, "text": "Table", "is_correct": false },
+        { "option_id": 4, "text": "Book", "is_correct": false }
+      ],
+      "answer": "Tree"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these is seen in the picture?",
+      "options": [
+        { "option_id": 1, "text": "Ship", "is_correct": true },
+        { "option_id": 2, "text": "Train", "is_correct": false },
+        { "option_id": 3, "text": "Bus", "is_correct": false },
+        { "option_id": 4, "text": "Car", "is_correct": false }
+      ],
+      "answer": "Ship"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Rain falls on which of these?",
+      "options": [
+        { "option_id": 1, "text": "Field", "is_correct": true },
+        { "option_id": 2, "text": "Book", "is_correct": false },
+        { "option_id": 3, "text": "Plate", "is_correct": false },
+        { "option_id": 4, "text": "Bag", "is_correct": false }
+      ],
+      "answer": "Field"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word describes rain in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Falling", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping", "is_correct": false },
+        { "option_id": 3, "text": "Running", "is_correct": false },
+        { "option_id": 4, "text": "Jumping", "is_correct": false }
+      ],
+      "answer": "Falling"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which natural place is mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Sea", "is_correct": true },
+        { "option_id": 2, "text": "Room", "is_correct": false },
+        { "option_id": 3, "text": "School", "is_correct": false },
+        { "option_id": 4, "text": "Shop", "is_correct": false }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which object protects us from rain?",
+      "options": [
+        { "option_id": 1, "text": "Umbrella", "is_correct": true },
+        { "option_id": 2, "text": "Chair", "is_correct": false },
+        { "option_id": 3, "text": "Table", "is_correct": false },
+        { "option_id": 4, "text": "Box", "is_correct": false }
+      ],
+      "answer": "Umbrella"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Car", "is_correct": true },
+        { "option_id": 2, "text": "Tree", "is_correct": false },
+        { "option_id": 3, "text": "Field", "is_correct": false },
+        { "option_id": 4, "text": "Sea", "is_correct": false }
+      ],
+      "answer": "Car"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Rain is a part of which season?",
+      "options": [
+        { "option_id": 1, "text": "Rainy season", "is_correct": true },
+        { "option_id": 2, "text": "Winter", "is_correct": false },
+        { "option_id": 3, "text": "Summer", "is_correct": false },
+        { "option_id": 4, "text": "Autumn", "is_correct": false }
+      ],
+      "answer": "Rainy season"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do we do in this lesson?",
+      "options": [
+        { "option_id": 1, "text": "Listen and talk about rain", "is_correct": true },
+        { "option_id": 2, "text": "Count numbers", "is_correct": false },
+        { "option_id": 3, "text": "Match words", "is_correct": false },
+        { "option_id": 4, "text": "Frame sentences", "is_correct": false }
+      ],
+      "answer": "Listen and talk about rain"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is falling all around?",
+      "answer": "Rain is falling all around."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Where does the rain fall?",
+      "answer": "The rain falls on the field and tree."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What do we use in the rain?",
+      "answer": "We use an umbrella in the rain."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Where do ships sail?",
+      "answer": "Ships sail on the sea."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Who wrote the poem Rain?",
+      "answer": "Robert Stevenson wrote the poem."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Name one thing rain falls on.",
+      "answer": "Rain falls on trees."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Is rain useful?",
+      "answer": "Yes, rain is useful."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What grows because of rain?",
+      "answer": "Plants grow because of rain."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Is rain a natural thing?",
+      "answer": "Yes, rain is natural."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which season has rain?",
+      "answer": "The rainy season has rain."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Do ships sail on land?",
+      "answer": "No, ships sail on the sea."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What word describes rain in the poem?",
+      "answer": "The word falling describes rain."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Name one thing seen in the picture.",
+      "answer": "A ship is seen in the picture."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Does rain help farmers?",
+      "answer": "Yes, rain helps farmers."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What do we learn from this lesson?",
+      "answer": "We learn about rain."
+    }
+  ]
+}

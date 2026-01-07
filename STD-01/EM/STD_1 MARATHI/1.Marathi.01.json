@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.Marathi.01",
+    "standard": "1",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "सरी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कशाच्या सरी पडत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "वाऱ्याच्या", "is_correct": false },
+        { "option_id": 2, "text": "पावसाच्या", "is_correct": true },
+        { "option_id": 3, "text": "धुळीच्या", "is_correct": false },
+        { "option_id": 4, "text": "हिमाच्या", "is_correct": false }
+      ],
+      "answer": "पावसाच्या"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सरी कशा पडत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "हळू हळू", "is_correct": false },
+        { "option_id": 2, "text": "थांबून", "is_correct": false },
+        { "option_id": 3, "text": "भरभर", "is_correct": true },
+        { "option_id": 4, "text": "एकट्या", "is_correct": false }
+      ],
+      "answer": "भरभर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "या गाण्यात कोणता पक्षी आहे?",
+      "options": [
+        { "option_id": 1, "text": "कावळा", "is_correct": false },
+        { "option_id": 2, "text": "चिमणी", "is_correct": false },
+        { "option_id": 3, "text": "मोर", "is_correct": true },
+        { "option_id": 4, "text": "पोपट", "is_correct": false }
+      ],
+      "answer": "मोर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मोर काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "बसतो", "is_correct": false },
+        { "option_id": 2, "text": "झोपतो", "is_correct": false },
+        { "option_id": 3, "text": "नाचतो", "is_correct": true },
+        { "option_id": 4, "text": "रडतो", "is_correct": false }
+      ],
+      "answer": "नाचतो"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मोर कुठे नाचतो?",
+      "options": [
+        { "option_id": 1, "text": "घरात", "is_correct": false },
+        { "option_id": 2, "text": "आकाशात", "is_correct": false },
+        { "option_id": 3, "text": "पावसात", "is_correct": true },
+        { "option_id": 4, "text": "पाण्यात", "is_correct": false }
+      ],
+      "answer": "पावसात"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मोराचे पिसे कशी दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "मळकी", "is_correct": false },
+        { "option_id": 2, "text": "तुटलेली", "is_correct": false },
+        { "option_id": 3, "text": "सुंदर", "is_correct": true },
+        { "option_id": 4, "text": "ओरबाडलेली", "is_correct": false }
+      ],
+      "answer": "सुंदर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पावसामुळे वातावरण कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "कोरडे", "is_correct": false },
+        { "option_id": 2, "text": "दु:खी", "is_correct": false },
+        { "option_id": 3, "text": "आनंदी", "is_correct": true },
+        { "option_id": 4, "text": "धूरकट", "is_correct": false }
+      ],
+      "answer": "आनंदी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मोर नाचताना काय पसरतो?",
+      "options": [
+        { "option_id": 1, "text": "चोच", "is_correct": false },
+        { "option_id": 2, "text": "पाय", "is_correct": false },
+        { "option_id": 3, "text": "पंख", "is_correct": true },
+        { "option_id": 4, "text": "डोळे", "is_correct": false }
+      ],
+      "answer": "पंख"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सरी पडताना काय ऐकू येते?",
+      "options": [
+        { "option_id": 1, "text": "शांतता", "is_correct": false },
+        { "option_id": 2, "text": "आवाज", "is_correct": true },
+        { "option_id": 3, "text": "गाणी", "is_correct": false },
+        { "option_id": 4, "text": "ओरड", "is_correct": false }
+      ],
+      "answer": "आवाज"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "या गाण्यातील वातावरण कसे आहे?",
+      "options": [
+        { "option_id": 1, "text": "भयानक", "is_correct": false },
+        { "option_id": 2, "text": "रागीट", "is_correct": false },
+        { "option_id": 3, "text": "आनंदी", "is_correct": true },
+        { "option_id": 4, "text": "दु:खी", "is_correct": false }
+      ],
+      "answer": "आनंदी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पावसामुळे काय मिळते?",
+      "options": [
+        { "option_id": 1, "text": "भीती", "is_correct": false },
+        { "option_id": 2, "text": "आनंद", "is_correct": true },
+        { "option_id": 3, "text": "थकवा", "is_correct": false },
+        { "option_id": 4, "text": "दु:ख", "is_correct": false }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मोर कोणत्या ऋतूमध्ये नाचतो?",
+      "options": [
+        { "option_id": 1, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 2, "text": "उन्हाळा", "is_correct": false },
+        { "option_id": 3, "text": "पावसाळा", "is_correct": true },
+        { "option_id": 4, "text": "वसंत", "is_correct": false }
+      ],
+      "answer": "पावसाळा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "‘सरी’ हा शब्द कशाशी संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "वारा", "is_correct": false },
+        { "option_id": 2, "text": "पाऊस", "is_correct": true },
+        { "option_id": 3, "text": "ऊन्ह", "is_correct": false },
+        { "option_id": 4, "text": "थंडी", "is_correct": false }
+      ],
+      "answer": "पाऊस"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पावसात मुले काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "रडतात", "is_correct": false },
+        { "option_id": 2, "text": "नाचतात", "is_correct": true },
+        { "option_id": 3, "text": "झोपतात", "is_correct": false },
+        { "option_id": 4, "text": "लपतात", "is_correct": false }
+      ],
+      "answer": "नाचतात"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "या गाण्याचा मुख्य विषय काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "खेळ", "is_correct": false },
+        { "option_id": 2, "text": "पाऊस", "is_correct": true },
+        { "option_id": 3, "text": "शाळा", "is_correct": false },
+        { "option_id": 4, "text": "घर", "is_correct": false }
+      ],
+      "answer": "पाऊस"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "कशाच्या सरी पडत आहेत?",
+      "answer": "पावसाच्या सरी पडत आहेत."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "सरी कशा पडत आहेत?",
+      "answer": "सरी भरभर पडत आहेत."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "या गाण्यात कोणता पक्षी आहे?",
+      "answer": "या गाण्यात मोर आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "मोर काय करतो?",
+      "answer": "मोर नाचतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "मोर कुठे नाचतो?",
+      "answer": "मोर पावसात नाचतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "मोराचे पिसे कशी दिसतात?",
+      "answer": "मोराचे पिसे सुंदर दिसतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "पावसामुळे वातावरण कसे होते?",
+      "answer": "पावसामुळे वातावरण आनंदी होते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "मोर नाचताना काय पसरतो?",
+      "answer": "मोर नाचताना पंख पसरतो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "पावसात मुले काय करतात?",
+      "answer": "पावसात मुले नाचतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "सरी पडताना काय ऐकू येते?",
+      "answer": "सरी पडताना आवाज ऐकू येतो."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "या गाण्यातील वातावरण कसे आहे?",
+      "answer": "या गाण्यातील वातावरण आनंदी आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "‘सरी’ हा शब्द कशासाठी वापरला आहे?",
+      "answer": "‘सरी’ हा शब्द पावसासाठी वापरला आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "पावसामुळे काय मिळते?",
+      "answer": "पावसामुळे आनंद मिळतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "मोर कोणत्या ऋतूमध्ये नाचतो?",
+      "answer": "मोर पावसाळ्यात नाचतो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "या गाण्याचा विषय काय आहे?",
+      "answer": "या गाण्याचा विषय पाऊस आहे."
+    }
+  ]
+}

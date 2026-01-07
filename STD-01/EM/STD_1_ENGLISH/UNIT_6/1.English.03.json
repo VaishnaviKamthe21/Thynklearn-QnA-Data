@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "1.English.03",
+    "standard": "1",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Buying Things"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who are going to a shop?",
+      "options": [
+        { "option_id": 1, "text": "Soham and Reva", "is_correct": true },
+        { "option_id": 2, "text": "Sohan and Sweety", "is_correct": false },
+        { "option_id": 3, "text": "Riya and Sonal", "is_correct": false },
+        { "option_id": 4, "text": "Shyam and Raju", "is_correct": false }
+      ],
+      "answer": "Soham and Reva"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "With whom do Soham and Reva go to the shop?",
+      "options": [
+        { "option_id": 1, "text": "With their parents", "is_correct": true },
+        { "option_id": 2, "text": "With friends", "is_correct": false },
+        { "option_id": 3, "text": "With teacher", "is_correct": false },
+        { "option_id": 4, "text": "Alone", "is_correct": false }
+      ],
+      "answer": "With their parents"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What kind of shop is it?",
+      "options": [
+        { "option_id": 1, "text": "A big shop", "is_correct": true },
+        { "option_id": 2, "text": "A small shop", "is_correct": false },
+        { "option_id": 3, "text": "A toy shop", "is_correct": false },
+        { "option_id": 4, "text": "A fruit shop", "is_correct": false }
+      ],
+      "answer": "A big shop"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who wanted to buy some things?",
+      "options": [
+        { "option_id": 1, "text": "Mother", "is_correct": true },
+        { "option_id": 2, "text": "Children", "is_correct": false },
+        { "option_id": 3, "text": "Shopkeeper", "is_correct": false },
+        { "option_id": 4, "text": "Friend", "is_correct": false }
+      ],
+      "answer": "Mother"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who also wanted to buy some things?",
+      "options": [
+        { "option_id": 1, "text": "Father", "is_correct": true },
+        { "option_id": 2, "text": "Mother", "is_correct": false },
+        { "option_id": 3, "text": "Children", "is_correct": false },
+        { "option_id": 4, "text": "Shopkeeper", "is_correct": false }
+      ],
+      "answer": "Father"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does mother give the children?",
+      "options": [
+        { "option_id": 1, "text": "Some money", "is_correct": true },
+        { "option_id": 2, "text": "Some toys", "is_correct": false },
+        { "option_id": 3, "text": "Some food", "is_correct": false },
+        { "option_id": 4, "text": "Some books", "is_correct": false }
+      ],
+      "answer": "Some money"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What do the children want to buy first?",
+      "options": [
+        { "option_id": 1, "text": "Chocolates", "is_correct": true },
+        { "option_id": 2, "text": "Rice", "is_correct": false },
+        { "option_id": 3, "text": "Shoes", "is_correct": false },
+        { "option_id": 4, "text": "Clothes", "is_correct": false }
+      ],
+      "answer": "Chocolates"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which things do the children finally buy?",
+      "options": [
+        { "option_id": 1, "text": "Paper, glue and colours", "is_correct": true },
+        { "option_id": 2, "text": "Chocolates only", "is_correct": false },
+        { "option_id": 3, "text": "Toys only", "is_correct": false },
+        { "option_id": 4, "text": "Crayons only", "is_correct": false }
+      ],
+      "answer": "Paper, glue and colours"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where do they go to pay?",
+      "options": [
+        { "option_id": 1, "text": "Counter", "is_correct": true },
+        { "option_id": 2, "text": "Door", "is_correct": false },
+        { "option_id": 3, "text": "Shelf", "is_correct": false },
+        { "option_id": 4, "text": "Home", "is_correct": false }
+      ],
+      "answer": "Counter"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How much is the total bill?",
+      "options": [
+        { "option_id": 1, "text": "Ninety-five rupees", "is_correct": true },
+        { "option_id": 2, "text": "Hundred rupees", "is_correct": false },
+        { "option_id": 3, "text": "Fifty rupees", "is_correct": false },
+        { "option_id": 4, "text": "Ten rupees", "is_correct": false }
+      ],
+      "answer": "Ninety-five rupees"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How much money do they give?",
+      "options": [
+        { "option_id": 1, "text": "Hundred rupees", "is_correct": true },
+        { "option_id": 2, "text": "Ninety-five rupees", "is_correct": false },
+        { "option_id": 3, "text": "Fifty rupees", "is_correct": false },
+        { "option_id": 4, "text": "Ten rupees", "is_correct": false }
+      ],
+      "answer": "Hundred rupees"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How much money do they get back?",
+      "options": [
+        { "option_id": 1, "text": "Five rupees", "is_correct": true },
+        { "option_id": 2, "text": "Ten rupees", "is_correct": false },
+        { "option_id": 3, "text": "Twenty rupees", "is_correct": false },
+        { "option_id": 4, "text": "No money", "is_correct": false }
+      ],
+      "answer": "Five rupees"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word is in the 'Look and say' list?",
+      "options": [
+        { "option_id": 1, "text": "Money", "is_correct": true },
+        { "option_id": 2, "text": "Kitchen", "is_correct": false },
+        { "option_id": 3, "text": "Garden", "is_correct": false },
+        { "option_id": 4, "text": "School", "is_correct": false }
+      ],
+      "answer": "Money"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word means ‘buying on your own’?",
+      "options": [
+        { "option_id": 1, "text": "Own", "is_correct": true },
+        { "option_id": 2, "text": "Quickly", "is_correct": false },
+        { "option_id": 3, "text": "Last", "is_correct": false },
+        { "option_id": 4, "text": "Finish", "is_correct": false }
+      ],
+      "answer": "Own"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do the children want to do with the things?",
+      "options": [
+        { "option_id": 1, "text": "Make new things", "is_correct": true },
+        { "option_id": 2, "text": "Eat them", "is_correct": false },
+        { "option_id": 3, "text": "Throw them", "is_correct": false },
+        { "option_id": 4, "text": "Sell them", "is_correct": false }
+      ],
+      "answer": "Make new things"
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Who are the children in the lesson?",
+      "answer": "Soham and Reva are the children."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Where do they go?",
+      "answer": "They go to a shop."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Who gives the children money?",
+      "answer": "Mother gives the children money."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Name one thing the children wanted to buy.",
+      "answer": "They wanted to buy chocolates."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What do the children finally buy?",
+      "answer": "They buy paper, glue and colours."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Where do they go to pay?",
+      "answer": "They go to the counter."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How much is the bill?",
+      "answer": "The bill is ninety-five rupees."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "How much money do they give?",
+      "answer": "They give a hundred rupees."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How much money do they get back?",
+      "answer": "They get five rupees back."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Name one word from ‘Look and say’.",
+      "answer": "Money."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What do the children want to make?",
+      "answer": "They want to make new things."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Do the children buy things on their own?",
+      "answer": "Yes, they buy things on their own."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Who talks to the shopkeeper?",
+      "answer": "The children talk to the shopkeeper."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Is this lesson about buying things?",
+      "answer": "Yes, it is about buying things."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Do the children say thank you?",
+      "answer": "Yes, they say thank you."
+    }
+  ]
+}
