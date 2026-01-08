@@ -1,0 +1,971 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.4.1",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "A Thing of Beauty is a Joy For Ever"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'A Thing of Beauty is a Joy For Ever'?",
+      "options": [
+        { "option_id": 1, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 2, "text": "John Keats", "is_correct": true },
+        { "option_id": 3, "text": "Percy Bysshe Shelley", "is_correct": false },
+        { "option_id": 4, "text": "Lord Byron", "is_correct": false }
+      ],
+      "answer": "John Keats"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "John Keats was a ________ poet.",
+      "options": [
+        { "option_id": 1, "text": "American Romantic", "is_correct": false },
+        { "option_id": 2, "text": "British Victorian", "is_correct": false },
+        { "option_id": 3, "text": "British Romantic", "is_correct": true },
+        { "option_id": 4, "text": "Modernist", "is_correct": false }
+      ],
+      "answer": "British Romantic"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What profession was John Keats trained for before devoting himself to poetry?",
+      "options": [
+        { "option_id": 1, "text": "Lawyer", "is_correct": false },
+        { "option_id": 2, "text": "Surgeon", "is_correct": true },
+        { "option_id": 3, "text": "Teacher", "is_correct": false },
+        { "option_id": 4, "text": "Clergyman", "is_correct": false }
+      ],
+      "answer": "Surgeon"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The poem 'A Thing of Beauty is a Joy For Ever' is taken from which larger work by Keats?",
+      "options": [
+        { "option_id": 1, "text": "Ode to a Nightingale", "is_correct": false },
+        { "option_id": 2, "text": "Hyperion", "is_correct": false },
+        { "option_id": 3, "text": "Endymion; a Poetic Romance", "is_correct": true },
+        { "option_id": 4, "text": "Lamia", "is_correct": false }
+      ],
+      "answer": "Endymion; a Poetic Romance"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The poem 'Endymion' is based on a legend from which mythology?",
+      "options": [
+        { "option_id": 1, "text": "Roman", "is_correct": false },
+        { "option_id": 2, "text": "Norse", "is_correct": false },
+        { "option_id": 3, "text": "Greek", "is_correct": true },
+        { "option_id": 4, "text": "Egyptian", "is_correct": false }
+      ],
+      "answer": "Greek"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Complete the opening line: 'A thing of beauty is a joy ______'.",
+      "options": [
+        { "option_id": 1, "text": "for now", "is_correct": false },
+        { "option_id": 2, "text": "for ever", "is_correct": true },
+        { "option_id": 3, "text": "indeed", "is_correct": false },
+        { "option_id": 4, "text": "always", "is_correct": false }
+      ],
+      "answer": "for ever"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "According to the poem, what happens to the loveliness of a beautiful thing?",
+      "options": [
+        { "option_id": 1, "text": "It fades away.", "is_correct": false },
+        { "option_id": 2, "text": "It decreases over time.", "is_correct": false },
+        { "option_id": 3, "text": "It remains constant.", "is_correct": false },
+        { "option_id": 4, "text": "It increases.", "is_correct": true }
+      ],
+      "answer": "It increases."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does a thing of beauty never pass into?",
+      "options": [
+        { "option_id": 1, "text": "Memory", "is_correct": false },
+        { "option_id": 2, "text": "Nothingness", "is_correct": true },
+        { "option_id": 3, "text": "History", "is_correct": false },
+        { "option_id": 4, "text": "Obscurity", "is_correct": false }
+      ],
+      "answer": "Nothingness"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does the word 'bower' mean in the context of the poem?",
+      "options": [
+        { "option_id": 1, "text": "A bouquet of flowers", "is_correct": false },
+        { "option_id": 2, "text": "A pleasant shady place under trees", "is_correct": true },
+        { "option_id": 3, "text": "A bed", "is_correct": false },
+        { "option_id": 4, "text": "A deep valley", "is_correct": false }
+      ],
+      "answer": "A pleasant shady place under trees"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which of these benefits does a thing of beauty provide according to the first stanza?",
+      "options": [
+        { "option_id": 1, "text": "Wealth", "is_correct": false },
+        { "option_id": 2, "text": "Fame", "is_correct": false },
+        { "option_id": 3, "text": "Sleep full of sweet dreams", "is_correct": true },
+        { "option_id": 4, "text": "Power", "is_correct": false }
+      ],
+      "answer": "Sleep full of sweet dreams"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Besides sweet dreams and health, what else does a thing of beauty provide?",
+      "options": [
+        { "option_id": 1, "text": "Loud laughter", "is_correct": false },
+        { "option_id": 2, "text": "Quiet breathing", "is_correct": true },
+        { "option_id": 3, "text": "Excitement", "is_correct": false },
+        { "option_id": 4, "text": "Adventure", "is_correct": false }
+      ],
+      "answer": "Quiet breathing"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does the word 'morrow' mean?",
+      "options": [
+        { "option_id": 1, "text": "Morning", "is_correct": false },
+        { "option_id": 2, "text": "Yesterday", "is_correct": false },
+        { "option_id": 3, "text": "The following day", "is_correct": true },
+        { "option_id": 4, "text": "Sorrow", "is_correct": false }
+      ],
+      "answer": "The following day"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What are we doing 'on every morrow' according to the poem?",
+      "options": [
+        { "option_id": 1, "text": "Forgetting our troubles", "is_correct": false },
+        { "option_id": 2, "text": "Wreathing a flowery band", "is_correct": true },
+        { "option_id": 3, "text": "Seeking new beauties", "is_correct": false },
+        { "option_id": 4, "text": "Working hard", "is_correct": false }
+      ],
+      "answer": "Wreathing a flowery band"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Why do we wreathe a flowery band every day?",
+      "options": [
+        { "option_id": 1, "text": "To decorate our homes", "is_correct": false },
+        { "option_id": 2, "text": "To gift to others", "is_correct": false },
+        { "option_id": 3, "text": "To bind us to the earth", "is_correct": true },
+        { "option_id": 4, "text": "To remember the dead", "is_correct": false }
+      ],
+      "answer": "To bind us to the earth"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'despondence'?",
+      "options": [
+        { "option_id": 1, "text": "Extreme happiness", "is_correct": false },
+        { "option_id": 2, "text": "Feeling of hopelessness or discouragement", "is_correct": true },
+        { "option_id": 3, "text": "Confusion", "is_correct": false },
+        { "option_id": 4, "text": "Anger", "is_correct": false }
+      ],
+      "answer": "Feeling of hopelessness or discouragement"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "According to the poem, what is there an 'inhuman dearth' of?",
+      "options": [
+        { "option_id": 1, "text": "Material wealth", "is_correct": false },
+        { "option_id": 2, "text": "Beautiful things", "is_correct": false },
+        { "option_id": 3, "text": "Noble natures", "is_correct": true },
+        { "option_id": 4, "text": "Opportunities", "is_correct": false }
+      ],
+      "answer": "Noble natures"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "How are the 'days' described in the second stanza?",
+      "options": [
+        { "option_id": 1, "text": "Bright", "is_correct": false },
+        { "option_id": 2, "text": "Gloomy", "is_correct": true },
+        { "option_id": 3, "text": "Short", "is_correct": false },
+        { "option_id": 4, "text": "Long", "is_correct": false }
+      ],
+      "answer": "Gloomy"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "How are the 'ways' made for our searching described?",
+      "options": [
+        { "option_id": 1, "text": "Easy and clear", "is_correct": false },
+        { "option_id": 2, "text": "Unhealthy and o'er-darkened", "is_correct": true },
+        { "option_id": 3, "text": "Exciting and adventurous", "is_correct": false },
+        { "option_id": 4, "text": "Simple and straight", "is_correct": false }
+      ],
+      "answer": "Unhealthy and o'er-darkened"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What moves away the 'pall' from our dark spirits?",
+      "options": [
+        { "option_id": 1, "text": "Noble natures", "is_correct": false },
+        { "option_id": 2, "text": "Some shape of beauty", "is_correct": true },
+        { "option_id": 3, "text": "Time", "is_correct": false },
+        { "option_id": 4, "text": "Sleep", "is_correct": false }
+      ],
+      "answer": "Some shape of beauty"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What does the word 'pall' mean in the context of 'pall from our dark spirits'?",
+      "options": [
+        { "option_id": 1, "text": "A friend", "is_correct": false },
+        { "option_id": 2, "text": "A heavy cloth covering a coffin; here, a feeling of gloom", "is_correct": true },
+        { "option_id": 3, "text": "A bright light", "is_correct": false },
+        { "option_id": 4, "text": "A protective shield", "is_correct": false }
+      ],
+      "answer": "A heavy cloth covering a coffin; here, a feeling of gloom"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which celestial body is mentioned first as a thing of beauty?",
+      "options": [
+        { "option_id": 1, "text": "The Moon", "is_correct": false },
+        { "option_id": 2, "text": "The Sun", "is_correct": true },
+        { "option_id": 3, "text": "Stars", "is_correct": false },
+        { "option_id": 4, "text": "Comets", "is_correct": false }
+      ],
+      "answer": "The Sun"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which other celestial body is mentioned alongside the Sun?",
+      "options": [
+        { "option_id": 1, "text": "Mars", "is_correct": false },
+        { "option_id": 2, "text": "Venus", "is_correct": false },
+        { "option_id": 3, "text": "The Moon", "is_correct": true },
+        { "option_id": 4, "text": "Jupiter", "is_correct": false }
+      ],
+      "answer": "The Moon"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "How are the trees described in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Tall and short", "is_correct": false },
+        { "option_id": 2, "text": "Old and young", "is_correct": true },
+        { "option_id": 3, "text": "Green and brown", "is_correct": false },
+        { "option_id": 4, "text": "Fruitful and barren", "is_correct": false }
+      ],
+      "answer": "Old and young"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who benefits from the 'shady boon' sprouted by trees?",
+      "options": [
+        { "option_id": 1, "text": "Humans", "is_correct": false },
+        { "option_id": 2, "text": "Birds", "is_correct": false },
+        { "option_id": 3, "text": "Simple sheep", "is_correct": true },
+        { "option_id": 4, "text": "All animals", "is_correct": false }
+      ],
+      "answer": "Simple sheep"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What does the word 'boon' mean?",
+      "options": [
+        { "option_id": 1, "text": "A curse", "is_correct": false },
+        { "option_id": 2, "text": "A blessing or benefit", "is_correct": true },
+        { "option_id": 3, "text": "A branch", "is_correct": false },
+        { "option_id": 4, "text": "A shadow", "is_correct": false }
+      ],
+      "answer": "A blessing or benefit"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which flowers are mentioned along with 'the green world they live in'?",
+      "options": [
+        { "option_id": 1, "text": "Roses", "is_correct": false },
+        { "option_id": 2, "text": "Lilies", "is_correct": false },
+        { "option_id": 3, "text": "Daffodils", "is_correct": true },
+        { "option_id": 4, "text": "Tulips", "is_correct": false }
+      ],
+      "answer": "Daffodils"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'rills'?",
+      "options": [
+        { "option_id": 1, "text": "Hills", "is_correct": false },
+        { "option_id": 2, "text": "Small streams", "is_correct": true },
+        { "option_id": 3, "text": "Valleys", "is_correct": false },
+        { "option_id": 4, "text": "Forests", "is_correct": false }
+      ],
+      "answer": "Small streams"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What do the clear rills create for themselves?",
+      "options": [
+        { "option_id": 1, "text": "A large lake", "is_correct": false },
+        { "option_id": 2, "text": "A cooling covert", "is_correct": true },
+        { "option_id": 3, "text": "A pathway", "is_correct": false },
+        { "option_id": 4, "text": "A dam", "is_correct": false }
+      ],
+      "answer": "A cooling covert"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Against what do the rills make a cooling covert?",
+      "options": [
+        { "option_id": 1, "text": "Wild animals", "is_correct": false },
+        { "option_id": 2, "text": "Strong winds", "is_correct": false },
+        { "option_id": 3, "text": "The hot season", "is_correct": true },
+        { "option_id": 4, "text": "Heavy rains", "is_correct": false }
+      ],
+      "answer": "The hot season"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What does the word 'brake' mean in 'mid forest brake'?",
+      "options": [
+        { "option_id": 1, "text": "A pause", "is_correct": false },
+        { "option_id": 2, "text": "A thicket or area of dense undergrowth", "is_correct": true },
+        { "option_id": 3, "text": "A type of fern", "is_correct": false },
+        { "option_id": 4, "text": "A broken branch", "is_correct": false }
+      ],
+      "answer": "A thicket or area of dense undergrowth"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which flower is found rich with a sprinkling in the mid forest brake?",
+      "options": [
+        { "option_id": 1, "text": "Daffodil", "is_correct": false },
+        { "option_id": 2, "text": "Musk-rose", "is_correct": true },
+        { "option_id": 3, "text": "Lily", "is_correct": false },
+        { "option_id": 4, "text": "Violet", "is_correct": false }
+      ],
+      "answer": "Musk-rose"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "How are the musk-rose blooms described in the forest brake?",
+      "options": [
+        { "option_id": 1, "text": "A large field", "is_correct": false },
+        { "option_id": 2, "text": "A dense cluster", "is_correct": false },
+        { "option_id": 3, "text": "A sprinkling", "is_correct": true },
+        { "option_id": 4, "text": "A single flower", "is_correct": false }
+      ],
+      "answer": "A sprinkling"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Besides natural objects, what else is mentioned as a thing of beauty in the last stanza?",
+      "options": [
+        { "option_id": 1, "text": "Grandeur of the dooms", "is_correct": true },
+        { "option_id": 2, "text": "Rich palaces", "is_correct": false },
+        { "option_id": 3, "text": "Golden treasures", "is_correct": false },
+        { "option_id": 4, "text": "Fine clothing", "is_correct": false }
+      ],
+      "answer": "Grandeur of the dooms"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who are the 'mighty dead' referred to in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Ghosts", "is_correct": false },
+        { "option_id": 2, "text": "Great people of the past", "is_correct": true },
+        { "option_id": 3, "text": "Soldiers", "is_correct": false },
+        { "option_id": 4, "text": "Mythological creatures", "is_correct": false }
+      ],
+      "answer": "Great people of the past"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What does the word 'dooms' mean in the context of 'grandeur of the dooms'?",
+      "options": [
+        { "option_id": 1, "text": "Judgments or final fates/deaths", "is_correct": true },
+        { "option_id": 2, "text": "Bad luck", "is_correct": false },
+        { "option_id": 3, "text": "Mistakes", "is_correct": false },
+        { "option_id": 4, "text": "Beginnings", "is_correct": false }
+      ],
+      "answer": "Judgments or final fates/deaths"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What other non-natural thing of beauty is mentioned alongside the 'mighty dead'?",
+      "options": [
+        { "option_id": 1, "text": "Beautiful paintings", "is_correct": false },
+        { "option_id": 2, "text": "Lovely tales", "is_correct": true },
+        { "option_id": 3, "text": "Grand buildings", "is_correct": false },
+        { "option_id": 4, "text": "Melodious songs", "is_correct": false }
+      ],
+      "answer": "Lovely tales"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What metaphor is used to describe the 'lovely tales'?",
+      "options": [
+        { "option_id": 1, "text": "A blooming flower", "is_correct": false },
+        { "option_id": 2, "text": "A shining star", "is_correct": false },
+        { "option_id": 3, "text": "An endless fountain of immortal drink", "is_correct": true },
+        { "option_id": 4, "text": "A flowing river", "is_correct": false }
+      ],
+      "answer": "An endless fountain of immortal drink"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is the nature of the drink pouring from the endless fountain?",
+      "options": [
+        { "option_id": 1, "text": "Sweet", "is_correct": false },
+        { "option_id": 2, "text": "Immortal", "is_correct": true },
+        { "option_id": 3, "text": "Bitter", "is_correct": false },
+        { "option_id": 4, "text": "Temporary", "is_correct": false }
+      ],
+      "answer": "Immortal"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Where does the 'endless fountain of immortal drink' pour from?",
+      "options": [
+        { "option_id": 1, "text": "The earth's core", "is_correct": false },
+        { "option_id": 2, "text": "A high mountain", "is_correct": false },
+        { "option_id": 3, "text": "The heaven's brink", "is_correct": true },
+        { "option_id": 4, "text": "The ocean", "is_correct": false }
+      ],
+      "answer": "The heaven's brink"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the rhyme scheme of the first four lines of the poem (ever, increases, nothingness, bower)?",
+      "options": [
+        { "option_id": 1, "text": "abab", "is_correct": false },
+        { "option_id": 2, "text": "aabb", "is_correct": true },
+        { "option_id": 3, "text": "abba", "is_correct": false },
+        { "option_id": 4, "text": "abcd", "is_correct": false }
+      ],
+      "answer": "aabb"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Define 'bower' as used in the poem.",
+      "answer": "A 'bower' is a pleasant shady place under trees or climbing plants."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "List three benefits of a thing of beauty mentioned in the first stanza.",
+      "answer": "The benefits are a bower quiet for us, a sleep full of sweet dreams, health, and quiet breathing."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What does the poet mean when he says beauty never 'passes into nothingness'?",
+      "answer": "It means that the beauty of a thing is permanent; it never fades away or ceases to exist in our memory and spirit."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "Explain the metaphor of the 'flowery band to bind us to the earth'.",
+      "answer": "It suggests that beautiful things act like a pleasant bond that connects us to life and the physical world, giving us a reason to live despite suffering."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What causes 'despondence' according to the poem?",
+      "answer": "Despondence is caused by the lack of noble natures, gloomy days, and unhealthy or dark ways of life."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Explain the phrase 'inhuman dearth of noble natures'.",
+      "answer": "It refers to a severe shortage or lack of people with good, generous, and honorable characters."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What are 'unhealthy and o'er-darkened ways'?",
+      "answer": "These are evil, corrupt, or morally wrong paths and practices that lead to suffering and unhappiness."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What does beauty do to the 'pall' on our dark spirits?",
+      "answer": "Some shape of beauty moves away the 'pall', or the covering of gloom and sadness, from our spirits."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "List the natural elements mentioned as things of beauty in the poem.",
+      "answer": "The natural elements are the Sun, the Moon, trees old and young, daffodils, clear rills, and musk-rose blooms."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "How do 'old and young trees' help simple sheep?",
+      "answer": "They sprout a 'shady boon', providing a beneficial shade for the sheep."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a 'shady boon'?",
+      "answer": "It is a blessing or benefit in the form of shade."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Describe the environment of the daffodils mentioned in the poem.",
+      "answer": "Daffodils are described as being with 'the green world they live in', suggesting they are surrounded by lush greenery."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the function of 'clear rills' in the hot season?",
+      "answer": "Clear rills create a 'cooling covert' or a cool, sheltered place for themselves against the hot season."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Define 'covert' in the context of the poem.",
+      "answer": "A 'covert' is a thicket or a sheltered place where one can hide or find protection."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Describe the 'mid forest brake'.",
+      "answer": "It is a thicket or dense undergrowth in the middle of the forest, rich with scattered musk-rose flowers."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What makes the forest brake 'rich'?",
+      "answer": "It is made rich by a 'sprinkling of fair musk-rose blooms'."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Who are the 'mighty dead'?",
+      "answer": "They are the great and powerful people from the past whose stories and achievements we remember."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is the 'grandeur of the dooms' considered a thing of beauty?",
+      "answer": "The magnificent or heroic deaths and fates of great people from the past hold a certain beauty and inspiration in their stories."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are 'lovely tales' in the context of the poem?",
+      "answer": "They are beautiful stories and legends that we have either heard or read."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Explain the metaphor 'endless fountain of immortal drink'.",
+      "answer": "It compares the joy and inspiration derived from beautiful things and tales to a never-ending fountain that provides a divine, eternal potion for our souls."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Where is 'heaven's brink' located metaphorically?",
+      "answer": "It refers to the edge or boundary of heaven, suggesting the divine origin of the immortal drink."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Identify two pairs of rhyming words from the first stanza.",
+      "answer": "ever/never, keep/sleep"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Identify two pairs of rhyming words from the last stanza.",
+      "answer": "dead/read, drink/brink"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Give an example of alliteration from the poem.",
+      "answer": "'noble natures', 'simple sheep', 'cooling covert'"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Give an example of imagery from the poem.",
+      "answer": "'A flowery band to bind us to the earth', 'Daffodils with the green world they live in', 'clear rills / That for themselves a cooling covert make'"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the central theme of the poem?",
+      "answer": "The central theme is the permanent and healing nature of beauty, which provides joy and counteracts the suffering in human life."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How does beauty affect our sleep according to the poem?",
+      "answer": "Beauty provides us with a 'sleep full of sweet dreams'."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'full of sweet dreams' describe?",
+      "answer": "It describes the quality of sleep provided by a thing of beauty."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does the poet mean by 'quiet breathing'?",
+      "answer": "It refers to a state of peacefulness, calmness, and physical well-being induced by beauty."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Explain the phrase 'Spite of despondence'.",
+      "answer": "It means 'in spite of' or 'despite' the feeling of hopelessness or depression."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are 'gloomy days' in the context of the poem?",
+      "answer": "They refer to days filled with sadness, sorrow, or lack of hope."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What does 'shape of beauty' refer to?",
+      "answer": "It refers to any manifestation or form of a beautiful thing."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "List the celestial bodies mentioned in the poem.",
+      "answer": "The Sun and the Moon."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the connection between daffodils and the 'green world'?",
+      "answer": "The 'green world' is the natural environment, like grass and foliage, where daffodils grow and belong."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How do rills protect themselves from the heat?",
+      "answer": "They make a 'cooling covert' or sheltered path for themselves."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the dominant color implied in the description of the world where daffodils live?",
+      "answer": "Green."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is a musk-rose?",
+      "answer": "It is a type of wild rose known for its musky fragrance."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What does 'sprinkling of fair musk-rose blooms' suggest about their arrangement?",
+      "answer": "It suggests they are scattered or spread irregularly, not growing in a dense mass."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Are the 'mighty dead' physically present? Explain.",
+      "answer": "No, they are not physically present. They live on through their stories, legends, and the 'grandeur of the dooms' we imagine for them."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "How can 'dooms' have 'grandeur'?",
+      "answer": "The deaths or final fates of great heroes can be magnificent, heroic, and inspiring, thus possessing 'grandeur'."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What are the two sources of 'lovely tales' mentioned?",
+      "answer": "Tales that we have 'heard' and tales that we have 'read'."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why is the drink described as 'immortal'?",
+      "answer": "Because the joy and inspiration it provides are eternal and unending, much like the effect of beauty itself."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What does the word 'pouring' suggest about the fountain?",
+      "answer": "It suggests a continuous, abundant, and generous flow of the 'immortal drink'."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What connects the 'immortal drink' to humans in the poem?",
+      "answer": "It is pouring 'unto us', meaning it is meant for and received by human beings."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Who is Endymion in the Greek legend mentioned in the background info?",
+      "answer": "Endymion was a beautiful young shepherd and poet."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Where did Endymion live according to the legend?",
+      "answer": "He lived on Mount Latmos."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Who did Endymion love in the legend?",
+      "answer": "He had a vision of Cynthia, the Moon Goddess, and fell in love with her."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What did Endymion do to seek his love?",
+      "answer": "He resolved to seek her out and wandered away through the forest and down under the sea."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What was John Keats trained to be before becoming a poet?",
+      "answer": "He was trained to be a surgeon."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "In which literary period did John Keats write?",
+      "answer": "He wrote during the Romantic period (early 19th century)."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Discuss the opening line, \"A thing of beauty is a joy for ever\". How does the poet justify this statement throughout the poem?",
+      "answer": "The opening line sets the central theme: beauty creates lasting joy. Keats justifies this by explaining that a beautiful thing's loveliness increases over time and never fades into nothingness. He illustrates its permanent positive effects, such as providing a peaceful 'bower', sweet sleep, and health. Despite life's trials like despondence and gloomy days, beauty acts as a healing force, removing the 'pall' from our spirits. He concludes by connecting this eternal joy to an 'endless fountain of immortal drink' from heaven, emphasizing its divine and everlasting nature."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Explain how a thing of beauty acts as a \"bower quiet for us\" and provides health and peaceful sleep.",
+      "answer": "A 'bower' is a peaceful, shady shelter. Keats uses this metaphor to imply that a thing of beauty provides a psychological sanctuary, a mental place of calm and rest away from the world's troubles. Just as a physical bower offers shade and quiet, beauty offers peace to the mind. This mental tranquillity naturally leads to better physical well-being ('health') and undisturbed, restorative sleep filled with 'sweet dreams' and 'quiet breathing'."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "Analyze the negative aspects of human life presented in the second stanza. How does beauty help humans overcome these negative aspects?",
+      "answer": "The second stanza paints a grim picture of human existence, mentioning 'despondence' (hopelessness), a lack of 'noble natures' (good people), 'gloomy days', and 'unhealthy and o'er-darkened ways' (corrupt or sorrowful paths). These represent suffering, disappointment, and moral decay. Keats argues that in spite of all this, 'some shape of beauty' has the power to intervene. It acts as a counterforce, moving away the 'pall' or covering of darkness from our spirits, thus helping humans endure and overcome these negative aspects by providing hope and joy."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Describe the imagery used by Keats to depict the beauty of nature in the third stanza. How does this imagery appeal to the senses?",
+      "answer": "Keats uses rich, sensory imagery. Visual images include the bright 'Sun', the 'Moon', 'trees old and young' sprouting shade, golden 'Daffodils' in their 'green world', transparent 'clear rills', and the forest brake sprinkled with 'fair musk-rose blooms'. The imagery appeals to the sense of sight (colors, light), touch (the 'cooling' covert, 'shady' boon), and smell (the implied fragrance of 'musk-rose blooms'). This vivid depiction makes nature's beauty feel tangible and refreshing."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "The poem lists both natural objects and abstract concepts/tales as things of beauty. Discuss the significance of including both.",
+      "answer": "By including both natural objects (sun, moon, trees, flowers) and abstract concepts created by humans (stories of the 'mighty dead', 'lovely tales'), Keats expands the definition of beauty. It signifies that beauty is not limited to the physical world but is also found in human intellect, history, imagination, and art. Both sources act as an 'endless fountain' of joy, suggesting that inspiration and comfort can be derived from the world around us as well as from the rich legacy of human thought and creativity."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Explain the metaphor of the \"endless fountain of immortal drink\" used in the final lines. What does it suggest about the nature and source of beauty?",
+      "answer": "The metaphor compares the joy and inspiration from beautiful things and tales to an 'endless fountain of immortal drink'. 'Endless' suggests that this source of joy is inexhaustible. 'Immortal drink' (like nectar) implies it is divine, life-giving, and eternal, not subject to death or decay. Pouring from 'heaven's brink' suggests that true beauty has a spiritual or divine origin. The metaphor emphasizes that beauty is a continuous, life-sustaining force that nourishes the human soul eternally."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "How does the poem contrast the permanence of beauty with the transient nature of human suffering and despondence?",
+      "answer": "The poem establishes a clear contrast. Human life is depicted as being filled with transient and negative experiences like 'despondence', 'gloomy days', and a lack of noble natures. These are presented as ongoing struggles ('on every morrow'). In contrast, beauty is described as something that is 'a joy for ever', whose loveliness 'increases' and 'never passes into nothingness'. While suffering is a part of life, beauty is presented as a superior, permanent force that can alleviate this suffering and provide lasting joy."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Discuss the healing power of beauty as presented in John Keats' poem.",
+      "answer": "Keats presents beauty as a potent healing force for the human spirit. It acts as a balm against the inevitable sorrows of life ('despondence', 'gloomy days'). The poem explicitly states that beauty provides 'health' and quiet breathing, contributing to physical well-being. More significantly, it heals mentally and emotionally by providing a mental sanctuary ('bower quiet'), ensuring restful sleep ('sweet dreams'), and lifting the veil of gloom ('pall') from dark spirits. The final image of an 'immortal drink' reinforces the idea of beauty as a spiritual restorative."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "\"Spite of despondence, of the inhuman dearth / Of noble natures, of the gloomy days...\" Explain the context of these lines and how beauty offers a counterpoint.",
+      "answer": "These lines are from the second stanza where Keats acknowledges the harsh realities of human existence. He lists the causes of human suffering: hopelessness ('despondence'), a scarcity of good people ('inhuman dearth of noble natures'), and sorrowful times ('gloomy days'). The phrase 'Spite of' means 'despite these things'. The context is to set up a contrast: even in the face of all this negativity, 'some shape of beauty' has the power to intervene and lift the gloom from our spirits. Beauty acts as a counterpoint, offering hope and joy that balances out the suffering."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Critical appreciate the poem \"A thing of beauty is a joy for ever\", focusing on its theme, imagery, and poetic devices.",
+      "answer": "Keats' poem is a quintessential Romantic work celebrating the eternal and healing power of beauty. Its central theme is that beautiful things give lasting joy and help humans endure life's sorrows. The poem is rich in vivid imagery, appealing to the senses with descriptions of the sun, moon, shady trees, golden daffodils, cooling clear streams, and fragrant musk-roses. Keats employs metaphors effectively, like 'bower quiet' for peace, 'flowery band' for our connection to earth, and 'endless fountain of immortal drink' for the divine nature of beauty's joy. The rhyme scheme (aabb) and rhythmic flow contribute to the poem's soothing and pleasant quality, perfectly matching its theme."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "How does Keats create a sense of lasting peace and comfort through his description of beautiful things in the first stanza?",
+      "answer": "Keats creates a sense of lasting peace by emphasizing the permanence of beauty's effect. He states its loveliness 'increases' and it 'never passes into nothingness', assuring the reader of its enduring nature. He then uses the metaphor of a 'bower quiet for us', conjuring an image of a peaceful, shady retreat. This is linked to physical and mental comfort through 'a sleep full of sweet dreams', 'health', and 'quiet breathing'. These images collectively build an atmosphere of deep, restorative, and lasting tranquility that beauty provides."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Analyze the phrase \"a flowery band to bind us to the earth\". What does this metaphor suggest about humanity's relationship with nature and life?",
+      "answer": "This metaphor suggests a deep, inseparable connection between humanity and the natural world. A 'flowery band' is something beautiful and natural that ties or binds. Wreathing it 'on every morrow' implies a daily renewal of this connection. It suggests that the beauty found in nature and life (represented by flowers) is what keeps us grounded and attached to existence ('bind us to the earth'), giving us a reason to keep living despite the inevitable sorrows and hardships mentioned later. It portrays our relationship with earth not as a burden, but as a beautiful, self-created bond."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Explore the idea that beauty is not just found in pleasant things but also in the \"grandeur of the dooms\" of the mighty dead. How can tragedy or death hold beauty?",
+      "answer": "Keats expands the concept of beauty beyond mere prettiness to include the sublime and the tragic. The 'mighty dead' are historical or legendary figures of great stature. Their 'dooms' refer to their final fates or deaths, which are often heroic, tragic, or highly significant. The 'grandeur' lies in the magnificence, heroism, or profound impact of their lives and deaths. Their stories evoke powerful emotions like awe, inspiration, and catharsis, which constitutes a form of beauty. Thus, tragedy and death, when associated with greatness, become a source of aesthetic and emotional power, a 'thing of beauty'."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "Discuss the role of memory and imagination in experiencing the joy of beauty, based on the poem's references to tales read or heard.",
+      "answer": "The poem suggests that beauty is not just a present-moment experience but is sustained through memory and imagination. The reference to 'All lovely tales that we have heard or read' indicates that stories and legends stored in our memory are sources of beauty. We don't need to be reading them constantly; their memory provides joy. Similarly, imagining the 'grandeur of the dooms' of past heroes is an act of imagination that yields beauty. The opening lines also imply memory: a thing of beauty 'never passes into nothingness', meaning it remains in our minds, its loveliness increasing as we recall it."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "How does the poem reflect the key characteristics of Romantic poetry, such as a deep appreciation for nature and the power of the imagination?",
+      "answer": "The poem is a prime example of Romantic poetry. It demonstrates a profound deep appreciation for nature through its detailed and reverent listing of natural elements like the sun, moon, trees, flowers, and streams as primary sources of beauty and healing. It emphasizes the power of imagination by including 'lovely tales' and the imagined 'grandeur' of past heroes as forms of beauty. The focus on emotion (joy, despondence), individual experience, and the transcendental nature of beauty ('immortal drink from heaven's brink') align perfectly with Romantic ideals."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "Explain the progression of thought in the poem from the initial statement about beauty's permanence to the final image of the immortal fountain.",
+      "answer": "The poem follows a logical progression. It begins with the central thesis: beauty is eternal and increases in value. It then describes the immediate, personal benefits of this beauty (peace, sleep, health). Next, it acknowledges the reality of human suffering and argues that beauty is the antidote that lifts our spirits. It then provides concrete examples of beauty from nature. Finally, it broadens the definition to include intellectual/imaginative beauty (tales, history) and concludes with a powerful unifying metaphor: all these forms of beauty are an 'endless fountain of immortal drink' from a divine source, reinforcing the initial idea of eternal joy."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "Discuss the significance of the specific natural elements chosen by Keats (sun, moon, trees, daffodils, rills, musk-roses) to illustrate his theme.",
+      "answer": "Keats chooses natural elements that are universally recognizable and evoke a sense of peace, life, and freshness. The sun and moon represent cosmic, eternal beauty. Trees offer shade and protection ('boon for simple sheep'). Daffodils and musk-roses represent the vibrant, fragile yet renewing beauty of flowers. Clear rills provide coolness and refreshment. These elements appeal to multiple senses and represent nature's ability to nurture, comfort, and delight, perfectly illustrating his theme of beauty as a healing and joy-giving force."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "How does the poem suggest that beauty is an essential need for the human spirit, akin to physical needs like sleep and health?",
+      "answer": "The poem directly links beauty to physical needs in the first stanza, stating it provides 'sleep full of sweet dreams, and health, and quiet breathing'. By placing the experience of beauty alongside these fundamental physiological necessities, Keats implies it is equally vital. Furthermore, in the second stanza, he suggests that without beauty to lift the 'pall' of despondence, human life becomes barely bearable amid gloom and a dearth of goodness. Therefore, beauty is portrayed not as a luxury, but as an essential spiritual nourishment required for a healthy and enduring human existence."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "Analyze the use of contrasting images in the poem, such as \"gloomy days\" versus \"shape of beauty\", and \"hot season\" versus \"cooling covert\".",
+      "answer": "Keats uses contrast to heighten the impact of beauty. The dark imagery of 'gloomy days', 'dark spirits', and 'o'er-darkened ways' is sharply contrasted with the bright, positive force of 'some shape of beauty' that lifts this darkness. Similarly, the discomfort of the 'hot season' is contrasted with the refreshing relief of the 'cooling covert' made by rills. These contrasts emphasize the relief, comfort, and joy that beauty brings, making its value more apparent against the backdrop of suffering or discomfort."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "Based on the background information provided, how does knowing that this poem is part of a larger work based on the Greek legend of Endymion enrich your understanding of it?",
+      "answer": "Knowing the context of *Endymion* enriches understanding by providing a narrative framework. The legend is about a shepherd searching for his divine love, the Moon Goddess. This search for an ideal beauty aligns perfectly with the poem's theme. The 'thing of beauty' can be seen as the ultimate goal of such a quest. The references to nature (forests, where Endymion wandered) and celestial bodies (Moon, his love) gain deeper significance. The poem's opening lines set the tone for the entire epic, establishing the driving force behind Endymion's journey – the eternal pursuit of beauty."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "Discuss how the poem portrays beauty as a unifying force that connects the physical world (earth, nature) with the spiritual or eternal realm (heaven's brink).",
+      "answer": "The poem grounds beauty in the physical world through tangible examples like flowers, trees, and streams, and the metaphor of binding us to the 'earth'. However, it elevates this beauty to a spiritual level. It provides mental peace ('bower', 'sleep') and heals the spirit. The final metaphor explicitly connects these earthly beauties to the divine, describing them as an 'immortal drink' pouring from 'heaven's brink'. Thus, beauty is portrayed as a bridge between the mortal, physical world and an eternal, spiritual reality."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "Explain the phrase \"unhealthy and o'er-darkened ways\" and discuss how the experience of beauty acts as an antidote to these aspects of human existence.",
+      "answer": "'Unhealthy and o'er-darkened ways' refers to lifestyles or paths that are morally corrupt, spiritually damaging, or filled with ignorance and negativity. These lead to suffering and a darkened spirit. The experience of beauty acts as an antidote by offering a pure, positive, and uplifting counter-experience. It clears the mental 'pall', providing clarity, hope, and a sense of goodness that contrasts with and helps one rise above these unhealthy paths, restoring spiritual health."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "How does Keats use sensory language to make the things of beauty described in the poem feel tangible and real to the reader? Give specific examples.",
+      "answer": "Keats uses evocative sensory language. Visual imagery is strong: 'Sun', 'Moon', golden 'Daffodils', 'green world', 'clear rills'. Tactile sensations are evoked through 'cooling covert', 'shady boon', and the implied softness of a 'flowery band'. The sense of smell is engaged with 'musk-rose blooms'. The phrase 'quiet breathing' appeals to the internal sense of bodily state. This multi-sensory approach makes the descriptions vivid and tangible, allowing the reader to almost experience the beauty directly."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "Discuss the idea of intellectual or spiritual beauty as presented in the reference to \"lovely tales\" and the \"mighty dead\", distinct from physical or natural beauty.",
+      "answer": "While much of the poem focuses on physical nature, Keats introduces intellectual and spiritual beauty through 'lovely tales' and the 'mighty dead'. The beauty here lies not in physical form but in ideas, heroism, morality, and the artistry of storytelling. The 'grandeur' of heroes' lives and the narrative power of tales inspire the mind and touch the spirit in a way that is distinct from, yet as powerful as, the sensory delight of a flower. This suggests beauty is a multifaceted concept encompassing both the tangible and the intangible."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "Evaluate the poem's message about the enduring value of art and literature in human life.",
+      "answer": "By including 'All lovely tales that we have heard or read' as things of beauty that are a 'joy for ever' and an 'immortal drink', the poem strongly affirms the enduring value of art and literature. It suggests that stories and legends are not just entertainment but essential sources of eternal inspiration and spiritual nourishment. Like natural beauty, great art and literature never fade ('never pass into nothingness') and continue to provide comfort and joy across generations, highlighting their permanent place in human culture and well-being."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "How does the concept of a \"bower\" in the first stanza relate to the \"cooling covert\" made by the rills later in the poem? What common idea do they share?",
+      "answer": "Both a 'bower' and a 'cooling covert' are places of shelter, shade, and protection. A bower is a pleasant, shady retreat for humans, offering mental peace. A cooling covert is a sheltered channel made by rills to protect themselves from the heat. Both concepts share the central idea of beauty providing a sanctuary—a place of relief, safety, and comfort from the harshness of the outside world (whether it's life's trials or the hot season)."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "Discuss the implication of the word \"immortal\" in the phrase \"immortal drink\". Does it suggest that beauty itself is divine or eternal?",
+      "answer": "Yes, the word 'immortal' directly implies that beauty is divine and eternal. An 'immortal drink' is one that belongs to the gods, like nectar, and grants eternal life or is itself everlasting. By describing the joy from beauty as an 'immortal drink' from 'heaven's brink', Keats elevates beauty from a mere earthly experience to something sacred, god-like, and everlasting that transcends mortal existence."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "How does the poem encourage readers to seek out and appreciate beauty in their everyday lives, amidst challenges and sorrows?",
+      "answer": "The poem acknowledges the reality of challenges and sorrows ('despondence', 'gloomy days'). However, it asserts that 'in spite of' these, beauty has the power to lift our spirits. By listing accessible, everyday natural objects like trees, flowers, the sun, and moon, as well as stories we read, Keats shows that this healing beauty is all around us. The poem encourages readers to actively recognize and connect with these sources of joy ('wreathing a flowery band') as a way to cope with life's difficulties and find lasting happiness."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "Analyze the rhythmic and melodic qualities of the poem. How do the rhyme scheme and meter contribute to the overall soothing and pleasant effect of the poem?",
+      "answer": "The poem is written in rhyming couplets (aabbcc...) with a generally regular meter (iambic pentameter). This creates a smooth, flowing, and musical rhythm that is gentle to the ear. The predictable rhyme scheme provides a sense of order and harmony. The soft consonant sounds and long vowel sounds in many words ('quiet', 'sleep', 'sweet', 'flowery', 'cooling') add to the melodic quality. These rhythmic and melodic elements work together to create a soothing, contemplative, and pleasant effect that mirrors the comforting nature of the beauty the poem describes."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "\"Its loveliness increases; it will never / Pass into nothingness\". Explain this characteristic of true beauty according to Keats, contrasting it with things that are temporary or fleeting.",
+      "answer": "According to Keats, true beauty is defined by its permanence and growth. Unlike temporary pleasures or material objects that fade, break, or are forgotten, a genuine 'thing of beauty' gets better with time ('loveliness increases') in our memory and appreciation. It 'never passes into nothingness', meaning its impact is lasting and it remains a permanent part of our consciousness. This contrasts sharply with fleeting experiences that bring only momentary gratification and then disappear without a trace."
+    }
+  ]
+}

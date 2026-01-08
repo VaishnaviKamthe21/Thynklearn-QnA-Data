@@ -1,0 +1,2311 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "10.English.01",
+        "standard": "10",
+        "subject": "Science Part 1",
+        "medium": "English",
+        "chapter_name": "Gravitation"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "What is the distance between Mahendra and Virat in the example given?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "1 metre",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "2 metres",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "5 metres",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "10 metres",
+                    "is_correct": false
+                }
+            ],
+            "answer": "1 metre"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "What is the mass of Mahendra?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "70 kg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "75 kg",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "80 kg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "85 kg",
+                    "is_correct": false
+                }
+            ],
+            "answer": "75 kg"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "What is the mass of Virat?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "70 kg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "75 kg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "80 kg",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "85 kg",
+                    "is_correct": false
+                }
+            ],
+            "answer": "80 kg"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "What is the value of the universal gravitational constant G used in the chapter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "6.67 × 10⁻¹¹ Nm²/kg²",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "9.8 m/s²",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "10 Nm²/kg²",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "6.67 × 10⁻⁹ Nm²/kg²",
+                    "is_correct": false
+                }
+            ],
+            "answer": "6.67 × 10⁻¹¹ Nm²/kg²"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "What is the gravitational force between Mahendra and Virat?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "4.002 × 10⁻⁷ N",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "9.8 N",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "733 N",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "75 N",
+                    "is_correct": false
+                }
+            ],
+            "answer": "4.002 × 10⁻⁷ N"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Why is the gravitational force between Mahendra and Virat very small?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because their masses are small",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because G is very small",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because gravity does not act on humans",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because distance is very large",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because G is very small"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "If the bench is frictionless, Mahendra will move towards Virat due to:",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Frictional force",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Magnetic force",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Gravitational force",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Muscular force",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Gravitational force"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "What is the acceleration of Mahendra due to Virat’s gravitational pull?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "5.34 × 10⁻⁹ m/s²",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "9.8 m/s²",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "0 m/s²",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "733 m/s²",
+                    "is_correct": false
+                }
+            ],
+            "answer": "5.34 × 10⁻⁹ m/s²"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "What is Mahendra’s velocity after 1 second on a frictionless bench?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "5.34 × 10⁻⁹ m/s",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "9.8 m/s",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "0 m/s",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "10 m/s",
+                    "is_correct": false
+                }
+            ],
+            "answer": "5.34 × 10⁻⁹ m/s"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Why does Mahendra’s acceleration increase as he moves closer to Virat?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Mass increases",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Distance decreases",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "G increases",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Friction increases",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Distance decreases"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "High and low tides are caused due to the gravitational force of:",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Moon",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Planets",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Moon"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "In which direction does the gravitational force of the earth act?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Away from earth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Towards the centre of the earth",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Horizontally",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Upwards",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Towards the centre of the earth"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "What happens to the velocity of a stone thrown vertically upwards?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It increases continuously",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It remains constant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "It decreases with time",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "It becomes zero immediately",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It decreases with time"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "What is the approximate value of acceleration due to gravity on earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "8.7 m/s²",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "9.8 m/s²",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "10.8 m/s²",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "0 m/s²",
+                    "is_correct": false
+                }
+            ],
+            "answer": "9.8 m/s²"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "What is the SI unit of acceleration due to gravity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "m/s",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "m/s²",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "N",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "kg",
+                    "is_correct": false
+                }
+            ],
+            "answer": "m/s²"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Where is the value of g maximum on earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "At the equator",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "At the poles",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "At sea level",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "At the centre",
+                    "is_correct": false
+                }
+            ],
+            "answer": "At the poles"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Where is the value of g minimum on earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "At the poles",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "At the equator",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "At the centre",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "At mountains",
+                    "is_correct": false
+                }
+            ],
+            "answer": "At the equator"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "What happens to the value of g as height above earth increases?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It increases",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It decreases",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "It becomes zero immediately",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It remains constant",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It decreases"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "What happens to the value of g as we go deep inside the earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It increases",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "It decreases",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "It remains constant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It becomes infinite",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It decreases"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which quantity remains constant everywhere?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Weight",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Mass",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Force",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Acceleration",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Mass"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "What is the SI unit of weight?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "kg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Newton",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "m/s²",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Joule",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Newton"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Weight is a:",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Scalar quantity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vector quantity",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dimensionless quantity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Constant quantity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vector quantity"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Mass is a:",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Vector quantity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Scalar quantity",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Variable quantity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Force",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Scalar quantity"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "What is free fall?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Motion under friction",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Motion under gravity alone",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Motion with constant velocity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Motion without force",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Motion under gravity alone"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "True free fall is possible only in:",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vacuum",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Space",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vacuum"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Who demonstrated that objects of different masses fall together?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Newton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Einstein",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Galileo",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kepler",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Galileo"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "What is the initial velocity of an object in free fall?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Zero",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "9.8 m/s",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "10 m/s",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Depends on mass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Zero"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which force causes weightlessness in space?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "No force acts",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Centrifugal force",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Free fall under gravity",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Magnetic force",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Free fall under gravity"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Why do satellites not fall on the earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because gravity does not act on them",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because of their orbital velocity",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because they are weightless",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because of air resistance",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because of their orbital velocity"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "What is escape velocity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Velocity to move in orbit",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Velocity to escape earth’s gravity",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Velocity to fall freely",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Velocity at ground",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Velocity to escape earth’s gravity"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Escape velocity depends on:",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Mass of object",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earth’s mass and radius",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Shape of object",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Air resistance",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Earth’s mass and radius"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "What is the approximate escape velocity of earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "11.2 km/s",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "9.8 km/s",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "3 km/s",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "7.9 km/s",
+                    "is_correct": false
+                }
+            ],
+            "answer": "11.2 km/s"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "What is the value of g on the moon compared to earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Equal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Twice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Half",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "One-sixth",
+                    "is_correct": true
+                }
+            ],
+            "answer": "One-sixth"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "What is gravitational potential energy at infinite distance?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Maximum",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Negative",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Zero",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Infinite",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Zero"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which energy increases with height?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Kinetic energy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Potential energy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Heat energy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sound energy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Potential energy"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Who predicted gravitational waves?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Newton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Galileo",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Einstein",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Kepler",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Einstein"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which instrument detected gravitational waves?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hubble",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "LIGO",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Radar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Telescope",
+                    "is_correct": false
+                }
+            ],
+            "answer": "LIGO"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "When were gravitational waves predicted?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "1816",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "1916",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "1966",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "2016",
+                    "is_correct": false
+                }
+            ],
+            "answer": "1916"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Weightlessness in a spacecraft is due to:",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Zero gravity",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Free fall",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "No mass",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "No force",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Free fall"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "The direction of weight is always:",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Upward",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Horizontal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Towards centre of earth",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Random",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Towards centre of earth"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "The SI unit of gravitational constant G is:",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Nm²/kg²",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "N/kg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "kg/m²",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "m/s²",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nm²/kg²"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "What is the weight of a 75 kg person on earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "75 N",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "735 N",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "750 N",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "980 N",
+                    "is_correct": false
+                }
+            ],
+            "answer": "735 N"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which quantity measures inertia?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Weight",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Mass",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Force",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Velocity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Mass"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "What happens to g at the centre of the earth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Maximum",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Minimum",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Zero",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Infinite",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Zero"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "What is the nature of gravitational force?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Repulsive",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Attractive",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Neutral",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Variable",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Attractive"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which law helped Newton derive inverse square law?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ohm’s law",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Kepler’s laws",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Boyle’s law",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Archimedes’ principle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Kepler’s laws"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "What causes centripetal force for satellites?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Magnetic force",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Gravitational force",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Electric force",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Frictional force",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Gravitational force"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "What is the unit of gravitational potential energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Newton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Joule",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "kg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "m/s²",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Joule"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Gravitational potential energy near earth is considered:",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Positive",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Zero",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Negative",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Infinite",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Negative"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Which factor does NOT affect gravitational force?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Mass of objects",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Distance between objects",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Gravitational constant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shape of objects",
+                    "is_correct": true
+                }
+            ],
+            "answer": "Shape of objects"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "What is gravitation?",
+            "answer": "Gravitation is the force of attraction between any two objects having mass in the universe."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "State Newton’s law of universal gravitation.",
+            "answer": "Newton’s law states that every object attracts every other object with a force directly proportional to the product of their masses and inversely proportional to the square of the distance between them."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "Write the formula for gravitational force.",
+            "answer": "The formula for gravitational force is F = Gm1m2/r²."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "What does the universal gravitational constant represent?",
+            "answer": "The universal gravitational constant represents the strength of gravitational force between two unit masses separated by unit distance."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "Why is gravitational force considered a universal force?",
+            "answer": "Gravitational force is universal because it acts between all objects in the universe having mass."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "What is the SI unit of gravitational force?",
+            "answer": "The SI unit of gravitational force is Newton."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "What is the SI unit of the universal gravitational constant?",
+            "answer": "The SI unit of the universal gravitational constant is Nm²/kg²."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "Why do objects fall towards the earth?",
+            "answer": "Objects fall towards the earth due to the gravitational force exerted by the earth."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "What is acceleration due to gravity?",
+            "answer": "Acceleration due to gravity is the acceleration experienced by a freely falling body under the earth’s gravitational pull."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "Write the approximate value of acceleration due to gravity on earth.",
+            "answer": "The approximate value of acceleration due to gravity on earth is 9.8 m/s²."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "In which direction does acceleration due to gravity act?",
+            "answer": "Acceleration due to gravity acts towards the centre of the earth."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "What is free fall?",
+            "answer": "Free fall is the motion of an object under the influence of gravitational force alone."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "What is the initial velocity of an object in free fall?",
+            "answer": "The initial velocity of an object in free fall is zero."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "Why is true free fall possible only in vacuum?",
+            "answer": "True free fall is possible only in vacuum because air resistance is absent there."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "What happens to the value of g with increase in height?",
+            "answer": "The value of g decreases with increase in height above the earth’s surface."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "What happens to the value of g as we go deep inside the earth?",
+            "answer": "The value of g decreases as we go deep inside the earth."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "Where is the value of g maximum on the earth?",
+            "answer": "The value of g is maximum at the poles of the earth."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "Where is the value of g minimum on the earth?",
+            "answer": "The value of g is minimum at the equator."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "What is mass?",
+            "answer": "Mass is the amount of matter contained in a body."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "State one property of mass.",
+            "answer": "Mass of a body remains constant everywhere."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "What is weight?",
+            "answer": "Weight is the gravitational force exerted by the earth on a body."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "Write the formula for weight.",
+            "answer": "The formula for weight is W = mg."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "What is the SI unit of mass?",
+            "answer": "The SI unit of mass is kilogram."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "What is the SI unit of weight?",
+            "answer": "The SI unit of weight is Newton."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "Is mass a scalar or vector quantity?",
+            "answer": "Mass is a scalar quantity."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "Is weight a scalar or vector quantity?",
+            "answer": "Weight is a vector quantity."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "Why does weight change from place to place?",
+            "answer": "Weight changes from place to place because the value of g changes."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "What is weightlessness?",
+            "answer": "Weightlessness is the condition when the apparent weight of a body becomes zero."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "Why do astronauts feel weightless in a spacecraft?",
+            "answer": "Astronauts feel weightless because the spacecraft and astronauts are in continuous free fall."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "What causes tides in oceans?",
+            "answer": "Tides in oceans are caused mainly due to the gravitational force of the moon."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "Name the scientist who proposed the law of gravitation.",
+            "answer": "Sir Isaac Newton proposed the law of gravitation."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "Which force keeps planets in their orbits?",
+            "answer": "Gravitational force keeps planets in their orbits."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "What provides centripetal force to satellites?",
+            "answer": "Gravitational force of the earth provides centripetal force to satellites."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "What is orbital velocity?",
+            "answer": "Orbital velocity is the velocity required by a satellite to revolve around the earth."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "What is escape velocity?",
+            "answer": "Escape velocity is the minimum velocity required to escape the earth’s gravitational field."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "On which factors does escape velocity depend?",
+            "answer": "Escape velocity depends on the mass and radius of the earth."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "Write the approximate value of escape velocity of earth.",
+            "answer": "The approximate escape velocity of earth is 11.2 km/s."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "What is gravitational potential energy?",
+            "answer": "Gravitational potential energy is the energy possessed by a body due to its position in a gravitational field."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "What is the unit of gravitational potential energy?",
+            "answer": "The unit of gravitational potential energy is Joule."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "When is gravitational potential energy zero?",
+            "answer": "Gravitational potential energy is considered zero at infinite distance."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "What happens to potential energy when height increases?",
+            "answer": "Gravitational potential energy increases when height increases."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "Why is gravitational potential energy negative near the earth?",
+            "answer": "It is negative because work must be done against gravity to move a body away from the earth."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "What happens to velocity of a body thrown upwards?",
+            "answer": "The velocity of the body decreases due to gravity."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "What happens to acceleration during free fall?",
+            "answer": "Acceleration remains constant and equal to g during free fall."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "Which quantity measures inertia?",
+            "answer": "Mass measures the inertia of a body."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "What is the direction of weight?",
+            "answer": "The direction of weight is always towards the centre of the earth."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "Why is gravitational force very weak?",
+            "answer": "Gravitational force is weak because the value of the gravitational constant is very small."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "Does gravitational force act between small objects?",
+            "answer": "Yes, gravitational force acts between all objects having mass."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "What happens to g at the centre of the earth?",
+            "answer": "The value of g becomes zero at the centre of the earth."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "Why do heavier and lighter objects fall together in vacuum?",
+            "answer": "They fall together because acceleration due to gravity is independent of mass."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "What is the nature of gravitational force?",
+            "answer": "Gravitational force is always attractive in nature."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "Which scientist demonstrated free fall experimentally?",
+            "answer": "Galileo demonstrated free fall experimentally."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "What happens to weight on the moon?",
+            "answer": "Weight on the moon becomes one-sixth of the weight on earth."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "Does mass change on the moon?",
+            "answer": "No, mass does not change on the moon."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "What is the value of g on the moon compared to earth?",
+            "answer": "The value of g on the moon is one-sixth of that on earth."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "What provides stability to the solar system?",
+            "answer": "Gravitational force provides stability to the solar system."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "Why don’t planets collide with the sun?",
+            "answer": "Planets do not collide with the sun due to their orbital velocity."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "What happens if gravitational force did not exist?",
+            "answer": "The universe would not be stable without gravitational force."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "What kind of quantity is acceleration due to gravity?",
+            "answer": "Acceleration due to gravity is a vector quantity."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "Does gravitational force depend on medium?",
+            "answer": "No, gravitational force does not depend on the medium."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "What is the relation between weight and mass?",
+            "answer": "Weight is directly proportional to mass."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "What happens to g at very large heights?",
+            "answer": "The value of g becomes very small at very large heights."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "Which force is responsible for rainfall?",
+            "answer": "Gravitational force is responsible for rainfall."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "Why does a stone fall faster than a leaf in air?",
+            "answer": "Due to air resistance acting more on the leaf."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "What is the value of g used in numerical problems?",
+            "answer": "The value of g used is 9.8 m/s²."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "Why is gravitational force important in daily life?",
+            "answer": "It keeps us bound to the earth and maintains stability."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "What happens to weight during free fall?",
+            "answer": "The apparent weight becomes zero during free fall."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "Is gravitational force a contact force?",
+            "answer": "No, gravitational force is a non-contact force."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "What is the direction of gravitational force between two bodies?",
+            "answer": "It acts along the line joining the centres of the two bodies."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "What happens to gravitational force when distance increases?",
+            "answer": "Gravitational force decreases as distance increases."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "Which law explains the falling of objects?",
+            "answer": "Newton’s law of universal gravitation explains falling of objects."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "What is the value of gravitational force at infinite distance?",
+            "answer": "Gravitational force becomes zero at infinite distance."
+        },
+        {
+            "question_id": 123,
+            "question_type": "SHORT",
+            "question": "Does gravitational force act instantaneously?",
+            "answer": "Yes, gravitational force acts instantly over distances."
+        },
+        {
+            "question_id": 124,
+            "question_type": "SHORT",
+            "question": "What causes objects to return to earth when thrown up?",
+            "answer": "Earth’s gravitational force causes objects to return."
+        },
+        {
+            "question_id": 125,
+            "question_type": "SHORT",
+            "question": "What is meant by centre of gravity?",
+            "answer": "Centre of gravity is the point where the entire weight of a body acts."
+        },
+        {
+            "question_id": 126,
+            "question_type": "SHORT",
+            "question": "Why is weightlessness not absence of gravity?",
+            "answer": "Because gravity still acts, but there is no normal reaction."
+        },
+        {
+            "question_id": 127,
+            "question_type": "SHORT",
+            "question": "What is gravitational field?",
+            "answer": "Gravitational field is the region around a mass where it exerts gravitational force."
+        },
+        {
+            "question_id": 128,
+            "question_type": "SHORT",
+            "question": "What is the effect of gravity on gases?",
+            "answer": "Gravity holds gases in the earth’s atmosphere."
+        },
+        {
+            "question_id": 129,
+            "question_type": "SHORT",
+            "question": "Why does atmosphere not escape into space?",
+            "answer": "Because of the earth’s gravitational pull."
+        },
+        {
+            "question_id": 130,
+            "question_type": "SHORT",
+            "question": "What is the importance of gravity for life?",
+            "answer": "Gravity maintains atmosphere, water, and stability for life."
+        },
+        {
+            "question_id": 131,
+            "question_type": "SHORT",
+            "question": "Why is gravitational force always attractive?",
+            "answer": "Because masses always attract each other."
+        },
+        {
+            "question_id": 132,
+            "question_type": "SHORT",
+            "question": "What happens to g at mountain tops?",
+            "answer": "The value of g decreases slightly at mountain tops."
+        },
+        {
+            "question_id": 133,
+            "question_type": "SHORT",
+            "question": "What happens to g below the earth’s surface?",
+            "answer": "The value of g decreases as depth increases."
+        },
+        {
+            "question_id": 134,
+            "question_type": "SHORT",
+            "question": "What is gravitational interaction?",
+            "answer": "It is the mutual force of attraction between masses."
+        },
+        {
+            "question_id": 135,
+            "question_type": "SHORT",
+            "question": "Does gravitational force depend on shape of body?",
+            "answer": "No, it does not depend on the shape of the body."
+        },
+        {
+            "question_id": 136,
+            "question_type": "SHORT",
+            "question": "Why do satellites experience weightlessness?",
+            "answer": "Because they are continuously falling towards the earth."
+        },
+        {
+            "question_id": 137,
+            "question_type": "SHORT",
+            "question": "What is meant by apparent weight?",
+            "answer": "Apparent weight is the weight measured by a support or scale."
+        },
+        {
+            "question_id": 138,
+            "question_type": "SHORT",
+            "question": "What is the relation between g and mass of earth?",
+            "answer": "g is directly proportional to the mass of the earth."
+        },
+        {
+            "question_id": 139,
+            "question_type": "SHORT",
+            "question": "What is the relation between g and radius of earth?",
+            "answer": "g is inversely proportional to the square of the earth’s radius."
+        },
+        {
+            "question_id": 140,
+            "question_type": "SHORT",
+            "question": "Why is g taken constant for small heights?",
+            "answer": "Because variation in height is negligible compared to earth’s radius."
+        },
+        {
+            "question_id": 141,
+            "question_type": "SHORT",
+            "question": "What happens to kinetic energy in free fall?",
+            "answer": "Kinetic energy increases during free fall."
+        },
+        {
+            "question_id": 142,
+            "question_type": "SHORT",
+            "question": "What happens to potential energy in free fall?",
+            "answer": "Potential energy decreases during free fall."
+        },
+        {
+            "question_id": 143,
+            "question_type": "SHORT",
+            "question": "Which force causes river flow?",
+            "answer": "Gravitational force causes river flow."
+        },
+        {
+            "question_id": 144,
+            "question_type": "SHORT",
+            "question": "What keeps the moon bound to the earth?",
+            "answer": "Gravitational force keeps the moon bound to the earth."
+        },
+        {
+            "question_id": 145,
+            "question_type": "SHORT",
+            "question": "What is gravitational attraction?",
+            "answer": "It is the attractive force between two masses."
+        },
+        {
+            "question_id": 146,
+            "question_type": "SHORT",
+            "question": "Why is gravitational force long-range?",
+            "answer": "Because it acts over very large distances."
+        },
+        {
+            "question_id": 147,
+            "question_type": "SHORT",
+            "question": "What is the role of gravity in tides?",
+            "answer": "Gravity of the moon causes rise and fall of sea levels."
+        },
+        {
+            "question_id": 148,
+            "question_type": "SHORT",
+            "question": "What is meant by inverse square law?",
+            "answer": "It states that force varies inversely as the square of distance."
+        },
+        {
+            "question_id": 149,
+            "question_type": "SHORT",
+            "question": "Why is g not exactly same everywhere?",
+            "answer": "Because earth is not a perfect sphere and rotates."
+        },
+        {
+            "question_id": 150,
+            "question_type": "SHORT",
+            "question": "What is the importance of Newton’s law of gravitation?",
+            "answer": "It explains motion of planets, satellites, and falling bodies."
+        },
+        {
+            "question_id": 151,
+            "question_type": "LONG",
+            "question": "State and explain Newton’s law of universal gravitation.",
+            "answer": "Newton’s law of universal gravitation states that every object in the universe attracts every other object with a force. This force is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centres. The force acts along the line joining the centres of the two objects. The mathematical form of the law is F = Gm1m2/r². This law explains many natural phenomena such as falling of objects and motion of planets. It is called universal because it applies to all objects in the universe."
+        },
+        {
+            "question_id": 152,
+            "question_type": "LONG",
+            "question": "Explain why gravitational force is considered a weak force.",
+            "answer": "Gravitational force is considered a weak force because its magnitude is very small compared to other fundamental forces. The value of the universal gravitational constant G is extremely small. Hence, the gravitational force between ordinary objects is negligible. Its effect becomes noticeable only when at least one of the masses involved is very large, such as planets or stars. This is why we do not observe gravitational attraction between small objects easily. Despite being weak, it governs large-scale motions in the universe."
+        },
+        {
+            "question_id": 153,
+            "question_type": "LONG",
+            "question": "Describe acceleration due to gravity and its direction.",
+            "answer": "Acceleration due to gravity is the acceleration experienced by a body when it falls freely under the influence of the earth’s gravitational force. It is denoted by the symbol g. Its value near the surface of the earth is approximately 9.8 m/s². The direction of acceleration due to gravity is always towards the centre of the earth. Since gravity acts downward, g is considered a vector quantity. Its magnitude is the same for all objects at a given place."
+        },
+        {
+            "question_id": 154,
+            "question_type": "LONG",
+            "question": "Explain free fall with suitable examples.",
+            "answer": "Free fall is the motion of an object under the influence of gravitational force alone. In free fall, no other force such as air resistance acts on the object. For example, a stone dropped from a height falls freely towards the earth. The initial velocity of a freely falling object is zero. During free fall, the velocity increases uniformly due to constant acceleration g. True free fall can occur only in vacuum."
+        },
+        {
+            "question_id": 155,
+            "question_type": "LONG",
+            "question": "Explain why all objects fall with the same acceleration in vacuum.",
+            "answer": "In vacuum, there is no air resistance acting on falling objects. The only force acting on them is the gravitational force of the earth. According to Newton’s second law, acceleration due to gravity does not depend on the mass of the object. Therefore, heavy and light objects experience the same acceleration. This was experimentally demonstrated by Galileo. Hence, all objects fall with the same acceleration in vacuum."
+        },
+        {
+            "question_id": 156,
+            "question_type": "LONG",
+            "question": "Define mass and explain its characteristics.",
+            "answer": "Mass is the amount of matter contained in a body. It is a scalar quantity and its SI unit is kilogram. Mass remains constant irrespective of the location of the body. It does not change from place to place or from one planet to another. Mass is a measure of inertia of a body. A body with greater mass has greater inertia."
+        },
+        {
+            "question_id": 157,
+            "question_type": "LONG",
+            "question": "Define weight and explain why it changes from place to place.",
+            "answer": "Weight is the gravitational force with which the earth attracts a body. It is given by the formula W = mg. Weight is a vector quantity and its SI unit is Newton. Since the value of acceleration due to gravity g changes from place to place, weight also changes. Weight is maximum at the poles and minimum at the equator. Thus, weight depends on location while mass does not."
+        },
+        {
+            "question_id": 158,
+            "question_type": "LONG",
+            "question": "Differentiate between mass and weight.",
+            "answer": "Mass is the amount of matter in a body, while weight is the gravitational force acting on it. Mass is constant everywhere, but weight varies from place to place. Mass is a scalar quantity, whereas weight is a vector quantity. The SI unit of mass is kilogram, while that of weight is Newton. Mass measures inertia, while weight depends on acceleration due to gravity."
+        },
+        {
+            "question_id": 159,
+            "question_type": "LONG",
+            "question": "Explain why astronauts feel weightless in space.",
+            "answer": "Astronauts feel weightless in space because they are in a state of continuous free fall. Though gravity acts on them, there is no supporting force acting on their bodies. The spacecraft, astronauts, and objects inside fall together with the same acceleration. Hence, no normal reaction force is experienced. This creates the sensation of weightlessness. Therefore, weightlessness is not due to absence of gravity."
+        },
+        {
+            "question_id": 160,
+            "question_type": "LONG",
+            "question": "Explain variation of g with height above the earth’s surface.",
+            "answer": "As height above the earth’s surface increases, the distance from the centre of the earth increases. According to the formula g = GM/r², an increase in r causes g to decrease. However, for small heights compared to the earth’s radius, the change in g is negligible. At very large heights, such as satellite orbits, the value of g decreases significantly. Thus, g decreases with increase in height."
+        },
+        {
+            "question_id": 161,
+            "question_type": "LONG",
+            "question": "Explain variation of g with depth inside the earth.",
+            "answer": "As we go inside the earth, the distance from the centre decreases. However, the mass contributing to gravitational force also decreases. Due to this combined effect, the value of g decreases with depth. At the centre of the earth, the value of g becomes zero. Hence, g is maximum at the surface and decreases towards the centre. This explains why objects become lighter underground."
+        },
+        {
+            "question_id": 162,
+            "question_type": "LONG",
+            "question": "Explain why the value of g is different at the equator and poles.",
+            "answer": "The earth is not a perfect sphere; it is flattened at the poles and bulged at the equator. The radius of the earth is larger at the equator and smaller at the poles. Since g is inversely proportional to the square of the radius, g is less at the equator. Also, the rotation of the earth reduces g at the equator. Therefore, g is maximum at the poles and minimum at the equator."
+        },
+        {
+            "question_id": 163,
+            "question_type": "LONG",
+            "question": "Explain the concept of escape velocity.",
+            "answer": "Escape velocity is the minimum velocity required by an object to escape the gravitational pull of the earth. If an object is projected with this velocity, it will never return to the earth. Escape velocity depends on the mass and radius of the earth. It does not depend on the mass of the object. The escape velocity of the earth is about 11.2 km/s."
+        },
+        {
+            "question_id": 164,
+            "question_type": "LONG",
+            "question": "Why does the moon revolve around the earth and not fall on it?",
+            "answer": "The moon is attracted towards the earth due to gravitational force. At the same time, it has a tangential velocity along its orbit. Due to this velocity, the moon keeps missing the earth while falling towards it. This results in circular motion around the earth. Thus, gravitational force provides centripetal force. Hence, the moon revolves around the earth instead of falling on it."
+        },
+        {
+            "question_id": 165,
+            "question_type": "LONG",
+            "question": "Explain gravitational potential energy.",
+            "answer": "Gravitational potential energy is the energy possessed by a body due to its position in a gravitational field. Near the earth’s surface, it is given by the formula mgh. For large heights, the value of g is not constant and potential energy is calculated differently. At infinite distance, gravitational potential energy is considered zero. Near the earth, it has negative value. It increases as the body moves away from the earth."
+        },
+        {
+            "question_id": 166,
+            "question_type": "LONG",
+            "question": "Explain why weight of an object is zero during free fall.",
+            "answer": "During free fall, both the object and its support fall with the same acceleration. Hence, there is no normal reaction acting on the object. Weight measured by a support depends on the normal reaction. Since normal reaction is zero, the apparent weight becomes zero. Gravity still acts on the object, but it is not felt. Therefore, the object appears weightless."
+        },
+        {
+            "question_id": 167,
+            "question_type": "LONG",
+            "question": "Explain why tides occur in oceans.",
+            "answer": "Tides occur due to the gravitational attraction of the moon on the earth’s water. Water directly under the moon is pulled strongly, causing a high tide. On the opposite side, another high tide occurs due to the earth’s motion. At places perpendicular to this direction, low tides occur. The sun also contributes to tides, but the moon’s effect is stronger. Thus, tides are periodic rise and fall of sea levels."
+        },
+        {
+            "question_id": 168,
+            "question_type": "LONG",
+            "question": "Explain the importance of gravitational force in nature.",
+            "answer": "Gravitational force plays a vital role in maintaining the structure of the universe. It keeps planets revolving around the sun and satellites around planets. It causes objects to fall on the earth. It holds the atmosphere and oceans to the earth. Gravity is essential for rainfall, river flow, and tides. Without gravity, life on earth would not be possible."
+        },
+        {
+            "question_id": 169,
+            "question_type": "LONG",
+            "question": "Why does a stone thrown upwards come back to the earth?",
+            "answer": "When a stone is thrown upwards, it moves against the gravitational pull of the earth. Gravity acts downward and reduces its velocity gradually. At the highest point, the velocity becomes zero. Gravity continues to act and the stone starts falling downward. Thus, the stone comes back to the earth. This happens due to constant gravitational attraction."
+        },
+        {
+            "question_id": 170,
+            "question_type": "LONG",
+            "question": "Explain why mass of an object remains same everywhere.",
+            "answer": "Mass is the amount of matter present in an object. It does not depend on gravitational force or location. Whether the object is on earth, moon, or any other planet, its mass remains unchanged. Mass is a scalar quantity. Hence, change in gravity does not affect mass. Therefore, mass remains same everywhere."
+        },
+        {
+            "question_id": 171,
+            "question_type": "LONG",
+            "question": "Explain why gravitational force is always attractive.",
+            "answer": "Gravitational force acts between any two masses. According to Newton’s law of gravitation, the force acts along the line joining the centres of the two bodies. There is no repulsive component in gravitational interaction. All masses attract each other irrespective of their nature. Hence, gravitational force is always attractive. This is a fundamental property of gravity."
+        },
+        {
+            "question_id": 172,
+            "question_type": "LONG",
+            "question": "Describe Galileo’s experiment related to free fall.",
+            "answer": "Galileo conducted an experiment by dropping two spheres of different masses from the leaning tower of Pisa. He observed that both spheres reached the ground at the same time. This proved that acceleration due to gravity is independent of mass. The experiment contradicted the earlier belief that heavier objects fall faster. It demonstrated the concept of free fall. This was an important contribution to physics."
+        },
+        {
+            "question_id": 173,
+            "question_type": "LONG",
+            "question": "Explain why atmosphere does not escape into space.",
+            "answer": "The earth exerts gravitational force on gases in the atmosphere. This force holds the gases close to the earth’s surface. The velocity of gas molecules is less than the escape velocity of the earth. Hence, they cannot escape into space. Gravity thus maintains the atmosphere. Without gravity, earth would lose its atmosphere."
+        },
+        {
+            "question_id": 174,
+            "question_type": "LONG",
+            "question": "Explain the relation between g and mass of the earth.",
+            "answer": "The acceleration due to gravity g is given by g = GM/R². This shows that g is directly proportional to the mass of the earth. If the mass of the earth increases, the value of g increases. If the mass decreases, g decreases. Thus, the mass of the earth plays an important role in determining g. This relation is derived from Newton’s law of gravitation."
+        },
+        {
+            "question_id": 175,
+            "question_type": "LONG",
+            "question": "Explain the relation between g and radius of the earth.",
+            "answer": "Acceleration due to gravity g is inversely proportional to the square of the earth’s radius. According to the formula g = GM/R², an increase in radius decreases g. A decrease in radius increases g. Hence, g varies with distance from the centre of the earth. This explains variation of g with height and depth. Radius is an important factor affecting g."
+        },
+        {
+            "question_id": 176,
+            "question_type": "LONG",
+            "question": "Explain why g is taken constant for small heights.",
+            "answer": "The radius of the earth is very large compared to small heights like buildings or hills. For such small changes in height, the change in distance from the earth’s centre is negligible. Hence, the change in g is very small. Therefore, g is assumed constant for small heights. This simplifies calculations in numerical problems."
+        },
+        {
+            "question_id": 177,
+            "question_type": "LONG",
+            "question": "Explain why weight is a vector quantity.",
+            "answer": "Weight is the gravitational force acting on a body. Force has both magnitude and direction. The direction of weight is always towards the centre of the earth. Hence, weight has both magnitude and direction. Therefore, weight is a vector quantity. Its direction is vertically downward."
+        },
+        {
+            "question_id": 178,
+            "question_type": "LONG",
+            "question": "Explain the concept of apparent weight.",
+            "answer": "Apparent weight is the weight measured by a weighing machine or support. It depends on the normal reaction exerted by the surface. In free fall, the normal reaction becomes zero and apparent weight is zero. Apparent weight may differ from true weight in accelerated systems. Thus, apparent weight depends on conditions of motion. It is what we actually measure."
+        },
+        {
+            "question_id": 179,
+            "question_type": "LONG",
+            "question": "Explain why satellites appear weightless.",
+            "answer": "Satellites are continuously falling towards the earth under gravity. However, due to their high tangential velocity, they keep missing the earth. Since both satellite and objects inside fall together, there is no normal reaction. Hence, objects inside appear weightless. Gravity still acts, but it is not felt. This creates weightlessness in satellites."
+        },
+        {
+            "question_id": 180,
+            "question_type": "LONG",
+            "question": "Explain the role of gravity in rainfall.",
+            "answer": "Water vapour in the atmosphere condenses to form water droplets. These droplets grow in size and become heavy. Gravity pulls these droplets towards the earth. As a result, they fall as rain. Without gravity, rainfall would not occur. Thus, gravity plays an essential role in the water cycle."
+        },
+        {
+            "question_id": 181,
+            "question_type": "LONG",
+            "question": "Explain why gravitational force is a non-contact force.",
+            "answer": "Gravitational force acts between objects even when they are not in physical contact. It acts over very large distances, such as between planets and stars. No medium is required for its action. Objects attract each other without touching. Hence, gravitational force is classified as a non-contact force. It is a fundamental force of nature."
+        },
+        {
+            "question_id": 182,
+            "question_type": "LONG",
+            "question": "Explain why heavier and lighter objects reach the ground together in vacuum.",
+            "answer": "In vacuum, there is no air resistance acting on falling objects. Gravity is the only force acting on them. Acceleration due to gravity is independent of mass. Hence, all objects accelerate at the same rate. Therefore, heavier and lighter objects reach the ground together in vacuum. This proves the universality of free fall."
+        },
+        {
+            "question_id": 183,
+            "question_type": "LONG",
+            "question": "Explain why g is zero at the centre of the earth.",
+            "answer": "At the centre of the earth, gravitational forces due to all parts of the earth act equally in all directions. These forces cancel each other out. Hence, the net gravitational force becomes zero. Since g depends on gravitational force, its value becomes zero. Therefore, acceleration due to gravity is zero at the centre. This is a theoretical result."
+        },
+        {
+            "question_id": 184,
+            "question_type": "LONG",
+            "question": "Explain the significance of Newton’s law of gravitation.",
+            "answer": "Newton’s law of gravitation explains the motion of planets and satellites. It explains why objects fall towards the earth. It helps in calculating gravitational forces between bodies. The law explains tides, orbits, and stability of the solar system. It unifies terrestrial and celestial phenomena. Hence, it is of great scientific importance."
+        },
+        {
+            "question_id": 185,
+            "question_type": "LONG",
+            "question": "Explain why gravitational force provides centripetal force.",
+            "answer": "Centripetal force is required to keep an object moving in a circular path. For planets and satellites, gravitational force acts towards the centre of the orbit. This force continuously changes the direction of motion. Hence, gravity acts as centripetal force. Without gravity, circular motion would not be possible. Thus, gravity maintains orbits."
+        },
+        {
+            "question_id": 186,
+            "question_type": "LONG",
+            "question": "Explain why weight of an object is less on the moon.",
+            "answer": "The mass of the moon is much smaller than that of the earth. Hence, the gravitational pull of the moon is weaker. The value of acceleration due to gravity on the moon is one-sixth of that on earth. Since weight depends on g, weight decreases. Therefore, an object weighs less on the moon. Mass remains unchanged."
+        },
+        {
+            "question_id": 187,
+            "question_type": "LONG",
+            "question": "Explain the importance of escape velocity in space travel.",
+            "answer": "Escape velocity determines whether a spacecraft can leave the earth’s gravitational field. Spacecraft must be launched with velocity greater than escape velocity. If not, they will fall back to the earth. Escape velocity depends on earth’s mass and radius. It helps in planning space missions. Thus, it is crucial in space exploration."
+        },
+        {
+            "question_id": 188,
+            "question_type": "LONG",
+            "question": "Explain why gravitational force is long-range in nature.",
+            "answer": "Gravitational force acts between objects separated by very large distances. It decreases with distance but never becomes zero except at infinity. It does not require a medium to act. Its effect can be observed between planets and stars. Hence, it is called a long-range force. This distinguishes it from contact forces."
+        },
+        {
+            "question_id": 189,
+            "question_type": "LONG",
+            "question": "Explain why planets do not fall into the sun.",
+            "answer": "Planets are attracted towards the sun due to gravity. At the same time, they possess tangential velocity. This velocity keeps them moving along curved paths. Due to this balance, planets revolve around the sun. Gravity provides the centripetal force. Hence, planets do not fall into the sun."
+        },
+        {
+            "question_id": 190,
+            "question_type": "LONG",
+            "question": "Explain why gravitational force is important for the solar system.",
+            "answer": "Gravitational force binds the sun, planets, and satellites together. It keeps planets in stable orbits. It maintains the structure of the solar system. Without gravity, planets would move away randomly. Gravity also controls motion of comets and asteroids. Thus, it is essential for the solar system."
+        },
+        {
+            "question_id": 191,
+            "question_type": "LONG",
+            "question": "Explain why air resistance affects falling objects.",
+            "answer": "Air resistance is a frictional force acting opposite to motion. Light objects with large surface area experience more air resistance. This reduces their acceleration and speed. Heavy objects are less affected by air resistance. Hence, objects fall at different rates in air. In vacuum, this effect disappears."
+        },
+        {
+            "question_id": 192,
+            "question_type": "LONG",
+            "question": "Explain why gravitational potential energy is negative.",
+            "answer": "Gravitational potential energy is taken as zero at infinite distance. Near the earth, work must be done against gravity to increase height. Hence, energy near the earth is less than zero. This results in negative potential energy. It indicates bound state of the object. Thus, gravitational potential energy is negative."
+        },
+        {
+            "question_id": 193,
+            "question_type": "LONG",
+            "question": "Explain why g does not depend on mass of falling object.",
+            "answer": "Acceleration due to gravity is given by g = GM/R². It depends only on the mass and radius of the earth. The mass of the falling object does not appear in the formula. Hence, g is same for all objects. This explains why all objects fall at the same rate. Mass of the object has no effect on g."
+        },
+        {
+            "question_id": 194,
+            "question_type": "LONG",
+            "question": "Explain the role of gravity in holding oceans on earth.",
+            "answer": "The earth exerts gravitational force on water in oceans. This force prevents water from escaping into space. Gravity keeps water bound to the earth’s surface. It also causes flow of rivers towards seas. Without gravity, oceans would not exist. Thus, gravity is essential for water bodies."
+        },
+        {
+            "question_id": 195,
+            "question_type": "LONG",
+            "question": "Explain why satellites do not need fuel continuously.",
+            "answer": "Satellites move in space under the influence of gravity alone. Once launched into orbit with required velocity, no additional force is needed. Gravity provides the necessary centripetal force. There is no air resistance in space. Hence, satellites do not need fuel continuously. Fuel is used only for corrections."
+        },
+        {
+            "question_id": 196,
+            "question_type": "LONG",
+            "question": "Explain why gravitational force depends on distance.",
+            "answer": "According to Newton’s law of gravitation, gravitational force is inversely proportional to the square of distance. As distance increases, force decreases rapidly. When distance is doubled, force becomes one-fourth. This relation is called inverse square law. Hence, distance plays a crucial role. Force becomes negligible at large distances."
+        },
+        {
+            "question_id": 197,
+            "question_type": "LONG",
+            "question": "Explain the importance of gravity for human life.",
+            "answer": "Gravity keeps humans bound to the earth. It allows us to walk, sit, and stand. It holds atmosphere and water essential for life. Gravity enables rainfall and water cycle. It maintains body functions adapted to gravity. Without gravity, life as we know it would not exist."
+        },
+        {
+            "question_id": 198,
+            "question_type": "LONG",
+            "question": "Explain why a body thrown upward slows down.",
+            "answer": "When a body is thrown upward, it moves against gravitational force. Gravity acts downward, opposite to motion. This causes a negative acceleration. As a result, velocity decreases uniformly. At maximum height, velocity becomes zero. Then the body falls back down."
+        },
+        {
+            "question_id": 199,
+            "question_type": "LONG",
+            "question": "Explain the concept of centripetal force using gravity.",
+            "answer": "Centripetal force is the force that keeps an object moving in a circular path. In planetary motion, gravity acts as centripetal force. It pulls the planet towards the centre of the orbit. This force continuously changes direction of velocity. Hence, gravity maintains circular motion. Without it, planets would move in straight lines."
+        },
+        {
+            "question_id": 200,
+            "question_type": "LONG",
+            "question": "Explain why gravitational force is essential for the universe.",
+            "answer": "Gravitational force binds galaxies, stars, and planets together. It maintains the structure of the universe. It controls motion of celestial bodies. Gravity allows formation of stars and planets. It governs large-scale interactions in space. Without gravity, the universe would be chaotic."
+        }
+    ]
+}

@@ -1,0 +1,641 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.4.5",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Old Man and The Sea - Book Review"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the author of the novella 'The Old Man and the Sea'?",
+      "options": [
+        { "option_id": 1, "text": "William Faulkner", "is_correct": false },
+        { "option_id": 2, "text": "F. Scott Fitzgerald", "is_correct": false },
+        { "option_id": 3, "text": "Ernest Hemingway", "is_correct": true },
+        { "option_id": 4, "text": "John Steinbeck", "is_correct": false }
+      ],
+      "answer": "Ernest Hemingway"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where is the story 'The Old Man and the Sea' set?",
+      "options": [
+        { "option_id": 1, "text": "Off the coast of Florida", "is_correct": false },
+        { "option_id": 2, "text": "In the Gulf Stream off the coast of Cuba", "is_correct": true },
+        { "option_id": 3, "text": "On a remote island in the Pacific", "is_correct": false },
+        { "option_id": 4, "text": "In the Mediterranean Sea", "is_correct": false }
+      ],
+      "answer": "In the Gulf Stream off the coast of Cuba"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the name of the protagonist, the old fisherman?",
+      "options": [
+        { "option_id": 1, "text": "Manolin", "is_correct": false },
+        { "option_id": 2, "text": "Santiago", "is_correct": true },
+        { "option_id": 3, "text": "Ernest", "is_correct": false },
+        { "option_id": 4, "text": "Pedrico", "is_correct": false }
+      ],
+      "answer": "Santiago"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "At the beginning of the story, how many days has Santiago gone without catching a fish?",
+      "options": [
+        { "option_id": 1, "text": "40 days", "is_correct": false },
+        { "option_id": 2, "text": "84 days", "is_correct": true },
+        { "option_id": 3, "text": "100 days", "is_correct": false },
+        { "option_id": 4, "text": "85 days", "is_correct": false }
+      ],
+      "answer": "84 days"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What Spanish term is used to describe Santiago's extreme unluckiness?",
+      "options": [
+        { "option_id": 1, "text": "Suerte", "is_correct": false },
+        { "option_id": 2, "text": "Viejo", "is_correct": false },
+        { "option_id": 3, "text": "Salao", "is_correct": true },
+        { "option_id": 4, "text": "Pescador", "is_correct": false }
+      ],
+      "answer": "Salao"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is Manolin?",
+      "options": [
+        { "option_id": 1, "text": "Santiago's son", "is_correct": false },
+        { "option_id": 2, "text": "A rival fisherman", "is_correct": false },
+        { "option_id": 3, "text": "A young boy who is Santiago's friend and apprentice", "is_correct": true },
+        { "option_id": 4, "text": "The owner of the local cafe", "is_correct": false }
+      ],
+      "answer": "A young boy who is Santiago's friend and apprentice"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why did Manolin's parents force him to leave Santiago's boat?",
+      "options": [
+        { "option_id": 1, "text": "Because Santiago was too old", "is_correct": false },
+        { "option_id": 2, "text": "Because they wanted him to go to school", "is_correct": false },
+        { "option_id": 3, "text": "Because Santiago was considered 'salao' (the worst form of unlucky)", "is_correct": true },
+        { "option_id": 4, "text": "Because they didn't like Santiago", "is_correct": false }
+      ],
+      "answer": "Because Santiago was considered 'salao' (the worst form of unlucky)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How does Manolin continue to support Santiago?",
+      "options": [
+        { "option_id": 1, "text": "He gives him money", "is_correct": false },
+        { "option_id": 2, "text": "He brings him food, coffee, and bait", "is_correct": true },
+        { "option_id": 3, "text": "He fixes his boat", "is_correct": false },
+        { "option_id": 4, "text": "He goes fishing with him secretly", "is_correct": false }
+      ],
+      "answer": "He brings him food, coffee, and bait"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does Santiago decide to do on the 85th day?",
+      "options": [
+        { "option_id": 1, "text": "Stay home and rest", "is_correct": false },
+        { "option_id": 2, "text": "Go fishing with Manolin on a luckier boat", "is_correct": false },
+        { "option_id": 3, "text": "Go out fishing alone, further than usual", "is_correct": true },
+        { "option_id": 4, "text": "Give up fishing entirely", "is_correct": false }
+      ],
+      "answer": "Go out fishing alone, further than usual"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What kind of giant fish does Santiago hook?",
+      "options": [
+        { "option_id": 1, "text": "A shark", "is_correct": false },
+        { "option_id": 2, "text": "A tuna", "is_correct": false },
+        { "option_id": 3, "text": "A marlin", "is_correct": true },
+        { "option_id": 4, "text": "A swordfish", "is_correct": false }
+      ],
+      "answer": "A marlin"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How long does the battle between Santiago and the marlin last?",
+      "options": [
+        { "option_id": 1, "text": "One day", "is_correct": false },
+        { "option_id": 2, "text": "Two days", "is_correct": false },
+        { "option_id": 3, "text": "Three days", "is_correct": true },
+        { "option_id": 4, "text": "Four days", "is_correct": false }
+      ],
+      "answer": "Three days"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What happens during the three-day struggle with the fish?",
+      "options": [
+        { "option_id": 1, "text": "The fish jumps into the boat", "is_correct": false },
+        { "option_id": 2, "text": "The fish pulls Santiago's skiff out to sea", "is_correct": true },
+        { "option_id": 3, "text": "Santiago's line breaks", "is_correct": false },
+        { "option_id": 4, "text": "Another fisherman comes to help", "is_correct": false }
+      ],
+      "answer": "The fish pulls Santiago's skiff out to sea"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What feeling does Santiago develop for the marlin during their struggle?",
+      "options": [
+        { "option_id": 1, "text": "Hatred and anger", "is_correct": false },
+        { "option_id": 2, "text": "Indifference", "is_correct": false },
+        { "option_id": 3, "text": "Fear and panic", "is_correct": false },
+        { "option_id": 4, "text": "Respect and a sense of brotherhood", "is_correct": true }
+      ],
+      "answer": "Respect and a sense of brotherhood"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How does Santiago finally kill the marlin?",
+      "options": [
+        { "option_id": 1, "text": "He shoots it", "is_correct": false },
+        { "option_id": 2, "text": "He lets it tire itself out and die", "is_correct": false },
+        { "option_id": 3, "text": "He harpoons it", "is_correct": true },
+        { "option_id": 4, "text": "He cuts the line", "is_correct": false }
+      ],
+      "answer": "He harpoons it"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why does Santiago lash the marlin to the side of his skiff?",
+      "options": [
+        { "option_id": 1, "text": "It is too heavy to lift", "is_correct": false },
+        { "option_id": 2, "text": "It is too big to fit inside the boat", "is_correct": true },
+        { "option_id": 3, "text": "He wants to show it off to others", "is_correct": false },
+        { "option_id": 4, "text": "It's a traditional way to carry a large catch", "is_correct": false }
+      ],
+      "answer": "It is too big to fit inside the boat"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What attracts sharks to Santiago's boat on his way back?",
+      "options": [
+        { "option_id": 1, "text": "The noise of the boat", "is_correct": false },
+        { "option_id": 2, "text": "The smell of the bait", "is_correct": false },
+        { "option_id": 3, "text": "The blood from the marlin", "is_correct": true },
+        { "option_id": 4, "text": "Santiago's light", "is_correct": false }
+      ],
+      "answer": "The blood from the marlin"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the result of the shark attacks?",
+      "options": [
+        { "option_id": 1, "text": "Santiago fights them all off successfully", "is_correct": false },
+        { "option_id": 2, "text": "The sharks sink Santiago's boat", "is_correct": false },
+        { "option_id": 3, "text": "They devour all the flesh of the marlin", "is_correct": true },
+        { "option_id": 4, "text": "Santiago is killed by the sharks", "is_correct": false }
+      ],
+      "answer": "They devour all the flesh of the marlin"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is left of Santiago's prize when he reaches the shore?",
+      "options": [
+        { "option_id": 1, "text": "Half of the fish", "is_correct": false },
+        { "option_id": 2, "text": "Only the skeleton, head, and tail", "is_correct": true },
+        { "option_id": 3, "text": "Nothing at all", "is_correct": false },
+        { "option_id": 4, "text": "The whole fish, miraculously untouched", "is_correct": false }
+      ],
+      "answer": "Only the skeleton, head, and tail"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the reaction of the other fishermen when they see the marlin's skeleton?",
+      "options": [
+        { "option_id": 1, "text": "They laugh at Santiago", "is_correct": false },
+        { "option_id": 2, "text": "They are indifferent", "is_correct": false },
+        { "option_id": 3, "text": "They marvel at its immense size", "is_correct": true },
+        { "option_id": 4, "text": "They are angry that he wasted the fish", "is_correct": false }
+      ],
+      "answer": "They marvel at its immense size"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What does Santiago do upon returning to his shack?",
+      "options": [
+        { "option_id": 1, "text": "He eats a large meal", "is_correct": false },
+        { "option_id": 2, "text": "He immediately goes out fishing again", "is_correct": false },
+        { "option_id": 3, "text": "He falls into a deep sleep", "is_correct": true },
+        { "option_id": 4, "text": "He cries over his loss", "is_correct": false }
+      ],
+      "answer": "He falls into a deep sleep"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does Santiago dream about at the end of the story?",
+      "options": [
+        { "option_id": 1, "text": "The giant marlin", "is_correct": false },
+        { "option_id": 2, "text": "Lions playing on an African beach", "is_correct": true },
+        { "option_id": 3, "text": "His lost youth", "is_correct": false },
+        { "option_id": 4, "text": "A great storm at sea", "is_correct": false }
+      ],
+      "answer": "Lions playing on an African beach"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which famous quote from the book encapsulates its main theme regarding human resilience?",
+      "options": [
+        { "option_id": 1, "text": "\"Fish, I love you and respect you very much. But I will kill you dead before this day ends.\"", "is_correct": false },
+        { "option_id": 2, "text": "\"I may not be as strong as I think, but I know many tricks and I have resolution.\"", "is_correct": false },
+        { "option_id": 3, "text": "\"But man is not made for defeat. A man can be destroyed but not defeated.\"", "is_correct": true },
+        { "option_id": 4, "text": "\"Luck is a thing that comes in many forms and who can recognize her?\"", "is_correct": false }
+      ],
+      "answer": "\"But man is not made for defeat. A man can be destroyed but not defeated.\""
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "How is Hemingway's writing style described in the review?",
+      "options": [
+        { "option_id": 1, "text": "Complex and ornate", "is_correct": false },
+        { "option_id": 2, "text": "Flowery and descriptive", "is_correct": false },
+        { "option_id": 3, "text": "Simple and powerful", "is_correct": true },
+        { "option_id": 4, "text": "Abstract and confusing", "is_correct": false }
+      ],
+      "answer": "Simple and powerful"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "According to the review, the story can be read on multiple levels. Which of the following is NOT one of the mentioned levels?",
+      "options": [
+        { "option_id": 1, "text": "A simple exciting fishing story", "is_correct": false },
+        { "option_id": 2, "text": "A political allegory about the Cold War", "is_correct": true },
+        { "option_id": 3, "text": "A parable about a man's struggle against the forces of nature", "is_correct": false },
+        { "option_id": 4, "text": "An allegory about the human condition", "is_correct": false }
+      ],
+      "answer": "A political allegory about the Cold War"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What does the reviewer say about the relationship between Santiago and the fish?",
+      "options": [
+        { "option_id": 1, "text": "It is a simple hunter-prey relationship", "is_correct": false },
+        { "option_id": 2, "text": "Santiago hates the fish for causing him pain", "is_correct": false },
+        { "option_id": 3, "text": "It is one of respect and almost brotherhood", "is_correct": true },
+        { "option_id": 4, "text": "The fish is portrayed as an evil monster", "is_correct": false }
+      ],
+      "answer": "It is one of respect and almost brotherhood"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "According to the review, what is true heroism not just about?",
+      "options": [
+        { "option_id": 1, "text": "Courage", "is_correct": false },
+        { "option_id": 2, "text": "Success", "is_correct": true },
+        { "option_id": 3, "text": "Endurance", "is_correct": false },
+        { "option_id": 4, "text": "Strength", "is_correct": false }
+      ],
+      "answer": "Success"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What physical hardships does Santiago endure during the struggle? (Select all that apply based on the text)",
+      "options": [
+        { "option_id": 1, "text": "Hunger and thirst", "is_correct": true },
+        { "option_id": 2, "text": "Extreme cold", "is_correct": false },
+        { "option_id": 3, "text": "Exhaustion and pain from the line", "is_correct": true },
+        { "option_id": 4, "text": "A severe storm", "is_correct": false }
+      ],
+      "answer": "Hunger and thirst, Exhaustion and pain from the line"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What does Manolin promise Santiago at the end of the story?",
+      "options": [
+        { "option_id": 1, "text": "To buy him a new boat", "is_correct": false },
+        { "option_id": 2, "text": "To never leave him again", "is_correct": false },
+        { "option_id": 3, "text": "To fish with him again, despite his parents' wishes", "is_correct": true },
+        { "option_id": 4, "text": "To find him a doctor", "is_correct": false }
+      ],
+      "answer": "To fish with him again, despite his parents' wishes"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The review suggests that the novella is a story about human ______ and dignity.",
+      "options": [
+        { "option_id": 1, "text": "Greed", "is_correct": false },
+        { "option_id": 2, "text": "Endurance", "is_correct": true },
+        { "option_id": 3, "text": "Failure", "is_correct": false },
+        { "option_id": 4, "text": "Arrogance", "is_correct": false }
+      ],
+      "answer": "Endurance"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What does the loss of the marlin's meat to the sharks symbolize in the context of the story's themes?",
+      "options": [
+        { "option_id": 1, "text": "Santiago's ultimate failure", "is_correct": false },
+        { "option_id": 2, "text": "The cruelty of nature", "is_correct": false },
+        { "option_id": 3, "text": "That material success is not the only measure of victory", "is_correct": true },
+        { "option_id": 4, "text": "The pointlessness of struggle", "is_correct": false }
+      ],
+      "answer": "That material success is not the only measure of victory"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Why does Santiago call the fish his \"brother\"?",
+      "options": [
+        { "option_id": 1, "text": "He is hallucinating from exhaustion", "is_correct": false },
+        { "option_id": 2, "text": "He believes in animism", "is_correct": false },
+        { "option_id": 3, "text": "He recognizes a shared nobility and struggle in the fish", "is_correct": true },
+        { "option_id": 4, "text": "It is a common Cuban expression", "is_correct": false }
+      ],
+      "answer": "He recognizes a shared nobility and struggle in the fish"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What literary term best describes the genre of \"The Old Man and the Sea\"?",
+      "options": [
+        { "option_id": 1, "text": "Epic poem", "is_correct": false },
+        { "option_id": 2, "text": "Short story", "is_correct": false },
+        { "option_id": 3, "text": "Novella", "is_correct": true },
+        { "option_id": 4, "text": "Biography", "is_correct": false }
+      ],
+      "answer": "Novella"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "How does Santiago's view of the sea differ from that of younger fishermen?",
+      "options": [
+        { "option_id": 1, "text": "He sees it as a place to make money", "is_correct": false },
+        { "option_id": 2, "text": "He views it with fear and suspicion", "is_correct": false },
+        { "option_id": 3, "text": "He sees it as a masculine contestant", "is_correct": false },
+        { "option_id": 4, "text": "He views it as feminine, something that gives or withholds great favors", "is_correct": true }
+      ],
+      "answer": "He views it as feminine, something that gives or withholds great favors"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What does Santiago's ordeal ultimately prove?",
+      "options": [
+        { "option_id": 1, "text": "That he should retire", "is_correct": false },
+        { "option_id": 2, "text": "That luck is the only thing that matters", "is_correct": false },
+        { "option_id": 3, "text": "His skill, resilience, and worth as a fisherman", "is_correct": true },
+        { "option_id": 4, "text": "That nature is too powerful for man", "is_correct": false }
+      ],
+      "answer": "His skill, resilience, and worth as a fisherman"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The review implies Hemingway's writing uses the \"iceberg theory\". What does this mean?",
+      "options": [
+        { "option_id": 1, "text": "The story is set in a cold climate", "is_correct": false },
+        { "option_id": 2, "text": "The writing is cold and unemotional", "is_correct": false },
+        { "option_id": 3, "text": "There is a deep meaning hidden beneath the simple surface of the text", "is_correct": true },
+        { "option_id": 4, "text": "The plot moves very slowly", "is_correct": false }
+      ],
+      "answer": "There is a deep meaning hidden beneath the simple surface of the text"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What does the Spanish word 'salao' mean in the context of the story?",
+      "answer": "'Salao' means the worst form of unlucky."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Describe the relationship between Santiago and the boy, Manolin.",
+      "answer": "It is a relationship of friendship, mentorship, and love. Manolin looks up to Santiago, cares for him by bringing him food and supplies, and learns from him, despite his parents forcing him to work on another boat."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Why does Santiago decide to go out further than usual on the 85th day?",
+      "answer": "He goes out further in a desperate attempt to break his 84-day unlucky streak and catch a big fish."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Briefly describe the three-day battle between Santiago and the marlin.",
+      "answer": "After hooking the giant marlin, the fish is too strong to be pulled in. It pulls Santiago's skiff for three days. During this time, Santiago endures great pain, hunger, and exhaustion, engaging in a battle of wills and endurance with the fish before finally harpooning it."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Why does Santiago develop a sense of respect and brotherhood for the marlin?",
+      "answer": "He respects the marlin's immense size, strength, beauty, and nobility in its struggle to survive, recognizing a kinship in their shared suffering and fight."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Quote the famous line from the book that summarizes its central theme about human resilience.",
+      "answer": "\"But man is not made for defeat. A man can be destroyed but not defeated.\""
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What happens to the marlin on the journey back to the shore?",
+      "answer": "The blood from the harpooned marlin attracts sharks, which attack the fish and devour all its flesh despite Santiago's efforts to fight them off."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What is the significance of the giant skeleton left on the shore?",
+      "answer": "It serves as tangible proof of Santiago's incredible catch and his immense struggle, earning him the respect and marvel of the other fishermen."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What does Santiago's dream of lions on an African beach symbolize?",
+      "answer": "The lions symbolize his lost youth, strength, vitality, and a time of peace and power, contrasting with his current state of old age and struggle."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "According to the review, what are the different levels on which this novella can be read?",
+      "answer": "It can be read as a simple, exciting fishing story, an allegory about human life and struggle, and a parable about art or religion."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "How does the review describe Ernest Hemingway's writing style in this book?",
+      "answer": "The writing style is described as simple, direct, and powerful, with deep meaning hidden beneath the surface."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Why is Santiago's struggle with the marlin considered an endurance test?",
+      "answer": "It is a physical and mental test that lasts for three days, pushing Santiago to his absolute limits of strength, patience, and resilience against a powerful opponent."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "How is Santiago's poverty depicted in the story?",
+      "answer": "His poverty is shown through his simple shack, lack of food (depending on Manolin and others), his old and patched gear, and his reliance on fishing for survival."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What does the reviewer mean by calling the ending a \"victory of spirit\"?",
+      "answer": "Even though Santiago loses the material prize (the fish meat), he wins a moral victory by enduring the struggle with dignity, proving his skill and courage, and not being defeated in spirit."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What role do the sharks play in the narrative?",
+      "answer": "The sharks represent the destructive forces of nature and life that can strip away material achievements, serving as the final test of Santiago's resolve."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "How does the story explore the theme of aging?",
+      "answer": "It portrays an old man proving that despite his declining physical strength, he still possesses the skill, experience, and unconquerable spirit to face great challenges."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the function of the other fishermen in the story?",
+      "answer": "At first, they pity or mock Santiago for his bad luck, but finally, they serve as witnesses to his great achievement, validating his skill and courage."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How does Santiago handle the intense physical pain during the battle with the fish?",
+      "answer": "He endures the pain with stoicism, accepting it as a necessary part of the struggle, and refuses to give in to it."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does the review imply about the definition of true heroism in the book?",
+      "answer": "True heroism is not defined by success or victory but by the courage, dignity, and grace shown in the face of struggle and inevitable defeat."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Explain the significance of the setting, the Gulf Stream, in the novella.",
+      "answer": "The Gulf Stream is not just a backdrop but a powerful, almost living force that represents the vastness and indifference of nature, providing the arena for Santiago's epic struggle."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Contrast the attitude of Manolin's parents with Manolin's attitude towards Santiago.",
+      "answer": "Manolin's parents are practical and forbid him from fishing with the unlucky Santiago, while Manolin is loyal, loving, and values Santiago's mentorship over material success."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does the reviewer mean by saying the story is a \"parable\"?",
+      "answer": "It means the story is a simple tale that illustrates a deeper moral or spiritual lesson about human existence, struggle, and dignity."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How does the story illustrate the interdependence between man and nature?",
+      "answer": "Santiago depends on the sea for his livelihood, respects its creatures even as he kills them for food, and recognizes his place within the larger natural order."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does the marlin symbolize in the context of Santiago's struggle?",
+      "answer": "The marlin symbolizes a noble and powerful opponent, a mirror to Santiago's own strength and endurance, and the ultimate test of his skill as a fisherman."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How does the novella challenge traditional definitions of success and failure?",
+      "answer": "It suggests that success is not measured by material gain (bringing home the fish meat) but by the manner in which one faces challenges, maintaining dignity and spirit even in defeat."
+    },
+    {
+      "question_id": 61,
+      "question_type": "LONG",
+      "question": "Analyze the character of Santiago. How does he embody the theme of \"grace under pressure\" throughout his ordeal?",
+      "answer": "Santiago is the epitome of Hemingway's \"grace under pressure.\" Despite being old, poor, and branded as unlucky ('salao'), he maintains his dignity and resolve. His ordeal begins with the courageous decision to sail far out alone. During the three-day battle with the marlin, he endures immense physical pain from the line cutting his back and hands, cramping, hunger, and exhaustion without complaint. He treats his formidable opponent with respect, even love, calling it his \"brother.\" When the sharks attack, destroying the fruit of his immense labor, he fights them with everything he has, not in hope of saving the fish, but as a matter of principle and survival. He does not give in to despair. His return, battered but not broken, and his peaceful sleep dreaming of lions, underscores his unconquerable spirit. His grace lies in his refusal to be defeated by overwhelming odds and his ability to maintain his humanity and dignity amidst suffering."
+    },
+    {
+      "question_id": 62,
+      "question_type": "LONG",
+      "question": "\"A man can be destroyed but not defeated.\" Discuss this quote with reference to Santiago's journey in \"The Old Man and the Sea\".",
+      "answer": "This quote is the central thesis of the novella. Physically, Santiago is \"destroyed.\" The three-day struggle leaves him exhausted, injured, and in pain. His skiff is damaged, his gear is broken, and his prize, the giant marlin, is reduced to a skeleton by the sharks. In a material sense, he comes back with nothing and is physically broken. However, he is not \"defeated.\" Defeat is a state of mind, a surrender of the spirit. Santiago never surrenders. He outlasts the marlin through sheer will. He fights the sharks until he has nothing left to fight with. He returns to shore under his own power. His spirit remains unbroken, his dignity intact, and his skill vindicated by the evidence of the giant skeleton. The experience affirms his worth as a man and a fisherman. He sleeps peacefully, planning to fish again, proving that while his body and his prize can be destroyed, his indomitable spirit cannot be conquered."
+    },
+    {
+      "question_id": 63,
+      "question_type": "LONG",
+      "question": "Explore the evolving relationship between Santiago and the marlin. How does it shift from a simple hunter-prey dynamic to a complex connection of respect and brotherhood?",
+      "answer": "Initially, Santiago views the marlin simply as a prize, a way to break his unlucky streak and prove his skill. It is a large fish that will bring a good price at the market. However, as the struggle continues over three days, Santiago's perception shifts deeply. He begins to admire the fish's immense strength, endurance, and noble refusal to give up, seeing a mirror image of his own struggle. He recognizes the fish as a worthy opponent, perhaps even his superior in physical terms. This shared suffering and test of will creates a profound bond. He starts talking to the fish, calling it his \"brother,\" and expresses a deep love and respect for it. He feels a pang of regret about having to kill such a magnificent creature but accepts it as the natural order of things—a necessity of his profession. The killing itself is performed with a sense of sorrow and honor, not malice. This evolution from hunter to brother highlights the theme of the interconnectedness of all living things and the respect for nature that defines Santiago's character."
+    },
+    {
+      "question_id": 64,
+      "question_type": "LONG",
+      "question": "Discuss the symbolism of the sharks in the novella. What do they represent in the context of Santiago's struggle and the broader themes of the story?",
+      "answer": "The sharks in \"The Old Man and the Sea\" are powerful symbols. On a literal level, they are scavengers brought by the blood of the marlin, representing a natural danger of the sea. Symbolically, they represent the destructive forces in life that attack and strip away a person's achievements. They are the inevitable hardships, misfortunes, and acts of fate that can render material success meaningless. Unlike the marlin, which is noble and worthy of respect, the sharks are portrayed as hateful, base, and rapacious. Santiago's fight against them is a fight against ultimate futility. While he cannot save the fish's meat, his battle against the sharks is crucial because it is a fight for his own dignity. By fighting them until he has nothing left, he refuses to let these destructive forces break his spirit. The sharks take the prize, but they cannot take Santiago's courage or his moral victory, emphasizing that the value of struggle lies in the effort itself, not just the outcome."
+    },
+    {
+      "question_id": 65,
+      "question_type": "LONG",
+      "question": "Analyze the role of Manolin in the story. How does his relationship with Santiago contribute to the old man's character development and the story's themes?",
+      "answer": "Manolin is crucial to the story, serving as Santiago's devoted disciple, caretaker, and emotional anchor. Despite his parents' forcing him onto a luckier boat, his loyalty to Santiago is unwavering. He provides practical support by bringing food, coffee, and bait, which is essential for the impoverished Santiago. More importantly, he provides emotional sustenance. Their relationship is a beautiful example of intergenerational friendship and mentorship. Manolin validates Santiago's worth as a fisherman and a human being, even when the rest of the community has written him off. Through his interactions with Manolin, we see Santiago's gentleness, his capacity for love, and his role as a teacher. Manolin's unwavering faith in Santiago helps sustain the old man's hope. At the end, Manolin's tears and his pledge to fish with Santiago again signify the old man's moral victory and the continuation of his legacy. Manolin represents hope, love, and the human connection that gives life meaning beyond the solitary struggle."
+    },
+    {
+      "question_id": 66,
+      "question_type": "LONG",
+      "question": "How does Hemingway's simple and direct writing style contribute to the power and impact of the narrative in \"The Old Man and the Sea\"?",
+      "answer": "Hemingway's writing style, often referred to as the \"iceberg theory,\" is a key element of the novella's power. He uses simple, declarative sentences and plain vocabulary to describe actions and physical sensations directly. There is a lack of overt emotional adjectives or complex philosophical commentary from the narrator. This understatement forces the reader to actively engage with the text, inferring the deep emotions and profound themes bubbling beneath the surface of the simple action. For example, instead of describing Santiago's agony in detail, Hemingway simply describes the physical reality of the line cutting his back or his hand cramping. This directness makes the struggle feel more immediate and visceral. The simplicity of the language mirrors the elemental nature of the conflict between man and nature, giving the story a timeless, mythic quality. The emotional impact is greater because it is not explicitly stated but rather experienced through the raw reality of the old man's ordeal."
+    },
+    {
+      "question_id": 67,
+      "question_type": "LONG",
+      "question": "Discuss the theme of respect for nature as portrayed in Santiago's interactions with the sea and its creatures.",
+      "answer": "Respect for nature is a cornerstone of Santiago's character and a central theme of the book. Unlike younger fishermen who see the sea as a competitor or a place to exploit for profit, Santiago views the sea as a feminine force that gives or withholds favors, a source of life that is beautiful but can also be cruel. He feels a deep connection to the creatures of the sea. He feels sorry for the small birds that are too fragile for the sea's violence. He respects the giant marlin as a noble adversary and a \"brother\" in the struggle for survival, feeling a sense of sin in killing it, even though he knows it's necessary for his livelihood. He even has a grudging respect for the mako shark that first attacks, acknowledging its beauty and power. This perspective shows a man who sees himself not as a conqueror of nature but as a part of it, accepting its laws with humility and grace. His struggle is not against nature, but within it."
+    },
+    {
+      "question_id": 68,
+      "question_type": "LONG",
+      "question": "Evaluate the ending of the novella. Is it a tragedy or a triumph for Santiago? Justify your answer with evidence from the text.",
+      "answer": "The ending of \"The Old Man and the Sea\" can be viewed as both a tragedy and a triumph, but ultimately it leans towards a profound triumph. Materially, it is a tragedy: Santiago loses the giant fish that would have brought him fortune and ended his poverty. He returns physically broken, exhausted, and empty-handed. However, on a deeper, moral, and spiritual level, it is a resounding triumph. He broke his unlucky streak by catching the biggest fish anyone has ever seen. He endured an unimaginable three-day test of will and strength, proving his skill and resilience to himself and his community. The giant skeleton on the shore is undeniable proof of his achievement, earning him the awe and respect of the other fishermen. Most importantly, his spirit remains unbroken. He sleeps peacefully, dreaming of the lions of his youth, symbolizing restored vitality and hope. Manolin's devotion is renewed, and they plan to fish together again. Santiago has been \"destroyed\" physically, but not \"defeated\" in spirit, embodying the novella's central theme of human dignity and endurance."
+    },
+    {
+      "question_id": 69,
+      "question_type": "LONG",
+      "question": "\"The Old Man and the Sea\" is often called a parable. What are some of the key moral or spiritual lessons that can be drawn from the story?",
+      "answer": "As a parable, the novella offers several moral and spiritual lessons. Firstly, it teaches the value of resilience and perseverance. Santiago's refusal to give up, despite his age, bad luck, and overwhelming odds, shows that human dignity lies in the struggle itself, not just the outcome. Secondly, it teaches respect for the natural world and one's place within it. Santiago's relationship with the marlin and the sea demonstrates a humble acknowledgment of the interconnectedness of all life. Thirdly, it illustrates the concept of \"grace under pressure,\" showing that one can face suffering and inevitable defeat with courage and dignity. Fourthly, through the relationship between Santiago and Manolin, it emphasizes the importance of love, friendship, and mentorship in sustaining the human spirit. Finally, the story suggests that material success is fleeting and not the ultimate measure of a person's worth; true victory is internal and spiritual."
+    },
+    {
+      "question_id": 70,
+      "question_type": "LONG",
+      "question": "In what ways is Santiago depicted as a \"Christ-like\" figure? Discuss the biblical allusions present in the text and their significance.",
+      "answer": "Hemingway subtly weaves biblical allusions into the text to elevate Santiago's struggle to a spiritual level, casting him as a Christ-like figure. The three-day struggle with the fish mirrors the three days between Christ's crucifixion and resurrection. During the battle, Santiago carries the heavy mast of his boat on his shoulder up the hill to his shack, invoking the image of Christ carrying the cross. When he finally collapses on his bed, he sleeps face down with his arms extended straight out and the palms of his hands up, a position resembling the crucifixion. His suffering, the cuts on his hands and back from the line, and his endurance of pain for a greater purpose all echo the passion of Christ. These allusions serve to universalize Santiago's individual struggle, presenting his story as a testament to the redemptive power of suffering and the indomitable nature of the human spirit in the face of a harsh and indifferent world."
+    }
+  ]
+}

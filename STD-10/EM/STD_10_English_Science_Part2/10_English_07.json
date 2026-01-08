@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.07",
+    "standard": "10",
+    "subject": "Science and Technology Part 2",
+    "medium": "English",
+    "chapter_name": "Introduction to Microbiology"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which branch of biology studies enzymes related to prokaryotes, eukaryotic microbes, and applied genetics?",
+      "options": [
+        { "option_id": 1, "text": "Environmental Microbiology", "is_correct": false },
+        { "option_id": 2, "text": "Applied Microbiology", "is_correct": true },
+        { "option_id": 3, "text": "Industrial Microbiology", "is_correct": false },
+        { "option_id": 4, "text": "Agricultural Microbiology", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Commercial use of microbes for economic, social, and environment related processes is called _____.",
+      "options": [
+        { "option_id": 1, "text": "Applied Microbiology", "is_correct": false },
+        { "option_id": 2, "text": "Industrial Microbiology", "is_correct": true },
+        { "option_id": 3, "text": "Molecular Biology", "is_correct": false },
+        { "option_id": 4, "text": "Biotechnology", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which bacteria are used for the production of yoghurt on a large scale?",
+      "options": [
+        { "option_id": 1, "text": "Saccharomyces cerevisiae", "is_correct": false },
+        { "option_id": 2, "text": "Lactobacilli", "is_correct": true },
+        { "option_id": 3, "text": "Aspergillus niger", "is_correct": false },
+        { "option_id": 4, "text": "Acetobacter", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is added to pasteurized milk to produce yoghurt?",
+      "options": [
+        { "option_id": 1, "text": "Rennet", "is_correct": false },
+        { "option_id": 2, "text": "Streptococcus thermophilus and Lactobacillus delbrueckii", "is_correct": true },
+        { "option_id": 3, "text": "Saccharomyces pastorianus", "is_correct": false },
+        { "option_id": 4, "text": "Acetic acid", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which compound gives the characteristic taste and aroma to yoghurt?",
+      "options": [
+        { "option_id": 1, "text": "Citric acid", "is_correct": false },
+        { "option_id": 2, "text": "Acetaldehyde", "is_correct": true },
+        { "option_id": 3, "text": "Lactose", "is_correct": false },
+        { "option_id": 4, "text": "Methane", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In the production of cheese, which enzyme was traditionally obtained from cattle?",
+      "options": [
+        { "option_id": 1, "text": "Amylase", "is_correct": false },
+        { "option_id": 2, "text": "Protease", "is_correct": false },
+        { "option_id": 3, "text": "Rennet", "is_correct": true },
+        { "option_id": 4, "text": "Lipase", "is_correct": false }
+      ],
+      "answer": "Option 3"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Probiotic products contain active bacteria like _____.",
+      "options": [
+        { "option_id": 1, "text": "Salmonella typhi", "is_correct": false },
+        { "option_id": 2, "text": "Lactobacillus acidophilus", "is_correct": true },
+        { "option_id": 3, "text": "Vibrio cholerae", "is_correct": false },
+        { "option_id": 4, "text": "Clostridium", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The dough of bread becomes spongy due to _____ gas released by yeast.",
+      "options": [
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 4, "text": "Methane", "is_correct": false }
+      ],
+      "answer": "Option 3"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Vinegar is chemically _____.",
+      "options": [
+        { "option_id": 1, "text": "10% Citric acid", "is_correct": false },
+        { "option_id": 2, "text": "4% Acetic acid", "is_correct": true },
+        { "option_id": 3, "text": "Gluconic acid", "is_correct": false },
+        { "option_id": 4, "text": "Lactic acid", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which microbe is used to produce citric acid in the beverage industry?",
+      "options": [
+        { "option_id": 1, "text": "Lactobacillus", "is_correct": false },
+        { "option_id": 2, "text": "Aspergillus niger", "is_correct": true },
+        { "option_id": 3, "text": "Acetobacter", "is_correct": false },
+        { "option_id": 4, "text": "Yeast", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Xanthan gum is used in the food industry to provide _____.",
+      "options": [
+        { "option_id": 1, "text": "Color", "is_correct": false },
+        { "option_id": 2, "text": "Sweetness", "is_correct": false },
+        { "option_id": 3, "text": "Thickness", "is_correct": true },
+        { "option_id": 4, "text": "Acidity", "is_correct": false }
+      ],
+      "answer": "Option 3"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of the following is a probiotic product?",
+      "options": [
+        { "option_id": 1, "text": "Dark Chocolate", "is_correct": false },
+        { "option_id": 2, "text": "Miso Soup", "is_correct": true },
+        { "option_id": 3, "text": "Regular Milk", "is_correct": false },
+        { "option_id": 4, "text": "Wine", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which enzymes are used to remove stains from clothes at low temperatures?",
+      "options": [
+        { "option_id": 1, "text": "Invertase", "is_correct": false },
+        { "option_id": 2, "text": "Microbial enzymes", "is_correct": true },
+        { "option_id": 3, "text": "Pectinase", "is_correct": false },
+        { "option_id": 4, "text": "Cellulase", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The cleaning of oil spills in the ocean is carried out by _____ bacteria.",
+      "options": [
+        { "option_id": 1, "text": "Lactobacillus", "is_correct": false },
+        { "option_id": 2, "text": "Hydrocarbonolytic (HBC)", "is_correct": true },
+        { "option_id": 3, "text": "Thiobacilli", "is_correct": false },
+        { "option_id": 4, "text": "Streptomyces", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which fuel is obtained through the anaerobic decomposition of urban waste?",
+      "options": [
+        { "option_id": 1, "text": "Ethanol", "is_correct": false },
+        { "option_id": 2, "text": "Methane", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen gas", "is_correct": false },
+        { "option_id": 4, "text": "Coal", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Coffee is produced using which of the following microbes?",
+      "options": [
+        { "option_id": 1, "text": "Aspergillus niger", "is_correct": false },
+        { "option_id": 2, "text": "Lactobacillus brevis", "is_correct": true },
+        { "option_id": 3, "text": "Acetobacter", "is_correct": false },
+        { "option_id": 4, "text": "Penicillium", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "L-Glutamic acid is used for the production of _____.",
+      "options": [
+        { "option_id": 1, "text": "Antibiotics", "is_correct": false },
+        { "option_id": 2, "text": "Monosodium glutamate (Ajinomoto)", "is_correct": true },
+        { "option_id": 3, "text": "Vitamin B12", "is_correct": false },
+        { "option_id": 4, "text": "Sweeteners", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which bacterium converts environmental pollutants like Uranium into insoluble salts?",
+      "options": [
+        { "option_id": 1, "text": "Alcanivorax", "is_correct": false },
+        { "option_id": 2, "text": "Geobacter", "is_correct": true },
+        { "option_id": 3, "text": "Thiobacillus", "is_correct": false },
+        { "option_id": 4, "text": "Clostridium", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The antibiotic Penicillin is obtained from which group of organisms?",
+      "options": [
+        { "option_id": 1, "text": "Bacteria", "is_correct": false },
+        { "option_id": 2, "text": "Fungi", "is_correct": true },
+        { "option_id": 3, "text": "Algae", "is_correct": false },
+        { "option_id": 4, "text": "Protozoa", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Acid rain causes sulfuric acid to be present in the environment; which bacteria use it as an energy source?",
+      "options": [
+        { "option_id": 1, "text": "Lactobacillus", "is_correct": false },
+        { "option_id": 2, "text": "Acidobacillus", "is_correct": true },
+        { "option_id": 3, "text": "Acetobacter", "is_correct": false },
+        { "option_id": 4, "text": "Rhizobium", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of an antibiotic effective against Tuberculosis?",
+      "options": [
+        { "option_id": 1, "text": "Penicillin", "is_correct": false },
+        { "option_id": 2, "text": "Rifampicin", "is_correct": true },
+        { "option_id": 3, "text": "Bacitracin", "is_correct": false },
+        { "option_id": 4, "text": "Erythromycin", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "In the 'scientific landfill' method, the pits are lined with _____ to prevent soil pollution.",
+      "options": [
+        { "option_id": 1, "text": "Cotton sheets", "is_correct": false },
+        { "option_id": 2, "text": "Plastic sheets", "is_correct": true },
+        { "option_id": 3, "text": "Coal dust", "is_correct": false },
+        { "option_id": 4, "text": "Newspapers", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the common role of microbes like Rhizobium and Azotobacter in agriculture?",
+      "options": [
+        { "option_id": 1, "text": "They act as pests", "is_correct": false },
+        { "option_id": 2, "text": "They act as bio-fertilizers", "is_correct": true },
+        { "option_id": 3, "text": "They decompose the crop", "is_correct": false },
+        { "option_id": 4, "text": "They provide water to roots", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of the following is a gaseous bio-fuel?",
+      "options": [
+        { "option_id": 1, "text": "Ethanol", "is_correct": false },
+        { "option_id": 2, "text": "Methane (Biogas)", "is_correct": true },
+        { "option_id": 3, "text": "Coal", "is_correct": false },
+        { "option_id": 4, "text": "Diesel", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The enzyme 'rennet' used in cheese making is traditionally obtained from _____.",
+      "options": [
+        { "option_id": 1, "text": "Plants", "is_correct": false },
+        { "option_id": 2, "text": "Cattle Alimentary Canal", "is_correct": true },
+        { "option_id": 3, "text": "Fungi", "is_correct": false },
+        { "option_id": 4, "text": "Bacteria", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which microbe is used to produce Vitamin B12?",
+      "options": [
+        { "option_id": 1, "text": "Aspergillus niger", "is_correct": false },
+        { "option_id": 2, "text": "Pseudomonas denitrificans", "is_correct": true },
+        { "option_id": 3, "text": "Lactobacillus", "is_correct": false },
+        { "option_id": 4, "text": "Yeast", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which acid is obtained by microbial fermentation of glucose using Brevibacterium?",
+      "options": [
+        { "option_id": 1, "text": "Citric acid", "is_correct": false },
+        { "option_id": 2, "text": "L-Glutamic acid", "is_correct": true },
+        { "option_id": 3, "text": "Gluconic acid", "is_correct": false },
+        { "option_id": 4, "text": "Itaconic acid", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Baker’s yeast belongs to which scientific name?",
+      "options": [
+        { "option_id": 1, "text": "Candida albicans", "is_correct": false },
+        { "option_id": 2, "text": "Saccharomyces cerevisiae", "is_correct": true },
+        { "option_id": 3, "text": "Aspergillus oryzae", "is_correct": false },
+        { "option_id": 4, "text": "Penicillium", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which of the following is a byproduct of ethanol production used as a green fuel?",
+      "options": [
+        { "option_id": 1, "text": "Sulfur", "is_correct": false },
+        { "option_id": 2, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 3, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 4, "text": "Methane", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which bacteria decompose PET plastic into its constituent parts?",
+      "options": [
+        { "option_id": 1, "text": "Vibrio", "is_correct": false },
+        { "option_id": 2, "text": "Ideonella sakaiensis", "is_correct": true },
+        { "option_id": 3, "text": "Acidobacillus", "is_correct": false },
+        { "option_id": 4, "text": "Pseudomonas", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "A clean fuel obtained by photo-biological decomposition of water is _____.",
+      "options": [
+        { "option_id": 1, "text": "Methane", "is_correct": false },
+        { "option_id": 2, "text": "Hydrogen gas", "is_correct": true },
+        { "option_id": 3, "text": "Ethanol", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which genus of bacteria is used for the removal of metals from low quality ores?",
+      "options": [
+        { "option_id": 1, "text": "Lactobacilli", "is_correct": false },
+        { "option_id": 2, "text": "Thiobacilli", "is_correct": true },
+        { "option_id": 3, "text": "Acetobacter", "is_correct": false },
+        { "option_id": 4, "text": "Vibrio", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What is the primary role of Lactobacillus in the gut?",
+      "options": [
+        { "option_id": 1, "text": "Killing all bacteria", "is_correct": false },
+        { "option_id": 2, "text": "Maintaining the balance of intestinal flora", "is_correct": true },
+        { "option_id": 3, "text": "Producing methane", "is_correct": false },
+        { "option_id": 4, "text": "Absorbing toxins", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which of these is a secondary metabolite produced by microbes?",
+      "options": [
+        { "option_id": 1, "text": "Sugar", "is_correct": false },
+        { "option_id": 2, "text": "Antibiotics", "is_correct": true },
+        { "option_id": 3, "text": "Ethanol", "is_correct": false },
+        { "option_id": 4, "text": "Methane", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "During sewage treatment, which process occurs first?",
+      "options": [
+        { "option_id": 1, "text": "Aerobic decomposition", "is_correct": false },
+        { "option_id": 2, "text": "Anaerobic decomposition", "is_correct": true },
+        { "option_id": 3, "text": "Photolysis", "is_correct": false },
+        { "option_id": 4, "text": "Neutralization", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which acid is obtained using Aspergillus itaconicus?",
+      "options": [
+        { "option_id": 1, "text": "Citric acid", "is_correct": false },
+        { "option_id": 2, "text": "Itaconic acid", "is_correct": true },
+        { "option_id": 3, "text": "Lactic acid", "is_correct": false },
+        { "option_id": 4, "text": "Gluconic acid", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What is 'Cider'?",
+      "options": [
+        { "option_id": 1, "text": "Type of bread", "is_correct": false },
+        { "option_id": 2, "text": "Juice fermented by yeast", "is_correct": true },
+        { "option_id": 3, "text": "Fossil fuel", "is_correct": false },
+        { "option_id": 4, "text": "Pesticide", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which bacteria are used for treating industrial effluents containing phenol?",
+      "options": [
+        { "option_id": 1, "text": "Vibrio", "is_correct": false },
+        { "option_id": 2, "text": "Pseudomonas", "is_correct": true },
+        { "option_id": 3, "text": "Alcanivorax", "is_correct": false },
+        { "option_id": 4, "text": "Rhizobium", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The yellow color in food is often derived from _____.",
+      "options": [
+        { "option_id": 1, "text": "Lycopene", "is_correct": false },
+        { "option_id": 2, "text": "Beta-carotene", "is_correct": true },
+        { "option_id": 3, "text": "Melanin", "is_correct": false },
+        { "option_id": 4, "text": "Chlorophyll", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is 'Kefir'?",
+      "options": [
+        { "option_id": 1, "text": "A type of tea", "is_correct": false },
+        { "option_id": 2, "text": "A fermented milk product", "is_correct": true },
+        { "option_id": 3, "text": "A bio-plastic", "is_correct": false },
+        { "option_id": 4, "text": "A mineral ore", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which of these acts as an artificial sweetener in sugar-free products?",
+      "options": [
+        { "option_id": 1, "text": "Lactose", "is_correct": false },
+        { "option_id": 2, "text": "Xylitol", "is_correct": true },
+        { "option_id": 3, "text": "Vanillin", "is_correct": false },
+        { "option_id": 4, "text": "Niacin", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Why are mutant strains used in industrial microbiology?",
+      "options": [
+        { "option_id": 1, "text": "They are more colorful", "is_correct": false },
+        { "option_id": 2, "text": "To increase the yield of desired products", "is_correct": true },
+        { "option_id": 3, "text": "They live longer", "is_correct": false },
+        { "option_id": 4, "text": "They don't need oxygen", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which bacteria are used to remove nitrogen from sewage?",
+      "options": [
+        { "option_id": 1, "text": "Lactobacilli", "is_correct": false },
+        { "option_id": 2, "text": "Denitrifying bacteria", "is_correct": true },
+        { "option_id": 3, "text": "Acetobacter", "is_correct": false },
+        { "option_id": 4, "text": "Staphylococcus", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What is the purpose of adding 'inoculants' in landfills?",
+      "options": [
+        { "option_id": 1, "text": "To add color", "is_correct": false },
+        { "option_id": 2, "text": "To accelerate decomposition", "is_correct": true },
+        { "option_id": 3, "text": "To stop smell", "is_correct": false },
+        { "option_id": 4, "text": "To make the pit deep", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "The sourness of yoghurt is due to _____.",
+      "options": [
+        { "option_id": 1, "text": "Lactose", "is_correct": false },
+        { "option_id": 2, "text": "Lactic acid", "is_correct": true },
+        { "option_id": 3, "text": "Citric acid", "is_correct": false },
+        { "option_id": 4, "text": "Acetic acid", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which enzyme clarified fruit juices by breaking down plant fibers?",
+      "options": [
+        { "option_id": 1, "text": "Protease", "is_correct": false },
+        { "option_id": 2, "text": "Pectinase", "is_correct": true },
+        { "option_id": 3, "text": "Lipase", "is_correct": false },
+        { "option_id": 4, "text": "Rennet", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which microorganism produces Vitamin B2?",
+      "options": [
+        { "option_id": 1, "text": "Pseudomonas", "is_correct": false },
+        { "option_id": 2, "text": "Ashbya gossypii", "is_correct": true },
+        { "option_id": 3, "text": "Saccharomyces", "is_correct": false },
+        { "option_id": 4, "text": "Bacillus", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "The preservation method for green animal fodder is called _____.",
+      "options": [
+        { "option_id": 1, "text": "Landfilling", "is_correct": false },
+        { "option_id": 2, "text": "Siloing", "is_correct": true },
+        { "option_id": 3, "text": "Pasteurization", "is_correct": false },
+        { "option_id": 4, "text": "Leaching", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which of these is a bio-plastic component produced by bacteria?",
+      "options": [
+        { "option_id": 1, "text": "PVC", "is_correct": false },
+        { "option_id": 2, "text": "PHB", "is_correct": true },
+        { "option_id": 3, "text": "Nylon", "is_correct": false },
+        { "option_id": 4, "text": "Teflon", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Soya sauce is produced using soybean and which cereal?",
+      "options": [
+        { "option_id": 1, "text": "Corn", "is_correct": false },
+        { "option_id": 2, "text": "Wheat or Rice", "is_correct": true },
+        { "option_id": 3, "text": "Oats", "is_correct": false },
+        { "option_id": 4, "text": "Barley", "is_correct": false }
+      ],
+      "answer": "Option 2"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is Applied Microbiology?",
+      "answer": "Applied Microbiology is a branch of biology that studies enzymes, proteins, genetics, and molecular biology related to prokaryotic and eukaryotic microbes for the development of food, medicine, and industrial products."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Define Industrial Microbiology.",
+      "answer": "Industrial Microbiology is a science related to the commercial use of microbes for economic, social, and environment related processes like fermentation and waste management."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are the two main features of Industrial Microbiology?",
+      "answer": "The two main features are: 1. Production using fermentation processes (bread, wine, etc.) 2. Use of microbes for garbage management and pollution control."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which bacteria are used in yoghurt production?",
+      "answer": "Lactobacilli, specifically Streptococcus thermophilus and Lactobacillus delbrueckii, are used in yoghurt production."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is milk pasteurized before making yoghurt?",
+      "answer": "Milk is pasteurized to eliminate any unwanted bacteria and to create a suitable environment for the desired yoghurt-forming bacterial cultures."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "State the role of Lactobacillus in yoghurt production.",
+      "answer": "Lactobacillus converts lactose sugar into lactic acid, which causes milk proteins to coagulate and gives the yoghurt its characteristic aroma and taste."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What are probiotics?",
+      "answer": "Probiotics are food products containing active 'good' bacteria like Lactobacilli that maintain the balance of intestinal flora and improve resistance."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Mention two benefits of consuming probiotics.",
+      "answer": "Probiotics improve the body's immunity and decrease the population of harmful bacteria like Clostridium in the alimentary canal."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Explain the role of yeast in bread making.",
+      "answer": "Yeast ferments the sugar in the dough, converting it into ethanol and carbon dioxide. The CO2 gas causes the dough to rise and makes the bread spongy."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is added to dough to make it spongy?",
+      "answer": "Baker's yeast (Saccharomyces cerevisiae) is added to the dough, which releases carbon dioxide gas during fermentation to make it spongy."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Name two types of cheese produced industrially.",
+      "answer": "Cheddar and Mozzarella are two common types of cheese produced on an industrial scale."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why are microbial enzymes preferred over chemical catalysts?",
+      "answer": "Microbial enzymes are highly specific, work at low temperatures/pH, are eco-friendly, and reduce the cost of purification as fewer byproducts are formed."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is Xanthan gum?",
+      "answer": "Xanthan gum is a polysaccharide obtained by microbial fermentation of starch or molasses using Xanthomonas campestris, used as a thickener in foods."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name two organic acids produced using microbes.",
+      "answer": "Citric acid and Gluconic acid are two organic acids produced through microbial processes."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How do microbes clean oil spills in oceans?",
+      "answer": "Hydrocarbonolytic bacteria (HBC) like Alcanivorax borkumensis decompose the hydrocarbons in oil into harmless carbon dioxide and water."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is a landfill site?",
+      "answer": "A landfill site is a scientific pit used to decompose urban degradable waste using microbes to produce compost and methane gas."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Define antibiotics.",
+      "answer": "Antibiotics are carbon compounds obtained from specific bacteria and fungi that can destroy or inhibit the growth of harmful microorganisms."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Which fungus is used to obtain Penicillin?",
+      "answer": "Penicillin is obtained from the fungus belonging to the genus Penicillium."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What are bio-pesticides?",
+      "answer": "Bio-pesticides are microbial toxins used to control pests and pathogens in agriculture without harming the environment."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the role of microbes in sewage treatment?",
+      "answer": "Microbes decompose the organic matter in sewage through aerobic or anaerobic processes, purifying the water before it is released."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Name a bacterium used to reduce heavy metal pollution.",
+      "answer": "Geobacter is a bacterium used to convert soluble salts of heavy metals like uranium into insoluble forms."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why is the use of plastic bags restricted?",
+      "answer": "Plastic bags are non-biodegradable and persist in the environment for hundreds of years, causing severe soil and water pollution."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What are 'inoculants' in farming?",
+      "answer": "Microbial inoculants are mixtures of beneficial microbes applied to seeds or soil to improve nutrient absorption and plant health."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Explain the process of 'siloing'.",
+      "answer": "Siloing is an anaerobic fermentation process where green fodder is preserved for cattle using lactic acid bacteria."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is microbial leaching?",
+      "answer": "Microbial leaching is the process of extracting metals from low-quality ores using specialized bacteria like Thiobacilli."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Which bacteria produce vinegar from ethanol?",
+      "answer": "Acetobacter and Glucanobacter are the bacteria used to produce acetic acid (vinegar) from ethanol."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Mention two sweeteners produced by microbes.",
+      "answer": "Xylitol and Aspartame are two artificial sweeteners produced using microbial products."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is added to detergents to improve cleaning?",
+      "answer": "Microbial enzymes are added to detergents to effectively remove protein and fat-based stains at lower temperatures."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Name two antibiotics effective against Gram-positive bacteria.",
+      "answer": "Penicillin and Erythromycin are effective against several Gram-positive bacteria."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What are bio-fuels?",
+      "answer": "Bio-fuels are renewable energy sources obtained from biological matter, available in solid, liquid, and gaseous forms."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How is soya sauce made?",
+      "answer": "Soya sauce is made by the fermentation of soybean and wheat/rice with the fungus Aspergillus oryzae."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why are probiotics considered nutritious?",
+      "answer": "They contain active beneficial microbes that assist in digestion and the production of vitamins in the human intestine."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "State the use of 'Protease' enzyme.",
+      "answer": "Protease is used to break down proteins in the food and leather industries and in detergents."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is 'Whey'?",
+      "answer": "Whey is the liquid part of milk that is separated during cheese production after milk proteins have coagulated."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the function of 'Acidulants' in food?",
+      "answer": "Acidulants are additives that provide a sharp taste and act as preservatives in various food products."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Name a fungus used for producing Citric acid.",
+      "answer": "Aspergillus niger is the fungus commonly used for the industrial production of citric acid."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How do microbes help in sewage sludge management?",
+      "answer": "Sludge-decomposing microbes convert the settled organic matter in sewage into biogas and fertilizers."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is 'Kefir'?",
+      "answer": "Kefir is a fermented milk product similar to yoghurt, produced using a mix of bacteria and yeast."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Which bacteria are used for producing L-Glutamic acid?",
+      "answer": "Brevibacterium and Corynebacterium are used for the production of L-Glutamic acid."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "State the use of 'Pectinase' enzyme.",
+      "answer": "Pectinase is used in the juice industry to clarify fruit juices by breaking down pectin."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Name a bacterium that degrades PET plastic.",
+      "answer": "Ideonella sakaiensis is a bacterium that can decompose PET (Polyethylene terephthalate) plastic."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the benefit of using ethanol as a fuel?",
+      "answer": "Ethanol is a clean-burning fuel that reduces air pollution when mixed with petrol."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which bacteria cause 'Food Poisoning'?",
+      "answer": "Harmful species like Clostridium and Salmonella are common causes of microbial food poisoning."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Explain 'photo-biological decomposition' of water.",
+      "answer": "It is a process where specialized microbes use light energy to split water into hydrogen and oxygen."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the role of microbes in compost formation?",
+      "answer": "Microbes decompose organic waste, recycling nutrients and forming rich soil fertilizer called compost."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Name an antibiotic effective against Gram-negative bacteria.",
+      "answer": "Rifamycin and Gentamicin are examples of antibiotics effective against Gram-negative bacteria."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the use of L-Ascorbic acid in food?",
+      "answer": "L-Ascorbic acid (Vitamin C) is used as an antioxidant and for nutritional fortification in food."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Which microbe is used to produce Vitamin B2?",
+      "answer": "Ashbya gossypii and Eremothecium ashbyii are used for industrial production of Vitamin B2."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How are oil-spills on land treated?",
+      "answer": "Hydrocarbonolytic bacteria are applied to the soil to decompose the petroleum components into non-toxic forms."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is 'Cider' production process?",
+      "answer": "Cider is produced by fermenting apple juice using the yeast Saccharomyces cerevisiae."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Explain the role of microbial enzymes in the textile industry.",
+      "answer": "Enzymes like cellulase are used for stone-washing denim and bio-polishing fabrics to improve texture."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What are 'Secondary Metabolites'?",
+      "answer": "These are compounds like antibiotics or vitamins produced by microbes that are not essential for their basic survival."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why are plastic bags banned?",
+      "answer": "Because they are non-biodegradable, harm marine life, and cause long-term soil and water pollution."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "State the full form of HBC.",
+      "answer": "HBC stands for Hydrocarbonolytic Bacteria."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Which bacteria can remove nitrogen compounds from sewage?",
+      "answer": "Denitrifying bacteria are used in the secondary treatment of sewage to remove nitrogen."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Name two types of bio-fuels.",
+      "answer": "Methane (Biogas) and Ethanol are two common types of bio-fuels."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "How do microbes clean water polluted by acid rain?",
+      "answer": "Sulfur-oxidizing bacteria like Acidobacillus neutralize the acidity by consuming the sulfuric acid."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Name the bacteria that prevent metal leaching into groundwater.",
+      "answer": "Geobacter converts soluble heavy metal salts into insoluble forms, trapping them in the soil."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is 'Industrial effluent'?",
+      "answer": "It is the liquid waste discharged by industries, often containing toxic chemicals that require microbial treatment."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Define 'Zymotechnology'.",
+      "answer": "Zymotechnology is the study of microbial fermentation processes for industrial and commercial uses."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is 'Pasteur Institute' famous for?",
+      "answer": "It is a world-renowned institute for microbiology research, named after Louis Pasteur."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Mention two uses of Xanthan gum in the chemical industry.",
+      "answer": "It is used in the manufacture of high-quality paints and fertilizers."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "State the meaning of 'Bioremediation'.",
+      "answer": "Bioremediation is the use of living organisms like microbes to remove or neutralize pollutants from a site."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is the source of energy for Thiobacilli?",
+      "answer": "Thiobacilli obtain energy by oxidizing sulfur compounds in ores or acidic environments."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Name two microbes used in the cheese ripening process.",
+      "answer": "Specific species of fungi and bacteria are added to give different cheeses their unique flavors."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How is 'Monosodium glutamate' (MSG) produced?",
+      "answer": "MSG is produced by the microbial fermentation of sugars using Brevibacterium bacteria."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "State the full form of PET plastic.",
+      "answer": "PET stands for Polyethylene terephthalate."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is 'active' culture in yoghurt?",
+      "answer": "It refers to the live Lactobacilli bacteria that carry out the fermentation process."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Define 'Microbial Technology'.",
+      "answer": "The application of microorganisms or their components for the production of useful products or services."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Explain 'Compost' simply.",
+      "answer": "Compost is organic matter that has been decomposed and recycled as a fertilizer and soil amendment."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is the use of 'L-Lysine'?",
+      "answer": "L-Lysine is an essential amino acid used as a nutritional supplement in human and animal food."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Which microbe is used to produce 'Lipase'?",
+      "answer": "Lipase is produced commercially using several species of fungi and bacteria."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Define 'Microbial Ecology'.",
+      "answer": "It is the study of the relationship between microorganisms and their environment."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How is 'Lactic acid' used in the industry?",
+      "answer": "It is used as an acidulant in foods and as a starting material for biodegradable plastics."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What are 'methanogenic' bacteria?",
+      "answer": "These are anaerobic bacteria that produce methane gas as a byproduct of their metabolism."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Name two enzymes used in the paper industry.",
+      "answer": "Cellulases and Xylanases are often used in paper processing."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What is 'Whey' separation?",
+      "answer": "It is the process of removing the liquid liquid part of milk from solid curds during cheese making."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Mention one use of 'Gluconic acid' in medicine.",
+      "answer": "It is used to produce calcium gluconate for treating calcium deficiency."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "How are 'Mutant' microbes created?",
+      "answer": "They are created using radiation or chemicals to alter their DNA for improved industrial traits."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "State the meaning of 'Pasteurization' for milk.",
+      "answer": "Heating milk to 72°C for 15 seconds to kill pathogens while preserving quality."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Define 'Applied Genetics' in microbiology.",
+      "answer": "Modifying microbial genes to produce more antibiotics, enzymes, or vaccines."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is 'Cider' source?",
+      "answer": "Cider is produced from the fermentation of apple juice."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Which microbe produces 'Vanillin' flavor?",
+      "answer": "Natural-like vanillin is often produced using microbial biotransformation of lignin or ferulic acid."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Explain 'Biodegradation' of pesticides.",
+      "answer": "It is the breakdown of chemical pesticides by microbes into harmless substances in the soil."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is the source of energy for 'Hydrogen' production?",
+      "answer": "Microbes use light energy or organic waste as energy sources to produce hydrogen gas."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Name two probiotics found in the market.",
+      "answer": "Yoghurt and Miso soup are two popular probiotic-rich foods."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Why is 'Sulfur' removed from natural gas?",
+      "answer": "To prevent the emission of sulfur dioxide, which causes acid rain, making it a cleaner fuel."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "State the use of 'Itaconic acid'.",
+      "answer": "It is used in the manufacture of resins and paper-coating materials."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "How do 'bio-indicator' microbes work?",
+      "answer": "They show specific changes in growth or color when exposed to certain pollutants in water or soil."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is 'compost' importance for farming?",
+      "answer": "It improves soil structure, aeration, and provides a balanced mix of nutrients for plants."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Name the bacteria used to clean up sewage containing phenol.",
+      "answer": "Pseudomonas is the genus of bacteria commonly used for this purpose."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is 'bio-leaching' of copper?",
+      "answer": "Using Thiobacillus bacteria to extract copper from its low-grade sulfide ores."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "State the use of 'Beta-carotene'.",
+      "answer": "It is used as a natural edible food color and is a precursor for Vitamin A."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Mention the source of 'Butanol'.",
+      "answer": "Butanol is obtained through microbial fermentation of plant biomass."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Define 'Eukaryotic' microbes.",
+      "answer": "Microbes whose cells have a distinct nucleus and organelles, such as fungi and protozoa."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is 'Dough' leavening?",
+      "answer": "It is the process where yeast produces CO2 gas, causing the bread dough to rise and become light."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Name two vitamins produced microbially.",
+      "answer": "Vitamin B2 and Vitamin B12 are commonly produced using microbial processes."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Explain 'Pasteurization' temperature for milk.",
+      "answer": "Milk is heated to 72°C for 15 seconds to ensure safety."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is 'Landfill' gas?",
+      "answer": "It is primarily methane gas produced by the anaerobic decomposition of waste in a landfill."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "State the meaning of 'Applied Genertics'.",
+      "answer": "Using genetic engineering to improve the production capabilities of industrial microbes."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the industrial production of yoghurt from milk.",
+      "answer": "Industrial yoghurt production involves several steps. First, milk is pasteurized to eliminate unwanted microbes and ensure a clean starting material. The protein content of the milk is often increased by adding milk powder. The milk is then cooled to a specific temperature suitable for bacterial growth. A 1:1 mixture of Streptococcus thermophilus and Lactobacillus delbrueckii is added. Streptococcus thermophilus produces lactic acid, which causes milk proteins to coagulate, making the product dense. Lactobacillus delbrueckii produces acetaldehyde, which gives yoghurt its characteristic aroma and taste. For flavored yoghurts, fruit juices or colors are added at the end. The final product is then cooled and packaged for distribution. "
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe the different steps involved in the production of cheese.",
+      "answer": "Cheese production starts with quality-tested milk that is pasteurized to remove harmful bacteria. Specialized bacteria like Lactobacillus lactis and Streptococcus thermophilus are added to initiate the fermentation of lactose into lactic acid. To thicken the milk, an enzyme is added; traditionally, rennet from cattle was used, but nowadays protease from fungi is used for vegetarian cheese. The milk coagulates into yogurt-like clusters, which are then filtered to separate the solid 'curds' from the liquid 'whey'. The curds are further processed through cutting, rubbing, salting, and pressing. Finally, different microbes are added for ripening, which develops the specific flavor and texture of various cheese types over several months. [Image of cheese production process]"
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Discuss the importance and benefits of probiotic products for human health.",
+      "answer": "Probiotics are food products that contain active beneficial microorganisms. Common examples include yoghurt, kefir, and sauerkraut. The primary importance of probiotics is their ability to maintain the balance of intestinal bacterial flora. Within our digestive tract, both useful and harmful microbes exist. Probiotics increase the population of 'good' bacteria and decrease the growth of harmful ones, like Clostridium. They improve the immune resistance of the body and are highly effective in treating diarrhea. Furthermore, probiotics can mitigate the side effects of antibiotics by restoring the natural gut balance. Their use in daily food helps in maintaining long-term digestive and overall health. "
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain how bread is produced using baker’s yeast and why it becomes spongy.",
+      "answer": "Bread making relies on the fermentation of sugar by baker's yeast (Saccharomyces cerevisiae). The process begins with mixing wheat flour, water, salt, and yeast to form a dough. The yeast performs anaerobic fermentation, converting the sugars present in the flour into ethanol and carbon dioxide gas. The carbon dioxide gas gets trapped in the gluten network of the dough, causing it to 'rise' or swell. When the dough is baked, the ethanol evaporates, and the expanding CO2 gas leaves behind tiny air pockets. This results in the final bread having a soft and spongy texture. Modern bakeries use compressed yeast, which is also rich in vitamins and minerals, enhancing the nutritional value of the bread. "
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Describe the microbial production of vinegar and its chemical composition.",
+      "answer": "Vinegar, which is chemically a 4% solution of acetic acid, is produced in a two-stage microbial process. In the first stage, sugar-rich liquids like fruit juices or molasses are fermented by the yeast Saccharomyces cerevisiae to produce ethanol (alcohol). In the second stage, specialized bacteria such as Acetobacter and Glucanobacter are added to the ethanol. These bacteria perform aerobic oxidation, converting the ethanol into acetic acid. The resulting liquid is then filtered and bleached using potassium ferrocyanide to remove impurities. Finally, the vinegar is pasteurized and bottled. In some methods, sulfur dioxide gas is added as a preservative. Vinegar is widely used in the food industry as a preservative and for flavoring pickles and sauces. "
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Discuss why microbial enzymes are preferred over chemical catalysts in modern industry.",
+      "answer": "Industrial microbiology has increasingly adopted microbial enzymes over traditional chemical catalysts due to several significant advantages. First, microbial enzymes are highly efficient even at low temperatures, neutral pH, and low pressure, which leads to huge energy savings. Second, enzymes are extremely specific in their action, resulting in high-purity products with very few byproducts. This reduces the time and cost required for purification. Third, microbial enzymes are eco-friendly; they reduce environmental pollution and eliminate the need for harsh chemical reagents. Fourth, these enzymes can be decomposed naturally after use. Because of these 'green' properties, microbial enzymes are essential for sustainable and cost-effective industrial manufacturing. "
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain the role of microbes in sewage treatment and garbage management.",
+      "answer": "Microorganisms are the primary agents for managing urban and industrial waste. In sewage treatment, large-scale anaerobic digesters use bacteria to decompose human excreta and other organic waste, which releases biogas (methane) that can be used as fuel. The remaining liquid is further treated using aerobic microbes that oxidize organic compounds, purifying the water. For solid garbage management, scientific landfilling sites are used. Degradable waste is compressed into pits and covered with layers of soil and microbial inoculants. These microbes break down the waste into nutrient-rich compost and biogas. These microbial processes prevent the pollution of water bodies, reduce the volume of urban waste, and generate valuable resources like fertilizer and energy. "
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Describe the process and importance of landfill sites for urban waste management.",
+      "answer": "Scientific landfill sites are a key strategy for modern urban waste management. Large pits are dug in open spaces away from human settlements and lined with plastic sheets to prevent the leaching of toxic liquids into the soil and groundwater. Degradable urban waste is collected, sorted, and compressed into layers inside the pit. Beneficial microbes, known as inoculants, are added to the waste to accelerate the decomposition process. Each layer is covered with soil or sawdust. Over time, the microbes convert the waste into nutrient-rich organic compost and biogas (methane). Once full, the pit is sealed. This method safely disposes of massive amounts of garbage, prevents the spread of diseases, and provides a sustainable source of fertilizer and fuel for the city. "
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "How are microbes used to clean oil spills in the ocean?",
+      "answer": "Oil spills are a major environmental threat that can be cleaned using 'Hydrocarbonolytic Bacteria' (HBC). These specialized bacteria, such as Alcanivorax borkumensis and Pseudomonas, have the unique ability to feed on the hydrocarbons found in crude oil. They decompose the toxic oil into harmless carbon dioxide and water. After an oil spill occurs, these bacteria multiply rapidly by using the oil as their carbon source. To speed up this natural process, nutrients like nitrogen and phosphorus are often added to the affected area to encourage even faster bacterial growth. This method of using living organisms to remediate pollution is known as bioremediation. It is much more effective and safer for marine life than traditional chemical dispersants. "
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Discuss the role of microbes in the leaching of metals from low-quality ores.",
+      "answer": "Microbial leaching is a specialized technique used to extract metals from poor-quality ores or mining waste. Traditional smelting methods are often too expensive or polluting for low-grade materials. Acidophilic bacteria, such as Thiobacilli and Ferrobacilli, are used in this process. These bacteria obtain energy by oxidizing the sulfur or iron compounds present in the ore. During this metabolic activity, the bacteria convert insoluble metal sulfides into soluble sulfates, which then dissolve into a surrounding liquid. Metals like copper, gold, and uranium can be leached out and recovered from the liquid. This microbial process is energy-efficient, cost-effective, and much less damaging to the environment than high-heat chemical extraction methods. "
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Bio-fuels' and their various forms with examples.",
+      "answer": "Bio-fuels are renewable energy sources derived from biological materials (biomass). They are considered more sustainable than fossil fuels because they are part of the current carbon cycle. Bio-fuels exist in three main forms: 1. Solid bio-fuels, which include traditional sources like firewood, agricultural residues, and dried animal dung. 2. Liquid bio-fuels, such as ethanol produced by the fermentation of molasses or corn, and bio-diesel obtained from vegetable oils or algae. 3. Gaseous bio-fuels, including methane (biogas) produced by the anaerobic decomposition of waste in landfills or sewage plants. Hydrogen gas, produced by the photo-biological decomposition of water, is also a promising gaseous bio-fuel. These clean energy sources reduce our reliance on petroleum and help in lowering carbon emissions. "
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "What are microbial inoculants and how do they benefit modern agriculture?",
+      "answer": "Microbial inoculants are preparations containing beneficial living microorganisms that are applied to seeds, plants, or soil. Common inoculants include bacteria like Rhizobium (for nitrogen fixation), Azotobacter, and phosphate-solubilizing microbes. These inoculants benefit agriculture in several ways. They improve soil fertility by increasing the availability of essential nutrients like nitrogen and phosphorus. Some inoculants also produce plant growth hormones. Furthermore, many act as bio-pesticides by secreting natural toxins that kill harmful pests and pathogens without harming birds, animals, or humans. Using microbial inoculants is a key component of organic farming, as it reduces the need for expensive and hazardous chemical fertilizers and pesticides, leading to more sustainable food production. "
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Describe the production and uses of Xanthan gum in the food and chemical industry.",
+      "answer": "Xanthan gum is a microbial polysaccharide produced by the fermentation of starch or molasses using the bacterium Xanthomonas campestris. It is highly valued for its unique property of providing high viscosity even in small amounts. In the food industry, it is used as a thickener, stabilizer, and emulsifier. It gives a smooth texture to ice creams, puddings, sauces, and chocolates. In the chemical industry, xanthan gum is used in the manufacture of high-quality paints, fertilizers, and detergents. It is also used in oil drilling to stabilize fluids. Because it is stable across a wide range of temperatures and pH levels, it is a versatile industrial product that has replaced many synthetic chemical thickeners. "
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Discuss the importance of the bacteria Geobacter in preventing groundwater pollution.",
+      "answer": "The bacterium Geobacter represents a powerful tool for environmental protection, especially in areas contaminated by industrial or nuclear waste. Certain hazardous processes release soluble salts of toxic heavy metals, such as uranium, into the soil. These soluble salts can easily mix with rainwater and leach into the groundwater, posing a massive threat to human health and the ecosystem. Geobacter has the unique ability to transform these soluble uranium salts into insoluble forms. By doing so, the bacteria 'lock' the radioactive metal into the soil at the site of contamination, preventing it from spreading into clean water sources. This microbial bioremediation is an efficient and natural way to manage hazardous pollutants and protect our Clean water resources. "
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Explain the role of microbes in the production of organic acids used as food additives.",
+      "answer": "Microorganisms are used as 'living factories' to produce various organic acids that serve as essential food additives. Citric acid, which provides a sour taste and acts as a preservative, is produced through the fermentation of molasses by the fungus Aspergillus niger. Gluconic acid, used for mineral fortification (like calcium and iron supplements), is also obtained using Aspergillus niger. Other important acids include L-Glutamic acid (produced by Brevibacterium), used to make the flavor enhancer Monosodium glutamate (MSG), and Itaconic acid (produced by Aspergillus itaconicus), used in the paper and resin industries. These microbial processes are preferred because they are highly efficient, cost-effective, and occur under mild biological conditions, ensuring the safe and large-scale production of additives for the global food industry. "
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Describe the process of making 'Sauce' (Soya sauce) through microbial fermentation.",
+      "answer": "The production of soya sauce is a complex microbial process involving fungi and bacteria. The primary raw materials are soybean and wheat (or rice). These materials are mixed and inoculated with the fungus Aspergillus oryzae. The fungus breaks down the complex proteins and starches in the mixture into simpler amino acids and sugars. This is followed by a long period of fermentation where specialized salt-tolerant bacteria and yeasts further develop the unique flavor, dark color, and savory aroma of the sauce. After the fermentation is complete, the mixture is pressed to extract the liquid soya sauce. This process ensures the product is rich in proteins and has a deep, savory taste known as umami. Standardizing this traditional microbial technique has allowed for the massive global production of high-quality soya sauce. "
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Discuss the environmental issues caused by acid rain and how certain bacteria can mitigate them.",
+      "answer": "Acid rain is caused by the release of nitrogen and sulfur oxides from burning fossil fuels, which react with atmospheric moisture to form sulfuric and nitric acids. These acids damage forests, acidify water bodies, and erode buildings. However, certain specialized bacteria can help mitigate these environmental damages. Bacteria like Acidobacillus ferroxidans and Thiobacilli can actually use sulfuric acid as an energy source. In areas affected by acid rain or acid mine drainage, these microbes can neutralize the harmful acids or convert them into less toxic compounds. While they cannot stop the cause of acid rain, these 'extremophile' bacteria play a vital role in the natural bioremediation of acidic environments and are used in environmental engineering to clean up contaminated soil and water. "
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Explain the role of microbes in the production of commercial antibiotics.",
+      "answer": "Antibiotics are microbial secondary metabolites that are essential for modern medicine. They are produced on a large scale using specialized fermentation tanks. Microorganisms like Penicillium (fungus) are used to produce Penicillin, while various species of Streptomyces (bacteria) are used for Streptomycin, Tetracycline, and Erythromycin. The process involves growing a specific 'mutant strain' of the microbe in a controlled environment with specific nutrients. After fermentation, the antibiotic is extracted, purified, and tested for potency. Different antibiotics are designed to kill different groups of harmful bacteria (Gram-positive or Gram-negative). These microbial products have revolutionized healthcare by providing effective treatments for once-fatal bacterial infections like pneumonia, typhoid, and tuberculosis. "
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Describe the use of microbes as bio-indicators of environmental pollution.",
+      "answer": "Certain microorganisms act as sensitive 'bio-indicators' that can detect the presence of specific pollutants in the environment. For example, some bacteria change their metabolic activity or growth rate when exposed to toxic chemicals or heavy metals. In water bodies, the presence of specific coliform bacteria indicates fecal contamination and potential health risks. Other microbes, like the yeast Saccharomyces cerevisiae, are used to absorb and indicate the levels of copper and other heavy metals in contaminated environments. Using microbes as bio-indicators is often faster, cheaper, and more biologically accurate than complex chemical analysis. Scientists monitor these microbial responses to assess the health of ecosystems and to evaluate the effectiveness of pollution control measures. "
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "How are microbial enzymes utilized in the textile and leather industries?",
+      "answer": "The textile and leather industries are major users of industrial microbial enzymes. In the textile industry, enzymes like cellulase and amylase are used for 'bio-polishing' fabrics to remove surface fuzz and for 'desizing' to remove starch from woven cloth. This replaces the use of harsh chemicals and significantly reduces water pollution. In the leather industry, proteases and lipases are used for 'unhairing' and 'bating' hides. These enzymes selectively break down specific proteins and fats without damaging the high-quality collagen fibers of the leather. These microbial processes result in higher quality products, safer working environments for laborers, and a significant reduction in the toxic chemical waste that traditionally characterized these industries. "
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Discuss the microbial production of vitamins and their importance as food additives.",
+      "answer": "Many essential vitamins are now produced industrially using specialized microbial fermentation. For example, Vitamin B2 (riboflavin) is produced using the fungus Ashbya gossypii, and Vitamin B12 is synthesized using the bacteria Pseudomonas denitrificans. Vitamin C (ascorbic acid) also involves microbial steps. These microbial processes are more efficient and cost-effective than pure chemical synthesis. These vitamins are added as 'fortifiers' to various food products like cereals, infant formulas, and beverages to prevent nutritional deficiencies in the population. They also act as natural antioxidants. This application of microbiology ensures a steady and affordable supply of vital micronutrients for global human health. "
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Explain the importance of 'Compost' and the role of microbes in its formation.",
+      "answer": "Compost is a high-quality organic fertilizer produced from the microbial decomposition of biological waste. When organic materials like kitchen waste, leaves, and animal dung are piled together, a succession of bacteria and fungi begins to break down the complex organic matter. Initially, mesophilic microbes start the process, followed by thermophilic microbes that thrive in the heat generated during decomposition. These microbes convert the waste into humic substances, releasing minerals like nitrogen and phosphorus. The final product, compost, improves soil structure, increases water retention, and provides a slow-release source of nutrients for plants. Composting is a critical part of sustainable waste management and organic farming, as it recycles urban and agricultural waste back into the soil. "
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Describe the microbial removal of nitrogen and phosphorus from sewage water.",
+      "answer": "High levels of nitrogen and phosphorus in sewage are major causes of 'eutrophication' (uncontrolled algal growth) in natural water bodies. Modern sewage treatment utilizes specialized microbes to remove these nutrients. Nitrogen is removed through a two-step process: first, nitrifying bacteria convert ammonia into nitrates, and then denitrifying bacteria convert these nitrates into harmless nitrogen gas, which is released into the air. Phosphorus is removed by specialized 'Polyphosphate Accumulating Organisms' (PAOs) that absorb large amounts of phosphorus from the water and store it within their cells. These microbial processes effectively 'clean' the sewage water before it is discharged, preventing the over-fertilization and subsequent oxygen depletion of our rivers and lakes. "
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "How do microbes contribute to the production of eco-friendly bio-plastics?",
+      "answer": "Traditional plastics are derived from petroleum and cause massive environmental pollution because they are non-biodegradable. Microbiology offers a solution through 'Bio-plastics' like Polyhydroxyalkanoates (PHAs). Certain bacteria, such as Cupriavidus necator, produce these polymers as a form of stored energy when they are fed specific carbon sources like sugar. These bio-polymers have properties similar to regular plastics but are completely biodegradable. When buried in soil, they are broken down by natural microbes into water and CO2 within a few weeks. Although currently more expensive to produce, microbial bio-plastics are a vital technology for reducing the global plastic footprint and moving toward a circular economy. "
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Discuss the role of yeast in the production of alcoholic beverages like wine and cider.",
+      "answer": "The production of alcoholic beverages depends on the ability of yeast, primarily Saccharomyces cerevisiae, to perform anaerobic fermentation. For wine, the sugar present in grape juice is fermented by the yeast, converting it into ethanol (alcohol) and carbon dioxide. The specific strain of yeast and the fermentation temperature significantly influence the final flavor and alcohol content. Cider is produced similarly using apple juice. During the process, yeast also produces various aromatic esters that contribute to the drink's complex profile. After fermentation, the liquid is filtered, aged, and sometimes pasteurized. This ancient use of yeast is now a major global industry that requires precise microbiological control to ensure consistent product quality and safety. "
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain the process and benefits of 'Siloing' in agriculture.",
+      "answer": "Siloing is a microbial preservation technique used for green animal fodder. Moist crops, such as corn or grass, are packed tightly into a large container called a 'silo' to exclude oxygen. In this anaerobic environment, natural lactic acid bacteria present on the plants ferment the plant sugars into lactic acid. The resulting increase in acidity preserves the fodder by inhibiting the growth of spoilage-causing molds and bacteria. The final product, called silage, is highly nutritious and can be stored for several months. Siloing is a cost-effective way for farmers to ensure a steady supply of high-quality food for their livestock during winter or dry seasons, maintaining animal productivity year-round. "
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Describe the microbial production of 'Acetone' and 'Butanol'.",
+      "answer": "Acetone and Butanol are vital industrial solvents that can be produced through the 'ABE fermentation' process using the bacterium Clostridium acetobutylicum. These bacteria can ferment various carbohydrates, including corn starch and molasses, under strictly anaerobic conditions. In the first phase of the process, they produce organic acids, and in the second phase, they switch their metabolism to produce solvents: Acetone, Butanol, and Ethanol. These chemicals are used in the manufacture of various products, including plastics, pharmaceuticals, and even explosives. While chemical methods from petroleum became dominant in the mid-20th century, there is a renewed interest in microbial solvent production today as part of the shift toward sustainable and renewable chemical manufacturing. "
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Analyze the impact of 'Industrial Microbiology' on the global economy and society.",
+      "answer": "Industrial microbiology has a profound impact on the global economy and everyday life. Economically, it supports multi-billion dollar industries, including food and dairy, pharmaceuticals, and biofuels. It has revolutionized the production of life-saving medicines like antibiotics and vaccines, making them more affordable. Socially, it plays a key role in public health through efficient sewage treatment and urban waste management. Furthermore, the development of eco-friendly products like bio-plastics and microbial enzymes contributes to environmental sustainability by reducing pollution and energy consumption. As a science that bridges biology and technology, industrial microbiology continues to drive innovation in sustainable development and remains a critical pillar of modern society. [Image showing the diverse sectors of industrial microbiology]"
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "How are microbes utilized in the 'Flavor' and 'Color' industry for food?",
+      "answer": "The food industry increasingly uses microbes to produce natural flavors and colors, replacing synthetic chemicals. For flavor, microbes produce various organic acids, esters, and alcohols that provide fruity or savory notes. For example, L-Glutamic acid is produced microbially to make Monosodium glutamate (MSG). For color, pigments like beta-carotene (yellow/orange), lycopene (red), and riboflavin (yellow) are obtained through the fermentation of specific fungi and bacteria. These microbial products are preferred by consumers because they are 'natural' and often carry additional health benefits. Using microbes allows for the consistent, large-scale production of these additives under controlled conditions, ensuring food products are appealing and tasty. "
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Describe the process of 'Bio-remediation' of soil contaminated by chemical pesticides.",
+      "answer": "Bio-remediation is the most effective and eco-friendly way to clean soil that has been contaminated with chemical pesticides. When pesticides like DDT or endosulfan are used in farming, they persist in the soil and can harm the ecosystem. To remediate this, specialized bacteria and fungi that have the metabolic pathways to break down these complex chemicals are introduced into the soil. These microbes use the pesticide molecules as a source of carbon or energy, breaking them down into non-toxic simpler molecules like CO2, water, and salts. The process can be enhanced by maintaining proper soil moisture and adding organic nutrients to support microbial growth. Bio-remediation restores the biological health of the soil, making it safe for future agriculture. [Image of soil bioremediation process]"
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Discuss the role of microbes in the production of 'Bio-insecticides'.",
+      "answer": "Bio-insecticides are microbial agents used to control harmful insects without damaging the environment. The most widely used example is the bacterium Bacillus thuringiensis (Bt). This microbe produces a specific 'Cry' toxin that is lethal to certain larvae when ingested. Other microbes used include various fungi and viruses that infect specific pests. These bio-agents are highly specific, meaning they only kill the target pest and do not harm beneficial insects like bees, birds, or humans. They can be produced on a large scale through fermentation and applied as sprays. Using bio-insecticides is a key strategy for reducing the use of toxic chemical sprays, protecting biodiversity, and promoting sustainable agriculture. "
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain the significance of the bacterium 'Alcanivorax borkumensis' in marine conservation.",
+      "answer": "Alcanivorax borkumensis is a critical 'specialist' bacterium for marine conservation, particularly for dealing with oil spills. While many bacteria can degrade various organic materials, this microbe specifically 'eats' hydrocarbons found in crude oil. In a normal ocean environment, its population is very small, but after an oil spill, it multiplies rapidly as it utilizes the oil as its primary food source. It breaks down the toxic hydrocarbons into harmless carbon dioxide and water. Because it is naturally occurring in the ocean, it is an essential part of the sea's own self-cleaning mechanism. Scientists now study and cultivate this bacterium to develop faster bioremediation strategies for protecting sensitive marine ecosystems and coastal areas from oil pollution. "
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "How do microbes help in the management of 'Non-biodegradable' waste like plastic?",
+      "answer": "While most microbes decompose natural materials, recent discoveries have identified specialized microbes that can attack some 'non-biodegradable' wastes like plastic. For example, the bacterium Ideonella sakaiensis produces enzymes that can break down PET plastic (used in bottles) into its basic monomers. Other microbes, like species of Pseudomonas, are being studied for their ability to slowly degrade polyurethane and other polymers. Although these processes are currently slower than natural decomposition, they offer a promising technological path for recycling and managing the global plastic crisis. Using these 'plastic-eating' microbes in large-scale waste processing plants could significantly reduce the amount of plastic that ends up in our landfills and oceans. "
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Discuss the process of 'Enzyme Immobilization' and its industrial importance.",
+      "answer": "Enzyme immobilization is a technique used in industrial microbiology to attach enzymes to a solid support, such as a plastic bead or a membrane. This process is important because it allows the enzymes to be reused multiple times, significantly reducing the cost of industrial production. Immobilized enzymes are more stable and can be easily separated from the final product, ensuring that the food or chemical product is pure and free of residual proteins. This technique is widely used in the production of high-fructose corn syrup, lactose-free milk, and various pharmaceutical products. Immobilization makes microbial enzymes practical and economical for large-scale continuous industrial processes, supporting the growth of sustainable green chemistry. "
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Describe the role of microbes in 'Bio-mining' and its potential for sustainability.",
+      "answer": "Bio-mining is the use of microorganisms to extract valuable metals from ores and concentrates. It primarily uses acidophilic bacteria like Thiobacillus to convert insoluble metal sulfides into soluble sulfates. This process is used for gold, copper, nickel, and cobalt. The potential of bio-mining is vast; it can be used to recover precious metals from electronic waste (e-waste) and from low-grade ores that are not profitable for traditional mining. Bio-mining is much more energy-efficient and creates fewer toxic emissions like sulfur dioxide than traditional smelting. As we move toward a world with fewer high-quality natural resources, microbial mining will become an essential technology for the sustainable recovery of metals. "
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Explain the microbial production of 'Dextran' and its uses in medicine.",
+      "answer": "Dextran is a complex branched polysaccharide produced through the fermentation of sucrose by bacteria, most commonly Leuconostoc mesenteroides. In medicine, dextran is highly important because it is used as a 'plasma volume expander' to treat patients who have lost a lot of blood. It helps maintain blood pressure and prevents shock. Dextran is also used as an anti-thrombotic to prevent blood clots from forming after surgery. Furthermore, specialized forms of dextran are used in laboratory research for separating different types of cells and proteins. This microbial product is a vital life-saving tool in modern hospitals, illustrating the critical role of industrial microbiology in healthcare. "
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Discuss the 'Pasteur Institute' and its contribution to microbiology.",
+      "answer": "The Pasteur Institute, founded by Louis Pasteur, is one of the world's leading centers for the study of biology and microbiology. Its contributions have been monumental. It was here that the principles of pasteurization, which revolutionized food safety, were refined. The institute pioneered the development of vaccines for rabies and anthrax. It has also played a key role in identifying many disease-causing microbes and developing modern treatments. In the context of industrial microbiology, the institute's research into fermentation and microbial metabolism laid the foundation for the commercial production of many modern products. The Pasteur Institute remains at the forefront of global health research, continuing the legacy of using microbiology for the benefit of mankind. "
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Describe the microbial production and role of 'Pectin' and 'Glycerol' in food.",
+      "answer": "Pectin and Glycerol are important food additives produced through microbial processes. Pectin is a structural carbohydrate found in fruits, but industrial pectin is often extracted using microbial enzymes that break down fruit peels. It is used in the food industry to give a 'gel' consistency to jams and jellies. Glycerol is produced as a byproduct of yeast fermentation and is used in food to maintain moisture, as a sweetener, and as a solvent for food colors. Both products help in improving the texture and shelf-life of processed foods. Microbial production allows for these additives to be produced in high purity and large volumes to meet global industrial demands. "
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Analyze the importance of 'Microbial Diversity' for environmental sustainability.",
+      "answer": "Microbial diversity refers to the vast variety of bacteria, fungi, and other microbes that exist in different environments. This diversity is the foundation of planetary sustainability. Each type of microbe has a unique metabolic 'skill', such as fixing nitrogen, decomposing toxic chemicals, or producing oxygen. A high diversity of microbes ensures that ecosystems can recycle nutrients efficiently and recover from environmental stresses like pollution or climate change. Scientists are now exploring this natural diversity to find new microbes that can solve human problems, such as degrading new plastics or producing cleaner fuels. Preserving and studying microbial diversity is essential for developing the biological technologies needed to maintain a healthy and balanced Earth. [Image representing microbial diversity in different ecosystems]"
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "How are microbes used in the 'Textile' industry for eco-friendly processing?",
+      "answer": "The textile industry is adopting microbial processes to reduce its heavy environmental impact. One major application is 'Bio-scouring', where pectinases and cellulases are used to remove natural waxes and impurities from cotton fibers, replacing harsh caustic chemicals. Another use is 'Stonewashing' of denim, where the enzyme cellulase is used to give jeans a faded look, replacing the use of actual stones and reducing fiber damage. Microbes are also being used to produce natural dyes and to treat the highly colored wastewater from textile mills. These microbial solutions significantly reduce water and energy consumption and prevent the discharge of toxic chemicals into the environment, making the textile industry much more sustainable. "
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Discuss the role of microbes in 'Waste-to-Energy' projects in modern cities.",
+      "answer": "Waste-to-energy projects are vital for sustainable urban management, and microbes are the core workers in these systems. In modern cities, degradable organic waste is collected and sent to large-scale anaerobic digesters. Inside these tanks, a consortium of microbes breaks down the waste in the absence of oxygen. This process produces biogas, which is primarily methane. This biogas can be used for heating or converted into electricity to power city infrastructure. The remaining solid residue is a high-quality organic fertilizer. These projects solve two problems at once: they reduce the amount of waste sent to landfills and provide a renewable source of local energy, contributing to a greener urban environment. "
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Describe the process of producing 'Bio-diesel' from microbial sources.",
+      "answer": "Bio-diesel is a renewable liquid fuel that can be produced from oils synthesized by microbes, specifically certain types of algae and yeast. These 'oleaginous' microorganisms are grown in large bioreactors where they accumulate large amounts of lipids (oils) within their cells. These lipids are then extracted and subjected to a chemical process called 'transesterification', where they are reacted with an alcohol to produce bio-diesel. Bio-diesel can be used in standard diesel engines and emits fewer pollutants than petroleum-based diesel. Research is currently focused on making microbial bio-diesel more cost-effective so it can become a major part of the global transition to sustainable transportation fuels. "
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Explain the role of 'Brevibacterium' and 'Corynebacterium' in the food industry.",
+      "answer": "Brevibacterium and Corynebacterium are two groups of bacteria that are highly important for the industrial production of amino acids used as food additives. Corynebacterium glutamicum is world-renowned for its ability to produce large quantities of L-Glutamic acid through the fermentation of sugars. This acid is the main component of monosodium glutamate (MSG), a flavor enhancer used globally. Brevibacterium species are also used to produce other essential amino acids like L-Lysine. These microbial processes allow for the cost-effective and high-purity production of these nutrients, which are used to improve the taste and nutritional value of processed foods. Their use highlights the power of microbial biotechnology in modern food science. "
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Analyze the impact of 'Acidophilic' microbes on the environment and industry.",
+      "answer": "Acidophilic microbes are organisms that thrive in extremely acidic environments (low pH). They have a significant impact on both the environment and industry. In nature, they are often found in mines, where they help in the natural cycling of minerals. Industrially, they are the key workers in bio-mining and microbial leaching, as they can live in the acidic conditions needed to dissolve metals from ores. However, they can also contribute to 'Acid Mine Drainage', where they produce sulfuric acid that can pollute water bodies. Understanding and controlling these microbes is essential for both harnessing their industrial power and preventing their potential for environmental damage. "
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Discuss the microbial production and use of 'Glutathione' as an antioxidant.",
+      "answer": "Glutathione is a powerful natural antioxidant produced by various microorganisms, including the yeast Saccharomyces cerevisiae. Industrially, it is produced through fermentation under specific conditions that encourage high cellular accumulation. In the human body, glutathione plays a critical role in protecting cells from oxidative stress and neutralizing toxins. It is widely used as a supplement in the health and wellness industry. Furthermore, it is used in the food industry to prevent the oxidation of fats and to maintain product quality. The microbial production of glutathione provides a high-quality, natural source of this essential molecule for medical and nutritional applications. "
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "How are 'Microbial Polysaccharides' used in the pharmaceutical industry?",
+      "answer": "Microbial polysaccharides, such as xanthan gum and dextran, are extensively used in the pharmaceutical industry. Their main role is as 'excipients' or inactive ingredients that provide structure to medicines. Xanthan gum is used to stabilize liquid suspensions and to control the release rate of drugs in tablets. Dextran is used in eye drops and as a blood volume expander. These polysaccharides are preferred because they are biocompatible, non-toxic, and can be produced with consistent properties through controlled microbial fermentation. They play an essential role in ensuring that medicines are effective and stable, demonstrating the importance of microbiology in drug formulation. "
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Describe the role of 'Methanogens' in the global carbon cycle.",
+      "answer": "Methanogens are a group of specialized anaerobic archaea that produce methane as a metabolic byproduct. They live in environments without oxygen, such as swamps, rice paddies, and the intestines of ruminants. They play a final, critical role in the global carbon cycle by breaking down the products of other decomposers. While methane is a powerful greenhouse gas, these microbes are also essential for the recycling of carbon in anaerobic ecosystems. Industrially, we harness these organisms in biogas plants to turn waste into energy. Understanding methanogens is essential for both managing our climate and developing sustainable waste-to-energy technologies. "
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Discuss the potential of 'Microbial Fuel Cells' (MFCs) for sustainable energy.",
+      "answer": "Microbial Fuel Cells (MFCs) are an emerging technology that uses bacteria to generate electricity directly from organic waste. In an MFC, specialized 'electroactive' bacteria consume organic matter and release electrons as part of their respiration. These electrons are captured by an electrode to create a continuous electric current. This technology has the potential to turn every sewage treatment plant and home septic tank into a small power station. While still in the research phase for large-scale use, MFCs offer a revolutionary way to generate truly clean energy while simultaneously cleaning up wastewater. They represent the next frontier in using microbiology for environmental sustainability. "
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Explain the significance of 'Microbial Pigments' for the food industry.",
+      "answer": "Microbial pigments are natural coloring agents produced by various bacteria and fungi. As consumers increasingly reject synthetic food dyes, these microbial pigments have become highly significant. Common examples include carotenoids and riboflavin. These pigments are produced through fermentation, which allows for consistent production regardless of the season. Beyond color, many of these pigments have antioxidant properties. The use of microbial pigments allows the food industry to produce products that are visually appealing and natural, meeting the modern consumer's demand for clean-label food products. "
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Analyze the role of 'Applied Microbiology' in achieving a 'Circular Economy'.",
+      "answer": "Applied microbiology is a key science for building a 'circular economy', where waste is eliminated and resources are reused. Microbes provide the tools for this transition. They can turn urban garbage into energy and compost, recover precious metals from e-waste through bio-leaching, and replace toxic industrial chemicals with biodegradable enzymes. Furthermore, the production of bio-plastics from microbial sources ensures that plastic waste can return safely to the soil. By mimicking and harnessing the natural recycling skills of microorganisms, applied microbiology allows us to design industrial systems that work in harmony with the planet's biological cycles, ensuring long-term environmental sustainability. [Image representing the circular economy driven by microbiology]"
+    }
+  ]
+}

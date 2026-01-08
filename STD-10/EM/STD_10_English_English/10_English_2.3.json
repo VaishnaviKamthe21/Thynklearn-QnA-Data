@@ -1,0 +1,851 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.2.3",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Connecting the Dots"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Where did Steve Jobs deliver this famous commencement address?",
+      "options": [
+        { "option_id": 1, "text": "Harvard University", "is_correct": false },
+        { "option_id": 2, "text": "Reed College", "is_correct": false },
+        { "option_id": 3, "text": "Stanford University", "is_correct": true },
+        { "option_id": 4, "text": "University of California, Berkeley", "is_correct": false }
+      ],
+      "answer": "Stanford University"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What was true about Steve Jobs' college education?",
+      "options": [
+        { "option_id": 1, "text": "He graduated with honors.", "is_correct": false },
+        { "option_id": 2, "text": "He never attended college.", "is_correct": false },
+        { "option_id": 3, "text": "He was a college dropout.", "is_correct": true },
+        { "option_id": 4, "text": "He completed his degree at night school.", "is_correct": false }
+      ],
+      "answer": "He was a college dropout."
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How many stories did Steve Jobs promise to tell in his speech?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": false },
+        { "option_id": 3, "text": "Three", "is_correct": true },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was the theme of Jobs' first story?",
+      "options": [
+        { "option_id": 1, "text": "Love and loss", "is_correct": false },
+        { "option_id": 2, "text": "Death", "is_correct": false },
+        { "option_id": 3, "text": "Connecting the dots", "is_correct": true },
+        { "option_id": 4, "text": "Building Apple", "is_correct": false }
+      ],
+      "answer": "Connecting the dots"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What did Jobs' biological mother want for his adoptive parents?",
+      "options": [
+        { "option_id": 1, "text": "To be wealthy", "is_correct": false },
+        { "option_id": 2, "text": "To be college graduates", "is_correct": true },
+        { "option_id": 3, "text": "To already have children", "is_correct": false },
+        { "option_id": 4, "text": "To live in San Francisco", "is_correct": false }
+      ],
+      "answer": "To be college graduates"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why did the lawyer and his wife decide not to adopt Steve?",
+      "options": [
+        { "option_id": 1, "text": "They couldn't afford it.", "is_correct": false },
+        { "option_id": 2, "text": "They wanted a girl.", "is_correct": true },
+        { "option_id": 3, "text": "They moved away.", "is_correct": false },
+        { "option_id": 4, "text": "They didn't like his biological mother.", "is_correct": false }
+      ],
+      "answer": "They wanted a girl."
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What was the educational background of Steve's adoptive parents?",
+      "options": [
+        { "option_id": 1, "text": "Both were college graduates.", "is_correct": false },
+        { "option_id": 2, "text": "His mother was a graduate, his father was not.", "is_correct": false },
+        { "option_id": 3, "text": "His mother never graduated college, his father never graduated high school.", "is_correct": true },
+        { "option_id": 4, "text": "His father was a lawyer, his mother a teacher.", "is_correct": false }
+      ],
+      "answer": "His mother never graduated college, his father never graduated high school."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What promise did Jobs' adoptive mother make to get the adoption papers signed?",
+      "options": [
+        { "option_id": 1, "text": "That they would be rich.", "is_correct": false },
+        { "option_id": 2, "text": "That Steve would go to college.", "is_correct": true },
+        { "option_id": 3, "text": "That they would move to a better neighborhood.", "is_correct": false },
+        { "option_id": 4, "text": "That he would learn calligraphy.", "is_correct": false }
+      ],
+      "answer": "That Steve would go to college."
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which college did Steve Jobs attend before dropping out?",
+      "options": [
+        { "option_id": 1, "text": "Stanford", "is_correct": false },
+        { "option_id": 2, "text": "Berkeley", "is_correct": false },
+        { "option_id": 3, "text": "Reed College", "is_correct": true },
+        { "option_id": 4, "text": "Harvard", "is_correct": false }
+      ],
+      "answer": "Reed College"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How long did Jobs stay at Reed College before officially dropping out?",
+      "options": [
+        { "option_id": 1, "text": "6 months", "is_correct": true },
+        { "option_id": 2, "text": "18 months", "is_correct": false },
+        { "option_id": 3, "text": "2 years", "is_correct": false },
+        { "option_id": 4, "text": "4 years", "is_correct": false }
+      ],
+      "answer": "6 months"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why did Jobs decide to drop out of college?",
+      "options": [
+        { "option_id": 1, "text": "He was failing his classes.", "is_correct": false },
+        { "option_id": 2, "text": "He got a job at Atari.", "is_correct": false },
+        { "option_id": 3, "text": "He felt it was too expensive and wasn't helping him figure out his life.", "is_correct": true },
+        { "option_id": 4, "text": "He wanted to travel the world.", "is_correct": false }
+      ],
+      "answer": "He felt it was too expensive and wasn't helping him figure out his life."
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How did Jobs get money for food after dropping out?",
+      "options": [
+        { "option_id": 1, "text": "His parents sent him money.", "is_correct": false },
+        { "option_id": 2, "text": "He worked in the college cafeteria.", "is_correct": false },
+        { "option_id": 3, "text": "He returned Coke bottles for the 5¢ deposit.", "is_correct": true },
+        { "option_id": 4, "text": "He borrowed from friends.", "is_correct": false }
+      ],
+      "answer": "He returned Coke bottles for the 5¢ deposit."
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where did Jobs get a good meal once a week?",
+      "options": [
+        { "option_id": 1, "text": "At a local soup kitchen", "is_correct": false },
+        { "option_id": 2, "text": "At a friend's house", "is_correct": false },
+        { "option_id": 3, "text": "At the Hare Krishna temple", "is_correct": true },
+        { "option_id": 4, "text": "At a professor's house", "is_correct": false }
+      ],
+      "answer": "At the Hare Krishna temple"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What class did Jobs decide to take after dropping out because it looked interesting?",
+      "options": [
+        { "option_id": 1, "text": "Computer Science", "is_correct": false },
+        { "option_id": 2, "text": "Business Administration", "is_correct": false },
+        { "option_id": 3, "text": "Calligraphy", "is_correct": true },
+        { "option_id": 4, "text": "Graphic Design", "is_correct": false }
+      ],
+      "answer": "Calligraphy"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What did Jobs learn about in the calligraphy class?",
+      "options": [
+        { "option_id": 1, "text": "Programming languages", "is_correct": false },
+        { "option_id": 2, "text": "Serif and sans serif typefaces", "is_correct": true },
+        { "option_id": 3, "text": "Marketing strategies", "is_correct": false },
+        { "option_id": 4, "text": "Hardware engineering", "is_correct": false }
+      ],
+      "answer": "Serif and sans serif typefaces"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "How long after taking the calligraphy class did it find a practical application in Jobs' life?",
+      "options": [
+        { "option_id": 1, "text": "2 years later", "is_correct": false },
+        { "option_id": 2, "text": "5 years later", "is_correct": false },
+        { "option_id": 3, "text": "10 years later", "is_correct": true },
+        { "option_id": 4, "text": "It never did.", "is_correct": false }
+      ],
+      "answer": "10 years later"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which computer was the first to have beautiful typography?",
+      "options": [
+        { "option_id": 1, "text": "The IBM PC", "is_correct": false },
+        { "option_id": 2, "text": "The Apple II", "is_correct": false },
+        { "option_id": 3, "text": "The Macintosh", "is_correct": true },
+        { "option_id": 4, "text": "The NeXT Cube", "is_correct": false }
+      ],
+      "answer": "The Macintosh"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "According to Jobs, you can only connect the dots looking...",
+      "options": [
+        { "option_id": 1, "text": "Forward", "is_correct": false },
+        { "option_id": 2, "text": "Backward", "is_correct": true },
+        { "option_id": 3, "text": "Sideways", "is_correct": false },
+        { "option_id": 4, "text": "Inward", "is_correct": false }
+      ],
+      "answer": "Backward"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What does Jobs say you have to trust in, since you can't see the future?",
+      "options": [
+        { "option_id": 1, "text": "Your parents", "is_correct": false },
+        { "option_id": 2, "text": "Your teachers", "is_correct": false },
+        { "option_id": 3, "text": "Your gut, destiny, life, karma, whatever", "is_correct": true },
+        { "option_id": 4, "text": "Technology", "is_correct": false }
+      ],
+      "answer": "Your gut, destiny, life, karma, whatever"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What was the theme of Jobs' second story?",
+      "options": [
+        { "option_id": 1, "text": "Success and failure", "is_correct": false },
+        { "option_id": 2, "text": "Love and loss", "is_correct": true },
+        { "option_id": 3, "text": "Starting businesses", "is_correct": false },
+        { "option_id": 4, "text": "Getting fired", "is_correct": false }
+      ],
+      "answer": "Love and loss"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Where did Steve Jobs and Woz start Apple?",
+      "options": [
+        { "option_id": 1, "text": "In a university lab", "is_correct": false },
+        { "option_id": 2, "text": "In an office park", "is_correct": false },
+        { "option_id": 3, "text": "In his parents' garage", "is_correct": true },
+        { "option_id": 4, "text": "In a basement", "is_correct": false }
+      ],
+      "answer": "In his parents' garage"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How old was Steve Jobs when Apple released the Macintosh?",
+      "options": [
+        { "option_id": 1, "text": "20", "is_correct": false },
+        { "option_id": 2, "text": "25", "is_correct": false },
+        { "option_id": 3, "text": "29", "is_correct": true },
+        { "option_id": 4, "text": "30", "is_correct": false }
+      ],
+      "answer": "29"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What major event happened to Steve Jobs at age 30?",
+      "options": [
+        { "option_id": 1, "text": "He became a billionaire.", "is_correct": false },
+        { "option_id": 2, "text": "He got married.", "is_correct": false },
+        { "option_id": 3, "text": "He was fired from Apple.", "is_correct": true },
+        { "option_id": 4, "text": "He invented the iPod.", "is_correct": false }
+      ],
+      "answer": "He was fired from Apple."
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who sided against Jobs when he had a falling out with the person he hired to run Apple?",
+      "options": [
+        { "option_id": 1, "text": "Woz", "is_correct": false },
+        { "option_id": 2, "text": "The employees", "is_correct": false },
+        { "option_id": 3, "text": "The Board of Directors", "is_correct": true },
+        { "option_id": 4, "text": "The shareholders", "is_correct": false }
+      ],
+      "answer": "The Board of Directors"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What did getting fired from Apple turn out to be for Steve Jobs?",
+      "options": [
+        { "option_id": 1, "text": "The worst thing that ever happened to him.", "is_correct": false },
+        { "option_id": 2, "text": "The best thing that could have ever happened to him.", "is_correct": true },
+        { "option_id": 3, "text": "A reason to retire early.", "is_correct": false },
+        { "option_id": 4, "text": "An end to his career in technology.", "is_correct": false }
+      ],
+      "answer": "The best thing that could have ever happened to him."
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What replaced the \"heaviness of being successful\" after he was fired?",
+      "options": [
+        { "option_id": 1, "text": "The sorrow of failure.", "is_correct": false },
+        { "option_id": 2, "text": "The anger of betrayal.", "is_correct": false },
+        { "option_id": 3, "text": "The lightness of being a beginner again.", "is_correct": true },
+        { "option_id": 4, "text": "The fear of the future.", "is_correct": false }
+      ],
+      "answer": "The lightness of being a beginner again."
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which two companies did Jobs start after leaving Apple?",
+      "options": [
+        { "option_id": 1, "text": "Microsoft and Google", "is_correct": false },
+        { "option_id": 2, "text": "NeXT and Pixar", "is_correct": true },
+        { "option_id": 3, "text": "Pixar and Disney", "is_correct": false },
+        { "option_id": 4, "text": "NeXT and Intel", "is_correct": false }
+      ],
+      "answer": "NeXT and Pixar"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What famous movie did Pixar create?",
+      "options": [
+        { "option_id": 1, "text": "The Lion King", "is_correct": false },
+        { "option_id": 2, "text": "Shrek", "is_correct": false },
+        { "option_id": 3, "text": "Toy Story", "is_correct": true },
+        { "option_id": 4, "text": "Ice Age", "is_correct": false }
+      ],
+      "answer": "Toy Story"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who is Laurene?",
+      "options": [
+        { "option_id": 1, "text": "His sister", "is_correct": false },
+        { "option_id": 2, "text": "His business partner", "is_correct": false },
+        { "option_id": 3, "text": "The woman he fell in love with and married", "is_correct": true },
+        { "option_id": 4, "text": "His biological mother", "is_correct": false }
+      ],
+      "answer": "The woman he fell in love with and married"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "How did Jobs return to Apple?",
+      "options": [
+        { "option_id": 1, "text": "He was hired back as CEO.", "is_correct": false },
+        { "option_id": 2, "text": "Apple bought NeXT.", "is_correct": true },
+        { "option_id": 3, "text": "He bought Apple.", "is_correct": false },
+        { "option_id": 4, "text": "The board begged him to come back.", "is_correct": false }
+      ],
+      "answer": "Apple bought NeXT."
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is at the heart of Apple's current renaissance?",
+      "options": [
+        { "option_id": 1, "text": "The iPod", "is_correct": false },
+        { "option_id": 2, "text": "The technology developed at NeXT", "is_correct": true },
+        { "option_id": 3, "text": "Pixar's animation software", "is_correct": false },
+        { "option_id": 4, "text": "A new marketing strategy", "is_correct": false }
+      ],
+      "answer": "The technology developed at NeXT"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "According to Jobs, what is the only way to do great work?",
+      "options": [
+        { "option_id": 1, "text": "To work very hard.", "is_correct": false },
+        { "option_id": 2, "text": "To be very smart.", "is_correct": false },
+        { "option_id": 3, "text": "To love what you do.", "is_correct": true },
+        { "option_id": 4, "text": "To have a great team.", "is_correct": false }
+      ],
+      "answer": "To love what you do."
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What was the theme of Jobs' third story?",
+      "options": [
+        { "option_id": 1, "text": "Success", "is_correct": false },
+        { "option_id": 2, "text": "The future of technology", "is_correct": false },
+        { "option_id": 3, "text": "Death", "is_correct": true },
+        { "option_id": 4, "text": "Education", "is_correct": false }
+      ],
+      "answer": "Death"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What question does Jobs ask himself in the mirror every morning?",
+      "options": [
+        { "option_id": 1, "text": "\"Am I successful?\"", "is_correct": false },
+        { "option_id": 2, "text": "\"What can I build today?\"", "is_correct": false },
+        { "option_id": 3, "text": "\"If today were the last day of my life, would I want to do what I am about to do today?\"", "is_correct": true },
+        { "option_id": 4, "text": "\"How can I change the world?\"", "is_correct": false }
+      ],
+      "answer": "\"If today were the last day of my life, would I want to do what I am about to do today?\""
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What illness was Steve Jobs diagnosed with a year before the speech?",
+      "options": [
+        { "option_id": 1, "text": "Heart disease", "is_correct": false },
+        { "option_id": 2, "text": "Brain tumor", "is_correct": false },
+        { "option_id": 3, "text": "Cancer of the pancreas", "is_correct": true },
+        { "option_id": 4, "text": "Leukemia", "is_correct": false }
+      ],
+      "answer": "Cancer of the pancreas"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What was the initial prognosis given to Jobs by the doctors?",
+      "options": [
+        { "option_id": 1, "text": "It was easily treatable.", "is_correct": false },
+        { "option_id": 2, "text": "He had 3 to 6 months to live.", "is_correct": true },
+        { "option_id": 3, "text": "He would need immediate surgery.", "is_correct": false },
+        { "option_id": 4, "text": "It was a mistake in diagnosis.", "is_correct": false }
+      ],
+      "answer": "He had 3 to 6 months to live."
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What happened when doctors performed a biopsy on his tumor?",
+      "options": [
+        { "option_id": 1, "text": "They confirmed it was incurable.", "is_correct": false },
+        { "option_id": 2, "text": "They found it had spread.", "is_correct": false },
+        { "option_id": 3, "text": "They started crying because it was a rare, curable form of cancer.", "is_correct": true },
+        { "option_id": 4, "text": "They realized they had made a mistake.", "is_correct": false }
+      ],
+      "answer": "They started crying because it was a rare, curable form of cancer."
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What does Jobs call the single best invention of Life?",
+      "options": [
+        { "option_id": 1, "text": "The computer", "is_correct": false },
+        { "option_id": 2, "text": "Love", "is_correct": false },
+        { "option_id": 3, "text": "Death", "is_correct": true },
+        { "option_id": 4, "text": "Intuition", "is_correct": false }
+      ],
+      "answer": "Death"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What does Jobs mean by \"dogma\"?",
+      "options": [
+        { "option_id": 1, "text": "Religious beliefs", "is_correct": false },
+        { "option_id": 2, "text": "Living with the results of other people's thinking", "is_correct": true },
+        { "option_id": 3, "text": "Scientific principles", "is_correct": false },
+        { "option_id": 4, "text": "Following the law", "is_correct": false }
+      ],
+      "answer": "Living with the results of other people's thinking"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Where did Jobs see the message \"Stay Hungry. Stay Foolish.\"? ",
+      "options": [
+        { "option_id": 1, "text": "On a billboard", "is_correct": false },
+        { "option_id": 2, "text": "In a fortune cookie", "is_correct": false },
+        { "option_id": 3, "text": "On the back cover of The Whole Earth Catalog", "is_correct": true },
+        { "option_id": 4, "text": "In a book of quotes", "is_correct": false }
+      ],
+      "answer": "On the back cover of The Whole Earth Catalog"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "How many stories did Steve Jobs say he would tell in his commencement address?",
+      "answer": "Three stories."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What was the requirement Jobs' biological mother had for his adoptive parents?",
+      "answer": "They had to be college graduates."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Why did the first set of parents decided not to adopt Steve?",
+      "answer": "Because they decided at the last minute that they really wanted a girl."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What did Steve's adoptive mother have to promise before his biological mother would sign the adoption papers?",
+      "answer": "She had to promise that Steve would someday go to college."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "How long did Steve Jobs regularly attend Reed College?",
+      "answer": "For six months."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "How long did he stay around as a \"drop-in\" after officially dropping out?",
+      "answer": "For another 18 months or so."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What was one practical benefit of dropping out of college for Steve Jobs?",
+      "answer": "He could stop taking the required classes that didn't interest him and begin dropping in on the ones that looked interesting."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Name two things Jobs learned in the calligraphy class.",
+      "answer": "He learned about serif and sans serif typefaces, and about varying the amount of space between different letter combinations."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "When did the knowledge gained from the calligraphy class become useful to Jobs?",
+      "answer": "Ten years later, when they were designing the first Macintosh computer."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "According to Jobs, what is the only way to connect dots in your life?",
+      "answer": "You can only connect them looking backward."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does the phrase \"connect the dots\" mean in the context of Jobs' first story?",
+      "answer": "It means seeing how seemingly unrelated events in your past have led to your present situation."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "List three things Jobs suggests you have to trust in since you can't see the future.",
+      "answer": "Your gut, destiny, life, karma, whatever."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Where was Apple started?",
+      "answer": "In Steve Jobs' parents' garage."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who was Steve Jobs' partner in starting Apple?",
+      "answer": "Woz (Steve Wozniak)."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How large was Apple just before Jobs was fired?",
+      "answer": "It was a $2 billion company with over 4000 employees."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How did Jobs initially feel after being fired from Apple?",
+      "answer": "He felt devastated and that he had been a very public failure."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why did Jobs decide not to run away from Silicon Valley after being fired?",
+      "answer": "Because he realized he still loved what he did."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What positive change occurred in Jobs' life after being fired?",
+      "answer": "The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the significance of Toy Story?",
+      "answer": "It was the world's first computer-animated feature film, created by Pixar."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How did the technology from NeXT help Apple?",
+      "answer": "It is at the heart of Apple's current renaissance."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What metaphor does Jobs use to describe his firing from Apple?",
+      "answer": "He calls it awful tasting medicine, but says the patient needed it."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What advice does Jobs give to those who haven't found work they love?",
+      "answer": "Keep looking. Don't settle."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What quote did Jobs read at age 17 that made an impression on him?",
+      "answer": "\"If you live each day as if it was your last, someday you'll most certainly be right.\""
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does Jobs do every morning looking in the mirror?",
+      "answer": "He asks himself, \"If today were the last day of my life, would I want to do what I am about to do today?\""
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does it mean if the answer to his morning question is \"No\" for too many days in a row?",
+      "answer": "It means he knows he needs to change something."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "According to Jobs, what is the most important tool for making big choices in life?",
+      "answer": "Remembering that you'll be dead soon."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name three things that Jobs says fall away in the face of death.",
+      "answer": "External expectations, pride, fear of embarrassment or failure."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How was Jobs' cancer initially diagnosed?",
+      "answer": "He had a scan at 7:30 in the morning that clearly showed a tumor on his pancreas."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What did the doctors tell him to do after the initial diagnosis?",
+      "answer": "Go home and get his affairs in order (prepare to die)."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What was the outcome of the biopsy performed on Jobs' tumor?",
+      "answer": "It turned out to be a very rare form of pancreatic cancer that is curable with surgery."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why does Jobs call death \"Life's change agent\"?",
+      "answer": "Because it clears out the old to make way for the new."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Who are \"the new\" right now, according to Jobs' speech?",
+      "answer": "The graduating students."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the \"trap\" of dogma?",
+      "answer": "Living with the results of other people's thinking."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What should you not let drown out your own inner voice?",
+      "answer": "The noise of others' opinions."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What does Jobs say is the most important thing to have the courage to follow?",
+      "answer": "Your heart and intuition."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why should you follow your heart and intuition?",
+      "answer": "Because they somehow already know what you truly want to become."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How does Jobs describe \"The Whole Earth Catalog\"?",
+      "answer": "As one of the bibles of his generation."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Who created \"The Whole Earth Catalog\"?",
+      "answer": "Stewart Brand."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "To what modern tool does Jobs compare \"The Whole Earth Catalog\"?",
+      "answer": "Google (it was like Google in paperback form, before Google existed)."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What was on the back cover of the final issue of \"The Whole Earth Catalog\"?",
+      "answer": "A photograph of an early morning country road and the words: \"Stay Hungry. Stay Foolish.\""
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explain the circumstances surrounding Steve Jobs' birth and adoption as he recounts them in his first story.",
+      "answer": "Steve Jobs was born to an unwed college graduate student who decided to put him up for adoption. She felt very strongly that his adopted parents should be college graduates. Initially, a lawyer and his wife were set to adopt him, but they decided at the last minute they wanted a girl. Then, his eventual parents, who were on a waiting list, were called in the middle of the night. However, when his biological mother found out that his adoptive mother had not graduated from college and his father had not graduated from high school, she refused to sign the final adoption papers. She only relented months later when his parents promised that Steve would go to college."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Describe Steve Jobs' experience after dropping out of Reed College. How did he survive, and what did he learn?",
+      "answer": "After dropping out of Reed College, Steve Jobs didn't have a dorm room, so he slept on the floor in friends' rooms. To get money for food, he returned Coke bottles for the 5¢ deposits. He would also walk seven miles across town every Sunday night to get one good meal a week at the Hare Krishna temple. Despite the hardships, he enjoyed this period. He began dropping in on classes that interested him, most notably a calligraphy class. In this class, he learned about serif and sans serif typefaces, varying the space between letter combinations, and what makes great typography. This knowledge, though seemingly impractical at the time, became crucial ten years later when designing the Macintosh computer, the first computer with beautiful typography."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Explain the central message of Jobs' first story, \"Connecting the Dots,\" using the example of the calligraphy class.",
+      "answer": "The central message is that you cannot see how current events in your life will affect your future; you can only understand their significance when looking back. Jobs uses his own experience to illustrate this. When he took a calligraphy class after dropping out of college, it had no practical application in his life and no hope of any. However, ten years later, when designing the Macintosh, that knowledge came back to him, and he incorporated it into the Mac, making it the first computer with beautiful typography. He argues that if he hadn't dropped out and taken that specific class, personal computers might not have the wonderful typography they do today. Therefore, one must trust that the 'dots' of their present experiences will somehow connect in the future."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "Discuss the turning point in Steve Jobs' life at age 30. What happened, and how did it transform him?",
+      "answer": "At age 30, Steve Jobs faced a major turning point when he was fired from Apple, the company he had co-founded. After a power struggle with the CEO he had hired, the Board of Directors sided against him, and he was publicly removed. Initially, he was devastated and felt like a public failure, even considering leaving Silicon Valley. However, he realized he still loved his work. Getting fired turned out to be a blessing in disguise. The 'heaviness of being successful' was replaced by the \"lightness of being a beginner again, less sure about everything.\" This freed him to enter one of the most creative periods of his life, during which he started two new companies, NeXT and Pixar, and met his future wife, Laurene."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "What does Steve Jobs mean when he says, \"The only way to do great work is to love what you do\"? How does this relate to his own life story?",
+      "answer": "Jobs means that passion for one's work is the essential ingredient for achieving excellence. Without a deep love for what you are doing, you won't have the drive, resilience, and creativity necessary to overcome challenges and do something truly great. He relates this to his own life, particularly his experience of being fired from Apple. Despite the public humiliation and setback, his unwavering love for his work kept him going. He didn't give up on technology or innovation; instead, he started over with NeXT and Pixar. He advises that like matters of the heart, you'll know when you find work you love, and the relationship with it will only get better over time."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Summarize Steve Jobs' experience with his cancer diagnosis as he relates it in his third story.",
+      "answer": "About a year before the speech, Jobs was diagnosed with cancer. A morning scan clearly showed a tumor on his pancreas. The doctors told him it was almost certainly an incurable type of cancer and that he should expect to live no longer than three to six months. They advised him to go home and \"get his affairs in order,\" which means preparing for death. He lived with this diagnosis all day. That evening, he had a biopsy where an endoscope was put down his throat and into his pancreas to get a sample of the tumor. Upon viewing the cells under a microscope, the doctors started crying because it turned out to be a very rare form of pancreatic cancer that was curable with surgery. Jobs had the surgery and was fine at the time of the speech."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "Explain Jobs' perspective on death and why he considers remembering it a useful tool.",
+      "answer": "Jobs views death as a purely intellectual concept until one faces it directly. After his close call with cancer, he speaks about death with more certainty. He considers remembering that you will be dead soon as the most important tool for making big choices in life. He argues that in the face of death, almost everything else—external expectations, pride, fear of embarrassment or failure—falls away, leaving only what is truly important. Remembering you are going to die is the best way to avoid the trap of thinking you have something to lose. He states, \"You are already naked. There is no reason not to follow your heart.\""
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "What does Steve Jobs mean by the advice \"Don't be trapped by dogma\" and how does he suggest one should live instead?",
+      "answer": "By \"Don't be trapped by dogma,\" Jobs means that one should not live their life according to the results of other people's thinking, beliefs, or rules. Living by dogma is living a life that is not authentically yours. He warns against letting the noise of others' opinions drown out your own inner voice. Instead, he suggests that the most important thing is to have the courage to follow your heart and intuition. He believes that somehow, your heart and intuition already know what you truly want to become, and everything else is secondary. One should live an authentic life driven by their own passions and inner guidance."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "Describe the origin and meaning of the phrase \"Stay Hungry. Stay Foolish.\" as used by Steve Jobs.",
+      "answer": "The phrase \"Stay Hungry. Stay Foolish.\" came from the back cover of the final issue of \"The Whole Earth Catalog,\" a publication created by Stewart Brand in the late 1960s, which Jobs described as a bible for his generation. It was placed beneath a photograph of an early morning country road. Jobs adopted this phrase as a farewell message for himself. By \"Stay Hungry,\" he means never being satisfied with your current achievements, always striving for more, being eager to learn, and seeking new challenges. \"Stay Foolish\" means being willing to take risks, try new things that might seem unconventional or silly to others, and not being afraid to fail or look foolish in the pursuit of innovation and one's dreams. It's a call to maintain a youthful, adventurous, and open-minded approach to life."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Compare and contrast the themes of the three stories Steve Jobs tells in his commencement address.",
+      "answer": "The three stories—\"Connecting the Dots,\" \"Love and Loss,\" and \"Death\"—are distinct narrative arcs from Jobs' life, yet they share common themes of resilience, authenticity, and trusting one's inner path. The first story focuses on faith: trusting that following your curiosity, even when it seems impractical, will lead to something meaningful later. The second story is about resilience and passion: finding what you love and having the courage to pursue it even after a devastating public failure. The third story is about perspective: using the reality of death to clarify what is truly important and to live authentically, free from fear and others' expectations. All three emphasize the importance of following one's heart and intuition over conventional wisdom or a pre-planned path."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "How does Steve Jobs use his own personal experiences to motivate and advise the graduating students at Stanford?",
+      "answer": "Steve Jobs uses a personal narrative structure, promising just \"three stories from my life. No big deal. Just three stories.\" By sharing intimate and vulnerable moments—his adoption, being a college dropout, getting fired from his own company, and facing a terminal cancer diagnosis—he makes himself relatable and human, rather than just a distant, successful icon. Each story delivers a powerful life lesson grounded in his reality. He doesn't just give abstract advice; he shows how these principles—trusting your gut, loving your work, facing death to live authentically—played out in his own life to lead to his success and happiness. This makes his advice to the students (\"Stay Hungry. Stay Foolish,\" follow your heart, don't settle) far more compelling and impactful."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Critically analyze Jobs' statement that death is \"very likely the single best invention of Life.\"",
+      "answer": "This statement is a provocative and philosophical perspective on the role of death. Jobs argues that death acts as \"Life's change agent.\" It is the mechanism by which the old is cleared out to make way for the new. Without death, there would be stagnation; progress and renewal would be impossible. In a biological and societal sense, this is true: new generations with fresh ideas replace older ones. On a personal level, Jobs suggests that the awareness of one's mortality is a powerful clarifying force. It strips away trivial concerns and fears, forcing an individual to focus on what truly matters and to live authentically. Therefore, while death is often feared as a negative end, Jobs reframes it as a necessary and even positive force for regeneration and a catalyst for living a meaningful life."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "In the context of the speech, explain the significance of Jobs returning Coke bottles for deposits and eating at the Hare Krishna temple.",
+      "answer": "These details from Jobs' first story illustrate the practical reality of his life after dropping out of college. They show that he was not living a life of privilege or ease. Returning Coke bottles for 5¢ deposits to buy food indicates a hand-to-mouth existence where he had to scrap for basic necessities. Walking seven miles across town every Sunday for a free meal at the Hare Krishna temple highlights both his need for food and his willingness to go to great lengths for it. These details underscore the risk he took by dropping out and pursuing his interests without a safety net. They also humanize him and show his determination and resilience during a period that was romantically adventurous but practically difficult."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "Discuss the role of intuition in Steve Jobs' life as presented in his commencement address.",
+      "answer": "Intuition plays a central role across all three stories in Jobs' speech. In the first story, he followed his curiosity and intuition to take a calligraphy class, trusting it would somehow work out, which it did years later. In the second story, his intuition led him back to what he loved—technology and creating—even after being fired, leading to his greatest successes. In the third story, he explicitly states the importance of having the courage to follow your heart and intuition, claiming they \"somehow already know what you truly want to become.\" He positions intuition as a superior guide to \"dogma\" or other people's thinking, suggesting it is the key to living an authentic and fulfilling life."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "How does Steve Jobs' discussion of his adoption and his biological mother's wishes set the stage for his first story about connecting the dots?",
+      "answer": "The story of his adoption establishes a theme of unexpected paths and things working out in unforeseen ways, which is central to \"connecting the dots.\" His biological mother had a specific plan for him: to be adopted by college graduates. This plan failed twice—first with the lawyer couple, then with his adoptive parents' lack of degrees. The situation was only resolved with a promise about the future (that he would go to college). This sets up a narrative where life doesn't follow a straight, planned path. His eventual decision to drop out of college is another deviation from the plan, yet, like his adoption, it led to a better outcome in the end. The initial story of his birth reinforces the idea that one must trust in the unfolding of life, or \"karma, destiny, life, whatever,\" because you cannot predict how things will connect moving forward."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Evaluate the effectiveness of the final exhortation \"Stay Hungry. Stay Foolish.\" as a closing message for a commencement address.",
+      "answer": "The phrase \"Stay Hungry. Stay Foolish.\" is an incredibly effective closing for a commencement address. It is concise, memorable, and acts as a powerful call to action. For graduating students who are about to enter the professional world, it provides a guiding philosophy. \"Stay Hungry\" encourages ambition, a continuous desire to learn, and a refusal to become complacent with one's achievements. \"Stay Foolish\" encourages risk-taking, innovation, and the courage to pursue unconventional paths without fear of judgment or failure. It encapsulates the themes of the entire speech—following your heart, taking risks, trusting your intuition—into a simple, actionable mantra. By sharing that it was a farewell message he wished for himself, Jobs makes it a personal and sincere blessing for the graduates' future."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Discuss the irony in Steve Jobs' story about getting fired from Apple.",
+      "answer": "The irony in Steve Jobs' story about getting fired from Apple lies in the fact that what seemed like the worst possible event—a devastating public failure and ejection from the company he founded—turned out to be the best thing that could have happened to him. He was at the peak of his success, having just launched the Macintosh, and then at thirty, he lost everything he had worked for. Yet, this \"awful tasting medicine\" freed him from the burden of success and allowed him to become a beginner again. This period of seeming failure became his most creative, leading to the founding of NeXT and Pixar, his marriage, and ultimately, his triumphant return to Apple, which was saved by the technology he developed at NeXT. The irony is that his greatest success was born directly from his greatest failure."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "How does Steve Jobs' speech challenge the conventional definition of success?",
+      "answer": "Steve Jobs' speech challenges the conventional definition of success, which is often tied to completing a formal education, climbing a linear career ladder, and avoiding failure. Jobs, a college dropout, achieved massive success by following his curiosity (calligraphy class) rather than a set curriculum. He reframes failure not as an end but as a necessary and even beneficial part of the journey, as seen in his firing from Apple leading to his most creative period. He emphasizes that true success comes from loving what you do and following your own intuition, rather than living by others' dogma or seeking external validation. Finally, by confronting death, he argues that the only true success is living an authentic life that is true to one's own heart, as all external achievements fade in the face of mortality."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Explain the connection Jobs makes between the technology developed at NeXT and Apple's current status.",
+      "answer": "After being fired from Apple, Steve Jobs started a company called NeXT. Years later, in a surprising turn of events, Apple bought NeXT, which brought Jobs back to the company he co-founded. In his speech, Jobs explicitly states that \"the technology we developed at NeXT is at the heart of Apple's current renaissance.\" This means that the operating system and other core technologies created at NeXT became the foundation for Apple's modern products, such as Mac OS X, which in turn powered the company's revival and subsequent massive success with products like the iMac, iPod, iPhone, etc. Therefore, his seemingly separate venture at NeXT proved to be the crucial missing piece that saved and revitalized Apple."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Based on Steve Jobs' speech, what is the danger of living someone else's life, and how can one avoid it?",
+      "answer": "According to Jobs, the danger of living someone else's life is that it is a waste of the limited time we have. He calls this being \"trapped by dogma,\" which means living according to the results of other people's thinking, beliefs, and expectations rather than your own. This leads to an inauthentic existence where your own inner voice is drowned out by external noise. To avoid this trap, Jobs advises that one must have the courage to follow their heart and intuition. He believes that deep down, a person already knows what they truly want to become. By focusing on what is truly important—which becomes clear in the face of death—and ignoring external pressures like pride or fear of failure, one can live a life that is genuinely their own."
+    }
+  ]
+}

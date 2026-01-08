@@ -1,0 +1,911 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.4.6",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Gift of the Magi"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "How much money has Della saved at the beginning of the story?",
+      "options": [
+        { "option_id": 1, "text": "$1.87", "is_correct": true },
+        { "option_id": 2, "text": "$2.87", "is_correct": false },
+        { "option_id": 3, "text": "$8.00", "is_correct": false },
+        { "option_id": 4, "text": "$20.00", "is_correct": false }
+      ],
+      "answer": "$1.87"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "On which day does the story take place?",
+      "options": [
+        { "option_id": 1, "text": "New Year's Eve", "is_correct": false },
+        { "option_id": 2, "text": "Christmas Day", "is_correct": false },
+        { "option_id": 3, "text": "Christmas Eve", "is_correct": true },
+        { "option_id": 4, "text": "Thanksgiving", "is_correct": false }
+      ],
+      "answer": "Christmas Eve"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How did Della save the sixty cents in pennies?",
+      "options": [
+        { "option_id": 1, "text": "By working extra hours", "is_correct": false },
+        { "option_id": 2, "text": "By selling her old clothes", "is_correct": false },
+        { "option_id": 3, "text": "By finding them on the street", "is_correct": false },
+        { "option_id": 4, "text": "By bargaining closely with merchants", "is_correct": true }
+      ],
+      "answer": "By bargaining closely with merchants"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What are the two possessions that Jim and Della take great pride in?",
+      "options": [
+        { "option_id": 1, "text": "Jim's watch and Della's hair", "is_correct": true },
+        { "option_id": 2, "text": "Their flat and their furniture", "is_correct": false },
+        { "option_id": 3, "text": "Della's combs and Jim's chain", "is_correct": false },
+        { "option_id": 4, "text": "Their savings and their jobs", "is_correct": false }
+      ],
+      "answer": "Jim's watch and Della's hair"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How does Della get the money to buy Jim's present?",
+      "options": [
+        { "option_id": 1, "text": "She borrows it from a friend.", "is_correct": false },
+        { "option_id": 2, "text": "She wins a lottery.", "is_correct": false },
+        { "option_id": 3, "text": "She sells her hair.", "is_correct": true },
+        { "option_id": 4, "text": "Jim gives her the money.", "is_correct": false }
+      ],
+      "answer": "She sells her hair."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How much does Della receive for her hair?",
+      "options": [
+        { "option_id": 1, "text": "$10.00", "is_correct": false },
+        { "option_id": 2, "text": "$15.00", "is_correct": false },
+        { "option_id": 3, "text": "$20.00", "is_correct": true },
+        { "option_id": 4, "text": "$25.00", "is_correct": false }
+      ],
+      "answer": "$20.00"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What gift does Della buy for Jim?",
+      "options": [
+        { "option_id": 1, "text": "A new overcoat", "is_correct": false },
+        { "option_id": 2, "text": "A set of combs", "is_correct": false },
+        { "option_id": 3, "text": "A leather watch strap", "is_correct": false },
+        { "option_id": 4, "text": "A platinum fob chain", "is_correct": true }
+      ],
+      "answer": "A platinum fob chain"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is Jim's reaction when he first sees Della with short hair?",
+      "options": [
+        { "option_id": 1, "text": "He is angry.", "is_correct": false },
+        { "option_id": 2, "text": "He cries.", "is_correct": false },
+        { "option_id": 3, "text": "He stares blankly.", "is_correct": true },
+        { "option_id": 4, "text": "He laughs immediately.", "is_correct": false }
+      ],
+      "answer": "He stares blankly."
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What gift does Jim bring for Della?",
+      "options": [
+        { "option_id": 1, "text": "A gold necklace", "is_correct": false },
+        { "option_id": 2, "text": "A set of jewelled combs", "is_correct": true },
+        { "option_id": 3, "text": "A new hat", "is_correct": false },
+        { "option_id": 4, "text": "Perfume", "is_correct": false }
+      ],
+      "answer": "A set of jewelled combs"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "How did Jim get the money to buy Della's present?",
+      "options": [
+        { "option_id": 1, "text": "He saved it from his salary.", "is_correct": false },
+        { "option_id": 2, "text": "He worked extra jobs.", "is_correct": false },
+        { "option_id": 3, "text": "He sold his gold watch.", "is_correct": true },
+        { "option_id": 4, "text": "He borrowed it.", "is_correct": false }
+      ],
+      "answer": "He sold his gold watch."
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the story?",
+      "options": [
+        { "option_id": 1, "text": "The importance of money", "is_correct": false },
+        { "option_id": 2, "text": "Sacrificial love", "is_correct": true },
+        { "option_id": 3, "text": "The value of honesty", "is_correct": false },
+        { "option_id": 4, "text": "The sadness of poverty", "is_correct": false }
+      ],
+      "answer": "Sacrificial love"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who were the Magi?",
+      "options": [
+        { "option_id": 1, "text": "Kings from the West", "is_correct": false },
+        { "option_id": 2, "text": "Wise men who brought gifts to Jesus", "is_correct": true },
+        { "option_id": 3, "text": "Rich merchants in New York", "is_correct": false },
+        { "option_id": 4, "text": "Neighbours of Jim and Della", "is_correct": false }
+      ],
+      "answer": "Wise men who brought gifts to Jesus"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why does the narrator call Jim and Della the 'wisest'?",
+      "options": [
+        { "option_id": 1, "text": "Because they managed to buy expensive gifts.", "is_correct": false },
+        { "option_id": 2, "text": "Because they sacrificed their most prized possessions out of love.", "is_correct": true },
+        { "option_id": 3, "text": "Because they were able to save money.", "is_correct": false },
+        { "option_id": 4, "text": "Because they knew what the other wanted.", "is_correct": false }
+      ],
+      "answer": "Because they sacrificed their most prized possessions out of love."
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What literary device is most prominent in the ending of the story?",
+      "options": [
+        { "option_id": 1, "text": "Metaphor", "is_correct": false },
+        { "option_id": 2, "text": "Simile", "is_correct": false },
+        { "option_id": 3, "text": "Irony", "is_correct": true },
+        { "option_id": 4, "text": "Personification", "is_correct": false }
+      ],
+      "answer": "Irony"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "How much is the weekly rent for the couple's flat?",
+      "options": [
+        { "option_id": 1, "text": "$10", "is_correct": false },
+        { "option_id": 2, "text": "$8", "is_correct": true },
+        { "option_id": 3, "text": "$20", "is_correct": false },
+        { "option_id": 4, "text": "$30", "is_correct": false }
+      ],
+      "answer": "$8"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is Jim's full name on the letter-box?",
+      "options": [
+        { "option_id": 1, "text": "Mr. Jim Young", "is_correct": false },
+        { "option_id": 2, "text": "Mr. James D. Young", "is_correct": false },
+        { "option_id": 3, "text": "Mr. James Dillingham Young", "is_correct": true },
+        { "option_id": 4, "text": "Mr. J. D. Young", "is_correct": false }
+      ],
+      "answer": "Mr. James Dillingham Young"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "To whom does the narrator compare Della in relation to her hair?",
+      "options": [
+        { "option_id": 1, "text": "Cleopatra", "is_correct": false },
+        { "option_id": 2, "text": "Helen of Troy", "is_correct": false },
+        { "option_id": 3, "text": "The Queen of Sheba", "is_correct": true },
+        { "option_id": 4, "text": "Venus", "is_correct": false }
+      ],
+      "answer": "The Queen of Sheba"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "To whom does the narrator compare Jim in relation to his watch?",
+      "options": [
+        { "option_id": 1, "text": "King Arthur", "is_correct": false },
+        { "option_id": 2, "text": "King Solomon", "is_correct": true },
+        { "option_id": 3, "text": "Julius Caesar", "is_correct": false },
+        { "option_id": 4, "text": "Midas", "is_correct": false }
+      ],
+      "answer": "King Solomon"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What does Della use to curl her hair after cutting it?",
+      "options": [
+        { "option_id": 1, "text": "Rollers", "is_correct": false },
+        { "option_id": 2, "text": "A curling iron heated by gas", "is_correct": true },
+        { "option_id": 3, "text": "Rags", "is_correct": false },
+        { "option_id": 4, "text": "Pin curls", "is_correct": false }
+      ],
+      "answer": "A curling iron heated by gas"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What does Della fear Jim will think she looks like with her short hair?",
+      "options": [
+        { "option_id": 1, "text": "A boy", "is_correct": false },
+        { "option_id": 2, "text": "A Coney Island chorus girl", "is_correct": true },
+        { "option_id": 3, "text": "A model", "is_correct": false },
+        { "option_id": 4, "text": "A stranger", "is_correct": false }
+      ],
+      "answer": "A Coney Island chorus girl"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What was Jim using as a strap for his watch before Della bought the chain?",
+      "options": [
+        { "option_id": 1, "text": "A piece of string", "is_correct": false },
+        { "option_id": 2, "text": "An old leather strap", "is_correct": true },
+        { "option_id": 3, "text": "A cheap metal chain", "is_correct": false },
+        { "option_id": 4, "text": "A ribbon", "is_correct": false }
+      ],
+      "answer": "An old leather strap"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How old is Jim?",
+      "options": [
+        { "option_id": 1, "text": "Twenty", "is_correct": false },
+        { "option_id": 2, "text": "Twenty-two", "is_correct": true },
+        { "option_id": 3, "text": "Twenty-five", "is_correct": false },
+        { "option_id": 4, "text": "Thirty", "is_correct": false }
+      ],
+      "answer": "Twenty-two"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What does Jim suggest they do with their presents at the end of the story?",
+      "options": [
+        { "option_id": 1, "text": "Return them to the stores", "is_correct": false },
+        { "option_id": 2, "text": "Put them away for a while", "is_correct": true },
+        { "option_id": 3, "text": "Try to sell them", "is_correct": false },
+        { "option_id": 4, "text": "Show them to their neighbours", "is_correct": false }
+      ],
+      "answer": "Put them away for a while"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What colour is repeatedly used to describe Della's surroundings and mood at the beginning?",
+      "options": [
+        { "option_id": 1, "text": "Brown", "is_correct": false },
+        { "option_id": 2, "text": "Grey", "is_correct": true },
+        { "option_id": 3, "text": "Black", "is_correct": false },
+        { "option_id": 4, "text": "Blue", "is_correct": false }
+      ],
+      "answer": "Grey"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What does the platinum chain symbolize for Della?",
+      "options": [
+        { "option_id": 1, "text": "Her wealth", "is_correct": false },
+        { "option_id": 2, "text": "Jim's quiet value and worth", "is_correct": true },
+        { "option_id": 3, "text": "Her love of fashion", "is_correct": false },
+        { "option_id": 4, "text": "The upcoming new year", "is_correct": false }
+      ],
+      "answer": "Jim's quiet value and worth"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "How much did the platinum chain cost?",
+      "options": [
+        { "option_id": 1, "text": "$20.00", "is_correct": false },
+        { "option_id": 2, "text": "$21.00", "is_correct": true },
+        { "option_id": 3, "text": "$22.00", "is_correct": false },
+        { "option_id": 4, "text": "$1.87", "is_correct": false }
+      ],
+      "answer": "$21.00"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is the condition of the electric button in the vestibule?",
+      "options": [
+        { "option_id": 1, "text": "It is new.", "is_correct": false },
+        { "option_id": 2, "text": "It works perfectly.", "is_correct": false },
+        { "option_id": 3, "text": "It will not ring.", "is_correct": true },
+        { "option_id": 4, "text": "It is missing.", "is_correct": false }
+      ],
+      "answer": "It will not ring."
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who originally owned Jim's watch?",
+      "options": [
+        { "option_id": 1, "text": "He bought it himself.", "is_correct": false },
+        { "option_id": 2, "text": "His father and grandfather.", "is_correct": true },
+        { "option_id": 3, "text": "It was a gift from Della.", "is_correct": false },
+        { "option_id": 4, "text": "He found it.", "is_correct": false }
+      ],
+      "answer": "His father and grandfather."
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the name of the hair shop where Della sells her hair?",
+      "options": [
+        { "option_id": 1, "text": "Mme. Eloise's", "is_correct": false },
+        { "option_id": 2, "text": "Hair Goods Emporium", "is_correct": false },
+        { "option_id": 3, "text": "Mme. Sofronie. Hair Goods of All Kinds.", "is_correct": true },
+        { "option_id": 4, "text": "The Broadway Hair Salon", "is_correct": false }
+      ],
+      "answer": "Mme. Sofronie. Hair Goods of All Kinds."
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "How does Della feel immediately after selling her hair, while looking for a gift?",
+      "options": [
+        { "option_id": 1, "text": "Sad and regretful", "is_correct": false },
+        { "option_id": 2, "text": "Excited and focused", "is_correct": true },
+        { "option_id": 3, "text": "Angry at Jim", "is_correct": false },
+        { "option_id": 4, "text": "Indifferent", "is_correct": false }
+      ],
+      "answer": "Excited and focused"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Why is Della crying at the very beginning of the story?",
+      "answer": "Della is crying because it is Christmas Eve and she has only saved $1.87 to buy a present for her husband, Jim."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Describe the financial situation of Jim and Della.",
+      "answer": "They are poor, living in a shabby $8-a-week flat. Jim's income has been reduced from $30 to $20 per week, and Della has to bargain hard to save even pennies."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What are the two prized possessions of the Dillingham Young family?",
+      "answer": "The two prized possessions are Jim's gold watch, which belonged to his father and grandfather, and Della's beautiful, long brown hair."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "How does the narrator describe Della's hair before it is cut?",
+      "answer": "The narrator describes Della's hair as falling about her, rippling and shining like a cascade of brown waters, reaching below her knee and almost making a garment for her."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What gives Della the idea to sell her hair?",
+      "answer": "Seeing her beautiful hair in the pier-glass mirror gives her the sudden idea to sell it to raise money for Jim's gift."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Why does Della choose the platinum fob chain for Jim?",
+      "answer": "She chooses it because it is simple, valuable in substance rather than ornamentation, and worthy of Jim's treasured watch."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "How does Della prepare for Jim's return after buying his gift?",
+      "answer": "She curls her short hair into close-lying curls, prepares coffee and chops for dinner, and waits anxiously for his reaction."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Describe Jim's reaction when he sees Della's short hair.",
+      "answer": "Jim stops inside the door, his expression fixed and peculiar. He stares at her not with anger or horror, but with an expression that Della cannot read, which terrifies her."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Why does Jim have such a peculiar reaction to Della's haircut?",
+      "answer": "Jim's reaction is due to the shock of realizing that the expensive combs he has bought for her beautiful hair are now useless."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What is the irony in Jim's gift to Della?",
+      "answer": "The irony is that Jim sold his most prized possession, his watch, to buy combs for Della's hair, which she had just sold to buy a chain for his watch."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is the irony in Della's gift to Jim?",
+      "answer": "The irony is that Della sold her most prized possession, her hair, to buy a fob chain for Jim's watch, which he had just sold to buy combs for her hair."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Why does the narrator call Jim and Della \"foolish children\" initially?",
+      "answer": "He calls them foolish because they sacrificed their greatest treasures for gifts that became practically useless."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Why does the narrator ultimately conclude that they are the \"wisest\"?",
+      "answer": "He concludes they are the wisest because their sacrifices were driven by pure, unselfish love, embodying the true spirit of giving, like the Magi."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the significance of the title \"The Gift of the Magi\"?",
+      "answer": "It compares Jim and Della's sacrificial gifts to the wise gifts brought by the Magi to the baby Jesus, highlighting the wisdom of selfless giving rooted in love."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What does the repetition of the word \"grey\" in the early part of the story symbolize?",
+      "answer": "The repetition of \"grey\" symbolizes the cheerless, impoverished, and somewhat hopeless atmosphere of Della's life before her act of giving."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "How does Della try to comfort Jim after opening his gift?",
+      "answer": "She hugs the combs to her breast and tells him that her hair grows very fast."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What does Jim do instead of showing Della his watch when she asks for it?",
+      "answer": "He tumbles onto the couch, puts his hands behind his head, smiles, and suggests they put the presents away for a while."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Who invented the art of giving Christmas presents according to the narrator?",
+      "answer": "The Magi, the wise men who brought gifts to the Babe in the manger, invented the art of giving Christmas presents."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What message does O. Henry convey about the value of gifts?",
+      "answer": "He conveys that the true value of a gift lies not in its material worth or practical use, but in the love and sacrifice behind it."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "How does the setting of a shabby flat contribute to the story?",
+      "answer": "The shabby flat highlights their poverty, making their sacrifices of their only valuable possessions even more significant and poignant."
+    },
+    {
+      "question_id": 51,
+      "question_type": "LONG",
+      "question": "Analyze the theme of love and sacrifice in \"The Gift of the Magi.\" How do the actions of Della and Jim demonstrate this theme?",
+      "answer": "The theme of love and sacrifice is central to \"The Gift of the Magi.\" Both Della and Jim possess one treasure that they value above all else: Della her hair, and Jim his watch. Their love for each other is so profound that they are willing to part with these prized possessions to buy a worthy Christmas gift for the other. Della sacrifices her beautiful hair to buy a platinum chain for Jim's watch, wanting him to feel proud of it. Jim sacrifices his heirloom watch to buy expensive tortoiseshell combs for Della's hair, knowing how much she admired them. Their actions are driven not by practicality but by a deep desire to express their love through a significant gift. The irony that their gifts become useless only emphasizes the magnitude of their sacrifice. Their willingness to give up what they value most for the happiness of the other is the ultimate testament to their selfless love."
+    },
+    {
+      "question_id": 52,
+      "question_type": "LONG",
+      "question": "Discuss the role of situational irony in the story. How does it affect the characters and the overall message of the narrative?",
+      "answer": "Situational irony is the backbone of \"The Gift of the Magi.\" It occurs when the outcome of a situation is the opposite of what is expected. In the story, both Della and Jim sacrifice their most treasured possessions to buy accessories for the other's treasure. Della sells her hair for a watch chain, and Jim sells his watch for hair combs. The irony lies in the fact that by the time they exchange gifts, the distinct treasures the gifts were intended for are gone. This irony affects the characters deeply; Jim is momentarily stunned, and Della is moved to tears and then tries to comfort Jim. However, the irony does not lead to bitterness or regret. Instead, it highlights the purity of their love. The uselessness of the material gifts serves to elevate the spiritual value of their sacrifice, reinforcing the message that true giving is about the intent and sacrifice, not the utility of the object."
+    },
+    {
+      "question_id": 53,
+      "question_type": "LONG",
+      "question": "Explain the significance of the title \"The Gift of the Magi\" and the narrator's final comparison of Jim and Della to the Magi.",
+      "answer": "The title \"The Gift of the Magi\" alludes to the biblical story of the three wise men (Magi) who brought gifts of gold, frankincense, and myrrh to the baby Jesus. These gifts were expressions of adoration and respect. In the story, the narrator initially calls Jim and Della \"foolish children\" for sacrificing their greatest treasures. However, in the final paragraph, he re-evaluates their actions and declares them the \"wisest\" of all who give gifts. He asserts that they are the true Magi. Their wisdom lies not in the practical value of their gifts but in the sacrificial love that motivated them. Like the original Magi, their giving is an act of worship and profound love. The title and the final comparison underscore the story's moral: that the greatest gifts are acts of self-sacrifice inspired by love, making the givers truly wise."
+    },
+    {
+      "question_id": 54,
+      "question_type": "LONG",
+      "question": "Analyze the symbolism of the two main prized possessions in the story: Della's hair and Jim's gold watch.",
+      "answer": "Della's hair and Jim's gold watch are powerful symbols in the story. Della's long, beautiful hair represents her femininity, beauty, and perhaps her vanity, but it is also her crowning glory and her most valuable physical asset. Her willingness to cut it off symbolizes the depth of her love and her prioritizing of Jim's happiness over her own beauty. Jim's gold watch, an heirloom from his father and grandfather, represents tradition, family heritage, and his sense of dignity and worth. Despite his shabby clothes, the watch allows him to feel a sense of pride. His sacrifice of the watch symbolizes his commitment to Della and his willingness to part with his legacy for her sake. Together, these possessions represent the characters' identities and their most valuable material connection to the world. Sacrificing them is a profound act that demonstrates that their love for each other transcends material value, personal vanity, and tradition."
+    },
+    {
+      "question_id": 55,
+      "question_type": "LONG",
+      "question": "Describe the impact of poverty on Jim and Della's lives and decisions in the story.",
+      "answer": "Poverty is a pervasive force in Jim and Della's lives, shaping their environment and driving the plot. The description of their shabby $8-a-week flat, the broken doorbell, the blurred name on the letter-box, and Della's old brown jacket and hat all paint a picture of financial struggle. Jim's reduced income from $30 to $20 a week adds to their hardship. Della's desperate saving of pennies by bulldozing grocers highlights the constant anxiety about money. Poverty is the catalyst for their central dilemma: wanting to give a worthy Christmas gift without the means to do so. It forces them to make the difficult decision to sacrifice their only valuable possessions. Their actions are not grand gestures of wealthy people but desperate, loving acts of people with nothing else to give. The story shows how poverty can limit material choices but cannot diminish the capacity for love and sacrifice."
+    },
+    {
+      "question_id": 56,
+      "question_type": "LONG",
+      "question": "Examine the narrator's voice and tone in the story. How does the narrator's commentary influence the reader's interpretation?",
+      "answer": "The narrator in \"The Gift of the Magi\" has a distinct, intrusive, and sympathetic voice. The tone is often warm, slightly humorous, and moralizing. The narrator directly addresses the reader, offers opinions on the characters ('two foolish children'), and makes grand comparisons (Queen of Sheba, King Solomon) that elevate the simple story. This narrative style guides the reader's interpretation. By initially calling them foolish and then correcting himself to call them the wisest, the narrator explicitly states the story's moral. The commentary on the nature of giving, the references to the Magi, and the philosophical asides ensure that the reader sees beyond the surface-level irony to the deeper theme of sacrificial love. The narrator's empathy for the characters' poverty and his admiration for their love shape the reader's emotional response, making the story a heartwarming parable rather than a simple tragedy of errors."
+    },
+    {
+      "question_id": 57,
+      "question_type": "LONG",
+      "question": "Compare and contrast the characters of Jim and Della. How do their individual actions reflect their shared values?",
+      "answer": "Jim and Della are very similar in their core values, deeply loving and devoted to each other. Both are defined by their selflessness and willingness to sacrifice for the other's happiness. They both possess one treasured item and independently decide to sell it to buy a gift for the other. Della is portrayed as more emotionally expressive; she cries, she screams with joy, she actively seeks a solution, and she worries about her appearance for Jim. Jim is presented as more quiet, steady, and stoic. His reaction to seeing Della's hair is one of stunned silence, and his response to the ironic situation is to calmly suggest putting the gifts away. Despite these outward differences in temperament, their actions are mirrors of each other. Their separate but identical decisions to sacrifice their greatest treasures reflect a shared value system where love and the happiness of their partner far outweigh personal possessions or vanity."
+    },
+    {
+      "question_id": 58,
+      "question_type": "LONG",
+      "question": "Discuss the significance of the comparisons to the Queen of Sheba and King Solomon. How do these hyperboles function in the story?",
+      "answer": "The narrator uses hyperbolic comparisons to the Queen of Sheba and King Solomon to emphasize the immense subjective value Della and Jim place on their hair and watch, respectively. By suggesting that the Queen of Sheba would be envious of Della's hair and King Solomon of Jim's watch, the narrator elevates these simple possessions to the status of legendary treasures. This serves two purposes. First, it highlights the poverty of Jim and Della; their only treasures are their own natural attributes or inherited items, not vast riches. Second, and more importantly, it magnifies the scale of their sacrifice. If their possessions are worth more than the riches of biblical royalty, then giving them up is an act of monumental generosity. These hyperboles underscore that the value of their sacrifice is not measured in dollars but in the emotional weight attached to what they gave up."
+    },
+    {
+      "question_id": 59,
+      "question_type": "LONG",
+      "question": "Analyze the ending of the story. Is it a happy or a sad ending? Justify your perspective with evidence from the text.",
+      "answer": "The ending of \"The Gift of the Magi\" is bittersweet but ultimately happy and uplifting. On a material level, it is sad: Jim and Della are left with useless gifts and have lost their most treasured possessions. The immediate reaction to the discovery is one of shock and tears. However, on a deeper emotional and spiritual level, it is a profoundly happy ending. The realization of what they have done for each other confirms the depth of their love. Jim's calm reaction, his smile, and his suggestion to keep the gifts, and Della's comforting words about her hair growing back, show their resilience and unwavering bond. The narrator's final commentary declaring them the \"wisest\" of givers reinforces the positive message. The story concludes that while they are materially poorer, they are spiritually richer because they possess the greatest treasure of all: selfless love. Therefore, the ending is a celebration of their enduring love, making it a happy one."
+    },
+    {
+      "question_id": 60,
+      "question_type": "LONG",
+      "question": "How does O. Henry build suspense and lead to the surprise ending in \"The Gift of the Magi\"?",
+      "answer": "O. Henry masterfully builds suspense and crafts a surprise ending through careful plotting and misdirection. The story starts by establishing Della's desperate need for money and her deep love for Jim, creating immediate tension. Her decision to sell her hair is a dramatic turning point that raises the stakes. The reader follows her anxious search for the perfect gift and her subsequent worry about Jim's reaction to her new look. The suspense peaks as she waits for him to arrive. When Jim enters, his strange, unreadable reaction prolongs the tension. The first surprise comes when Jim reveals the combs, making Della's sacrifice painfully ironic. The second, and greater, surprise is revealed when Della gives Jim the chain, and he confesses he sold his watch. O. Henry hides Jim's actions until the very end, allowing the reader to experience the full impact of the double irony simultaneously with the characters. This careful structuring makes the twist ending powerful and memorable."
+    },
+    {
+      "question_id": 61,
+      "question_type": "MCQ",
+      "question": "What does Della do right after counting her money three times?",
+      "options": [
+        { "option_id": 1, "text": "She goes shopping.", "is_correct": false },
+        { "option_id": 2, "text": "She laughs out loud.", "is_correct": false },
+        { "option_id": 3, "text": "She flops down on the couch and howls.", "is_correct": true },
+        { "option_id": 4, "text": "She starts cooking dinner.", "is_correct": false }
+      ],
+      "answer": "She flops down on the couch and howls."
+    },
+    {
+      "question_id": 62,
+      "question_type": "MCQ",
+      "question": "How does the narrator describe the couple's flat?",
+      "options": [
+        { "option_id": 1, "text": "Luxurious and spacious", "is_correct": false },
+        { "option_id": 2, "text": "A furnished flat at $8 per week", "is_correct": true },
+        { "option_id": 3, "text": "A modern apartment in a high-rise", "is_correct": false },
+        { "option_id": 4, "text": "A small cottage outside the city", "is_correct": false }
+      ],
+      "answer": "A furnished flat at $8 per week"
+    },
+    {
+      "question_id": 63,
+      "question_type": "MCQ",
+      "question": "What does the narrator say about the 'Dillingham' name on the letter-box during Jim's period of prosperity?",
+      "options": [
+        { "option_id": 1, "text": "It was written in bold, gold letters.", "is_correct": false },
+        { "option_id": 2, "text": "It had been flung to the breeze.", "is_correct": true },
+        { "option_id": 3, "text": "It was always blurred and indistinct.", "is_correct": false },
+        { "option_id": 4, "text": "It was barely visible.", "is_correct": false }
+      ],
+      "answer": "It had been flung to the breeze."
+    },
+    {
+      "question_id": 64,
+      "question_type": "MCQ",
+      "question": "How does Della's hair look after she curls it?",
+      "options": [
+        { "option_id": 1, "text": "Like a boy's hair", "is_correct": false },
+        { "option_id": 2, "text": "Like a truant schoolboy", "is_correct": true },
+        { "option_id": 3, "text": "Like a famous actress", "is_correct": false },
+        { "option_id": 4, "text": "Like it was before", "is_correct": false }
+      ],
+      "answer": "Like a truant schoolboy"
+    },
+    {
+      "question_id": 65,
+      "question_type": "MCQ",
+      "question": "What does Della pray for when she hears Jim coming up the steps?",
+      "options": [
+        { "option_id": 1, "text": "That he got her a good present", "is_correct": false },
+        { "option_id": 2, "text": "That he isn't angry", "is_correct": false },
+        { "option_id": 3, "text": "Please God, make him think I am still pretty.", "is_correct": true },
+        { "option_id": 4, "text": "That he won't notice her hair", "is_correct": false }
+      ],
+      "answer": "Please God, make him think I am still pretty."
+    },
+    {
+      "question_id": 66,
+      "question_type": "MCQ",
+      "question": "What is Jim's expression that terrifies Della?",
+      "options": [
+        { "option_id": 1, "text": "A look of pure rage", "is_correct": false },
+        { "option_id": 2, "text": "A look of deep sadness", "is_correct": false },
+        { "option_id": 3, "text": "An expression she could not read", "is_correct": true },
+        { "option_id": 4, "text": "A look of disappointment", "is_correct": false }
+      ],
+      "answer": "An expression she could not read"
+    },
+    {
+      "question_id": 67,
+      "question_type": "MCQ",
+      "question": "Describe the combs Jim buys for Della.",
+      "options": [
+        { "option_id": 1, "text": "Simple plastic combs", "is_correct": false },
+        { "option_id": 2, "text": "Metal combs with silver trim", "is_correct": false },
+        { "option_id": 3, "text": "Beautiful combs of pure tortoise shell, with jewelled rims", "is_correct": true },
+        { "option_id": 4, "text": "Wooden combs carved by hand", "is_correct": false }
+      ],
+      "answer": "Beautiful combs of pure tortoise shell, with jewelled rims"
+    },
+    {
+      "question_id": 68,
+      "question_type": "MCQ",
+      "question": "Where had Della seen the combs before?",
+      "options": [
+        { "option_id": 1, "text": "In a magazine", "is_correct": false },
+        { "option_id": 2, "text": "In a Broadway window", "is_correct": true },
+        { "option_id": 3, "text": "On a friend's hair", "is_correct": false },
+        { "option_id": 4, "text": "In a catalogue", "is_correct": false }
+      ],
+      "answer": "In a Broadway window"
+    },
+    {
+      "question_id": 69,
+      "question_type": "MCQ",
+      "question": "What does Jim do after Della shows him the fob chain?",
+      "options": [
+        { "option_id": 1, "text": "He tries it on his watch.", "is_correct": false },
+        { "option_id": 2, "text": "He cries.", "is_correct": false },
+        { "option_id": 3, "text": "He gets angry.", "is_correct": false },
+        { "option_id": 4, "text": "He tumbles down on the couch and smiles.", "is_correct": true }
+      ],
+      "answer": "He tumbles down on the couch and smiles."
+    },
+    {
+      "question_id": 70,
+      "question_type": "MCQ",
+      "question": "What does the narrator suggest about the value of the platinum chain?",
+      "options": [
+        { "option_id": 1, "text": "It was flashy and ornamental.", "is_correct": false },
+        { "option_id": 2, "text": "It was cheap-looking.", "is_correct": false },
+        { "option_id": 3, "text": "It proclaimed its value by substance alone.", "is_correct": true },
+        { "option_id": 4, "text": "It was too expensive for what it was.", "is_correct": false }
+      ],
+      "answer": "It proclaimed its value by substance alone."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the significance of the \"mendicancy squad\" mentioned in the story?",
+      "answer": "The reference to the \"mendicancy squad\" (police who arrest beggars) highlights the severe poverty and the desperate measures people might have to take, emphasizing Della's struggle to save money."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What does the narrator mean by \"Life is made up of sobs, sniffles, and smiles, with sniffles predominating\"?",
+      "answer": "The narrator is suggesting that life is a mix of sorrow, minor troubles, and happiness, but that sadness and small difficulties ('sniffles') are more common than pure joy."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How does Della's hair compare to a waterfall?",
+      "answer": "The narrator describes Della's hair as rippling and shining \"like a cascade of brown waters,\" emphasizing its length, movement, and beauty."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why does Della feel she must buy Jim a present?",
+      "answer": "She feels a deep love for him and wants to give him something \"fine and rare and sterling,\" something worthy of being owned by him, especially for Christmas."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Describe the interaction between Della and Madame Sofronie.",
+      "answer": "The interaction is brief and business-like. Della asks if she will buy her hair, Madame Sofronie assesses it coldly, offers $20, and Della accepts immediately."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What does the narrator mean when he says Della was \"ransacking the stores\"?",
+      "answer": "It means she was searching thoroughly and energetically through many shops to find the perfect gift for Jim."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why does the platinum chain seem like the perfect gift for Jim?",
+      "answer": "It is described as having \"quietness and value,\" much like Jim's character, and it is worthy of his prized watch, unlike the old leather strap he was using."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How does Jim's appearance reflect his financial situation?",
+      "answer": "He looks thin and very serious, his overcoat is heavy, and he has no gloves, all indicating his poverty and lack of money for personal care."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What does Jim mean when he says, \"I sold the watch to get the money to buy your combs\"?",
+      "answer": "He means he sacrificed his most valuable possession to buy a gift that he knew Della desperately wanted and would love."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why does the narrator say the Magi \"invented the art of giving Christmas presents\"?",
+      "answer": "The narrator credits them because their gifts to baby Jesus were the first recorded Christmas gifts, establishing the tradition of giving wise and meaningful presents."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Explore the theme of genuine wealth versus material wealth in the story. How do Jim and Della demonstrate what it means to be truly rich?",
+      "answer": "The story starkly contrasts genuine wealth with material wealth. Materially, Jim and Della are poor; they live in a shabby flat, struggle to pay rent, and have only two possessions of any financial value. Their lack of money is a constant source of stress. However, the story argues that they are possessors of genuine wealth, which lies in their deep, selfless love for one another. Their willingness to sacrifice their only material treasures to bring happiness to the other proves that their relationship is their most valuable asset. The material gifts they buy become useless, emphasizing the fleeting nature of material things. In contrast, the love that motivated those gifts is enduring. By prioritizing their love above all else, they demonstrate that true richness comes from connection, sacrifice, and the ability to give of oneself, making them, as the narrator states, the \"wisest\" and truly rich."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "How does the author use physical descriptions of characters and settings to reflect their internal states and circumstances?",
+      "answer": "O. Henry uses physical descriptions to mirror the characters' internal lives and external reality. The \"shabby little couch,\" the \"grey fence,\" and the \"grey backyard\" reflect Della's initial feeling of hopelessness and the gloom of poverty. Della's beautiful, cascading hair is a physical manifestation of her vibrancy and a source of pride, making its sacrifice more significant. After cutting it, her curled, \"truant schoolboy\" look reflects her vulnerability and fear of Jim's disapproval. Jim's description as \"thin and very serious,\" with a worn coat and no gloves, physically embodies the burden of his financial responsibilities. The \"fixed\" and unreadable expression on his face when he sees Della conveys his internal shock and the processing of the ironic situation. The valuable, understated platinum chain and the beautiful, jewelled combs represent the deep, unspoken value they place on each other, contrasting with their shabby surroundings. These physical details are not just decorative but integral to understanding the characters' emotions and their world."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Discuss the importance of the specific gifts chosen—a watch chain and hair combs—in relation to the characters' identities.",
+      "answer": "The gifts Jim and Della choose are deeply connected to their identities and what they value in each other. Della's hair is her crowning glory, a symbol of her beauty and femininity. Jim knows how much she treasures it and desires the beautiful combs to adorn it, showing he values her pride and joy. Jim's watch is a family heirloom, representing legacy, responsibility, and his stature as the man of the house. Della wants to buy him a chain that is worthy of the watch, something that will allow him to check the time with pride in any company, reflecting her desire to uphold his dignity. By choosing gifts that enhance the other's most prized possession, they are showing a deep understanding and appreciation of what makes the other person feel special and valued. The irony that they sacrifice the very possessions these gifts were meant for makes their choices even more poignant, as it shows they valued the *other person's* happiness more than the possessions themselves."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "How does the story's conclusion regarding the \"wisest\" givers challenge modern materialistic views of gift-giving?",
+      "answer": "The story's conclusion challenges modern materialism by redefining wisdom in gift-giving. In a materialistic view, a \"wise\" gift would be practical, valuable, and useful to the recipient. By this standard, Jim and Della are foolish because their gifts become immediately useless. However, the narrator flips this perspective. He argues that true wisdom lies not in the material value or utility of the gift, but in the spirit in which it is given. The greatest gifts are acts of self-sacrifice born out of love. Jim and Della gave the ultimate gifts because they gave a part of themselves—their most treasured possessions—for the sake of the other. This act of sacrificial love is what makes them the \"wisest,\" superior to those who give out of obligation or abundance. The story asserts that the sentiment and sacrifice behind a gift are far more valuable than the object itself, a powerful counter-narrative to commercialized gift-giving."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "Imagine the story from Jim's perspective on that Christmas Eve. Describe his thoughts and feelings as he decides to sell his watch and buys the combs.",
+      "answer": "As Jim walked through the cold city on Christmas Eve, the weight of his $20-a-week salary felt heavier than usual. He knew Della, his beautiful Della, would have something wonderful for him, and the thought of coming home empty-handed was unbearable. He fingered the gold watch in his pocket—his father's, his grandfather's. It was the only thing of real value he owned, a source of quiet pride even when he had to check it furtively because of the old leather strap. He passed a shop window displaying beautiful tortoiseshell combs, the very ones Della had admired so often on Broadway. He pictured them in her long, cascading brown hair, how her eyes would light up. The thought was arresting. A fierce love for her welled up in him, outweighing any attachment to the watch. With a mix of heavy-hearted nostalgia and determined love, he walked into a pawnshop. Leaving with the combs in his pocket and no watch, he felt a strange lightness. The sacrifice was great, but the anticipation of Della's joy made it worth everything. He couldn't wait to see her face."
+    },
+    {
+      "question_id": 86,
+      "question_type": "MCQ",
+      "question": "What does the narrator mean by the 'mendicancy squad'?",
+      "options": [
+        { "option_id": 1, "text": "A group of beggars", "is_correct": false },
+        { "option_id": 2, "text": "A charity organization", "is_correct": false },
+        { "option_id": 3, "text": "Police who arrest beggars", "is_correct": true },
+        { "option_id": 4, "text": "People who give money to beggars", "is_correct": false }
+      ],
+      "answer": "Police who arrest beggars"
+    },
+    {
+      "question_id": 87,
+      "question_type": "MCQ",
+      "question": "What is a 'cheval glass'?",
+      "options": [
+        { "option_id": 1, "text": "A small hand mirror", "is_correct": false },
+        { "option_id": 2, "text": "A tall mirror mounted on a frame", "is_correct": true },
+        { "option_id": 3, "text": "A window reflecting an image", "is_correct": false },
+        { "option_id": 4, "text": "A magnifying mirror", "is_correct": false }
+      ],
+      "answer": "A tall mirror mounted on a frame"
+    },
+    {
+      "question_id": 88,
+      "question_type": "MCQ",
+      "question": "What does the word 'meretricious' mean in the description of the fob chain ('not meretricious ornamentation')?",
+      "options": [
+        { "option_id": 1, "text": "Valuable and rare", "is_correct": false },
+        { "option_id": 2, "text": "Appearing attractive but having no real value", "is_correct": true },
+        { "option_id": 3, "text": "Simple and plain", "is_correct": false },
+        { "option_id": 4, "text": "Antique and old-fashioned", "is_correct": false }
+      ],
+      "answer": "Appearing attractive but having no real value"
+    },
+    {
+      "question_id": 89,
+      "question_type": "MCQ",
+      "question": "What does 'ravages' mean in the context of Della repairing the 'ravages made by generosity added to love'?",
+      "options": [
+        { "option_id": 1, "text": "Improvements", "is_correct": false },
+        { "option_id": 2, "text": "Decorations", "is_correct": false },
+        { "option_id": 3, "text": "Damage or destruction", "is_correct": true },
+        { "option_id": 4, "text": "A hairstyle", "is_correct": false }
+      ],
+      "answer": "Damage or destruction"
+    },
+    {
+      "question_id": 90,
+      "question_type": "MCQ",
+      "question": "What does the word 'bulldozing' mean when Della was saving pennies?",
+      "options": [
+        { "option_id": 1, "text": "Stealing", "is_correct": false },
+        { "option_id": 2, "text": "Bargaining aggressively", "is_correct": true },
+        { "option_id": 3, "text": "Working hard", "is_correct": false },
+        { "option_id": 4, "text": "Begging", "is_correct": false }
+      ],
+      "answer": "Bargaining aggressively"
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What does the mention of the 'electric button' that wouldn't ring tell us about the flat?",
+      "answer": "It indicates that the flat is run-down and not well-maintained, reinforcing their poverty."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is it significant that Della's hair could have been a 'garment' for her?",
+      "answer": "It emphasizes the immense length, thickness, and beauty of her hair, making its sacrifice even more substantial."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How does Della's immediate acceptance of the $20 offer show her desperation?",
+      "answer": "It shows she was so desperate for money for Jim's gift that she didn't even try to bargain for her most prized possession."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'on rosy wings' suggest about Della's mood after selling her hair?",
+      "answer": "It suggests she felt light, happy, and elated because she now had the means to buy Jim a lovely gift."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why was Jim sometimes ashamed to look at his watch in company?",
+      "answer": "He was ashamed because of the old leather strap he had to use instead of a proper chain."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What does Della mean when she says, 'Maybe the hairs of my head were numbered... but nobody could ever count my love for you'?",
+      "answer": "She means that while her physical beauty (hair) is finite and can be sacrificed, her love for Jim is infinite and immeasurable."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why does Jim smile after Della explains about her hair and gives him the chain?",
+      "answer": "He smiles because he realizes the beautiful, ironic symmetry of their actions—they both sacrificed their greatest treasures for gifts that are now useless."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does the story indicate about the relationship between sacrifice and love?",
+      "answer": "The story indicates that true love is demonstrated through the willingness to make significant personal sacrifices for the happiness of the beloved."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How does the narrator use the comparison to the Magi to elevate the common characters of Jim and Della?",
+      "answer": "By comparing them to the wise, legendary figures who initiated the tradition of giving, the narrator lends a sense of nobility, wisdom, and timeless significance to their simple, impoverished acts of love."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What does the final paragraph suggest about the definition of 'wisdom' in gift-giving?",
+      "answer": "It suggests that true wisdom in gift-giving is not about the practical value of the gift, but about the spirit of self-sacrifice and love behind it."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "Examine the story as a commentary on the social and economic conditions of its time. What does it reveal about life for the working class in early 20th-century New York?",
+      "answer": "O. Henry's story provides a glimpse into the struggles of the working class in early 20th-century New York. The detailed description of the Dillingham Youngs' financial situation—the $8-a-week rent for a shabby flat, Jim's salary cut from $30 to $20, and Della's painstaking penny-pinching—highlights the economic precariousness of their lives. The mention of the \"mendicancy squad\" and the general atmosphere of \"grey\" suggest a harsh reality where survival is a daily challenge. Their poverty isn't abject destitution, but a constant, grinding lack of resources that defines their choices and anxieties. The immense value they place on a watch and hair emphasizes how few possessions they have to take pride in. Their desperate desire to participate in the consumer ritual of Christmas gift-giving, despite their lack of means, reflects the societal pressure to show affection through material goods, even for those barely scraping by. The story portrays a world where love and dignity fight to survive amidst economic hardship."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "Discuss the symbolic use of colours in the story, particularly 'grey' and 'gold' (implied through the watch/money) or 'brown' (hair).",
+      "answer": "Colour symbolism plays a significant role in setting the mood and highlighting themes in the story. The repetition of 'grey'—a grey cat on a grey fence in a grey backyard—at the beginning powerfully establishes Della's feeling of despondency, the drabness of her poverty, and the hopelessness of her situation. It represents the mundane, challenging reality of their lives. In contrast, Della's hair is described as a \"cascade of brown waters,\" a vibrant, natural, and beautiful colour that symbolizes her vitality, femininity, and her only source of personal glory. The gold of Jim's watch (implied, as it's a valuable heirloom) represents tradition, value, and a connection to a richer past. The platinum chain Della buys, described in terms of its intrinsic value rather than flashiness, can be seen as a kind of 'white gold,' symbolizing the purity and understated worth of their love, much like Jim's character. The interplay of these colours accentuates the contrast between their grim reality and the richness of their love and treasured possessions."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "Analyze the author's portrayal of Della as a character. Is she a stereotype of a devoted wife, or a more complex individual?",
+      "answer": "Della can be seen as a complex character who embodies certain traditional traits of a devoted wife while also showing agency and depth. On one level, she fits the stereotype: her life revolves around making a home for Jim, she is highly emotional (crying, shrieking with joy), and her greatest anxiety is about her appearance for her husband. Her entire focus on Christmas Eve is pleasing Jim. However, she also demonstrates significant agency, determination, and resilience. Faced with a problem, she doesn't just despair; she actively finds a dramatic solution by selling her hair. This act requires immense courage and willpower. She is resourceful, bargaining to save pennies and ransacking stores to find the perfect gift. Her reaction to the ironic turn of events is to comfort Jim and affirm their love, showing emotional strength. Her statement about her love being uncountable reveals a profound depth of feeling. While framed within the context of her devotion to her husband, her actions show a strength of character that goes beyond a simple stereotype."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "\"Whatever the narrator says about their wisdom, Jim and Della's actions were fundamentally foolish and impulsive.\" Argue for or against this statement.",
+      "answer": "[Argument FOR the statement]: One could argue that Jim and Della's actions were indeed foolish and impulsive. They were already living on the brink of poverty, and selling their only valuable assets for gifts that served no practical purpose was financially irresponsible. A more prudent couple would have saved that money for rent, food, or Jim's needed new coat. Their decisions were based on a momentary emotional impulse to participate in a consumerist tradition rather than on a rational assessment of their needs. They didn't communicate with each other, leading to the disaster. The narrator's initial assessment of them as \"foolish children\" was accurate from a practical standpoint. Their love, while noble, blinded them to the reality of their situation, leading to a net loss of their few assets.\n\n[Argument AGAINST the statement]: Conversely, one could argue that their actions were not foolish but mere expressions of a higher value system. To define their actions as foolish is to judge them solely by materialistic standards. Their impulsiveness was born of a deep, desperate love that couldn't bear to let Christmas pass without a significant gesture. The value of the hair and the watch was not in their market price, but in what sacrificing them meant for their relationship. They were willing to lose everything material to bring joy to the other. This prioritising of love over possessions is a form of spiritual wisdom that transcends practical calculation. As the narrator ultimately concludes, in the realm of the heart and true giving, their total self-sacrifice makes them the wisest of all."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "How does the story explore the concept of identity being tied to possessions or physical attributes?",
+      "answer": "The story explores how identity is often tied to prized possessions or physical attributes, and how sacrificing them can be a transformative experience. For Della, her long, beautiful hair is a central part of her identity and sense of self-worth; it's her glory. Cutting it off is a kind of ego-death, a shedding of a defining physical characteristic. Her fear that Jim won't love her or will think she looks like a \"chorus girl\" shows how closely her identity is linked to her hair. Similarly, Jim's watch connects him to his family lineage and gives him a sense of dignity; it's a marker of his identity as a Dillingham Young. By sacrificing these items, they are essentially giving up parts of themselves for each other. The story suggests that while these things are important to their sense of self, their true identity lies in their love for one another, which remains unshaken even when the physical symbols of their identity are gone. They prove that who they are is defined by their actions and their hearts, not what they own or look like."
+    }
+  ]
+}

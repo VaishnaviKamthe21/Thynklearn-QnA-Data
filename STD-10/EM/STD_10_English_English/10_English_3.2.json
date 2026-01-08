@@ -1,0 +1,893 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.3.2",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Night I Met Einstein"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the author of the story 'The Night I Met Einstein'?",
+      "options": [
+        { "option_id": 1, "text": "Albert Einstein", "is_correct": false },
+        { "option_id": 2, "text": "Jerome Weidman", "is_correct": true },
+        { "option_id": 3, "text": "Isaac Asimov", "is_correct": false },
+        { "option_id": 4, "text": "Bing Crosby", "is_correct": false }
+      ],
+      "answer": "Jerome Weidman"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where did the narrator meet Albert Einstein?",
+      "options": [
+        { "option_id": 1, "text": "At a science conference", "is_correct": false },
+        { "option_id": 2, "text": "At a concert hall", "is_correct": false },
+        { "option_id": 3, "text": "At a large dinner party in New York", "is_correct": true },
+        { "option_id": 4, "text": "In a library", "is_correct": false }
+      ],
+      "answer": "At a large dinner party in New York"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What was the profession of the hostess of the dinner party?",
+      "options": [
+        { "option_id": 1, "text": "Scientist", "is_correct": false },
+        { "option_id": 2, "text": "Philanthropist", "is_correct": true },
+        { "option_id": 3, "text": "Pianist", "is_correct": false },
+        { "option_id": 4, "text": "Teacher", "is_correct": false }
+      ],
+      "answer": "Philanthropist"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was the narrator's problem regarding music?",
+      "options": [
+        { "option_id": 1, "text": "He hated classical music.", "is_correct": false },
+        { "option_id": 2, "text": "He was tone-deaf.", "is_correct": true },
+        { "option_id": 3, "text": "He couldn't play any instrument.", "is_correct": false },
+        { "option_id": 4, "text": "He preferred silence.", "is_correct": false }
+      ],
+      "answer": "He was tone-deaf."
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How did the narrator describe his ability to distinguish musical tunes?",
+      "options": [
+        { "option_id": 1, "text": "He could only recognize pop songs.", "is_correct": false },
+        { "option_id": 2, "text": "He could only tell 'God Save the King' because people stood up.", "is_correct": true },
+        { "option_id": 3, "text": "He was an expert at identifying classical pieces.", "is_correct": false },
+        { "option_id": 4, "text": "He could only understand music if he read the notes.", "is_correct": false }
+      ],
+      "answer": "He could only tell 'God Save the King' because people stood up."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who was playing the music at the dinner party?",
+      "options": [
+        { "option_id": 1, "text": "Einstein", "is_correct": false },
+        { "option_id": 2, "text": "The hostess", "is_correct": false },
+        { "option_id": 3, "text": "A very famous pianist", "is_correct": true },
+        { "option_id": 4, "text": "An orchestra", "is_correct": false }
+      ],
+      "answer": "A very famous pianist"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What composer's music was being played initially?",
+      "options": [
+        { "option_id": 1, "text": "Mozart", "is_correct": false },
+        { "option_id": 2, "text": "Beethoven", "is_correct": false },
+        { "option_id": 3, "text": "Bach", "is_correct": true },
+        { "option_id": 4, "text": "Chopin", "is_correct": false }
+      ],
+      "answer": "Bach"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": " Describe Einstein's hair as mentioned in the story.",
+      "options": [
+        { "option_id": 1, "text": "Neatly combed brown hair", "is_correct": false },
+        { "option_id": 2, "text": "Bald head", "is_correct": false },
+        { "option_id": 3, "text": "A shock of untidy white hair", "is_correct": true },
+        { "option_id": 4, "text": "Long black hair", "is_correct": false }
+      ],
+      "answer": "A shock of untidy white hair"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did Einstein hold on his knees while sitting at the dinner table?",
+      "options": [
+        { "option_id": 1, "text": "A book", "is_correct": false },
+        { "option_id": 2, "text": "A violin", "is_correct": true },
+        { "option_id": 3, "text": "A napkin", "is_correct": false },
+        { "option_id": 4, "text": "His hat", "is_correct": false }
+      ],
+      "answer": "A violin"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What did the narrator say to Einstein when asked if he liked Bach?",
+      "options": [
+        { "option_id": 1, "text": "\"I love Bach!\"", "is_correct": false },
+        { "option_id": 2, "text": "\"I prefer Mozart.\"", "is_correct": false },
+        { "option_id": 3, "text": "\"It's all Greek to me.\"", "is_correct": true },
+        { "option_id": 4, "text": "\"I don't know who Bach is.\"", "is_correct": false }
+      ],
+      "answer": "\"It's all Greek to me.\""
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What was Einstein's immediate reaction to the narrator's confession about not understanding music?",
+      "options": [
+        { "option_id": 1, "text": "He ignored him.", "is_correct": false },
+        { "option_id": 2, "text": "He laughed at him.", "is_correct": false },
+        { "option_id": 3, "text": "He rose and took the narrator by the arm.", "is_correct": true },
+        { "option_id": 4, "text": "He started explaining Bach's music right there.", "is_correct": false }
+      ],
+      "answer": "He rose and took the narrator by the arm."
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where did Einstein take the narrator?",
+      "options": [
+        { "option_id": 1, "text": "To the garden", "is_correct": false },
+        { "option_id": 2, "text": "To the kitchen", "is_correct": false },
+        { "option_id": 3, "text": "To a room upstairs with a phonograph", "is_correct": true },
+        { "option_id": 4, "text": "To the concert hall", "is_correct": false }
+      ],
+      "answer": "To a room upstairs with a phonograph"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What analogy did Einstein use to explain learning music?",
+      "options": [
+        { "option_id": 1, "text": "Learning to paint", "is_correct": false },
+        { "option_id": 2, "text": "Learning arithmetic/math", "is_correct": true },
+        { "option_id": 3, "text": "Learning a new language", "is_correct": false },
+        { "option_id": 4, "text": "Learning to cook", "is_correct": false }
+      ],
+      "answer": "Learning arithmetic/math"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What was the first musical artist the narrator mentioned liking?",
+      "options": [
+        { "option_id": 1, "text": "Mozart", "is_correct": false },
+        { "option_id": 2, "text": "Bing Crosby", "is_correct": true },
+        { "option_id": 3, "text": "Elvis Presley", "is_correct": false },
+        { "option_id": 4, "text": "John McCormack", "is_correct": false }
+      ],
+      "answer": "Bing Crosby"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What song did Einstein first play for the narrator on the phonograph?",
+      "options": [
+        { "option_id": 1, "text": "A Bach concerto", "is_correct": false },
+        { "option_id": 2, "text": "\"When the Blue of the Night\"", "is_correct": true },
+        { "option_id": 3, "text": "\"The Trumpeter\"", "is_correct": false },
+        { "option_id": 4, "text": "A Mozart symphony", "is_correct": false }
+      ],
+      "answer": "\"When the Blue of the Night\""
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What did Einstein ask the narrator to do while the first song played?",
+      "options": [
+        { "option_id": 1, "text": "Dance to it", "is_correct": false },
+        { "option_id": 2, "text": "Write down the lyrics", "is_correct": false },
+        { "option_id": 3, "text": "Sing it back to him", "is_correct": true },
+        { "option_id": 4, "text": "Just listen carefully", "is_correct": false }
+      ],
+      "answer": "Sing it back to him"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Whose record did Einstein play after Bing Crosby?",
+      "options": [
+        { "option_id": 1, "text": "Frank Sinatra", "is_correct": false },
+        { "option_id": 2, "text": "John McCormack", "is_correct": true },
+        { "option_id": 3, "text": "Luciano Pavarotti", "is_correct": false },
+        { "option_id": 4, "text": "Enrico Caruso", "is_correct": false }
+      ],
+      "answer": "John McCormack"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What song did John McCormack sing in the record?",
+      "options": [
+        { "option_id": 1, "text": "\"White Christmas\"", "is_correct": false },
+        { "option_id": 2, "text": "\"The Trumpeter\"", "is_correct": true },
+        { "option_id": 3, "text": "\"Ave Maria\"", "is_correct": false },
+        { "option_id": 4, "text": "\"O Sole Mio\"", "is_correct": false }
+      ],
+      "answer": "\"The Trumpeter\""
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "How did Einstein know the narrator was successfully following the music?",
+      "options": [
+        { "option_id": 1, "text": "The narrator was tapping his foot.", "is_correct": false },
+        { "option_id": 2, "text": "The narrator could hum the tunes back correctly.", "is_correct": true },
+        { "option_id": 3, "text": "The narrator was smiling.", "is_correct": false },
+        { "option_id": 4, "text": "The narrator explicitly said he understood.", "is_correct": false }
+      ],
+      "answer": "The narrator could hum the tunes back correctly."
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which composer's music did Einstein play last, after Mozart?",
+      "options": [
+        { "option_id": 1, "text": "Beethoven", "is_correct": false },
+        { "option_id": 2, "text": "Chopin", "is_correct": false },
+        { "option_id": 3, "text": "Bach", "is_correct": true },
+        { "option_id": 4, "text": "Tchaikovsky", "is_correct": false }
+      ],
+      "answer": "Bach"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What did Einstein tell the narrator he was ready for after listening to Mozart?",
+      "options": [
+        { "option_id": 1, "text": "Ready for bed", "is_correct": false },
+        { "option_id": 2, "text": "Ready for dinner", "is_correct": false },
+        { "option_id": 3, "text": "Ready for Bach", "is_correct": true },
+        { "option_id": 4, "text": "Ready to play the violin", "is_correct": false }
+      ],
+      "answer": "Ready for Bach"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How did the narrator feel after listening to the final piece by Bach?",
+      "options": [
+        { "option_id": 1, "text": "Bored and sleepy", "is_correct": false },
+        { "option_id": 2, "text": "Confused and frustrated", "is_correct": false },
+        { "option_id": 3, "text": "Awed and amazed that he could hear the music", "is_correct": true },
+        { "option_id": 4, "text": "Indifferent", "is_correct": false }
+      ],
+      "answer": "Awed and amazed that he could hear the music"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What was the hostess's reaction when Einstein and the narrator returned to the drawing room?",
+      "options": [
+        { "option_id": 1, "text": "She was happy they had a good time.", "is_correct": false },
+        { "option_id": 2, "text": "She was indifferent.", "is_correct": false },
+        { "option_id": 3, "text": "She looked reproachful.", "is_correct": true },
+        { "option_id": 4, "text": "She asked them to perform.", "is_correct": false }
+      ],
+      "answer": "She looked reproachful."
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Why was the hostess angry with Einstein and the narrator?",
+      "options": [
+        { "option_id": 1, "text": "They broke the phonograph.", "is_correct": false },
+        { "option_id": 2, "text": "They missed the concert by the famous pianist.", "is_correct": true },
+        { "option_id": 3, "text": "They ate all the food.", "is_correct": false },
+        { "option_id": 4, "text": "They were too loud upstairs.", "is_correct": false }
+      ],
+      "answer": "They missed the concert by the famous pianist."
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "According to Einstein, what is the greatest activity a human being is capable of?",
+      "options": [
+        { "option_id": 1, "text": "Discovering scientific theories", "is_correct": false },
+        { "option_id": 2, "text": "Playing the violin perfectly", "is_correct": false },
+        { "option_id": 3, "text": "Opening up one's soul to beauty", "is_correct": true },
+        { "option_id": 4, "text": "Teaching others", "is_correct": false }
+      ],
+      "answer": "Opening up one's soul to beauty"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The word 'philanthropist' means:",
+      "options": [
+        { "option_id": 1, "text": "A person who loves music", "is_correct": false },
+        { "option_id": 2, "text": "A person who collects stamps", "is_correct": false },
+        { "option_id": 3, "text": "A person who seeks to promote the welfare of others, especially by donating money", "is_correct": true },
+        { "option_id": 4, "text": "A famous scientist", "is_correct": false }
+      ],
+      "answer": "A person who seeks to promote the welfare of others, especially by donating money"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The phrase 'It's all Greek to me' means:",
+      "options": [
+        { "option_id": 1, "text": "I understand it perfectly.", "is_correct": false },
+        { "option_id": 2, "text": "I love Greek music.", "is_correct": false },
+        { "option_id": 3, "text": "I don't understand it at all.", "is_correct": true },
+        { "option_id": 4, "text": "It sounds like a foreign language.", "is_correct": false }
+      ],
+      "answer": "I don't understand it at all."
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What does the word 'ingenuity' mean in the context of the story?",
+      "options": [
+        { "option_id": 1, "text": "Ignorance", "is_correct": false },
+        { "option_id": 2, "text": "Cleverness or inventiveness", "is_correct": true },
+        { "option_id": 3, "text": "Stupidity", "is_correct": false },
+        { "option_id": 4, "text": "Honesty", "is_correct": false }
+      ],
+      "answer": "Cleverness or inventiveness"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The word 'reproachful' suggests the hostess was feeling:",
+      "options": [
+        { "option_id": 1, "text": "Happy and relieved", "is_correct": false },
+        { "option_id": 2, "text": "Sad and depressed", "is_correct": false },
+        { "option_id": 3, "text": "Expressing disapproval or disappointment", "is_correct": true },
+        { "option_id": 4, "text": "Excited and eager", "is_correct": false }
+      ],
+      "answer": "Expressing disapproval or disappointment"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What instrument did the famous pianist play at the party?",
+      "options": [
+        { "option_id": 1, "text": "Violin", "is_correct": false },
+        { "option_id": 2, "text": "Piano", "is_correct": true },
+        { "option_id": 3, "text": "Flute", "is_correct": false },
+        { "option_id": 4, "text": "Guitar", "is_correct": false }
+      ],
+      "answer": "Piano"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What did the narrator feel when the music started?",
+      "options": [
+        { "option_id": 1, "text": "Excited", "is_correct": false },
+        { "option_id": 2, "text": "Trapped", "is_correct": true },
+        { "option_id": 3, "text": "Relaxed", "is_correct": false },
+        { "option_id": 4, "text": "Hungry", "is_correct": false }
+      ],
+      "answer": "Trapped"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "How did the narrator describe Einstein's eyes?",
+      "options": [
+        { "option_id": 1, "text": "Cold and stern", "is_correct": false },
+        { "option_id": 2, "text": "Unusually warm", "is_correct": true },
+        { "option_id": 3, "text": "Dull and tired", "is_correct": false },
+        { "option_id": 4, "text": "Sharp and piercing", "is_correct": false }
+      ],
+      "answer": "Unusually warm"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What did Einstein say about teaching addition?",
+      "options": [
+        { "option_id": 1, "text": "You start with complex problems.", "is_correct": false },
+        { "option_id": 2, "text": "You start by teaching 1 + 1 = 2.", "is_correct": true },
+        { "option_id": 3, "text": "It's impossible to teach.", "is_correct": false },
+        { "option_id": 4, "text": "You need a calculator.", "is_correct": false }
+      ],
+      "answer": "You start by teaching 1 + 1 = 2."
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "How did Einstein feel when the narrator successfully hummed back the songs?",
+      "options": [
+        { "option_id": 1, "text": "He was disappointed.", "is_correct": false },
+        { "option_id": 2, "text": "He was pleased.", "is_correct": true },
+        { "option_id": 3, "text": "He was angry.", "is_correct": false },
+        { "option_id": 4, "text": "He was bored.", "is_correct": false }
+      ],
+      "answer": "He was pleased."
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What did Einstein say they were doing when the hostess asked where they had been?",
+      "options": [
+        { "option_id": 1, "text": "Hiding", "is_correct": false },
+        { "option_id": 2, "text": "Talking science", "is_correct": false },
+        { "option_id": 3, "text": "Engaging in the greatest activity of a human being", "is_correct": true },
+        { "option_id": 4, "text": "Sleeping", "is_correct": false }
+      ],
+      "answer": "Engaging in the greatest activity of a human being"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Who was the narrator of the story?",
+      "answer": "The narrator of the story is Jerome Weidman."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Why was the narrator invited to the dinner party?",
+      "answer": "The narrator was invited to the dinner party because he was a young and promising writer."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What did the narrator mean when he said he was 'tone-deaf'?",
+      "answer": "He meant that he had no ear for music and could not distinguish between different tunes or appreciate complex music."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "How did the narrator recognize 'God Save the King'?",
+      "answer": "He recognized it only because everyone in the room would stand up when it was played."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Describe the appearance of the man sitting next to the narrator at the dinner.",
+      "answer": "He had a shock of untidy white hair, an unusually warm gaze, and was holding a violin."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Why did the narrator feel trapped when the pianist started playing?",
+      "answer": "He felt trapped because he couldn't understand or enjoy the music, and social etiquette required him to sit silently and listen."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What did Einstein ask the narrator when the music stopped?",
+      "answer": "Einstein asked the narrator, \"You are fond of Bach?\""
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What does the phrase 'It's all Greek to me' signify in the context of the story?",
+      "answer": "It signifies that the narrator did not understand classical music, specifically Bach, at all."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What was Einstein's reaction to the narrator's admission of ignorance about music?",
+      "answer": "Instead of being dismissive, Einstein led the narrator away to help him understand music."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Where did Einstein take the narrator to teach him about music?",
+      "answer": "Einstein took the narrator to a room upstairs that contained a phonograph."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What analogy did Einstein use to explain why the narrator couldn't understand Bach?",
+      "answer": "Einstein compared it to trying to teach long division or fractions to someone who hasn't yet learned basic addition like 1 + 1 = 2."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What kind of music did the narrator tell Einstein he liked?",
+      "answer": "The narrator told Einstein he liked songs with words and catchy tunes, mentioning Bing Crosby."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What was the first song Einstein played on the phonograph?",
+      "answer": "Einstein played \"When the Blue of the Night\" by Bing Crosby."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What did Einstein ask the narrator to do after playing the Bing Crosby song?",
+      "answer": "Einstein asked the narrator to sing back the song to him."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Why did Einstein play John McCormack's \"The Trumpeter\"?",
+      "answer": "It was a slightly more complex piece of music, a step up from Bing Crosby, to gradually test the narrator's musical ability."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "How did Einstein verify that the narrator was following the more complex music?",
+      "answer": "He asked the narrator to hum the tunes back to him."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What was the progression of music that Einstein played for the narrator?",
+      "answer": "He started with simple songs like Bing Crosby, then moved to slightly more complex ones like John McCormack, then to Mozart, and finally to Bach."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What did Einstein mean when he said, \"Now we are ready for Bach!\"?",
+      "answer": "He meant that the narrator had successfully grasped the simpler forms of music and was now prepared to understand the complexity of Bach."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How did the narrator feel when he finally listened to Bach with understanding?",
+      "answer": "He felt awed and amazed to discover that he was not really tone-deaf and could appreciate the music."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why was the hostess angry when Einstein and the narrator returned?",
+      "answer": "She was angry because they had missed the entire performance by the famous pianist."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What explanation did Einstein give the hostess for their absence?",
+      "answer": "Einstein said they were engaged in the \"greatest activity of a human being\" – opening up one's soul to beauty."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does the story tell us about Einstein's character beyond being a scientist?",
+      "answer": "It shows he was patient, kind, a good teacher, and deeply appreciative of arts and humanity."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the main theme of the story?",
+      "answer": "The main theme is that anyone can learn to appreciate art and beauty if taught with patience and by starting from the basics."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Explain the term 'concert' based on the warming up section.",
+      "answer": "A concert is a performance of music by players or singers not involving theatrical staging."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Identify one difference between classical music and light music.",
+      "answer": "Classical music follows strict rules and structure, while light music is freer, often with catchy tunes and lyrics."
+    },
+    {
+      "question_id": 61,
+      "question_type": "LONG",
+      "question": "Describe the narrator's initial attitude towards music and how it changed after his encounter with Einstein.",
+      "answer": "Initially, the narrator believed he was completely 'tone-deaf' and had no ability to understand or enjoy music, especially classical music. He felt trapped and bored at concerts. When Einstein asked him about Bach, he honestly replied, 'It's all Greek to me.' However, after Einstein patiently led him through a process of listening to simpler songs like Bing Crosby and gradually moving to more complex pieces by John McCormack, Mozart, and finally Bach, his attitude changed dramatically. He realized he could actually hear and appreciate the tunes. Listening to Bach at the end left him feeling awed and amazed at the beauty he had previously missed. He discovered that he was not tone-deaf after all, but just needed the right guidance."
+    },
+    {
+      "question_id": 62,
+      "question_type": "LONG",
+      "question": "Explain the method Einstein used to teach the narrator to appreciate music. Why was this method effective?",
+      "answer": "Einstein used a step-by-step, foundational approach to teach the narrator music. He didn't start with complex classical music, which the narrator found unintelligible. Instead, he used the analogy of teaching mathematics, stating that you cannot teach long division to someone who doesn't know basic addition (1+1=2). He started with something the narrator already knew and liked – simple songs with words and catchy tunes, like Bing Crosby. By asking the narrator to sing back the tunes, he confirmed that the narrator could indeed perceive melody. Then, he gradually introduced slightly more complex music, checking for understanding at each step by having the narrator hum along. This method was effective because it built confidence in the narrator, showed him he wasn't tone-deaf, and provided the necessary building blocks to understand increasingly complex musical structures, finally leading him to appreciate Bach."
+    },
+    {
+      "question_id": 63,
+      "question_type": "LONG",
+      "question": "What does the story reveal about Albert Einstein's personality? Use evidence from the text to support your answer.",
+      "answer": "The story reveals several aspects of Albert Einstein's personality beyond his fame as a physicist. \n1. **Warmth and Kindness:** The narrator describes Einstein's eyes as having an 'unusually warm' gaze. Despite his stature, he was approachable. \n2. **Patience and Empathy:** When the narrator admitted his ignorance of music, Einstein didn't dismiss or mock him. Instead, he patiently took him aside to help him, understanding his difficulty. \n3. **Great Teacher:** Einstein used a simple yet effective pedagogical method – starting from the basics and building up gradually, using analogies (math) that the learner could understand. \n4. **Deep Appreciation for Art:** Einstein's final statement about the 'greatest activity of a human being' being the opening of one's soul to beauty shows his profound regard for art and music. \n5. **Humility:** He focused on helping a young, unknown writer understand music, rather than flaunting his own knowledge or status at the party."
+    },
+    {
+      "question_id": 64,
+      "question_type": "LONG",
+      "question": "Analyze the significance of the hostess's reaction at the end of the story and Einstein's response to her.",
+      "answer": "The hostess's reproachful look signifies the social norms and expectations of the high-society dinner party. She was upset because Einstein and the narrator had violated etiquette by missing the main event – the concert by the famous pianist. Her reaction represents a superficial appreciation of art, where being present at the event is more important than the genuine experience of it. Einstein's response, \"We were engaged in the greatest activity of a human being... opening up his soul to beauty,\" is significant because it redefines what is truly important. He elevates the genuine act of learning and appreciating music – which the narrator experienced upstairs – above the mere social obligation of attending a concert downstairs. His response highlights the difference between authentic engagement with art and superficial social compliance."
+    },
+    {
+      "question_id": 65,
+      "question_type": "LONG",
+      "question": "\"You are not tone-deaf.\" How did Einstein prove this statement to the narrator?",
+      "answer": "Einstein proved to the narrator that he was not tone-deaf through a practical experiment. He took the narrator to a room with a phonograph and started by playing music the narrator said he liked – simple songs with words by Bing Crosby. He then asked the narrator to sing the song back to him. When the narrator did so successfully, Einstein proved that the narrator's ear could hear and reproduce melody. He then repeated this process with slightly more complex music, like \"The Trumpeter\" by John McCormack, asking the narrator to hum the tune. The narrator's ability to follow and reproduce these tunes confirmed that his auditory apparatus for music was functional. Einstein showed him that his problem wasn't a physical inability to hear tones, but a lack of training and exposure to build upon fundamental musical concepts."
+    },
+    {
+      "question_id": 66,
+      "question_type": "LONG",
+      "question": "Discuss the statement: \"The greatest activity of a human being is what he does now... opening up his soul to beauty.\" In what context was it said and what does it mean?",
+      "answer": "This statement was made by Albert Einstein at the very end of the story. He and the narrator had just returned to the drawing room after missing the concert by a famous pianist, and their hostess looked at them reproachfully. Einstein said this to apologize and explain their absence. In this context, it means that the genuine act of learning to appreciate music that the narrator experienced upstairs was a far more valuable and significant human endeavor than simply sitting through a concert out of social obligation. More broadly, it implies that the pursuit of beauty, art, and genuine understanding is the highest calling of humanity, surpassing mundane social duties. It highlights the transformative power of art to touch the human soul."
+    },
+    {
+      "question_id": 67,
+      "question_type": "LONG",
+      "question": "Imagine you are the narrator, Jerome Weidman. Write a diary entry reflecting on the night you met Einstein and how it changed your perspective on music and learning.",
+      "answer": "**Diary Entry: The Night Everything Changed**\n\nDear Diary,\n\nTonight was extraordinary. I went to a stuffy dinner party, dreading the inevitable musical performance. As usual, when the pianist started, I felt trapped in my own 'tone-deafness'. But then, the man next to me – with wild white hair and warm eyes – changed everything. It was Albert Einstein himself! When I confessed music was 'all Greek' to me, he didn't laugh. He took me upstairs and, with incredible patience, taught me how to listen. He started with Bing Crosby, for heaven's sake! He showed me that learning music is like learning math – you start with 1+1. Step by step, from Bing to Mozart to Bach, he opened my ears. I'm not tone-deaf! I heard the beauty in Bach for the first time tonight. I feel awed. He taught me that the greatest human activity is opening up our souls to beauty. I will never forget his kindness and the gift of music he gave me tonight. It wasn't just a lesson in music; it was a lesson in humanity.\n\n- Jerome"
+    },
+    {
+      "question_id": 68,
+      "question_type": "LONG",
+      "question": "Based on the story, write a character sketch of the narrator.",
+      "answer": "The narrator, Jerome Weidman, is presented as a young, promising writer living in New York. Initially, he appears somewhat insecure and self-conscious about his perceived lack of musical ability, describing himself as 'tone-deaf' and feeling 'trapped' at concerts. He is honest and straightforward, as seen when he admits to Einstein that classical music is 'all Greek' to him, instead of pretending to enjoy it. He is also open-minded and willing to learn, following Einstein without protest and engaging in the musical exercises. By the end of the story, he shows a capacity for deep feeling and awe, transformed by the experience of finally understanding beautiful music. He is grateful and appreciative of Einstein's patience and mentorship."
+    },
+    {
+      "question_id": 69,
+      "question_type": "LONG",
+      "question": "Compare and contrast the setting of the dinner party downstairs with the scene in the room upstairs where Einstein taught the narrator.",
+      "answer": "**Setting of the dinner party downstairs:** This setting represents formal society, etiquette, and perhaps a superficial appreciation of art. It's a large, likely opulent drawing room filled with guests. The atmosphere is somewhat restrictive for the narrator, who feels 'trapped' into silence during the musical performance. The focus is on the performance by a 'very famous pianist' and the expectations of the hostess. \n\n**Scene in the room upstairs:** This setting is more intimate and focused on genuine learning and connection. It's a quieter room containing a phonograph. The atmosphere here is one of patience, encouragement, and discovery. It's a space removed from social pressures, where Einstein, the great scientist, acts as a patient teacher to a single student. The focus shifts from a passive performance to an active, participatory learning experience. The upstairs room becomes a place of transformation for the narrator."
+    },
+    {
+      "question_id": 70,
+      "question_type": "LONG",
+      "question": "How does the story define the concept of 'beauty' and its importance in human life?",
+      "answer": "The story defines 'beauty' not just as something aesthetically pleasing, but as a profound experience that touches the soul. Through music, specifically the progression to Bach, beauty is presented as something complex yet accessible if approached correctly. It's something that elicits feelings of awe and amazement. Einstein's final statement highlights its importance: opening up one's soul to beauty is the 'greatest activity of a human being'. This suggests that appreciating art and beauty is essential to the human experience, enriching life beyond mere existence or intellectual pursuits. It's presented as a higher calling that connects us to something deeper within ourselves and the world."
+    },
+    {
+      "question_id": 71,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'tone-deaf'?",
+      "options": [
+        { "option_id": 1, "text": "Color-blind", "is_correct": false },
+        { "option_id": 2, "text": "Musical", "is_correct": true },
+        { "option_id": 3, "text": "Deaf", "is_correct": false },
+        { "option_id": 4, "text": "Dumb", "is_correct": false }
+      ],
+      "answer": "Musical"
+    },
+    {
+      "question_id": 72,
+      "question_type": "MCQ",
+      "question": "Which of the following best describes the narrator's initial feeling towards classical music?",
+      "options": [
+        { "option_id": 1, "text": "Passion", "is_correct": false },
+        { "option_id": 2, "text": "Indifference", "is_correct": true },
+        { "option_id": 3, "text": "Anger", "is_correct": false },
+        { "option_id": 4, "text": "Curiosity", "is_correct": false }
+      ],
+      "answer": "Indifference"
+    },
+    {
+      "question_id": 73,
+      "question_type": "MCQ",
+      "question": "Why did the narrator stand up for 'God Save the King'?",
+      "options": [
+        { "option_id": 1, "text": "He loved the song.", "is_correct": false },
+        { "option_id": 2, "text": "He recognized the tune perfectly.", "is_correct": false },
+        { "option_id": 3, "text": "It was social convention to stand.", "is_correct": true },
+        { "option_id": 4, "text": "Einstein told him to.", "is_correct": false }
+      ],
+      "answer": "It was social convention to stand."
+    },
+    {
+      "question_id": 74,
+      "question_type": "MCQ",
+      "question": "What does Einstein's willingness to help the narrator show about him?",
+      "options": [
+        { "option_id": 1, "text": "He was bored at the party.", "is_correct": false },
+        { "option_id": 2, "text": "He wanted to show off his knowledge.", "is_correct": false },
+        { "option_id": 3, "text": "He was kind and a natural teacher.", "is_correct": true },
+        { "option_id": 4, "text": "He didn't like the pianist.", "is_correct": false }
+      ],
+      "answer": "He was kind and a natural teacher."
+    },
+    {
+      "question_id": 75,
+      "question_type": "MCQ",
+      "question": "The progression of music chosen by Einstein was from...",
+      "options": [
+        { "option_id": 1, "text": "Complex to simple", "is_correct": false },
+        { "option_id": 2, "text": "Simple to complex", "is_correct": true },
+        { "option_id": 3, "text": "Classical to pop", "is_correct": false },
+        { "option_id": 4, "text": "Instrumental to vocal", "is_correct": false }
+      ],
+      "answer": "Simple to complex"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is meant by 'warm gaze' in the context of Einstein's description?",
+      "answer": "It means looking at someone with kindness, friendliness, and affection."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why did the narrator feel he had to sit silently during the concert?",
+      "answer": "Because it was social etiquette at such dinner parties to listen silently and respectfully to the performance."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What did Einstein mean by 'building on what you know'?",
+      "answer": "He meant starting with something familiar and simple as a foundation before introducing more complex and unfamiliar concepts."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How did the narrator's perception of himself change by the end of the story?",
+      "answer": "He no longer saw himself as 'tone-deaf' but as someone capable of understanding and appreciating music."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What does the hostess's 'reproachful' look imply about her priorities?",
+      "answer": "It implies she prioritized social appearances and attending the scheduled performance over the individual experiences of her guests."
+    },
+    {
+      "question_id": 81,
+      "question_type": "MCQ",
+      "question": "What kind of writer was the narrator?",
+      "options": [
+        { "option_id": 1, "text": "A famous, established writer", "is_correct": false },
+        { "option_id": 2, "text": "A very young, promising writer", "is_correct": true },
+        { "option_id": 3, "text": "A science writer", "is_correct": false },
+        { "option_id": 4, "text": "A music critic", "is_correct": false }
+      ],
+      "answer": "A very young, promising writer"
+    },
+    {
+      "question_id": 82,
+      "question_type": "MCQ",
+      "question": "When the concert began, what did the narrator want to do?",
+      "options": [
+        { "option_id": 1, "text": "Clap loudly", "is_correct": false },
+        { "option_id": 2, "text": "Sing along", "is_correct": false },
+        { "option_id": 3, "text": "Hide or run away", "is_correct": true },
+        { "option_id": 4, "text": "Talk to Einstein", "is_correct": false }
+      ],
+      "answer": "Hide or run away"
+    },
+    {
+      "question_id": 83,
+      "question_type": "MCQ",
+      "question": "How did Einstein lead the narrator out of the room?",
+      "options": [
+        { "option_id": 1, "text": "By shouting at him", "is_correct": false },
+        { "option_id": 2, "text": "By taking him by the arm", "is_correct": true },
+        { "option_id": 3, "text": "By gesturing wildly", "is_correct": false },
+        { "option_id": 4, "text": "By pushing him", "is_correct": false }
+      ],
+      "answer": "By taking him by the arm"
+    },
+    {
+      "question_id": 84,
+      "question_type": "MCQ",
+      "question": "According to Einstein's math analogy, what is '1+1=2' equivalent to in music?",
+      "options": [
+        { "option_id": 1, "text": "A Bach concerto", "is_correct": false },
+        { "option_id": 2, "text": "A Mozart symphony", "is_correct": false },
+        { "option_id": 3, "text": "A simple song like Bing Crosby's", "is_correct": true },
+        { "option_id": 4, "text": "Long division", "is_correct": false }
+      ],
+      "answer": "A simple song like Bing Crosby's"
+    },
+    {
+      "question_id": 85,
+      "question_type": "MCQ",
+      "question": "What did the narrator realize when he could sing back the Crosby song?",
+      "options": [
+        { "option_id": 1, "text": "He was a great singer.", "is_correct": false },
+        { "option_id": 2, "text": "He could hear the tune.", "is_correct": true },
+        { "option_id": 3, "text": "Einstein was a magician.", "is_correct": false },
+        { "option_id": 4, "text": "He still hated music.", "is_correct": false }
+      ],
+      "answer": "He could hear the tune."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Use the word 'philanthropist' in a sentence of your own.",
+      "answer": "The local hospital was built with the donation from a generous philanthropist."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Give an example of something that might be 'all Greek' to someone.",
+      "answer": "Advanced quantum physics is all Greek to most people who aren't physicists."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why did Einstein choose a room with a phonograph?",
+      "answer": "He needed a way to play different types of music for the narrator to teach him."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What does it mean to have an 'ear for music'?",
+      "answer": "It means having the natural ability to hear, understand, and appreciate musical elements like pitch, rhythm, and melody."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "How did the narrator's honesty about not understanding music help him?",
+      "answer": "His honesty allowed Einstein to understand his true level and provide the appropriate help, rather than assuming he knew more than he did."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "Explain the importance of Einstein's statement: 'It is not your fault. It is because you have not learnt.'",
+      "answer": "This statement is crucial because it shifts the blame from the narrator's inherent ability to his lack of education or exposure. The narrator believed he was naturally 'tone-deaf,' a permanent condition he couldn't change. Einstein, however, reframed it as a learning gap. By saying it wasn't his fault, Einstein removed the shame and inadequacy the narrator felt. It opened the door to the possibility of change and growth. It implies that musical appreciation is a skill that can be acquired through the right method and patience, not just an inborn talent."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Discuss the role of the 'famous pianist' in the story.",
+      "answer": "The 'famous pianist' serves several roles in the story, although they are a background character. \n1. **Catalyst for Conflict:** The pianist's performance is the event that triggers the narrator's discomfort and feeling of being trapped. \n2. **Symbol of High Art/Society:** The pianist represents the sophisticated, classical music world that the dinner party guests are expected to appreciate. \n3. **Contrast to Einstein's Method:** The pianist performs complex music for a passive audience. This contrasts sharply with Einstein's interactive, step-by-step teaching method upstairs. \n4. **Reason for Hostess's Anger:** Missing the pianist's concert is the reason the hostess is angry with Einstein and the narrator at the end."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "How does this story illustrate the idea that great minds are often simple and approachable?",
+      "answer": "The story illustrates this idea through the character of Albert Einstein. Despite being one of the greatest scientific minds in history, his interaction with the narrator is marked by simplicity, warmth, and a lack of pretension. \n1. **Warm Demeanor:** His 'unusually warm' eyes and gentle physical gesture of taking the narrator's arm show his approachability. \n2. **Simple Teaching Method:** He uses a very basic analogy (teaching addition before long division) to explain a complex concept. He doesn't use jargon or intellectualize music; he makes it accessible. \n3. **Focus on the Individual:** He leaves a high-society party to spend time helping a single, unknown person understand music, showing genuine care. \n4. **Humility:** He doesn't act superior because of his knowledge; instead, he acts as a patient guide."
+    },
+    {
+      "question_id": 94,
+      "question_type": "MCQ",
+      "question": "What did the narrator mean by 'I sat silent, waiting for the end' during the concert?",
+      "options": [
+        { "option_id": 1, "text": "He was eagerly waiting for the climax of the music.", "is_correct": false },
+        { "option_id": 2, "text": "He was bored and just wanted the performance to finish.", "is_correct": true },
+        { "option_id": 3, "text": "He was waiting for death.", "is_correct": false },
+        { "option_id": 4, "text": "He was waiting for his turn to speak.", "is_correct": false }
+      ],
+      "answer": "He was bored and just wanted the performance to finish."
+    },
+    {
+      "question_id": 95,
+      "question_type": "MCQ",
+      "question": "Why did Einstein ask, 'What kind of music do you like?' first?",
+      "options": [
+        { "option_id": 1, "text": "To judge the narrator's taste.", "is_correct": false },
+        { "option_id": 2, "text": "To find a starting point for teaching that was familiar to the narrator.", "is_correct": true },
+        { "option_id": 3, "text": "Because he wanted to listen to pop music himself.", "is_correct": false },
+        { "option_id": 4, "text": "To make small talk.", "is_correct": false }
+      ],
+      "answer": "To find a starting point for teaching that was familiar to the narrator."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is a phonograph?",
+      "answer": "A phonograph is an early sound-reproducing machine that played records."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What does the idiom 'face the music' mean? (From Warming up)",
+      "answer": "It means to accept the unpleasant consequences of one's actions."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does the idiom 'blow your own trumpet' mean? (From Warming up)",
+      "answer": "It means to boast or praise oneself loudly."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What does the idiom 'fit as a fiddle' mean? (From Warming up)",
+      "answer": "It means to be in excellent physical health."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Reflect on the title 'The Night I Met Einstein'. How does the story live up to the significance implied by the title?",
+      "answer": "The title implies a significant, perhaps life-changing, encounter with a legendary figure. The story lives up to this by recounting an event that was indeed transformative for the narrator. It wasn't just a casual meeting where they shook hands; it was a night where Einstein personally mentored the narrator, curing him of his lifelong belief that he was tone-deaf. The encounter revealed Einstein's humanity, patience, and wisdom beyond science. For the narrator, it changed his relationship with art and beauty forever. The significance lies not just in meeting a famous person, but in the profound personal impact of that meeting, making it truly a night to remember."
+    }
+  ]
+}

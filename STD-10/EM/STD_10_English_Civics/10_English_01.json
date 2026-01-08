@@ -1,0 +1,1332 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Civics.1",
+    "standard": "10",
+    "subject": "Civics",
+    "medium": "English",
+    "chapter_name": "Working of the Constitution"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "When did the Indian Constitution come into force?",
+      "options": [
+        { "option_id": 1, "text": "15th August 1947", "is_correct": false },
+        { "option_id": 2, "text": "26th November 1949", "is_correct": false },
+        { "option_id": 3, "text": "26th January 1950", "is_correct": true },
+        { "option_id": 4, "text": "30th January 1948", "is_correct": false }
+      ],
+      "answer": "26th January 1950"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT a core objective declared by the Indian Constitution?",
+      "options": [
+        { "option_id": 1, "text": "Sovereign", "is_correct": false },
+        { "option_id": 2, "text": "Monarchy", "is_correct": true },
+        { "option_id": 3, "text": "Secular", "is_correct": false },
+        { "option_id": 4, "text": "Democratic Republic", "is_correct": false }
+      ],
+      "answer": "Monarchy"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The Indian Constitution is seen as a means to establish a society based on _______.",
+      "options": [
+        { "option_id": 1, "text": "Power and Wealth", "is_correct": false },
+        { "option_id": 2, "text": "Social Justice and Equality", "is_correct": true },
+        { "option_id": 3, "text": "Religious dominance", "is_correct": false },
+        { "option_id": 4, "text": "Military strength", "is_correct": false }
+      ],
+      "answer": "Social Justice and Equality"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The review of the working of the Constitution in this chapter focuses on which three areas?",
+      "options": [
+        { "option_id": 1, "text": "Democracy, Social Justice, and Judicial System", "is_correct": true },
+        { "option_id": 2, "text": "Politics, Economics, and Religion", "is_correct": false },
+        { "option_id": 3, "text": "Education, Health, and Defense", "is_correct": false },
+        { "option_id": 4, "text": "History, Geography, and Science", "is_correct": false }
+      ],
+      "answer": "Democracy, Social Justice, and Judicial System"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What was the original voting age in India?",
+      "options": [
+        { "option_id": 1, "text": "18 years", "is_correct": false },
+        { "option_id": 2, "text": "21 years", "is_correct": true },
+        { "option_id": 3, "text": "25 years", "is_correct": false },
+        { "option_id": 4, "text": "16 years", "is_correct": false }
+      ],
+      "answer": "21 years"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The voting age in India was reduced from 21 to _______.",
+      "options": [
+        { "option_id": 1, "text": "20", "is_correct": false },
+        { "option_id": 2, "text": "19", "is_correct": false },
+        { "option_id": 3, "text": "18", "is_correct": true },
+        { "option_id": 4, "text": "17", "is_correct": false }
+      ],
+      "answer": "18"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "India is considered the largest _______ in the world.",
+      "options": [
+        { "option_id": 1, "text": "Economy", "is_correct": false },
+        { "option_id": 2, "text": "Democracy", "is_correct": true },
+        { "option_id": 3, "text": "Military Power", "is_correct": false },
+        { "option_id": 4, "text": "Monarchy", "is_correct": false }
+      ],
+      "answer": "Democracy"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does decentralisation of power aim to prevent?",
+      "options": [
+        { "option_id": 1, "text": "Democratic participation", "is_correct": false },
+        { "option_id": 2, "text": "Misuse of power", "is_correct": true },
+        { "option_id": 3, "text": "Local governance", "is_correct": false },
+        { "option_id": 4, "text": "Fair elections", "is_correct": false }
+      ],
+      "answer": "Misuse of power"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which constitutional amendment gave a uniform status to local self-governing institutions?",
+      "options": [
+        { "option_id": 1, "text": "42nd and 44th", "is_correct": false },
+        { "option_id": 2, "text": "73rd and 74th", "is_correct": true },
+        { "option_id": 3, "text": "1st and 2nd", "is_correct": false },
+        { "option_id": 4, "text": "91st and 92nd", "is_correct": false }
+      ],
+      "answer": "73rd and 74th"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the primary objective of the Right to Information (RTI) Act 2005?",
+      "options": [
+        { "option_id": 1, "text": "To increase government secrecy", "is_correct": false },
+        { "option_id": 2, "text": "To reduce communication between citizens and government", "is_correct": false },
+        { "option_id": 3, "text": "To ensure transparency and accountability", "is_correct": true },
+        { "option_id": 4, "text": "To abolish elections", "is_correct": false }
+      ],
+      "answer": "To ensure transparency and accountability"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "The Right to Information has made the government more _______.",
+      "options": [
+        { "option_id": 1, "text": "Powerful", "is_correct": false },
+        { "option_id": 2, "text": "Secretive", "is_correct": false },
+        { "option_id": 3, "text": "Transparent", "is_correct": true },
+        { "option_id": 4, "text": "Centralised", "is_correct": false }
+      ],
+      "answer": "Transparent"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Post-2000, the approach towards citizens changed from beneficiaries to _______.",
+      "options": [
+        { "option_id": 1, "text": "Subjects", "is_correct": false },
+        { "option_id": 2, "text": "Right-holders", "is_correct": true },
+        { "option_id": 3, "text": "Consumers", "is_correct": false },
+        { "option_id": 4, "text": "Followers", "is_correct": false }
+      ],
+      "answer": "Right-holders"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Social Justice and Equality are the _______ of our Constitution.",
+      "options": [
+        { "option_id": 1, "text": "Drafts", "is_correct": false },
+        { "option_id": 2, "text": "Guiding principles", "is_correct": true },
+        { "option_id": 3, "text": "Minor rules", "is_correct": false },
+        { "option_id": 4, "text": "Exceptions", "is_correct": false }
+      ],
+      "answer": "Guiding principles"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the purpose of the policy of reservation of seats?",
+      "options": [
+        { "option_id": 1, "text": "To divide the society", "is_correct": false },
+        { "option_id": 2, "text": "To give share in political power to sections deprived of opportunities", "is_correct": true },
+        { "option_id": 3, "text": "To increase taxes", "is_correct": false },
+        { "option_id": 4, "text": "To promote specific religions", "is_correct": false }
+      ],
+      "answer": "To give share in political power to sections deprived of opportunities"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which act was enacted to prevent atrocities against Scheduled Castes and Scheduled Tribes?",
+      "options": [
+        { "option_id": 1, "text": "Right to Education Act", "is_correct": false },
+        { "option_id": 2, "text": "The Prevention of Atrocities (Atrocities Act)", "is_correct": true },
+        { "option_id": 3, "text": "Dowry Prohibition Act", "is_correct": false },
+        { "option_id": 4, "text": "Domestic Violence Act", "is_correct": false }
+      ],
+      "answer": "The Prevention of Atrocities (Atrocities Act)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The 73rd and 74th amendments reserved _______ of seats for women in local self-governing bodies.",
+      "options": [
+        { "option_id": 1, "text": "25%", "is_correct": false },
+        { "option_id": 2, "text": "33%", "is_correct": true },
+        { "option_id": 3, "text": "50%", "is_correct": false },
+        { "option_id": 4, "text": "10%", "is_correct": false }
+      ],
+      "answer": "33%"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "In Maharashtra and many other states, the reservation for women in local bodies has been increased to _______.",
+      "options": [
+        { "option_id": 1, "text": "40%", "is_correct": false },
+        { "option_id": 2, "text": "45%", "is_correct": false },
+        { "option_id": 3, "text": "50%", "is_correct": true },
+        { "option_id": 4, "text": "60%", "is_correct": false }
+      ],
+      "answer": "50%"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which act provides for the protection of women's honor and dignity from abuse by family members?",
+      "options": [
+        { "option_id": 1, "text": "Right to Information Act", "is_correct": false },
+        { "option_id": 2, "text": "Domestic Violence Prohibition Act", "is_correct": true },
+        { "option_id": 3, "text": "Dowry Prohibition Act", "is_correct": false },
+        { "option_id": 4, "text": "Child Labor Prohibition Act", "is_correct": false }
+      ],
+      "answer": "Domestic Violence Prohibition Act"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The Judiciary in India plays a vital role in _______ the democracy.",
+      "options": [
+        { "option_id": 1, "text": "Challenging", "is_correct": false },
+        { "option_id": 2, "text": "Strengthening", "is_correct": true },
+        { "option_id": 3, "text": "Weakening", "is_correct": false },
+        { "option_id": 4, "text": "Controlling", "is_correct": false }
+      ],
+      "answer": "Strengthening"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following is part of the 'Basic Structure' of the Constitution according to the Judiciary?",
+      "options": [
+        { "option_id": 1, "text": "Republican and Democratic form of government", "is_correct": true },
+        { "option_id": 2, "text": "Right to Information", "is_correct": false },
+        { "option_id": 3, "text": "The Dowry Prohibition Act", "is_correct": false },
+        { "option_id": 4, "text": "Political parties' internal rules", "is_correct": false }
+      ],
+      "answer": "Republican and Democratic form of government"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The Constitution is not a static document; it is a _______.",
+      "options": [
+        { "option_id": 1, "text": "Closed book", "is_correct": false },
+        { "option_id": 2, "text": "Living document", "is_correct": true },
+        { "option_id": 3, "text": "Old manuscript", "is_correct": false },
+        { "option_id": 4, "text": "Set of suggestions", "is_correct": false }
+      ],
+      "answer": "Living document"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does the Judiciary protect from the Parliament while allowing amendments?",
+      "options": [
+        { "option_id": 1, "text": "The Basic Structure of the Constitution", "is_correct": true },
+        { "option_id": 2, "text": "The Right to Property", "is_correct": false },
+        { "option_id": 3, "text": "The voting age of 21", "is_correct": false },
+        { "option_id": 4, "text": "The increase in taxes", "is_correct": false }
+      ],
+      "answer": "The Basic Structure of the Constitution"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "In the 2014 elections, how many women were elected to the Lok Sabha?",
+      "options": [
+        { "option_id": 1, "text": "22", "is_correct": false },
+        { "option_id": 2, "text": "44", "is_correct": false },
+        { "option_id": 3, "text": "66", "is_correct": true },
+        { "option_id": 4, "text": "88", "is_correct": false }
+      ],
+      "answer": "66"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The essence of democracy is identified as _______ in the text.",
+      "options": [
+        { "option_id": 1, "text": "Voting rights", "is_correct": false },
+        { "option_id": 2, "text": "Decentralisation of power", "is_correct": true },
+        { "option_id": 3, "text": "Winning elections", "is_correct": false },
+        { "option_id": 4, "text": "Having a Parliament", "is_correct": false }
+      ],
+      "answer": "Decentralisation of power"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The Indian government adopted the _______ approach after the year 2000.",
+      "options": [
+        { "option_id": 1, "text": "Benevolent", "is_correct": false },
+        { "option_id": 2, "text": "Welfare", "is_correct": false },
+        { "option_id": 3, "text": "Rights-based", "is_correct": true },
+        { "option_id": 4, "text": "Traditional", "is_correct": false }
+      ],
+      "answer": "Rights-based"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is meant by the 'creamy layer' in the context of reservations?",
+      "options": [
+        { "option_id": 1, "text": "Top government officials", "is_correct": false },
+        { "option_id": 2, "text": "Economically well-off people within backward classes", "is_correct": true },
+        { "option_id": 3, "text": "Students with highest marks", "is_correct": false },
+        { "option_id": 4, "text": "The religious leaders", "is_correct": false }
+      ],
+      "answer": "Economically well-off people within backward classes"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a measure for establishing social justice mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Policy of reservation", "is_correct": false },
+        { "option_id": 2, "text": "Atrocities Act", "is_correct": false },
+        { "option_id": 3, "text": "Abolition of private property", "is_correct": true },
+        { "option_id": 4, "text": "Protection of minorities", "is_correct": false }
+      ],
+      "answer": "Abolition of private property"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The secular nature of the Constitution is part of its _______.",
+      "options": [
+        { "option_id": 1, "text": "Optional clauses", "is_correct": false },
+        { "option_id": 2, "text": "Basic structure", "is_correct": true },
+        { "option_id": 3, "text": "Recent updates", "is_correct": false },
+        { "option_id": 4, "text": "Appendix", "is_correct": false }
+      ],
+      "answer": "Basic structure"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The first Lok Sabha had _______ women members.",
+      "options": [
+        { "option_id": 1, "text": "10", "is_correct": false },
+        { "option_id": 2, "text": "22", "is_correct": true },
+        { "option_id": 3, "text": "33", "is_correct": false },
+        { "option_id": 4, "text": "44", "is_correct": false }
+      ],
+      "answer": "22"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The National Commission for Women was established to _______.",
+      "options": [
+        { "option_id": 1, "text": "Encourage women to work at home", "is_correct": false },
+        { "option_id": 2, "text": "Redress women's grievances and ensure self-development", "is_correct": true },
+        { "option_id": 3, "text": "Control women's movements", "is_correct": false },
+        { "option_id": 4, "text": "Replace the Parliament", "is_correct": false }
+      ],
+      "answer": "Redress women's grievances and ensure self-development"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The Right to Information (RTI) was introduced in _______.",
+      "options": [
+        { "option_id": 1, "text": "1990", "is_correct": false },
+        { "option_id": 2, "text": "2000", "is_correct": false },
+        { "option_id": 3, "text": "2005", "is_correct": true },
+        { "option_id": 4, "text": "2010", "is_correct": false }
+      ],
+      "answer": "2005"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Universal Adult Franchise gives every citizen the _______.",
+      "options": [
+        { "option_id": 1, "text": "Right to property", "is_correct": false },
+        { "option_id": 2, "text": "Right to vote", "is_correct": true },
+        { "option_id": 3, "text": "Right to education", "is_correct": false },
+        { "option_id": 4, "text": "Right to travel", "is_correct": false }
+      ],
+      "answer": "Right to vote"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which of these is a pillar of the Basic Structure of the Constitution?",
+      "options": [
+        { "option_id": 1, "text": "Sovereignty of India", "is_correct": true },
+        { "option_id": 2, "text": "Dowry prohibition", "is_correct": false },
+        { "option_id": 3, "text": "Food security", "is_correct": false },
+        { "option_id": 4, "text": "Women's representation in films", "is_correct": false }
+      ],
+      "answer": "Sovereignty of India"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Decentralisation of power means distributing power among _______.",
+      "options": [
+        { "option_id": 1, "text": "Only few people", "is_correct": false },
+        { "option_id": 2, "text": "Various levels of government and people", "is_correct": true },
+        { "option_id": 3, "text": "Different families", "is_correct": false },
+        { "option_id": 4, "text": "Religious institutions", "is_correct": false }
+      ],
+      "answer": "Various levels of government and people"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The Constitution of India was framed with the objective of providing _______.",
+      "options": [
+        { "option_id": 1, "text": "Control", "is_correct": false },
+        { "option_id": 2, "text": "Justice and Freedom", "is_correct": true },
+        { "option_id": 3, "text": "Inequality", "is_correct": false },
+        { "option_id": 4, "text": "Restriction", "is_correct": false }
+      ],
+      "answer": "Justice and Freedom"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "In a democracy, political maturity is achieved when _______.",
+      "options": [
+        { "option_id": 1, "text": "Only few people vote", "is_correct": false },
+        { "option_id": 2, "text": "Citizens participate in political process in actual practice", "is_correct": true },
+        { "option_id": 3, "text": "There are no elections", "is_correct": false },
+        { "option_id": 4, "text": "Government is secret", "is_correct": false }
+      ],
+      "answer": "Citizens participate in political process in actual practice"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Reducing the voting age from 21 to 18 gave political rights to the _______.",
+      "options": [
+        { "option_id": 1, "text": "Older generation", "is_correct": false },
+        { "option_id": 2, "text": "Youth", "is_correct": true },
+        { "option_id": 3, "text": "Children", "is_correct": false },
+        { "option_id": 4, "text": "Foreigners", "is_correct": false }
+      ],
+      "answer": "Youth"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Direct participation of citizens in governance is a feature of _______.",
+      "options": [
+        { "option_id": 1, "text": "Decentralisation", "is_correct": true },
+        { "option_id": 2, "text": "Centralisation", "is_correct": false },
+        { "option_id": 3, "text": "Dictatorship", "is_correct": false },
+        { "option_id": 4, "text": "Monarchy", "is_correct": false }
+      ],
+      "answer": "Decentralisation"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The Rights-based approach treats citizen as a _______.",
+      "options": [
+        { "option_id": 1, "text": "Patient", "is_correct": false },
+        { "option_id": 2, "text": "Right-holder", "is_correct": true },
+        { "option_id": 3, "text": "Beneficiary", "is_correct": false },
+        { "option_id": 4, "text": "Subject", "is_correct": false }
+      ],
+      "answer": "Right-holder"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Social justice means ending conditions of _______ based on caste, religion, etc.",
+      "options": [
+        { "option_id": 1, "text": "Equality", "is_correct": false },
+        { "option_id": 2, "text": "Discrimination", "is_correct": true },
+        { "option_id": 3, "text": "Justice", "is_correct": false },
+        { "option_id": 4, "text": "Friendship", "is_correct": false }
+      ],
+      "answer": "Discrimination"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Reservations help sections of society that have been _______.",
+      "options": [
+        { "option_id": 1, "text": "Privileged", "is_correct": false },
+        { "option_id": 2, "text": "Deprived of education and employment", "is_correct": true },
+        { "option_id": 3, "text": "Dominant", "is_correct": false },
+        { "option_id": 4, "text": "Foreign", "is_correct": false }
+      ],
+      "answer": "Deprived of education and employment"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Protecting minorities is a step towards _______.",
+      "options": [
+        { "option_id": 1, "text": "Equality and Social Justice", "is_correct": true },
+        { "option_id": 2, "text": "Exclusion", "is_correct": false },
+        { "option_id": 3, "text": "Conflict", "is_correct": false },
+        { "option_id": 4, "text": "Strict control", "is_correct": false }
+      ],
+      "answer": "Equality and Social Justice"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "The percentage of women in the 16th Lok Sabha was _______.",
+      "options": [
+        { "option_id": 1, "text": "4.41%", "is_correct": false },
+        { "option_id": 2, "text": "8.10%", "is_correct": false },
+        { "option_id": 3, "text": "12.15%", "is_correct": true },
+        { "option_id": 4, "text": "50%", "is_correct": false }
+      ],
+      "answer": "12.15%"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT an aspect of the Judicial System mentioned in the text?",
+      "options": [
+        { "option_id": 1, "text": "Interpreting the Constitution", "is_correct": false },
+        { "option_id": 2, "text": "Protecting fundamental rights", "is_correct": false },
+        { "option_id": 3, "text": "Drafting international treaties", "is_correct": true },
+        { "option_id": 4, "text": "Deciding the basic structure", "is_correct": false }
+      ],
+      "answer": "Drafting international treaties"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "The 'Basic Structure' doctrine allows the Parliament to amend the Constitution as long as _______.",
+      "options": [
+        { "option_id": 1, "text": "They have 100% votes", "is_correct": false },
+        { "option_id": 2, "text": "They don't alter the core philosophy/basic structure", "is_correct": true },
+        { "option_id": 3, "text": "The Judiciary gives permission for every line", "is_correct": false },
+        { "option_id": 4, "text": "It is done on a Sunday", "is_correct": false }
+      ],
+      "answer": "They don't alter the core philosophy/basic structure"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Individual freedom and dignity are _______ in a democracy.",
+      "options": [
+        { "option_id": 1, "text": "Secondary", "is_correct": false },
+        { "option_id": 2, "text": "Extremely important", "is_correct": true },
+        { "option_id": 3, "text": "Optional", "is_correct": false },
+        { "option_id": 4, "text": "Prohibited", "is_correct": false }
+      ],
+      "answer": "Extremely important"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "The Dowry Prohibition Act is a law to _______.",
+      "options": [
+        { "option_id": 1, "text": "Increase dowry", "is_correct": false },
+        { "option_id": 2, "text": "Protect women and ensure equality", "is_correct": true },
+        { "option_id": 3, "text": "Promote marriages", "is_correct": false },
+        { "option_id": 4, "text": "Collect data on marriages", "is_correct": false }
+      ],
+      "answer": "Protect women and ensure equality"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Minority status is determined by _______.",
+      "options": [
+        { "option_id": 1, "text": "Wealth", "is_correct": false },
+        { "option_id": 2, "text": "Religion and Language", "is_correct": true },
+        { "option_id": 3, "text": "Physical height", "is_correct": false },
+        { "option_id": 4, "text": "Political affiliation", "is_correct": false }
+      ],
+      "answer": "Religion and Language"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The right to education is a _______.",
+      "options": [
+        { "option_id": 1, "text": "Constitutional Right", "is_correct": true },
+        { "option_id": 2, "text": "Suggestion", "is_correct": false },
+        { "option_id": 3, "text": "Private choice", "is_correct": false },
+        { "option_id": 4, "text": "Tradition", "is_correct": false }
+      ],
+      "answer": "Constitutional Right"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Accountability in government means _______.",
+      "options": [
+        { "option_id": 1, "text": "Keeping accounts secret", "is_correct": false },
+        { "option_id": 2, "text": "Being responsible and answerable to citizens", "is_correct": true },
+        { "option_id": 3, "text": "Spending all the money", "is_correct": false },
+        { "option_id": 4, "text": "Winning every debate", "is_correct": false }
+      ],
+      "answer": "Being responsible and answerable to citizens"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Define the 'Right-based approach' mentioned in the text.",
+      "answer": "Post-2000, the Indian government moved towards a rights-based approach, where citizens are viewed as 'right-holders' rather than just beneficiaries of development policies. This includes rights like RTI, education, and food security."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the essence of democracy?",
+      "answer": "The essence of democracy is the decentralisation of power, which integrates democratic principles into actual practice and prevents the misuse of power by distributing it."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Mention any two effects of reducing the voting age from 21 to 18.",
+      "answer": "1. It gave political rights to the youth. 2. it expanded the electorate, making Indian democracy the largest in the world."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the 'Basic Structure' of the Constitution?",
+      "answer": "It is a legal doctrine where the Judiciary has identified certain core features of the Constitution (like democracy, secularism, sovereignty) that cannot be altered by the Parliament through amendments."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Explain the significance of the 73rd and 74th Amendments.",
+      "answer": "These amendments gave constitutional status to local self-governing bodies and reserved 33% of seats for women, strengthening democracy at the grassroots level."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the objective of the policy of reservation of seats?",
+      "answer": "The objective is to provide representation in education and employment to sections of society who have been historically deprived of opportunities due to their caste or tribe."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How has the Right to Information Act helped citizens?",
+      "answer": "RTI has increased transparency and accountability in the government, reduced the element of secrecy, and strengthened the trust between citizens and the government."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name two laws that were enacted to empower women in India.",
+      "answer": "1. The Dowry Prohibition Act. 2. The Domestic Violence Prohibition Act."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is meant by 'Social Justice' according to the Constitution?",
+      "answer": "It means creating a society by removing all artificial barriers like caste, religion, or gender that cause discrimination and providing equal opportunities for development to all."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is the Indian Constitution called a 'living document'?",
+      "answer": "It is called a living document because it is not static; it can be amended according to changing needs and circumstances while maintaining its core philosophy."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Mention one important provision for the protection of minorities.",
+      "answer": "The Constitution prohibits discrimination on the basis of religion, language, or culture and grants minorities the right to preserve their language and establish educational institutions."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What was the percentage of women members in the 16th Lok Sabha?",
+      "answer": "The percentage was 12.15%, with 66 women members elected."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What does 'Sovereignty of India' imply?",
+      "answer": "It implies that India is an independent nation, free from any external control, and has the supreme power to make its own laws and decisions."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Explain the 'Prevention of Atrocities' Act.",
+      "answer": "This act was enacted to protect Scheduled Castes and Scheduled Tribes from injustice and atrocities, providing for strict punishment for those who commit such crimes."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How did the Judiciary help in protecting women's rights?",
+      "answer": "The Judiciary interpreted laws to protect women's dignity, supported the Domestic Violence Act, and passed judgments ensuring fair treatment in both family and professional life."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is political maturity?",
+      "answer": "It is the state where citizens not only vote but also actively understand and participate in the political process, and democratic principles are integrated into the actual social and political life of the people."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is decentralisation of power important?",
+      "answer": "It is important because it brings government closer to the people, encourages local participation, and creates checks and balances to prevent the concentration of power."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What role does the National Commission for Women play?",
+      "answer": "It redresses grievances of women, ensures the implementation of laws protecting them, and suggests measures for their overall development and empowerment."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Define 'Secularism' in the context of the Indian Constitution.",
+      "answer": "Secularism means that the State does not have an official religion, treats all religions equally, and guarantees citizens the freedom to practice and propagate their faith."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What are the three focus areas of the review in this chapter?",
+      "answer": "The three focus areas are: 1. Democracy. 2. Social Justice. 3. Judicial System."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the impact of free and fair elections on democracy?",
+      "answer": "Free and fair elections increase citizens' confidence in the democratic system and ensure that the government remains accountable to the will of the people."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "How has the policy of reservation helped 'Other Backward Classes' (OBC)?",
+      "answer": "The policy provides a specific quota for OBCs in educational institutions and government jobs, helping them overcome historical disadvantages and participate in the mainstream."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Mention one right included under the 'Rights-based approach'.",
+      "answer": "The Right to Education (RTE) or the Right to Information (RTI)."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'Democratic Republic'?",
+      "answer": "It means a country where the head of state is elected by the people, and the government is based on the principles of democracy and rule of law."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Explain 'Accountability' in democracy.",
+      "answer": "It means the government is responsible for its actions and must explain its decisions to the citizens, ensuring power is used for public welfare."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How does the Constitution ensure justice for its citizens?",
+      "answer": "Through fundamental rights, directive principles of state policy, and an independent judiciary that protects individuals from discrimination and abuse of power."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What does 'Equality' mean in the social context?",
+      "answer": "It means every individual has the same status and opportunity for development, regardless of their background, and nobody enjoys special privileges based on birth."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the role of the General Assembly of States Parties?",
+      "answer": "It is an assembly that elects the 21 representatives who form the World Heritage Committee. (Note: Context from 4.3 integrated into workbook structure)."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Who is a 'Right-holder'?",
+      "answer": "A citizen who has a legal and constitutional claim to certain benefits or treatments from the State, such as information or education."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Mention one feature of the 'living document' nature of the Constitution.",
+      "answer": "The ability to be amended through Article 368 to address new social and political challenges."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What does 'redressal of grievances' mean?",
+      "answer": "It refers to the process of addressing and resolving complaints or injustices faced by individuals or groups."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How does the Constitution protect the honor of women?",
+      "answer": "By enacting laws against domestic violence, sexual harassment, and ensuring equal pay and opportunities for self-development."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is the importance of 'Transparency' in governance?",
+      "answer": "Transparency reduces corruption, allows citizens to monitor government performance, and ensures that public resources are used correctly."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What does the word 'Atrocity' imply?",
+      "answer": "It refers to an extremely wicked or cruel act, typically one involving physical violence or injury."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is grassroots democracy?",
+      "answer": "It is a form of democracy where power and decision-making are concentrated at the local level (villages and towns) involving direct participation of people."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Explain 'Representative Democracy'.",
+      "answer": "It is a system where people elect representatives (like MPs and MLAs) to make laws and govern the country on their behalf."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the main goal of minority protection laws?",
+      "answer": "To prevent the majority from imposing their culture or beliefs on smaller groups and to ensure that all groups have equal rights and safety."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Define 'Discrimination'.",
+      "answer": "Treating a person or group unfairly or differently based on characteristics like race, religion, gender, or caste."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How many seats were held by women in the 1st Lok Sabha?",
+      "answer": "22 seats (4.41%)."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the significance of 26th January 1950?",
+      "answer": "It is the day the Constitution of India came into effect, making India a sovereign democratic republic."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the role of the Election Commission in democracy?",
+      "answer": "To conduct free, fair, and impartial elections at regular intervals to maintain the democratic process."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Explain the concept of 'Vested Interests' in political science.",
+      "answer": "It refers to a strong personal interest in something that might prevent one from being objective or acting for the common good."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the directive principles of state policy?",
+      "answer": "To provide guidelines to the government for making laws and policies that establish a social and economic democracy."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How does the Judiciary maintain its independence?",
+      "answer": "Through constitutional provisions for the appointment, tenure, and removal of judges, ensuring they are not controlled by the Legislature or Executive."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What does 'Right to Food' imply?",
+      "answer": "It is a rights-based approach ensuring that every citizen has access to adequate food and nutrition through government schemes."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Mention one core value of the Indian Constitution.",
+      "answer": "Liberty, Equality, or Fraternity."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is 'Accountability' in the context of the RTI Act?",
+      "answer": "It means government officers are now legally obliged to provide information and justify their actions, making them answerable to the public."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Explain 'Freedom of Religion'.",
+      "answer": "It is a fundamental right allowing citizens to follow any religion of their choice without state interference."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the 'Creame Layer' exclusion?",
+      "answer": "It is the rule that excludes relatively wealthy and educated members of backward classes from reservation benefits to ensure they reach the truly needy."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Define 'Social Democracy'.",
+      "answer": "A political ideology that aims to establish social justice within the framework of a democratic government and capitalist economy."
+    },
+
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What does the term 'Socialist' in the Indian Constitution imply?",
+      "answer": "It implies that the state aims to reduce socio-economic inequalities and ensure a fair distribution of wealth and resources among all citizens."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How does the Constitution protect the dignity of the individual?",
+      "answer": "Through Fundamental Rights, the abolition of untouchability, and laws that prevent discrimination based on caste, creed, gender, or religion."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Explain the concept of 'Universal Adult Franchise' in the Indian context.",
+      "answer": "It means every citizen who has attained a certain age (currently 18) has the right to vote without any discrimination based on education, property, or gender."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What was the significance of the 42nd Amendment regarding the Preamble?",
+      "answer": "The 42nd Amendment added the words 'Socialist' and 'Secular' to the Preamble, clarifying the core philosophy of the Indian state."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "How does the Right to Information Act 2005 help in curbing corruption?",
+      "answer": "By making government information accessible to citizens, it increases transparency, allowing the public to monitor government spending and decisions."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is the primary goal of the 'Rights-based approach' implemented post-2000?",
+      "answer": "The goal is to empower citizens as legal claimants of their rights (like education and food) rather than passive recipients of government charity."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Name two specific constitutional provisions for the Scheduled Castes.",
+      "answer": "1. Reservation of seats in educational institutions and government jobs. 2. Legal protection under the Prevention of Atrocities Act."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why are minorities given the right to establish their own educational institutions?",
+      "answer": "To allow them to preserve and promote their unique language, script, and culture, ensuring they are not absorbed by the majority culture."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "How does the Constitution ensure that the President is not a monarch?",
+      "answer": "By making India a 'Republic,' which means the head of state is elected by the representatives of the people for a fixed term."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is the role of the 'Gram Sabha' in decentralisation?",
+      "answer": "The Gram Sabha allows villagers to directly participate in local decision-making, planning, and monitoring of developmental work in their village."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Define the term 'Accountability' in a democratic government.",
+      "answer": "It is the obligation of the government to explain its actions and decisions to the citizens and be answerable for its performance."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "How does the reduction of voting age to 18 affect political awareness?",
+      "answer": "It encourages young citizens to start thinking about national issues earlier, leading to a more politically conscious and active youth population."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'Secularism' in the Indian Constitution?",
+      "answer": "It means the state treats all religions equally, has no state religion, and protects the freedom of every citizen to follow their faith."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Name any two features included in the 'Basic Structure' of the Constitution.",
+      "answer": "1. The Federal character of the Constitution. 2. The supremacy of the Constitution."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is the importance of the 'Preamble' in understanding the Constitution?",
+      "answer": "The Preamble serves as the soul and introduction to the Constitution, summarizing its core objectives like Justice, Liberty, Equality, and Fraternity."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "How has the reservation for women in local bodies changed in Maharashtra?",
+      "answer": "Initially, it was 33% as per the central amendment, but Maharashtra later increased this reservation to 50%."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is the objective of the 'Prevention of Atrocities Act'?",
+      "answer": "To prevent crimes and injustices against Scheduled Castes and Scheduled Tribes and provide them with a sense of security and dignity."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Explain the concept of 'Sovereignty'.",
+      "answer": "Sovereignty means the absolute and independent authority of a state to govern itself and make laws without external interference."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What does 'Fraternity' aim to achieve among Indian citizens?",
+      "answer": "It aims to promote a sense of brotherhood and unity among all citizens, transcending differences of caste, religion, and region."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is the significance of Judicial Review?",
+      "answer": "It allows the Judiciary to examine the laws passed by the Parliament to ensure they do not violate the Fundamental Rights or the Basic Structure of the Constitution."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Who are considered 'State Parties' in the context of the Constitution?",
+      "answer": "The individual states (like Maharashtra, Karnataka, etc.) that form the Indian Union and follow the constitutional framework."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is the role of the 'Opposition' in a democracy?",
+      "answer": "The opposition questions the government, highlights its failures, and ensures that the ruling party does not become dictatorial."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Define 'Decentralisation of Power'.",
+      "answer": "It is the transfer of power and decision-making authority from the central government to regional and local levels of government."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Mention one way the Constitution promotes 'Equality of Opportunity'.",
+      "answer": "By prohibiting discrimination in public employment and providing reservations for socially backward classes."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "How does the RTI Act empower common citizens?",
+      "answer": "It gives them the legal right to ask questions to public authorities, making them feel like active participants in governance."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is the 'Basic Structure' doctrine given by the Supreme Court?",
+      "answer": "A doctrine stating that while Parliament can amend the Constitution, it cannot touch the fundamental features that define its core identity."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "How did the 73rd Amendment impact the status of Sarpanchs?",
+      "answer": "It provided constitutional recognition and defined the powers and responsibilities of Sarpanchs in the Panchayati Raj system."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What is meant by 'Rule of Law'?",
+      "answer": "It means that the law is supreme, and every citizen, including the rulers, is subject to the same laws without any arbitrary power."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Explain the importance of 'Liberty' in democracy.",
+      "answer": "Liberty allows citizens to think freely, express their opinions, and live their lives without unnecessary state control, which is vital for progress."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is the significance of the National Commission for Scheduled Castes?",
+      "answer": "It acts as a watchdog to protect the interests of SCs, investigates complaints of rights violations, and advises the government on their welfare."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "How does 'Order in the Nation' help in global peace?",
+      "answer": "A stable and orderly nation contributes to regional and global security, allowing for peaceful international relations and cooperation."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Name any two social evils that laws have tried to abolish in India.",
+      "answer": "1. Untouchability. 2. The Dowry system."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'Democratic' as per the Preamble?",
+      "answer": "It means a system of government where the supreme power is vested in the people and exercised by them through their elected agents."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What is the role of the Judiciary in protecting the environment?",
+      "answer": "The Judiciary passes orders and judgments to stop pollution, protect forests, and ensure that developmental projects follow environmental laws."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Define 'Minority' based on religious grounds.",
+      "answer": "A group of people whose religious followers are numerically smaller than the majority religion in a specific country or region."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "Why is the Right to Education (RTE) considered a revolutionary step?",
+      "answer": "Because it made education a fundamental right for all children aged 6-14, aiming to ensure 100% literacy and equal growth opportunities."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is the function of the High Courts in India?",
+      "answer": "High Courts act as the highest judicial body in a state, hearing appeals, protecting fundamental rights, and overseeing lower courts."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "How does the Constitution promote 'National Integration'?",
+      "answer": "By providing single citizenship, promoting a sense of fraternity, and ensuring justice for all diverse groups in India."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is the 'Public Interest Litigation' (PIL)?",
+      "answer": "A legal mechanism where any citizen can file a case in court on behalf of a person or group who cannot access the court themselves."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Explain the significance of 'Republic' for Indian citizens.",
+      "answer": "It ensures that public offices are open to all citizens based on merit and election, rather than being hereditary or reserved for a few."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "How do Fundamental Duties complement Fundamental Rights?",
+      "answer": "While Rights give citizens freedom, Duties remind them of their responsibility towards the country and fellow citizens, maintaining balance."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is the 'Directive Principles of State Policy' (DPSP)?",
+      "answer": "These are guidelines given to the central and state governments to frame laws that promote social and economic justice."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Explain 'Freedom of Expression'.",
+      "answer": "The right of citizens to express their thoughts, ideas, and opinions through speech, writing, or other media, subject to reasonable restrictions."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "How does the Election Commission ensure 'Fairness' in elections?",
+      "answer": "By enforcing a Model Code of Conduct, monitoring election expenses, and ensuring an impartial environment for all candidates."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is 'Social Equality'?",
+      "answer": "A state where all people within a society have the same status in certain respects, including civil rights and freedom of speech."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "How does the Constitution handle the 'Diversity' of India?",
+      "answer": "By recognizing multiple languages, protecting various cultures, and providing federal structure that gives states autonomy."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the 'Separation of Powers'?",
+      "answer": "The division of government responsibilities into distinct branches (Legislature, Executive, Judiciary) to prevent concentration of power."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "How does the 'Basic Structure' protect democracy?",
+      "answer": "By preventing any temporary majority in Parliament from changing the democratic essence of the country into a different form of government."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is the 'Right Against Exploitation'?",
+      "answer": "A fundamental right that prohibits human trafficking, forced labor (begar), and child labor in hazardous industries."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Why is 'Fraternity' essential for 'Dignity of the Individual'?",
+      "answer": "Because a sense of brotherhood ensures that citizens respect each other's rights and dignity, creating a peaceful and respectful society."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Discuss the various steps taken to establish Social Justice and Equality in India as per the Constitution.",
+      "answer": "Establishing social justice and equality is a primary goal of the Indian Constitution. Several steps have been taken: 1. **Policy of Reservation:** Seats are reserved in educational institutions and government services for Scheduled Castes, Scheduled Tribes, and Other Backward Classes to ensure their representation. 2. **Abolition of Untouchability:** Article 17 strictly prohibits untouchability and makes its practice a punishable offense. 3. **Minority Protection:** The Constitution provides safeguards for minorities to preserve their culture and establish educational institutions. 4. **Women Empowerment:** Laws against dowry, domestic violence, and sexual harassment, along with 50% reservation in local bodies, help women participate in the political process. 5. **Prevention of Atrocities Act:** Special laws have been made to protect SCs and STs from social injustice and exploitation. These measures aim to remove artificial barriers and provide equal opportunities to all."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Explain the significance of the 73rd and 74th Amendments in strengthening Indian democracy at the grassroots level.",
+      "answer": "The 73rd and 74th Amendments, passed in 1992, brought a revolutionary change to local governance in India. 1. **Constitutional Status:** They gave a uniform and constitutional status to Panchayati Raj institutions (rural) and Nagarpalikas (urban). 2. **Empowerment:** They transferred 29 subjects to rural local bodies and 18 to urban bodies, giving them more autonomy in planning and development. 3. **Reservation:** They mandated 33% reservation for women in these bodies, which has now been increased to 50% in many states like Maharashtra, ensuring women's active role in local politics. 4. **Democratic Participation:** By bringing governance to the doorsteps of the people, these amendments have increased the direct participation of common citizens, making democracy more vibrant and accountable at the village and city levels."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "What is the doctrine of 'Basic Structure' of the Constitution? How does it balance the power between the Parliament and the Judiciary?",
+      "answer": "The doctrine of 'Basic Structure' was established by the Supreme Court in the Kesavananda Bharati case. It states that while the Parliament has the power to amend the Constitution under Article 368, it cannot alter or destroy its basic features or core philosophy. **Balancing Power:** 1. **Parliament's Power:** It recognizes that the Constitution is a 'living document' and must change with time, so the Parliament is allowed to make necessary amendments. 2. **Judicial Protection:** At the same time, it empowers the Judiciary to act as a guardian. If any amendment violates the basic structure (like democracy, secularism, or federalism), the Judiciary can declare it unconstitutional. 3. **Constitutional Stability:** This doctrine ensures that no government with a temporary majority can turn the country into a dictatorship or change its fundamental identity, thus maintaining a healthy balance of power."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Discuss the evolution and impact of the Right to Information (RTI) Act in India.",
+      "answer": "The Right to Information Act 2005 is a landmark legislation in Indian democracy. **Evolution:** It resulted from a long struggle by civil society groups for transparency. Earlier, government functioning was shrouded in secrecy under the Official Secrets Act. **Impact:** 1. **Transparency:** It gives citizens the legal right to access information from public authorities, making the government's working transparent. 2. **Accountability:** Officers are now responsible for providing information within a time limit, which reduces corruption and delays. 3. **Empowerment:** It has turned citizens from 'subjects' to 'right-holders,' giving them a sense of control over public administration. 4. **Communication:** It has bridged the gap between the government and the people, strengthening the trust in democratic institutions. RTI is thus a tool that ensures the government remains 'of the people, by the people, and for the people' in actual practice."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Analyze the role played by the Judiciary in the development and protection of Indian Democracy.",
+      "answer": "The Judiciary in India is a vital pillar that ensures the Constitution works effectively. 1. **Interpretation:** The Judiciary interprets the laws and the Constitution, ensuring that their true spirit is followed by the Legislature and Executive. 2. **Guardian of Rights:** Through the power of 'Writ jurisdiction' and 'Judicial Activism,' the courts protect the fundamental rights of citizens from any state encroachment. 3. **Basic Structure:** By creating the Basic Structure doctrine, the Judiciary has prevented the core values of the Constitution from being erased by political amendments. 4. **Social Justice:** The courts have passed landmark judgments on issues like gender equality, environmental protection, and the rights of the underprivileged, helping to establish a more just society. 5. **Stability:** It provides a peaceful mechanism for resolving conflicts between individuals, states, and the center, maintaining the rule of law and democratic stability."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "How has the 'Rights-based approach' changed the perspective of the relationship between the Indian state and its citizens post-2000?",
+      "answer": "Before the year 2000, citizens were often viewed as 'beneficiaries' or 'recipients' of government welfare schemes. The state would provide benefits based on its discretion. **The Shift:** 1. **Citizens as Right-holders:** After 2000, the approach shifted towards recognizing that citizens have a legal and constitutional 'right' to certain basic services. 2. **Legal Obligation:** Laws like the RTI (2005), Right to Education (2009), and Food Security Act (2013) were passed. These are not just schemes; they are legal obligations of the state. 3. **Empowerment:** If these rights are violated, citizens can approach the courts for redressal. This gives people a sense of dignity and power. 4. **Accountability:** This approach makes the government more accountable because it is now legally bound to provide these rights. It has transformed the relationship from one of 'charity' to one of 'duty and entitlement,' strengthening the democratic spirit of India."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Describe the status and challenges of women's representation in the Indian political process, especially in the Lok Sabha.",
+      "answer": "Women's representation is a crucial indicator of a healthy democracy. **Current Status:** 1. **Historical Trend:** In the first Lok Sabha (1952), women's representation was very low (4.41%). It has slowly increased over decades, reaching 12.15% in the 16th Lok Sabha (2014) with 66 members. 2. **International Comparison:** Despite the increase, India's percentage of women in the national parliament remains lower than many other countries. 3. **Local Success:** At the local level (Panchayats and Municipalities), the 73rd and 74th amendments reserved 33% seats, which many states have now increased to 50%, leading to millions of women becoming local leaders. **Challenges:** 1. **Patriarchal Mindset:** Social barriers and traditional views often discourage women from entering the demanding world of politics. 2. **Lack of Internal Party Support:** Many political parties are still male-dominated and hesitate to give tickets to women in general elections. 3. **Pending Bill:** The Women's Reservation Bill, which proposes 33% reservation in the Lok Sabha and State Assemblies, has been pending for a long time."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "How does the Indian Constitution deal with the 'Protection of Minorities'? Discuss the relevant provisions.",
+      "answer": "The Indian Constitution is deeply committed to the protection of minorities, recognizing that a true democracy must protect the rights of smaller groups. 1. **Religious and Linguistic Basis:** Minorities in India are identified based on religion and language. 2. **Fundamental Rights (Articles 29-30):** Minority groups have the right to preserve their distinct language, script, and culture. They also have the right to establish and administer educational institutions of their choice. 3. **Non-discrimination:** The state is prohibited from discriminating against any citizen on grounds of religion or language in matters of public employment or providing aid to educational institutions. 4. **Secularism:** The overall secular framework ensures that no religion dominates the state, providing a safe environment for all minority faiths. 5. **Commissions:** National and State Commissions for Minorities have been established to monitor the implementation of these protections and redress grievances. These provisions aim to ensure 'Equality' and 'Social Justice' as promised in the Preamble."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain how 'Political Maturity' is achieved in a democracy according to the text. Use the Indian context to illustrate your answer.",
+      "answer": "Political maturity goes beyond just having a democratic structure; it is about the actual practice of democratic principles. 1. **Participation:** It is achieved when citizens move from just being voters to being active participants in the political process. 2. **Free and Fair Elections:** Regular, impartial elections where people can change the government based on performance indicate a mature system. 3. **Accountability:** When citizens demand transparency and the government feels answerable for its actions, the system matures. 4. **Case of India:** In India, political maturity is seen in the high voter turnout, even among the poor and illiterate. People have frequently voted out powerful governments that failed to deliver, showing their understanding of the power of the vote. The integration of local self-government (grassroots democracy) and the use of tools like RTI also show that democratic values have become an integral part of the political and social life of Indians."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "What is the importance of 'Decentralisation of Power' in preventing the misuse of power? Discuss with examples from the Indian administrative system.",
+      "answer": "Decentralisation of power is a key feature of the Indian Constitution. **Prevention of Misuse:** 1. **Distribution of Authority:** By dividing power between the Center, States, and Local bodies (Panchayats/Municipalities), it ensures that no single person or institution has absolute control. 2. **Checks and Balances:** Different levels of government act as a check on each other. If the center oversteps, states or the judiciary can intervene. 3. **Direct Accountability:** Local leaders are directly answerable to the people who live in their village or ward. This makes it harder to misuse power without being noticed. 4. **Grassroots Democracy:** Institutions like the Gram Sabha allow common citizens to participate in planning and auditing local work, further reducing the scope for corruption. **Example:** The 73rd and 74th Amendments have empowered local people to decide their own development priorities, taking the power away from distant bureaucrats in Delhi or state capitals and giving it to those directly affected by the decisions."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Describe the features of the 'Basic Structure' of the Indian Constitution as identified by the Judiciary.",
+      "answer": "The Judiciary has identified several core features as part of the 'Basic Structure' that cannot be amended by Parliament: 1. **Supremacy of the Constitution:** No law or amendment can be above the Constitution itself. 2. **Republican and Democratic form of Government:** India must remain a Republic (elected head) and a Democracy. 3. **Secular character:** The state must remain neutral and equal towards all religions. 4. **Separation of Powers:** The distinct roles of the Legislature, Executive, and Judiciary must be maintained. 5. **Federal character:** The distribution of power between the center and the states is a basic feature. 6. **Sovereignty and Integrity of India:** The independence and unity of the nation cannot be compromised. 7. **Fundamental Rights:** While they can be modified, their essential soul cannot be erased. 8. **Judicial Review:** The power of the courts to examine the validity of laws is fundamental."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "How does the Indian Constitution facilitate the process of 'National Integration' in such a diverse country?",
+      "answer": "National Integration is the process of bringing diverse groups into a single national identity while respecting their differences. 1. **Single Citizenship:** Unlike some federal countries, India has only one citizenship, promoting the feeling that 'we are all Indians first.' 2. **Preamble's Promise:** By aiming for Justice, Liberty, and Equality for all, the Constitution creates a sense of belonging for every citizen. 3. **Secularism:** By not favoring any religion, it allows people of all faiths to feel equally at home in India. 4. **Federalism:** By giving power to states, it respects regional identities and languages, preventing separatist feelings. 5. **Minority Rights:** Cultural and educational rights for minorities ensure they don't feel threatened by the majority. 6. **Fundamental Duties:** It urges citizens to promote harmony and the spirit of common brotherhood, which is essential for integration."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "What is the significance of the 'Rule of Law' in ensuring 'Social Justice' in India?",
+      "answer": "Rule of Law means that everyone is equal before the law and no one is above it. **Ensuring Social Justice:** 1. **End of Privilege:** It ensures that a wealthy or high-caste person cannot escape the consequences of breaking the law, protecting the poor and underprivileged. 2. **Protection from Discrimination:** If the state or an individual discriminates based on caste or gender, the Rule of Law allows the victim to seek justice in court. 3. **Administrative Fairness:** It ensures that government benefits and reservations are distributed according to established laws and rules, rather than personal favors. 4. **Stability:** By providing a predictable and fair legal system, it allows marginalized groups to fight for their rights through legitimate means. Without the Rule of Law, social justice would be impossible as those with power could easily oppress those without it."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Explain how the 'Prevention of Atrocities Act' works as a shield for Scheduled Castes and Scheduled Tribes.",
+      "answer": "The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, is a specialized law designed to protect these communities. **Functioning as a Shield:** 1. **Specific Offenses:** It identifies various acts of social and economic humiliation as crimes (like parading someone naked, forcing them to eat inedible substances, or illegal eviction from land). 2. **Strict Punishment:** It provides for much harsher penalties for offenses committed against SC/ST individuals compared to general laws. 3. **Special Courts:** It mandates the setting up of special courts for the speedy trial of these cases to ensure timely justice. 4. **Deterrence:** The act aims to create fear in the minds of potential oppressors and a sense of safety among the marginalized. 5. **State Responsibility:** It makes it the duty of the government to provide protection, rehabilitation, and legal aid to the victims of such atrocities. It is a vital tool for establishing 'Social Justice' as envisioned in the Constitution."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Analyze the impact of 'Universal Adult Franchise' on the nature of Indian Democracy since 1950.",
+      "answer": "Universal Adult Franchise was a bold and revolutionary step taken by the makers of the Indian Constitution. **Impact:** 1. **Largest Democracy:** It made India the world's largest democracy by giving millions of people, including the poor, illiterate, and women, the right to vote. 2. **Equality in Voting:** It established the principle of 'one person, one vote, one value,' regardless of social status or wealth. 3. **Political Awareness:** Over decades, it has led to a massive increase in political awareness among the masses. 4. **Empowerment of Marginalized:** It gave groups like Dalits, Adivasis, and women a powerful tool to influence government policies and demand their rights. 5. **Change in Power Dynamics:** It forced political parties to cater to the needs of the masses rather than just the elite. 6. **Stability:** It provides a peaceful and legitimate way for the people to express their dissatisfaction and change the government, ensuring the long-term stability of the democratic system."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Discuss the various laws and measures taken in India to ensure the empowerment and safety of women.",
+      "answer": "Women's empowerment is a key focus for social justice in India. 1. **Dowry Prohibition Act:** To stop the harassment and death of women related to dowry demands. 2. **Domestic Violence Act:** Provides legal protection to women against physical, emotional, and economic abuse by family members. 3. **Sexual Harassment at Workplace Act:** Ensures a safe and dignified professional environment for women. 4. **Maternity Benefit Act:** Protects the jobs of women during pregnancy and provides them with paid leave. 5. **Political Reservation:** 73rd and 74th amendments reserved 33% (now 50% in many states) of seats in local bodies for women, giving them leadership roles. 6. **National Commission for Women:** A statutory body to redress women's grievances and monitor their safety. 7. **Daughters' Right to Property:** Amendments in the Hindu Succession Act have given daughters equal rights in ancestral property. These measures collectively aim to create a favorable environment for women's self-development and security."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Why is the Indian Constitution described as a 'Living Document'? Discuss with examples of how it has adapted to changing times.",
+      "answer": "A 'Living Document' is one that evolves and grows over time. The Indian Constitution is not a dead, static book of rules. 1. **Amendability (Article 368):** The Constitution itself provides a mechanism for its amendment, allowing it to address new challenges. 2. **Adaptability:** Since 1950, it has been amended over 100 times to reflect changing social, economic, and political needs. **Examples:** 1. **RTI and RTE:** New fundamental rights like the Right to Information and Right to Education were added as society realized their importance. 2. **Decentralisation:** The 73rd and 74th amendments were added to give constitutional status to local governments, reflecting a shift towards grassroots democracy. 3. **GST:** Amendments were made to change the taxation system for modern economic needs. 4. **Judicial Interpretation:** The Judiciary has continuously re-interpreted the Constitution, like discovering the 'Right to Privacy' as part of the 'Right to Life.' This flexibility allows the Constitution to remain relevant and effective even decades after it was written."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "What is the role of 'Transparency' and 'Accountability' in a successful democracy? How does the RTI Act support these values?",
+      "answer": "Transparency and Accountability are the twin pillars of good governance in a democracy. 1. **Informed Citizens:** Transparency ensures that people know how their government works and how their money is spent. Informed citizens can make better choices during elections. 2. **Reducing Corruption:** When government actions are open to public scrutiny, officials are less likely to engage in corrupt practices. 3. **Responsibility:** Accountability ensures that rulers are responsible for their promises and actions. If they fail, they are answerable to the people and the courts. **Role of RTI Act:** 1. **Legal Right:** It turns these abstract values into a concrete legal right. Citizens no longer have to beg for information; they can demand it. 2. **Communication:** It forces government departments to maintain proper records and respond to public queries, improving the efficiency of administration. 3. **Trust:** By reducing the 'element of secrecy' that characterized the colonial era, the RTI Act has helped build trust between the government and the people, making the democracy more participatory and legitimate."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Explain the significance of the 'Panchayati Raj' system in the context of decentralisation of power in India.",
+      "answer": "Panchayati Raj is the system of rural local self-government in India. **Significance:** 1. **Grassroots Democracy:** It takes democracy from the Parliament in Delhi to the smallest villages, allowing common people to govern themselves. 2. **Local Solutions:** Villagers understand their local problems (like water, roads, school maintenance) better than distant officials and can find more effective solutions. 3. **Leadership Development:** It serves as a training ground for future state and national leaders. Many women and members of marginalized groups get their first chance at leadership in Panchayats. 4. **Administrative Efficiency:** It reduces the burden on state and central governments, allowing them to focus on larger national issues while local bodies handle local administration. 5. **Direct Participation:** Through the 'Gram Sabha,' every adult villager has a say in the village's development plan, making the system highly participatory and transparent."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize the overall progress of Indian Democracy from 1950 to the present day as discussed in this chapter.",
+      "answer": "Since 1950, Indian democracy has shown remarkable resilience and growth. 1. **Democratic Expansion:** India has successfully transitioned into the world's largest democracy through the implementation of Universal Adult Franchise and the reduction of the voting age to 18, involving millions of young citizens. 2. **Grassroots Strength:** The 73rd and 74th Amendments have constitutionalized local self-governance, ensuring that democracy is not just at the top but at the grassroots level. 3. **Transparency:** The RTI Act has significantly reduced secrecy, increased accountability, and empowered citizens to participate in governance. 4. **Social Justice:** Deliberate steps like reservation policies, minority protections, and women's empowerment laws have aimed to make the society more equitable and just, though challenges remain. 5. **Judicial Vigilance:** The Judiciary has played a crucial role in protecting the Constitution's basic structure and fundamental rights, acting as a check on the powers of the Parliament. 6. **Political Maturity:** The Indian people have shown great maturity by participating in regular elections and using their vote to hold governments accountable. Overall, while many challenges remain, the Constitution has proven to be a robust framework that has successfully steered India towards being a progressive, secular, and democratic republic."
+    }
+  ]
+}

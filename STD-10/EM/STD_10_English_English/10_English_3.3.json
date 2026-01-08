@@ -1,0 +1,821 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.3.3",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Stephen Hawking"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who wrote the book 'A Brief History of Time'?",
+      "options": [
+        { "option_id": 1, "text": "Isaac Newton", "is_correct": false },
+        { "option_id": 2, "text": "Albert Einstein", "is_correct": false },
+        { "option_id": 3, "text": "Stephen Hawking", "is_correct": true },
+        { "option_id": 4, "text": "Galileo Galilei", "is_correct": false }
+      ],
+      "answer": "Stephen Hawking"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where was Stephen Hawking born?",
+      "options": [
+        { "option_id": 1, "text": "London, England", "is_correct": false },
+        { "option_id": 2, "text": "Oxford, England", "is_correct": true },
+        { "option_id": 3, "text": "Cambridge, England", "is_correct": false },
+        { "option_id": 4, "text": "St. Albans, England", "is_correct": false }
+      ],
+      "answer": "Oxford, England"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "When was Stephen Hawking born?",
+      "options": [
+        { "option_id": 1, "text": "8th January 1942", "is_correct": true },
+        { "option_id": 2, "text": "14th March 1879", "is_correct": false },
+        { "option_id": 3, "text": "4th January 1643", "is_correct": false },
+        { "option_id": 4, "text": "17th June 1950", "is_correct": false }
+      ],
+      "answer": "8th January 1942"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is special about Stephen Hawking's birthday?",
+      "options": [
+        { "option_id": 1, "text": "It's Christmas Day.", "is_correct": false },
+        { "option_id": 2, "text": "It's the 300th death anniversary of Galileo.", "is_correct": true },
+        { "option_id": 3, "text": "It's the birth anniversary of Einstein.", "is_correct": false },
+        { "option_id": 4, "text": "It's New Year's Day.", "is_correct": false }
+      ],
+      "answer": "It's the 300th death anniversary of Galileo."
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What were Stephen Hawking's parents' professions?",
+      "options": [
+        { "option_id": 1, "text": "Father was a doctor, mother was a teacher.", "is_correct": false },
+        { "option_id": 2, "text": "Father was a medical researcher, mother was a secretary.", "is_correct": true },
+        { "option_id": 3, "text": "Both were scientists.", "is_correct": false },
+        { "option_id": 4, "text": "Father was an engineer, mother was a writer.", "is_correct": false }
+      ],
+      "answer": "Father was a medical researcher, mother was a secretary."
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where did the Hawking family move in 1950?",
+      "options": [
+        { "option_id": 1, "text": "London", "is_correct": false },
+        { "option_id": 2, "text": "Cambridge", "is_correct": false },
+        { "option_id": 3, "text": "St. Albans", "is_correct": true },
+        { "option_id": 4, "text": "Oxford", "is_correct": false }
+      ],
+      "answer": "St. Albans"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How was Stephen Hawking as a student in school?",
+      "options": [
+        { "option_id": 1, "text": "He was a top-ranking student.", "is_correct": false },
+        { "option_id": 2, "text": "He was a very poor student.", "is_correct": false },
+        { "option_id": 3, "text": "He was not an exceptional student.", "is_correct": true },
+        { "option_id": 4, "text": "He was known for his athletic abilities.", "is_correct": false }
+      ],
+      "answer": "He was not an exceptional student."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What was Stephen Hawking's nickname in school?",
+      "options": [
+        { "option_id": 1, "text": "Newton", "is_correct": false },
+        { "option_id": 2, "text": "Einstein", "is_correct": true },
+        { "option_id": 3, "text": "Galileo", "is_correct": false },
+        { "option_id": 4, "text": "Genius", "is_correct": false }
+      ],
+      "answer": "Einstein"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which subjects did Stephen Hawking want to study at the university?",
+      "options": [
+        { "option_id": 1, "text": "Medicine", "is_correct": false },
+        { "option_id": 2, "text": "Mathematics", "is_correct": true },
+        { "option_id": 3, "text": "Literature", "is_correct": false },
+        { "option_id": 4, "text": "History", "is_correct": false }
+      ],
+      "answer": "Mathematics"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which university did Stephen Hawking attend for his undergraduate studies?",
+      "options": [
+        { "option_id": 1, "text": "Cambridge University", "is_correct": false },
+        { "option_id": 2, "text": "University of London", "is_correct": false },
+        { "option_id": 3, "text": "University of Oxford", "is_correct": true },
+        { "option_id": 4, "text": "Harvard University", "is_correct": false }
+      ],
+      "answer": "University of Oxford"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why did Stephen Hawking study physics instead of mathematics at Oxford?",
+      "options": [
+        { "option_id": 1, "text": "His father wanted him to study physics.", "is_correct": false },
+        { "option_id": 2, "text": "Mathematics was not available at Oxford at that time.", "is_correct": true },
+        { "option_id": 3, "text": "He found mathematics too difficult.", "is_correct": false },
+        { "option_id": 4, "text": "He preferred physics over mathematics.", "is_correct": false }
+      ],
+      "answer": "Mathematics was not available at Oxford at that time."
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "At what age did Stephen Hawking start noticing symptoms of his illness?",
+      "options": [
+        { "option_id": 1, "text": "15", "is_correct": false },
+        { "option_id": 2, "text": "19", "is_correct": false },
+        { "option_id": 3, "text": "21", "is_correct": true },
+        { "option_id": 4, "text": "25", "is_correct": false }
+      ],
+      "answer": "21"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What disease was Stephen Hawking diagnosed with?",
+      "options": [
+        { "option_id": 1, "text": "Parkinson's disease", "is_correct": false },
+        { "option_id": 2, "text": "Multiple Sclerosis", "is_correct": false },
+        { "option_id": 3, "text": "Amyotrophic Lateral Sclerosis (ALS) or Lou Gehrig's disease", "is_correct": true },
+        { "option_id": 4, "text": "Muscular Dystrophy", "is_correct": false }
+      ],
+      "answer": "Amyotrophic Lateral Sclerosis (ALS) or Lou Gehrig's disease"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What was the initial prognosis given by doctors about Stephen Hawking's life expectancy?",
+      "options": [
+        { "option_id": 1, "text": "5 years", "is_correct": false },
+        { "option_id": 2, "text": "10 years", "is_correct": false },
+        { "option_id": 3, "text": "A few years, maybe 2 and a half years", "is_correct": true },
+        { "option_id": 4, "text": "Normal lifespan", "is_correct": false }
+      ],
+      "answer": "A few years, maybe 2 and a half years"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "How did the diagnosis of ALS affect Stephen Hawking's attitude towards life?",
+      "options": [
+        { "option_id": 1, "text": "He became very depressed and gave up.", "is_correct": false },
+        { "option_id": 2, "text": "He poured himself into his work and research.", "is_correct": true },
+        { "option_id": 3, "text": "He traveled the world.", "is_correct": false },
+        { "option_id": 4, "text": "He started writing fiction.", "is_correct": false }
+      ],
+      "answer": "He poured himself into his work and research."
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who did Stephen Hawking marry in 1965?",
+      "options": [
+        { "option_id": 1, "text": "Elaine Mason", "is_correct": false },
+        { "option_id": 2, "text": "Jane Wilde", "is_correct": true },
+        { "option_id": 3, "text": "Marie Curie", "is_correct": false },
+        { "option_id": 4, "text": "Rosalind Franklin", "is_correct": false }
+      ],
+      "answer": "Jane Wilde"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What was the topic of Stephen Hawking's Ph.D. research?",
+      "options": [
+        { "option_id": 1, "text": "Black holes", "is_correct": true },
+        { "option_id": 2, "text": "The Big Bang theory", "is_correct": false },
+        { "option_id": 3, "text": "Quantum mechanics", "is_correct": false },
+        { "option_id": 4, "text": "String theory", "is_correct": false }
+      ],
+      "answer": "Black holes"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "In 1974, what prestigious scientific body was Stephen Hawking inducted into?",
+      "options": [
+        { "option_id": 1, "text": "National Academy of Sciences", "is_correct": false },
+        { "option_id": 2, "text": "The Royal Society", "is_correct": true },
+        { "option_id": 3, "text": "American Physical Society", "is_correct": false },
+        { "option_id": 4, "text": "European Organization for Nuclear Research (CERN)", "is_correct": false }
+      ],
+      "answer": "The Royal Society"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What prestigious academic position did Stephen Hawking hold at Cambridge University?",
+      "options": [
+        { "option_id": 1, "text": "Professor of Mathematics", "is_correct": false },
+        { "option_id": 2, "text": "Lucasian Professor of Mathematics", "is_correct": true },
+        { "option_id": 3, "text": "Professor of Physics", "is_correct": false },
+        { "option_id": 4, "text": "Professor of Cosmology", "is_correct": false }
+      ],
+      "answer": "Lucasian Professor of Mathematics"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who else had held the position of Lucasian Professor of Mathematics before Stephen Hawking?",
+      "options": [
+        { "option_id": 1, "text": "Albert Einstein", "is_correct": false },
+        { "option_id": 2, "text": "Isaac Newton", "is_correct": true },
+        { "option_id": 3, "text": "Galileo Galilei", "is_correct": false },
+        { "option_id": 4, "text": "Charles Darwin", "is_correct": false }
+      ],
+      "answer": "Isaac Newton"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "How did Stephen Hawking communicate after losing his speech due to a tracheotomy?",
+      "options": [
+        { "option_id": 1, "text": "Sign language", "is_correct": false },
+        { "option_id": 2, "text": "Writing on a board", "is_correct": false },
+        { "option_id": 3, "text": "Using a computer program and a voice synthesizer", "is_correct": true },
+        { "option_id": 4, "text": "He could not communicate", "is_correct": false }
+      ],
+      "answer": "Using a computer program and a voice synthesizer"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the book 'A Brief History of Time'?",
+      "options": [
+        { "option_id": 1, "text": "A biography of famous scientists", "is_correct": false },
+        { "option_id": 2, "text": "An overview of cosmology for the general public", "is_correct": true },
+        { "option_id": 3, "text": "A detailed technical book on black holes", "is_correct": false },
+        { "option_id": 4, "text": "A history of the Royal Society", "is_correct": false }
+      ],
+      "answer": "An overview of cosmology for the general public"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the term used in the text to describe someone who studies the universe's origin and development?",
+      "options": [
+        { "option_id": 1, "text": "Astronomer", "is_correct": false },
+        { "option_id": 2, "text": "Physicist", "is_correct": false },
+        { "option_id": 3, "text": "Cosmologist", "is_correct": true },
+        { "option_id": 4, "text": "Mathematician", "is_correct": false }
+      ],
+      "answer": "Cosmologist"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What does ALS stand for?",
+      "options": [
+        { "option_id": 1, "text": "Advanced Lateral Sclerosis", "is_correct": false },
+        { "option_id": 2, "text": "Amyotrophic Lateral Sclerosis", "is_correct": true },
+        { "option_id": 3, "text": "Acute Lateral Sclerosis", "is_correct": false },
+        { "option_id": 4, "text": "Amyotrophic Linear Sclerosis", "is_correct": false }
+      ],
+      "answer": "Amyotrophic Lateral Sclerosis"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "According to the text, what is Stephen Hawking a shining example of?",
+      "options": [
+        { "option_id": 1, "text": "Scientific brilliance", "is_correct": false },
+        { "option_id": 2, "text": "Courage and determination", "is_correct": true },
+        { "option_id": 3, "text": "Academic achievement", "is_correct": false },
+        { "option_id": 4, "text": "Financial success", "is_correct": false }
+      ],
+      "answer": "Courage and determination"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which word from the text means 'a foretelling of the course of a disease'?",
+      "options": [
+        { "option_id": 1, "text": "Diagnosis", "is_correct": false },
+        { "option_id": 2, "text": "Prognosis", "is_correct": true },
+        { "option_id": 3, "text": "Symptom", "is_correct": false },
+        { "option_id": 4, "text": "Treatment", "is_correct": false }
+      ],
+      "answer": "Prognosis"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which word from the text means 'admitted formally to a position or organization'?",
+      "options": [
+        { "option_id": 1, "text": "Invited", "is_correct": false },
+        { "option_id": 2, "text": "Appointed", "is_correct": false },
+        { "option_id": 3, "text": "Inducted", "is_correct": true },
+        { "option_id": 4, "text": "Selected", "is_correct": false }
+      ],
+      "answer": "Inducted"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What effect does ALS have on the body?",
+      "options": [
+        { "option_id": 1, "text": "It causes memory loss.", "is_correct": false },
+        { "option_id": 2, "text": "It weakens the immune system.", "is_correct": false },
+        { "option_id": 3, "text": "It destroys nerve cells in the brain and spinal cord that control muscle movement.", "is_correct": true },
+        { "option_id": 4, "text": "It affects vision and hearing.", "is_correct": false }
+      ],
+      "answer": "It destroys nerve cells in the brain and spinal cord that control muscle movement."
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What did Stephen Hawking's father want him to study?",
+      "options": [
+        { "option_id": 1, "text": "Mathematics", "is_correct": false },
+        { "option_id": 2, "text": "Physics", "is_correct": false },
+        { "option_id": 3, "text": "Medicine", "is_correct": true },
+        { "option_id": 4, "text": "Chemistry", "is_correct": false }
+      ],
+      "answer": "Medicine"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the main message conveyed through Stephen Hawking's life story in the text?",
+      "options": [
+        { "option_id": 1, "text": "One should always follow their parents' advice on career choices.", "is_correct": false },
+        { "option_id": 2, "text": "Intelligence is the most important trait for success.", "is_correct": false },
+        { "option_id": 3, "text": "Physical disabilities cannot stop a determined mind from achieving greatness.", "is_correct": true },
+        { "option_id": 4, "text": "Studying at prestigious universities guarantees success.", "is_correct": false }
+      ],
+      "answer": "Physical disabilities cannot stop a determined mind from achieving greatness."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Where was Stephen Hawking born and on what date?",
+      "answer": "Stephen Hawking was born in Oxford, England on 8th January 1942."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is the significance of Stephen Hawking's birth date in relation to another famous scientist?",
+      "answer": "Stephen Hawking was born on the 300th death anniversary of Galileo."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Who were Stephen Hawking's parents and what were their professions?",
+      "answer": "His parents were Frank and Isobel Hawking. His father was a medical researcher and his mother was a secretary."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Where did the Hawking family move to in 1950?",
+      "answer": "The family moved to St. Albans in 1950."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "How was Stephen Hawking's academic performance in his early school years?",
+      "answer": "He was not an exceptional student in his early school years; he was just an ordinary student."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What nickname did Stephen Hawking's friends give him at school and why?",
+      "answer": "His friends gave him the nickname 'Einstein', presumably acknowledging his intelligence despite his average grades."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What subject did Stephen Hawking want to study in college, and what did he end up studying and why?",
+      "answer": "He wanted to study Mathematics, but since it wasn't available at University College, Oxford, he studied Physics instead."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What subject did Stephen Hawking's father prefer him to study?",
+      "answer": "His father preferred him to study Medicine."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "At what age did Stephen Hawking start noticing symptoms of his illness, and what were they?",
+      "answer": "He started noticing symptoms at the age of 21. He was becoming increasingly clumsy and even fell down a couple of times for no visible reason."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What disease was Stephen Hawking diagnosed with, and what is its other name?",
+      "answer": "He was diagnosed with Amyotrophic Lateral Sclerosis (ALS), also known as Lou Gehrig's disease."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What prognosis did the doctors initially give Stephen Hawking regarding his lifespan?",
+      "answer": "Doctors predicted he had only a few years to live, maybe two and a half years."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "How did Stephen Hawking react to his diagnosis and the short life expectancy predicted by doctors?",
+      "answer": "Instead of succumbing to depression, he decided to pour himself into his work and research."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What significant event in his personal life happened in 1965, and how did it affect him?",
+      "answer": "In 1965, he married Jane Wilde. Their relationship gave him a reason to live and the determination to continue his research."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What was the main subject of Stephen Hawking's research?",
+      "answer": "His research focused on the basic laws of the universe, particularly black holes."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What major recognition did Stephen Hawking receive in 1974?",
+      "answer": "In 1974, he was inducted into the Royal Society."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What prestigious academic position did Stephen Hawking hold at Cambridge University?",
+      "answer": "He held the position of Lucasian Professor of Mathematics at Cambridge University."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Who was a famous predecessor of Stephen Hawking in the role of Lucasian Professor of Mathematics?",
+      "answer": "Sir Isaac Newton was a famous predecessor in that position."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "How did Stephen Hawking communicate later in his life after losing his ability to speak?",
+      "answer": "He communicated using a computer program and a voice synthesizer."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is the title of Stephen Hawking's most famous book aimed at the general public?",
+      "answer": "His most famous book is 'A Brief History of Time'."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is the main theme or purpose of the book 'A Brief History of Time'?",
+      "answer": "It provides an overview of cosmology and the origins of the universe in language aimed at the general public."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "How did the book 'A Brief History of Time' perform commercially?",
+      "answer": "It became an international bestseller."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does the text say Stephen Hawking is a 'shining example' of?",
+      "answer": "He is a shining example of courage and determination."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Explain what a cosmologist does.",
+      "answer": "A cosmologist is a scientist who studies the origin, evolution, and eventual fate of the universe."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Define the term 'prognosis' in a medical context.",
+      "answer": "Prognosis is a doctor's opinion about how a disease will develop and the likelihood of recovery."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What does it mean to be 'inducted' into a society?",
+      "answer": "To be inducted means to be formally admitted as a member to a society or organization."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Describe the effects of Amyotrophic Lateral Sclerosis (ALS) on the human body.",
+      "answer": "ALS destroys the nerve cells in the brain and spinal cord that control voluntary muscle movement, leading to progressive paralysis."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Despite his physical limitations, what did Stephen Hawking continue to do?",
+      "answer": "He continued his scientific research, wrote books, and gave lectures."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How does Stephen Hawking's story inspire others?",
+      "answer": "His story inspires others by showing that great achievements are possible even in the face of severe physical disability through determination and a positive mindset."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What phrase does Stephen Hawking use to describe his attitude towards his condition in the 'Warming up' section?",
+      "answer": "He says, 'it matters that you don't just give up.'"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Complete the following quote from Stephen Hawking: 'However difficult life may seem, there is always something you can do and succeed at. It matters that you just don't ______.'",
+      "answer": "give up."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Mention two famous scientists, other than Stephen Hawking, referred to in the text.",
+      "answer": "Galileo and Isaac Newton."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'undeterred'?",
+      "answer": "Undeterred means persevering with something despite setbacks or opposition."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the meaning of 'epitome'?",
+      "answer": "Epitome means a perfect example of a particular quality or type."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does the text imply about the relationship between academic performance in school and future success based on Hawking's life?",
+      "answer": "It implies that average academic performance in school does not necessarily determine future success or intelligence."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why was the publication of 'A Brief History of Time' significant for the general public?",
+      "answer": "It was significant because it made complex scientific concepts about the universe accessible and understandable to non-scientists."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What role did technology play in Stephen Hawking's later life and career?",
+      "answer": "Technology, specifically a computer and voice synthesizer, was crucial in enabling him to communicate and continue his work after losing his speech."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Identify a quality of Stephen Hawking that is highlighted throughout the text.",
+      "answer": "Resilience, perseverance, or determination."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What do you understand by the term 'tracheotomy' mentioned in the text?",
+      "answer": "A tracheotomy is a surgical procedure to create an opening through the neck into the trachea (windpipe) to allow breathing."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Explain the phrase 'pour oneself into one's work'.",
+      "answer": "It means to dedicate oneself completely and energetically to one's work."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How did Stephen Hawking defy the doctors' initial prognosis?",
+      "answer": "He lived for decades longer than the few years they initially predicted."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Describe Stephen Hawking's early life and education up to his diagnosis.",
+      "answer": "Stephen Hawking was born on January 8, 1942, in Oxford, England, to Frank and Isobel Hawking. His father was a medical researcher and his mother a secretary. The family moved to St. Albans in 1950. As a student, Hawking was not exceptional; his grades were average, though his friends nicknamed him 'Einstein', hinting at his hidden potential. His father wanted him to study medicine, but Hawking was interested in Mathematics. He attended University College, Oxford, where he studied Physics since Mathematics was not available there. It was during his final year at Oxford that he began to notice symptoms of clumsiness."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Detail the impact of the ALS diagnosis on Stephen Hawking's life and how he responded to it.",
+      "answer": "At the age of 21, Stephen Hawking was diagnosed with Amyotrophic Lateral Sclerosis (ALS), a devastating disease that progressively paralyzes the body. Doctors gave him a grim prognosis of only a few years to live. This diagnosis was a huge shock. However, instead of falling into depression, Hawking showed immense courage. He decided to dedicate himself completely to his research and work. Meeting and marrying Jane Wilde in 1965 gave him a renewed sense of purpose and the determination to live. This shift in mindset marked a turning point, leading him to achieve remarkable scientific breakthroughs despite his physical deterioration."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Discuss Stephen Hawking's major scientific contributions and professional achievements.",
+      "answer": "Stephen Hawking made significant contributions to the field of cosmology. His research primarily focused on the basic laws governing the universe, with a particular emphasis on the nature of black holes. He proposed that black holes are not completely black but emit radiation, now known as Hawking radiation. Professionally, he achieved great heights. In 1974, he was inducted into the prestigious Royal Society. Later, he was appointed as the Lucasian Professor of Mathematics at Cambridge University, a chair previously held by Sir Isaac Newton. He also authored the international bestseller 'A Brief History of Time', making complex cosmological concepts accessible to the general public."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Explain how Stephen Hawking communicated after losing his speech and the role of technology in his life.",
+      "answer": "As ALS progressed, Stephen Hawking's physical abilities declined, and he eventually lost his ability to speak following a tracheotomy. To communicate, he relied on advanced technology. He used a specially designed computer program attached to his wheelchair. By using a cheek muscle to control a cursor on a screen, he could select words and phrases. These were then converted into speech by a voice synthesizer. This technology was vital, allowing him not only to communicate with people in his daily life but also to write books, give lectures, and continue sharing his scientific ideas with the world."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Why is Stephen Hawking considered a symbol of courage and determination? Support your answer with examples from the text.",
+      "answer": "Stephen Hawking is considered a symbol of courage and determination because he achieved unparalleled success in his field despite facing a debilitating and terminal illness. Diagnosed with ALS at 21 and given only a few years to live, he defied the odds and lived a full and productive life for decades. He did not let his physical paralysis stop his intellectual pursuits. He continued his groundbreaking research on black holes, held one of the most prestigious academic positions as Lucasian Professor, wrote best-selling books like 'A Brief History of Time', and traveled the world giving lectures, all while communicating through a computer. His life exemplifies his own quote: 'However difficult life may seem, there is always something you can do and succeed at. It matters that you just don't give up.'"
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Summarize the key points of the chapter 'Stephen Hawking'.",
+      "answer": "The chapter outlines the life of the renowned physicist Stephen Hawking. Born in 1942 in Oxford, he was an average student initially nicknamed 'Einstein'. He studied Physics at Oxford despite wishing for Mathematics. At 21, he was diagnosed with ALS and given a short life expectancy. Undeterred, he poured himself into research on black holes and cosmology. His marriage to Jane Wilde gave him a reason to live. He achieved great professional success, becoming a Fellow of the Royal Society and holding Newton's chair as Lucasian Professor at Cambridge. Despite losing his speech and becoming paralyzed, he communicated using technology and authored the bestseller 'A Brief History of Time'. He is celebrated as an epitome of courage and determination, proving that physical limitations need not hinder intellectual greatness."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Analyze the significance of Stephen Hawking's book 'A Brief History of Time'.",
+      "answer": "Stephen Hawking's book 'A Brief History of Time' is significant for several reasons. Firstly, it is a pioneering work in popular science, attempting to explain complex cosmological concepts like the Big Bang, black holes, and the nature of time to a non-specialist audience without using complicated mathematics. Secondly, its huge commercial success, becoming an international bestseller, demonstrated a immense public appetite for understanding scientific ideas about the universe. Thirdly, it established Hawking not just as a brilliant scientist within academia but also as a global public intellectual and a cultural icon. The book helped bridge the gap between advanced theoretical physics and the general public's understanding."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Compare Stephen Hawking's life with the quote: 'However difficult life may seem, there is always something you can do and succeed at. It matters that you just don't give up.'",
+      "answer": "Stephen Hawking's life is a perfect embodiment of this quote. His life became incredibly difficult at a young age when he was diagnosed with a progressive, debilitating disease and given a grim prognosis. Facing complete paralysis and the loss of speech, it would have been easy to give up. However, he chose to focus on what he *could* still do – use his brilliant mind. He succeeded spectacularly in theoretical physics, becoming one of the most celebrated scientists of his time. His continued work, research, writing, and public speaking, enabled by technology and sheer will, demonstrate the truth of the quote: that success is possible even in the most dire circumstances if one refuses to give up."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "What lessons can be learned from Stephen Hawking's life story?",
+      "answer": "Several valuable lessons can be learned from Stephen Hawking's life. First, the power of determination and a positive mindset in overcoming adversity; he defied a terminal diagnosis to achieve greatness. Second, the importance of focusing on one's abilities rather than disabilities; he leveraged his intellect despite physical paralysis. Third, the value of passion for one's work; his love for physics drove him forward. Fourth, the crucial role of support systems, like his family and technology, in navigating challenges. Finally, his life teaches us that intellectual pursuit and contribution to society are possible regardless of physical limitations, inspiring us not to let obstacles define our potential."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "Based on the text, write a character sketch of Stephen Hawking emphasizing his resilience.",
+      "answer": "Stephen Hawking emerges from the text as a figure of immense resilience. Initially an average student, his brilliance was hidden. The defining moment of his character was his response to the devastating ALS diagnosis at 21. Faced with a short life expectancy and progressive paralysis, he did not succumb to despair. Instead, he demonstrated remarkable mental toughness, channeling his energy into his scientific work. His marriage provided emotional strength. Professionally, he achieved the highest honors, including the Lucasian Professorship and Royal Society fellowship. Even the loss of speech did not silence him; he adapted, using technology to communicate and publish a bestseller. His life is a testament to an unbreakable spirit that refused to be defined by physical limitations, making him a global symbol of courage and the power of the human mind."
+    },
+    {
+      "question_id": 81,
+      "question_type": "MCQ",
+      "question": "The phrase 'undeterred by this' in the text refers to Stephen Hawking being undeterred by what?",
+      "options": [
+        { "option_id": 1, "text": "His poor grades in school", "is_correct": false },
+        { "option_id": 2, "text": "His father's wish for him to study medicine", "is_correct": false },
+        { "option_id": 3, "text": "The diagnosis of ALS and the grim prognosis", "is_correct": true },
+        { "option_id": 4, "text": "The difficulty of studying physics", "is_correct": false }
+      ],
+      "answer": "The diagnosis of ALS and the grim prognosis"
+    },
+    {
+      "question_id": 82,
+      "question_type": "MCQ",
+      "question": "The text mentions Stephen Hawking is an 'epitome' of something. What is it?",
+      "options": [
+        { "option_id": 1, "text": "A brilliant physicist", "is_correct": false },
+        { "option_id": 2, "text": "A successful author", "is_correct": false },
+        { "option_id": 3, "text": "Courage and determination", "is_correct": true },
+        { "option_id": 4, "text": "A Lucasian Professor", "is_correct": false }
+      ],
+      "answer": "Courage and determination"
+    },
+    {
+      "question_id": 83,
+      "question_type": "MCQ",
+      "question": "What did Jane Wilde provide for Stephen Hawking?",
+      "options": [
+        { "option_id": 1, "text": "Financial support", "is_correct": false },
+        { "option_id": 2, "text": "A reason to live and determination", "is_correct": true },
+        { "option_id": 3, "text": "Medical treatment", "is_correct": false },
+        { "option_id": 4, "text": "Scientific ideas", "is_correct": false }
+      ],
+      "answer": "A reason to live and determination"
+    },
+    {
+      "question_id": 84,
+      "question_type": "MCQ",
+      "question": "Which statement about Stephen Hawking's communication is true based on the text?",
+      "options": [
+        { "option_id": 1, "text": "He regained his speech after treatment.", "is_correct": false },
+        { "option_id": 2, "text": "He communicated through handwritten notes.", "is_correct": false },
+        { "option_id": 3, "text": "He relied on a voice synthesizer and computer to speak.", "is_correct": true },
+        { "option_id": 4, "text": "He used sign language interpreters.", "is_correct": false }
+      ],
+      "answer": "He relied on a voice synthesizer and computer to speak."
+    },
+    {
+      "question_id": 85,
+      "question_type": "MCQ",
+      "question": "What does the text suggest about the relationship between physical disability and achieving greatness?",
+      "options": [
+        { "option_id": 1, "text": "Physical disability is a major barrier to success.", "is_correct": false },
+        { "option_id": 2, "text": "Greatness is only possible for the physically fit.", "is_correct": false },
+        { "option_id": 3, "text": "A determined mind can achieve greatness despite physical disabilities.", "is_correct": true },
+        { "option_id": 4, "text": "Physical disability automatically leads to greatness.", "is_correct": false }
+      ],
+      "answer": "A determined mind can achieve greatness despite physical disabilities."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Mention the years of birth and death of Galileo Galilei as mentioned in the text.",
+      "answer": "Born: 1564, Died: 1642."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Mention the years of birth and death of Isaac Newton as mentioned in the text.",
+      "answer": "Born: 1642, Died: 1727."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Mention the years of birth and death of Albert Einstein as mentioned in the text.",
+      "answer": "Born: 1879, Died: 1955."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "List three countries involved in the Square Kilometre Array (SKA) project according to the 'Warming up' section.",
+      "answer": "Australia, South Africa, and India (as a full member)."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the primary goal of the Square Kilometre Array (SKA) project?",
+      "answer": "Its primary goal is to create the world's largest radio telescope to study the universe."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "From which university did Stephen Hawking obtain his Ph.D.?",
+      "answer": "He obtained his Ph.D. from Cambridge University."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Identify the conjunctions in the sentence: 'Stephen Hawking was born on the 8th of January, 1942, in Oxford, England, and it was the 300th death anniversary of Galileo.'",
+      "answer": "and"
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Identify the conjunction in the sentence: 'He wanted to study mathematics, but it was not available at the university, so he studied physics instead.'",
+      "answer": "but, so"
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Rewrite the sentence using 'Though': 'He was not an exceptional student, but his friends nicknamed him Einstein.'",
+      "answer": "Though he was not an exceptional student, his friends nicknamed him Einstein."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Change the voice of the sentence: 'Stephen Hawking wrote a book.'",
+      "answer": "A book was written by Stephen Hawking."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Imagine you are interviewing Stephen Hawking. Based on the text, write three questions you would ask him about his life and work, and provide the likely answers he might give.",
+      "answer": "Q1: Professor Hawking, what motivated you to continue your research after such a devastating diagnosis at a young age? \nA1: Well, the realization that my time might be short made me focus. I had a lot I wanted to achieve, and my work gave me a sense of purpose. My marriage to Jane also gave me a reason to live. \n\nQ2: Your book 'A Brief History of Time' was a massive success. Why did you feel it was important to write a book about cosmology for the general public? \nA2: I believe science shouldn't just be for scientists. The questions about the universe's origin and fate are fundamental to everyone. I wanted to explain these complex ideas in a way that anyone could understand and appreciate the wonder of the cosmos. \n\nQ3: You held the same academic chair as Isaac Newton. How did that feel, and did it pressure you? \nA3: It was, of course, a great honor to hold the Lucasian Professorship. It's a position with immense history. Rather than pressure, I felt a sense of responsibility to continue the tradition of groundbreaking research at Cambridge."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Write a short speech (about 100 words) you would deliver at a school assembly highlighting the inspirational qualities of Stephen Hawking's life.",
+      "answer": "Respected teachers and dear friends, \nToday, I want to talk about a true legend, Stephen Hawking. His life is not just about brilliant science, but about an unconquerable spirit. Diagnosed with a paralyzing disease at 21 and given just years to live, he could have given up. Instead, he chose to fight. He used his mind to explore the deepest secrets of the universe, becoming one of the greatest physicists ever. Even when he lost his speech, he found a way to communicate and inspire the world. Stephen Hawking teaches us that no obstacle is too great if we have determination. Let his life remind us to never give up, no matter the challenges. Thank you."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "Expand the idea in the following quote: 'However difficult life may seem, there is always something you can do and succeed at. It matters that you just don't give up.'",
+      "answer": "This quote emphasizes resilience and the power of human agency amidst adversity. Life often presents seemingly insurmountable challenges that can lead to despair. However, the quote suggests that no matter how dire the circumstances, individuals possess inherent abilities and potential. There is always some avenue for action, some goal, however small, that can be pursued and achieved. The key is not to succumb to hopelessness but to maintain a persistent effort. Success isn't defined by the absence of difficulties but by the refusal to be defeated by them. It's a call to focus on possibilities rather than limitations and to keep striving, for effort itself is a victory."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "Discuss the role of support systems (family, technology, institutions) in Stephen Hawking's success based on the text.",
+      "answer": "While Hawking's individual brilliance and determination were paramount, support systems played a crucial role. His family, particularly his wife Jane Wilde, provided emotional stability and a reason to live after his diagnosis, which was a turning point. Academically, institutions like Oxford and Cambridge provided the environment and resources for his research, with the Royal Society recognizing his work. Crucially, as his physical condition deteriorated, technology became his lifeline. The computer and voice synthesizer enabled him to communicate, write, and lecture, allowing his intellect to continue impacting the world long after his body failed. These support systems were essential enablers of his continued success."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "Create a timeline of important events in Stephen Hawking's life based on the provided text.",
+      "answer": "**Timeline of Stephen Hawking's Life:**\n* **January 8, 1942:** Born in Oxford, England.\n* **1950:** Family moves to St. Albans.\n* **(Undated - Early 1960s):** Studies Physics at University College, Oxford.\n* **Approx. 1963 (Age 21):** Diagnosed with Amyotrophic Lateral Sclerosis (ALS) and given a short prognosis.\n* **1965:** Marries Jane Wilde.\n* **(Undated - post-diagnosis):** Completes Ph.D. research on black holes at Cambridge.\n* **1974:** Inducted into the Royal Society.\n* **(Undated - later career):** Appointed Lucasian Professor of Mathematics at Cambridge.\n* **(Undated - later life):** Undergoes tracheotomy, loses speech, starts using a voice synthesizer.\n* **(Undated):** Publishes the bestseller 'A Brief History of Time'.\n* **(Undated - end of text):** Continues research, writing, and lecturing despite paralysis."
+    }
+  ]
+}

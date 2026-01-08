@@ -1,0 +1,791 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.3.6",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Concert"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What news in the newspaper excited Smita?",
+      "options": [
+        { "option_id": 1, "text": "A sale at a nearby store", "is_correct": false },
+        { "option_id": 2, "text": "A new movie release", "is_correct": false },
+        { "option_id": 3, "text": "A concert by Pandit Ravi Shankar", "is_correct": true },
+        { "option_id": 4, "text": "Her exam results", "is_correct": false }
+      ],
+      "answer": "A concert by Pandit Ravi Shankar"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which instrument did Pandit Ravi Shankar play?",
+      "options": [
+        { "option_id": 1, "text": "Tabla", "is_correct": false },
+        { "option_id": 2, "text": "Sitar", "is_correct": true },
+        { "option_id": 3, "text": "Flute", "is_correct": false },
+        { "option_id": 4, "text": "Violin", "is_correct": false }
+      ],
+      "answer": "Sitar"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who was the tabla player accompanying Pandit Ravi Shankar?",
+      "options": [
+        { "option_id": 1, "text": "Ustad Zakir Hussain", "is_correct": false },
+        { "option_id": 2, "text": "Ustad Allah Rakha", "is_correct": true },
+        { "option_id": 3, "text": "Ustad Bismillah Khan", "is_correct": false },
+        { "option_id": 4, "text": "Ustad Amjad Ali Khan", "is_correct": false }
+      ],
+      "answer": "Ustad Allah Rakha"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where was the concert scheduled to take place?",
+      "options": [
+        { "option_id": 1, "text": "Gaganpur Town Hall", "is_correct": false },
+        { "option_id": 2, "text": "Aunt Sushila's Apartment", "is_correct": false },
+        { "option_id": 3, "text": "Shanmukhananda Auditorium", "is_correct": true },
+        { "option_id": 4, "text": "Bombay Stadium", "is_correct": false }
+      ],
+      "answer": "Shanmukhananda Auditorium"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How old was Anant?",
+      "options": [
+        { "option_id": 1, "text": "Twelve", "is_correct": false },
+        { "option_id": 2, "text": "Fifteen", "is_correct": true },
+        { "option_id": 3, "text": "Eighteen", "is_correct": false },
+        { "option_id": 4, "text": "Twenty", "is_correct": false }
+      ],
+      "answer": "Fifteen"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What was Anant's musical talent?",
+      "options": [
+        { "option_id": 1, "text": "Playing the sitar", "is_correct": false },
+        { "option_id": 2, "text": "Singing", "is_correct": false },
+        { "option_id": 3, "text": "Playing the tabla", "is_correct": true },
+        { "option_id": 4, "text": "Playing the guitar", "is_correct": false }
+      ],
+      "answer": "Playing the tabla"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why was Smita's family in Bombay?",
+      "options": [
+        { "option_id": 1, "text": "For a vacation", "is_correct": false },
+        { "option_id": 2, "text": "To attend the concert", "is_correct": false },
+        { "option_id": 3, "text": "For Anant's cancer treatment", "is_correct": true },
+        { "option_id": 4, "text": "To meet Pandit Ravi Shankar", "is_correct": false }
+      ],
+      "answer": "For Anant's cancer treatment"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where was the family's hometown?",
+      "options": [
+        { "option_id": 1, "text": "Bombay", "is_correct": false },
+        { "option_id": 2, "text": "Delhi", "is_correct": false },
+        { "option_id": 3, "text": "Gaganpur", "is_correct": true },
+        { "option_id": 4, "text": "Calcutta", "is_correct": false }
+      ],
+      "answer": "Gaganpur"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What was Anant's condition when Smita read the news?",
+      "options": [
+        { "option_id": 1, "text": "He was playing the tabla", "is_correct": false },
+        { "option_id": 2, "text": "He was bedridden and on oxygen", "is_correct": true },
+        { "option_id": 3, "text": "He was getting ready for school", "is_correct": false },
+        { "option_id": 4, "text": "He was sleeping peacefully", "is_correct": false }
+      ],
+      "answer": "He was bedridden and on oxygen"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What was the mother's reaction to Anant's excitement about the concert?",
+      "options": [
+        { "option_id": 1, "text": "She was excited too", "is_correct": false },
+        { "option_id": 2, "text": "She promised to take him", "is_correct": false },
+        { "option_id": 3, "text": "She told him not to bother about it as he was sick", "is_correct": true },
+        { "option_id": 4, "text": "She immediately bought tickets", "is_correct": false }
+      ],
+      "answer": "She told him not to bother about it as he was sick"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What did the doctors finally tell Anant's parents?",
+      "options": [
+        { "option_id": 1, "text": "He was completely cured", "is_correct": false },
+        { "option_id": 2, "text": "He needed a new treatment", "is_correct": false },
+        { "option_id": 3, "text": "There was no cure, take him home", "is_correct": true },
+        { "option_id": 4, "text": "He should stay in the hospital for another month", "is_correct": false }
+      ],
+      "answer": "There was no cure, take him home"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What did Anant call the opportunity to see Pandit Ravi Shankar?",
+      "options": [
+        { "option_id": 1, "text": "A good time", "is_correct": false },
+        { "option_id": 2, "text": "A rare event", "is_correct": false },
+        { "option_id": 3, "text": "The chance of a lifetime", "is_correct": true },
+        { "option_id": 4, "text": "A musical evening", "is_correct": false }
+      ],
+      "answer": "The chance of a lifetime"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who accompanied Smita to the concert?",
+      "options": [
+        { "option_id": 1, "text": "Her father", "is_correct": false },
+        { "option_id": 2, "text": "Her mother", "is_correct": false },
+        { "option_id": 3, "text": "Aunt Sushila", "is_correct": false },
+        { "option_id": 4, "text": "No one, she went alone", "is_correct": true }
+      ],
+      "answer": "No one, she went alone"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How did Smita feel during the concert?",
+      "options": [
+        { "option_id": 1, "text": "Purely happy", "is_correct": false },
+        { "option_id": 2, "text": "Bored", "is_correct": false },
+        { "option_id": 3, "text": "Enchanted but also sad and guilty", "is_correct": true },
+        { "option_id": 4, "text": "Angry", "is_correct": false }
+      ],
+      "answer": "Enchanted but also sad and guilty"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What plan did Smita make during the concert?",
+      "options": [
+        { "option_id": 1, "text": "To get an autograph for Anant", "is_correct": false },
+        { "option_id": 2, "text": "To ask the musicians to come home and play for Anant", "is_correct": true },
+        { "option_id": 3, "text": "To buy a sitar for Anant", "is_correct": false },
+        { "option_id": 4, "text": "To record the concert", "is_correct": false }
+      ],
+      "answer": "To ask the musicians to come home and play for Anant"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who is described as the \"wizard\" in the story?",
+      "options": [
+        { "option_id": 1, "text": "Pandit Ravi Shankar", "is_correct": false },
+        { "option_id": 2, "text": "Ustad Allah Rakha", "is_correct": true },
+        { "option_id": 3, "text": "Anant", "is_correct": false },
+        { "option_id": 4, "text": "The doctor", "is_correct": false }
+      ],
+      "answer": "Ustad Allah Rakha"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "How did the audience react when Smita approached the stage?",
+      "options": [
+        { "option_id": 1, "text": "They cheered for her", "is_correct": false },
+        { "option_id": 2, "text": "They were shocked and some were annoyed", "is_correct": true },
+        { "option_id": 3, "text": "They ignored her", "is_correct": false },
+        { "option_id": 4, "text": "They left the auditorium", "is_correct": false }
+      ],
+      "answer": "They were shocked and some were annoyed"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who first agreed to Smita's request?",
+      "options": [
+        { "option_id": 1, "text": "Pandit Ravi Shankar", "is_correct": false },
+        { "option_id": 2, "text": "Ustad Allah Rakha", "is_correct": true },
+        { "option_id": 3, "text": "The concert organizer", "is_correct": false },
+        { "option_id": 4, "text": "A member of the audience", "is_correct": false }
+      ],
+      "answer": "Ustad Allah Rakha"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Where were Smita and her family staying in Bombay?",
+      "options": [
+        { "option_id": 1, "text": "A hotel", "is_correct": false },
+        { "option_id": 2, "text": "The hospital", "is_correct": false },
+        { "option_id": 3, "text": "Aunt Sushila's apartment", "is_correct": true },
+        { "option_id": 4, "text": "A guest house", "is_correct": false }
+      ],
+      "answer": "Aunt Sushila's apartment"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "How did the neighbors help for the private concert?",
+      "options": [
+        { "option_id": 1, "text": "They cooked food for the musicians", "is_correct": false },
+        { "option_id": 2, "text": "They helped arrange the apartment", "is_correct": true },
+        { "option_id": 3, "text": "They bought flowers", "is_correct": false },
+        { "option_id": 4, "text": "They called the press", "is_correct": false }
+      ],
+      "answer": "They helped arrange the apartment"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "At what time did the musicians arrive at Aunt Sushila's house?",
+      "options": [
+        { "option_id": 1, "text": "In the evening", "is_correct": false },
+        { "option_id": 2, "text": "At noon", "is_correct": false },
+        { "option_id": 3, "text": "At ten o'clock in the morning", "is_correct": true },
+        { "option_id": 4, "text": "Late at night", "is_correct": false }
+      ],
+      "answer": "At ten o'clock in the morning"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What did the mother whisper when she saw the musicians?",
+      "options": [
+        { "option_id": 1, "text": "\"Who are they?\"", "is_correct": false },
+        { "option_id": 2, "text": "\"It's a miracle!\"", "is_correct": false },
+        { "option_id": 3, "text": "\"They've come!\"", "is_correct": true },
+        { "option_id": 4, "text": "\"Please be quiet.\"", "is_correct": false }
+      ],
+      "answer": "\"They've come!\""
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "In what position did Anant listen to the private concert?",
+      "options": [
+        { "option_id": 1, "text": "Sitting on a chair", "is_correct": false },
+        { "option_id": 2, "text": "Sitting on the floor", "is_correct": false },
+        { "option_id": 3, "text": "Lying on his bed", "is_correct": true },
+        { "option_id": 4, "text": "Standing by the window", "is_correct": false }
+      ],
+      "answer": "Lying on his bed"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "How long did the private concert last?",
+      "options": [
+        { "option_id": 1, "text": "Half an hour", "is_correct": false },
+        { "option_id": 2, "text": "One hour", "is_correct": false },
+        { "option_id": 3, "text": "Two hours", "is_correct": true },
+        { "option_id": 4, "text": "Three hours", "is_correct": false }
+      ],
+      "answer": "Two hours"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What happened to Anant at the end of the concert?",
+      "options": [
+        { "option_id": 1, "text": "He fell asleep", "is_correct": false },
+        { "option_id": 2, "text": "He recovered miraculously", "is_correct": false },
+        { "option_id": 3, "text": "He passed away peacefully", "is_correct": true },
+        { "option_id": 4, "text": "He asked to learn the sitar", "is_correct": false }
+      ],
+      "answer": "He passed away peacefully"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What main quality of the musicians is highlighted in the story?",
+      "options": [
+        { "option_id": 1, "text": "Their musical skill", "is_correct": false },
+        { "option_id": 2, "text": "Their fame", "is_correct": false },
+        { "option_id": 3, "text": "Their humility and kindness", "is_correct": true },
+        { "option_id": 4, "text": "Their professionalism", "is_correct": false }
+      ],
+      "answer": "Their humility and kindness"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What was the \"scary truth\" that Smita knew?",
+      "options": [
+        { "option_id": 1, "text": "That the concert tickets were sold out", "is_correct": false },
+        { "option_id": 2, "text": "That her brother was going to die", "is_correct": true },
+        { "option_id": 3, "text": "That her mother was sick", "is_correct": false },
+        { "option_id": 4, "text": "That they had no money left", "is_correct": false }
+      ],
+      "answer": "That her brother was going to die"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Where did Anant learn to play the tabla?",
+      "options": [
+        { "option_id": 1, "text": "From Pandit Ravi Shankar", "is_correct": false },
+        { "option_id": 2, "text": "From Ustad Allah Rakha", "is_correct": false },
+        { "option_id": 3, "text": "At his school in Gaganpur", "is_correct": true },
+        { "option_id": 4, "text": "From his father", "is_correct": false }
+      ],
+      "answer": "At his school in Gaganpur"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which adjective is used to describe Aunt Sushila in the story?",
+      "options": [
+        { "option_id": 1, "text": "Bold", "is_correct": false },
+        { "option_id": 2, "text": "Frightened", "is_correct": true },
+        { "option_id": 3, "text": "Cheerful", "is_correct": false },
+        { "option_id": 4, "text": "Strict", "is_correct": false }
+      ],
+      "answer": "Frightened"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What kind of story is \"The Concert\"?",
+      "options": [
+        { "option_id": 1, "text": "A fairy tale", "is_correct": false },
+        { "option_id": 2, "text": "A science fiction story", "is_correct": false },
+        { "option_id": 3, "text": "A true story", "is_correct": true },
+        { "option_id": 4, "text": "A historical account", "is_correct": false }
+      ],
+      "answer": "A true story"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What news in the newspaper excited Smita?",
+      "answer": "Smita was excited by the news that Pandit Ravi Shankar would be performing at the Shanmukhananda Auditorium the next day."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Who is Pandit Ravi Shankar?",
+      "answer": "Pandit Ravi Shankar is a world-renowned sitar maestro."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "Why was Anant so excited about the concert?",
+      "answer": "Anant was excited because he was a huge fan of Pandit Ravi Shankar and Ustad Allah Rakha, and he himself played the tabla. Seeing them perform was a lifelong dream for him."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Why did Smita's mother try to dampen Anant's excitement?",
+      "answer": "Smita's mother tried to dampen Anant's excitement because he was very sick with cancer, bedridden, and on oxygen. She knew he couldn't attend the concert and didn't want him to get upset or exert himself."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "Why was Smita's family in Bombay?",
+      "answer": "Smita's family had come to Bombay from their hometown Gaganpur for the treatment of Anant's cancer at a specialized hospital."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Where did the family stay in Bombay?",
+      "answer": "They stayed at the apartment of their Aunt Sushila in Bombay."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What was Anant's musical talent?",
+      "answer": "Anant was a talented tabla player. He had learnt to play at school and was soon considered the best in his school. He could also compose his own tunes."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What was the doctors' final diagnosis about Anant's illness?",
+      "answer": "The doctors finally told the parents that there was no cure for Anant's cancer. They advised them to take him home and give him whatever he liked, as he had only a little time left."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What had the family hoped for when they first came to Bombay?",
+      "answer": "They had hoped that Anant would be cured of his cancer at the hospital in Bombay, and then he would learn to play the sitar and become a great musician."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Why did Smita go to the concert alone?",
+      "answer": "Smita went alone because her brother Anant was too ill to go, and her parents had to stay back to look after him."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Describe Smita's feelings as she got ready for the concert.",
+      "answer": "Smita felt ecstatic at the thought of going to the concert, but this feeling was mixed with guilt because her brother, who desperately wanted to go, had to stay back bedridden."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What phrase did Anant keep repeating about the concert?",
+      "answer": "Anant kept repeating, \"It's the chance of a lifetime.\""
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What did Smita experience during the concert?",
+      "answer": "During the concert, Smita felt as if the gates of enchantment and wonder were opening. She was spellbound by the music of Pandit Ravi Shankar and Ustad Allah Rakha, but her mind was also filled with thoughts of her dying brother and his wish."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What daring thought came to Smita's mind during the concert?",
+      "answer": "A daring thought came to Smita's mind to approach the musicians after the concert and request them to come to their house and play for her dying brother."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Why did Smita approach the stage after the concert?",
+      "answer": "Smita approached the stage to fulfill her dying brother's wish. She wanted to ask the great musicians to perform for him."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "How did the audience react to Smita's action after the concert?",
+      "answer": "The audience was surprised and some were annoyed by Smita's action of walking up towards the stage. Someone even told her to be quiet."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Who was the first person on stage to speak to Smita?",
+      "answer": "Ustad Allah Rakha, the tabla maestro, was the first person on stage to speak to Smita."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What did Smita tell the musicians?",
+      "answer": "Smita poured out her whole story to the musicians, telling them about her brother who was dying of cancer, how he was a great fan of theirs, and how he had longed to hear them play."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "How did Pandit Ravi Shankar respond to Smita's request?",
+      "answer": "Pandit Ravi Shankar listened to Smita's story patiently, wiped the perspiration off his brow, and then agreed to her request to perform for her brother."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Who is referred to as the \"wizard\" and what instrument did he play?",
+      "answer": "Ustad Allah Rakha is referred to as the \"wizard\" and he played the tabla."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What was Ustad Allah Rakha's immediate reaction to Smita's story?",
+      "answer": "Ustad Allah Rakha immediately responded by saying, \"We perform for the boy,\" showing his willingness to fulfill the dying boy's wish."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How did Smita's mother react when Smita told her about the musicians' visit?",
+      "answer": "Smita's mother was initially in disbelief and thought it was impossible for such great musicians to come to their small apartment. She said, \"Don't be silly. How can they come to our house?\""
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How did the neighbors help for the private concert?",
+      "answer": "The neighbors, upon hearing the news, were very supportive. They helped by bringing chairs, arranging the room, and ensuring everything was ready for the musicians' visit."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "When did the musicians arrive at Aunt Sushila's house?",
+      "answer": "The musicians arrived at Aunt Sushila's house the next day at ten o'clock in the morning."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What was Anant's condition when the musicians arrived?",
+      "answer": "When the musicians arrived, Anant was awake, lying on his bed, his eyes open, breathing with the help of oxygen."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How did Anant react to the presence of the great musicians?",
+      "answer": "Anant was overwhelmed with joy and tried to express his gratitude. He managed to say, \"Panditji, I have listened to you on the radio, and...\""
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Describe the scene of the private concert in Aunt Sushila's apartment.",
+      "answer": "The great musicians sat on a rug in the small apartment, tuning their instruments. The family and neighbors sat around them on the floor and chairs. Anant lay on his bed, listening. The room was filled with beautiful music, and everyone was spellbound."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How long did the musicians play for Anant?",
+      "answer": "Pandit Ravi Shankar and Ustad Allah Rakha played for Anant for two hours."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What happened at the end of the concert?",
+      "answer": "As the final notes of the raga faded away, Anant breathed his last and passed away peacefully."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What does the story tell us about the character of the two great musicians?",
+      "answer": "The story highlights the immense humanity, humility, and kindness of the two great musicians. Despite their fame and busy schedules, they took the time to fulfill the dying wish of a young boy, showing deep empathy and compassion."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why was Aunt Sushila described as a \"frightened aunt\"?",
+      "answer": "Aunt Sushila was likely described as \"frightened\" because she was overwhelmed by the grave situation of her nephew's terminal illness and the sudden, unbelievable arrival of world-famous musicians to her small apartment."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why did the mother's eyes become \"sudden frightened eyes\"?",
+      "answer": "Her eyes became \"sudden frightened eyes\" when Smita excitedly announced the news of the concert, because it reminded her of the painful reality that Anant was too sick to attend and his time was running out."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What was the \"scary truth\" that Smita knew?",
+      "answer": "The \"scary truth\" that Smita knew was that her beloved brother Anant was suffering from terminal cancer and was going to die soon."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why did Smita feel it was \"The chance of a lifetime\" for Anant?",
+      "answer": "Smita felt it was \"The chance of a lifetime\" because Anant worshipped Pandit Ravi Shankar and seeing him perform live was his greatest dream, and given his condition, this would likely be his only opportunity."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What did the doctors tell the parents to do with Anant?",
+      "answer": "The doctors told the parents that they could do no more for Anant in the hospital and advised them to take him home and make his remaining days as happy as possible by giving him whatever he liked."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How did Smita's father react to the news of the concert?",
+      "answer": "While his initial reaction isn't detailed, the story implies he was supportive of Smita attending, as he was the one who took her to the concert."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does the phrase \"The gates of enchantment\" refer to?",
+      "answer": "The phrase \"The gates of enchantment\" refers to the magical and mesmerizing experience of listening to the live musical performance by the masters, Pandit Ravi Shankar and Ustad Allah Rakha."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why did Smita feel like crying during the concert?",
+      "answer": "Smita felt like crying during the concert because while she was enjoying the beautiful music, she was painfully aware that her dying brother, who had longed for this moment, was missing it. The beauty of the music contrasted with the tragedy of his situation."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What gave Smita the strength to speak to the musicians?",
+      "answer": "The deep love for her brother and the burning desire to fulfill his dying wish gave Smita the courage and strength to overcome her hesitation and speak to the famous musicians."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Who tried to stop Smita from speaking to the masters?",
+      "answer": "A man with a long boring speech, who was probably an organizer or official, tried to stop Smita from speaking to the masters, telling her to be quiet."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "Describe the bond between Smita and Anant with examples from the story.",
+      "answer": "The story portrays a deep and loving bond between the siblings, Smita and Anant. They shared a common passion for music, both learning instruments at school. When Smita reads about the concert, her first thought is of Anant, showing how closely their lives are intertwined. She feels intense guilt about going to the concert without him, unable to fully enjoy the experience because of his absence. The most significant proof of her love is her courageous act of approaching the world-renowned musicians after the concert to request a private performance for her dying brother. This act of selflessness, driven solely by the desire to fulfill Anant's last wish, speaks volumes about the strength of their bond. Anant's peaceful death while listening to the music brought by his sister further underscores the depth of their connection."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "Describe the character of Smita, highlighting her love and courage.",
+      "answer": "Smita is a young girl characterized by deep love for her brother and remarkable courage. She is sensitive and caring, feeling the weight of her brother's illness acutely. Her guilt at attending the concert without him shows her empathetic nature. However, her most defining trait is her courage, born out of love. Despite being just a young girl, she dares to approach legendary musicians like Pandit Ravi Shankar and Ustad Allah Rakha after a large concert. Ignoring the audience's stares and an official's attempt to stop her, she pours out her heart to them, pleading for her brother. This audacious act, driven by the singular goal of fulfilling Anant's dying wish, showcases her immense bravery and selflessness. She is the catalyst for the miraculous event that brings peace to her brother's final moments."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Write a character sketch of Anant.",
+      "answer": "Anant is a fifteen-year-old boy, talented in music, particularly the tabla. He is described as the best tabla player in his school, with the ability to compose his own tunes, indicating a natural gift and passion for music. Despite being struck by a terminal illness (cancer) at a young age, his spirit remains connected to music. He is a devoted fan of Pandit Ravi Shankar and Ustad Allah Rakha, considering seeing them perform as \"the chance of a lifetime.\" Even in his bedridden state, breathing on oxygen, his excitement on hearing about the concert is palpable. He displays fortitude and a touching simplicity. His final moments, spent listening to his idols play for him in his room, show a sense of fulfillment and peace as he breathes his last, surrounded by the music he loved so much."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "How does the story bring out the humanity of the great musicians, Pandit Ravi Shankar and Ustad Allah Rakha?",
+      "answer": "The story beautifully highlights the humanity and compassion of Pandit Ravi Shankar and Ustad Allah Rakha, transcending their status as world-renowned artists. When a young girl, Smita, approaches them after a tiring concert with a strange request, they do not dismiss her. Instead, they listen patiently to her emotional plea about her dying brother's wish. Ustad Allah Rakha's immediate response, \"We perform for the boy,\" and Pandit Ravi Shankar's subsequent agreement demonstrate their deep empathy. They set aside their fame, busy schedules, and the unconventional nature of the request to bring joy to a dying boy. By coming to a small, humble apartment to perform a private concert for two hours, they show that true greatness lies not just in artistic mastery but also in kindness and the ability to connect with people on a human level."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "Describe the emotions of the family members from the time the concert was announced till the end of the story.",
+      "answer": "The announcement of the concert brought a complex mix of emotions. For Smita and Anant, there was initial excitement and the thrill of a \"chance of a lifetime.\" However, for the mother, it was a painful reminder of Anant's terminal condition, leading to fear and an attempt to suppress the excitement to protect him. As the concert approached, Smita felt a conflict of ecstasy and guilt. Anant felt the sorrow of missing out. The parents were weighed down by helplessness and impending grief. Smita's bold plan brought a glimmer of hope, mixed with disbelief from the mother. The arrival of the musicians turned that disbelief into overwhelming gratitude and awe. During the private concert, the family experienced a collective sense of fulfillment, peace, and bittersweet joy, seeing Anant's wish come true. The story ends with the profound sorrow of Anant's death, but it is a peaceful end, tempered by the solace that his last wish was fulfilled."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Contrast the atmosphere of the public concert at Shanmukhananda Auditorium with the private concert at Aunt Sushila's apartment.",
+      "answer": "The public concert at Shanmukhananda Auditorium was a grand, formal event. It was held in a large hall filled with a huge audience. The atmosphere was one of anticipation and collective appreciation for the masters. There were speeches and formalities. Smita felt spellbound but also isolated in her grief for her brother. In sharp contrast, the private concert at Aunt Sushila's apartment was intimate, informal, and deeply emotional. It took place in a small room, with the musicians sitting on a rug and a small group of family and neighbors sitting on the floor. The audience was not there for a performance but to witness an act of love and kindness. The atmosphere was charged with gratitude, reverence, and the poignant reality of a dying boy's final wish being fulfilled. The music in the apartment was a personal gift, creating a sacred and unforgettable space."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "\"Music has the power to heal and fulfill.\" Discuss this statement with reference to the story \"The Concert\".",
+      "answer": "\"The Concert\" is a poignant testament to the healing and fulfilling power of music. For Anant, a young musician dying of cancer, music is not just a hobby but a passion and a lifeline. His deepest wish is to hear Pandit Ravi Shankar play. The music from the concert, described by Smita as opening \"gates of enchantment,\" has a transformative quality. When the maestroes play for Anant in his final hours, the music brings him immense peace and fulfillment. It doesn't cure his physical body, but it heals his spirit, allowing him to transcend his pain and leave the world in a state of musical bliss. For Smita and the family, the music becomes a medium of love and solace, a way to give Anant the ultimate gift. The story shows that music can connect people, alleviate suffering at a spiritual level, and provide a sense of completion even in the face of death."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "How does the story portray the theme of 'a dying wish'?",
+      "answer": "The theme of 'a dying wish' is central to the narrative of \"The Concert.\" Anant's ardent desire to attend Pandit Ravi Shankar's concert is introduced early on, labeled by him as \"the chance of a lifetime.\" This wish becomes more poignant due to his terminal illness. The story revolves around the obstacles to fulfilling this wish – his physical inability to attend – and the extraordinary efforts made to realize it. Smita's courageous act of approaching the musicians is entirely driven by the urgency of her brother's dying wish. The musicians' compassionate response highlights the sacredness often associated with a person's final desire. The fulfillment of this wish takes the form of a private concert, which becomes the culminating event of Anant's life, bringing him peace and contentment in his final moments. The story explores the lengths to which loved ones and even strangers will go to grant a dying person their last request."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Describe the scene when the two great musicians arrived at Aunt Sushila's humble apartment.",
+      "answer": "The arrival of the two great musicians, Pandit Ravi Shankar and Ustad Allah Rakha, at Aunt Sushila's humble apartment was a scene of disbelief turning into awe and gratitude. It was ten o'clock in the morning when a taxi pulled up, and the two legendary figures stepped out. Smita's mother, watching from the window, could only whisper, \"They've come!\" in sheer amazement. The news had spread, and neighbors were already there, having helped prepare the small apartment. When the maestros entered, there was a sense of reverence. Anant, lying on his bed, was awake and overwhelmed. He tried to express his gratitude, mentioning he had heard them on the radio. The musicians, demonstrating their humility, simply sat down on the rugs provided, tuned their instruments sitar and tabla, and began to play. The small room was transformed into a sacred space filled with divine music, with the family and neighbors sitting spellbound around them, witnessing an incredible act of kindness."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "What is the significance of Smita's bold decision to approach the musicians? How did it change the course of events?",
+      "answer": "Smita's bold decision to approach the musicians after the concert is the pivotal moment in the story. It signifies the immense power of her love for her brother and her courage to act on it, overcoming social norms and personal hesitation. This single act of bravery changed the entire course of events. If she hadn't approached them, Anant would have died without his greatest wish being fulfilled, and the family would have been left with the regret of what could have been. Her initiative transformed a tragic situation into one of profound beauty and fulfillment. It brought the legendary musicians to their doorstep, creating a miraculous event that not only brought peace to Anant's final moments but also touched the lives of everyone present, demonstrating the power of human connection and kindness. Her action turned a story of despair into a story of hope and the enduring power of love."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "Imagine you are Smita. Write a diary entry about the day of the concert, from reading the newspaper to the end of the day.",
+      "answer": "**Diary Entry: The Day of the Concert**\n\nDear Diary,\n\nToday was a day of unbelievable highs and crushing lows. It started when I saw the newspaper – Pandit Ravi Shankar is playing tomorrow! My heart leapt, and Anant's eyes lit up. \"The chance of a lifetime,\" he kept saying. But then, the reality of his illness hit us. Ma's frightened eyes, the oxygen cylinder... he can't go. The doctors said there's no hope. We just have to make his last days happy. How can I go without him? The guilt is eating me alive. Yet, I want to go, for both of us. I'll listen for him, I'll remember every note. But it won't be the same. Oh, Anant, why is life so cruel? I feel so helpless. I'm going to get ready now, but my heart is heavy. I don't know how I'll face him when I come back."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "Imagining yourself as Pandit Ravi Shankar, narrate the experience of performing for the dying boy, Anant.",
+      "answer": "**Pandit Ravi Shankar's Narration**\n\nAfter the concert at Shanmukhananda, I was tired, as usual. But then, a young girl, eyes shining with a desperate hope, pushed through the crowd. She told me of her brother, a young tabla player dying of cancer, whose only wish was to hear us play. Ustad Allah Rakha, my dear friend, didn't hesitate for a moment. \"We perform for the boy,\" he said. And so, the next morning, we found ourselves in a small apartment in Bombay. The boy, Anant, lay on a bed, frail but with eyes full of life. We sat on a simple rug and played. We played not for an audience of thousands, but for this one boy. I poured my soul into the sitar, and Allah Rakha made the tabla sing. For two hours, the music filled that little room, weaving a tapestry of peace and joy. As the last notes faded, I saw a look of complete fulfillment on his face. He left us then, carried away on the wings of the music. It was the most profound concert of my life."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "Discuss the role of the mother in the story. How does she cope with her son's illness?",
+      "answer": "The mother in the story portrays a figure of immense strength mixed with vulnerability, trying to cope with the unimaginable pain of losing her child. Her initial reaction to Anant's excitement about the concert is one of protective denial; she doesn't want him to get his hopes up or exert himself, knowing he cannot go. Her \"frightened eyes\" reveal the constant undercurrent of fear and sorrow she lives with. She tries to maintain a semblance of normalcy, encouraging Smita to go to the concert and telling Anant, falsely, that it won't be the last time they play. When Smita reveals her plan, the mother's practical side dismisses it as impossible, reflecting her resigned acceptance of their harsh reality. However, her reaction of awestruck disbelief when the musicians arrive shows her capacity for hope. Throughout, her actions are driven by a deep love and a desperate need to protect her son from further pain, both physical and emotional."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "The story is titled \"The Concert\". Which concert is more significant in the story, the one at the auditorium or the one at the apartment? Justify your answer.",
+      "answer": "While the concert at the auditorium sets the plot in motion, the private concert at the apartment is undoubtedly more significant. The auditorium concert is a grand public event, which Anant cannot attend, highlighting the tragedy of his situation. It is where Smita gets the inspiration for her bold plan. However, the concert at the apartment is the culmination of the story's emotional arc. It is a unique, miraculous event driven by love and compassion. It fulfills Anant's dying wish, bringing him peace in his final moments. This intimate gathering trumps the public event because of its profound human impact. It showcases the power of music to heal and connect, and the extraordinary kindness of the musicians. The emotional weight and resolution of the story rest entirely on this private performance, making it the true \"Concert\" of the title."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "How does the story explore the theme of hope and despair?",
+      "answer": "\"The Concert\" is a poignant exploration of the interplay between hope and despair. Despair is present from the beginning, with Anant's terminal cancer and the doctors' verdict that there is no cure. The family's move to Bombay, initially a journey of hope for a cure, turns into a wait for the inevitable end. Anant's inability to attend the concert is another moment of despair. However, hope is never extinguished. Anant's hope to see his idols remains a flickering light. Smita's daring plan is an act of desperate hope born out of love. The arrival of the musicians is the realization of that hope, a miraculous event that momentarily transcends the despair of death. The story suggests that even in the darkest times, hope can manifest in unexpected ways, bringing solace and meaning, even if it cannot change the ultimate outcome."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "Describe the impact of Anant's illness on the entire family.",
+      "answer": "Anant's illness has a devastating impact on the entire family, uprooting their lives and casting a shadow of grief over them. They leave their hometown of Gaganpur and move to Bombay, staying in a small apartment with Aunt Sushila, solely for his treatment. Their lives revolve around hospitals and doctors. The initial hope for a cure is crushed when the doctors give a terminal prognosis, leaving them with a sense of helplessness. The mother lives with constant fear and tries to protect Anant from disappointment. Smita is burdened with guilt for being healthy and able to do things her brother can't. The father is present but in the background, likely carrying the financial and emotional weight. The entire family's focus is on making Anant's last days comfortable, their own lives and aspirations put on hold as they collectively face the impending tragedy."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "\"Little girl, will you be quiet?\" Contrast this reaction from the audience member with the reaction of the masters themselves.",
+      "answer": "The reaction of the audience member, \"Little girl, will you be quiet?\", represents the impersonal, often indifferent nature of the public and societal norms. He sees Smita as a nuisance, an interruption to the formal proceedings of the concert, and is dismissive of her without knowing her reason. In sharp contrast, the reaction of the masters, Pandit Ravi Shankar and Ustad Allah Rakha, is one of profound empathy and humanity. Instead of being annoyed or dismissive like the man in the audience, they stop to listen to her. They are moved by her story of her dying brother and his wish. Ustad Allah Rakha's immediate agreement, \"We perform for the boy,\" shows a willingness to break conventions for an act of kindness. This contrast highlights the difference between superficial judgment and deep human compassion."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "Explain the phrase \"The gates of enchantment and wonder opening\" in the context of Smita's experience at the concert.",
+      "answer": "The phrase \"The gates of enchantment and wonder opening\" metaphorically describes the transcendental experience Smita had while listening to the music of Pandit Ravi Shankar and Ustad Allah Rakha at the auditorium. It suggests that the music was so powerful and beautiful that it transported her to another realm, a world of magic and awe. The notes of the sitar and the rhythm of the tabla were not just sounds but a pathway to a state of heightened awareness and emotional depth. It was a mesmerizing experience that captivated her senses and soul, making her momentarily forget her surroundings. This intense musical experience also likely fueled her determination to share this magic with her brother, leading to her bold plan."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "What made the musicians agree to Smita's request? What does it say about them as artists and human beings?",
+      "answer": "The musicians agreed to Smita's request primarily out of deep compassion and empathy. They were moved by the sincerity of a young girl pleading for her dying brother's final wish. The fact that Anant was a young musician himself, a tabla player who idolized them, likely struck a chord. Their agreement speaks volumes about them as both artists and human beings. As artists, it shows they understood the profound connection between music and the human spirit, and that their art was not just for grand stages but also for bringing solace to a single soul. As human beings, it highlights their immense humility and kindness. Despite their world-renowned status, they were grounded enough to perform in a humble apartment, prioritizing a human connection over fame or protocol."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "Describe the community spirit shown by the neighbors in Aunt Sushila's apartment block.",
+      "answer": "The story showcases a heartwarming example of community spirit. When the news spread that the legendary musicians Pandit Ravi Shankar and Ustad Allah Rakha were coming to Aunt Sushila's apartment, the neighbors didn't just stand by as spectators. They actively stepped in to help the family prepare for the momentous occasion. They understood the significance of the event for Anant and his family. They helped in practical ways, such as arranging chairs and organizing the small space to accommodate the musicians and the small audience. Their collective effort to make the private concert possible reflects a sense of solidarity, empathy, and shared joy in a time of both sorrow and unexpected miracle for one of their own."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "How is the passing away of Anant depicted in the story? What effect does it create?",
+      "answer": "Anant's passing is depicted with great tenderness and peace. The story describes it happening as the private concert comes to an end: \"As the last notes of the rag died away, Anant's soul too left his body.\" This intertwining of the music's conclusion with his death creates a sense of completion and fulfillment. It's not a scene of agony or struggle, but a gentle transition, suggesting that the music eased his passage and allowed him to leave the world in a state of bliss, having his final wish granted. This depiction creates an effect of poignancy and bittersweet solace for the reader. It softens the tragedy of a young death by framing it within a moment of profound beauty and realized dreams, leaving a lasting impression of the power of love and music."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "Describe the contrast between the hopes the family had when coming to Bombay and the reality they faced.",
+      "answer": "The family came to Bombay from Gaganpur with high hopes and a clear plan. They believed that the advanced medical facilities in the big city would cure Anant's cancer. Their vision for the future was bright: once cured, Anant would resume his musical training, learn to play the sitar, and eventually become a great musician. The reality they faced was a crushing contrast to these hopes. The doctors in Bombay gave a terminal prognosis, stating there was no cure and he had only a little time left. Instead of a future filled with music and fame, they were faced with the imminent death of their son and brother. Their stay in Bombay transformed from a journey of healing into a painful vigil, where their only remaining goal was to make his final days as comfortable and happy as possible."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "How does Anant's passion for music define his character till the very end?",
+      "answer": "Anant's passion for music is the central defining trait of his character throughout the story. Even while gravely ill and bedridden, his initial reaction to the news of the concert is one of pure excitement, calling it the \"chance of a lifetime.\" His talent as a tabla player and composer is highlighted, showing music was not just an interest but a core part of his identity. His dying wish is not for anything material but to hear his musical idols perform. In his final moments, when the musicians arrive, he gathers his strength to express his gratitude, mentioning he had listened to them on the radio. He spends his last two hours on earth immersed in their live performance, and his peaceful death coincides with the end of the music. His life and his death are inextricably linked to his love for music."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "What life lessons can be learnt from the story \"The Concert\"?",
+      "answer": "The story \"The Concert\" offers several valuable life lessons. Firstly, it teaches the importance of empathy and kindness. The great musicians' gesture shows that true greatness lies in humility and compassion for others. Secondly, it highlights the power of love and courage. Smita's bold act, driven by love for her brother, demonstrates that one should never hesitate to go to great lengths for a loved one. Thirdly, it shows the transformative power of music and art to bring solace, peace, and fulfillment even in the face of death. Fourthly, it reminds us to cherish every moment and fulfill our dreams and the dreams of our loved ones before it's too late. Finally, it shows the strength found in community support during difficult times."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "Summarize the story \"The Concert\" in your own words.",
+      "answer": "Smita and her family have come to Bombay for the cancer treatment of her fifteen-year-old brother, Anant, a talented tabla player. When Smita reads in the newspaper that Pandit Ravi Shankar is performing in Bombay, Anant is excited, calling it a \"chance of a lifetime,\" but he is too sick to attend. The doctors have given up hope. Smita goes to the concert alone, feeling guilty. Enchanted by the music but haunted by her brother's wish, she daringly approaches the musicians, Pandit Ravi Shankar and Ustad Allah Rakha, after the show. She pleads with them to play for her dying brother. Touched by her story, the legendary musicians agree. The next morning, to everyone's amazement, they arrive at Aunt Sushila's small apartment and perform for two hours for Anant, who lies on his bed. Anant passes away peacefully as the concert ends, his final wish fulfilled."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "Do you think the story is realistic? Give reasons for your answer.",
+      "answer": "The story \"The Concert\" is presented as a \"true story,\" and despite its miraculous turn of events, it contains elements of realism. The portrayal of a family struggling with a terminal illness, their hopes, despair, and the mundane details of their life in a small apartment are very realistic. The characters' emotions—Smita's guilt and courage, the mother's fear, Anant's passion—are authentic. While it is highly unusual for world-renowned musicians to perform in a private home for a stranger, it is not impossible. History is replete with instances of great artists showing immense humanity. Their act of kindness is extraordinary but plausible, given the moving circumstances of a dying young musician. Therefore, the story balances the harsh reality of illness with the extraordinary power of human compassion, making it an inspiring, if exceptional, real-life tale."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "Analyze the importance of the setting (Bombay, a small apartment) in the story.",
+      "answer": "The setting of Bombay and the small apartment is crucial to the story's themes and impact. Bombay represents the city of hope, where the family comes for medical treatment and where great artists like Pandit Ravi Shankar perform. The large Shanmukhananda Auditorium emphasizes the musicians' fame and the public nature of their art. In contrast, Aunt Sushila's small apartment represents the humble, private reality of the family's struggle. It is a cramped space, highlighting their constraints. The fact that the great musicians come to this tiny, ordinary flat enhances the magnitude of their gracious act. It creates a powerful juxtaposition between their celebrity status and their humility, making the private concert an even more poignant and miraculous event that transcends physical space and social status."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "How does the author build empathy for Anant and his family?",
+      "answer": "The author builds empathy for Anant and his family through several narrative techniques. Firstly, by establishing Anant's youth (fifteen) and his talent as a musician, the tragedy of his terminal illness is heightened. We are told about his passion for the tabla and his ability to compose, making his impending death seem like a great loss of potential. Secondly, the family's desperate journey from Gaganpur to Bombay for a cure that doesn't exist evokes sympathy. We see their dashed hopes and their helpless situation. Thirdly, showing the emotional toll on individual family members—Smita's guilt, the mother's frightened eyes—makes their pain relatable. Finally, focusing on Anant's simple, final wish to hear his idols play makes the reader root for its fulfillment, creating a deep emotional connection with their plight."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "What is the role of the minor characters like Aunt Sushila and the neighbors?",
+      "answer": "Minor characters like Aunt Sushila and the neighbors play significant supportive roles that enhance the story's realism and emotional depth. Aunt Sushila provides a home for the family in their time of need, representing family support. Her description as a \"frightened aunt\" reflects the overall atmosphere of anxiety. The neighbors represent the wider community's response. Their initial disbelief followed by their active help in arranging the apartment for the concert shows solidarity and collective compassion. They validate the miraculous nature of the event and create a sense of community around the dying boy and his family. Their presence at the private concert adds to the shared experience of the poignant moment."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "\"Fate had been cruel...but the two great musicians...had been kind.\" Discuss this contrast presented in the story.",
+      "answer": "This quote encapsulates the central conflict and resolution of the story, highlighting the contrast between the harshness of life's circumstances and the redeeming power of human kindness. \"Fate had been cruel\" refers to the tragic situation of Anant, a young, talented boy struck down by terminal cancer. The family's hopes for a cure are dashed, and they are forced to accept his impending death. This represents the arbitrary and painful nature of fate. In stark contrast, the actions of the two great musicians represent the best of humanity. Their willingness to step out of their world of fame to perform for a dying boy in a humble setting is an act of pure, unsolicited kindness. This act doesn't change the cruel fate—Anant still dies—but it mitigates its harshness, bringing peace and fulfillment in his final moments, demonstrating that human compassion can provide light even in the darkest of destinies."
+    }
+  ]
+}

@@ -1,0 +1,641 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.3.4",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Will to Win"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the author of the poem 'The Will to Win'?",
+      "options": [
+        { "option_id": 1, "text": "Rudyard Kipling", "is_correct": false },
+        { "option_id": 2, "text": "Bertie Forbes", "is_correct": true },
+        { "option_id": 3, "text": "William Wordsworth", "is_correct": false },
+        { "option_id": 4, "text": "Robert Frost", "is_correct": false }
+      ],
+      "answer": "Bertie Forbes"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "According to the poem, what must you be willing to give up for the thing you want?",
+      "options": [
+        { "option_id": 1, "text": "Your wealth and property", "is_correct": false },
+        { "option_id": 2, "text": "Your time, peace, and sleep", "is_correct": true },
+        { "option_id": 3, "text": "Your friends and family", "is_correct": false },
+        { "option_id": 4, "text": "Your hobbies and interests", "is_correct": false }
+      ],
+      "answer": "Your time, peace, and sleep"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the word 'fret' mean in the context of the poem?",
+      "options": [
+        { "option_id": 1, "text": "To be happy", "is_correct": false },
+        { "option_id": 2, "text": "To work hard", "is_correct": false },
+        { "option_id": 3, "text": "To worry", "is_correct": true },
+        { "option_id": 4, "text": "To sleep", "is_correct": false }
+      ],
+      "answer": "To worry"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "When you desire something strongly, how do other things appear to you, according to the poem?",
+      "options": [
+        { "option_id": 1, "text": "Important and valuable", "is_correct": false },
+        { "option_id": 2, "text": "Tawdry and cheap", "is_correct": true },
+        { "option_id": 3, "text": "Interesting and exciting", "is_correct": false },
+        { "option_id": 4, "text": "Useful and necessary", "is_correct": false }
+      ],
+      "answer": "Tawdry and cheap"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the word 'sagacity' mean?",
+      "options": [
+        { "option_id": 1, "text": "Strength", "is_correct": false },
+        { "option_id": 2, "text": "Stupidity", "is_correct": false },
+        { "option_id": 3, "text": "Wisdom", "is_correct": true },
+        { "option_id": 4, "text": "Speed", "is_correct": false }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which pair of words from the poem describes a state of extreme hunger and thinness?",
+      "options": [
+        { "option_id": 1, "text": "Cold and poverty", "is_correct": false },
+        { "option_id": 2, "text": "Sickness and pain", "is_correct": false },
+        { "option_id": 3, "text": "Famished and gaunt", "is_correct": true },
+        { "option_id": 4, "text": "Dogged and grim", "is_correct": false }
+      ],
+      "answer": "Famished and gaunt"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the meaning of the phrase 'stern pertinacity'?",
+      "options": [
+        { "option_id": 1, "text": "Weak determination", "is_correct": false },
+        { "option_id": 2, "text": "Firm determination", "is_correct": true },
+        { "option_id": 3, "text": "Lack of confidence", "is_correct": false },
+        { "option_id": 4, "text": "Giving up easily", "is_correct": false }
+      ],
+      "answer": "Firm determination"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does the idiom 'to move heaven and earth' mean?",
+      "options": [
+        { "option_id": 1, "text": "To pray to God", "is_correct": false },
+        { "option_id": 2, "text": "To travel to different places", "is_correct": false },
+        { "option_id": 3, "text": "To do everything possible to achieve something", "is_correct": true },
+        { "option_id": 4, "text": "To cause a great disturbance", "is_correct": false }
+      ],
+      "answer": "To do everything possible to achieve something"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which figure of speech is used in the phrase 'Work day and night'?",
+      "options": [
+        { "option_id": 1, "text": "Simile", "is_correct": false },
+        { "option_id": 2, "text": "Metaphor", "is_correct": false },
+        { "option_id": 3, "text": "Antithesis", "is_correct": true },
+        { "option_id": 4, "text": "Personification", "is_correct": false }
+      ],
+      "answer": "Antithesis"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Identify the rhyming pair from the poem.",
+      "options": [
+        { "option_id": 1, "text": "want - get", "is_correct": false },
+        { "option_id": 2, "text": "fight - night", "is_correct": true },
+        { "option_id": 3, "text": "sleep - dream", "is_correct": false },
+        { "option_id": 4, "text": "peace - tired", "is_correct": false }
+      ],
+      "answer": "fight - night"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the poem suggest about the level of desire needed to win?",
+      "options": [
+        { "option_id": 1, "text": "It should be moderate.", "is_correct": false },
+        { "option_id": 2, "text": "It should be enough to make you 'mad'.", "is_correct": true },
+        { "option_id": 3, "text": "It is not very important.", "is_correct": false },
+        { "option_id": 4, "text": "It should be kept secret.", "is_correct": false }
+      ],
+      "answer": "It should be enough to make you 'mad'."
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does the word 'beset' mean in the line ' besiege and beset it'?",
+      "options": [
+        { "option_id": 1, "text": "To set free", "is_correct": false },
+        { "option_id": 2, "text": "To attack from all sides", "is_correct": true },
+        { "option_id": 3, "text": "To arrange neatly", "is_correct": false },
+        { "option_id": 4, "text": "To ignore completely", "is_correct": false }
+      ],
+      "answer": "To attack from all sides"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT mentioned as an obstacle in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Poverty", "is_correct": false },
+        { "option_id": 2, "text": "Sickness", "is_correct": false },
+        { "option_id": 3, "text": "Pain", "is_correct": false },
+        { "option_id": 4, "text": "Laziness", "is_correct": true }
+      ],
+      "answer": "Laziness"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The idiom 'to leave no stone unturned' means:",
+      "options": [
+        { "option_id": 1, "text": "To build a stone wall", "is_correct": false },
+        { "option_id": 2, "text": "To make every possible effort", "is_correct": true },
+        { "option_id": 3, "text": "To be very strong", "is_correct": false },
+        { "option_id": 4, "text": "To walk on a rocky path", "is_correct": false }
+      ],
+      "answer": "To make every possible effort"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What poetic device is used in the phrase 'sweat for it, Fret for it, Plan for it'?",
+      "options": [
+        { "option_id": 1, "text": "Simile", "is_correct": false },
+        { "option_id": 2, "text": "Repetition", "is_correct": true },
+        { "option_id": 3, "text": "Onomatopoeia", "is_correct": false },
+        { "option_id": 4, "text": "Hyperbole", "is_correct": false }
+      ],
+      "answer": "Repetition"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        { "option_id": 1, "text": "Humorous and lighthearted", "is_correct": false },
+        { "option_id": 2, "text": "Sad and melancholic", "is_correct": false },
+        { "option_id": 3, "text": "Inspirational and determined", "is_correct": true },
+        { "option_id": 4, "text": "Angry and aggressive", "is_correct": false }
+      ],
+      "answer": "Inspirational and determined"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The poem suggests that you should lose your 'terror' of what?",
+      "options": [
+        { "option_id": 1, "text": "Failure and rejection", "is_correct": false },
+        { "option_id": 2, "text": "God or man", "is_correct": true },
+        { "option_id": 3, "text": "Poverty and sickness", "is_correct": false },
+        { "option_id": 4, "text": "Hard work and pain", "is_correct": false }
+      ],
+      "answer": "God or man"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'plan' in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Man", "is_correct": true },
+        { "option_id": 2, "text": "Can", "is_correct": false },
+        { "option_id": 3, "text": "Ran", "is_correct": false },
+        { "option_id": 4, "text": "Van", "is_correct": false }
+      ],
+      "answer": "Man"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The idiom 'to be on the ball' means:",
+      "options": [
+        { "option_id": 1, "text": "To be playing football", "is_correct": false },
+        { "option_id": 2, "text": "To be alert and efficient", "is_correct": true },
+        { "option_id": 3, "text": "To be round and rolling", "is_correct": false },
+        { "option_id": 4, "text": "To be in trouble", "is_correct": false }
+      ],
+      "answer": "To be alert and efficient"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Identify the figure of speech in 'Neither cold nor poverty, famished and gaunt'.",
+      "options": [
+        { "option_id": 1, "text": "Antithesis", "is_correct": false },
+        { "option_id": 2, "text": "Tautology", "is_correct": true },
+        { "option_id": 3, "text": "Personification", "is_correct": false },
+        { "option_id": 4, "text": "Simile", "is_correct": false }
+      ],
+      "answer": "Tautology"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does the word 'grim' mean in the context of the poem?",
+      "options": [
+        { "option_id": 1, "text": "Dirty", "is_correct": false },
+        { "option_id": 2, "text": "Serious and unyielding", "is_correct": true },
+        { "option_id": 3, "text": "Happy", "is_correct": false },
+        { "option_id": 4, "text": "Weak", "is_correct": false }
+      ],
+      "answer": "Serious and unyielding"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is the final promise of the poem?",
+      "options": [
+        { "option_id": 1, "text": "You might get it.", "is_correct": false },
+        { "option_id": 2, "text": "You'll get it!", "is_correct": true },
+        { "option_id": 3, "text": "It will be difficult.", "is_correct": false },
+        { "option_id": 4, "text": "You should try again.", "is_correct": false }
+      ],
+      "answer": "You'll get it!"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The idiom 'to turn the tables' means:",
+      "options": [
+        { "option_id": 1, "text": "To move furniture", "is_correct": false },
+        { "option_id": 2, "text": "To reverse a situation completely", "is_correct": true },
+        { "option_id": 3, "text": "To have a meal", "is_correct": false },
+        { "option_id": 4, "text": "To clean the table", "is_correct": false }
+      ],
+      "answer": "To reverse a situation completely"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which word in the poem is used to mean 'without'?",
+      "options": [
+        { "option_id": 1, "text": "Beset", "is_correct": false },
+        { "option_id": 2, "text": "Devoid", "is_correct": true },
+        { "option_id": 3, "text": "Grim", "is_correct": false },
+        { "option_id": 4, "text": "Gaunt", "is_correct": false }
+      ],
+      "answer": "Devoid"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The phrase 'scheme and dream' is an example of:",
+      "options": [
+        { "option_id": 1, "text": "Metaphor", "is_correct": false },
+        { "option_id": 2, "text": "Repetition", "is_correct": true },
+        { "option_id": 3, "text": "Simile", "is_correct": false },
+        { "option_id": 4, "text": "Hyperbole", "is_correct": false }
+      ],
+      "answer": "Repetition"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the central message of the poem 'The Will to Win'?",
+      "answer": "The central message is that with intense desire, unwavering determination, hard work, and the willingness to sacrifice everything, one can achieve any goal."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "List four things the poet says one must be willing to give up to achieve their goal.",
+      "answer": "Time, peace, sleep, and the fear of God or man."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Explain the phrase 'makes you quite mad enough'.",
+      "answer": "It means your desire for the goal should be so intense that it borders on obsession or madness."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What does it mean to hold other things 'tawdry and cheap'?",
+      "answer": "It means to consider all other things as worthless or of little value compared to your goal."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "How does the poem describe life without the desired 'thing'?",
+      "answer": "Life seems all empty and useless without it."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "Explain the meaning of the phrase 'scheme and dream' in the context of the poem.",
+      "answer": "It means constantly thinking about, planning for, and envisioning your goal."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "What is meant by the line 'Lose all your terror of God or man for it'?",
+      "answer": "It means you should not let the fear of any authority, divine or human, stop you from pursuing your goal."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "List three mental or moral qualities required to pursue your goal, according to the poem.",
+      "answer": "Faith, hope, and confidence."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Define 'sagacity' as used in the poem.",
+      "answer": "Sagacity means wisdom or the quality of being sagacious."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "What does 'stern pertinacity' mean?",
+      "answer": "It means firm, unyielding determination or persistence."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Mention four negative physical or external conditions that should not deter you from your goal.",
+      "answer": "Cold, poverty, sickness, and pain."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Explain the physical state described by the words 'famished and gaunt'.",
+      "answer": "It describes a state of extreme hunger and thinness, suffering from a lack of food."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What does the poet mean by the phrase 'dogged and grim'?",
+      "answer": "It means being stubbornly persistent and terribly serious in your pursuit."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "Explain the phrase 'besiege and beset it'.",
+      "answer": "It means to surround your goal endlessly and attack it from all sides with your efforts."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Based on the poem, what is the ultimate guarantee for success?",
+      "answer": "The ultimate guarantee is that if you meet all the intense conditions of effort and determination described, 'You'll get it!'"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Explain the importance of 'sweat and fret' in achieving success as per the poem.",
+      "answer": "It emphasizes the necessity of hard physical work ('sweat') and mental worry or intense concern ('fret') in the pursuit of a goal."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Why does the poet use the word 'fight' in the first stanza?",
+      "answer": "The word 'fight' suggests that achieving your goal will be a difficult struggle requiring strength and aggression, not an easy task."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "How does the poem emphasize single-mindedness?",
+      "answer": "By repeating that everything else should seem 'cheap', life without the goal is 'empty', and all scheming and dreaming should be 'about it'."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What is the significance of the repetition of the word 'it' at the end of many lines?",
+      "answer": "The repetition of 'it' reinforces the singular focus on the specific goal or 'thing' that is desired."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Pick out an example of Alliteration from the poem and underline the consonantal sounds.",
+      "answer": "'_b_rain or _b_ody' (repetition of the 'b' sound)."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Pick out an example of Repetition from the poem and explain its effect.",
+      "answer": "The phrase 'for it' is repeated many times. This emphasizes that every action and sacrifice is directed towards that one specific goal."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Give two synonyms for the word 'desire' from the workshop activities.",
+      "answer": "Crave, long for (or wish, aspire, yearn)."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Give two synonyms for the word 'sagacity'.",
+      "answer": "Wisdom, intelligence."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What does the idiom 'to turn the tables' mean?",
+      "answer": "It means to reverse a situation so that you are now in a superior position to someone who used to be in a superior position to you."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Explain the idiom 'a dark horse'.",
+      "answer": "A dark horse is a person who keeps their interests and ideas secret, especially someone who has a surprising ability or skill."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does it mean to 'move heaven and earth'?",
+      "answer": "It means to make a supreme effort; to do everything possible to achieve something."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Explain the idiom 'to take something in your stride'.",
+      "answer": "It means to deal with a problem or difficulty calmly and not let it affect what you are doing."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Provide one example of Antithesis from the poem.",
+      "answer": "'Work day and night for it' (day vs night)."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the rhyme scheme of the first four lines of the poem?",
+      "answer": "AABB (thing/fight do not rhyme, but fight/night and sleep/cheap do. Let's re-evaluate based on the actual text pairs: fight/night are A, sleep/cheap are B. So it is AABB for lines ending in rhyming words)."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Match the phrase 'To sweat and fret' with its meaning.",
+      "answer": "To work hard and worry struggle."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Match the phrase 'To plan and scheme' with its meaning.",
+      "answer": "To think and plan strategically."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does the line 'If life seems all empty and useless without it' convey about the importance of the goal?",
+      "answer": "It conveys that the goal has become the person's sole purpose and meaning in life."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How does the poet suggest one should handle obstacles like poverty or sickness?",
+      "answer": "The poet suggests that one should not let these obstacles turn them away from their goal; they must persist despite them."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the tone of the final line 'You'll get it!'?",
+      "answer": "The tone is one of absolute certainty, assurance, and triumph."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Who is the intended audience for this poem?",
+      "answer": "The poem is addressed to anyone who has a strong desire to achieve a difficult goal; it's a universal message of motivation."
+    },
+    {
+      "question_id": 61,
+      "question_type": "LONG",
+      "question": "Analyze the poem 'The Will to Win' as a motivational speech. What techniques does the poet use to inspire the reader?",
+      "answer": "The poem serves as a powerful motivational speech through several techniques. Firstly, it uses a direct address 'If you...', speaking directly to the reader and making the message personal. The structure, a long series of conditional clauses building up to a single, decisive conclusion ('You'll get it!'), creates a sense of mounting tension and inevitability. The poet uses strong, emotive language like 'mad enough', 'sweat', 'fret', 'fight', 'famished', and 'grim' to convey the intensity of effort required. The repetition of phrases like 'for it' maintains a relentless focus on the goal. By listing extreme sacrifices and hardships, the poem challenges the reader's commitment, making the final success seem earned and deserved. The absolute certainty of the final line acts as a powerful guarantee, motivating the reader to undertake the arduous journey."
+    },
+    {
+      "question_id": 62,
+      "question_type": "LONG",
+      "question": "Discuss the role of sacrifice in achieving success, referencing specific lines from the poem.",
+      "answer": "The poem portrays sacrifice not just as a component of success, but as its very foundation. It demands the surrender of fundamental human needs and comforts: 'Give up your time and your peace and your sleep for it'. This suggests that achieving a great goal requires prioritizing it above personal well-being and tranquility. The poem goes further, implying a social and spiritual sacrifice, telling the reader to 'Lose all your terror of God or man for it', indicating a willingness to defy convention and authority. The poet posits that the desire must be so consuming that all other aspects of life become 'tawdry and cheap', and life itself feels 'empty and useless without it'. This extreme level of sacrifice is presented as the necessary price for achieving something truly significant."
+    },
+    {
+      "question_id": 63,
+      "question_type": "LONG",
+      "question": "'If you only desire for it makes you mad enough'. Do you think obsession is necessary for success? Discuss with reference to the poem.",
+      "answer": "The poem strongly suggests that a near-obsessive level of desire is a prerequisite for great success. The phrase 'mad enough' implies a passion that goes beyond rational bounds, a single-minded focus that consumes one's thoughts ('all that you scheme and you dream is about it'). The poem argues that without this intense, almost irrational drive, one would not be able to endure the 'sweat and fret', the 'cold and poverty', or the 'pain of body or brain' that are inevitable obstacles. While in reality, balance is often seen as healthy, the poem posits that exceptional achievement requires exceptional commitment, a kind of 'madness' that allows one to persist when a 'sane' person would give up. Therefore, in the context of the poem, this obsession is portrayed as a necessary fuel for the 'will to win'."
+    },
+    {
+      "question_id": 64,
+      "question_type": "LONG",
+      "question": "Explain the significance of the physical and mental hardships mentioned in the poem (sweat, fret, cold, poverty, pain of body or brain). Why are they portrayed as necessary steps?",
+      "answer": "The physical and mental hardships mentioned in the poem act as a crucible, testing the authenticity and strength of the seeker's desire. 'Sweat' and 'fret' represent the relentless hard work and mental anxiety inherent in pursuing a difficult goal. 'Cold', 'poverty', 'famished and gaunt' are extreme physical deprivations, while 'pain of body or brain' encompasses all forms of suffering. By listing these, the poet is not just describing obstacles but framing them as necessary rites of passage. They are portrayed as unavoidable steps because true success is rarely easy; it demands resilience. Only by enduring and overcoming these severe trials can one prove their 'stern pertinacity' and become worthy of the ultimate prize. The hardships validate the victory."
+    },
+    {
+      "question_id": 65,
+      "question_type": "LONG",
+      "question": "Elaborate on the qualities of 'capacity, strength and sagacity, faith, hope and confidence, stern pertinacity' and their importance in achieving a difficult goal.",
+      "answer": "The poem lists a powerful combination of inherent abilities, mental fortitude, and spiritual resilience required for success. 'Capacity' and 'strength' refer to the basic ability and power to perform the necessary work. 'Sagacity' (wisdom) is crucial for planning and making smart decisions along the way. 'Faith, hope and confidence' form the spiritual and psychological backbone, providing the belief in oneself and the future outcome that is essential when facing setbacks. Finally, 'stern pertinacity' is the unyielding determination to keep going despite all odds. This comprehensive list shows that success isn't just about hard work; it requires a holistic alignment of one's physical, mental, and emotional resources, all driven by an unbreakable will."
+    },
+    {
+      "question_id": 66,
+      "question_type": "LONG",
+      "question": "How does the poem build up tension and intensity towards the final line? Trace the progression of ideas.",
+      "answer": "The poem builds tension through a relentless accumulation of conditions, all introduced by the conditional 'If'. It starts with personal sacrifices (time, peace, sleep) and internal states (desire making one 'mad'). It then escalates to active effort ('sweat', 'fret', 'plan') and the shedding of fears ('terror of God or man'). The demands become more intense, requiring total commitment of one's faculties ('capacity', 'strength', 'sagacity'). The tension heightens as it describes enduring extreme external and internal suffering ('poverty', 'pain of body or brain'). The final condition is an aggressive, relentless pursuit ('dogged and grim you besiege and beset it'). This long, breathless list of immense requirements creates a sense of overwhelming pressure, which is finally and abruptly released in the short, definitive, and triumphant conclusion: 'You'll get it!'"
+    },
+    {
+      "question_id": 67,
+      "question_type": "LONG",
+      "question": "Critically analyze the poet's view that one must 'lose all your terror of God or man' for their goal. Is this a dangerous advice or a metaphor for supreme confidence?",
+      "answer": "The instruction to 'lose all your terror of God or man' can be interpreted in two ways. Literally, it could be seen as dangerous advice, encouraging a ruthless disregard for moral, ethical, or social laws in pursuit of a goal. However, in the context of an inspirational poem, it is more likely a hyperbole or metaphor for supreme self-confidence and courage. It suggests that one should not be held back by the fear of judgment, criticism, or conventional limitations imposed by society ('man') or religious/moral dogma ('God') if they stand in the way of a righteous and deeply desired goal. It's a call to have the courage of one's convictions, to be answerable primarily to one's own ambition and conscience, rather than external fears."
+    },
+    {
+      "question_id": 68,
+      "question_type": "LONG",
+      "question": "Based on the poem, compose a short speech on 'The importance of determination in life'.",
+      "answer": "Friends, what separates those who dream from those who achieve? The answer is defined in Bertie Forbes' poem 'The Will to Win': it is determination. The poem teaches us that having a goal is not enough; we must be consumed by it. True determination is not a fleeting feeling but a relentless force. It means being willing to sacrifice comfort, sleep, and peace. It means facing poverty, pain, and doubt without faltering. It requires faith, hope, and a 'stern pertinacity' that refuses to accept defeat. When you pursue your goal with such 'dogged and grim' determination, besieging it with all your strength, the universe has no choice but to yield. As the poem promises, if you have the unwavering will to win, 'You'll get it!' Let us all strive for that level of determination in our lives."
+    },
+    {
+      "question_id": 69,
+      "question_type": "LONG",
+      "question": "Summarize the poem's message in your own words, providing examples from real life or history of someone who exemplified this 'will to win'.",
+      "answer": "The poem 'The Will to Win' delivers a powerful message that achieving a significant goal requires total and absolute commitment. It's not enough to simply want something; one must be willing to sacrifice everything else—comfort, peace, time, and even health—to attain it. The desire must be an obsession, driving one to work ceaselessly, plan strategically, and endure any hardship, from poverty to physical pain, without giving up. A historical example of this is Thomas Edison. In his quest to invent the lightbulb, he faced thousands of failures, sleepless nights, and immense skepticism. Yet, possessed by a 'mad' desire and 'stern pertinacity', he viewed every failure as a stepping stone, ultimately succeeding through sheer doggedness. His life perfectly exemplifies the poem's central tenet: that an unbreakable will is the key to victory."
+    },
+    {
+      "question_id": 70,
+      "question_type": "LONG",
+      "question": "The poem uses strong verbs like 'fight', 'work', 'sweat', 'fret', 'besiege', 'beset'. How do these choices of words contribute to the overall mood and message of the poem?",
+      "answer": "The poet's deliberate choice of strong, active, and somewhat aggressive verbs creates a mood of intensity, urgency, and seriousness. Words like 'fight', 'besiege', and 'beset' frame the pursuit of a goal not as a gentle journey but as a battle or a siege, implying resistance that must be violently overcome. 'Work', 'sweat', and 'fret' convey the sheer physical and mental exhaustion involved, emphasizing that success is earned, not given. These words strip away any romantic notions of easy victory, presenting a gritty, realistic picture of the struggle. This linguistic choice reinforces the poem's central message: that winning requires a warrior's spirit and an almost superhuman level of effort and resilience."
+    },
+    {
+      "question_id": 71,
+      "question_type": "LONG",
+      "question": "'Life seems all empty and useless without it'. Discuss the concept of finding one's passion and purpose in life based on this line.",
+      "answer": "This line speaks to the profound human need for purpose and passion. It suggests that a life without a central, driving goal ('it') lacks meaning and value, feeling 'empty and useless'. The 'thing' you want isn't just a possession or an achievement; it becomes the defining core of your existence, giving direction to all your actions ('all that you scheme and you dream is about it'). Finding such a passion transforms mere existence into a focused and meaningful journey. The poem implies that true fulfillment comes not from passive living but from identifying that single, all-consuming purpose that makes all sacrifices worthwhile and fills the void of an otherwise 'empty' life."
+    },
+    {
+      "question_id": 72,
+      "question_type": "LONG",
+      "question": "'If dogged and grim you besiege and beset it, You'll get it!'. Explain the imagery used in these lines and what it implies about the nature of the struggle for success.",
+      "answer": "The imagery in these final lines is drawn from warfare. 'Besiege' and 'beset' conjure images of an army surrounding a fortress, cutting off escape routes, and attacking it relentlessly from all sides until it surrenders. The adjectives 'dogged' (stubbornly persistent) and 'grim' (serious, unsmiling) describe the attitude of the attacker—not enthusiastic or joyful, but fiercely determined and unyielding. This imagery implies that the struggle for major success is a war. The goal is a fortified objective that will not be yielded easily. It requires a sustained, multi-front attack and a mindset of absolute, unwavering resolve. Victory is not won by luck but by wearing down the resistance through sheer, relentless force of will."
+    },
+    {
+      "question_id": 73,
+      "question_type": "LONG",
+      "question": "Do you agree with the poet's intense and somewhat extreme approach to achieving goals? What are the potential downsides of such single-mindedness?",
+      "answer": "While the poem is highly motivational, its extreme approach is open to debate. I agree that great achievements often require extraordinary commitment and sacrifice, as the poem suggests. The level of focus described can indeed be the difference between mediocrity and greatness. However, such single-mindedness has potential downsides. Becoming 'mad' with desire and holding all else 'tawdry and cheap' can lead to a neglect of health, relationships, and ethical considerations. Losing 'terror of God or man' could lead to reckless or immoral behavior. A purely obsessive pursuit can result in burnout, isolation, and a one-dimensional life. True success might be better defined by a balance where one pursues goals passionately without completely sacrificing well-being and humanity."
+    },
+    {
+      "question_id": 74,
+      "question_type": "LONG",
+      "question": "Write a paragraph expanding on the idea 'Strike while the iron is hot', using the poem's theme of seizing opportunities through hard work.",
+      "answer": "The proverb 'Strike while the iron is hot' means to take prompt advantage of an opportunity while conditions are favorable. This idea resonates deeply with the theme of 'The Will to Win'. The poem emphasizes that wanting a thing is not enough; one must 'go out and fight for it' and 'work day and night for it'. This implies an active, urgent approach to pursuing goals. When an opportunity—the 'hot iron'—presents itself, one cannot afford to be passive or hesitant. The poet's call for 'stern pertinacity' and to 'plan and scheme' suggests being prepared to identify and seize these moments with full force. Just as a blacksmith must strike immediately to shape the metal, a person with the will to win must act decisively and work intensely when their goal is within reach, for the opportunity, like the heat in the iron, may soon fade."
+    },
+    {
+      "question_id": 75,
+      "question_type": "LONG",
+      "question": "'Actions speak louder than words.' How does the poem emphasize action over mere wishful thinking?",
+      "answer": "The poem is a powerful testament to the philosophy that 'actions speak louder than words'. It begins by dismissing mere 'wanting' as insufficient. Instead, it demands a relentless barrage of active verbs: 'go out', 'fight', 'work', 'give up', 'sweat', 'fret', 'plan', 'scheme', 'besiege', 'beset'. It's not enough to 'dream' about the goal; you must also 'scheme' and then execute those plans with all your 'capacity, strength and sagacity'. The poem explicitly states that one must not let physical obstacles like 'cold', 'poverty', or 'pain' stop the action. The entire poem is a rejection of passive wishing in favor of intense, sustained, and sacrificial action as the only path to achieving one's desires."
+    },
+    {
+      "question_id": 76,
+      "question_type": "LONG",
+      "question": "Discuss the structure of the poem. How does the use of a long string of conditional 'If' clauses contribute to the poem's impact?",
+      "answer": "The poem's structure is unique and highly effective. It consists of a single, long sentence structured as a series of conditional 'If' clauses that build tension and stack requirements one upon another. This structure acts like a checklist or a mounting pile of evidence. Each 'If' clause adds another layer of difficulty and sacrifice—giving up sleep, becoming obsessed, enduring pain, facing poverty. The reader is forced to mentally agree to each condition, feeling the weight of the commitment growing. This relentless accumulation creates a sense of overwhelming pressure that crescendos right up to the final line. The single, short concluding clause, 'You'll get it!', then acts as a powerful release, a definitive promise that makes all the preceding arduous conditions seem worthwhile."
+    },
+    {
+      "question_id": 77,
+      "question_type": "LONG",
+      "question": "Write a character sketch of the kind of person who would succeed according to Bertie Forbes' poem.",
+      "answer": "According to Bertie Forbes' poem, the person who succeeds is, above all, obsessively passionate. They are driven by a desire so intense it borders on 'madness', making all other aspects of life seem insignificant. This person is intellectually strategic, constantly 'scheming and dreaming' about their goal, using all their 'sagacity' and 'capacity'. They are physically and mentally resilient, capable of enduring 'sweat', 'fret', 'cold', 'poverty', and 'pain' without wavering. They possess unshakeable inner strength, defined by 'faith, hope and confidence' and a 'stern pertinacity'. They are courageous, having lost the 'terror of God or man', and are willing to sacrifice comfort, peace, and sleep. Finally, they are relentless fighters, ready to 'dogged and grimly besiege and beset' their objective until it is won."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "Connect the idioms from the 'Warming up' section (like 'no pain, no gain', 'move heaven and earth') to the central theme of the poem.",
+      "answer": "The idioms in the 'Warming up' section perfectly align with and reinforce the poem's central theme of extreme effort for extreme success. 'No pain, no gain' is directly reflected in the poem's demand to endure 'sweat', 'fret', 'sickness', and 'pain of body or brain' as a necessary price for victory. 'Move heaven and earth' mirrors the poem's call to use 'all your capacity, strength and sagacity' and to 'loses all your terror of God or man', implying a supreme, all-encompassing effort. 'The sky is the limit' relates to the intense ambition the poem encourages, where one's desire makes other things seem 'cheap'. 'Burn the midnight oil' connects to giving up 'sleep' and working 'day and night'. These idioms provide conversational shorthand for the intense commitment the poem elaborates on."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "Imagine you have achieved a major life goal after much struggle. Write a diary entry reflecting on the journey, using some of the concepts from the poem (sacrifice, pertinacity, etc.).",
+      "answer": "Dear Diary, Today, I finally held my published novel in my hands. It feels surreal. Looking back, the journey was exactly as Forbes described in 'The Will to Win'. It wasn't just a dream; it was a madness that made everything else seem 'tawdry and cheap'. I remember the endless nights I gave up 'sleep' and 'peace' to write, the 'sweat and fret' over every plot hole. There were times of 'poverty' and self-doubt that felt like physical 'pain of brain'. But through it all, a 'stern pertinacity' kept me going. I had to 'besiege and beset' my own fears and the rejections from publishers. Today, the sacrifice feels justified. The empty feeling is gone. I doggedly pursued it, and just as the poem promised, I got it."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "'Success is not final, failure is not fatal: it is the courage to continue that counts.' - Winston Churchill. Connect this quote to the message of the poem 'The Will to Win'.",
+      "answer": "Churchill's quote and Forbes' poem both converge on the crucial theme of resilience and continuous effort. While the poem focuses on the intense journey *to* success, promising that 'You'll get it', Churchill's quote provides a broader perspective on the nature of that journey. The poem's call for 'stern pertinacity' and being 'dogged and grim' in the face of obstacles like 'poverty' and 'pain' is the practical application of Churchill's 'courage to continue'. The poem implicitly understands that failure is a possibility on the path (hence the need to 'fret' and 'fight'), but insists it must not be 'fatal'. Both texts argue that the true measure of a person is not just achieving the goal, but the unyielding will to keep fighting for it, regardless of temporary outcomes."
+    }
+  ]
+}

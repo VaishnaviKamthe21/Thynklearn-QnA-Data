@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.1.3",
+    "standard": "10",
+    "subject": "Science and Technology Part 1",
+    "medium": "English",
+    "chapter_name": "Chemical Reactions and Equations"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What happens to lime water when carbon dioxide gas is passed through it?",
+      "options": [
+        { "option_id": 1, "text": "It turns blue", "is_correct": false },
+        { "option_id": 2, "text": "It turns milky", "is_correct": true },
+        { "option_id": 3, "text": "It becomes acidic", "is_correct": false },
+        { "option_id": 4, "text": "No change occurs", "is_correct": false }
+      ],
+      "answer": "It turns milky"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The chemical reaction in which two or more products are formed from a single reactant is called a _____.",
+      "options": [
+        { "option_id": 1, "text": "Combination reaction", "is_correct": false },
+        { "option_id": 2, "text": "Displacement reaction", "is_correct": false },
+        { "option_id": 3, "text": "Decomposition reaction", "is_correct": true },
+        { "option_id": 4, "text": "Double displacement reaction", "is_correct": false }
+      ],
+      "answer": "Decomposition reaction"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of the following is an example of a physical change?",
+      "options": [
+        { "option_id": 1, "text": "Melting of ice", "is_correct": true },
+        { "option_id": 2, "text": "Rusting of iron", "is_correct": false },
+        { "option_id": 3, "text": "Cooking of food", "is_correct": false },
+        { "option_id": 4, "text": "Burning of gas", "is_correct": false }
+      ],
+      "answer": "Melting of ice"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The reaction of zinc dust with blue copper sulphate solution to form colourless zinc sulphate is a _____ reaction.",
+      "options": [
+        { "option_id": 1, "text": "Combination", "is_correct": false },
+        { "option_id": 2, "text": "Displacement", "is_correct": true },
+        { "option_id": 3, "text": "Double displacement", "is_correct": false },
+        { "option_id": 4, "text": "Endothermic", "is_correct": false }
+      ],
+      "answer": "Displacement"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In an exothermic reaction, heat is _____.",
+      "options": [
+        { "option_id": 1, "text": "Absorbed", "is_correct": false },
+        { "option_id": 2, "text": "Given away", "is_correct": true },
+        { "option_id": 3, "text": "Not exchanged", "is_correct": false },
+        { "option_id": 4, "text": "Converted to light only", "is_correct": false }
+      ],
+      "answer": "Given away"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the chemical formula of rust?",
+      "options": [
+        { "option_id": 1, "text": "FeO", "is_correct": false },
+        { "option_id": 2, "text": "Fe2O3.XH2O", "is_correct": true },
+        { "option_id": 3, "text": "Fe3O4", "is_correct": false },
+        { "option_id": 4, "text": "Fe(OH)2", "is_correct": false }
+      ],
+      "answer": "Fe2O3.XH2O"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which substance acts as a catalyst in the decomposition of KClO3?",
+      "options": [
+        { "option_id": 1, "text": "MgO", "is_correct": false },
+        { "option_id": 2, "text": "MnO2", "is_correct": true },
+        { "option_id": 3, "text": "CaO", "is_correct": false },
+        { "option_id": 4, "text": "ZnO", "is_correct": false }
+      ],
+      "answer": "MnO2"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The process of food becoming foul-smelling due to oxidation of oil is called _____.",
+      "options": [
+        { "option_id": 1, "text": "Corrosion", "is_correct": false },
+        { "option_id": 2, "text": "Rancidity", "is_correct": true },
+        { "option_id": 3, "text": "Reduction", "is_correct": false },
+        { "option_id": 4, "text": "Decomposition", "is_correct": false }
+      ],
+      "answer": "Rancidity"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Smaller particle size of reactants leads to a _____ rate of reaction.",
+      "options": [
+        { "option_id": 1, "text": "Slower", "is_correct": false },
+        { "option_id": 2, "text": "Higher", "is_correct": true },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Unchanged", "is_correct": false }
+      ],
+      "answer": "Higher"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The conversion of Fe2+ to Fe3+ is an example of _____.",
+      "options": [
+        { "option_id": 1, "text": "Reduction", "is_correct": false },
+        { "option_id": 2, "text": "Oxidation", "is_correct": true },
+        { "option_id": 3, "text": "Displacement", "is_correct": false },
+        { "option_id": 4, "text": "Combination", "is_correct": false }
+      ],
+      "answer": "Oxidation"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which metal is more reactive than Zinc?",
+      "options": [
+        { "option_id": 1, "text": "Lead", "is_correct": false },
+        { "option_id": 2, "text": "Iron", "is_correct": false },
+        { "option_id": 3, "text": "Aluminium", "is_correct": true },
+        { "option_id": 4, "text": "Copper", "is_correct": false }
+      ],
+      "answer": "Aluminium"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "In the anode region during rusting, Fe is oxidised to _____.",
+      "options": [
+        { "option_id": 1, "text": "Fe3+", "is_correct": false },
+        { "option_id": 2, "text": "Fe2+", "is_correct": true },
+        { "option_id": 3, "text": "FeO", "is_correct": false },
+        { "option_id": 4, "text": "Fe(OH)3", "is_correct": false }
+      ],
+      "answer": "Fe2+"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is a common chemical oxidant?",
+      "options": [
+        { "option_id": 1, "text": "H2", "is_correct": false },
+        { "option_id": 2, "text": "KMnO4", "is_correct": true },
+        { "option_id": 3, "text": "Na", "is_correct": false },
+        { "option_id": 4, "text": "C", "is_correct": false }
+      ],
+      "answer": "KMnO4"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The decomposition of water by passing electric current is called _____.",
+      "options": [
+        { "option_id": 1, "text": "Photolysis", "is_correct": false },
+        { "option_id": 2, "text": "Electrolysis", "is_correct": true },
+        { "option_id": 3, "text": "Thermolysis", "is_correct": false },
+        { "option_id": 4, "text": "Oxidation", "is_correct": false }
+      ],
+      "answer": "Electrolysis"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What is the colour of the precipitate in the reaction between BaCl2 and ZnSO4?",
+      "options": [
+        { "option_id": 1, "text": "Yellow", "is_correct": false },
+        { "option_id": 2, "text": "Blue", "is_correct": false },
+        { "option_id": 3, "text": "White", "is_correct": true },
+        { "option_id": 4, "text": "Red", "is_correct": false }
+      ],
+      "answer": "White"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which gas is liberated when Al reacts with dilute HCl?",
+      "options": [
+        { "option_id": 1, "text": "O2", "is_correct": false },
+        { "option_id": 2, "text": "CO2", "is_correct": false },
+        { "option_id": 3, "text": "H2", "is_correct": true },
+        { "option_id": 4, "text": "N2", "is_correct": false }
+      ],
+      "answer": "H2"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Oxidation can be defined as the _____ of electrons.",
+      "options": [
+        { "option_id": 1, "text": "Gaining", "is_correct": false },
+        { "option_id": 2, "text": "Losing", "is_correct": true },
+        { "option_id": 3, "text": "Sharing", "is_correct": false },
+        { "option_id": 4, "text": "Transferring", "is_correct": false }
+      ],
+      "answer": "Losing"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Dissolution of NaOH in water is an _____ process.",
+      "options": [
+        { "option_id": 1, "text": "Endothermic", "is_correct": false },
+        { "option_id": 2, "text": "Exothermic", "is_correct": true },
+        { "option_id": 3, "text": "Isothermal", "is_correct": false },
+        { "option_id": 4, "text": "Electrical", "is_correct": false }
+      ],
+      "answer": "Exothermic"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which acid reacts with Shahabad tile to produce CO2 effervescence?",
+      "options": [
+        { "option_id": 1, "text": "H2SO4", "is_correct": false },
+        { "option_id": 2, "text": "HCl", "is_correct": true },
+        { "option_id": 3, "text": "HNO3", "is_correct": false },
+        { "option_id": 4, "text": "CH3COOH", "is_correct": false }
+      ],
+      "answer": "HCl"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "In the reaction CuO + H2 -> Cu + H2O, which substance is reduced?",
+      "options": [
+        { "option_id": 1, "text": "H2", "is_correct": false },
+        { "option_id": 2, "text": "CuO", "is_correct": true },
+        { "option_id": 3, "text": "Cu", "is_correct": false },
+        { "option_id": 4, "text": "H2O", "is_correct": false }
+      ],
+      "answer": "CuO"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "During rusting, O2 is reduced at the _____ region.",
+      "options": [
+        { "option_id": 1, "text": "Anode", "is_correct": false },
+        { "option_id": 2, "text": "Cathode", "is_correct": true },
+        { "option_id": 3, "text": "Neutral", "is_correct": false },
+        { "option_id": 4, "text": "Water", "is_correct": false }
+      ],
+      "answer": "Cathode"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The dissolution of potassium nitrate in water is _____.",
+      "options": [
+        { "option_id": 1, "text": "Exothermic", "is_correct": false },
+        { "option_id": 2, "text": "Endothermic", "is_correct": true },
+        { "option_id": 3, "text": "Physical", "is_correct": false },
+        { "option_id": 4, "text": "Instantaneous", "is_correct": false }
+      ],
+      "answer": "Endothermic"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the reactant in the thermal decomposition of calcium carbonate?",
+      "options": [
+        { "option_id": 1, "text": "CaO", "is_correct": false },
+        { "option_id": 2, "text": "CaCO3", "is_correct": true },
+        { "option_id": 3, "text": "CO2", "is_correct": false },
+        { "option_id": 4, "text": "Ca(OH)2", "is_correct": false }
+      ],
+      "answer": "CaCO3"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The highly reactive state of oxygen before forming O2 is called _____ oxygen.",
+      "options": [
+        { "option_id": 1, "text": "Stable", "is_correct": false },
+        { "option_id": 2, "text": "Nascent", "is_correct": true },
+        { "option_id": 3, "text": "Liquid", "is_correct": false },
+        { "option_id": 4, "text": "Atomic", "is_correct": false }
+      ],
+      "answer": "Nascent"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What type of reaction is the formation of ammonia from Nitrogen and Hydrogen?",
+      "options": [
+        { "option_id": 1, "text": "Decomposition", "is_correct": false },
+        { "option_id": 2, "text": "Combination", "is_correct": true },
+        { "option_id": 3, "text": "Displacement", "is_correct": false },
+        { "option_id": 4, "text": "Double displacement", "is_correct": false }
+      ],
+      "answer": "Combination"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of these factors affects the rate of a chemical reaction?",
+      "options": [
+        { "option_id": 1, "text": "Temperature", "is_correct": false },
+        { "option_id": 2, "text": "Concentration", "is_correct": false },
+        { "option_id": 3, "text": "Catalyst", "is_correct": false },
+        { "option_id": 4, "text": "All of these", "is_correct": true }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "When Hydrogen is added to vegetable oil, _____ is formed.",
+      "options": [
+        { "option_id": 1, "text": "Rancid oil", "is_correct": false },
+        { "option_id": 2, "text": "Vanaspati ghee", "is_correct": true },
+        { "option_id": 3, "text": "Butter", "is_correct": false },
+        { "option_id": 4, "text": "Soap", "is_correct": false }
+      ],
+      "answer": "Vanaspati ghee"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Ethyl alcohol is oxidized to _____ using acidic K2Cr2O7.",
+      "options": [
+        { "option_id": 1, "text": "Methane", "is_correct": false },
+        { "option_id": 2, "text": "Acetic acid", "is_correct": true },
+        { "option_id": 3, "text": "Propane", "is_correct": false },
+        { "option_id": 4, "text": "Glucose", "is_correct": false }
+      ],
+      "answer": "Acetic acid"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "In the reaction 2Mg + O2 -> 2MgO, which reactant acts as the reductant?",
+      "options": [
+        { "option_id": 1, "text": "MgO", "is_correct": false },
+        { "option_id": 2, "text": "Mg", "is_correct": true },
+        { "option_id": 3, "text": "O2", "is_correct": false },
+        { "option_id": 4, "text": "Heat", "is_correct": false }
+      ],
+      "answer": "Mg"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of these is used to prevent the oxidation of food containing fats?",
+      "options": [
+        { "option_id": 1, "text": "Oxidants", "is_correct": false },
+        { "option_id": 2, "text": "Antioxidants", "is_correct": true },
+        { "option_id": 3, "text": "Catalysts", "is_correct": false },
+        { "option_id": 4, "text": "Enzymes", "is_correct": false }
+      ],
+      "answer": "Antioxidants"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "In the Presence of salt, the rusting of iron becomes _____.",
+      "options": [
+        { "option_id": 1, "text": "Slow", "is_correct": false },
+        { "option_id": 2, "text": "Rapid", "is_correct": true },
+        { "option_id": 3, "text": "Inactive", "is_correct": false },
+        { "option_id": 4, "text": "Reversed", "is_correct": false }
+      ],
+      "answer": "Rapid"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "The chemical reaction in which heat is absorbed is called _____.",
+      "options": [
+        { "option_id": 1, "text": "Exothermic", "is_correct": false },
+        { "option_id": 2, "text": "Endothermic", "is_correct": true },
+        { "option_id": 3, "text": "Oxidation", "is_correct": false },
+        { "option_id": 4, "text": "Reduction", "is_correct": false }
+      ],
+      "answer": "Endothermic"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "The product remaining in the test tube after heating CaCO3 is _____.",
+      "options": [
+        { "option_id": 1, "text": "CO2", "is_correct": false },
+        { "option_id": 2, "text": "CaO", "is_correct": true },
+        { "option_id": 3, "text": "H2O", "is_correct": false },
+        { "option_id": 4, "text": "Ca", "is_correct": false }
+      ],
+      "answer": "CaO"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The change of state from Fe2+ to Fe3+ is called _____.",
+      "options": [
+        { "option_id": 1, "text": "Reduction", "is_correct": false },
+        { "option_id": 2, "text": "Oxidation", "is_correct": true },
+        { "option_id": 3, "text": "Displacement", "is_correct": false },
+        { "option_id": 4, "text": "Hydration", "is_correct": false }
+      ],
+      "answer": "Oxidation"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What type of reaction is AgNO3 + NaCl -> AgCl + NaNO3?",
+      "options": [
+        { "option_id": 1, "text": "Decomposition", "is_correct": false },
+        { "option_id": 2, "text": "Double displacement", "is_correct": true },
+        { "option_id": 3, "text": "Combination", "is_correct": false },
+        { "option_id": 4, "text": "Displacement", "is_correct": false }
+      ],
+      "answer": "Double displacement"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of these can displace copper from its salt solution?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Zinc", "is_correct": false },
+        { "option_id": 3, "text": "Lead", "is_correct": false },
+        { "option_id": 4, "text": "All of these", "is_correct": true }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Oil is used for cooking because it can reach _____ temperatures than water.",
+      "options": [
+        { "option_id": 1, "text": "Lower", "is_correct": false },
+        { "option_id": 2, "text": "Higher", "is_correct": true },
+        { "option_id": 3, "text": "Negative", "is_correct": false },
+        { "option_id": 4, "text": "Equal", "is_correct": false }
+      ],
+      "answer": "Higher"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which reactant undergoes reduction in the reaction: 2Ag2O -> 4Ag + O2?",
+      "options": [
+        { "option_id": 1, "text": "Ag", "is_correct": false },
+        { "option_id": 2, "text": "Ag2O", "is_correct": true },
+        { "option_id": 3, "text": "O2", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Ag2O"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Enzymes are known as _____ catalysts.",
+      "options": [
+        { "option_id": 1, "text": "Inorganic", "is_correct": false },
+        { "option_id": 2, "text": "Biological", "is_correct": true },
+        { "option_id": 3, "text": "Physical", "is_correct": false },
+        { "option_id": 4, "text": "Artificial", "is_correct": false }
+      ],
+      "answer": "Biological"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the product of H2O2 decomposition besides Oxygen?",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": true },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 4, "text": "Acid", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "The temperature of the solution _____ during the dissolution of KNO3.",
+      "options": [
+        { "option_id": 1, "text": "Decreases", "is_correct": true },
+        { "option_id": 2, "text": "Increases", "is_correct": false },
+        { "option_id": 3, "text": "Remains constant", "is_correct": false },
+        { "option_id": 4, "text": "Doubles", "is_correct": false }
+      ],
+      "answer": "Decreases"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which of these is a gas in the equation: CaCO3 -> CaO + CO2?",
+      "options": [
+        { "option_id": 1, "text": "CaCO3", "is_correct": false },
+        { "option_id": 2, "text": "CaO", "is_correct": false },
+        { "option_id": 3, "text": "CO2", "is_correct": true },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "CO2"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "In oxidation, which of the following is removed?",
+      "options": [
+        { "option_id": 1, "text": "Hydrogen", "is_correct": true },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Neutrons", "is_correct": false },
+        { "option_id": 4, "text": "Protons", "is_correct": false }
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which oxidant is used to convert alcohol into acetic acid?",
+      "options": [
+        { "option_id": 1, "text": "H2O", "is_correct": false },
+        { "option_id": 2, "text": "K2Cr2O7", "is_correct": true },
+        { "option_id": 3, "text": "NaCl", "is_correct": false },
+        { "option_id": 4, "text": "ZnSO4", "is_correct": false }
+      ],
+      "answer": "K2Cr2O7"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Calcium oxide reacting with water is _____ reaction.",
+      "options": [
+        { "option_id": 1, "text": "Exothermic", "is_correct": true },
+        { "option_id": 2, "text": "Endothermic", "is_correct": false },
+        { "option_id": 3, "text": "Displacement", "is_correct": false },
+        { "option_id": 4, "text": "Reduction", "is_correct": false }
+      ],
+      "answer": "Exothermic"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What is the result of Fe2+ losing an electron?",
+      "options": [
+        { "option_id": 1, "text": "Fe", "is_correct": false },
+        { "option_id": 2, "text": "Fe3+", "is_correct": true },
+        { "option_id": 3, "text": "FeO", "is_correct": false },
+        { "option_id": 4, "text": "Fe-", "is_correct": false }
+      ],
+      "answer": "Fe3+"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Reddish hydrated oxide of iron is called _____.",
+      "options": [
+        { "option_id": 1, "text": "Brass", "is_correct": false },
+        { "option_id": 2, "text": "Rust", "is_correct": true },
+        { "option_id": 3, "text": "Salt", "is_correct": false },
+        { "option_id": 4, "text": "Charcoal", "is_correct": false }
+      ],
+      "answer": "Rust"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What lowers the rate of decomposition of food in a refrigerator?",
+      "options": [
+        { "option_id": 1, "text": "High pressure", "is_correct": false },
+        { "option_id": 2, "text": "Low temperature", "is_correct": true },
+        { "option_id": 3, "text": "Darkness", "is_correct": false },
+        { "option_id": 4, "text": "Presence of light", "is_correct": false }
+      ],
+      "answer": "Low temperature"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Ozone layer depletion is caused by the _____ of destruction of ozone.",
+      "options": [
+        { "option_id": 1, "text": "Speed", "is_correct": false },
+        { "option_id": 2, "text": "Rate", "is_correct": true },
+        { "option_id": 3, "text": "Time", "is_correct": false },
+        { "option_id": 4, "text": "Color", "is_correct": false }
+      ],
+      "answer": "Rate"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "When H2 is removed from ethane to form ethene, it is _____.",
+      "options": [
+        { "option_id": 1, "text": "Reduction", "is_correct": false },
+        { "option_id": 2, "text": "Oxidation", "is_correct": true },
+        { "option_id": 3, "text": "Combination", "is_correct": false },
+        { "option_id": 4, "text": "Hydration", "is_correct": false }
+      ],
+      "answer": "Oxidation"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a chemical reaction?",
+      "answer": "A process where some substances undergo bond breaking and are transformed into new substances with different properties."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Define a reactant.",
+      "answer": "A substance that undergoes bond breaking and takes part in a chemical reaction."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a product in a chemical reaction?",
+      "answer": "The new substances formed as a result of a chemical reaction by the formation of new bonds."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Explain a combination reaction.",
+      "answer": "A reaction where two or more reactants combine to form a single product."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is a decomposition reaction?",
+      "answer": "A reaction where two or more products are formed from a single reactant."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Define displacement reaction.",
+      "answer": "A reaction where the ion of a less reactive element is replaced by another more reactive element."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is double displacement?",
+      "answer": "A reaction where the ions in the reactants are exchanged to form a precipitate."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Define an exothermic reaction.",
+      "answer": "A chemical reaction in which heat is given away or liberated during the formation of products."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Define an endothermic reaction.",
+      "answer": "A chemical reaction in which heat is absorbed from the surroundings or must be supplied continuously."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is a catalyst?",
+      "answer": "A substance that increases the rate of a chemical reaction without undergoing any chemical change itself."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is oxidation in terms of oxygen?",
+      "answer": "A reaction where a reactant combines with oxygen to form a product."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Define oxidation in terms of hydrogen.",
+      "answer": "A reaction where a reactant loses hydrogen to form a product."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is reduction in terms of oxygen?",
+      "answer": "A chemical reaction where reactants lose oxygen to form a product."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is reduction in terms of hydrogen?",
+      "answer": "A chemical reaction where reactants gain hydrogen to form a product."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Define a redox reaction.",
+      "answer": "A chemical reaction where oxidation and reduction occur simultaneously."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is corrosion?",
+      "answer": "The damage or destruction of metals due to oxidation caused by environmental factors like oxygen and moisture."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is rancidity?",
+      "answer": "The foul smell and taste developed in oily or fatty foods when they are left aside and undergo air oxidation."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the formula of rust?",
+      "answer": "Fe2O3.XH2O."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is nascent oxygen?",
+      "answer": "The highly reactive atomic state of oxygen produced by chemical oxidants, represented as [O]."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Mention one use of KMnO4.",
+      "answer": "It acts as a strong chemical oxidant used in laboratories and for water purification."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How does particle size affect the reaction rate?",
+      "answer": "Smaller particle size increases the surface area, resulting in a higher rate of chemical reaction."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "How does temperature affect the reaction rate?",
+      "answer": "An increase in temperature generally increases the rate of a chemical reaction."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Define an oxidant.",
+      "answer": "A substance that brings about oxidation by giving oxygen or removing hydrogen from another substance."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Define a reductant.",
+      "answer": "A substance that brings about reduction by losing oxygen or gaining hydrogen."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is a balanced equation?",
+      "answer": "An equation where the number of atoms of each element is the same on both the reactant and product sides."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the symbol for heat in an equation?",
+      "answer": "The Greek letter Delta (Δ)."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Mention one oxidant used for water purification.",
+      "answer": "Ozone (O3) or Chlorine."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What happens during the electrolysis of water?",
+      "answer": "Water molecules decompose into Hydrogen and Oxygen gas when an electric current is passed through them."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Explain 'Jago Grahak Jago' context.",
+      "answer": "It is a slogan for consumer awareness to protect people from market exploitation."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What are biological catalysts?",
+      "answer": "Enzymes that increase the rate of physiological reactions in living organisms."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the color of copper sulphate solution?",
+      "answer": "Blue."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the color of ferrous sulphate solution?",
+      "answer": "Greenish."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "How is H2SO4 diluted safely?",
+      "answer": "By adding small quantities of concentrated acid into water slowly with constant stirring."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Define 'Social Health' of the market.",
+      "answer": "A condition where consumers are not cheated and products are pure and fairly priced."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is hydrogenation?",
+      "answer": "The addition of hydrogen to unsaturated compounds like vegetable oil to form saturated fats (ghee)."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the state of CaCO3 in Eq 16?",
+      "answer": "Solid (s)."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What remains after heating KClO3 with MnO2?",
+      "answer": "Potassium chloride (KCl) and Oxygen (O2)."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why does a gas cylinder stop once turned off?",
+      "answer": "Because the supply of reactant (fuel) is cut off, stopping the chemical reaction."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is Equation 25?",
+      "answer": "The oxidation of ferrous sulphate to ferric sulphate using potassium permanganate."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Define 'Aqueous' (aq).",
+      "answer": "A substance dissolved in water."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the anode reaction of rust?",
+      "answer": "Fe (s) -> Fe2+ (aq) + 2e-."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the cathode reaction of rust?",
+      "answer": "O2 (g) + 4H+ (aq) + 4e- -> 2H2O (l)."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How do antioxidants work?",
+      "answer": "They prevent or slow down the oxidation of other substances by reacting with oxygen first."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the color of copper metal?",
+      "answer": "Reddish-brown."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Is melting ice a chemical change?",
+      "answer": "No, it is a physical change."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Define 'Precipitate'.",
+      "answer": "An insoluble solid that forms and settles out of a liquid mixture."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What happens when CO2 passes through lime water?",
+      "answer": "A white precipitate of calcium carbonate forms, making the water milky."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is thermal decomposition?",
+      "answer": "Decomposition brought about by heating."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Define valency.",
+      "answer": "The combining capacity of an atom, determined by its valence electrons."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is cellular respiration?",
+      "answer": "A physiological redox reaction where energy is released from glucose inside cells."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is the charge on a Ferrous ion?",
+      "answer": "+2 (Fe2+)."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What is the charge on a Ferric ion?",
+      "answer": "+3 (Fe3+)."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "How can you identify an endothermic reaction in writing?",
+      "answer": "By writing 'heat' on the reactant side or a Δ above the arrow."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "How can you identify an exothermic reaction in writing?",
+      "answer": "By writing 'heat' on the product side."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What acts as the catalyst in the body?",
+      "answer": "Enzymes."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which gas is used in a fire extinguisher?",
+      "answer": "Carbon dioxide (CO2)."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Define 'Effervescence'.",
+      "answer": "The rapid escape of gas bubbles from a liquid due to a chemical reaction."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is the role of oil in the rust experiment?",
+      "answer": "To prevent air from dissolving in the water."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What does anhydrous calcium chloride do?",
+      "answer": "It acts as a drying agent, absorbing moisture from the air."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is the product of Mg + O2?",
+      "answer": "Magnesium oxide (MgO)."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Which element is more reactive: Al or Zn?",
+      "answer": "Aluminium."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What is acidic potassium dichromate used for?",
+      "answer": "It is used as an oxidizing agent in laboratories."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is the formula of Hydrogen Peroxide?",
+      "answer": "H2O2."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is the role of MnO2 in Eq 17?",
+      "answer": "Catalyst."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Define 'Slow reaction'.",
+      "answer": "A reaction that takes a long time to complete, like rusting of iron."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Define 'Fast reaction'.",
+      "answer": "A reaction that occurs almost instantaneously, like burning of gas."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is the color of AgCl?",
+      "answer": "White."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "What is the color of BaSO4?",
+      "answer": "White."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What happens during the reduction of Fe3+?",
+      "answer": "It gains an electron and becomes Fe2+."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is Equation 23?",
+      "answer": "The redox reaction: CuO + H2 -> Cu + H2O."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "How is H2S oxidized in Eq 24?",
+      "answer": "It reacts with SO2 to give Sulphur and Water."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Mention one antioxidant mentioned in common science.",
+      "answer": "Vitamin C or Vitamin E (Though the text focuses on 'Antioxidants' generically)."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is the ozone layer called a shield?",
+      "answer": "Because it protects the Earth by absorbing harmful UV radiation."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What is 'Jhum' farming related to? (Wrong unit context check)",
+      "answer": "Note: Jhum farming is related to Geography/Tribal units, not this Science chapter."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is Eq 26?",
+      "answer": "The anodic reaction: Fe -> Fe2+ + 2e-."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is Eq 27?",
+      "answer": "The cathodic reaction: O2 + 4H+ + 4e- -> 2H2O."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Where does O2 get reduced during rusting?",
+      "answer": "At the cathode region."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Where does Fe get oxidized during rusting?",
+      "answer": "At the anode region."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What is the physical state of H2O in Eq 23?",
+      "answer": "Liquid (l)."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is the physical state of Cu in Eq 23?",
+      "answer": "Solid (s)."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Mention one reactant in Eq 25.",
+      "answer": "Potassium permanganate (KMnO4)."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Mention one product in Eq 25.",
+      "answer": "Manganese sulphate (MnSO4)."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Is the dissolution of NaOH endothermic?",
+      "answer": "No, it is exothermic."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Is the dissolution of KNO3 exothermic?",
+      "answer": "No, it is endothermic."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What does a zig-zag line in the periodic table separate? (Wrong chapter)",
+      "answer": "Separates metals from non-metals."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is Eq 18?",
+      "answer": "2H2O -> 2H2 + O2."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is the color of the white powder formed by Mg?",
+      "answer": "White."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is 'Corrosive' nature?",
+      "answer": "The ability of a substance to damage or destroy other substances with which it comes into contact by means of a chemical reaction."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "Mention the oxidant in the alcohol-to-acid reaction.",
+      "answer": "Potassium dichromate (K2Cr2O7)."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is Eq 22?",
+      "answer": "The oxidation of ethane to ethene."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Define 'Saturated fat'.",
+      "answer": "A type of fat where the carbon atoms are saturated with hydrogen, usually solid at room temperature."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "Define 'Unsaturated oil'.",
+      "answer": "A type of oil containing double or triple bonds between carbon atoms, usually liquid at room temperature."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "What is Eq 19?",
+      "answer": "Reaction of Zinc with Copper sulphate."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is Eq 20?",
+      "answer": "Reaction of Iron with Copper sulphate."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is the physical state of Zn in Eq 19?",
+      "answer": "Solid (s)."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is the physical state of CuSO4 in Eq 19?",
+      "answer": "Aqueous (aq)."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is the gas in Eq 16?",
+      "answer": "CO2."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is the catalyst in Eq 17?",
+      "answer": "MnO2."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Mention one factor increasing the rate of reaction.",
+      "answer": "Higher concentration of reactants."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Mention one factor decreasing the rate of reaction.",
+      "answer": "Larger particle size of reactants."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the experiment to study the thermal decomposition of calcium carbonate.",
+      "answer": "To study thermal decomposition, take calcium carbonate powder in a hard glass test tube. Fit it with a cork and a bent delivery tube. Insert the other end of the tube into lime water in another test tube. Heat the CaCO3 strongly. Observations: 1. Lime water turns milky, indicating CO2 is produced. 2. A white residue of CaO is left. Equation: CaCO3 (s) + heat -> CaO (s) + CO2 (g)."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe the factors that affect the rate of a chemical reaction in detail.",
+      "answer": "The rate depends on: 1. Nature of reactants: Reactive metals react faster with acids. 2. Size of particles: Smaller particles react faster due to increased surface area. 3. Concentration: Concentrated acids react faster than dilute ones. 4. Temperature: Higher temperature increases kinetic energy and reaction speed. 5. Catalyst: MnO2 or enzymes speed up reactions without being consumed."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "Explain the electrochemical process of rusting with the help of ionic equations.",
+      "answer": "Rusting involves anode and cathode regions.  At the anode: Fe is oxidized (Fe -> Fe2+ + 2e-). At the cathode: O2 is reduced in presence of H+ to form water (O2 + 4H+ + 4e- -> 2H2O). Fe2+ ions migrate, further oxidize to Fe3+, and react with water to form hydrated iron oxide (Fe2O3.XH2O), which is rust."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "What is a redox reaction? Explain with the help of the CuO + H2 reaction.",
+      "answer": "A redox reaction occurs when oxidation and reduction happen simultaneously. In the reaction CuO + H2 -> Cu + H2O: 1. CuO loses oxygen and is reduced to Cu. 2. H2 gains oxygen and is oxidized to H2O. Since both reduction (of CuO) and oxidation (of H2) take place together, it is a classic redox reaction."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Explain the difference between exothermic and endothermic reactions with examples and equations.",
+      "answer": "Exothermic reactions release heat to surroundings, e.g., CaO + H2O -> Ca(OH)2 + Heat. Endothermic reactions absorb heat, e.g., CaCO3 + Heat -> CaO + CO2. The main difference is the energy balance: exothermic reactions form stronger bonds in products than reactants, while endothermic reactions require energy to break bonds."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Describe the process of the electrolysis of water and its importance.",
+      "answer": "Electrolysis uses electricity to decompose water. [Image of electrolysis of water setup]Acidulated water is used for conductivity. In a voltameter, Hydrogen gas is liberated at the cathode and Oxygen at the anode in a 2:1 volume ratio. It is essential for producing pure hydrogen and understanding electrical-to-chemical energy conversion."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "How does particle size affect the rate of reaction? Explain with the Shahabad tile experiment.",
+      "answer": "In the experiment, Shahabad tile pieces and powder of equal weight react with dilute HCl. The powder reacts much faster, producing vigorous CO2 effervescence, while pieces react slowly. This happens because powder has a much larger surface area, allowing more collisions between reactant molecules per unit time, thus increasing the reaction rate."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Discuss the importance of reaction rates in daily life and industrial processes.",
+      "answer": "Rates are crucial: 1. Food preservation: Refrigerators slow down decomposition rates. 2. Industrial efficiency: Factories use catalysts to speed up production and reduce costs. 3. Environment: The ozone layer depends on balanced rates of O3 formation and destruction. 4. Biology: Enzymes accelerate essential bodily reactions like digestion."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain rancidity and the various ways to prevent it in food technology.",
+      "answer": "Rancidity is the air-oxidation of fats and oils in food, causing bad smells and taste. Prevention: 1. Adding antioxidants like BHA. 2. Storing food in air-tight containers to limit oxygen exposure. 3. Replacing air in packets with Nitrogen gas (e.g., in potato chips). 4. Keeping food in cool, dark places."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Describe the experiment using four test tubes to determine the conditions for rusting.",
+      "answer": "Method: Place nails in 4 tubes: 1. Boiled water + Oil (No air). 2. Salt water (Air + Salt). 3. Only Air. 4. Air + Anhydrous CaCl2 (No moisture). Results: Tube 2 rusts fastest (salt acts as electrolyte). Tube 3 rusts normally. Tubes 1 and 4 do not rust. Conclusion: Both moisture and oxygen are necessary for rusting."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain displacement and double displacement reactions with balanced equations.",
+      "answer": "Displacement: A more reactive element replaces a less reactive one, e.g., Zn (s) + CuSO4 (aq) -> ZnSO4 (aq) + Cu (s). Double Displacement: Ions are exchanged to form a precipitate, e.g., AgNO3 (aq) + NaCl (aq) -> AgCl (s) (white ppt) + NaNO3 (aq). These are used to identify ions in analytical chemistry."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "How does temperature affect the rate of chemical reaction? Give practical examples.",
+      "answer": "Increased temperature increases kinetic energy and effective collisions. Practical examples: 1. Curdling of milk occurs faster in summer than in winter. 2. Cooking is faster on a high flame. 3. Industrial synthesis (like ammonia) requires high temperature to achieve a profitable rate of production."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Describe the process of diluting concentrated sulphuric acid safely. Why is water not added to acid?",
+      "answer": "Dilution of H2SO4 is highly exothermic. Adding water to acid generates sudden, massive heat, causing the acid to splash or the container to break. Safe method: Add small amounts of acid to a large volume of water with continuous stirring. This dissipates heat gradually, preventing an uncontrolled temperature rise and splashing."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "What is a catalyst? Explain its role in the decomposition of Potassium Chlorate.",
+      "answer": "A catalyst is a substance that changes the reaction rate without being consumed. 2KClO3 decomposes into KCl and O2 slowly with heat. Adding MnO2 catalyst makes the oxygen liberation rapid at a lower temperature. The MnO2 remains unchanged chemically, acting as a shortcut for the reaction."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Explain the use of chemical oxidants in the purification of drinking water.",
+      "answer": "Water contains organic impurities and microbes. Strong oxidants like Potassium Permanganate (KMnO4) or Ozone (O3) are added. They oxidize harmful organic matter and kill bacteria by releasing nascent oxygen [O]. This high-reactivity oxygen breaks down the cell walls of microbes, making the water safe for consumption."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Define combination and decomposition reactions with examples of each.",
+      "answer": "Combination: A + B -> C (e.g., NH3 + HCl -> NH4Cl). Two or more reactants form one product. Decomposition: C -> A + B (e.g., 2H2O -> 2H2 + O2). One reactant forms two or more products. These are foundational types of chemical transformations."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Explain nascent oxygen and its role in the oxidation of ethyl alcohol.",
+      "answer": "Nascent oxygen [O] is the highly reactive, atomic state of oxygen just produced by an oxidant. To oxidize ethyl alcohol (C2H5OH) to acetic acid (CH3COOH), acidic K2Cr2O7 is used. It releases [O], which reacts with the alcohol. This reaction involves the removal of hydrogen and addition of oxygen, facilitated by the nascent state."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "How does concentration of reactants affect the rate of reaction? Explain with a solid-acid example.",
+      "answer": "Rate is proportional to concentration. Example: CaCO3 powder reacts with dilute HCl slowly (low effervescence). The same powder reacts with concentrated HCl rapidly (vigorous effervescence). Higher concentration means more reactant molecules in the same volume, leading to more frequent collisions and a faster transformation."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Explain the role of enzymes as biological catalysts in the human body.",
+      "answer": "Enzymes are protein catalysts. Without them, body reactions (like digestion or respiration) would be too slow to sustain life. They allow reactions to happen at body temperature (37°C). Example: Cytochrome C oxidase helps in electron transport during cellular respiration, releasing energy efficiently from nutrients."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Discuss the environmental importance of reaction rates regarding the ozone layer.",
+      "answer": "The ozone layer (O3) absorbs UV rays. Its health depends on the balance between formation (O2 + O -> O3) and destruction (O3 + O -> 2O2). Pollutants like CFCs increase the 'rate of destruction'. If this rate is higher than the 'rate of formation', the layer thins (ozone hole), which is harmful to life on Earth."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Contrast the dissolution of NaOH and KNO3 in water regarding heat exchange.",
+      "answer": "Dissolving NaOH is exothermic: heat is released, and the container becomes hot. Dissolving KNO3 is endothermic: heat is absorbed from the water, and the container becomes cold. These are physical processes that demonstrate energy absorption or release during the breaking and forming of solute-solvent bonds."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Describe the stepwise method of balancing a chemical equation.",
+      "answer": "1. Write the word equation. 2. Write the chemical formula. 3. Check the number of atoms of each element on both sides. 4. Use coefficients (starting with elements appearing least often) to equalize atoms. 5. Write the final balanced equation with physical states (s, l, g, aq)."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Explain the hydrogenation of vegetable oil as a reduction reaction.",
+      "answer": "Vegetable oil contains unsaturated carbon chains. When Hydrogen gas is passed through it using a Nickel catalyst at a specific temperature, it becomes saturated. This is a reduction reaction (addition of H2). The liquid oil turns into solid Vanaspati ghee. It is a major industrial application of addition/reduction."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Differentiate between physical and chemical changes with three examples each.",
+      "answer": "Physical: Temporary, reversible, no new substance (e.g., melting ice, evaporation of water, dissolving salt). Chemical: Permanent, irreversible, new substance with new properties (e.g., digestion of food, burning wood, rusting of iron). The key is whether chemical bonds are permanently altered."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Describe the displacement reaction between iron nails and copper sulphate solution.",
+      "answer": "When Iron (Fe) nails are dipped in blue Copper sulphate (CuSO4): 1. Blue color fades and turns light green due to FeSO4 formation. 2. Reddish layer of Copper (Cu) deposits on nails. Equation: Fe (s) + CuSO4 (aq) -> FeSO4 (aq) + Cu (s). This proves iron is more reactive than copper."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain the formation of biogas as a natural decomposition process.",
+      "answer": "Organic waste (dung, plants) is decomposed by anaerobic microorganisms. They break complex organic matter into methane, CO2, and other gases. This is a slow, natural chemical change. It provides clean fuel (biogas) and nutrient-rich manure, showing the utility of natural decomposition reactions in waste management."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Describe the controlled oxidation of alcohol in the presence of acidic K2Cr2O7.",
+      "answer": "Acidic K2Cr2O7 is an oxidant. It converts ethanol (CH3CH2OH) into ethanoic acid (CH3COOH). The orange solution of dichromate turns green as it gets reduced to Chromium sulphate. The nascent oxygen released by dichromate removes hydrogen and adds oxygen to the alcohol molecule."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Contrast a catalyst with a reactant using Manganese Dioxide as an example.",
+      "answer": "Reactant (KClO3) is chemically transformed into new substances (KCl, O2). Catalyst (MnO2) speed up the reaction but remains chemically unchanged and is recovered at the end. Reactants determine the nature of products; catalysts only determine the speed of formation. MnO2 allows O2 release at lower heat."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "What is corrosion? Discuss its economic impact and prevention methods.",
+      "answer": "Corrosion is the oxidation of metals by environmental moisture/oxygen. Economic impact: Bridges, cars, and machines weaken, costing billions in repairs. Prevention: 1. Painting (e.g., cars). 2. Galvanization (coating with Zn). 3. Alloying (e.g., stainless steel). 4. Electroplating (e.g., with Tin)."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Describe the significance of writing physical states and reaction conditions in a chemical equation.",
+      "answer": "Writing states (s, l, g, aq) makes the equation informative about the nature of substances. Conditions (Heat Δ, pressure, catalyst) show what is needed for the reaction to start. This allows scientists to replicate the reaction exactly and helps in calculating yields and safety requirements in industrial settings."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Explain the reaction of barium sulphate with potassium chromate as a double displacement.",
+      "answer": "When BaSO4 reacts with K2Cr2O4, ions swap: Ba2+ joins Cr2O4^2- to form Barium Chromate (yellow precipitate), and K+ joins SO4^2- to form Potassium Sulphate. Since ions are exchanged and a precipitate forms, it is a double displacement reaction. Equation: BaSO4 + K2Cr2O4 -> BaCr2O4 + K2SO4."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain how Zinc displaces Copper from CuSO4 using the concept of reactivity.",
+      "answer": "Zinc has a higher tendency to lose electrons than Copper. In CuSO4 solution, Cu is present as Cu2+ ions. Zinc atoms lose 2 electrons to become Zn2+, and Cu2+ ions gain those electrons to become solid Cu. Because Zn is more 'reactive', it can force Cu out of its compound."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Discuss the relationship between reaction rates and industrial profitability.",
+      "answer": "In factories, 'Time is Money'. If a reaction (e.g., making plastic) is slow, it uses more electricity and labor for less output. Industries use catalysts and high pressure/temperature to reach a fast 'optimum rate'. Profit depends on the speed of converting raw materials into products efficiently."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Explain why bond-breaking is endothermic and bond-forming is exothermic.",
+      "answer": "Breaking a stable bond requires external energy (Heat, Light, or Electricity), so it is endothermic. Forming a new, more stable bond releases that energy back into the surroundings, so it is exothermic. Most reactions involve both; the net result (Heat absorbed or released) determines the final energy type of the reaction."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Explain the role of antioxidants in preventing food spoilage.",
+      "answer": "Antioxidants (like BHT or Vitamin E) are sacrificial substances. They react with oxygen in the air much faster than the oils in the food. By 'using up' the oxygen or neutralizing free radicals, they prevent the fat molecules from oxidizing, thereby preventing the foul smell and taste of rancidity."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Describe the electrolysis of acidulated water with a labeled diagram description.",
+      "answer": "Water is a poor conductor. Adding H2SO4 makes it acidulated. [Image of electrolysis of water setup]Electricity breaks H2O into H2 (at cathode) and O2 (at anode). Volume of H2 is double O2 because the formula is H2O. This is an endothermic reaction converting electrical energy to chemical energy."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Analyze why some reactions are instantaneous while others take months.",
+      "answer": "Rate depends on 'Activation Energy'. Burning gas (LPG) has low activation energy and starts instantly with a spark. Rusting has a complex mechanism requiring moisture and oxygen to slowly penetrate the surface, having higher activation energy and multi-step ionic transfers, making it a very slow process."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Explain the oxidation of Ferrous Sulphate using KMnO4 and H2SO4.",
+      "answer": "KMnO4 is a strong oxidant. In presence of H2SO4, it provides nascent oxygen [O]. This [O] reacts with Ferrous sulphate (FeSO4) to form Ferric sulphate (Fe2(SO4)3) and Water. The ionic change is Fe2+ -> Fe3+ + e- (Oxidation). The purple KMnO4 turns colorless as it gets reduced."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "How does moisture and air contribute to the corrosion of various metals (Iron, Copper, Silver)?",
+      "answer": "Iron: Reacts with O2 and H2O to form reddish hydrated oxide (Rust). Copper: Reacts with moist CO2 to form a greenish layer of basic copper carbonate (Patina). Silver: Reacts with H2S in air to form a black layer of Silver Sulphide. All these are slow oxidation processes that destroy the metal surface."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Describe the steps to identify a redox reaction from a chemical equation.",
+      "answer": "1. Identify the substance gaining oxygen or losing hydrogen (Oxidation). 2. Identify the substance losing oxygen or gaining hydrogen (Reduction). 3. If both occur in the same reaction, it is Redox. Modern way: Check for electron loss (Oxidation) and electron gain (Reduction). Example: H2S + SO2 -> 3S + 2H2O."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Describe the decomposition of H2O2 in the presence of MnO2 catalyst.",
+      "answer": "Hydrogen peroxide is unstable. H2O2 -> 2H2O + O2. Normally slow, but adding MnO2 powder provides a high-speed pathway. This is used in labs to produce oxygen quickly. MnO2 is called a 'positive catalyst' as it lowers the energy barrier for the decomposition to occur at room temperature."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain why concentrated HCl reacts faster with CaCO3 than dilute HCl.",
+      "answer": "Concentrated acid has more HCl molecules per cm3. This increases the 'collision frequency' with the CaCO3 surface. Since more acid particles hit the solid surface every second, the rate of bond-breaking and CO2 release is much higher. In dilute acid, water molecules 'dilute' the collisions, making the reaction slow."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "How is cellular respiration a redox process? Explain the energy transfer.",
+      "answer": "Respiration: C6H12O6 + 6O2 -> 6CO2 + 6H2O + Energy. Glucose is oxidized (loses H and electrons) to form CO2. Oxygen is reduced (gains electrons and H) to form Water. This 'electron flow' is captured by cells to produce ATP (energy). It is the most vital chemical reaction for life."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Discuss the impact of the Green Revolution on soil chemistry and agricultural movements.",
+      "answer": "The Revolution used high-yield seeds and chemical fertilizers. Success: Self-sufficiency. Problems: 1. Soil became acidic/saline due to chemicals. 2. Groundwater depletion. 3. Economic debt for small farmers. These 'chemical and economic' changes led to farmers' movements demanding sustainable farming and loan waivers."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "What is the importance of 'Balanced' equations for industrial mass-production calculations?",
+      "answer": "Industries use stoichiometry (based on balanced equations) to calculate the exact weight of raw materials (reactants) needed to get a specific weight of product. If the equation is unbalanced, the calculation will be wrong, leading to waste of materials or dangerous leftovers of unused chemicals."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Describe the role of social movements in ensuring 'Social Health' of the market.",
+      "answer": "Movements (like consumer protection) act as a check on unethical market reactions. They demand transparency in labeling, stop adulteration (unwanted chemical reactions in food), and ensure safety standards. This collective 'social action' forces companies to follow ethical chemical and manufacturing practices."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "How does the 'Nature of Reactants' determine the speed of acid-metal reactions?",
+      "answer": "Reactivity is a property of the metal's atom. Al is more reactive than Zn. When both react with HCl, Al displaces Hydrogen much more vigorously and quickly. The 'nature' or the electronic arrangement of Al makes it more willing to undergo oxidation compared to Zn, proving that speed is inherent to the substance identity."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Nascent' state in chemical reactions. Why is it more reactive?",
+      "answer": "Nascent (newborn) atoms like [O] or [H] are produced during a reaction. They are individual atoms, not molecules. Since individual atoms have unpaired electrons and no stable bond, they are much more energetic and reactive than stable O2 or H2 molecules. This allows them to attack other molecules (like alcohol) instantly."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Discuss the environmental hazards of slow oxidation processes (Corrosion and Degradation).",
+      "answer": "1. Corrosion: Destroys infrastructure (pipelines, bridges), leading to leaks and collapses. 2. Degradation: Slow oxidation of waste can produce toxic leachate that poisons soil and water. Environmental movements fight for 'Corrosion control' and 'Sustainable waste treatment' to prevent these slow but massive chemical damages to nature."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Summarize the significance of Chemical Reactions in the progress of human civilization.",
+      "answer": "Human progress is tied to controlling reactions: 1. Energy: Combustion of fuels. 2. Health: Synthesizing medicines. 3. Nutrition: Cooking and preservation. 4. Industry: Making steel, plastic, and fertilizers. 5. Environment: Understanding and fixing the ozone layer. Mastery over 'Rate' and 'Nature' of reactions allows humans to transform nature's raw materials into useful resources safely and efficiently."
+    }
+  ]
+}

@@ -1,0 +1,1301 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.English.4.2",
+    "standard": "10",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Luncheon"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the author of the story 'The Luncheon'?",
+      "options": [
+        { "option_id": 1, "text": "O. Henry", "is_correct": false },
+        { "option_id": 2, "text": "William Somerset Maugham", "is_correct": true },
+        { "option_id": 3, "text": "Guy de Maupassant", "is_correct": false },
+        { "option_id": 4, "text": "Anton Chekhov", "is_correct": false }
+      ],
+      "answer": "William Somerset Maugham"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where does the narrator meet the lady again after twenty years?",
+      "options": [
+        { "option_id": 1, "text": "At a restaurant", "is_correct": false },
+        { "option_id": 2, "text": "At a play", "is_correct": true },
+        { "option_id": 3, "text": "On the street", "is_correct": false },
+        { "option_id": 4, "text": "In a park", "is_correct": false }
+      ],
+      "answer": "At a play"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who initiates the conversation when they meet at the play?",
+      "options": [
+        { "option_id": 1, "text": "The narrator", "is_correct": false },
+        { "option_id": 2, "text": "The lady", "is_correct": true },
+        { "option_id": 3, "text": "A common friend", "is_correct": false },
+        { "option_id": 4, "text": "Neither, they just nod", "is_correct": false }
+      ],
+      "answer": "The lady"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How long had it been since the narrator last saw the lady?",
+      "options": [
+        { "option_id": 1, "text": "Ten years", "is_correct": false },
+        { "option_id": 2, "text": "Twenty years", "is_correct": true },
+        { "option_id": 3, "text": "Five years", "is_correct": false },
+        { "option_id": 4, "text": "Fifteen years", "is_correct": false }
+      ],
+      "answer": "Twenty years"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What was the narrator's profession twenty years ago?",
+      "options": [
+        { "option_id": 1, "text": "A lawyer", "is_correct": false },
+        { "option_id": 2, "text": "A doctor", "is_correct": false },
+        { "option_id": 3, "text": "A writer", "is_correct": true },
+        { "option_id": 4, "text": "A teacher", "is_correct": false }
+      ],
+      "answer": "A writer"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where was the narrator living in Paris twenty years ago?",
+      "options": [
+        { "option_id": 1, "text": "Near the Eiffel Tower", "is_correct": false },
+        { "option_id": 2, "text": "In the Latin Quarter", "is_correct": true },
+        { "option_id": 3, "text": "On the Champs-Élysées", "is_correct": false },
+        { "option_id": 4, "text": "In Montmartre", "is_correct": false }
+      ],
+      "answer": "In the Latin Quarter"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why did the lady first write to the narrator?",
+      "options": [
+        { "option_id": 1, "text": "She was an old friend.", "is_correct": false },
+        { "option_id": 2, "text": "She wanted to borrow money.", "is_correct": false },
+        { "option_id": 3, "text": "She had read his book.", "is_correct": true },
+        { "option_id": 4, "text": "She wanted to offer him a job.", "is_correct": false }
+      ],
+      "answer": "She had read his book."
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "At which restaurant did the lady wish to have luncheon?",
+      "options": [
+        { "option_id": 1, "text": "Maxim's", "is_correct": false },
+        { "option_id": 2, "text": "Foyot's", "is_correct": true },
+        { "option_id": 3, "text": "The Ritz", "is_correct": false },
+        { "option_id": 4, "text": "A small cafe", "is_correct": false }
+      ],
+      "answer": "Foyot's"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why was the mention of Foyot's startling to the narrator?",
+      "options": [
+        { "option_id": 1, "text": "It was too far away.", "is_correct": false },
+        { "option_id": 2, "text": "He didn't like the food there.", "is_correct": false },
+        { "option_id": 3, "text": "It was way beyond his means.", "is_correct": true },
+        { "option_id": 4, "text": "It was closed for renovations.", "is_correct": false }
+      ],
+      "answer": "It was way beyond his means."
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who typically frequented Foyot's restaurant?",
+      "options": [
+        { "option_id": 1, "text": "Students", "is_correct": false },
+        { "option_id": 2, "text": "Tourists", "is_correct": false },
+        { "option_id": 3, "text": "French senators", "is_correct": true },
+        { "option_id": 4, "text": "Artists", "is_correct": false }
+      ],
+      "answer": "French senators"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "How much money did the narrator have to last him the rest of the month?",
+      "options": [
+        { "option_id": 1, "text": "Fifty francs", "is_correct": false },
+        { "option_id": 2, "text": "Eighty francs", "is_correct": true },
+        { "option_id": 3, "text": "One hundred francs", "is_correct": false },
+        { "option_id": 4, "text": "Twenty francs", "is_correct": false }
+      ],
+      "answer": "Eighty francs"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How much did the narrator estimate a modest luncheon would cost?",
+      "options": [
+        { "option_id": 1, "text": "Ten francs", "is_correct": false },
+        { "option_id": 2, "text": "Fifteen francs", "is_correct": true },
+        { "option_id": 3, "text": "Twenty francs", "is_correct": false },
+        { "option_id": 4, "text": "Five francs", "is_correct": false }
+      ],
+      "answer": "Fifteen francs"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "How did the narrator plan to manage his budget after the expensive lunch?",
+      "options": [
+        { "option_id": 1, "text": "Borrow money", "is_correct": false },
+        { "option_id": 2, "text": "Skip dinner for a month", "is_correct": false },
+        { "option_id": 3, "text": "Cut out coffee for the next two weeks", "is_correct": true },
+        { "option_id": 4, "text": "Walk instead of taking the bus", "is_correct": false }
+      ],
+      "answer": "Cut out coffee for the next two weeks"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "On what day and at what time did they arrange to meet for lunch?",
+      "options": [
+        { "option_id": 1, "text": "Friday at 12:30", "is_correct": false },
+        { "option_id": 2, "text": "Thursday at 1:00", "is_correct": false },
+        { "option_id": 3, "text": "Thursday at 12:30", "is_correct": true },
+        { "option_id": 4, "text": "Saturday at 12:00", "is_correct": false }
+      ],
+      "answer": "Thursday at 12:30"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What was the narrator's first impression of the lady's appearance?",
+      "options": [
+        { "option_id": 1, "text": "She was very young and pretty.", "is_correct": false },
+        { "option_id": 2, "text": "She was not as young as he expected and imposing.", "is_correct": true },
+        { "option_id": 3, "text": "She looked exactly like her photo.", "is_correct": false },
+        { "option_id": 4, "text": "She was small and dainty.", "is_correct": false }
+      ],
+      "answer": "She was not as young as he expected and imposing."
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What facial feature of the lady does the narrator specifically mention?",
+      "options": [
+        { "option_id": 1, "text": "Her large blue eyes", "is_correct": false },
+        { "option_id": 2, "text": "Her small nose", "is_correct": false },
+        { "option_id": 3, "text": "Her teeth, which were white, large, and even", "is_correct": true },
+        { "option_id": 4, "text": "Her curly hair", "is_correct": false }
+      ],
+      "answer": "Her teeth, which were white, large, and even"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Was the lady talkative during the luncheon?",
+      "options": [
+        { "option_id": 1, "text": "No, she was very quiet.", "is_correct": false },
+        { "option_id": 2, "text": "Yes, she seemed inclined to talk about him.", "is_correct": true },
+        { "option_id": 3, "text": "Only when asked a question.", "is_correct": false },
+        { "option_id": 4, "text": "She only talked about the food.", "is_correct": false }
+      ],
+      "answer": "Yes, she seemed inclined to talk about him."
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What was the lady's initial statement about her eating habits for luncheon?",
+      "options": [
+        { "option_id": 1, "text": "\"I am starving!\"", "is_correct": false },
+        { "option_id": 2, "text": "\"Let's have a feast.\"", "is_correct": false },
+        { "option_id": 3, "text": "\"I never eat anything for luncheon.\"", "is_correct": true },
+        { "option_id": 4, "text": "\"I only eat salads.\"", "is_correct": false }
+      ],
+      "answer": "\"I never eat anything for luncheon.\""
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "How did the narrator feel when he saw the prices on the menu?",
+      "options": [
+        { "option_id": 1, "text": "Relieved", "is_correct": false },
+        { "option_id": 2, "text": "Indifferent", "is_correct": false },
+        { "option_id": 3, "text": "Startled", "is_correct": true },
+        { "option_id": 4, "text": "Excited", "is_correct": false }
+      ],
+      "answer": "Startled"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What was the very first dish the lady ordered?",
+      "options": [
+        { "option_id": 1, "text": "Caviar", "is_correct": false },
+        { "option_id": 2, "text": "Salmon", "is_correct": true },
+        { "option_id": 3, "text": "Asparagus", "is_correct": false },
+        { "option_id": 4, "text": "Soup", "is_correct": false }
+      ],
+      "answer": "Salmon"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Why was salmon particularly expensive at that time?",
+      "options": [
+        { "option_id": 1, "text": "It was imported.", "is_correct": false },
+        { "option_id": 2, "text": "It was early in the season for salmon.", "is_correct": true },
+        { "option_id": 3, "text": "Foyot's was known for its salmon.", "is_correct": false },
+        { "option_id": 4, "text": "There was a shortage.", "is_correct": false }
+      ],
+      "answer": "It was early in the season for salmon."
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What dish did the narrator choose for himself initially?",
+      "options": [
+        { "option_id": 1, "text": "A steak", "is_correct": false },
+        { "option_id": 2, "text": "A mutton chop", "is_correct": true },
+        { "option_id": 3, "text": "A salad", "is_correct": false },
+        { "option_id": 4, "text": "Salmon as well", "is_correct": false }
+      ],
+      "answer": "A mutton chop"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "How did the lady react to the narrator's choice of a mutton chop?",
+      "options": [
+        { "option_id": 1, "text": "She thought it was a sensible choice.", "is_correct": false },
+        { "option_id": 2, "text": "She said it was too heavy for lunch.", "is_correct": true },
+        { "option_id": 3, "text": "She wanted one too.", "is_correct": false },
+        { "option_id": 4, "text": "She didn't comment.", "is_correct": false }
+      ],
+      "answer": "She said it was too heavy for lunch."
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What did the lady order while waiting for the salmon to be cooked?",
+      "options": [
+        { "option_id": 1, "text": "Soup", "is_correct": false },
+        { "option_id": 2, "text": "Bread", "is_correct": false },
+        { "option_id": 3, "text": "Caviar", "is_correct": true },
+        { "option_id": 4, "text": "Oysters", "is_correct": false }
+      ],
+      "answer": "Caviar"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What was the narrator's internal reaction when she ordered caviar?",
+      "options": [
+        { "option_id": 1, "text": "He was delighted.", "is_correct": false },
+        { "option_id": 2, "text": "His heart sank.", "is_correct": true },
+        { "option_id": 3, "text": "He was indifferent.", "is_correct": false },
+        { "option_id": 4, "text": "He decided to have some too.", "is_correct": false }
+      ],
+      "answer": "His heart sank."
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What did the narrator tell the waiter about caviar for himself?",
+      "options": [
+        { "option_id": 1, "text": "\"I'll have a large portion.\"", "is_correct": false },
+        { "option_id": 2, "text": "\"I'm not very hungry.\"", "is_correct": false },
+        { "option_id": 3, "text": "\"I never eat caviar.\"", "is_correct": true },
+        { "option_id": 4, "text": "\"Bring me the bill.\"", "is_correct": false }
+      ],
+      "answer": "\"I never eat caviar.\""
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What did the lady initially say she wanted to drink?",
+      "options": [
+        { "option_id": 1, "text": "Red wine", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "A \"little\" white wine", "is_correct": true },
+        { "option_id": 4, "text": "Beer", "is_correct": false }
+      ],
+      "answer": "A \"little\" white wine"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What reason did she give for wanting white wine?",
+      "options": [
+        { "option_id": 1, "text": "She was thirsty.", "is_correct": false },
+        { "option_id": 2, "text": "It goes well with fish.", "is_correct": false },
+        { "option_id": 3, "text": "Her doctor had recommended it.", "is_correct": true },
+        { "option_id": 4, "text": "It was a celebration.", "is_correct": false }
+      ],
+      "answer": "Her doctor had recommended it."
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What specific type of white wine did she order?",
+      "options": [
+        { "option_id": 1, "text": "Chardonnay", "is_correct": false },
+        { "option_id": 2, "text": "Sauvignon Blanc", "is_correct": false },
+        { "option_id": 3, "text": "Champagne", "is_correct": true },
+        { "option_id": 4, "text": "Pinot Grigio", "is_correct": false }
+      ],
+      "answer": "Champagne"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "How did the narrator physically react when champagne was ordered?",
+      "options": [
+        { "option_id": 1, "text": "He smiled weakly.", "is_correct": false },
+        { "option_id": 2, "text": "He turned a trifle pale.", "is_correct": true },
+        { "option_id": 3, "text": "He coughed.", "is_correct": false },
+        { "option_id": 4, "text": "He sweated profusely.", "is_correct": false }
+      ],
+      "answer": "He turned a trifle pale."
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What did the narrator order for himself to drink?",
+      "options": [
+        { "option_id": 1, "text": "Coffee", "is_correct": false },
+        { "option_id": 2, "text": "Tea", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": true },
+        { "option_id": 4, "text": "A small beer", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What vegetable on the menu caught the lady's eye?",
+      "options": [
+        { "option_id": 1, "text": "Artichokes", "is_correct": false },
+        { "option_id": 2, "text": "Truffles", "is_correct": false },
+        { "option_id": 3, "text": "Asparagus", "is_correct": true },
+        { "option_id": 4, "text": "Mushrooms", "is_correct": false }
+      ],
+      "answer": "Asparagus"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "How were the asparagus described in the text?",
+      "options": [
+        { "option_id": 1, "text": "Small and stringy", "is_correct": false },
+        { "option_id": 2, "text": "Giant and succulent", "is_correct": true },
+        { "option_id": 3, "text": "Overcooked", "is_correct": false },
+        { "option_id": 4, "text": "Cheap and plentiful", "is_correct": false }
+      ],
+      "answer": "Giant and succulent"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What was the narrator's thought about the price of the asparagus?",
+      "options": [
+        { "option_id": 1, "text": "They were reasonably priced.", "is_correct": false },
+        { "option_id": 2, "text": "They were horribly expensive.", "is_correct": true },
+        { "option_id": 3, "text": "They were cheap.", "is_correct": false },
+        { "option_id": 4, "text": "He didn't check the price.", "is_correct": false }
+      ],
+      "answer": "They were horribly expensive."
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What excuse did the narrator give for not having asparagus?",
+      "options": [
+        { "option_id": 1, "text": "He was allergic.", "is_correct": false },
+        { "option_id": 2, "text": "He was full.", "is_correct": false },
+        { "option_id": 3, "text": "He never ate asparagus.", "is_correct": true },
+        { "option_id": 4, "text": "He preferred salad.", "is_correct": false }
+      ],
+      "answer": "He never ate asparagus."
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "How did the lady eat the asparagus?",
+      "options": [
+        { "option_id": 1, "text": "Quickly", "is_correct": false },
+        { "option_id": 2, "text": "Reluctantly", "is_correct": false },
+        { "option_id": 3, "text": "With relish", "is_correct": true },
+        { "option_id": 4, "text": "With her fingers", "is_correct": false }
+      ],
+      "answer": "With relish"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What did the lady suggest ordering after the asparagus?",
+      "options": [
+        { "option_id": 1, "text": "Cheese", "is_correct": false },
+        { "option_id": 2, "text": "Fruit", "is_correct": false },
+        { "option_id": 3, "text": "Ice cream and coffee", "is_correct": true },
+        { "option_id": 4, "text": "A liqueur", "is_correct": false }
+      ],
+      "answer": "Ice cream and coffee"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Throughout the meal, what did the lady refer to her extensive ordering as?",
+      "options": [
+        { "option_id": 1, "text": "A feast", "is_correct": false },
+        { "option_id": 2, "text": "A snack", "is_correct": true },
+        { "option_id": 3, "text": "A treat", "is_correct": false },
+        { "option_id": 4, "text": "Her main meal", "is_correct": false }
+      ],
+      "answer": "A snack"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What fruit did the waiter bring to the table at the end of the meal?",
+      "options": [
+        { "option_id": 1, "text": "Apples", "is_correct": false },
+        { "option_id": 2, "text": "Grapes", "is_correct": false },
+        { "option_id": 3, "text": "Peaches", "is_correct": true },
+        { "option_id": 4, "text": "Strawberries", "is_correct": false }
+      ],
+      "answer": "Peaches"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why were the peaches considered an expensive luxury?",
+      "options": [
+        { "option_id": 1, "text": "They were imported from Italy.", "is_correct": false },
+        { "option_id": 2, "text": "They were not in season.", "is_correct": true },
+        { "option_id": 3, "text": "They were very large.", "is_correct": false },
+        { "option_id": 4, "text": "They were rare.", "is_correct": false }
+      ],
+      "answer": "They were not in season."
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "How many peaches did the lady eat?",
+      "options": [
+        { "option_id": 1, "text": "None", "is_correct": false },
+        { "option_id": 2, "text": "One", "is_correct": true },
+        { "option_id": 3, "text": "Two", "is_correct": false },
+        { "option_id": 4, "text": "The whole basket", "is_correct": false }
+      ],
+      "answer": "One"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What did the lady say about her dinner plans as she ate the peach?",
+      "options": [
+        { "option_id": 1, "text": "\"I'm having a large dinner tonight.\"", "is_correct": false },
+        { "option_id": 2, "text": "\"I shall not have any dinner.\"", "is_correct": true },
+        { "option_id": 3, "text": "\"I'll just have soup for dinner.\"", "is_correct": false },
+        { "option_id": 4, "text": "\"Let's go for dinner too!\"", "is_correct": false }
+      ],
+      "answer": "\"I shall not have any dinner.\""
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What was the narrator's fear as the bill was brought?",
+      "options": [
+        { "option_id": 1, "text": "That the lady would not pay her share.", "is_correct": false },
+        { "option_id": 2, "text": "That he would not have enough money to pay it.", "is_correct": true },
+        { "option_id": 3, "text": "That the bill was incorrect.", "is_correct": false },
+        { "option_id": 4, "text": "That the waiter would be rude.", "is_correct": false }
+      ],
+      "answer": "That he would not have enough money to pay it."
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "After paying the bill, how much money did the narrator have left for the tip?",
+      "options": [
+        { "option_id": 1, "text": "Five francs", "is_correct": false },
+        { "option_id": 2, "text": "Three francs", "is_correct": true },
+        { "option_id": 3, "text": "Ten francs", "is_correct": false },
+        { "option_id": 4, "text": "Nothing", "is_correct": false }
+      ],
+      "answer": "Three francs"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What did the narrator think the waiter's opinion of him was after seeing the tip?",
+      "options": [
+        { "option_id": 1, "text": "Generous", "is_correct": false },
+        { "option_id": 2, "text": "Mean", "is_correct": true },
+        { "option_id": 3, "text": "Poor", "is_correct": false },
+        { "option_id": 4, "text": "Funny", "is_correct": false }
+      ],
+      "answer": "Mean"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "How much money did the narrator have left for the rest of the month after the luncheon?",
+      "options": [
+        { "option_id": 1, "text": "Three francs", "is_correct": false },
+        { "option_id": 2, "text": "Not a penny", "is_correct": true },
+        { "option_id": 3, "text": "Enough for coffee", "is_correct": false },
+        { "option_id": 4, "text": "A few coins", "is_correct": false }
+      ],
+      "answer": "Not a penny"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What was the lady's parting advice to the narrator?",
+      "options": [
+        { "option_id": 1, "text": "\"Work hard and write more books.\"", "is_correct": false },
+        { "option_id": 2, "text": "\"Never eat more than one thing for luncheon.\"", "is_correct": true },
+        { "option_id": 3, "text": "\"Always pay your bills on time.\"", "is_correct": false },
+        { "option_id": 4, "text": "\"Don't let women take advantage of you.\"", "is_correct": false }
+      ],
+      "answer": "\"Never eat more than one thing for luncheon.\""
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What was the narrator's sarcastic reply to her parting advice?",
+      "options": [
+        { "option_id": 1, "text": "\"I will try.\"", "is_correct": false },
+        { "option_id": 2, "text": "\"I'll do better than that. I'll eat nothing for dinner tonight.\"", "is_correct": true },
+        { "option_id": 3, "text": "\"That's good advice.\"", "is_correct": false },
+        { "option_id": 4, "text": "He said nothing.", "is_correct": false }
+      ],
+      "answer": "\"I'll do better than that. I'll eat nothing for dinner tonight.\""
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What did the lady call the narrator after his final comment?",
+      "options": [
+        { "option_id": 1, "text": "A gentleman", "is_correct": false },
+        { "option_id": 2, "text": "A humorist", "is_correct": true },
+        { "option_id": 3, "text": "A poor man", "is_correct": false },
+        { "option_id": 4, "text": "A fool", "is_correct": false }
+      ],
+      "answer": "A humorist"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What does the narrator claim about his own character at the end of the story?",
+      "options": [
+        { "option_id": 1, "text": "That he is a generous man.", "is_correct": false },
+        { "option_id": 2, "text": "That he is not a vindictive man.", "is_correct": true },
+        { "option_id": 3, "text": "That he is a successful writer.", "is_correct": false },
+        { "option_id": 4, "text": "That he is still poor.", "is_correct": false }
+      ],
+      "answer": "That he is not a vindictive man."
+    },
+    {
+      "question_id": 51,
+      "question_type": "MCQ",
+      "question": "Who does the narrator feel has taken revenge on his behalf?",
+      "options": [
+        { "option_id": 1, "text": "Karma", "is_correct": false },
+        { "option_id": 2, "text": "Fate", "is_correct": false },
+        { "option_id": 3, "text": "The immortal gods", "is_correct": true },
+        { "option_id": 4, "text": "Time", "is_correct": false }
+      ],
+      "answer": "The immortal gods"
+    },
+    {
+      "question_id": 52,
+      "question_type": "MCQ",
+      "question": "What is the lady's weight at the time of their second meeting?",
+      "options": [
+        { "option_id": 1, "text": "Fifteen stone", "is_correct": false },
+        { "option_id": 2, "text": "Twenty stone", "is_correct": false },
+        { "option_id": 3, "text": "Twenty-one stone", "is_correct": true },
+        { "option_id": 4, "text": "Eighteen stone", "is_correct": false }
+      ],
+      "answer": "Twenty-one stone"
+    },
+    {
+      "question_id": 53,
+      "question_type": "MCQ",
+      "question": "What does the word 'gamine' mean in the context of the narrator's expectation?",
+      "options": [
+        { "option_id": 1, "text": "An old woman", "is_correct": false },
+        { "option_id": 2, "text": "A sophisticated lady", "is_correct": false },
+        { "option_id": 3, "text": "A girl with mischievous, boyish charm", "is_correct": true },
+        { "option_id": 4, "text": "A quiet, shy person", "is_correct": false }
+      ],
+      "answer": "A girl with mischievous, boyish charm"
+    },
+    {
+      "question_id": 54,
+      "question_type": "MCQ",
+      "question": "What does the word 'imposing' mean when describing the lady?",
+      "options": [
+        { "option_id": 1, "text": "Rude and arrogant", "is_correct": false },
+        { "option_id": 2, "text": "Grand and impressive in appearance", "is_correct": true },
+        { "option_id": 3, "text": "Frightening", "is_correct": false },
+        { "option_id": 4, "text": "Unattractive", "is_correct": false }
+      ],
+      "answer": "Grand and impressive in appearance"
+    },
+    {
+      "question_id": 55,
+      "question_type": "MCQ",
+      "question": "What does 'succulent' mean in the description of the asparagus?",
+      "options": [
+        { "option_id": 1, "text": "Expensive", "is_correct": false },
+        { "option_id": 2, "text": "Tender, juicy, and tasty", "is_correct": true },
+        { "option_id": 3, "text": "Large and green", "is_correct": false },
+        { "option_id": 4, "text": "Cooked perfectly", "is_correct": false }
+      ],
+      "answer": "Tender, juicy, and tasty"
+    },
+    {
+      "question_id": 56,
+      "question_type": "MCQ",
+      "question": "What does 'effusive' mean in the phrase \"she was effusive\"?",
+      "options": [
+        { "option_id": 1, "text": "Quiet and reserved", "is_correct": false },
+        { "option_id": 2, "text": "Expressing feelings in an unrestrained manner", "is_correct": true },
+        { "option_id": 3, "text": "Angry and shouting", "is_correct": false },
+        { "option_id": 4, "text": "Confused", "is_correct": false }
+      ],
+      "answer": "Expressing feelings in an unrestrained manner"
+    },
+    {
+      "question_id": 57,
+      "question_type": "MCQ",
+      "question": "The Latin Quarter is a famous section of which city?",
+      "options": [
+        { "option_id": 1, "text": "London", "is_correct": false },
+        { "option_id": 2, "text": "Rome", "is_correct": false },
+        { "option_id": 3, "text": "Paris", "is_correct": true },
+        { "option_id": 4, "text": "New York", "is_correct": false }
+      ],
+      "answer": "Paris"
+    },
+    {
+      "question_id": 58,
+      "question_type": "MCQ",
+      "question": "The narrator was too _____ to say no to the lady's request.",
+      "options": [
+        { "option_id": 1, "text": "Young", "is_correct": true },
+        { "option_id": 2, "text": "Frightened", "is_correct": false },
+        { "option_id": 3, "text": "Rich", "is_correct": false },
+        { "option_id": 4, "text": "Busy", "is_correct": false }
+      ],
+      "answer": "Young"
+    },
+    {
+      "question_id": 59,
+      "question_type": "MCQ",
+      "question": "The lady's teeth were described as all of the following EXCEPT:",
+      "options": [
+        { "option_id": 1, "text": "White", "is_correct": false },
+        { "option_id": 2, "text": "Large", "is_correct": false },
+        { "option_id": 3, "text": "Even", "is_correct": false },
+        { "option_id": 4, "text": "Crooked", "is_correct": true }
+      ],
+      "answer": "Crooked"
+    },
+    {
+      "question_id": 60,
+      "question_type": "MCQ",
+      "question": "From whose perspective is the story told?",
+      "options": [
+        { "option_id": 1, "text": "The lady's", "is_correct": false },
+        { "option_id": 2, "text": "The waiter's", "is_correct": false },
+        { "option_id": 3, "text": "First-person (the narrator)", "is_correct": true },
+        { "option_id": 4, "text": "Third-person omniscient", "is_correct": false }
+      ],
+      "answer": "First-person (the narrator)"
+    },
+    {
+      "question_id": 61,
+      "question_type": "MCQ",
+      "question": "What is the primary tone of the story?",
+      "options": [
+        { "option_id": 1, "text": "Tragic", "is_correct": false },
+        { "option_id": 2, "text": "Humorous and ironic", "is_correct": true },
+        { "option_id": 3, "text": "Romantic", "is_correct": false },
+        { "option_id": 4, "text": "Suspenseful", "is_correct": false }
+      ],
+      "answer": "Humorous and ironic"
+    },
+    {
+      "question_id": 62,
+      "question_type": "MCQ",
+      "question": "For the narrator, the luncheon was a constant source of _____.",
+      "options": [
+        { "option_id": 1, "text": "Joy", "is_correct": false },
+        { "option_id": 2, "text": "Anxiety", "is_correct": true },
+        { "option_id": 3, "text": "Boredom", "is_correct": false },
+        { "option_id": 4, "text": "Pride", "is_correct": false }
+      ],
+      "answer": "Anxiety"
+    },
+    {
+      "question_id": 63,
+      "question_type": "MCQ",
+      "question": "Did the lady appear to realize the narrator's financial distress during the meal?",
+      "options": [
+        { "option_id": 1, "text": "Yes, she offered to pay.", "is_correct": false },
+        { "option_id": 2, "text": "No, she seemed completely unaware.", "is_correct": true },
+        { "option_id": 3, "text": "Yes, she made a joke about it.", "is_correct": false },
+        { "option_id": 4, "text": "It is not clear from the story.", "is_correct": false }
+      ],
+      "answer": "No, she seemed completely unaware."
+    },
+    {
+      "question_id": 64,
+      "question_type": "MCQ",
+      "question": "What was one of the narrator's backup plans if he couldn't pay the bill?",
+      "options": [
+        { "option_id": 1, "text": "Run away", "is_correct": false },
+        { "option_id": 2, "text": "Leave his watch as security", "is_correct": true },
+        { "option_id": 3, "text": "Ask the lady to pay", "is_correct": false },
+        { "option_id": 4, "text": "Wash dishes", "is_correct": false }
+      ],
+      "answer": "Leave his watch as security"
+    },
+    {
+      "question_id": 65,
+      "question_type": "MCQ",
+      "question": "The lady criticized the narrator for eating _____ meat.",
+      "options": [
+        { "option_id": 1, "text": "White", "is_correct": false },
+        { "option_id": 2, "text": "Red", "is_correct": true },
+        { "option_id": 3, "text": "Raw", "is_correct": false },
+        { "option_id": 4, "text": "Burnt", "is_correct": false }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 66,
+      "question_type": "MCQ",
+      "question": "How much wine did the lady initially say she wanted?",
+      "options": [
+        { "option_id": 1, "text": "A bottle", "is_correct": false },
+        { "option_id": 2, "text": "A carafe", "is_correct": false },
+        { "option_id": 3, "text": "Just one glass", "is_correct": true },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Just one glass"
+    },
+    {
+      "question_id": 67,
+      "question_type": "MCQ",
+      "question": "Instead of one glass, what did the waiter bring for the lady?",
+      "options": [
+        { "option_id": 1, "text": "A full bottle", "is_correct": false },
+        { "option_id": 2, "text": "A half-bottle", "is_correct": true },
+        { "option_id": 3, "text": "A magnum", "is_correct": false },
+        { "option_id": 4, "text": "A different wine", "is_correct": false }
+      ],
+      "answer": "A half-bottle"
+    },
+    {
+      "question_id": 68,
+      "question_type": "MCQ",
+      "question": "What dish did the narrator desperately hope the lady would not see on the menu?",
+      "options": [
+        { "option_id": 1, "text": "Salmon", "is_correct": false },
+        { "option_id": 2, "text": "Caviar", "is_correct": false },
+        { "option_id": 3, "text": "Asparagus", "is_correct": true },
+        { "option_id": 4, "text": "Peaches", "is_correct": false }
+      ],
+      "answer": "Asparagus"
+    },
+    {
+      "question_id": 69,
+      "question_type": "MCQ",
+      "question": "The lady claimed the narrator would ruin his _____ by eating the mutton chop.",
+      "options": [
+        { "option_id": 1, "text": "Stomach", "is_correct": false },
+        { "option_id": 2, "text": "Palate", "is_correct": true },
+        { "option_id": 3, "text": "Diet", "is_correct": false },
+        { "option_id": 4, "text": "Appetite", "is_correct": false }
+      ],
+      "answer": "Palate"
+    },
+    {
+      "question_id": 70,
+      "question_type": "MCQ",
+      "question": "Throughout the meal, the lady believed her eating habits were _____.",
+      "options": [
+        { "option_id": 1, "text": "Excessive", "is_correct": false },
+        { "option_id": 2, "text": "Moderate and light", "is_correct": true },
+        { "option_id": 3, "text": "Expensive", "is_correct": false },
+        { "option_id": 4, "text": "Unhealthy", "is_correct": false }
+      ],
+      "answer": "Moderate and light"
+    },
+    {
+      "question_id": 71,
+      "question_type": "MCQ",
+      "question": "The ending of the story is a classic example of _____.",
+      "options": [
+        { "option_id": 1, "text": "Tragedy", "is_correct": false },
+        { "option_id": 2, "text": "Romance", "is_correct": false },
+        { "option_id": 3, "text": "Poetic justice or irony", "is_correct": true },
+        { "option_id": 4, "text": "Mystery", "is_correct": false }
+      ],
+      "answer": "Poetic justice or irony"
+    },
+    {
+      "question_id": 72,
+      "question_type": "MCQ",
+      "question": "A 'stone' is a British unit of weight equal to how many pounds?",
+      "options": [
+        { "option_id": 1, "text": "Ten pounds", "is_correct": false },
+        { "option_id": 2, "text": "Twelve pounds", "is_correct": false },
+        { "option_id": 3, "text": "Fourteen pounds", "is_correct": true },
+        { "option_id": 4, "text": "Sixteen pounds", "is_correct": false }
+      ],
+      "answer": "Fourteen pounds"
+    },
+    {
+      "question_id": 73,
+      "question_type": "MCQ",
+      "question": "Approximately how many kilograms is twenty-one stone?",
+      "options": [
+        { "option_id": 1, "text": "100 kg", "is_correct": false },
+        { "option_id": 2, "text": "133 kg", "is_correct": true },
+        { "option_id": 3, "text": "150 kg", "is_correct": false },
+        { "option_id": 4, "text": "200 kg", "is_correct": false }
+      ],
+      "answer": "133 kg"
+    },
+    {
+      "question_id": 74,
+      "question_type": "MCQ",
+      "question": "What feeling does the narrator experience upon seeing the lady's weight at the end?",
+      "options": [
+        { "option_id": 1, "text": "Guilt", "is_correct": false },
+        { "option_id": 2, "text": "Sadness", "is_correct": false },
+        { "option_id": 3, "text": "A sense of satisfied revenge", "is_correct": true },
+        { "option_id": 4, "text": "Indifference", "is_correct": false }
+      ],
+      "answer": "A sense of satisfied revenge"
+    },
+    {
+      "question_id": 75,
+      "question_type": "MCQ",
+      "question": "The phrase \"keep body and soul together\" means to _____.",
+      "options": [
+        { "option_id": 1, "text": "Fall in love", "is_correct": false },
+        { "option_id": 2, "text": "Survive with the bare essentials", "is_correct": true },
+        { "option_id": 3, "text": "Be very religious", "is_correct": false },
+        { "option_id": 4, "text": "Exercise regularly", "is_correct": false }
+      ],
+      "answer": "Survive with the bare essentials"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why was the narrator living in the Latin Quarter twenty years ago?",
+      "answer": "It was a traditional area for students and artists in Paris, and it was likely cheap, suiting his financial situation as a struggling writer."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How did the narrator feel when he first received the lady's letter praising his book?",
+      "answer": "He was flattered and pleased by her praise."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why couldn't the narrator say 'no' to the lady's request for lunch at Foyot's?",
+      "answer": "He was too young at the time and had not yet learned how to say no to a woman."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Briefly describe the narrator's financial situation at the time of the luncheon.",
+      "answer": "He was very poor, barely earning enough money to keep body and soul together. He had only eighty francs to last him the rest of the month."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What was the major discrepancy between the lady's opening statement at lunch and her subsequent actions?",
+      "answer": "She stated, \"I never eat anything for luncheon,\" yet she proceeded to order several expensive dishes."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How did the narrator try to manage the cost during the meal?",
+      "answer": "He ordered the cheapest item on the menu for himself (a mutton chop) and skipped several courses and drinks, ordering only water and eventually coffee for himself."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why did the narrator choose a mutton chop for his meal?",
+      "answer": "It was the cheapest dish on the menu."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What was the lady's reaction to the narrator's choice of a mutton chop?",
+      "answer": "She criticized it, saying it was a heavy meat and an unwise choice for lunch that would overload his stomach."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why did the narrator turn pale when the lady ordered champagne?",
+      "answer": "He realized the cost of the meal was mounting rapidly and feared he would not have enough money to pay the bill."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Explain the irony in the lady's statement when the asparagus arrived: \"I'm going to be enormous.\"",
+      "answer": "It's ironic because she was already described as an \"imposing\" woman, and at the end of the story, we learn she has indeed become enormous, weighing twenty-one stone."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What was the narrator's worst fear regarding the bill at the end of the meal?",
+      "answer": "His worst fear was that the total amount would exceed the eighty francs he had, leading to a humiliating situation."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What was one of the narrator's desperate backup plans if he couldn't pay the bill?",
+      "answer": "One plan was to pretend his wallet had been stolen and ask the lady to pay, or to leave his watch as security and return later to pay."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why was the tip the narrator left for the waiter inadequate?",
+      "answer": "After paying the expensive bill, the narrator only had three francs left, which was a very small tip for such a meal."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What did the narrator mean by his final comment at the luncheon, \"I'll do better than that\"?",
+      "answer": "He meant that he would eat even less than one thing; he would eat nothing at all for dinner because he had spent all his money on the luncheon."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "How did the lady misinterpret the narrator's final comment about skipping dinner?",
+      "answer": "She thought he was making a joke about dieting and called him a \"humorist.\""
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Explain the significance of the last sentence of the story: \"Today she weighs twenty-one stone.\"",
+      "answer": "It reveals the ironic twist and the \"revenge\" the narrator felt he received from fate, as the lady's gluttony finally caught up with her."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Define the word \"vindictive\" as used in the text.",
+      "answer": "\"Vindictive\" means having or showing a strong or unreasoning desire for revenge."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is meant by the phrase \"in the bud\" when the narrator describes the salmon?",
+      "answer": "It means that it was the very beginning of the salmon season, making the fish rare and therefore very expensive."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why did the narrator choose water as his drink during the meal?",
+      "answer": "It was the cheapest option available, likely free, allowing him to save money for the lady's expensive orders."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Describe the narrator's internal state while the lady ate the expensive asparagus.",
+      "answer": "He was inwardly panicking and filled with anxiety about the cost, while outwardly trying to remain a polite and attentive host, watching her eat with a mix of horror and fascination."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is the humor in the lady's final advice to \"follow my example\"?",
+      "answer": "The humor lies in the fact that her \"example\" was to eat a massive, expensive meal while constantly claiming she eats almost nothing, which is terrible advice to follow."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why did the narrator have to cut out coffee for two weeks before the luncheon?",
+      "answer": "He needed to save money to afford the estimated fifteen francs for the luncheon, as he was on a very tight budget."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How did the narrator's perception of the lady change from her letter to their actual meeting?",
+      "answer": "Based on her letter, he expected someone younger and perhaps more charming ('gamine'), but in person, he found her to be an imposing, talkative woman of forty with large teeth."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why does the narrator say he \"had the whole month before me and not a penny in my pocket\" after the lunch?",
+      "answer": "The luncheon took place on a Thursday at the beginning of the month, and paying for it used up all of his remaining eighty francs, leaving him penniless for the rest of the month."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What role do the \"immortal gods\" play in the narrator's view of the story's outcome?",
+      "answer": "He attributes the lady's eventual massive weight gain to divine retribution, believing the gods punished her for her hypocrisy and gluttony at his expense."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Give one specific example of the lady's hypocrisy during the meal.",
+      "answer": "A prime example is her ordering expensive dishes like salmon and caviar while repeatedly stating that she never eats more than one thing for luncheon."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why did the narrator order coffee for himself at the very end of the meal?",
+      "answer": "Coffee was a relatively cheap item, and perhaps he felt the need for something to conclude his own meager meal while she had hers."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What does the phrase \"my heart sank\" imply in the context of the story?",
+      "answer": "It implies a sudden, overwhelming feeling of dread, anxiety, and dismay, specifically related to the mounting cost of the meal each time the lady ordered something expensive."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What does it mean that the asparagus were described as \"marvels\"?",
+      "answer": "It means they were exceptionally large, fine, and impressive specimens of the vegetable, further emphasizing their high quality and cost."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why did the narrator lie and say he didn't like asparagus?",
+      "answer": "It was a polite excuse to avoid ordering a portion for himself, thereby saving the cost of another expensive dish."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is the tone of the narrator's description when he watches the lady eat the asparagus?",
+      "answer": "The tone is a mix of horror, fascination, and resigned despair as he watches her consume the expensive food with such relish."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Did the lady offer to contribute to the bill at any point?",
+      "answer": "No, she did not offer to pay for any part of the meal."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is the main conflict in the story?",
+      "answer": "The main conflict is internal within the narrator: his desire to be a polite and generous host versus his desperate financial situation and growing anxiety about being able to pay the bill."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Why is the title \"The Luncheon\" appropriate for the story?",
+      "answer": "The title is appropriate because the entire significant event, with all its conflict, humor, and consequences, takes place during this single meal."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What lesson might the narrator have learned from this experience?",
+      "answer": "He likely learned a painful lesson about the cost of trying to impress others and the importance of being assertive about one's financial limitations."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Use the word 'hospitable' in a sentence based on the story's context.",
+      "answer": "Despite his growing panic over the bill, the narrator tried to remain a hospitable host, urging the lady to enjoy her meal."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Use the word 'mortifying' in a sentence based on the story's context.",
+      "answer": "It was a mortifying experience for the narrator to leave such a meager tip for the waiter after an expensive meal."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What does 'ingratiating' mean in the phrase \"ingratiating smile\"?",
+      "answer": "\"Ingratiating\" means intended to gain approval or favor; sycophantic or overly eager to please."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Why did the narrator feel he was \"past caring\" when the expensive peaches arrived?",
+      "answer": "He was already so deep in financial trouble from the previous orders that one more expensive item wouldn't change the inevitable outcome of being completely broke."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What does the lady's constant chatter suggest about her character?",
+      "answer": "It suggests she is self-absorbed, lacking in self-awareness regarding the narrator's situation, and perhaps trying to fill the space to distract from her excessive eating."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "Analyze the character of the lady in 'The Luncheon'. Discuss her hypocrisy, gluttony, and lack of self-awareness with examples from the text.",
+      "answer": "The lady in 'The Luncheon' is characterized primarily by her hypocrisy and gluttony, which she masks with a facade of moderation. Her defining trait is the disconnect between her words and her actions. She repeatedly asserts, \"I never eat anything for luncheon,\" or \"I never eat more than one thing,\" yet she proceeds to order a multi-course meal consisting of the most expensive items on the menu: salmon, caviar, champagne, giant asparagus, and out-of-season peaches. This stark contrast highlights her profound hypocrisy. Her gluttony is evident not just in the quantity but in the nature of the food she chooses—rare, out-of-season delicacies that she eats with \"relish.\" Furthermore, she demonstrates a complete lack of self-awareness. She is oblivious to the narrator's growing anxiety and financial distress, even criticizing his modest mutton chop as a heavy meal while she consumes a feast. Her final piece of advice to him, to follow her example of moderation, is the ultimate irony, underscoring her inability to see her own behavior for what it is."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "Discuss the theme of appearance versus reality in the story. How do both the characters and the situation present a facade that is different from the truth?",
+      "answer": "The theme of appearance versus reality is central to 'The Luncheon'. The entire situation is built on facades. The narrator, a struggling writer with barely enough money to survive, presents himself as a gracious, capable host at one of Paris's most expensive restaurants. He maintains a polite, hospitable exterior while inwardly he is consumed by panic and counting every penny. He orders water and says he dislikes asparagus to hide his poverty. The lady, too, presents a false front. She claims to be a light eater who never has more than a snack for lunch, yet her actions reveal a gluttonous appetite for expensive delicacies. She criticizes the narrator's heavy meal while indulging herself. Even the setting of Foyot's, with its aura of wealth and sophistication, masks the uncomfortable reality of the narrator's financial desperation. The story explores how social conventions compel individuals to maintain appearances that are vastly different from their true circumstances."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "Describe the narrator's internal conflict throughout the meal. How does his desire to be a polite and generous host clash with his financial reality?",
+      "answer": "The narrator experiences an intense internal conflict that escalates throughout the luncheon. On one hand, he is driven by the social obligation to be a polite, generous, and hospitable host to a lady who has admired his work. He is too young and inexperienced to refuse her requests or to admit his financial limitations. This desire to maintain appearances compels him to agree to her expensive suggestions. On the other hand, his stark financial reality creates growing panic. With only eighty francs to his name for the rest of the month, every expensive dish she orders—the out-of-season salmon, the caviar, the champagne, the giant asparagus—sends him into a deeper state of anxiety. His heart sinks, he turns pale, and he mentally calculates the bill, fearing humiliation. The conflict is between his social persona and his survival instinct, leading to a torturous experience where his outward politeness masks an inner turmoil of dread and regret."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "'The Luncheon' is a story rich in irony. Identify and explain at least three instances of irony in the narrative.",
+      "answer": "Irony is woven throughout 'The Luncheon'. First, there is the situational irony of the lady's constant statements contrasting with her actions. She repeatedly claims, \"I never eat anything for luncheon,\" yet she orders a succession of the most expensive dishes on the menu. Second, there is the irony in her criticism of the narrator's meal. She calls his cheap mutton chop a heavy and unwise choice, while she herself consumes a rich feast of salmon, caviar, and asparagus. Third, the ending contains powerful cosmic or poetic irony. The narrator, who was exploited and left penniless by the lady's gluttony, finds that twenty years later, she has become enormously obese, weighing twenty-one stone. He sees this as the \"immortal gods\" taking revenge on his behalf, a satisfying twist of fate that balances the scales."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "How does Somerset Maugham use humor to critique social etiquette and human behavior in this story?",
+      "answer": "Somerset Maugham uses humor, particularly irony and understatement, to offer a sharp critique of social etiquette and human behavior. The humor arises from the gap between what is said and what is done. The narrator's desperate attempts to maintain the facade of a gracious host while being financially ruined are tragically funny. Maugham satirizes the social convention that prevents a man, especially a young one, from saying 'no' to a woman, even at his own peril. The lady's behavior is a caricature of polite society's hypocrisy—she cloaks her greed in the language of moderation and health. The waiter's disdainful look at the small tip adds another layer of social commentary. The final twist, where the narrator feels avenged by the lady's weight gain, provides a humorous and satisfying conclusion that exposes the absurdity of the entire social charade."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "Trace the escalating anxiety of the narrator as the luncheon progresses. How is this anxiety conveyed through his thoughts and physical reactions?",
+      "answer": "The narrator's anxiety begins before the lunch, with his calculations on how to save money, but it escalates dramatically during the meal. Initially, he is just \"startled\" by the menu prices. When she orders the expensive salmon, his heart sinks, and he nervously orders the cheapest dish for himself. His anxiety heightens with the caviar order; he knows he cannot afford it and has to pretend he doesn't like it. The turning point is the champagne order, which causes him to physically turn \"a trifle pale.\" As the giant asparagus appear, his internal panic reaches a peak; he describes them with a mix of horror and longing, mentally calculating the disastrous bill. By the time the peaches arrive, he is in a state of resigned despair, \"past caring,\" having accepted his financial ruin. His final anxiety is focused on the tip, and the humiliation of appearing mean to the waiter completes his torture. His thoughts are a constant, frantic calculation of costs, contrasting sharply with his calm exterior."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "Do you think the narrator's final feeling of \"revenge\" is justified? Why or why not?",
+      "answer": "Whether the narrator's feeling of revenge is justified is subjective. From his perspective, it is entirely justified. He was a poor, struggling writer who was manipulated into spending his entire month's budget on a gluttonous meal for a woman who pretended to be a moderate eater. Her hypocrisy and lack of consideration caused him significant distress and hardship. Seeing her twenty years later weighing twenty-one stone feels like a fitting, Karmic punishment for her greed and deception. However, one could argue that his revenge is petty. He was, after all, a willing participant in the charade, too weak to stand up for himself. His pleasure in her obesity could be seen as mean-spirited. Yet, within the context of the story's humorous and ironic tone, his sense of poetic justice provides a satisfying conclusion for the reader who has sympathized with his plight."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "Compare the narrator's expectations of the luncheon with the actual event. How did the reality differ from what he had imagined?",
+      "answer": "The narrator's expectations were vastly different from the reality of the luncheon. He expected a modest meeting with a charming, perhaps young, admirer of his work. He had calculated that a light lunch at Foyot's would cost around fifteen francs, a manageable sum that he could save for. He likely anticipated a pleasant, intellectual conversation where he would be the esteemed author. The reality was a nightmare. The lady was imposing and talkative, not young or gamine. Instead of a light meal, she ordered a feast of the most expensive items on the menu. The cost spiraled out of control, far exceeding his fifteen-franc estimate and wiping out his entire budget for the month. Instead of feeling like a respected author, he felt filled with anxiety, panic, and humiliation, reduced to pinching pennies and fearing the arrival of the bill. The entire event was a stressful ordeal rather than a pleasant social encounter."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "Discuss the significance of money and social class in the story. How do these factors influence the behavior of the characters?",
+      "answer": "Money and social class are central to the story's conflict. The narrator is a struggling writer from the Latin Quarter, a bohemian and inexpensive part of Paris. He has very little money and lives on a tight budget. This financial insecurity dictates his entire behavior during the lunch—his internal panic, his cheap orders for himself, and his fear of the bill. The lady, on the other hand, seems accustomed to a higher social class and the lifestyle that goes with it, symbolized by her choice of Foyot's, a restaurant for senators. Her oblivious ordering of expensive delicacies shows a disconnect from the narrator's financial reality. The social pressure to appear wealthy and generous in such a setting forces the narrator to maintain a facade, leading to his downfall. The story highlights how the lack of money can be a source of profound anxiety and social embarrassment, and how social etiquette can trap individuals into spending beyond their means."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "Write a character sketch of the narrator, focusing on his youth, politeness, financial insecurity, and eventual sense of poetic justice.",
+      "answer": "The narrator is a complex character whose traits drive the story's plot. Twenty years prior, he was a young, aspiring writer living a frugal existence in Paris. His youth is emphasized by his admission that he was too inexperienced to say 'no' to a woman, a social awkwardness that leads to his predicament. He is inherently polite and hospitable, desperate to play the role of the gracious host even as it ruins him financially. His financial insecurity is central to his character; his constant mental calculations of the bill reveal a man living on the edge of poverty, where a single expensive meal is a catastrophe. Yet, he maintains his dignity, never revealing his panic to his guest. In the present, he claims not to be vindictive, but his satisfaction at seeing the lady's immense weight gain reveals a very human sense of poetic justice. He feels that fate has finally balanced the books for the wrong he suffered, showing a slightly vengeful but understandable side to his character."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "Imagine you are the narrator. Write a diary entry summarizing your feelings immediately after the luncheon.",
+      "answer": "Thursday, 15th. Disaster. Absolute disaster. I have just survived the most excruciating luncheon of my life at Foyot's. I am ruined. Not a single sou left for the rest of the month, and it's only the 15th! That woman is a monster of hypocrisy. \"I never eat anything for luncheon,\" she said, as she shoveled down salmon, caviar, giant asparagus, and peaches! And the champagne! My God, the champagne. I sat there, sipping my water, eating my dry mutton chop, watching my entire month's budget disappear down her gullet. I was sweating bullets the whole time, terrified I wouldn't be able to pay. I managed it, barely, but had to leave a miserable three-franc tip. The waiter looked at me like I was dirt. And her final insult? Telling me not to eat too much! I told her I'd eat nothing for dinner, which is the literal truth. I'm starving and penniless. I'll have to pawn something just to eat tomorrow. Never again. I swear, never again."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "How does the setting of Foyot's restaurant contribute to the conflict and atmosphere of the story?",
+      "answer": "The setting of Foyot's restaurant is crucial to the story. It is established as a high-class establishment, patronized by French senators, which immediately places it out of the narrator's financial league. This setting creates the initial tension, as the narrator knows he cannot afford it but feels compelled to go. The atmosphere of luxury and exclusivity at Foyot's adds to the pressure on the narrator to behave like a gentleman of means. The expensive menu, the presence of out-of-season delicacies, and the formal service all serve to highlight the disparity between the narrator's pretense and his reality. The setting acts as a pressure cooker, intensifying his anxiety with every expensive dish ordered. It is the stage upon which his financial humiliation plays out, making his internal panic all the more acute in contrast to the refined surroundings."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "Explain the role of the waiter in the story. How do his actions and the narrator's perception of him add to the tension?",
+      "answer": "The waiter is a minor but significant character who adds to the narrator's tension and social embarrassment. He represents the judging eyes of the upscale establishment. His role is to facilitate the lady's expensive orders, bringing the out-of-season salmon, the caviar, and the succulent asparagus. Each time he appears, he brings a new financial burden for the narrator. The narrator is acutely aware of the waiter's presence and desires to appear as a capable patron in his eyes. The climax of this tension occurs with the tip. The narrator, having only three francs left, is forced to leave a meager tip. He perceives the waiter's reaction as considering him \"mean,\" which adds a final layer of humiliation to his ordeal. The waiter serves as a mirror reflecting the narrator's social and financial inadequacy in that setting."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "The lady repeatedly says, \"I never eat more than one thing for luncheon.\" How does this statement serve as a recurring motif that highlights her hypocrisy?",
+      "answer": "The lady's statement, \"I never eat more than one thing for luncheon,\" serves as a recurring motif that masterfully highlights her hypocrisy. She uses it as a preamble or a justification for every expensive dish she orders. It becomes a comical and infuriating refrain. By constantly stating her intent to be moderate while acting in a gluttonous manner, the statement becomes completely meaningless and exposes her deceit. It emphasizes the gap between her self-perception (or the image she wants to project) and her actual behavior. This repetition serves to build the humor and the narrator's internal frustration, as the reader, along with the narrator, recognizes the absurdity and falsity of her claim with each new course."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "If you were in the narrator's shoes, how would you have handled the situation differently? Would you have been as polite?",
+      "answer": "This is a subjective question, but a possible response could be: If I were in the narrator's shoes, I would like to think I would have handled it differently, though it's hard to say without being in that specific social pressure cooker. I would have tried to be more assertive from the beginning. When she suggested Foyot's, I might have honestly said, \"I'm afraid that's a bit out of my price range right now, but I know a wonderful smaller place...\" During the lunch, when she started ordering expensive items, I might have made a more direct, albeit joking, comment like, \"My goodness, you'll bankrupt a poor writer!\" However, given the social norms of the time and the narrator's youth, his politeness is understandable. Being as polite as he was led to his downfall, so a more direct approach, risking a moment of awkwardness to avoid financial ruin, would have been the wiser, if more difficult, path."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "Discuss the lady's final advice to the narrator and his response. How does this exchange encapsulate the entire ironic nature of their encounter?",
+      "answer": "The final exchange is the culmination of the story's irony. The lady, having just consumed a massive and expensive meal, advises the narrator to \"follow my example, and never eat more than one thing for luncheon.\" This is the ultimate expression of her hypocrisy and lack of self-awareness. The narrator, now penniless and facing hunger, replies with dark humor: \"I'll do better than that. I'll eat nothing for dinner tonight.\" His statement is the literal truth of his desperate situation, a direct result of following her \"example.\" However, she completely misses the irony and his desperation, interpreting his comment as a witty joke about dieting and calling him a \"humorist.\" This final misunderstanding perfectly encapsulates the entire encounter: her oblivious gluttony versus his silent, polite suffering, all wrapped in a layer of social falsity."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "How does the time gap of twenty years between the event and its retelling affect the narrative tone?",
+      "answer": "The twenty-year time gap is crucial to the story's tone. It allows the narrator to look back on a painful and humiliating experience with emotional detachment and humor. What was once a source of acute anxiety and financial disaster has become an amusing anecdote. The distance in time transforms a stressful event into a comedy of errors. This perspective also allows for the final twist—the \"revenge\" of seeing the lady's weight gain. The narrator's tone is not angry or bitter, but rather wry and accepting of life's ironies. The opening and closing sections, set in the present, frame the past event and provide the context for this humorous and slightly vindictive reflection."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "Analyze the lady's strategy, conscious or unconscious, in ordering the meal. How does she manipulate the situation to get what she wants while maintaining a facade of moderation?",
+      "answer": "Whether conscious or unconscious, the lady's ordering strategy is highly manipulative. She uses a pattern of negation and justification. She starts by denying she wants anything, then agrees to a \"little\" something. For example, she asks for salmon because it's early in the season, implying it's a rare treat rather than a substantial meal. She orders caviar by casually asking if they have any while waiting. She justifies the champagne as a doctor's recommendation. She orders asparagus because she \"must\" have them when she sees them. By framing each expensive item as a small, necessary, or impulsive indulgence, and constantly repeating her mantra of eating only one thing, she diffuses the appearance of gluttony. This allows her to eat a lavish meal while placing the social burden of being a generous host squarely on the narrator, making it difficult for him to object without appearing rude or stingy."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "Discuss the title \"The Luncheon\". How does this simple title belie the complex social and personal drama that unfolds during the meal?",
+      "answer": "The title \"The Luncheon\" is deceptively simple and mundane. A luncheon is typically a casual, uneventful midday meal. However, this simplicity belies the complex social and psychological drama that plays out. The story is not just about a meal; it's a battleground of wills, a comedy of manners, a financial tragedy for the narrator, and a study in hypocrisy. The title acts as an understatement, contrasting the ordinary nature of the event with the extraordinary stress and consequences it holds for the narrator. It highlights how a seemingly trivial social engagement can become a significant and memorable ordeal due to the interplay of social expectations, financial constraints, and human character flaws."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "Provide an alternate ending to the story. What might have happened if the bill had exceeded the narrator's eighty francs?",
+      "answer": "(This is a creative writing task, so answers will vary. Here is one possibility): \n\nAs the waiter laid the bill on the table, my heart stopped. The total was ninety-five francs. Fifteen francs more than I possessed in the world. The blood drained from my face. I could feel the lady's eyes on me, waiting for me to produce my wallet with a flourish. My hand shook as I reached into my pocket, not for money, but for my watch—my grandfather's gold watch. \"Waiter,\" I said, my voice cracking, \"I seem to have left my wallet at home. Would you be so good as to speak to the manager? I must leave this as security until I can return.\" The lady's smile vanished. \"Oh dear,\" she said, her tone cooling instantly. \"How awkward.\" The humiliation was total. I left Foyot's without my watch, without my dignity, and with the lady's hasty and unimpressed goodbye ringing in my ears. Twenty years later, I saw her at the theater. She was enormous. I looked at my wrist, at the cheap replacement watch I now wore, and felt not revenge, but a lingering sting of that long-ago shame."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "Analyse the use of hyperbole in the story. Find examples where the narrator exaggerates for comic or dramatic effect.",
+      "answer": "The narrator uses hyperbole effectively to heighten the comedic and dramatic tension of his ordeal. For instance, when he sees the menu prices, he says he was \"startled,\" but his internal reaction is far more intense. When the lady orders caviar, he says his \"heart sank.\" When she orders champagne, he turns \"a trifle pale.\" Describing the asparagus, he calls them \"marvels\" and says his \"mouth watered\" at the sight of them, emphasizing their allure and his own hunger. His fear of the bill is exaggerated to the point where he imagines having to leave his watch or pretend his pocket was picked. Finally, his statement that he will eat \"nothing\" for dinner is a literal truth born of his empty pockets, but it's also a dramatic statement of his destitution. These exaggerations emphasize his extreme anxiety and the absurdity of the situation."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "Contrast the narrator's meal with the lady's meal. What does this contrast reveal about their characters and the situation?",
+      "answer": "The contrast between the two meals is stark and reveals the central conflict. The narrator eats a single, cheap mutton chop and drinks water, concluding with a coffee. His meal is frugal, practical, and dictated by necessity. The lady, meanwhile, feasts on salmon, caviar, champagne, giant asparagus, and a peach—a succession of expensive, luxurious delicacies. This contrast visually represents the imbalance in their relationship during the lunch. The narrator is the self-sacrificing host, denying himself to cater to his guest, while the lady is the self-indulgent guest, obliviously taking advantage of his hospitality. The disparity in their food highlights her hypocrisy (claiming to eat little) and his financial desperation, underscoring the theme of appearance versus reality."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "Describe the visual imagery associated with the food in the story (salmon, asparagus, peaches) and explain its effect on the reader and the hungry narrator.",
+      "answer": "Maugham uses vivid visual imagery to describe the expensive food, making it seem even more desirable and unattainable to the narrator. The salmon is described as being ordered when it's \"in the bud,\" implying freshness and rarity. The asparagus are not just vegetables; they are \"giant\" and \"succulent,\" inducing a physical reaction in the narrator whose \"mouth watered\" at the sight of them. The peaches are presented in a \"basket,\" suggesting abundance, and are a blush of luxury not yet in season. This rich imagery serves two purposes: it emphasizes the Lady's extravagant taste and gluttony, and it tortures the hungry, penurious narrator who can only watch her eat these delights while settling for a dry mutton chop. It makes the reader sympathize with his plight and understand the magnitude of the temptation and the cost."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "How does the narrator's description of the lady's appearance at the beginning of the story set the stage for her behavior during the lunch?",
+      "answer": "The narrator's initial description of the lady sets a tone of disappointment and being overwhelmed, which foreshadows the lunch itself. He expected someone young and charming (\"gamine\") but instead found a woman who was \"imposing rather than attractive\" and \"in clined to talk.\" This immediately establishes a power dynamic where he is outmatched. The specific mention of her teeth being \"white, large, and even\" is a subtle, almost predatory detail that hints at her capacity for eating. This description prepares the reader for a character who is dominant, self-assured, and perhaps a bit overpowering, all of which are borne out by her behavior in ordering and consuming a lavish meal while ignoring her host's discomfort."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "Discuss the theme of \"the difficulty of saying no\" as explored in the story. How does the narrator's inability to refuse the lady's requests lead to his predicament?",
+      "answer": "The theme of the difficulty of saying 'no,' especially due to social conventions and politeness, is central to the story. The narrator explicitly states that he was \"too young to have learned to say no to a woman.\" This social inhibition is the root cause of his entire financial disaster. He couldn't say no to the initial request for Foyot's, even though he knew it was too expensive. During the lunch, as she suggested one expensive dish after another, his internal panic was immense, but his external adherence to the role of a polite host prevented him from refusing her. He could not bring himself to say, \"I cannot afford that.\" This inability to set boundaries and be honest about his situation, driven by a fear of appearing ungentlemanly or cheap, allows the lady to exploit his hospitality completely, leading to his impoverishment for the month. The story is a cautionary tale about the cost of misplaced politeness."
+    }
+  ]
+}

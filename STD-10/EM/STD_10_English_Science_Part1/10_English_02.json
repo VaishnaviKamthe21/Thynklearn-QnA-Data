@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.1.2",
+    "standard": "10",
+    "subject": "Science",
+    "medium": "English",
+    "chapter_name": "Periodic Classification of Elements"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is a major demerit of Mendeleev’s periodic table regarding cobalt and nickel?",
+      "options": [
+        { "option_id": 1, "text": "They have the same atomic number", "is_correct": false },
+        { "option_id": 2, "text": "They have the same atomic mass", "is_correct": true },
+        { "option_id": 3, "text": "They are both metals", "is_correct": false },
+        { "option_id": 4, "text": "They are both gases", "is_correct": false }
+      ],
+      "answer": "They have the same atomic mass"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why was the placement of isotopes a problem in Mendeleev’s periodic table?",
+      "options": [
+        { "option_id": 1, "text": "Isotopes have different chemical properties", "is_correct": false },
+        { "option_id": 2, "text": "Isotopes have the same chemical properties but different atomic masses", "is_correct": true },
+        { "option_id": 3, "text": "Isotopes do not exist in nature", "is_correct": false },
+        { "option_id": 4, "text": "Isotopes are unstable", "is_correct": false }
+      ],
+      "answer": "Isotopes have the same chemical properties but different atomic masses"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the basis of the modern periodic law?",
+      "options": [
+        { "option_id": 1, "text": "Atomic mass of elements", "is_correct": false },
+        { "option_id": 2, "text": "Valency of elements", "is_correct": false },
+        { "option_id": 3, "text": "Atomic number of elements", "is_correct": true },
+        { "option_id": 4, "text": "Density of elements", "is_correct": false }
+      ],
+      "answer": "Atomic number of elements"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which group contains the alkali metals in the modern periodic table?",
+      "options": [
+        { "option_id": 1, "text": "Group 1", "is_correct": true },
+        { "option_id": 2, "text": "Group 2", "is_correct": false },
+        { "option_id": 3, "text": "Group 17", "is_correct": false },
+        { "option_id": 4, "text": "Group 18", "is_correct": false }
+      ],
+      "answer": "Group 1"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is the characteristic of elements in the same group?",
+      "options": [
+        { "option_id": 1, "text": "They have same number of electron shells", "is_correct": false },
+        { "option_id": 2, "text": "They have same number of valence electrons", "is_correct": true },
+        { "option_id": 3, "text": "They have same atomic mass", "is_correct": false },
+        { "option_id": 4, "text": "They have same reactivity with water", "is_correct": false }
+      ],
+      "answer": "They have same number of valence electrons"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which block in the modern periodic table contains the transition elements?",
+      "options": [
+        { "option_id": 1, "text": "s-block", "is_correct": false },
+        { "option_id": 2, "text": "p-block", "is_correct": false },
+        { "option_id": 3, "text": "d-block", "is_correct": true },
+        { "option_id": 4, "text": "f-block", "is_correct": false }
+      ],
+      "answer": "d-block"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which series is placed separately at the bottom of the modern periodic table?",
+      "options": [
+        { "option_id": 1, "text": "Alkali metals", "is_correct": false },
+        { "option_id": 2, "text": "Lanthanide and Actinide series", "is_correct": true },
+        { "option_id": 3, "text": "Halogens", "is_correct": false },
+        { "option_id": 4, "text": "Noble gases", "is_correct": false }
+      ],
+      "answer": "Lanthanide and Actinide series"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "In a period, how do properties of elements change from left to right?",
+      "options": [
+        { "option_id": 1, "text": "Change rapidly and unpredictably", "is_correct": false },
+        { "option_id": 2, "text": "Remain the same", "is_correct": false },
+        { "option_id": 3, "text": "Change slowly and gradually", "is_correct": true },
+        { "option_id": 4, "text": "Become nonmetallic only", "is_correct": false }
+      ],
+      "answer": "Change slowly and gradually"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why does atomic radius decrease across a period from left to right?",
+      "options": [
+        { "option_id": 1, "text": "Because new shells are added", "is_correct": false },
+        { "option_id": 2, "text": "Because nuclear charge increases while outer electrons are in the same shell", "is_correct": true },
+        { "option_id": 3, "text": "Because valence electrons are lost", "is_correct": false },
+        { "option_id": 4, "text": "Because elements become metals", "is_correct": false }
+      ],
+      "answer": "Because nuclear charge increases while outer electrons are in the same shell"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which property increases while going down a group in the periodic table?",
+      "options": [
+        { "option_id": 1, "text": "Electronegativity", "is_correct": false },
+        { "option_id": 2, "text": "Metallic character", "is_correct": true },
+        { "option_id": 3, "text": "Nonmetallic character", "is_correct": false },
+        { "option_id": 4, "text": "Valency", "is_correct": false }
+      ],
+      "answer": "Metallic character"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the general formula of halogens?",
+      "options": [
+        { "option_id": 1, "text": "X2", "is_correct": true },
+        { "option_id": 2, "text": "XCl", "is_correct": false },
+        { "option_id": 3, "text": "XO", "is_correct": false },
+        { "option_id": 4, "text": "XOH", "is_correct": false }
+      ],
+      "answer": "X2"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which element has the highest electronegativity in period 2?",
+      "options": [
+        { "option_id": 1, "text": "Lithium", "is_correct": false },
+        { "option_id": 2, "text": "Fluorine", "is_correct": true },
+        { "option_id": 3, "text": "Carbon", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What determines the group of an element in the modern periodic table?",
+      "options": [
+        { "option_id": 1, "text": "Atomic mass", "is_correct": false },
+        { "option_id": 2, "text": "Number of shells", "is_correct": false },
+        { "option_id": 3, "text": "Number of valence electrons", "is_correct": true },
+        { "option_id": 4, "text": "Density", "is_correct": false }
+      ],
+      "answer": "Number of valence electrons"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which element has the smallest atomic radius among Li, Be, B, C, N, O, F?",
+      "options": [
+        { "option_id": 1, "text": "Lithium", "is_correct": false },
+        { "option_id": 2, "text": "Beryllium", "is_correct": false },
+        { "option_id": 3, "text": "Fluorine", "is_correct": true },
+        { "option_id": 4, "text": "Carbon", "is_correct": false }
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which block of the modern periodic table contains nonmetals?",
+      "options": [
+        { "option_id": 1, "text": "s-block", "is_correct": false },
+        { "option_id": 2, "text": "p-block", "is_correct": true },
+        { "option_id": 3, "text": "d-block", "is_correct": false },
+        { "option_id": 4, "text": "f-block", "is_correct": false }
+      ],
+      "answer": "p-block"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which period has elements with electrons in shells K, L and M?",
+      "options": [
+        { "option_id": 1, "text": "Period 1", "is_correct": false },
+        { "option_id": 2, "text": "Period 2", "is_correct": false },
+        { "option_id": 3, "text": "Period 3", "is_correct": true },
+        { "option_id": 4, "text": "Period 4", "is_correct": false }
+      ],
+      "answer": "Period 3"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which element is most metallic among Be, C, O, Li?",
+      "options": [
+        { "option_id": 1, "text": "Beryllium", "is_correct": false },
+        { "option_id": 2, "text": "Carbon", "is_correct": false },
+        { "option_id": 3, "text": "Oxygen", "is_correct": false },
+        { "option_id": 4, "text": "Lithium", "is_correct": true }
+      ],
+      "answer": "Lithium"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which element has the highest nonmetallic character among Be, C, O, Li?",
+      "options": [
+        { "option_id": 1, "text": "Beryllium", "is_correct": false },
+        { "option_id": 2, "text": "Carbon", "is_correct": false },
+        { "option_id": 3, "text": "Oxygen", "is_correct": true },
+        { "option_id": 4, "text": "Lithium", "is_correct": false }
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which element among Na, Mg, Al, Si, P has the largest atomic radius?",
+      "options": [
+        { "option_id": 1, "text": "Sodium", "is_correct": true },
+        { "option_id": 2, "text": "Magnesium", "is_correct": false },
+        { "option_id": 3, "text": "Aluminium", "is_correct": false },
+        { "option_id": 4, "text": "Silicon", "is_correct": false }
+      ],
+      "answer": "Sodium"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which property decreases while going from left to right in a period?",
+      "options": [
+        { "option_id": 1, "text": "Atomic radius", "is_correct": true },
+        { "option_id": 2, "text": "Electronegativity", "is_correct": false },
+        { "option_id": 3, "text": "Nonmetallic character", "is_correct": false },
+        { "option_id": 4, "text": "Valency", "is_correct": false }
+      ],
+      "answer": "Atomic radius"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which element is a noble gas?",
+      "options": [
+        { "option_id": 1, "text": "Helium", "is_correct": true },
+        { "option_id": 2, "text": "Sodium", "is_correct": false },
+        { "option_id": 3, "text": "Carbon", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
+      ],
+      "answer": "Helium"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which group in the modern periodic table is called the halogens?",
+      "options": [
+        { "option_id": 1, "text": "Group 17", "is_correct": true },
+        { "option_id": 2, "text": "Group 16", "is_correct": false },
+        { "option_id": 3, "text": "Group 1", "is_correct": false },
+        { "option_id": 4, "text": "Group 18", "is_correct": false }
+      ],
+      "answer": "Group 17"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which property of elements increases across a period from left to right?",
+      "options": [
+        { "option_id": 1, "text": "Atomic radius", "is_correct": false },
+        { "option_id": 2, "text": "Electronegativity", "is_correct": true },
+        { "option_id": 3, "text": "Metallic character", "is_correct": false },
+        { "option_id": 4, "text": "Number of shells", "is_correct": false }
+      ],
+      "answer": "Electronegativity"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which element among Li, Be, B, C has the highest metallic character?",
+      "options": [
+        { "option_id": 1, "text": "Lithium", "is_correct": true },
+        { "option_id": 2, "text": "Beryllium", "is_correct": false },
+        { "option_id": 3, "text": "Boron", "is_correct": false },
+        { "option_id": 4, "text": "Carbon", "is_correct": false }
+      ],
+      "answer": "Lithium"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which element among Na, Mg, Al, Si has the highest electronegativity?",
+      "options": [
+        { "option_id": 1, "text": "Sodium", "is_correct": false },
+        { "option_id": 2, "text": "Magnesium", "is_correct": false },
+        { "option_id": 3, "text": "Aluminium", "is_correct": false },
+        { "option_id": 4, "text": "Silicon", "is_correct": true }
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which series includes the f-block elements?",
+      "options": [
+        { "option_id": 1, "text": "Lanthanides and Actinides", "is_correct": true },
+        { "option_id": 2, "text": "Alkali metals", "is_correct": false },
+        { "option_id": 3, "text": "Halogens", "is_correct": false },
+        { "option_id": 4, "text": "Noble gases", "is_correct": false }
+      ],
+      "answer": "Lanthanides and Actinides"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which property is generally the same for elements in a group?",
+      "options": [
+        { "option_id": 1, "text": "Atomic radius", "is_correct": false },
+        { "option_id": 2, "text": "Number of valence electrons", "is_correct": true },
+        { "option_id": 3, "text": "Electronegativity", "is_correct": false },
+        { "option_id": 4, "text": "Metallic character", "is_correct": false }
+      ],
+      "answer": "Number of valence electrons"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the valency of oxygen in most compounds?",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": false },
+        { "option_id": 2, "text": "2", "is_correct": true },
+        { "option_id": 3, "text": "3", "is_correct": false },
+        { "option_id": 4, "text": "4", "is_correct": false }
+      ],
+      "answer": "2"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which element is a halogen with the highest atomic number?",
+      "options": [
+        { "option_id": 1, "text": "Fluorine", "is_correct": false },
+        { "option_id": 2, "text": "Chlorine", "is_correct": false },
+        { "option_id": 3, "text": "Iodine", "is_correct": false },
+        { "option_id": 4, "text": "Astatine", "is_correct": true }
+      ],
+      "answer": "Astatine"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which property decreases down a group in the periodic table?",
+      "options": [
+        { "option_id": 1, "text": "Atomic radius", "is_correct": false },
+        { "option_id": 2, "text": "Electronegativity", "is_correct": true },
+        { "option_id": 3, "text": "Metallic character", "is_correct": false },
+        { "option_id": 4, "text": "Number of shells", "is_correct": false }
+      ],
+      "answer": "Electronegativity"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which property generally increases down a group?",
+      "options": [
+        { "option_id": 1, "text": "Atomic size", "is_correct": true },
+        { "option_id": 2, "text": "Electronegativity", "is_correct": false },
+        { "option_id": 3, "text": "Ionization energy", "is_correct": false },
+        { "option_id": 4, "text": "Nonmetallic character", "is_correct": false }
+      ],
+      "answer": "Atomic size"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which element in period 3 has the smallest atomic radius?",
+      "options": [
+        { "option_id": 1, "text": "Sodium", "is_correct": false },
+        { "option_id": 2, "text": "Magnesium", "is_correct": false },
+        { "option_id": 3, "text": "Chlorine", "is_correct": true },
+        { "option_id": 4, "text": "Aluminium", "is_correct": false }
+      ],
+      "answer": "Chlorine"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which is a d-block element?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": true },
+        { "option_id": 2, "text": "Sodium", "is_correct": false },
+        { "option_id": 3, "text": "Oxygen", "is_correct": false },
+        { "option_id": 4, "text": "Fluorine", "is_correct": false }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which is the correct order of increasing metallic character in period 3?",
+      "options": [
+        { "option_id": 1, "text": "Na < Mg < Al < Si < P < S < Cl", "is_correct": false },
+        { "option_id": 2, "text": "Cl < S < P < Si < Al < Mg < Na", "is_correct": true },
+        { "option_id": 3, "text": "Na < Mg < Al < Si < P < S < Cl", "is_correct": false },
+        { "option_id": 4, "text": "Cl > S > P > Si > Al > Mg > Na", "is_correct": false }
+      ],
+      "answer": "Cl < S < P < Si < Al < Mg < Na"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which group is called the noble gases?",
+      "options": [
+        { "option_id": 1, "text": "Group 1", "is_correct": false },
+        { "option_id": 2, "text": "Group 17", "is_correct": false },
+        { "option_id": 3, "text": "Group 18", "is_correct": true },
+        { "option_id": 4, "text": "Group 16", "is_correct": false }
+      ],
+      "answer": "Group 18"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which property is directly related to nuclear charge?",
+      "options": [
+        { "option_id": 1, "text": "Atomic radius", "is_correct": true },
+        { "option_id": 2, "text": "Valency", "is_correct": false },
+        { "option_id": 3, "text": "Number of shells", "is_correct": false },
+        { "option_id": 4, "text": "Metallic character", "is_correct": false }
+      ],
+      "answer": "Atomic radius"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which element in period 2 has the highest ionization energy?",
+      "options": [
+        { "option_id": 1, "text": "Lithium", "is_correct": false },
+        { "option_id": 2, "text": "Beryllium", "is_correct": false },
+        { "option_id": 3, "text": "Fluorine", "is_correct": true },
+        { "option_id": 4, "text": "Boron", "is_correct": false }
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which element has the general electronic configuration ns2 np5?",
+      "options": [
+        { "option_id": 1, "text": "Halogens", "is_correct": true },
+        { "option_id": 2, "text": "Alkali metals", "is_correct": false },
+        { "option_id": 3, "text": "Alkaline earth metals", "is_correct": false },
+        { "option_id": 4, "text": "Noble gases", "is_correct": false }
+      ],
+      "answer": "Halogens"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which element is in group 2, period 3?",
+      "options": [
+        { "option_id": 1, "text": "Magnesium", "is_correct": true },
+        { "option_id": 2, "text": "Sodium", "is_correct": false },
+        { "option_id": 3, "text": "Aluminium", "is_correct": false },
+        { "option_id": 4, "text": "Phosphorus", "is_correct": false }
+      ],
+      "answer": "Magnesium"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which property is mostly responsible for chemical reactivity in a group?",
+      "options": [
+        { "option_id": 1, "text": "Number of shells", "is_correct": false },
+        { "option_id": 2, "text": "Number of valence electrons", "is_correct": true },
+        { "option_id": 3, "text": "Atomic radius", "is_correct": false },
+        { "option_id": 4, "text": "Density", "is_correct": false }
+      ],
+      "answer": "Number of valence electrons"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which property decreases across a period due to increased nuclear charge?",
+      "options": [
+        { "option_id": 1, "text": "Atomic radius", "is_correct": true },
+        { "option_id": 2, "text": "Electronegativity", "is_correct": false },
+        { "option_id": 3, "text": "Valency", "is_correct": false },
+        { "option_id": 4, "text": "Nonmetallic character", "is_correct": false }
+      ],
+      "answer": "Atomic radius"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which block contains the s and p block elements together?",
+      "options": [
+        { "option_id": 1, "text": "Main group elements", "is_correct": true },
+        { "option_id": 2, "text": "Transition elements", "is_correct": false },
+        { "option_id": 3, "text": "Inner transition elements", "is_correct": false },
+        { "option_id": 4, "text": "Noble gases", "is_correct": false }
+      ],
+      "answer": "Main group elements"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which element in period 2 has the smallest atomic radius?",
+      "options": [
+        { "option_id": 1, "text": "Lithium", "is_correct": false },
+        { "option_id": 2, "text": "Fluorine", "is_correct": true },
+        { "option_id": 3, "text": "Carbon", "is_correct": false },
+        { "option_id": 4, "text": "Beryllium", "is_correct": false }
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which element is in group 1, period 4?",
+      "options": [
+        { "option_id": 1, "text": "Potassium", "is_correct": true },
+        { "option_id": 2, "text": "Sodium", "is_correct": false },
+        { "option_id": 3, "text": "Lithium", "is_correct": false },
+        { "option_id": 4, "text": "Rubidium", "is_correct": false }
+      ],
+      "answer": "Potassium"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which element is more metallic: Ca or Sr?",
+      "options": [
+        { "option_id": 1, "text": "Calcium", "is_correct": false },
+        { "option_id": 2, "text": "Strontium", "is_correct": true },
+        { "option_id": 3, "text": "Both same", "is_correct": false },
+        { "option_id": 4, "text": "None of these", "is_correct": false }
+      ],
+      "answer": "Strontium"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which group contains elements with ns2 configuration?",
+      "options": [
+        { "option_id": 1, "text": "Alkali metals", "is_correct": false },
+        { "option_id": 2, "text": "Alkaline earth metals", "is_correct": true },
+        { "option_id": 3, "text": "Halogens", "is_correct": false },
+        { "option_id": 4, "text": "Noble gases", "is_correct": false }
+      ],
+      "answer": "Alkaline earth metals"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which element is most electronegative in group 17?",
+      "options": [
+        { "option_id": 1, "text": "Fluorine", "is_correct": true },
+        { "option_id": 2, "text": "Chlorine", "is_correct": false },
+        { "option_id": 3, "text": "Bromine", "is_correct": false },
+        { "option_id": 4, "text": "Iodine", "is_correct": false }
+      ],
+      "answer": "Fluorine"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which element in period 3 has the highest ionization energy?",
+      "options": [
+        { "option_id": 1, "text": "Sodium", "is_correct": false },
+        { "option_id": 2, "text": "Magnesium", "is_correct": false },
+        { "option_id": 3, "text": "Chlorine", "is_correct": true },
+        { "option_id": 4, "text": "Argon", "is_correct": false }
+      ],
+      "answer": "Chlorine"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which of these is a metalloid?",
+      "options": [
+        { "option_id": 1, "text": "Sodium", "is_correct": false },
+        { "option_id": 2, "text": "Silicon", "is_correct": true },
+        { "option_id": 3, "text": "Carbon", "is_correct": false },
+        { "option_id": 4, "text": "Iron", "is_correct": false }
+      ],
+      "answer": "Silicon"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What happens to nonmetallic character down a group?",
+      "options": [
+        { "option_id": 1, "text": "Increases", "is_correct": false },
+        { "option_id": 2, "text": "Decreases", "is_correct": true },
+        { "option_id": 3, "text": "Stays the same", "is_correct": false },
+        { "option_id": 4, "text": "Unpredictable", "is_correct": false }
+      ],
+      "answer": "Decreases"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Which force keeps planets in their orbits?",
+      "answer": "Gravitational force keeps planets in their orbits."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the chemical symbol of water?",
+      "answer": "The chemical symbol of water is H2O."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who discovered penicillin?",
+      "answer": "Alexander Fleming discovered penicillin."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the unit of electric current?",
+      "answer": "The unit of electric current is ampere."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the boiling point of water at sea level?",
+      "answer": "The boiling point of water at sea level is 100°C."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which gas do plants release during photosynthesis?",
+      "answer": "Plants release oxygen during photosynthesis."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Who proposed the theory of relativity?",
+      "answer": "Albert Einstein proposed the theory of relativity."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the largest planet in the solar system?",
+      "answer": "Jupiter is the largest planet in the solar system."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the smallest unit of life?",
+      "answer": "The cell is the smallest unit of life."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Which organ pumps blood throughout the body?",
+      "answer": "The heart pumps blood throughout the body."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which planet is known as the Red Planet?",
+      "answer": "Mars is known as the Red Planet."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the chemical symbol for gold?",
+      "answer": "The chemical symbol for gold is Au."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which particle has a negative charge in an atom?",
+      "answer": "An electron has a negative charge in an atom."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the main gas in the Earth's atmosphere?",
+      "answer": "Nitrogen is the main gas in the Earth's atmosphere."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Who is known as the father of modern physics?",
+      "answer": "Galileo Galilei is known as the father of modern physics."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the freezing point of water?",
+      "answer": "The freezing point of water is 0°C."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which organ is responsible for digestion of food?",
+      "answer": "The stomach is responsible for digestion of food."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the unit of force?",
+      "answer": "The unit of force is Newton."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which blood cells fight infections?",
+      "answer": "White blood cells fight infections."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the speed of light in vacuum?",
+      "answer": "The speed of light in vacuum is approximately 3 × 10^8 m/s."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Which planet is closest to the Sun?",
+      "answer": "Mercury is the closest planet to the Sun."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the center of an atom called?",
+      "answer": "The center of an atom is called the nucleus."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Which element is essential for breathing?",
+      "answer": "Oxygen is essential for breathing."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who invented the telephone?",
+      "answer": "Alexander Graham Bell invented the telephone."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which metal is liquid at room temperature?",
+      "answer": "Mercury is liquid at room temperature."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Which gas do humans exhale?",
+      "answer": "Humans exhale carbon dioxide."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which planet is known for its rings?",
+      "answer": "Saturn is known for its rings."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the main source of energy for the Earth?",
+      "answer": "The Sun is the main source of energy for the Earth."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Which organ produces insulin?",
+      "answer": "The pancreas produces insulin."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of table salt?",
+      "answer": "The chemical formula of table salt is NaCl."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which is the smallest planet in the solar system?",
+      "answer": "Mercury is the smallest planet in the solar system."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the unit of pressure?",
+      "answer": "The unit of pressure is Pascal."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Who developed the laws of motion?",
+      "answer": "Isaac Newton developed the laws of motion."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which organ filters blood in the human body?",
+      "answer": "The kidneys filter blood in the human body."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the chemical symbol for iron?",
+      "answer": "The chemical symbol for iron is Fe."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Which planet is known as the morning star?",
+      "answer": "Venus is known as the morning star."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which type of energy is stored in food?",
+      "answer": "Chemical energy is stored in food."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Which gas is used in electric bulbs to prevent filament oxidation?",
+      "answer": "Inert gases like argon are used in electric bulbs."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Which planet has the fastest orbit around the Sun?",
+      "answer": "Mercury has the fastest orbit around the Sun."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the main component of natural gas?",
+      "answer": "Methane is the main component of natural gas."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Which organ produces bile?",
+      "answer": "The liver produces bile."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the speed of sound in air at room temperature?",
+      "answer": "The speed of sound in air at room temperature is approximately 343 m/s."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which planet is known for its extreme winds?",
+      "answer": "Neptune is known for its extreme winds."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who discovered the electron?",
+      "answer": "J.J. Thomson discovered the electron."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which gas is most abundant in the universe?",
+      "answer": "Hydrogen is the most abundant gas in the universe."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which planet has a day longer than its year?",
+      "answer": "Venus has a day longer than its year."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of carbon dioxide?",
+      "answer": "The chemical formula of carbon dioxide is CO2."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Which organ controls hormones in the body?",
+      "answer": "The endocrine glands control hormones in the body."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Which planet is called the Earth's twin?",
+      "answer": "Venus is called the Earth's twin."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Which particle has a positive charge in an atom?",
+      "answer": "A proton has a positive charge in an atom."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Which organ is responsible for pumping oxygenated blood to the body?",
+      "answer": "The heart is responsible for pumping oxygenated blood to the body."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What is the chemical symbol for sodium?",
+      "answer": "The chemical symbol for sodium is Na."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Which type of energy is due to motion?",
+      "answer": "Kinetic energy is due to motion."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Which organ stores bile?",
+      "answer": "The gallbladder stores bile."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is the chemical symbol for silver?",
+      "answer": "The chemical symbol for silver is Ag."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Which planet is farthest from the Sun in our solar system?",
+      "answer": "Neptune is farthest from the Sun in our solar system."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Which gas is essential for respiration in humans?",
+      "answer": "Oxygen is essential for respiration in humans."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Which element has the atomic number 1?",
+      "answer": "Hydrogen has the atomic number 1."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What type of celestial body is the Sun?",
+      "answer": "The Sun is a star."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Which organ produces digestive enzymes and insulin?",
+      "answer": "The pancreas produces digestive enzymes and insulin."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is the main gas responsible for global warming?",
+      "answer": "Carbon dioxide is the main gas responsible for global warming."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Which planet has the most moons?",
+      "answer": "Saturn has the most moons."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Who discovered the law of universal gravitation?",
+      "answer": "Isaac Newton discovered the law of universal gravitation."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is the unit of electric resistance?",
+      "answer": "The unit of electric resistance is Ohm."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Which part of the plant absorbs water and minerals?",
+      "answer": "Roots absorb water and minerals in plants."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Which element is represented by the symbol K?",
+      "answer": "Potassium is represented by the symbol K."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Which type of energy is stored in a stretched spring?",
+      "answer": "Potential energy is stored in a stretched spring."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Which planet is famous for its Great Red Spot?",
+      "answer": "Jupiter is famous for its Great Red Spot."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What is the main function of red blood cells?",
+      "answer": "Red blood cells carry oxygen in the body."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is the pH of pure water?",
+      "answer": "The pH of pure water is 7."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Which organ removes waste from the blood?",
+      "answer": "The kidneys remove waste from the blood."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Which planet rotates on its axis in a retrograde direction?",
+      "answer": "Venus rotates on its axis in a retrograde direction."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Which element is necessary for the formation of bones and teeth?",
+      "answer": "Calcium is necessary for the formation of bones and teeth."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Which organ stores and releases glucose?",
+      "answer": "The liver stores and releases glucose."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Who is known as the father of chemistry?",
+      "answer": "Antoine Lavoisier is known as the father of chemistry."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Which planet is the hottest in our solar system?",
+      "answer": "Venus is the hottest planet in our solar system."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What type of wave is sound?",
+      "answer": "Sound is a mechanical longitudinal wave."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Which gas is used for respiration in plants during the night?",
+      "answer": "Oxygen is used for respiration in plants during the night."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Which element has the highest electronegativity?",
+      "answer": "Fluorine has the highest electronegativity."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Which organ helps in balancing the body?",
+      "answer": "The inner ear helps in balancing the body."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Which planet is known as the blue planet?",
+      "answer": "Earth is known as the blue planet."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Which organ produces digestive juices for food breakdown?",
+      "answer": "The stomach produces digestive juices for food breakdown."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is the unit of energy?",
+      "answer": "The unit of energy is Joule."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Which particle has no charge?",
+      "answer": "A neutron has no charge."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Which organ is part of both the digestive and respiratory systems?",
+      "answer": "The pharynx is part of both the digestive and respiratory systems."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is the basic unit of heredity?",
+      "answer": "The gene is the basic unit of heredity."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "Which element is a noble gas used in balloons?",
+      "answer": "Helium is a noble gas used in balloons."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Which planet has the most extreme temperature variations?",
+      "answer": "Mercury has the most extreme temperature variations."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is the process by which plants make food?",
+      "answer": "Photosynthesis is the process by which plants make food."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Which element is necessary for oxygen transport in blood?",
+      "answer": "Iron is necessary for oxygen transport in blood."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "Which organ in humans produces urine?",
+      "answer": "The kidneys produce urine."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is the chemical formula of methane?",
+      "answer": "The chemical formula of methane is CH4."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Which planet has a strong magnetic field and a giant storm?",
+      "answer": "Jupiter has a strong magnetic field and a giant storm."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "Which organ produces hormones that regulate metabolism?",
+      "answer": "The thyroid gland produces hormones that regulate metabolism."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "Which element is used in pencils?",
+      "answer": "Graphite is used in pencils."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is the unit of frequency?",
+      "answer": "The unit of frequency is Hertz (Hz)."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "Which planet has the highest surface gravity in the solar system?",
+      "answer": "Jupiter has the highest surface gravity in the solar system."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Which part of the brain controls balance and coordination?",
+      "answer": "The cerebellum controls balance and coordination."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "Which element is used to sterilize water?",
+      "answer": "Chlorine is used to sterilize water."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "Which organ helps in excretion and maintaining water balance?",
+      "answer": "The kidneys help in excretion and maintaining water balance."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the demerits of Mendeleev’s periodic table.",
+      "answer": "The demerits of Mendeleev’s periodic table include: 1. The whole number atomic mass of cobalt (Co) and nickel (Ni) is the same, causing ambiguity in sequence. 2. Isotopes were discovered later, which have the same chemical properties but different atomic masses, creating placement challenges. 3. The increase in atomic mass is not uniform, making it hard to predict new elements between heavy elements. 4. The position of hydrogen could not be decided, as it shows similarity with both halogens and alkali metals."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe the position of hydrogen in Mendeleev’s and modern periodic table.",
+      "answer": "Hydrogen shows similarity with halogens (group VII) as it forms H2 like F2 and Cl2, and with alkali metals (group I) because it forms compounds such as NaH and H2O similar to alkali metal compounds. Its position is ambiguous in both Mendeleev’s and modern periodic table. In modern periodic table, it is usually placed in group 1, but its unique properties make it distinct from all groups."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "What is the modern periodic law and who proposed it?",
+      "answer": "The modern periodic law states that 'Properties of elements are a periodic function of their atomic numbers.' It was proposed after Henry Moseley’s experiments in 1913, which showed that the atomic number corresponds to the number of protons in the nucleus and is more fundamental than atomic mass. This led to the modern arrangement of elements in order of increasing atomic numbers."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Explain the structure of the modern periodic table.",
+      "answer": "The modern periodic table has seven horizontal rows called periods and eighteen vertical columns called groups. Each element is placed in a box with its atomic number and other details. It includes s-block (groups 1-2), p-block (groups 13-18), d-block (groups 3-12, transition elements), and f-block (lanthanides and actinides at the bottom). Hydrogen’s position remains special. Metalloids lie along the zig-zag line, metals are left, and nonmetals are right of it."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Describe the relationship between electronic configuration and the position of elements in the modern periodic table.",
+      "answer": "The position of an element in the modern periodic table depends on its electronic configuration. The number of valence electrons determines its group, while the total number of electron shells determines its period. Elements with similar valence electron configurations are placed in the same group, which explains their chemical similarity. As you move across a period, electrons are added to the same shell; as you move down a group, a new shell is added."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "What are the characteristics of groups in the modern periodic table?",
+      "answer": "Elements in the same group have similar chemical properties due to having the same number of valence electrons. As we move down a group, the number of shells increases, and the properties change gradually. For example, alkali metals in group 1 all have 1 valence electron, and halogens in group 17 all have 7 valence electrons, showing similarity and gradation of properties."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Explain the characteristics of periods in the modern periodic table.",
+      "answer": "In a period, elements have the same number of electron shells. Properties change gradually across a period from left to right. For example, moving across period 2, atomic number increases by 1, valence electrons increase by 1, and elements gradually change from metallic to nonmetallic character. Neighboring elements differ slightly, while distant elements differ widely in properties."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Describe how the position of cobalt and nickel problem was resolved in the modern periodic table.",
+      "answer": "In Mendeleev’s periodic table, cobalt (Co) and nickel (Ni) had the same atomic mass, creating ambiguity in their sequence. The modern periodic table resolved this using atomic numbers. Cobalt has atomic number 27 and nickel 28, so they are placed in order of increasing atomic number, removing the ambiguity and correctly grouping them according to chemical properties."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Explain how the positions of chlorine (Cl) and argon (Ar) were fixed in the modern periodic table.",
+      "answer": "Chlorine (atomic number 17) and argon (atomic number 18) are placed in the modern periodic table based on increasing atomic number. Chlorine belongs to group 17 (halogens) and argon to group 18 (noble gases). Their positions reflect their electronic configurations, chemical properties, and periodic trends."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "Explain the concept of effective nuclear charge and its influence on periodic trends.",
+      "answer": "Effective nuclear charge is the net positive charge experienced by valence electrons, considering shielding by inner electrons. Across a period, it increases, pulling electrons closer, reducing atomic radius, and increasing electronegativity. Down a group, shielding increases, reducing the effect on valence electrons, increasing atomic size, and enhancing metallic character."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Should hydrogen be placed in group 1 or group 17 in modern periodic table? Explain.",
+      "answer": "Hydrogen has 1 valence electron like alkali metals (group 1) but forms H2 like halogens (group 17). In modern periodic table, hydrogen is usually placed in group 1 due to its 1 electron in the outermost shell, but it is unique and does not fully belong to any group. Its chemical properties differ significantly from both groups."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Explain how electronic configuration determines the number of valence electrons and chemical properties of elements.",
+      "answer": "The electronic configuration shows the number of electrons in each shell. Valence electrons, in the outermost shell, determine the chemical reactivity of the element. Elements with same number of valence electrons are placed in the same group, showing similar chemical properties. For example, sodium, potassium, and lithium all have 1 valence electron, making them highly reactive metals."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "Describe the s, p, d, and f blocks of the modern periodic table.",
+      "answer": "The s-block includes groups 1 and 2 and helium. The p-block includes groups 13 to 18. The d-block includes transition elements (groups 3 to 12). The f-block includes lanthanides and actinides at the bottom. Each block shows characteristic chemical properties of elements based on the orbital being filled."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "Explain why elements in the same group show gradation in properties.",
+      "answer": "Elements in the same group have the same number of valence electrons but an increasing number of shells as we go down. This results in gradual changes in properties such as atomic size, reactivity, metallic character, and electronegativity. For example, alkali metals become more reactive down the group due to increased distance of valence electron from nucleus."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "What is the relationship between atomic size and position in the periodic table?",
+      "answer": "Atomic size decreases across a period from left to right due to increasing nuclear charge, pulling electrons closer. Atomic size increases down a group because a new shell is added in each successive element, increasing the distance between nucleus and outermost electrons. This trend explains periodic variation in chemical reactivity."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "Explain the periodic trend in valency across a period and down a group.",
+      "answer": "Across a period, valency increases from 1 to 4 and then decreases to 0 as elements gain more electrons in the outer shell. Down a group, valency remains the same because the number of valence electrons does not change, though reactivity and other properties vary due to increasing number of shells."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Describe the periodic trend in metallic and nonmetallic character.",
+      "answer": "Metallic character decreases across a period from left to right as atoms hold valence electrons more tightly. Metallic character increases down a group due to weaker attraction of valence electrons. Nonmetallic character behaves oppositely, increasing across a period and decreasing down a group."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Explain electropositivity and electronegativity trends in the periodic table.",
+      "answer": "Electropositivity decreases across a period and increases down a group. Electronegativity increases across a period and decreases down a group. These trends are due to changes in atomic radius and nuclear charge, affecting chemical reactivity and formation of compounds."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Describe the gradation in the halogen family (group 17).",
+      "answer": "The halogens (group 17) show physical state gradation: fluorine and chlorine are gases, bromine is liquid, and iodine is solid. Reactivity decreases down the group, atomic size increases, and metallic character slightly increases. All halogens form X2 molecules and have 7 valence electrons."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "Explain how the number of electron shells determines the period of an element.",
+      "answer": "The period of an element corresponds to the number of electron shells it has. For example, elements in period 2 (Li to Ne) have two shells (K and L), and period 3 elements have three shells (K, L, M). The number of shells determines size and energy levels of electrons."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain why transition elements are placed in the d-block.",
+      "answer": "Transition elements have their outermost electrons in d-orbitals, which gives them unique properties such as variable oxidation states, formation of colored compounds, and catalytic behavior. They are placed in the d-block (groups 3 to 12) because their d-electrons determine chemical properties."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "What are the lanthanides and actinides, and why are they placed separately in the periodic table?",
+      "answer": "Lanthanides (elements 57-71) and actinides (elements 89-103) have electrons filling f-orbitals. They are placed separately at the bottom to maintain the table’s shape and make it easier to read. Their inclusion in the main table would disrupt the structure due to their electron configurations."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "Explain the periodic trend in reactivity of alkali metals.",
+      "answer": "Alkali metals (group 1) have 1 valence electron. Reactivity increases down the group because the valence electron is farther from the nucleus, experiences less attraction, and is lost more easily. Lithium reacts slowly with water, sodium faster, and potassium react even more vigorously."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain why beryllium does not react with water while other alkaline earth metals do.",
+      "answer": "Beryllium has a small atomic radius and high ionization energy, making it difficult to lose its two valence electrons. Therefore, it does not react with water. Other alkaline earth metals like Mg and Ca have larger atomic size and lower ionization energies, so they react with water."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Describe the effect of atomic number on chemical properties of elements.",
+      "answer": "Chemical properties depend on the number of valence electrons, which is determined by atomic number. Elements with the same valence configuration show similar chemical behavior. As atomic number increases across a period, reactivity and metallic/nonmetallic character change predictably."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "Explain why noble gases are unreactive.",
+      "answer": "Noble gases (group 18) have completely filled valence shells (octet or duplet for Helium), making them stable and chemically inert. Their high ionization energies and lack of tendency to gain or lose electrons prevent them from reacting under normal conditions."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Explain the periodic trend in electronegativity in periods and groups.",
+      "answer": "Electronegativity increases across a period from left to right as nuclear charge increases and atomic radius decreases, attracting electrons more strongly. Electronegativity decreases down a group because the outer electrons are farther from the nucleus, reducing attraction."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Describe the periodic trend in ionization energy across periods and down groups.",
+      "answer": "Ionization energy increases across a period due to increasing nuclear charge and decreasing atomic radius, making it harder to remove an electron. It decreases down a group as the outermost electron is farther from the nucleus and experiences less attraction."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Explain the relation between atomic size and metallic character.",
+      "answer": "Metallic character is higher for elements with larger atomic size because their valence electrons are farther from the nucleus and easily lost, forming cations. Smaller atoms hold valence electrons tightly, reducing metallic character. Thus, metallic character increases down a group."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Explain the concept of new period and new shell in periodic table.",
+      "answer": "A new period starts when a new electron shell begins to be filled. For example, period 2 elements fill the L shell, and period 3 fill the M shell. New shells result in increased atomic size and changes in chemical properties, marking a repetition of trends."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "Describe how electron configuration determines valency of an element.",
+      "answer": "Valency is determined by the number of electrons an atom needs to gain, lose, or share to achieve stability. Elements with 1-4 valence electrons typically lose them or share them, and those with 5-7 gain them. For example, oxygen (2,6) needs 2 electrons, so valency is 2."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Describe the periodic trend in reactivity of halogens.",
+      "answer": "Reactivity of halogens decreases down the group. Fluorine is the most reactive due to its small size and high electronegativity. Reactivity decreases in Cl, Br, and I as atomic size increases and the ability to attract an extra electron into the valence shell decreases."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Explain the relationship between atomic radius and reactivity of elements.",
+      "answer": "In metals, larger atomic radius increases reactivity as valence electrons are easily lost. In nonmetals, smaller atomic radius increases reactivity as electrons are more strongly attracted to fill the shell. Atomic radius thus determines the ease of ion formation."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "Describe the variation in melting and boiling points across a period.",
+      "answer": "Melting and boiling points generally increase from group 1 to group 14 due to strong metallic or covalent bonds, then decrease from group 15 to 18 due to the formation of molecular structures with weak forces. This variation reflects changes in bonding type across a period."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Explain why transition metals show variable oxidation states.",
+      "answer": "Transition metals have partially filled d-orbitals, allowing them to lose different numbers of d and s electrons to form ions. This results in variable oxidation states, unlike main group elements. For example, iron shows +2 and +3 states, and copper +1 and +2."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "Describe the concept of periodicity in chemical properties.",
+      "answer": "Periodicity is the repetition of similar chemical properties at regular intervals when elements are arranged by increasing atomic number. Elements in the same group show similar properties, which helps predict chemical behavior across the entire table."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Explain how metallic and nonmetallic character varies across a period.",
+      "answer": "Metallic character decreases across a period as nuclear charge increases and atoms hold valence electrons tightly, reducing the tendency to lose electrons. Nonmetallic character increases as atoms can attract electrons more strongly to the valence shell."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Explain why noble gases have very low boiling and melting points.",
+      "answer": "Noble gases are monoatomic with weak van der Waals forces between atoms. As a result, very little energy is required to overcome these forces, leading to extremely low melting and boiling points. Their atomic size increases down the group, slightly increasing these points."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Describe the significance of Mendeleev’s prediction of new elements.",
+      "answer": "Mendeleev predicted elements like gallium and germanium by observing gaps in his table. Their discovery later confirmed the validity of periodic law. This prediction demonstrated that chemical properties are periodic and established classification as a tool for discovery."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "Explain why atomic radius decreases across a period and increases down a group.",
+      "answer": "Atomic radius decreases across a period because nuclear charge increases while electrons are added to the same shell, pulling them closer. It increases down a group because new electron shells are added, increasing the distance between the nucleus and valence electrons."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "Describe how ionization energy varies in periods and groups and why.",
+      "answer": "Ionization energy increases across a period because nuclear charge increases, making it harder to remove an electron. It decreases down a group because outer electrons are farther from the nucleus and shielded by inner shells, making them easier to remove."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Explain the trend of electron affinity in the periodic table.",
+      "answer": "Electron affinity measures energy change when an atom gains an electron. it becomes more negative across a period due to increased nuclear charge. It becomes less negative down a group because the added electron is farther from the nucleus, experiencing weaker attraction."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Describe the trend in metallic and nonmetallic character across periods and down groups with examples.",
+      "answer": "Metallic character decreases across a period (Na → Cl) due to stronger nuclear attraction. It increases down a group (Li → Cs) as valence electrons are farther from the nucleus. Nonmetallic character increases across a period and decreases down a group."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "Explain why elements of the same group have similar chemical properties.",
+      "answer": "Elements of the same group have the same number of valence electrons, which determine their chemical reactivity. For example, all halogens have 7 valence electrons and readily form halides, while all alkali metals have 1 valence electron and react vigorously with water."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Explain the significance of Moseley’s work in developing the modern periodic table.",
+      "answer": "Moseley determined that atomic number, not atomic mass, is fundamental in arranging elements. He showed that each element has a unique number of protons. This resolved anomalies in Mendeleev’s table and led to the modern arrangement of elements by increasing atomic number."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Explain the relationship between valence electrons and the formation of ions.",
+      "answer": "Valence electrons determine whether an atom gains or loses electrons. Metals with 1-3 valence electrons lose them to form cations (Na+), while nonmetals with 5-7 gain electrons to form anions (Cl-). This process allows atoms to achieve a stable octet configuration."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Describe the periodic trend in oxidation states of elements.",
+      "answer": "Oxidation states depend on the number of valence electrons. Main group elements show predictable states (+1 for group 1; -1 for group 17), while transition metals show variable states due to partially filled d-orbitals. Across a period, the highest possible oxidation state generally increases."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "Explain why helium is placed with noble gases despite having only 2 electrons.",
+      "answer": "Helium has a fully filled outermost K-shell (2 electrons), making it chemically stable and inert like other noble gases that have full octets. Its chemical property of being unreactive justifies its placement in group 18 with neon and argon."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "Describe how periodic trends help in predicting the chemical reactivity of elements.",
+      "answer": "Periodic trends in size, electronegativity, and ionization energy allow prediction of reactivity. Metals with low ionization energy and large size (like Cs) are highly reactive. Nonmetals with high electronegativity and small size (like F) are also highly reactive. Trends provide a systematic map for behavior."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Explain how the positions of isotopes were fixed in the modern periodic table.",
+      "answer": "In the modern periodic table, elements are arranged by atomic number. Isotopes of an element have the same atomic number (number of protons) but different atomic masses. Since they have the same atomic number, all isotopes of an element occupy the same single position in the table."
+    }
+  ]
+}

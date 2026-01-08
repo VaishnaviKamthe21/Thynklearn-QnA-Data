@@ -1,0 +1,1511 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.1.5",
+    "standard": "10",
+    "subject": "Science and Technology Part 1",
+    "medium": "English",
+    "chapter_name": "Heat"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the amount of heat energy required to raise the temperature of a unit mass of an object by 1°C called?",
+      "options": [
+        { "option_id": 1, "text": "Latent heat", "is_correct": false },
+        { "option_id": 2, "text": "Specific heat capacity", "is_correct": true },
+        { "option_id": 3, "text": "Absolute humidity", "is_correct": false },
+        { "option_id": 4, "text": "Relative humidity", "is_correct": false }
+      ],
+      "answer": "Specific heat capacity"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In Hope's apparatus, the density of water is maximum at what temperature?",
+      "options": [
+        { "option_id": 1, "text": "0°C", "is_correct": false },
+        { "option_id": 2, "text": "100°C", "is_correct": false },
+        { "option_id": 3, "text": "4°C", "is_correct": true },
+        { "option_id": 4, "text": "10°C", "is_correct": false }
+      ],
+      "answer": "4°C"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The constant temperature at which ice converts into water is called its _____.",
+      "options": [
+        { "option_id": 1, "text": "Boiling point", "is_correct": false },
+        { "option_id": 2, "text": "Melting point", "is_correct": true },
+        { "option_id": 3, "text": "Dew point", "is_correct": false },
+        { "option_id": 4, "text": "Freezing point", "is_correct": false }
+      ],
+      "answer": "Melting point"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the SI unit of heat?",
+      "options": [
+        { "option_id": 1, "text": "Calorie", "is_correct": false },
+        { "option_id": 2, "text": "Joule", "is_correct": true },
+        { "option_id": 3, "text": "Watt", "is_correct": false },
+        { "option_id": 4, "text": "Kelvin", "is_correct": false }
+      ],
+      "answer": "Joule"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When the relative humidity is 100%, the air is said to be _____.",
+      "options": [
+        { "option_id": 1, "text": "Dry", "is_correct": false },
+        { "option_id": 2, "text": "Unsaturated", "is_correct": false },
+        { "option_id": 3, "text": "Saturated with vapour", "is_correct": true },
+        { "option_id": 4, "text": "Anomalous", "is_correct": false }
+      ],
+      "answer": "Saturated with vapour"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The unit calorie is approximately equal to how many Joules?",
+      "options": [
+        { "option_id": 1, "text": "3.6", "is_correct": false },
+        { "option_id": 2, "text": "4.18", "is_correct": true },
+        { "option_id": 3, "text": "1000", "is_correct": false },
+        { "option_id": 4, "text": "0.1", "is_correct": false }
+      ],
+      "answer": "4.18"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The phenomenon in which ice converts to liquid due to pressure and re-converts to ice when pressure is removed is called _____.",
+      "options": [
+        { "option_id": 1, "text": "Regelation", "is_correct": true },
+        { "option_id": 2, "text": "Evaporation", "is_correct": false },
+        { "option_id": 3, "text": "Condensation", "is_correct": false },
+        { "option_id": 4, "text": "Fusion", "is_correct": false }
+      ],
+      "answer": "Regelation"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "At what temperature does water show anomalous behaviour?",
+      "options": [
+        { "option_id": 1, "text": "Between 4°C and 100°C", "is_correct": false },
+        { "option_id": 2, "text": "Between 0°C and 4°C", "is_correct": true },
+        { "option_id": 3, "text": "Below 0°C", "is_correct": false },
+        { "option_id": 4, "text": "Above 100°C", "is_correct": false }
+      ],
+      "answer": "Between 0°C and 4°C"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Specific heat capacity is denoted by the letter _____.",
+      "options": [
+        { "option_id": 1, "text": "H", "is_correct": false },
+        { "option_id": 2, "text": "Q", "is_correct": false },
+        { "option_id": 3, "text": "c", "is_correct": true },
+        { "option_id": 4, "text": "T", "is_correct": false }
+      ],
+      "answer": "c"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Mass of vapour present in a unit volume of air is called _____.",
+      "options": [
+        { "option_id": 1, "text": "Relative humidity", "is_correct": false },
+        { "option_id": 2, "text": "Absolute humidity", "is_correct": true },
+        { "option_id": 3, "text": "Dew point", "is_correct": false },
+        { "option_id": 4, "text": "Latent heat", "is_correct": false }
+      ],
+      "answer": "Absolute humidity"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which apparatus is used to study the anomalous behaviour of water?",
+      "options": [
+        { "option_id": 1, "text": "Calorimeter", "is_correct": false },
+        { "option_id": 2, "text": "Hope's apparatus", "is_correct": true },
+        { "option_id": 3, "text": "Thermometer", "is_correct": false },
+        { "option_id": 4, "text": "Barometer", "is_correct": false }
+      ],
+      "answer": "Hope's apparatus"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The unit of absolute humidity is _____.",
+      "options": [
+        { "option_id": 1, "text": "g/cm²", "is_correct": false },
+        { "option_id": 2, "text": "kg/m³", "is_correct": true },
+        { "option_id": 3, "text": "kcal/kg", "is_correct": false },
+        { "option_id": 4, "text": "cal/g", "is_correct": false }
+      ],
+      "answer": "kg/m³"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Air is felt to be humid if the relative humidity is more than _____.",
+      "options": [
+        { "option_id": 1, "text": "20%", "is_correct": false },
+        { "option_id": 2, "text": "40%", "is_correct": false },
+        { "option_id": 3, "text": "60%", "is_correct": true },
+        { "option_id": 4, "text": "10%", "is_correct": false }
+      ],
+      "answer": "60%"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The specific latent heat of fusion for ice is _____ cal/g.",
+      "options": [
+        { "option_id": 1, "text": "540", "is_correct": false },
+        { "option_id": 2, "text": "80", "is_correct": true },
+        { "option_id": 3, "text": "1", "is_correct": false },
+        { "option_id": 4, "text": "2256", "is_correct": false }
+      ],
+      "answer": "80"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The specific latent heat of vaporization for water is _____ cal/g.",
+      "options": [
+        { "option_id": 1, "text": "80", "is_correct": false },
+        { "option_id": 2, "text": "540", "is_correct": true },
+        { "option_id": 3, "text": "333", "is_correct": false },
+        { "option_id": 4, "text": "100", "is_correct": false }
+      ],
+      "answer": "540"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Heat energy absorbed at constant temperature during transformation of solid into liquid is called _____.",
+      "options": [
+        { "option_id": 1, "text": "Latent heat of vaporization", "is_correct": false },
+        { "option_id": 2, "text": "Latent heat of fusion", "is_correct": true },
+        { "option_id": 3, "text": "Specific heat", "is_correct": false },
+        { "option_id": 4, "text": "Dew point", "is_correct": false }
+      ],
+      "answer": "Latent heat of fusion"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The density of water is _____ at 4°C.",
+      "options": [
+        { "option_id": 1, "text": "Minimum", "is_correct": false },
+        { "option_id": 2, "text": "Maximum", "is_correct": true },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Unstable", "is_correct": false }
+      ],
+      "answer": "Maximum"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Relative humidity at the dew point is _____.",
+      "options": [
+        { "option_id": 1, "text": "0%", "is_correct": false },
+        { "option_id": 2, "text": "50%", "is_correct": false },
+        { "option_id": 3, "text": "100%", "is_correct": true },
+        { "option_id": 4, "text": "60%", "is_correct": false }
+      ],
+      "answer": "100%"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "One kcal is equal to _____ cal.",
+      "options": [
+        { "option_id": 1, "text": "10", "is_correct": false },
+        { "option_id": 2, "text": "100", "is_correct": false },
+        { "option_id": 3, "text": "1000", "is_correct": true },
+        { "option_id": 4, "text": "4.18", "is_correct": false }
+      ],
+      "answer": "1000"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which substance among these has the highest specific heat capacity?",
+      "options": [
+        { "option_id": 1, "text": "Iron", "is_correct": false },
+        { "option_id": 2, "text": "Copper", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": true },
+        { "option_id": 4, "text": "Mercury", "is_correct": false }
+      ],
+      "answer": "Water"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "In the experiment of specific heat capacity using wax, which sphere goes deepest?",
+      "options": [
+        { "option_id": 1, "text": "Lead", "is_correct": false },
+        { "option_id": 2, "text": "Copper", "is_correct": false },
+        { "option_id": 3, "text": "Iron", "is_correct": true },
+        { "option_id": 4, "text": "Silver", "is_correct": false }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Specific heat capacity is measured using _____.",
+      "options": [
+        { "option_id": 1, "text": "Mixing method", "is_correct": true },
+        { "option_id": 2, "text": "Boiling method", "is_correct": false },
+        { "option_id": 3, "text": "Melting method", "is_correct": false },
+        { "option_id": 4, "text": "Pressure method", "is_correct": false }
+      ],
+      "answer": "Mixing method"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "If 1 kg of water is heated from 0°C to 4°C, its volume _____.",
+      "options": [
+        { "option_id": 1, "text": "Increases", "is_correct": false },
+        { "option_id": 2, "text": "Decreases", "is_correct": true },
+        { "option_id": 3, "text": "Remains constant", "is_correct": false },
+        { "option_id": 4, "text": "Becomes zero", "is_correct": false }
+      ],
+      "answer": "Decreases"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The unit of specific heat in CGS system is _____.",
+      "options": [
+        { "option_id": 1, "text": "J/kg°C", "is_correct": false },
+        { "option_id": 2, "text": "cal/g°C", "is_correct": true },
+        { "option_id": 3, "text": "erg/g", "is_correct": false },
+        { "option_id": 4, "text": "Watt", "is_correct": false }
+      ],
+      "answer": "cal/g°C"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What happens to the temperature of ice while it is melting?",
+      "options": [
+        { "option_id": 1, "text": "Increases", "is_correct": false },
+        { "option_id": 2, "text": "Decreases", "is_correct": false },
+        { "option_id": 3, "text": "Remains constant at 0°C", "is_correct": true },
+        { "option_id": 4, "text": "Fluctuates", "is_correct": false }
+      ],
+      "answer": "Remains constant at 0°C"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Dew point temperature is decided by the amount of _____ in the air.",
+      "options": [
+        { "option_id": 1, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 2, "text": "Oxygen", "is_correct": false },
+        { "option_id": 3, "text": "Water vapour", "is_correct": true },
+        { "option_id": 4, "text": "Dust", "is_correct": false }
+      ],
+      "answer": "Water vapour"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Latent heat of fusion is utilized for _____.",
+      "options": [
+        { "option_id": 1, "text": "Increasing temperature", "is_correct": false },
+        { "option_id": 2, "text": "Weakening bonds between atoms", "is_correct": true },
+        { "option_id": 3, "text": "Expanding the gas", "is_correct": false },
+        { "option_id": 4, "text": "Increasing density", "is_correct": false }
+      ],
+      "answer": "Weakening bonds between atoms"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "According to the principle of heat exchange, Heat energy lost by hot object = _____.",
+      "options": [
+        { "option_id": 1, "text": "Heat energy gained by surroundings", "is_correct": false },
+        { "option_id": 2, "text": "Heat energy gained by cold object", "is_correct": true },
+        { "option_id": 3, "text": "Work done", "is_correct": false },
+        { "option_id": 4, "text": "Specific heat", "is_correct": false }
+      ],
+      "answer": "Heat energy gained by cold object"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Temperature range chosen for defining calorie is _____.",
+      "options": [
+        { "option_id": 1, "text": "0°C to 1°C", "is_correct": false },
+        { "option_id": 2, "text": "14.5°C to 15.5°C", "is_correct": true },
+        { "option_id": 3, "text": "99°C to 100°C", "is_correct": false },
+        { "option_id": 4, "text": "37°C to 38°C", "is_correct": false }
+      ],
+      "answer": "14.5°C to 15.5°C"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "When water reaches 100°C, the temperature remains constant until _____.",
+      "options": [
+        { "option_id": 1, "text": "Half water evaporates", "is_correct": false },
+        { "option_id": 2, "text": "All water converts into steam", "is_correct": true },
+        { "option_id": 3, "text": "The burner is off", "is_correct": false },
+        { "option_id": 4, "text": "Pressure increases", "is_correct": false }
+      ],
+      "answer": "All water converts into steam"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The white trail at the back of a flying plane is formed by _____ of vapour.",
+      "options": [
+        { "option_id": 1, "text": "Evaporation", "is_correct": false },
+        { "option_id": 2, "text": "Condensation", "is_correct": true },
+        { "option_id": 3, "text": "Sublimation", "is_correct": false },
+        { "option_id": 4, "text": "Fusion", "is_correct": false }
+      ],
+      "answer": "Condensation"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Specific latent heat depends on _____.",
+      "options": [
+        { "option_id": 1, "text": "Volume of air", "is_correct": false },
+        { "option_id": 2, "text": "Atmospheric pressure", "is_correct": true },
+        { "option_id": 3, "text": "Color of substance", "is_correct": false },
+        { "option_id": 4, "text": "Specific volume", "is_correct": false }
+      ],
+      "answer": "Atmospheric pressure"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which scientist showed that energy can be converted from one form to another, with heat being one form?",
+      "options": [
+        { "option_id": 1, "text": "Hope", "is_correct": false },
+        { "option_id": 2, "text": "James Prescott Joule", "is_correct": true },
+        { "option_id": 3, "text": "Newton", "is_correct": false },
+        { "option_id": 4, "text": "Faraday", "is_correct": false }
+      ],
+      "answer": "James Prescott Joule"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Humidity is the measure of _____ in the atmosphere.",
+      "options": [
+        { "option_id": 1, "text": "Heat", "is_correct": false },
+        { "option_id": 2, "text": "Dust", "is_correct": false },
+        { "option_id": 3, "text": "Water vapour", "is_correct": true },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
+      ],
+      "answer": "Water vapour"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Anomalous expansion of water helps in preservation of _____.",
+      "options": [
+        { "option_id": 1, "text": "Rocks", "is_correct": false },
+        { "option_id": 2, "text": "Aquatic life", "is_correct": true },
+        { "option_id": 3, "text": "Metal pipes", "is_correct": false },
+        { "option_id": 4, "text": "Food", "is_correct": false }
+      ],
+      "answer": "Aquatic life"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "If air at 40°C contains 49g of vapour per kg of dry air, it is _____.",
+      "options": [
+        { "option_id": 1, "text": "Unsaturated", "is_correct": false },
+        { "option_id": 2, "text": "Saturated", "is_correct": true },
+        { "option_id": 3, "text": "Anomalous", "is_correct": false },
+        { "option_id": 4, "text": "Frozen", "is_correct": false }
+      ],
+      "answer": "Saturated"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Unit mass for specific latent heat is usually taken as _____.",
+      "options": [
+        { "option_id": 1, "text": "10 kg", "is_correct": false },
+        { "option_id": 2, "text": "1 g or 1 kg", "is_correct": true },
+        { "option_id": 3, "text": "Entire object mass", "is_correct": false },
+        { "option_id": 4, "text": "1 mg", "is_correct": false }
+      ],
+      "answer": "1 g or 1 kg"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "In Hope's apparatus experiment, which thermometer records 0°C first?",
+      "options": [
+        { "option_id": 1, "text": "Lower thermometer T1", "is_correct": false },
+        { "option_id": 2, "text": "Upper thermometer T2", "is_correct": true },
+        { "option_id": 3, "text": "Both simultaneously", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Upper thermometer T2"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Melting point of ice _____ due to applied pressure.",
+      "options": [
+        { "option_id": 1, "text": "Increases", "is_correct": false },
+        { "option_id": 2, "text": "Becomes lower than 0°C", "is_correct": true },
+        { "option_id": 3, "text": "Remains constant", "is_correct": false },
+        { "option_id": 4, "text": "Becomes 100°C", "is_correct": false }
+      ],
+      "answer": "Becomes lower than 0°C"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The property which determines the amount of heat absorbed by different spheres is _____.",
+      "options": [
+        { "option_id": 1, "text": "Mass", "is_correct": false },
+        { "option_id": 2, "text": "Density", "is_correct": false },
+        { "option_id": 3, "text": "Specific heat capacity", "is_correct": true },
+        { "option_id": 4, "text": "Melting point", "is_correct": false }
+      ],
+      "answer": "Specific heat capacity"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Specific latent heat of vaporization of lead is _____ kJ/kg.",
+      "options": [
+        { "option_id": 1, "text": "333", "is_correct": false },
+        { "option_id": 2, "text": "859", "is_correct": true },
+        { "option_id": 3, "text": "2256", "is_correct": false },
+        { "option_id": 4, "text": "134", "is_correct": false }
+      ],
+      "answer": "859"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Latent heat of vaporization refers to phase change from _____.",
+      "options": [
+        { "option_id": 1, "text": "Solid to liquid", "is_correct": false },
+        { "option_id": 2, "text": "Liquid to gas", "is_correct": true },
+        { "option_id": 3, "text": "Solid to gas", "is_correct": false },
+        { "option_id": 4, "text": "Gas to liquid", "is_correct": false }
+      ],
+      "answer": "Liquid to gas"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Absolute humidity is measured in _____.",
+      "options": [
+        { "option_id": 1, "text": "Percentage", "is_correct": false },
+        { "option_id": 2, "text": "kg/m³", "is_correct": true },
+        { "option_id": 3, "text": "Degree Celsius", "is_correct": false },
+        { "option_id": 4, "text": "Newton", "is_correct": false }
+      ],
+      "answer": "kg/m³"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Specific heat of copper is _____ cal/g°C.",
+      "options": [
+        { "option_id": 1, "text": "0.110", "is_correct": false },
+        { "option_id": 2, "text": "0.095", "is_correct": true },
+        { "option_id": 3, "text": "1.0", "is_correct": false },
+        { "option_id": 4, "text": "0.033", "is_correct": false }
+      ],
+      "answer": "0.095"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "In a heat resistant box, energy exchange takes place _____.",
+      "options": [
+        { "option_id": 1, "text": "With the environment", "is_correct": false },
+        { "option_id": 2, "text": "Between the two objects only", "is_correct": true },
+        { "option_id": 3, "text": "With the box walls only", "is_correct": false },
+        { "option_id": 4, "text": "Randomly", "is_correct": false }
+      ],
+      "answer": "Between the two objects only"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Boiling point of ethyl alcohol is _____ °C.",
+      "options": [
+        { "option_id": 1, "text": "100", "is_correct": false },
+        { "option_id": 2, "text": "78", "is_correct": true },
+        { "option_id": 3, "text": "1749", "is_correct": false },
+        { "option_id": 4, "text": "-117", "is_correct": false }
+      ],
+      "answer": "78"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "During winter, we feel air is dry if relative humidity is less than _____.",
+      "options": [
+        { "option_id": 1, "text": "100%", "is_correct": false },
+        { "option_id": 2, "text": "60%", "is_correct": true },
+        { "option_id": 3, "text": "80%", "is_correct": false },
+        { "option_id": 4, "text": "10%", "is_correct": false }
+      ],
+      "answer": "60%"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "When ice sticks together upon pressing, it is due to _____.",
+      "options": [
+        { "option_id": 1, "text": "Evaporation", "is_correct": false },
+        { "option_id": 2, "text": "Regelation", "is_correct": true },
+        { "option_id": 3, "text": "Expansion", "is_correct": false },
+        { "option_id": 4, "text": "Radiation", "is_correct": false }
+      ],
+      "answer": "Regelation"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Specific latent heat of fusion of silver is _____ kJ/kg.",
+      "options": [
+        { "option_id": 1, "text": "333", "is_correct": false },
+        { "option_id": 2, "text": "88.2", "is_correct": true },
+        { "option_id": 3, "text": "26.2", "is_correct": false },
+        { "option_id": 4, "text": "15.3", "is_correct": false }
+      ],
+      "answer": "88.2"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Specific heat of Aluminium is _____ cal/g°C.",
+      "options": [
+        { "option_id": 1, "text": "0.110", "is_correct": false },
+        { "option_id": 2, "text": "0.215", "is_correct": true },
+        { "option_id": 3, "text": "0.52", "is_correct": false },
+        { "option_id": 4, "text": "0.54", "is_correct": false }
+      ],
+      "answer": "0.215"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the boiling point of a liquid?",
+      "answer": "The constant temperature at which a liquid transforms into a gaseous state is called the boiling point of the liquid."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Define Latent heat of fusion.",
+      "answer": "The heat energy absorbed at constant temperature during the transformation of a solid into a liquid is called the latent heat of fusion."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the melting point of ice?",
+      "answer": "The constant temperature at which ice converts into water, which is 0°C at standard atmospheric pressure, is called the melting point of ice."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is anomalous behaviour of water?",
+      "answer": "Water contracts when heated from 0°C to 4°C and expands when heated further; this exceptional behaviour is called the anomalous behaviour of water."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Define Specific latent heat of fusion.",
+      "answer": "The amount of heat energy absorbed at constant temperature by unit mass of a solid to convert it into the liquid phase is called specific latent heat of fusion."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the dew point temperature?",
+      "answer": "The temperature at which unsaturated air becomes saturated with vapour upon cooling is called the dew point temperature."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Define Absolute humidity.",
+      "answer": "The mass of vapour present in a unit volume of air is called absolute humidity."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is Relative humidity?",
+      "answer": "Relative humidity is the ratio of the actual mass of vapour in a volume of air to the mass required to saturate it at that temperature, expressed as a percentage."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is one calorie (cal) heat?",
+      "answer": "One calorie is the amount of heat necessary to raise the temperature of 1 g of water by 1°C from 14.5°C to 15.5°C."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Define Specific heat of an object.",
+      "answer": "The amount of heat energy required to raise the temperature of a unit mass of an object by 1°C is called the specific heat of that object."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "State the Principle of heat exchange.",
+      "answer": "The principle states that if a system is isolated, the heat energy lost by a hot object is equal to the heat energy gained by a cold object."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is regelation?",
+      "answer": "The phenomenon where ice converts to liquid under pressure and re-converts to ice once the pressure is removed is called regelation."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What happens to the density of water at 4°C?",
+      "answer": "The density of water is maximum at 4°C because its volume is minimum at this temperature."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the formula for heat absorbed by an object?",
+      "answer": "The heat energy absorbed is given by the product of mass (m), specific heat (c), and the change in temperature (ΔT): m * c * ΔT."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is a specific temperature range used to define a calorie?",
+      "answer": "A specific range (14.5°C to 15.5°C) is used because the heat required to raise 1 kg of water by 1°C varies slightly in different temperature ranges."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Define Specific latent heat of vaporization.",
+      "answer": "The amount of heat energy absorbed at constant temperature by unit mass of a liquid to convert it into the gaseous phase is called specific latent heat of vaporization."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "When do we feel that the air is dry?",
+      "answer": "We feel that the air is dry when the relative humidity is less than 60%."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "When do we feel that the air is humid?",
+      "answer": "We feel that the air is humid when the relative humidity is more than 60%."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does a calorimeter measure?",
+      "answer": "A calorimeter is used to measure the specific heat of an object using the mixing method."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the unit of Specific heat capacity in SI system?",
+      "answer": "The SI unit of specific heat capacity is J/kg°C."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the unit of Absolute humidity?",
+      "answer": "Absolute humidity is generally measured in kg/m³."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why does a white trail form behind a flying plane?",
+      "answer": "The vapour released by the engine condenses into clouds, and if the surrounding air has high relative humidity, it takes longer for the trail to disappear."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What happens when two pieces of ice are pressed together?",
+      "answer": "They stick to each other because the pressure lowers the melting point causing surface melting, and when pressure is released, it refreezes (regelation)."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the density of water at 0°C compared to 4°C?",
+      "answer": "The density at 0°C is lower than at 4°C because water's volume is higher at 0°C than its minimum volume at 4°C."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How is 1 kcal related to 1 cal?",
+      "answer": "One kilocalorie (1 kcal) is equal to 1000 calories (1000 cal)."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Define Latent heat of vapourization.",
+      "answer": "The heat energy absorbed at constant temperature during the transformation of a liquid into a gas is called latent heat of vapourization."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the melting point of Copper?",
+      "answer": "The melting point of Copper is 1083°C."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the boiling point of Lead?",
+      "answer": "The boiling point of Lead is 1749°C."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the specific heat of Paraffin?",
+      "answer": "The specific heat of Paraffin is 0.54 cal/g°C."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the specific heat of Iron?",
+      "answer": "The specific heat of Iron is 0.110 cal/g°C."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is humidity?",
+      "answer": "The moisture or presence of water vapour in the atmosphere is called humidity."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How many Joules are in 1 kcal?",
+      "answer": "Since 1 cal = 4.18 J and 1 kcal = 1000 cal, 1 kcal = 4180 Joules."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is saturated air?",
+      "answer": "Air is said to be saturated when it contains the maximum possible water vapour at a specific temperature."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is unsaturated air?",
+      "answer": "If the air contains less than the maximum possible amount of water vapour, it is said to be unsaturated."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the latent heat of vaporization of water in kJ/kg?",
+      "answer": "The specific latent heat of vaporization of water is 2256 kJ/kg."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the melting point of Gold?",
+      "answer": "The melting point of Gold is 1063°C."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why do water droplets form on a cold bottle?",
+      "answer": "The air cooling around the bottle becomes saturated with vapour, and excess vapour converts into droplets."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who discovered the relationship between kinetic energy of particles and heat?",
+      "answer": "James Prescott Joule was the first person to show this relationship."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the property measured using the principle of heat exchange?",
+      "answer": "The specific heat capacity of a substance is measured using this principle."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "State the formula for heat gained by water in a calorimeter.",
+      "answer": "Heat gained by water (Q1) = mass of water * its specific heat * increase in its temperature."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the specific heat of Kerosene?",
+      "answer": "The specific heat of Kerosene is 0.52 cal/g°C."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What happens to the temperature of water during boiling?",
+      "answer": "The temperature of water remains constant at 100°C until all the water converts into steam."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the specific latent heat of fusion of Lead in cal/g?",
+      "answer": "The specific latent heat of fusion of Lead is 5.9 cal/g."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the latent heat of ice melting in cal/g?",
+      "answer": "The latent heat of melting ice is 80 cal/g."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the latent heat of vaporization of water in cal/g?",
+      "answer": "The latent heat of vaporization of water is 540 cal/g."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is the relation between 1 cal and 1 Joule?",
+      "answer": "The relation is 1 cal = 4.18 Joule."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What determines the values of melting and boiling points?",
+      "answer": "The values depend on the atmospheric pressure."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How much vapour can air at 20°C contain?",
+      "answer": "Air at 20°C can contain 14.7 grams of water vapour per kilogram of dry air."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How much vapour can air at 40°C contain?",
+      "answer": "Air at 40°C can contain 49 grams of water vapour per kilogram of dry air."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is heat loss (Q) equal to for a hot solid?",
+      "answer": "Q = mass of solid * its specific heat * decrease in its temperature."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Define Dew point.",
+      "answer": "The temperature at which unsaturated air reaches saturation upon cooling is known as the dew point."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What is the role of latent heat in phase change?",
+      "answer": "Latent heat is used to weaken or break the bonds between atoms or molecules during phase transformation without changing the temperature."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "What is the specific latent heat of vaporization of Silver in kJ/kg?",
+      "answer": "It is 2330 kJ/kg."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is specific heat denoted by?",
+      "answer": "It is denoted by the letter 'c'."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is the temperature of ice in its solid phase transformation?",
+      "answer": "The temperature remains constant at 0°C during the transition from ice to water."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of Specific heat capacity?",
+      "answer": "The SI unit of specific heat capacity is J/°C kg."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What are the cgs units of heat?",
+      "answer": "The cgs unit of heat is the calorie (cal)."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "What is the mass of water used in defining one calorie?",
+      "answer": "The mass of water used is 1 gram."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What is the mass used in defining one kcal?",
+      "answer": "The mass of water used is 1 kilogram."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is Hope's apparatus bowl filled with?",
+      "answer": "The flat bowl is filled with a mixture of ice and salt, known as a freezing mixture."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What does line AB represent in the temp-time graph?",
+      "answer": "Line AB represents the conversion of ice into water at a constant temperature of 0°C."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What does line BC represent in the temp-time graph?",
+      "answer": "Line BC represents the rise in temperature of water from 0°C to 100°C."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "What is the specific heat of Silver?",
+      "answer": "The specific heat of Silver is 0.056 cal/g°C."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What is the specific heat of Mercury?",
+      "answer": "The specific heat of Mercury is 0.033 cal/g°C."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Define specific volume of water at 4°C.",
+      "answer": "The specific volume of water is minimum at 4°C."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is the heat exchange until temperature equilibrium?",
+      "answer": "Heat exchange continues between objects until they attain the same temperature value."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What is specific latent heat of vaporization of Ethyl alcohol in cal/g?",
+      "answer": "It is 8540 cal/g."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why do aquatic plants survive in frozen lakes?",
+      "answer": "Due to the anomalous behaviour of water, the lower layers remain at 4°C even if the surface freezes, allowing survival."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What causes pipes to burst in cold winter?",
+      "answer": "Water expands as it cools below 4°C (anomalous expansion), exerting pressure that breaks the pipes."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is the specific latent heat of fusion of Gold in cal/g?",
+      "answer": "It is 144 cal/g."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is the specific latent heat of fusion of Lead in kJ/kg?",
+      "answer": "It is 26.2 kJ/kg."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What is the SI unit of specific heat capacity?",
+      "answer": "The SI unit is J/°C kg."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "What is shredding ice used for?",
+      "answer": "It is used in preparing an ice-ball where the shredded ice is pressurized around a stick to stick together through regelation."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "How is specific latent heat calculated?",
+      "answer": "It is the amount of heat energy absorbed at constant temperature by a unit mass of the substance."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Define 1 Joule in terms of calories?",
+      "answer": "The relation is 1 cal = 4.18 Joule."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is line CD in the graph represent?",
+      "answer": "Line CD represents the transformation of water into steam at a constant temperature of 100°C."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What is absolute humidity?",
+      "answer": "The mass of vapour present in a unit volume of air is called absolute humidity."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "What is saturation of air?",
+      "answer": "It is the state when air contains the maximum possible amount of water vapour at a given temperature."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Define 1 cal heat again.",
+      "answer": "One cal heat is the energy needed to raise 1 g of water from 14.5°C to 15.5°C."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is the heat lost by a hot object in an isolated box?",
+      "answer": "Heat lost = Heat gained by the cold object."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is the mass of water in Example 1?",
+      "answer": "The mass of water is 5 kg."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What is the final temp in Example 1?",
+      "answer": "The final temperature is 100°C."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "What is the latent heat of vaporization of Ethyl alcohol in kJ/kg?",
+      "answer": "It is 200 kJ/kg."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Define Phase transformation.",
+      "answer": "It is the change of a substance from one state (solid, liquid, gas) to another at a constant temperature."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is the specific latent heat of vaporization of Copper?",
+      "answer": "It is 5060 kJ/kg or 1212 cal/g."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is the specific heat of Copper?",
+      "answer": "It is 0.095 cal/g°C."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What is specific latent heat of fusion of Copper?",
+      "answer": "It is 134 kJ/kg or 49 cal/g."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "What is the boiling point of Silver?",
+      "answer": "The boiling point of Silver is 2162°C."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What is the melting point of Lead?",
+      "answer": "The melting point of Lead is 327.5°C."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "Define Joule SI unit of heat.",
+      "answer": "Joule (J) is the SI unit of heat named after James Prescott Joule."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is anomalous expansion volume change?",
+      "answer": "Between 0°C and 4°C, the volume of water decreases as temperature increases."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What is the density of water at 4°C compared to 1°C?",
+      "answer": "The density at 4°C is higher than at 1°C because the volume is lower at 4°C."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Define Heat exchange box.",
+      "answer": "It is a heat resistant box used to isolate a system from the environment to study energy exchange."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What is latent heat of vaporization of ammonia?",
+      "answer": "It is 341 cal/g."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is boiling point of water in sea level?",
+      "answer": "It is 100°C."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is latent heat of melting ice?",
+      "answer": "It is 80 cal/g."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What is specific heat of water?",
+      "answer": "It is 1.0 cal/g°C."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "What is the mass of steam in Example 3?",
+      "answer": "The mass of steam is 80 g."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What is 1 Unit of electricity energy in terms of Joules?",
+      "answer": "1 Unit = 1 kWh = 3.6 * 10^6 Joules."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is the heat resistant box material function?",
+      "answer": "It isolates the system from the environment so that no energy flows in or out."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "Explain the concept of latent heat with the help of a temperature-time graph.",
+      "answer": "Latent heat is the energy absorbed or released by a substance during a phase change at a constant temperature. In a temperature-time graph for heating ice, the line AB at 0°C represents the latent heat of fusion, where heat is used to weaken molecular bonds to convert solid ice into liquid water without raising the temperature. Once all ice melts, the temperature rises to 100°C (line BC). At 100°C, the temperature becomes constant again (line CD), representing the latent heat of vaporization. Here, energy is used to break bonds and transform liquid water into steam. This shows that during transitions, heat absorption does not lead to a temperature increase until the phase change is complete. "
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "Describe the experiment to study the anomalous behaviour of water using Hope's apparatus.",
+      "answer": "Hope's apparatus consists of a cylindrical container with a flat bowl attached at the middle, and two thermometers, T1 at the bottom and T2 at the top. Water is filled in the cylinder and a freezing mixture of ice and salt is placed in the bowl. Initially, both thermometers show the same temperature, but as the water in the middle cools, its density increases and it sinks, causing T1 to drop rapidly to 4°C. When temperature falls below 4°C, water expands and its density decreases, causing it to rise. Consequently, T2 drops rapidly to 0°C and freezes, while T1 remains at 4°C for a long time before slowly reaching 0°C. This confirms water's maximum density is at 4°C. "
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "What is regelation? Explain it with a suitable activity.",
+      "answer": "Regelation is the phenomenon in which ice converts to liquid due to applied pressure and re-converts to ice once the pressure is removed. This can be demonstrated by placing a small slab of ice on a stand and hanging two equal weights from a thin metal wire looped over the slab. The pressure from the wire lowers the melting point of the ice directly beneath it to below 0°C, causing it to melt and allowing the wire to penetrate. As the wire passes, the water above it is no longer under pressure, so its melting point returns to 0°C and it refreezes. Eventually, the wire passes completely through the slab without breaking it, showing how pressure affects the phase transition of ice. "
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "Distinguish between absolute humidity and relative humidity. How do they affect our feeling of moisture?",
+      "answer": "Absolute humidity is the actual mass of water vapour present in a unit volume of air, typically measured in kg/m³. In contrast, relative humidity is a percentage representing the ratio of the actual mass of vapour in the air to the mass required to saturate that same volume at that temperature. Our feeling of 'humid' or 'dry' air depends primarily on relative humidity. If relative humidity is above 60%, the air feels moist or humid. If it is below 60%, we feel the air is dry. Thus, even with the same absolute humidity, air can feel dry at high temperatures and humid at low temperatures because the saturation limit changes with temperature."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "Explain the role of anomalous behaviour of water in preserving aquatic life in cold regions.",
+      "answer": "In cold climates, as the atmospheric temperature drops, the surface water of lakes and ponds cools down. When it reaches 4°C, it attains maximum density and sinks to the bottom. The water below 4°C is less dense and stays at the surface, eventually freezing into an ice layer at 0°C. Since ice is a poor conductor of heat and the water at the bottom remains at a constant 4°C, the environment stays suitable for survival. The anomalous expansion prevents the entire body of water from freezing solid from the bottom up. Consequently, aquatic plants and animals can survive at the bottom even when the atmospheric temperature is well below 0°C. [Image showing temperature layers in a frozen lake and aquatic life at the bottom]"
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "Describe an experiment to prove that different substances have different specific heat capacities.",
+      "answer": "To prove this, take three solid spheres of iron, copper, and lead of equal mass. Put all three spheres in a beaker of boiling water until they all reach a uniform temperature of 100°C. Simultaneously place them on a tray with a thick layer of wax. It is observed that the iron sphere sinks deepest into the wax, the copper sphere to an intermediate depth, and the lead sphere sinks the least. This happens because iron, having a higher specific heat capacity, absorbed more heat from the boiling water and thus released more heat to melt more wax. This experiment demonstrates that for the same rise in temperature, different materials absorb different amounts of heat. "
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "Define calorie and kilocalorie. Why is it important to specify a temperature range while defining them?",
+      "answer": "One calorie (cal) is the amount of heat required to raise the temperature of 1 g of water by 1°C from 14.5°C to 15.5°C. Similarly, one kilocalorie (kcal) is the heat required to raise 1 kg of water by the same 1°C in the same range. It is essential to specify the 14.5°C to 15.5°C range because the amount of heat energy required to raise the temperature of water by 1°C varies slightly depending on the initial temperature. If we chose a different range, like 0°C to 1°C or 99°C to 100°C, the measured heat would be slightly different. Therefore, for standardization and precision in scientific measurements, this specific range is mandatory."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "Explain the principle of heat exchange and how it is used to measure specific heat.",
+      "answer": "The principle of heat exchange states that in an isolated system, the heat energy lost by a hot object is equal to the heat energy gained by a cold object. To measure specific heat, a calorimeter is used. A hot solid object of known mass and temperature is placed into the water inside a calorimeter. Heat exchange occurs between the hot solid, the water, and the calorimeter container until they reach a common final temperature. By the principle, Heat lost by solid object (Q) = Heat gained by water (Q1) + Heat gained by calorimeter container (Q2). By knowing the masses and temperature changes, and using the formula m * c * ΔT, the specific heat of the solid object can be calculated. "
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "Describe the variations in the volume and density of water as it is heated from 0°C to 10°C.",
+      "answer": "As water at 0°C is heated, it initially shows anomalous behaviour. From 0°C to 4°C, instead of expanding, the volume of water decreases. At 4°C, its volume reaches a minimum, meaning its density is at its maximum. When heating continues beyond 4°C, the anomalous behaviour stops, and water behaves like a normal liquid. From 4°C to 10°C, the volume of water increases and its density decreases. This unique V-shaped volume curve is critical for many natural processes. The maximum density at 4°C is the key property that allows ice to float and aquatic life to survive in frozen bodies of water. "
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "What are saturated and unsaturated air? How does air temperature affect its vapour-holding capacity?",
+      "answer": "Air is said to be saturated when it contains the maximum possible amount of water vapour for a given volume and temperature. If the vapour content is less than this limit, the air is called unsaturated. The capacity of air to hold vapour depends strictly on its temperature. High-temperature air has a higher limit; for example, air at 40°C can hold 49 g of vapour per kg of dry air. Low-temperature air has a much lower capacity; air at 20°C can hold only 14.7 g per kg of dry air. Therefore, cooling unsaturated air can eventually make it saturated even without adding more vapour, leading to the formation of dew when it cooled below the dew point temperature."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'specific latent heat' for both fusion and vaporization.",
+      "answer": "Specific latent heat is the amount of heat energy absorbed at a constant temperature by a unit mass of a substance to change its phase. Specific latent heat of fusion (Lf) applies to the transformation from solid to liquid; for ice, it is approximately 80 cal/g or 333 kJ/kg. This energy is used to weaken the bonds in the solid lattice. Specific latent heat of vaporization (Lv) applies to the transformation from liquid to gas; for water, it is 540 cal/g or 2256 kJ/kg. This energy is used to completely break the molecular bonds in the liquid to create a gas. Both quantities depend on atmospheric pressure and are unique properties for different substances."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "Discuss the impact of humidity on daily weather and phenomena like white trails behind planes.",
+      "answer": "Humidity, the amount of water vapour in the air, is a major factor in determining daily weather states. High humidity can lead to condensation and precipitation when air cools. This is seen in the early morning when dew drops collect on grass or vehicle glass as air cools below its dew point. A specific phenomenon is the white trail behind a flying plane, which is formed when engine-released vapour condenses into clouds in the cold upper atmosphere. If the relative humidity of the surrounding air is high, these trails take a long time to disappear. Conversely, if the air is dry, the trails may be very small or not form at all. This serves as a visible indicator of the atmospheric humidity level."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "State the relationship between heat, work, and energy as presented by James Prescott Joule.",
+      "answer": "James Prescott Joule was a pioneering scientist who established that heat is a form of energy. He showed that the kinetic energy of the tiny particles of matter manifests as heat energy. Crucially, Joule demonstrated that energy can be converted from one form to another, such as mechanical work being converted into heat. His experiments led to the formulation of the first law of thermodynamics, which deals with the conversion of heat energy into work. In recognition of his fundamental contributions, the SI unit of both energy and heat is named the 'Joule' (J). His work unified the concepts of energy across different physical domains."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "How do you calculate the heat necessary to raise the temperature of a substance? Provide an example.",
+      "answer": "The heat energy required to change the temperature of an object is calculated using the formula Q = m * c * ΔT, where m is mass, c is specific heat capacity, and ΔT is the change in temperature. For example, to find the heat necessary to raise 5 kg of water from 20°C to 100°C: first, identify mass m = 5 kg and ΔT = 100 - 20 = 80°C. Knowing the specific heat of water c = 1 kcal/kg°C, the energy Q = 5 * 1 * 80 = 400 kcal. This shows that the total heat needed is directly proportional to the amount of material, its unique thermal property, and the desired temperature increase."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "Explain the mixing method for measuring specific heat and the role of the calorimeter.",
+      "answer": "The mixing method uses a calorimeter to determine the specific heat of a solid object. A calorimeter is a thermally insulated container containing a known mass of water. A hot object of known mass and temperature is immersed in the water. Heat flows from the hot object to both the water and the calorimeter container until thermal equilibrium is reached. According to the principle of heat exchange, Heat lost by solid object (Q) = Heat gained by water (Q1) + Heat gained by calorimeter container (Q2). Each 'Q' is calculated as mass * specific heat * temperature change. If the specific heats of water and the calorimeter material are known, the equation can be solved to find the unknown specific heat of the solid object."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "What is the difference between heat and temperature? Explain how each is measured.",
+      "answer": "Heat is a form of energy that flows from a hot object to a cold object due to a temperature difference. Temperature, however, is a measure of the degree of hotness or coldness of an object. Heat transfer can occur via different ways. Temperature is measured using a thermometer, typically in units like Degree Celsius (°C). Heat is measured in Joules (J) in the SI system or calories (cal) in the CGS system. While temperature tells us the thermal state, heat represents the total thermal energy being exchanged."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "Explain anomalous expansion with respect to pipes and rocks in cold regions.",
+      "answer": "Anomalous expansion of water occurs between 4°C and 0°C, where water expands as it cools. In very cold regions during winter, the atmospheric temperature falls below 0°C. Water present in household supply pipes begins to cool; when its temperature drops below 4°C, it starts to expand. This expansion exerts tremendous pressure on the pipe walls, often causing them to break or burst. Similarly, water trapped in the crevices of rocks expands as it freezes into ice. This pressure is strong enough to cause rocks to crack and break apart. These are practical, often destructive, examples of water's exceptional behaviour in nature."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "Solve: 80 g steam at 97°C is released on ice at 0°C. Calculate the mass of ice that melts.",
+      "answer": "First, calculate heat released by steam: Q1 (condensation at 97°C) = 80 * 540 = 43200 cal. Q2 (water cooling from 97°C to 0°C) = 80 * (97-0) * 1 = 7760 cal. Total heat gained by ice Q = 43200 + 7760 = 50960 cal. Let m be the mass of melting ice. Since latent heat of melting ice is 80 cal/g, m * 80 = 50960. Solving for m: m = 50960 / 80 = 637 g. Thus, 637 g of ice will melt due to the energy transferred from the steam."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "Describe the relationship between relative humidity and the feeling of humid or dry air.",
+      "answer": "The feeling of humidity does not depend solely on the total amount of vapour but on how close the air is to being saturated. This 'closeness' is measured as relative humidity. If relative humidity is high (above 60%), evaporation from our skin is slow, making us feel 'humid' and uncomfortable. If relative humidity is low (below 60%), evaporation happens quickly, making the air feel 'dry'. At the dew point, relative humidity is 100%, and the air cannot hold any more vapour, leading to condensation. Therefore, the same absolute amount of vapour might feel dry on a hot day but extremely humid on a cold day."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "How does the latent heat of vaporization differ from the latent heat of fusion? Use water as an example.",
+      "answer": "Latent heat of fusion is the energy required to transform a substance from solid to liquid at its melting point, while latent heat of vaporization is for transforming liquid to gas at its boiling point. For water, the specific latent heat of fusion is 80 cal/g, used at 0°C to turn ice into water. The specific latent heat of vaporization is much higher at 540 cal/g, used at 100°C to turn water into steam. This large difference exists because vaporization requires completely breaking the attractive forces between molecules to allow them to escape as a gas, whereas fusion only requires weakening those forces to move from a rigid lattice to a fluid state."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "Explain the time-temperature graph of Hope's apparatus observations.",
+      "answer": "In the graph, T1 (lower thermometer) and T2 (upper thermometer) are plotted against time. Initially, both show the same declining trend. However, T1 drops faster as cool, dense water sinks. Once T1 reaches 4°C, it remains stable because water at this temperature is at its maximum density and stays at the bottom. Meanwhile, T2 continues to drop slowly towards 4°C. Once the surface water cools below 4°C, it becomes less dense and rises, causing T2 to drop rapidly to 0°C and freeze. Finally, T1 begins to drop slowly from 4°C toward 0°C. The intersection of the curves on the graph represents the point of maximum density. "
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "Solve: A copper sphere of 100g at 100°C is released in 195g of water at 20°C in a 50g copper calorimeter. Find max temp.",
+      "answer": "Let T be the final temperature. Heat lost by sphere Q = 100 * 0.1 * (100 - T). Heat gained by water Q1 = 195 * 1 * (T - 20). Heat gained by calorimeter Q2 = 50 * 0.1 * (T - 20). By principle of heat exchange, Q = Q1 + Q2. This gives 10(100 - T) = 195(T - 20) + 5(T - 20), which simplifies to 1000 - 10T = 200(T - 20). Solving for T: 210T = 5000, so T = 23.8°C. The maximum temperature reached by the water is 23.8°C."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "What is latent heat of phase transformation and why does temperature remain constant during it?",
+      "answer": "Latent heat of phase transformation is the heat energy absorbed or released by a unit mass of a substance to change its physical state without changing its temperature. During a phase change, such as melting or boiling, the added heat energy is not used to increase the kinetic energy of the particles. Instead, it is utilized to overcome or break the attractive forces (bonds) between the atoms or molecules in that phase. For example, in melting ice, the energy weakens the solid bonds to form a liquid. Because all the energy is directed into this structural change, the thermometer reading remains constant until the transformation is complete."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "Explain the relationship between boiling point and atmospheric pressure. Provide an example.",
+      "answer": "The boiling point of a liquid is not fixed but depends on the surrounding atmospheric pressure. At standard sea-level pressure, water boils at 100°C. However, at higher altitudes where atmospheric pressure is lower, the boiling point of water decreases. This is because it is easier for liquid molecules to escape into the gas phase when there is less external pressure pushing down on the liquid surface. Conversely, increasing the pressure raises the boiling point. This shows that melting and boiling points are specific to the pressure environment. [Image showing the variation of boiling point of water with altitude and pressure]"
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "Compare the specific heat capacities of Water, Iron, and Mercury using the table provided.",
+      "answer": "Based on the data table, water has the highest specific heat capacity at 1.0 cal/g°C. Iron has a much lower capacity at 0.110 cal/g°C, and Mercury has the lowest among the three at 0.033 cal/g°C. This means that to raise the temperature of 1 gram of water by 1°C, it takes about 9 times more heat energy than for iron and roughly 30 times more than for mercury. Consequently, water is an excellent thermal reservoir as it can absorb or release large amounts of heat with only a small change in its own temperature, whereas metals like iron and mercury heat up and cool down very quickly."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "How does the specific latent heat of vaporization of water compare to other substances in the table?",
+      "answer": "Water has a very high specific latent heat of vaporization at 2256 kJ/kg or 540 cal/g. Compared to Lead (859 kJ/kg or 207 cal/g), Silver (2330 kJ/kg or 564 cal/g), and Gold (392 kJ/kg or 1580 cal/g), water's value is among the highest in cal/g, though Silver is slightly higher in kJ/kg in this list. Ethyl alcohol has a vaporization latent heat of 8540 cal/g, which is the highest in that unit. Water's high latent heat means that transforming it into steam requires a massive amount of energy, which contributes to its effectiveness in cooling systems and its major role in global climate."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "Explain the concept of dew point and the conditions required for dew formation.",
+      "answer": "Dew point is the temperature at which a given volume of unsaturated air becomes saturated with water vapour upon cooling. For dew to form, the air temperature must drop to or below this dew point. At this stage, the air's relative humidity reaches 100%, and it can no longer hold all its moisture as vapour. The excess water vapour then condenses into liquid droplets. This usually happens in the early morning when the ground and plants have cooled overnight. Common locations for dew collection include grass leaves and vehicle window glass. The specific dew point temperature depends entirely on the initial amount of vapour in the air."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "Describe the SI and CGS units of heat and how they are related.",
+      "answer": "In the International System of Units (SI), the unit of heat is the Joule (J). In the Centimetre-Gram-Second (CGS) system, the unit is the calorie (cal). These units are related by the conversion factor: 1 calorie = 4.18 Joules. Larger versions like the kilocalorie (kcal) are also used, where 1 kcal = 1000 cal. The calorie is specifically defined based on the thermal property of water, while the Joule is named after James Prescott Joule who proved that heat is a form of energy equivalent to work. In practical energy measurements, the kilowatt-hour (kWh) is used, where 1 kWh equals 3.6 * 10^6 Joules."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "Explain the phenomenon of 'sweating' on a cold water bottle using the concepts of saturation.",
+      "answer": "When a bottle of cold water is taken out of a refrigerator, its surface is much colder than the surrounding air. The air immediately in contact with the bottle's surface cools down. As the temperature of this air decreases, its capacity to hold water vapour also decreases. If the air cools enough to reach its dew point, it becomes saturated with vapour. Any further cooling leads to the excess vapour condensing into tiny water droplets on the cold surface of the bottle. This visible moisture, often called 'sweating', is direct proof of the presence of water vapour in the atmosphere and demonstrates how saturation levels are temperature-dependent."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "Solve Example 9a: Equal heat is given to 1g of A and 1g of B. Temp A increases by 3°C, B by 5°C. Which has more specific heat and by what factor?",
+      "answer": "Let the heat given be Q, mass m=1g, specific heats be cA and cB, and temp changes ΔTA=3 and ΔTB=5. From the formula Q = m * c * ΔT, we have Q = 1 * cA * 3 and Q = 1 * cB * 5. Since Q is equal, 3cA = 5cB. This means cA = (5/3)cB. Since cA is (5/3) times cB, object A has more specific heat capacity. The factor by which it is more is 5/3. This demonstrates that substances which show a smaller temperature rise for the same heat input have a higher specific heat."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "What is line AB in the temperature-time graph and why is it horizontal?",
+      "answer": "In the temperature-time graph for heating ice, line AB represents the phase transition from solid ice to liquid water at 0°C. The line is horizontal because the temperature remains constant at 0°C during this entire process. Although heat energy is being continuously supplied by the burner, it is not being used to increase the kinetic energy of the particles, which would raise the temperature. Instead, the energy is entirely absorbed as latent heat of fusion to weaken the molecular bonds holding the ice crystals together. The line will only begin to rise once every piece of ice has been converted into water."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "Explain absolute humidity and its measurement unit.",
+      "answer": "Absolute humidity is a physical quantity used to measure the actual amount of water vapour present in the air. It is defined as the mass of water vapour contained in a unit volume of air. For example, if 1 cubic meter of air contains a certain mass of vapour, that mass per unit volume is the absolute humidity. In the International System of Units (SI), it is generally expressed in kilograms per cubic meter (kg/m³). Absolute humidity alone does not tell us how 'humid' the air feels to us, as that feeling depends on the saturation limit at the current temperature, but it is the direct measure of total vapour content."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "Describe the behaviour of water between 0°C and 4°C with respect to its volume and density.",
+      "answer": "Normally, liquids expand when heated, but water between 0°C and 4°C exhibits anomalous behaviour. When water at 0°C is heated, its volume actually decreases (it contracts) until it reaches 4°C. At 4°C, its volume is at its minimum. Since density is mass divided by volume, this minimum volume corresponds to the maximum density of water at 4°C. If heating continues above 4°C, water begins to behave normally and its volume increases. This unique property is demonstrated in graphs showing specific volume falling to a minimum at 4°C before rising again. "
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "How is specific heat measured using a calorimeter? Explain the heat balance equation.",
+      "answer": "The specific heat of a solid is measured by placing a hot sample into water in a calorimeter. The system reaches a common final temperature through heat exchange. The heat balance equation is: Heat lost by hot solid object (Q) = Heat gained by water (Q1) + Heat gained by calorimeter container (Q2). Each term is expanded as mass * specific heat * temperature change. Specifically, Q = m * c * ΔT_lost, while gained heat is m * c * ΔT_gain. By measuring all masses and temperatures and knowing water's specific heat, the unknown specific heat can be calculated. "
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "Explain the difference between latent heat of fusion and specific latent heat of fusion.",
+      "answer": "Latent heat of fusion is the total amount of heat energy absorbed by a substance to transform from solid to liquid at a constant temperature. It depends on the total mass of the object undergoing the change. Specific latent heat of fusion, however, is a standardized property defined as the amount of heat energy absorbed at constant temperature by a unit mass (e.g., 1 g or 1 kg) of a solid to convert into the liquid phase. While latent heat of fusion is a total energy value, specific latent heat is a material constant, such as 80 cal/g for ice, allowing comparisons between different substances."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "What is percentage relative humidity? State its formula and importance.",
+      "answer": "Percentage relative humidity is the ratio of the actual mass of water vapour in a given volume of air to the mass of vapour required to saturate that same volume at the same temperature, multiplied by 100. The formula is: % Relative humidity = (Actual mass of water vapour content / mass of vapour needed for saturation) * 100. It is a critical measure because it determines our physical comfort and many weather phenomena. For instance, a relative humidity of 100% means the air is saturated (dew point). It helps us understand if the air feels humid (over 60%) or dry (under 60%)."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "Why does the temperature of water not rise above 100°C even if heat is continuously supplied?",
+      "answer": "Water reaches its boiling point at 100°C at standard atmospheric pressure. Once it reaches this temperature, any additional heat energy supplied is no longer used to increase the temperature. Instead, this energy is absorbed as latent heat of vaporization to break the intermolecular bonds that hold the water in its liquid state. This energy allows the molecules to escape into the gaseous phase as steam. The temperature will remain strictly at 100°C until all the liquid water has been converted into steam. Only after the phase change is complete will the temperature rise again. "
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "Discuss the units of heat and the specific relationship between calorie and Joule.",
+      "answer": "Heat is measured in several units: the SI unit is the Joule (J) and the CGS unit is the calorie (cal). One calorie is defined as the heat required to raise 1 gram of water by 1°C from 14.5°C to 15.5°C. The relationship between them is 1 calorie = 4.18 Joules. Imagine energy conversion; James Prescott Joule proved that heat is a form of energy equivalent to work. This link is fundamental to thermodynamics and is the reason the unit Joule is named after him."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "Explain the significance of the iron, copper, and lead sphere experiment in wax.",
+      "answer": "This experiment is significant because it provides visual proof that different materials have a unique physical property called specific heat capacity. Although all three spheres have the same mass and were heated to the same 100°C, they melted different amounts of wax. The iron sphere's deepest penetration shows it had the highest specific heat capacity and stored more heat energy. The lead sphere's shallowest penetration shows it has the lowest capacity. This demonstrates that the amount of heat an object can absorb and release depends on the material it is made of, not just its mass or temperature."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "How does anomalous expansion affect pipes and rocks? Explain with scientific reasoning.",
+      "answer": "Anomalous expansion refers to water expanding as it cools from 4°C down to 0°C. In cold climates, water in pipes or rock crevices undergoes this expansion as winter temperatures drop below 4°C. Because water is confined within the rigid walls of a pipe or the narrow cracks of a rock, its expansion generates enormous outward pressure. Since water continues to expand as it freezes, the force produced is sufficient to exceed the structural strength of the pipe material or the geological integrity of the rock. This leads to the bursting of water supply lines and the cracking of rocks."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "What is line CD in the temp-time graph and why does it occur?",
+      "answer": "In the temperature-time graph, line CD is a horizontal line at 100°C. It represents the phase transformation of liquid water into gaseous steam. This horizontal plateau occurs because the temperature stays constant at the boiling point while the phase change is in progress. The heat energy from the burner is being absorbed as latent heat of vaporization, which is used to break the attractive forces between the water molecules. The line remains horizontal until all the water has converted into steam, showing that phase changes are isothermal processes."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "Solve Example 9b: How many grams of ammonia must evaporate to convert 2kg of water at 20°C to ice at 0°C?",
+      "answer": "First, calculate total heat water must lose: Q1 (cooling from 20°C to 0°C) = 2000g * 1 cal/g°C * 20°C = 40,000 cal. Q2 (freezing at 0°C) = 2000g * 80 cal/g = 160,000 cal. Total heat to be removed Q = 40,000 + 160,000 = 200,000 cal. Let m be mass of ammonia. Since latent heat of vaporization for ammonia is 341 cal/g, m * 341 = 200,000. Solving for m: m = 200,000 / 341 = 586.5 g. Thus, approximately 586.4 g (as per text answer) of ammonia must evaporate."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "Explain absolute humidity and its dependence on temperature.",
+      "answer": "Absolute humidity is the mass of water vapour present in a unit volume of air. However, its significance is tied to temperature because temperature determines the air's saturation limit. Warm air can hold significantly more water vapour than cold air. For instance, air at 40°C can hold 49 g of vapour per kg, but air at 20°C can only hold 14.7 g per kg. Therefore, the same absolute humidity might make air feel very dry at a high temperature because it is far from saturation, but very humid at a lower temperature as it approaches its saturation point."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "What is the specific heat capacity table data for Paraffin, Kerosene, and Aluminium? Compare them.",
+      "answer": "According to table 5.9, Paraffin has a specific heat of 0.54 cal/g°C, Kerosene has 0.52 cal/g°C, and Aluminium has 0.215 cal/g°C. Comparing these, Paraffin and Kerosene have very similar and relatively high capacities, nearly half that of water. Aluminium, being a metal, has a much lower capacity, meaning it requires less than half the energy of Kerosene to raise its temperature by the same amount. This comparison highlights how liquids like oils can store significantly more thermal energy per gram than common structural metals like aluminium."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "Solve Example 9c: How much 100°C steam must mix with 150g of 0°C ice to get 50°C water?",
+      "answer": "Heat gained by ice to become 50°C water: Qgain = (150 * 80) + (150 * 1 * 50) = 12,000 + 7,500 = 19,500 cal. Let m be mass of steam. Heat lost by steam to become 50°C water: Qloss = (m * 540) + (m * 1 * (100-50)) = 540m + 50m = 590m. By principle of heat exchange, Qgain = Qloss. So, 19,500 = 590m. Solving for m: m = 19,500 / 590 = 33.05 g. Thus, 33 g of steam is required."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "Describe the graph for anomalous behaviour of water and explain the minimum volume point.",
+      "answer": "The graph plots the specific volume of 1 kg of water against temperature. Starting at 0°C, the curve goes downwards as temperature increases, showing that the volume is decreasing. This continues until the temperature reaches exactly 4°C, which is the lowest point on the graph, representing the minimum volume of water. At this specific point, water is at its maximum density. As the temperature increases beyond 4°C, the curve turns upwards, showing a normal increase in volume with further heating. This 'dip' at 4°C is the hallmark of the anomalous behaviour of water. "
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "Explain the concept of 'Absolute Humidity' and state its standard measurement units.",
+      "answer": "Absolute humidity is a physical quantity used to measure the actual quantity of water vapour present in a given volume of air. It is defined as the mass of vapour present in a unit volume of air. In meteorological contexts, it indicates the total moisture content of the atmosphere. In the International System of Units (SI), absolute humidity is expressed in kilograms per cubic meter (kg/m³). While relative humidity tells us how close the air is to saturation, absolute humidity tells us exactly how much water is suspended in the air at that moment."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "What is latent heat of vaporization? How is it utilized in water cooling systems?",
+      "answer": "Latent heat of vaporization is the energy absorbed at a constant temperature during the transformation of a liquid into a gas. For water, this value is 540 cal/g or 2256 kJ/kg. This property is utilized in cooling systems because when water evaporates, it absorbs a massive amount of heat from its surroundings (the 'latent heat') to break its molecular bonds. This process removes thermal energy from the surface or object being cooled, lowering its temperature. This is why phenomena like sweating or keeping water in certain equipment use the heating effect to regulate temperature."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "State the Principle of Heat Exchange and its constraints for accuracy.",
+      "answer": "The Principle of Heat Exchange states that the heat energy lost by a hot object is equal to the heat energy gained by a cold object. For this principle to be perfectly accurate, the system containing the two objects must be isolated from the environment. This means they should be placed inside a heat-resistant box so that no thermal energy can flow out of the system or enter from the outside. In such an isolated environment, energy exchange occurs only between the two objects themselves until they reach the same temperature. This isolation is critical for experimental measurements like finding specific heat using a calorimeter. "
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "Explain how specific heat capacity values help in identifying materials.",
+      "answer": "Every substance has a unique specific heat capacity, which is a characteristic physical property. By experimentally determining the amount of heat energy required to raise the temperature of a unit mass of a substance by 1°C, scientists can compare this value to known data. For example, if a material has a specific heat of exactly 0.033 cal/g°C, it can be identified as Mercury. If the value is 0.110 cal/g°C, it is Iron. Thus, specific heat capacity serves as a 'thermal fingerprint' that allows for the accurate identification of pure substances and alloys."
+    }
+  ]
+}
