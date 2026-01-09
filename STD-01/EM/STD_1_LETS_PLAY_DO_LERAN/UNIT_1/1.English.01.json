@@ -16,7 +16,8 @@
         { "option_id": "B", "text": "Play games", "is_correct": false },
         { "option_id": "C", "text": "Go to sleep", "is_correct": false },
         { "option_id": "D", "text": "Watch TV", "is_correct": false }
-      ]
+      ],
+      "answer": "Wake up before sunrise"
     },
     {
       "question_id": 2,
@@ -27,7 +28,8 @@
         { "option_id": "B", "text": "Eating food", "is_correct": false },
         { "option_id": "C", "text": "Playing", "is_correct": false },
         { "option_id": "D", "text": "Sleeping", "is_correct": false }
-      ]
+      ],
+      "answer": "Brushing teeth"
     },
     {
       "question_id": 3,
@@ -38,7 +40,8 @@
         { "option_id": "B", "text": "Sleep", "is_correct": false },
         { "option_id": "C", "text": "Play games", "is_correct": false },
         { "option_id": "D", "text": "Lie down", "is_correct": false }
-      ]
+      ],
+      "answer": "Wear clean clothes"
     },
     {
       "question_id": 4,
@@ -49,7 +52,8 @@
         { "option_id": "B", "text": "Bathroom", "is_correct": false },
         { "option_id": "C", "text": "Kitchen", "is_correct": false },
         { "option_id": "D", "text": "Bedroom", "is_correct": false }
-      ]
+      ],
+      "answer": "Playground"
     },
     {
       "question_id": 5,
@@ -60,7 +64,8 @@
         { "option_id": "B", "text": "Sleeping all day", "is_correct": false },
         { "option_id": "C", "text": "Skipping school", "is_correct": false },
         { "option_id": "D", "text": "Watching TV", "is_correct": false }
-      ]
+      ],
+      "answer": "Studying"
     },
     {
       "question_id": 6,
@@ -71,7 +76,8 @@
         { "option_id": "B", "text": "Play games", "is_correct": false },
         { "option_id": "C", "text": "Sleep", "is_correct": false },
         { "option_id": "D", "text": "Run", "is_correct": false }
-      ]
+      ],
+      "answer": "Wash hands"
     },
     {
       "question_id": 7,
@@ -82,7 +88,8 @@
         { "option_id": "B", "text": "Eating open food", "is_correct": false },
         { "option_id": "C", "text": "Spilling food", "is_correct": false },
         { "option_id": "D", "text": "Skipping meals", "is_correct": false }
-      ]
+      ],
+      "answer": "Eating vegetables and fruits"
     },
     {
       "question_id": 8,
@@ -93,7 +100,8 @@
         { "option_id": "B", "text": "Only juice", "is_correct": false },
         { "option_id": "C", "text": "Cold drinks", "is_correct": false },
         { "option_id": "D", "text": "No drinks", "is_correct": false }
-      ]
+      ],
+      "answer": "Sufficient water"
     },
     {
       "question_id": 9,
@@ -104,7 +112,8 @@
         { "option_id": "B", "text": "On the road", "is_correct": false },
         { "option_id": "C", "text": "In the classroom", "is_correct": false },
         { "option_id": "D", "text": "Near the house", "is_correct": false }
-      ]
+      ],
+      "answer": "In the garbage bin"
     },
     {
       "question_id": 10,
@@ -115,7 +124,8 @@
         { "option_id": "B", "text": "Only playground", "is_correct": false },
         { "option_id": "C", "text": "Only house", "is_correct": false },
         { "option_id": "D", "text": "Only school", "is_correct": false }
-      ]
+      ],
+      "answer": "House, school and surroundings"
     },
     {
       "question_id": 11,
@@ -126,7 +136,8 @@
         { "option_id": "B", "text": "Sleep immediately", "is_correct": false },
         { "option_id": "C", "text": "Skip food", "is_correct": false },
         { "option_id": "D", "text": "Throw clothes", "is_correct": false }
-      ]
+      ],
+      "answer": "Wash and clean ourselves"
     },
     {
       "question_id": 12,
@@ -137,7 +148,8 @@
         { "option_id": "B", "text": "Throwing things around", "is_correct": false },
         { "option_id": "C", "text": "Spilling food", "is_correct": false },
         { "option_id": "D", "text": "Dirty surroundings", "is_correct": false }
-      ]
+      ],
+      "answer": "Keeping things in proper place"
     },
     {
       "question_id": 13,
@@ -148,7 +160,8 @@
         { "option_id": "B", "text": "Play games", "is_correct": false },
         { "option_id": "C", "text": "Go to school", "is_correct": false },
         { "option_id": "D", "text": "Eat snacks", "is_correct": false }
-      ]
+      ],
+      "answer": "Sleep properly"
     },
     {
       "question_id": 14,
@@ -159,7 +172,8 @@
         { "option_id": "B", "text": "To get dirty", "is_correct": false },
         { "option_id": "C", "text": "To feel tired", "is_correct": false },
         { "option_id": "D", "text": "To miss school", "is_correct": false }
-      ]
+      ],
+      "answer": "To stay healthy"
     },
     {
       "question_id": 15,
@@ -170,23 +184,98 @@
         { "option_id": "B", "text": "Unclean habits", "is_correct": false },
         { "option_id": "C", "text": "Skipping meals", "is_correct": false },
         { "option_id": "D", "text": "Littering", "is_correct": false }
-      ]
+      ],
+      "answer": "Healthy routine"
     },
-
-    { "question_id": 101, "question_type": "SHORT", "question": "When should a child wake up?" },
-    { "question_id": 102, "question_type": "SHORT", "question": "Name one morning habit." },
-    { "question_id": 103, "question_type": "SHORT", "question": "Why do we brush our teeth?" },
-    { "question_id": 104, "question_type": "SHORT", "question": "What should we do before eating food?" },
-    { "question_id": 105, "question_type": "SHORT", "question": "Name one healthy food." },
-    { "question_id": 106, "question_type": "SHORT", "question": "Why should we drink water?" },
-    { "question_id": 107, "question_type": "SHORT", "question": "Where should garbage be thrown?" },
-    { "question_id": 108, "question_type": "SHORT", "question": "Name one place we should keep clean." },
-    { "question_id": 109, "question_type": "SHORT", "question": "What does a child do at school?" },
-    { "question_id": 110, "question_type": "SHORT", "question": "Why is play important?" },
-    { "question_id": 111, "question_type": "SHORT", "question": "What should we do after playing?" },
-    { "question_id": 112, "question_type": "SHORT", "question": "Why should we help at home?" },
-    { "question_id": 113, "question_type": "SHORT", "question": "Name one clean habit." },
-    { "question_id": 114, "question_type": "SHORT", "question": "What should we do at night?" },
-    { "question_id": 115, "question_type": "SHORT", "question": "Why are healthy habits important?" }
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "When should a child wake up?",
+      "answer": "A child should wake up early in the morning before sunrise."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Name one morning habit.",
+      "answer": "Brushing teeth is a good morning habit."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Why do we brush our teeth?",
+      "answer": "We brush our teeth to keep them clean and healthy."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What should we do before eating food?",
+      "answer": "We should wash our hands before eating food."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Name one healthy food.",
+      "answer": "Fruits are healthy food."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Why should we drink water?",
+      "answer": "We should drink water to stay healthy."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Where should garbage be thrown?",
+      "answer": "Garbage should be thrown in the garbage bin."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Name one place we should keep clean.",
+      "answer": "We should keep our house clean."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What does a child do at school?",
+      "answer": "A child studies and learns at school."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why is play important?",
+      "answer": "Play is important to keep us active and happy."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What should we do after playing?",
+      "answer": "We should clean ourselves after playing."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Why should we help at home?",
+      "answer": "We should help at home to support our family."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Name one clean habit.",
+      "answer": "Keeping things in proper place is a clean habit."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What should we do at night?",
+      "answer": "We should sleep properly at night."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why are healthy habits important?",
+      "answer": "Healthy habits help us stay fit and healthy."
+    }
   ]
 }
