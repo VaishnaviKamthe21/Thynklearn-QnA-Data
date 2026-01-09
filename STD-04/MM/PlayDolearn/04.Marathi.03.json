@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.KheluKaruShiku.03",
+    "standard": "4",
+    "subject": "खेळू, करू, शिकू (शारीरिक शिक्षण)",
+    "medium": "Marathi",
+    "chapter_name": "खेळ व शर्यती"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "लघुखेळ म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मोठे सामने", "is_correct": false },
+        { "option_id": 2, "text": "लहान व साधे खेळ", "is_correct": true },
+        { "option_id": 3, "text": "फक्त उभे राहणे", "is_correct": false },
+        { "option_id": 4, "text": "झोपून खेळणे", "is_correct": false }
+      ],
+      "answer": "लहान व साधे खेळ"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता खेळ लघुखेळ आहे?",
+      "options": [
+        { "option_id": 1, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 2, "text": "तळ्यात मळ्यात", "is_correct": true },
+        { "option_id": 3, "text": "फुटबॉल", "is_correct": false },
+        { "option_id": 4, "text": "हॉकी", "is_correct": false }
+      ],
+      "answer": "तळ्यात मळ्यात"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "'चेंडू मारून बाद करणे' हा खेळ कसा खेळतात?",
+      "options": [
+        { "option_id": 1, "text": "बॅटने मारून", "is_correct": false },
+        { "option_id": 2, "text": "पायाने मारून", "is_correct": false },
+        { "option_id": 3, "text": "चेंडू अंगावर मारून (खेळाडू बाद करणे)", "is_correct": true },
+        { "option_id": 4, "text": "डोक्याने मारून", "is_correct": false }
+      ],
+      "answer": "चेंडू अंगावर मारून (खेळाडू बाद करणे)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "रस्सीखेचमध्ये किती संघ असतात?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "लंगडी खेळताना कोणत्या अवयवाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त हाताचा", "is_correct": false },
+        { "option_id": 2, "text": "फक्त डोक्याचा", "is_correct": false },
+        { "option_id": 3, "text": "एका पायाचा (दुसरा पाय वर धरून)", "is_correct": true },
+        { "option_id": 4, "text": "दोन्ही पायांचा", "is_correct": false }
+      ],
+      "answer": "एका पायाचा (दुसरा पाय वर धरून)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "रुमाल पाणी खेळात काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "काठी", "is_correct": false },
+        { "option_id": 3, "text": "रुमाल", "is_correct": true },
+        { "option_id": 4, "text": "चेंडू", "is_correct": false }
+      ],
+      "answer": "रुमाल"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "खेळ खेळताना मैदानाची स्थिती कशी असावी?",
+      "options": [
+        { "option_id": 1, "text": "स्वच्छ आणि सुरक्षित", "is_correct": true },
+        { "option_id": 2, "text": "काटेरी", "is_correct": false },
+        { "option_id": 3, "text": "दगडाळ", "is_correct": false },
+        { "option_id": 4, "text": "ओली", "is_correct": false }
+      ],
+      "answer": "स्वच्छ आणि सुरक्षित"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शर्यतींचे आयोजन करताना कशाची विशेष काळजी घ्यावी?",
+      "options": [
+        { "option_id": 1, "text": "जेवणाची", "is_correct": false },
+        { "option_id": 2, "text": "सुरक्षिततेची", "is_correct": true },
+        { "option_id": 3, "text": "गाण्यांची", "is_correct": false },
+        { "option_id": 4, "text": "कपड्यांची", "is_correct": false }
+      ],
+      "answer": "सुरक्षिततेची"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "नागमोडी पळणे शर्यतीत कसे पळावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "सरळ", "is_correct": false },
+        { "option_id": 2, "text": "वाकड्यातिकड्या मार्गाने (नागमोडी)", "is_correct": true },
+        { "option_id": 3, "text": "उलट", "is_correct": false },
+        { "option_id": 4, "text": "बसून", "is_correct": false }
+      ],
+      "answer": "वाकड्यातिकड्या मार्गाने (नागमोडी)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "दोरीवरच्या उड्या शर्यतीत काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "काठी", "is_correct": false },
+        { "option_id": 2, "text": "चेंडू", "is_correct": false },
+        { "option_id": 3, "text": "दोरी", "is_correct": true },
+        { "option_id": 4, "text": "विटा", "is_correct": false }
+      ],
+      "answer": "दोरी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "विटांवरून चालणे शर्यतीत कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "दगडांचा", "is_correct": false },
+        { "option_id": 2, "text": "विटांचा", "is_correct": true },
+        { "option_id": 3, "text": "लाकडाचा", "is_correct": false },
+        { "option_id": 4, "text": "कागदाचा", "is_correct": false }
+      ],
+      "answer": "विटांचा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता खेळ स्थानिक व पारंपरिक खेळ आहे?",
+      "options": [
+        { "option_id": 1, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 2, "text": "टेनिस", "is_correct": false },
+        { "option_id": 3, "text": "विट्टी दांडू", "is_correct": true },
+        { "option_id": 4, "text": "गोल्फ", "is_correct": false }
+      ],
+      "answer": "विट्टी दांडू"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "गोट्या हा खेळ कशाच्या साहाय्याने खेळतात?",
+      "options": [
+        { "option_id": 1, "text": "लहान गोलाकार काचेच्या गोळ्या (गोट्या)", "is_correct": true },
+        { "option_id": 2, "text": "दगड", "is_correct": false },
+        { "option_id": 3, "text": "चेंडू", "is_correct": false },
+        { "option_id": 4, "text": "काठी", "is_correct": false }
+      ],
+      "answer": "लहान गोलाकार काचेच्या गोळ्या (गोट्या)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "भोवरा फिरवण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "बॅटची", "is_correct": false },
+        { "option_id": 2, "text": "दोरीची (जाळीची)", "is_correct": true },
+        { "option_id": 3, "text": "चेंडूची", "is_correct": false },
+        { "option_id": 4, "text": "पाण्याची", "is_correct": false }
+      ],
+      "answer": "दोरीची (जाळीची)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "टायर पळवणे हा खेळ कसा खेळतात?",
+      "options": [
+        { "option_id": 1, "text": "टायर डोक्यावर घेऊन", "is_correct": false },
+        { "option_id": 2, "text": "जुना टायर काठीने किंवा हाताने पळवून", "is_correct": true },
+        { "option_id": 3, "text": "टायरमध्ये बसून", "is_correct": false },
+        { "option_id": 4, "text": "टायर फेकून", "is_correct": false }
+      ],
+      "answer": "जुना टायर काठीने किंवा हाताने पळवून"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "एका हाताची फुगडी कशी खेळतात?",
+      "options": [
+        { "option_id": 1, "text": "दोन्ही हातांनी", "is_correct": false },
+        { "option_id": 2, "text": "फक्त एका हाताने दुसऱ्याचा हात धरून", "is_correct": true },
+        { "option_id": 3, "text": "पाय धरून", "is_correct": false },
+        { "option_id": 4, "text": "कमरेला धरून", "is_correct": false }
+      ],
+      "answer": "फक्त एका हाताने दुसऱ्याचा हात धरून"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "जातंसारखी गोल फिरणारी फुगडी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "साधी फुगडी", "is_correct": false },
+        { "option_id": 2, "text": "जातं फुगडी", "is_correct": true },
+        { "option_id": 3, "text": "एक हाताची फुगडी", "is_correct": false },
+        { "option_id": 4, "text": "दांडू फुगडी", "is_correct": false }
+      ],
+      "answer": "जातं फुगडी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "मनोरंजनात्मक खेळामुळे काय मिळते?",
+      "options": [
+        { "option_id": 1, "text": "कंटाळा", "is_correct": false },
+        { "option_id": 2, "text": "आनंद आणि उत्साह", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "दुःख", "is_correct": false }
+      ],
+      "answer": "आनंद आणि उत्साह"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "माहितीवरून पदार्थ परिचय या खेळात काय करायचे असते?",
+      "options": [
+        { "option_id": 1, "text": "पदार्थ खायचा असतो", "is_correct": false },
+        { "option_id": 2, "text": "पदार्थाच्या वर्णनावरून पदार्थ ओळखायचा असतो", "is_correct": true },
+        { "option_id": 3, "text": "पदार्थ बनवायचा असतो", "is_correct": false },
+        { "option_id": 4, "text": "पदार्थ विकायचा असतो", "is_correct": false }
+      ],
+      "answer": "पदार्थाच्या वर्णनावरून पदार्थ ओळखायचा असतो"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "खजिना शोध खेळात काय शोधायचे असते?",
+      "options": [
+        { "option_id": 1, "text": "हरवलेली वस्तू", "is_correct": false },
+        { "option_id": 2, "text": "लपवलेली वस्तू (खजिना)", "is_correct": true },
+        { "option_id": 3, "text": "रस्ता", "is_correct": false },
+        { "option_id": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "लपवलेली वस्तू (खजिना)"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "काडीपेटी पाडणे खेळात काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "रिकामी काडीपेटी", "is_correct": true },
+        { "option_id": 2, "text": "विटा", "is_correct": false },
+        { "option_id": 3, "text": "मोठा बॉक्स", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "रिकामी काडीपेटी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कडीमध्ये चेंडू टाकणे या खेळात कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "एकाग्रतेची आणि अचूकतेची", "is_correct": true },
+        { "option_id": 2, "text": "जोरदार धावण्याची", "is_correct": false },
+        { "option_id": 3, "text": "उंच उडीची", "is_correct": false },
+        { "option_id": 4, "text": "शक्तीची", "is_correct": false }
+      ],
+      "answer": "एकाग्रतेची आणि अचूकतेची"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "स्मरण खेळात काय तपासले जाते?",
+      "options": [
+        { "option_id": 1, "text": "शक्ती", "is_correct": false },
+        { "option_id": 2, "text": "स्मरणशक्ती (आठवण)", "is_correct": true },
+        { "option_id": 3, "text": "वेग", "is_correct": false },
+        { "option_id": 4, "text": "वजन", "is_correct": false }
+      ],
+      "answer": "स्मरणशक्ती (आठवण)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "वासावरून वस्तू ओळखणे या खेळात कोणत्या इंद्रियाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "डोळे", "is_correct": false },
+        { "option_id": 2, "text": "कान", "is_correct": false },
+        { "option_id": 3, "text": "नाक", "is_correct": true },
+        { "option_id": 4, "text": "जीभ", "is_correct": false }
+      ],
+      "answer": "नाक"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "बैठे खेळ म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मैदानावर पळत खेळायचे खेळ", "is_correct": false },
+        { "option_id": 2, "text": "एका जागी बसून खेळायचे खेळ", "is_correct": true },
+        { "option_id": 3, "text": "उभे राहून खेळायचे खेळ", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यात खेळायचे खेळ", "is_correct": false }
+      ],
+      "answer": "एका जागी बसून खेळायचे खेळ"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता खेळ बैठा खेळ आहे?",
+      "options": [
+        { "option_id": 1, "text": "कबड्डी", "is_correct": false },
+        { "option_id": 2, "text": "लंगडी", "is_correct": false },
+        { "option_id": 3, "text": "सापशिडी", "is_correct": true },
+        { "option_id": 4, "text": "खो-खो", "is_correct": false }
+      ],
+      "answer": "सापशिडी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "बुद्धिबळ हा खेळ कोणत्या प्रकारचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "मैदानी", "is_correct": false },
+        { "option_id": 2, "text": "बैठा खेळ", "is_correct": true },
+        { "option_id": 3, "text": "शर्यत", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यातील", "is_correct": false }
+      ],
+      "answer": "बैठा खेळ"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कानगोष्टी खेळात काय करायचे असते?",
+      "options": [
+        { "option_id": 1, "text": "गोष्ट लिहायची असते", "is_correct": false },
+        { "option_id": 2, "text": "हळू आवाजात दुसऱ्याच्या कानात संदेश सांगायचा असतो", "is_correct": true },
+        { "option_id": 3, "text": "मोठ्याने ओरडायचे असते", "is_correct": false },
+        { "option_id": 4, "text": "चित्र काढायचे असते", "is_correct": false }
+      ],
+      "answer": "हळू आवाजात दुसऱ्याच्या कानात संदेश सांगायचा असतो"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "संगीत उशी खेळात काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "चेंडू", "is_correct": false },
+        { "option_id": 2, "text": "उशी आणि संगीत", "is_correct": true },
+        { "option_id": 3, "text": "बॅट", "is_correct": false },
+        { "option_id": 4, "text": "दोर", "is_correct": false }
+      ],
+      "answer": "उशी आणि संगीत"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "लुडो हा खेळ किती खेळाडू खेळू शकतात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन ते चार", "is_correct": true },
+        { "option_id": 3, "text": "अकरा", "is_correct": false },
+        { "option_id": 4, "text": "पाचशे", "is_correct": false }
+      ],
+      "answer": "दोन ते चार"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "बैठ्या खेळांमुळे कोणत्या गुणांचा विकास होतो?",
+      "options": [
+        { "option_id": 1, "text": "शारीरिक ताकद", "is_correct": false },
+        { "option_id": 2, "text": "एकाग्रता, निर्णय क्षमता", "is_correct": true },
+        { "option_id": 3, "text": "धावण्याचा वेग", "is_correct": false },
+        { "option_id": 4, "text": "भूक", "is_correct": false }
+      ],
+      "answer": "एकाग्रता, निर्णय क्षमता"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "फावल्या वेळेचा सदुपयोग कशामुळे होतो?",
+      "options": [
+        { "option_id": 1, "text": "झोपल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "बैठे खेळ खेळल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "उगाच बसल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "टीव्ही पाहिल्यामुळे", "is_correct": false }
+      ],
+      "answer": "बैठे खेळ खेळल्यामुळे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "शर्यतीत जिंकण्यासाठी काय महत्त्वाचे असते?",
+      "options": [
+        { "option_id": 1, "text": "वेग आणि नियम पालन", "is_correct": true },
+        { "option_id": 2, "text": "धक्काधक्की", "is_correct": false },
+        { "option_id": 3, "text": "ओरडणे", "is_correct": false },
+        { "option_id": 4, "text": "थांबणे", "is_correct": false }
+      ],
+      "answer": "वेग आणि नियम पालन"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "मनोरंजनात्मक कृतीत 'विविध प्रकारे टाळ्या वाजवणे' कशासाठी करतात?",
+      "options": [
+        { "option_id": 1, "text": "आवाज करण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "आनंद आणि लयीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "हात दुखवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "मच्छर मारण्यासाठी", "is_correct": false }
+      ],
+      "answer": "आनंद आणि लयीसाठी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "एक मिनिट डोळे मिटून शांत बसणे ही कृती कशासाठी आहे?",
+      "options": [
+        { "option_id": 1, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "एकाग्रतेसाठी/मनःशांतीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षा म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "लपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "एकाग्रतेसाठी/मनःशांतीसाठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "पाणी आणि चमचा शर्यतीत काय आवश्यक असते?",
+      "options": [
+        { "option_id": 1, "text": "तोल सांभाळणे", "is_correct": true },
+        { "option_id": 2, "text": "जोरात पळणे", "is_correct": false },
+        { "option_id": 3, "text": "उड्या मारणे", "is_correct": false },
+        { "option_id": 4, "text": "डोळे मिटणे", "is_correct": false }
+      ],
+      "answer": "तोल सांभाळणे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "विटांवरून चालणे शर्यतीत पाय कुठे ठेवावा?",
+      "options": [
+        { "option_id": 1, "text": "जमिनीवर", "is_correct": false },
+        { "option_id": 2, "text": "विटेवर", "is_correct": true },
+        { "option_id": 3, "text": "हवेत", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यात", "is_correct": false }
+      ],
+      "answer": "विटेवर"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "गटाची शर्यत म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "एकट्याने धावणे", "is_correct": false },
+        { "option_id": 2, "text": "संपूर्ण संघाने (गटाने) मिळून शर्यत पूर्ण करणे", "is_correct": true },
+        { "option_id": 3, "text": "दोघांनी धावणे", "is_correct": false },
+        { "option_id": 4, "text": "बसून राहणे", "is_correct": false }
+      ],
+      "answer": "संपूर्ण संघाने (गटाने) मिळून शर्यत पूर्ण करणे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "साहित्याच्या सह शर्यतीचे उदाहरण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "साधे धावणे", "is_correct": false },
+        { "option_id": 2, "text": "लिंबू-चमचा शर्यत", "is_correct": true },
+        { "option_id": 3, "text": "लंगडी शर्यत", "is_correct": false },
+        { "option_id": 4, "text": "उड्या मारणे", "is_correct": false }
+      ],
+      "answer": "लिंबू-चमचा शर्यत"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "दोघांची शर्यत म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "दोन व्यक्तींमध्ये लागलेली शर्यत", "is_correct": true },
+        { "option_id": 2, "text": "दोन गट", "is_correct": false },
+        { "option_id": 3, "text": "एकटा धावणे", "is_correct": false },
+        { "option_id": 4, "text": "कोणीच नाही", "is_correct": false }
+      ],
+      "answer": "दोन व्यक्तींमध्ये लागलेली शर्यत"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "ओंजळीने ग्लास भरणे या खेळात काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "चमचा", "is_correct": false },
+        { "option_id": 2, "text": "हाताची ओंजळ आणि पाणी", "is_correct": true },
+        { "option_id": 3, "text": "मग", "is_correct": false },
+        { "option_id": 4, "text": "बादली", "is_correct": false }
+      ],
+      "answer": "हाताची ओंजळ आणि पाणी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "टेबल टेनिसचा चेंडू कसा नेता येतो?",
+      "options": [
+        { "option_id": 1, "text": "फुंकर मारून", "is_correct": true },
+        { "option_id": 2, "text": "हाताने", "is_correct": false },
+        { "option_id": 3, "text": "पायाने", "is_correct": false },
+        { "option_id": 4, "text": "डोक्याने", "is_correct": false }
+      ],
+      "answer": "फुंकर मारून"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कॅरम खेळण्यासाठी किती खेळाडू लागतात?",
+      "options": [
+        { "option_id": 1, "text": "दोन किंवा चार", "is_correct": true },
+        { "option_id": 2, "text": "पाच", "is_correct": false },
+        { "option_id": 3, "text": "सहा", "is_correct": false },
+        { "option_id": 4, "text": "अकरा", "is_correct": false }
+      ],
+      "answer": "दोन किंवा चार"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "नेमबाजी खेळात काय महत्त्वाचे असते?",
+      "options": [
+        { "option_id": 1, "text": "धावणे", "is_correct": false },
+        { "option_id": 2, "text": "अचूक नेम (लक्ष्य) साधणे", "is_correct": true },
+        { "option_id": 3, "text": "उड्या मारणे", "is_correct": false },
+        { "option_id": 4, "text": "पोहणे", "is_correct": false }
+      ],
+      "answer": "अचूक नेम (लक्ष्य) साधणे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "मित्र ओळखणे खेळात खेळाडूचे काय बांधले जाते?",
+      "options": [
+        { "option_id": 1, "text": "हात", "is_correct": false },
+        { "option_id": 2, "text": "पाय", "is_correct": false },
+        { "option_id": 3, "text": "डोळे", "is_correct": true },
+        { "option_id": 4, "text": "तोंड", "is_correct": false }
+      ],
+      "answer": "डोळे"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "पाठीमागील आवाज कोणाचा ते ओळखणे, या खेळात काय वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "दृष्टी", "is_correct": false },
+        { "option_id": 2, "text": "श्रवणशक्ती (ऐकणे)", "is_correct": true },
+        { "option_id": 3, "text": "स्पर्श", "is_correct": false },
+        { "option_id": 4, "text": "वास", "is_correct": false }
+      ],
+      "answer": "श्रवणशक्ती (ऐकणे)"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "बादलीत चेंडू टाकणे हा खेळ कसा खेळतात?",
+      "options": [
+        { "option_id": 1, "text": "दूर अंतरावरून चेंडू बादलीत फेकून", "is_correct": true },
+        { "option_id": 2, "text": "बादलीत बसून", "is_correct": false },
+        { "option_id": 3, "text": "बादली डोक्यावर घेऊन", "is_correct": false },
+        { "option_id": 4, "text": "बादलीला लाथ मारून", "is_correct": false }
+      ],
+      "answer": "दूर अंतरावरून चेंडू बादलीत फेकून"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "साधी फुगडी खेळताना हात कसे धरतात?",
+      "options": [
+        { "option_id": 1, "text": "एकमेकांचे दोन्ही हात काटकोनात (Cross) धरून", "is_correct": true },
+        { "option_id": 2, "text": "खांद्यावर हात ठेवून", "is_correct": false },
+        { "option_id": 3, "text": "सोडून", "is_correct": false },
+        { "option_id": 4, "text": "एका हाताने", "is_correct": false }
+      ],
+      "answer": "एकमेकांचे दोन्ही हात काटकोनात (Cross) धरून"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "स्थानिक खेळ म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "परदेशात खेळले जाणारे खेळ", "is_correct": false },
+        { "option_id": 2, "text": "आपल्या भागात परंपरेने खेळले जाणारे खेळ", "is_correct": true },
+        { "option_id": 3, "text": "संगणकावरचे खेळ", "is_correct": false },
+        { "option_id": 4, "text": "ऑलिम्पिक खेळ", "is_correct": false }
+      ],
+      "answer": "आपल्या भागात परंपरेने खेळले जाणारे खेळ"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "खेळताना काय पाळणे गरजेचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "नियम", "is_correct": true },
+        { "option_id": 2, "text": "मस्ती", "is_correct": false },
+        { "option_id": 3, "text": "झोप", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "नियम"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "लघुखेळ म्हणजे काय?",
+      "answer": "लघुखेळ म्हणजे कमी वेळात, कमी जागेत आणि कमी साहित्यात खेळले जाणारे साधे व सोपे खेळ."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "तळ्यात मळ्यात हा खेळ कसा खेळतात?",
+      "answer": "तळ्यात मळ्यात खेळताना गोल आखून आत 'तळ्यात' आणि बाहेर 'मळ्यात' अशा सूचनांनुसार उड्या मारायच्या असतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "रस्सीखेच खेळासाठी काय आवश्यक आहे?",
+      "answer": "रस्सीखेच खेळासाठी एक मजबूत दोरी आणि दोन संघ आवश्यक असतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "लंगडी खेळताना काय करावे लागते?",
+      "answer": "लंगडी खेळताना एक पाय दुमडून वर धरून दुसऱ्या पायावर उड्या मारत खेळाडूंना बाद करावे लागते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "रुमाल पाणी खेळात किती खेळाडू असतात?",
+      "answer": "रुमाल पाणी खेळात अनेक खेळाडू गोलात बसतात आणि एक खेळाडू रुमाल घेऊन धावतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शर्यती खेळताना कोणती काळजी घ्यावी?",
+      "answer": "शर्यती खेळताना सुरक्षिततेची काळजी घ्यावी आणि नियम पाळावेत."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "नागमोडी पळणे म्हणजे काय?",
+      "answer": "नागमोडी पळणे म्हणजे सरळ रेषेत न धावता, वळणे घेत (झिग-झॅग) धावणे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "दोरीवरील उड्या शर्यतीत काय करावे लागते?",
+      "answer": "दोरीवरील उड्या शर्यतीत दोरीवरून उड्या मारत ठराविक अंतर पार करावे लागते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "विटांवरून चालणे शर्यत कशी खेळतात?",
+      "answer": "या शर्यतीत दोन किंवा तीन विटांचा वापर करून पाय जमिनीला न टेकवता विटांवरून पुढे जावे लागते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "स्थानिक खेळांची दोन उदाहरणे द्या.",
+      "answer": "विट्टी दांडू आणि गोट्या हे स्थानिक खेळ आहेत."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "भोवरा फिरवण्यासाठी काय लागते?",
+      "answer": "भोवरा फिरवण्यासाठी लाकडी किंवा प्लास्टिकचा भोवरा आणि जाळी (दोरी) लागते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "टायर पळवणे हा खेळ कसा खेळतात?",
+      "answer": "जुना टायर किंवा रिंग काठीने किंवा हाताने मारत समतोल राखून पळवणे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "फुगडीचे प्रकार सांगा.",
+      "answer": "साधी फुगडी, एका हाताची फुगडी, जातं फुगडी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मनोरंजनात्मक खेळांचे महत्त्व काय?",
+      "answer": "मनोरंजनात्मक खेळांमुळे मन आणि शरीराला उत्साह मिळतो, कंटाळा दूर होतो आणि आनंद मिळतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "खजिना शोध खेळ कसा खेळतात?",
+      "answer": "एखादी वस्तू लपवून ती शोधण्यासाठी सूचना किंवा संकेत दिले जातात, त्यावरून ती वस्तू शोधायची असते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "काडीपेटी पाडणे खेळात काय करायचे असते?",
+      "answer": "उभी केलेली काडीपेटी फुंकर मारून किंवा बोटाने टिचकी मारून पाडायची असते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "स्मरण खेळात काय करावे लागते?",
+      "answer": "दाखवलेल्या वस्तू किंवा चित्रे लक्षात ठेवून ठराविक वेळेनंतर त्यांची नावे सांगायची असतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "नेमबाजी खेळात काय महत्वाचे आहे?",
+      "answer": "नेमबाजी खेळात एकाग्रता आणि अचूक लक्ष्य भेदणे महत्त्वाचे आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "बैठे खेळ म्हणजे काय?",
+      "answer": "ज्या खेळांसाठी जास्त धावपळ करावी लागत नाही आणि जे एका जागी बसून खेळले जातात त्यांना बैठे खेळ म्हणतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "सापशिडी खेळात शिडी आणि साप कशाचे प्रतीक आहेत?",
+      "answer": "शिडी प्रगतीचे (वर जाण्याचे) आणि साप अधोगतीचे (खाली येण्याचे) प्रतीक आहेत."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "लुडो खेळात जिंकण्यासाठी काय करावे लागते?",
+      "answer": "आपल्या सर्व सोंगट्या बोर्डाच्या मध्यभागी (होममध्ये) सर्वात आधी पोहोचवाव्या लागतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "बुद्धिबळ खेळात किती खेळाडू असतात?",
+      "answer": "बुद्धिबळ खेळात दोन खेळाडू असतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कानगोष्टी खेळ कसा खेळतात?",
+      "answer": "एकाने दुसऱ्याच्या कानात हळूच एक संदेश सांगायचा आणि तोच संदेश पुढे पास करायचा."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "संगीत उशी खेळात काय होते?",
+      "answer": "संगीत वाजत असताना उशी एकमेकांकडे पास करायची आणि संगीत थांबल्यावर ज्याच्या हातात उशी असेल तो बाद होतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "बैठ्या खेळांमुळे कोणत्या क्षमता वाढतात?",
+      "answer": "बैठ्या खेळांमुळे विचारक्षमता, निर्णयक्षमता, संयम आणि एकाग्रता वाढते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "फावल्या वेळेचा सदुपयोग कसा करता येईल?",
+      "answer": "फावल्या वेळेत बैठे खेळ खेळून, वाचन करून किंवा मनोरंजनात्मक कृती करून सदुपयोग करता येतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "गटाची शर्यत कशी असते?",
+      "answer": "गटाच्या शर्यतीत संपूर्ण संघ सहभागी होतो आणि सर्वांच्या एकत्रित कामगिरीवर निकाल ठरतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "साहित्यासह शर्यतीचे एक उदाहरण द्या.",
+      "answer": "पोत्यांची शर्यत (पोत्यात पाय घालून धावणे) किंवा लिंबू-चमचा शर्यत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "सहकाऱ्याच्या साहाय्याने शर्यत कशी खेळतात?",
+      "answer": "उदा. तीन पायांची शर्यत, ज्यात दोन खेळाडूंचे पाय एकमेकांना बांधलेले असतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "खजिना शोध खेळामुळे काय फायदा होतो?",
+      "answer": "निरीक्षण शक्ती आणि तर्कशक्ती वाढते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "विविध प्राण्यांचे आवाज काढणे ही कोणती कृती आहे?",
+      "answer": "ही एक मनोरंजनात्मक आणि अनुकरणात्मक कृती आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "एक मिनिट शांत बसणे का आवश्यक आहे?",
+      "answer": "मनाची चंचलता कमी करण्यासाठी आणि शांतता अनुभवण्यासाठी."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "पदार्थ परिचय खेळात काय करायचे असते?",
+      "answer": "डोळे बांधून किंवा फक्त चव/वास/स्पर्श घेऊन पदार्थ ओळखायचा असतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "टेबल टेनिसचा चेंडू सरळ नेणे या खेळात कशाचा वापर करतात?",
+      "answer": "फुंकर मारून चेंडू पुढे नेला जातो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "कडीमध्ये चेंडू टाकणे या खेळात काय कौशल्य लागते?",
+      "answer": "अचूक अंतर आणि दिशा ओळखून चेंडू फेकण्याचे कौशल्य लागते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "ओंजळीने ग्लास भरणे या खेळात कोण जिंकतो?",
+      "answer": "कमी वेळात आणि पाणी कमी सांडता जो ग्लास भरेल तो जिंकतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "एकमेकांना हसवणे या खेळात काय नियम असतो?",
+      "answer": "दुसऱ्याला हसवायचे असते पण स्वतः हसायचे नसते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "पाटीमागील आवाज ओळखणे या खेळात काय तपासले जाते?",
+      "answer": "आवाज ओळखण्याची क्षमता तपासली जाते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "खोक्यातील वस्तू ओळखणे या खेळात काय करतात?",
+      "answer": "खोक्यात हात घालून स्पर्शाने वस्तू ओळखायची असते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "वासावरून वस्तू ओळखणे या खेळात कोणते पदार्थ वापरता येतील?",
+      "answer": "कांदा, लसूण, विविध मसाले, फुले, फळे इत्यादी."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "बॉल फेकून मारणे हा खेळ कसा खेळतात?",
+      "answer": "एका ठरावीक लक्षावर किंवा मनोरंजनासाठी एकमेकांकडे चेंडू फेकला जातो (जसे की डॉजबॉल)."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "नेमबाजीसाठी कोणते साहित्य वापरता येते?",
+      "answer": "रिंग, चेंडू, बाण किंवा खेळण्यातील बंदूक."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "मित्र ओळखणे खेळात काय करायचे असते?",
+      "answer": "डोळे बांधून स्पर्शाने किंवा आवाजावरून मित्र ओळखायचा असतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "बादलीत चेंडू टाकणे या खेळात काय नियम असू शकतात?",
+      "answer": "ठरावीक अंतरावरूनच चेंडू टाकावा आणि बादली हलवू नये."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "कॅरम खेळताना कशाचा वापर केला जातो?",
+      "answer": "कॅरम बोर्ड, सोंगट्या आणि स्ट्रायकरचा वापर केला जातो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "मैदानावर खेळण्याची परिस्थिती नसेल तेव्हा काय करावे?",
+      "answer": "तेव्हा बैठे खेळ खेळावेत."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "खेळांमुळे कोणता सामाजिक गुण वाढतो?",
+      "answer": "संघभावना आणि सहकार्य हे गुण वाढतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "खेळात हार-जीत झाल्यावर काय करावे?",
+      "answer": "खेळाडूवृत्तीने निकाल स्वीकारावा आणि आनंद घ्यावा."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "शाळेत खेळांचे आयोजन का केले जाते?",
+      "answer": "विद्यार्थ्यांच्या सर्वांगीण विकासासाठी, आरोग्यासाठी आणि मनोरंजनासाठी."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "तुम्हाला माहित असलेल्या कोणत्याही एका पारंपारिक खेळाचे नाव सांगा.",
+      "answer": "खो-खो, कबड्डी, लंगडी, आट्यापाट्या इत्यादी."
+    }
+  ]
+}

@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.14",
+    "standard": "4",
+    "subject": "Parisar Abhyas Bhag 1",
+    "medium": "Marathi",
+    "chapter_name": "नकाशा आणि खुणा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "निसर्गतः तयार झालेल्या गोष्टींना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मानवनिर्मित गोष्टी", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिक गोष्टी", "is_correct": true },
+        { "option_id": 3, "text": "कृत्रिम गोष्टी", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक गोष्टी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी मानवनिर्मित गोष्ट कोणती?",
+      "options": [
+        { "option_id": 1, "text": "नदी", "is_correct": false },
+        { "option_id": 2, "text": "झाड", "is_correct": false },
+        { "option_id": 3, "text": "शाळा", "is_correct": true },
+        { "option_id": 4, "text": "डोंगर", "is_correct": false }
+      ],
+      "answer": "शाळा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी निसर्गनिर्मित गोष्ट कोणती?",
+      "options": [
+        { "option_id": 1, "text": "घर", "is_correct": false },
+        { "option_id": 2, "text": "रस्ता", "is_correct": false },
+        { "option_id": 3, "text": "गवत", "is_correct": true },
+        { "option_id": 4, "text": "विहीर", "is_correct": false }
+      ],
+      "answer": "गवत"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मानवनिर्मित गोष्टी तयार करण्यासाठी आपण कशाचा वापर करतो?",
+      "options": [
+        { "option_id": 1, "text": "नैसर्गिक साधनांचा", "is_correct": true },
+        { "option_id": 2, "text": "फक्त प्लास्टिकचा", "is_correct": false },
+        { "option_id": 3, "text": "फक्त लोखंडाचा", "is_correct": false },
+        { "option_id": 4, "text": "आकाशाचा", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक साधनांचा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "परिसरातील चित्रात झाडे, इमारती कशा दाखवल्या जातात?",
+      "options": [
+        { "option_id": 1, "text": "खरोखरच्या रूपात", "is_correct": true },
+        { "option_id": 2, "text": "फक्त खुणांनी", "is_correct": false },
+        { "option_id": 3, "text": "फक्त रंगांनी", "is_correct": false },
+        { "option_id": 4, "text": "अदृश्य स्वरूपात", "is_correct": false }
+      ],
+      "answer": "खरोखरच्या रूपात"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "आराखड्यामध्ये वस्तूंच्या जागी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "खऱ्या वस्तू", "is_correct": false },
+        { "option_id": 2, "text": "विशिष्ट खुणा", "is_correct": true },
+        { "option_id": 3, "text": "मोठी चित्रे", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "विशिष्ट खुणा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "आराखड्याचे नकाशात रूपांतर करण्यासाठी कशाची आवश्यकता असते?",
+      "options": [
+        { "option_id": 1, "text": "दिशा, सूची, शीर्षक व प्रमाण", "is_correct": true },
+        { "option_id": 2, "text": "फक्त रंग", "is_correct": false },
+        { "option_id": 3, "text": "फक्त चित्रे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त कागद", "is_correct": false }
+      ],
+      "answer": "दिशा, सूची, शीर्षक व प्रमाण"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "नकाशामध्ये एका ठिकाणाहून दुसऱ्या ठिकाणी हालणाऱ्या घटकांचा समावेश का करत नाहीत?",
+      "options": [
+        { "option_id": 1, "text": "जागा नसते म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "ते स्थिर नसतात म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "ते महत्त्वाचे नसतात म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "चित्र काढता येत नाही म्हणून", "is_correct": false }
+      ],
+      "answer": "ते स्थिर नसतात म्हणून"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "नकाशामध्ये प्राणी, पक्षी आणि माणसे का दाखवत नाहीत?",
+      "options": [
+        { "option_id": 1, "text": "ते नैसर्गिक आहेत म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "ते हालणारे घटक आहेत म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "ते लहान आहेत म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "त्यांचे रंग वेगळे असतात म्हणून", "is_correct": false }
+      ],
+      "answer": "ते हालणारे घटक आहेत म्हणून"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "नकाशामध्ये रस्ते, नद्या कसे दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "सरळ रेषेत", "is_correct": false },
+        { "option_id": 2, "text": "परिसरात जसे वळणे घेतात तसे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त बिंदूंनी", "is_correct": false },
+        { "option_id": 4, "text": "त्रिकोणाने", "is_correct": false }
+      ],
+      "answer": "परिसरात जसे वळणे घेतात तसे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "५००० वर्षांपूर्वी नकाशे कशावर तयार केले जात होते?",
+      "options": [
+        { "option_id": 1, "text": "कागदावर", "is_correct": false },
+        { "option_id": 2, "text": "मातीची पाटी (Clay Tablet)", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिकवर", "is_correct": false },
+        { "option_id": 4, "text": "संगणकावर", "is_correct": false }
+      ],
+      "answer": "मातीची पाटी (Clay Tablet)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मेसोपोटेमिया हा प्रदेश किती वर्षांपूर्वी अस्तित्वात होता?",
+      "options": [
+        { "option_id": 1, "text": "१०००", "is_correct": false },
+        { "option_id": 2, "text": "५०००", "is_correct": true },
+        { "option_id": 3, "text": "२०००", "is_correct": false },
+        { "option_id": 4, "text": "१०,०००", "is_correct": false }
+      ],
+      "answer": "५०००"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "नकाशातील खुणांचा अर्थ कोठे दिला जातो?",
+      "options": [
+        { "option_id": 1, "text": "शीर्षकात", "is_correct": false },
+        { "option_id": 2, "text": "सूचीत", "is_correct": true },
+        { "option_id": 3, "text": "चित्रात", "is_correct": false },
+        { "option_id": 4, "text": "पाठीमागे", "is_correct": false }
+      ],
+      "answer": "सूचीत"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "नकाशात 'उत्तर' दिशा कशाने दर्शवतात?",
+      "options": [
+        { "option_id": 1, "text": "बाणाने", "is_correct": true },
+        { "option_id": 2, "text": "गोल चिन्हाने", "is_correct": false },
+        { "option_id": 3, "text": "फुलाने", "is_correct": false },
+        { "option_id": 4, "text": "चौकोनाने", "is_correct": false }
+      ],
+      "answer": "बाणाने"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खुणा म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मोठी चित्रे", "is_correct": false },
+        { "option_id": 2, "text": "नकाशात वापरलेली विशिष्ट चिन्हे", "is_correct": true },
+        { "option_id": 3, "text": "अक्षरे", "is_correct": false },
+        { "option_id": 4, "text": "संख्या", "is_correct": false }
+      ],
+      "answer": "नकाशात वापरलेली विशिष्ट चिन्हे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "‘टॉवर’ ही कोणती गोष्ट आहे?",
+      "options": [
+        { "option_id": 1, "text": "नैसर्गिक", "is_correct": false },
+        { "option_id": 2, "text": "मानवनिर्मित", "is_correct": true },
+        { "option_id": 3, "text": "प्राणी", "is_correct": false },
+        { "option_id": 4, "text": "वनस्पती", "is_correct": false }
+      ],
+      "answer": "मानवनिर्मित"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "‘नदी’ ही कोणती गोष्ट आहे?",
+      "options": [
+        { "option_id": 1, "text": "मानवनिर्मित", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिक", "is_correct": true },
+        { "option_id": 3, "text": "काल्पनिक", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "नकाशामध्ये सूचीचा वापर का केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा रंगवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "नकाशा समजण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "नकाशा मोठा करण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "नकाशा दुमडण्यासाठी", "is_correct": false }
+      ],
+      "answer": "नकाशा समजण्यासाठी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "झाडाच्या लाकडापासून बनवलेली खुर्ची ही कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "नैसर्गिक", "is_correct": false },
+        { "option_id": 2, "text": "मानवनिर्मित", "is_correct": true },
+        { "option_id": 3, "text": "दोन्ही", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "मानवनिर्मित"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "नकाशात प्रमाण का दिले जाते?",
+      "options": [
+        { "option_id": 1, "text": "रंग भरण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "नकाशातील अंतर व जमिनीवरील अंतर यांचा संबंध समजण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "दिशा दाखवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "चित्रे काढण्यासाठी", "is_correct": false }
+      ],
+      "answer": "नकाशातील अंतर व जमिनीवरील अंतर यांचा संबंध समजण्यासाठी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्र राज्याच्या नकाशात प्रमुख पर्यटन स्थळे कशाने दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "विशिष्ट चिन्हांनी", "is_correct": true },
+        { "option_id": 2, "text": "फक्त नावांनी", "is_correct": false },
+        { "option_id": 3, "text": "फक्त रंगांनी", "is_correct": false },
+        { "option_id": 4, "text": "आवाजाने", "is_correct": false }
+      ],
+      "answer": "विशिष्ट चिन्हांनी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "गरम पाण्याचे झरे दर्शवण्यासाठी नकाशात काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "विशिष्ट खूण/चिन्ह", "is_correct": true },
+        { "option_id": 2, "text": "खरे पाणी", "is_correct": false },
+        { "option_id": 3, "text": "फक्त निळा रंग", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "विशिष्ट खूण/चिन्ह"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "लेणी असलेले जिल्हे नकाशात कसे शोधाल?",
+      "options": [
+        { "option_id": 1, "text": "सूचीतील लेणींची खूण पाहून", "is_correct": true },
+        { "option_id": 2, "text": "नदी पाहून", "is_correct": false },
+        { "option_id": 3, "text": "रस्ते पाहून", "is_correct": false },
+        { "option_id": 4, "text": "जिल्ह्याच्या नावाने", "is_correct": false }
+      ],
+      "answer": "सूचीतील लेणींची खूण पाहून"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "बंदर म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "विमानतळ", "is_correct": false },
+        { "option_id": 2, "text": "समुद्रकिनाऱ्यावरील जहाजे थांबण्याची जागा", "is_correct": true },
+        { "option_id": 3, "text": "बस स्थानक", "is_correct": false },
+        { "option_id": 4, "text": "रेल्वे स्थानक", "is_correct": false }
+      ],
+      "answer": "समुद्रकिनाऱ्यावरील जहाजे थांबण्याची जागा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते ठिकाण महाराष्ट्रातील गरम पाण्याचा झरा असलेले ठिकाण आहे?",
+      "options": [
+        { "option_id": 1, "text": "वज्रेश्वरी", "is_correct": true },
+        { "option_id": 2, "text": "लोणावळा", "is_correct": false },
+        { "option_id": 3, "text": "महाबळेश्वर", "is_correct": false },
+        { "option_id": 4, "text": "पुणे", "is_correct": false }
+      ],
+      "answer": "वज्रेश्वरी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "नकाशात कोणता घटक दाखवला जात नाही?",
+      "options": [
+        { "option_id": 1, "text": "पर्वत", "is_correct": false },
+        { "option_id": 2, "text": "उडणारा कावळा", "is_correct": true },
+        { "option_id": 3, "text": "नदी", "is_correct": false },
+        { "option_id": 4, "text": "रस्ता", "is_correct": false }
+      ],
+      "answer": "उडणारा कावळा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "‘टपाल कार्यालय’ (Post Office) ही गोष्ट कशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "नैसर्गिक", "is_correct": false },
+        { "option_id": 2, "text": "मानवनिर्मित", "is_correct": true },
+        { "option_id": 3, "text": "दोन्ही", "is_correct": false },
+        { "option_id": 4, "text": "माहीत नाही", "is_correct": false }
+      ],
+      "answer": "मानवनिर्मित"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "मानवनिर्मित गोष्टी कशापासून बनतात?",
+      "options": [
+        { "option_id": 1, "text": "नैसर्गिक साधनांपासून", "is_correct": true },
+        { "option_id": 2, "text": "जादूटोण्याने", "is_correct": false },
+        { "option_id": 3, "text": "आपोआप", "is_correct": false },
+        { "option_id": 4, "text": "स्वप्नातून", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक साधनांपासून"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी वाहतुकीचा मार्ग कोणता?",
+      "options": [
+        { "option_id": 1, "text": "लोहमार्ग", "is_correct": true },
+        { "option_id": 2, "text": "डोंगर", "is_correct": false },
+        { "option_id": 3, "text": "जंगल", "is_correct": false },
+        { "option_id": 4, "text": "शाळा", "is_correct": false }
+      ],
+      "answer": "लोहमार्ग"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "नकाशामध्ये ‘विमानवाहतूक केंद्र’ कशाने दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "विमानाच्या चिन्हाने", "is_correct": true },
+        { "option_id": 2, "text": "बसच्या चिन्हाने", "is_correct": false },
+        { "option_id": 3, "text": "जहाजाच्या चिन्हाने", "is_correct": false },
+        { "option_id": 4, "text": "घराच्या चिन्हाने", "is_correct": false }
+      ],
+      "answer": "विमानाच्या चिन्हाने"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘डोंगर’ ही गोष्ट कशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "मानवनिर्मित", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिक", "is_correct": true },
+        { "option_id": 3, "text": "दोन्ही", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "‘पाण्याची टाकी’ ही गोष्ट कशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "नैसर्गिक", "is_correct": false },
+        { "option_id": 2, "text": "मानवनिर्मित", "is_correct": true },
+        { "option_id": 3, "text": "स्वयंनिर्मित", "is_correct": false },
+        { "option_id": 4, "text": "माहीत नाही", "is_correct": false }
+      ],
+      "answer": "मानवनिर्मित"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "नकाशात कोणता घटक दाखवणे शक्य नाही?",
+      "options": [
+        { "option_id": 1, "text": "स्थिर वस्तू", "is_correct": false },
+        { "option_id": 2, "text": "हालचाल करणारे प्राणी", "is_correct": true },
+        { "option_id": 3, "text": "मोठ्या इमारती", "is_correct": false },
+        { "option_id": 4, "text": "नद्या", "is_correct": false }
+      ],
+      "answer": "हालचाल करणारे प्राणी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "नकाशामध्ये कोणता घटक दाखवता येतो?",
+      "options": [
+        { "option_id": 1, "text": "गाय", "is_correct": false },
+        { "option_id": 2, "text": "पोलीस स्टेशन", "is_correct": true },
+        { "option_id": 3, "text": "चालणारी व्यक्ती", "is_correct": false },
+        { "option_id": 4, "text": "उडणारा पक्षी", "is_correct": false }
+      ],
+      "answer": "पोलीस स्टेशन"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "आपल्या राज्यात किती जिल्ह्यांमध्ये लेणी आहेत?",
+      "options": [
+        { "option_id": 1, "text": "अनेक", "is_correct": true },
+        { "option_id": 2, "text": "फक्त एक", "is_correct": false },
+        { "option_id": 3, "text": "एकही नाही", "is_correct": false },
+        { "option_id": 4, "text": "फक्त दोन", "is_correct": false }
+      ],
+      "answer": "अनेक"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "नकाशात ‘बंदर’ हे चिन्ह कुठे दिसेल?",
+      "options": [
+        { "option_id": 1, "text": "समुद्रकिनाऱ्यालगतच्या जिल्ह्यात", "is_correct": true },
+        { "option_id": 2, "text": "डोंगरमाथ्यावर", "is_correct": false },
+        { "option_id": 3, "text": "वाळवंटात", "is_correct": false },
+        { "option_id": 4, "text": "जंगलात", "is_correct": false }
+      ],
+      "answer": "समुद्रकिनाऱ्यालगतच्या जिल्ह्यात"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "नकाशात ‘किल्ला’ कशाने दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "किल्ल्याच्या विशिष्ट चिन्हाने", "is_correct": true },
+        { "option_id": 2, "text": "खऱ्या किल्ल्याचे फोटो लावून", "is_correct": false },
+        { "option_id": 3, "text": "फक्त नावाने", "is_correct": false },
+        { "option_id": 4, "text": "लाल रंगाने", "is_correct": false }
+      ],
+      "answer": "किल्ल्याच्या विशिष्ट चिन्हाने"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "‘लोहमार्ग’ म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "रेल्वेचे रूळ", "is_correct": true },
+        { "option_id": 2, "text": "डांबरी रस्ता", "is_correct": false },
+        { "option_id": 3, "text": "हवाई मार्ग", "is_correct": false },
+        { "option_id": 4, "text": "पाण्याचा मार्ग", "is_correct": false }
+      ],
+      "answer": "रेल्वेचे रूळ"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "नकाशातील ‘नैसर्गिक घटक’ ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "शाळा", "is_correct": false },
+        { "option_id": 2, "text": "डोंगर", "is_correct": true },
+        { "option_id": 3, "text": "दवाखाना", "is_correct": false },
+        { "option_id": 4, "text": "कारखाना", "is_correct": false }
+      ],
+      "answer": "डोंगर"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "नकाशातील ‘मानवनिर्मित घटक’ ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "नदी", "is_correct": false },
+        { "option_id": 2, "text": "समुद्र", "is_correct": false },
+        { "option_id": 3, "text": "राष्ट्रीय महामार्ग", "is_correct": true },
+        { "option_id": 4, "text": "पर्वत", "is_correct": false }
+      ],
+      "answer": "राष्ट्रीय महामार्ग"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "नकाशा तयार करताना कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "विशिष्ट खुणांचा", "is_correct": true },
+        { "option_id": 2, "text": "फक्त पेन्सिलचा", "is_correct": false },
+        { "option_id": 3, "text": "फक्त पट्टीचा", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "विशिष्ट खुणांचा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "अंजूच्या शाळेचा नकाशा कशाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "आराखड्याचे", "is_correct": true },
+        { "option_id": 2, "text": "जगाच्या नकाशाचे", "is_correct": false },
+        { "option_id": 3, "text": "पृथ्वीच्या गोलाचे", "is_correct": false },
+        { "option_id": 4, "text": "देशाच्या नकाशाचे", "is_correct": false }
+      ],
+      "answer": "आराखड्याचे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "आराखडा म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "परिसराचे छोटे चित्र (खुणांसह)", "is_correct": true },
+        { "option_id": 2, "text": "खरा फोटो", "is_correct": false },
+        { "option_id": 3, "text": "व्हिडिओ", "is_correct": false },
+        { "option_id": 4, "text": "मोठे पेंटिंग", "is_correct": false }
+      ],
+      "answer": "परिसराचे छोटे चित्र (खुणांसह)"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "नकाशात खुणांचा वापर का करतात?",
+      "options": [
+        { "option_id": 1, "text": "जागा वाचवण्यासाठी आणि माहिती स्पष्ट करण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "चित्रकला दाखवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "जास्त रंग वापरण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "नकाशा अवघड करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "जागा वाचवण्यासाठी आणि माहिती स्पष्ट करण्यासाठी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "नकाशामध्ये दिशा कशासाठी दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "ठिकाणांचे नेमके स्थान समजण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "नकाशा सुंदर दिसण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "रिकामी जागा भरण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त वाचनासाठी", "is_correct": false }
+      ],
+      "answer": "ठिकाणांचे नेमके स्थान समजण्यासाठी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "नकाशातील शीर्षक म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "नकाशाचे नाव", "is_correct": true },
+        { "option_id": 2, "text": "नकाशाचा आकार", "is_correct": false },
+        { "option_id": 3, "text": "नकाशाची किंमत", "is_correct": false },
+        { "option_id": 4, "text": "नकाशाचा रंग", "is_correct": false }
+      ],
+      "answer": "नकाशाचे नाव"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "नकाशात कोणता रस्ता दाखवता येतो?",
+      "options": [
+        { "option_id": 1, "text": "महामार्ग", "is_correct": true },
+        { "option_id": 2, "text": "घरातील रस्ता", "is_correct": false },
+        { "option_id": 3, "text": "स्वप्नातील रस्ता", "is_correct": false },
+        { "option_id": 4, "text": "आकाशातील रस्ता", "is_correct": false }
+      ],
+      "answer": "महामार्ग"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "जिल्हा मुख्यालय कशाने दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "विशिष्ट चिन्हाने", "is_correct": true },
+        { "option_id": 2, "text": "फोटोने", "is_correct": false },
+        { "option_id": 3, "text": "व्हिडिओने", "is_correct": false },
+        { "option_id": 4, "text": "आवाजाने", "is_correct": false }
+      ],
+      "answer": "विशिष्ट चिन्हाने"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "नकाशात लेणी कशासाठी दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "पर्यटनासाठी", "is_correct": true },
+        { "option_id": 2, "text": "राहण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "शेतीसाठी", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पर्यटनासाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कोणता घटक नकाशात दाखवता येतो?",
+      "options": [
+        { "option_id": 1, "text": "स्थिर घटक", "is_correct": true },
+        { "option_id": 2, "text": "हलणारे घटक", "is_correct": false },
+        { "option_id": 3, "text": "सजीव प्राणी", "is_correct": false },
+        { "option_id": 4, "text": "वाहतूक करणारी वाहने", "is_correct": false }
+      ],
+      "answer": "स्थिर घटक"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "निसर्गनिर्मित गोष्टी म्हणजे काय?",
+      "answer": "ज्या गोष्टी निसर्गात आपोआप तयार झालेल्या असतात, त्यांना निसर्गनिर्मित गोष्टी म्हणतात (उदा. नदी, डोंगर, झाड)."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "मानवनिर्मित गोष्टी म्हणजे काय?",
+      "answer": "माणसाने स्वतः तयार केलेल्या गोष्टींना मानवनिर्मित गोष्टी म्हणतात (उदा. घर, शाळा, रस्ता)."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मानवनिर्मित गोष्टी कशापासून तयार होतात?",
+      "answer": "मानवनिर्मित गोष्टी निसर्गातून मिळणाऱ्या नैसर्गिक साधनांचा वापर करून तयार होतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "नकाशामध्ये प्राणी, पक्षी आणि माणसे का दाखवली जात नाहीत?",
+      "answer": "कारण प्राणी, पक्षी आणि माणसे एका ठिकाणाहून दुसऱ्या ठिकाणी सतत हालचाल करत असतात, ते एका जागी स्थिर नसतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "नकाशात रस्ते आणि नद्या कशा दाखवतात?",
+      "answer": "नकाशात रस्ते आणि नद्या परिसरात ज्याप्रमाणे वळणे घेत जातात, तशाच प्रकारे नकाशातही दाखवतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "नकाशात खुणांचा वापर का करतात?",
+      "answer": "नकाशात प्रत्यक्ष वस्तू (जसे घरे, झाडे) दाखवणे शक्य नसते, म्हणून त्याऐवजी विशिष्ट खुणांचा वापर करतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "आराखडा म्हणजे काय?",
+      "answer": "एखाद्या परिसराचे विशिष्ट खुणा वापरून काढलेले छोटे चित्र म्हणजे आराखडा होय."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "आराखड्याचे नकाशात रूपांतर करण्यासाठी कोणते घटक आवश्यक असतात?",
+      "answer": "आराखड्याचे नकाशात रूपांतर करण्यासाठी दिशा, सूची, शीर्षक आणि प्रमाण हे घटक आवश्यक असतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "प्राचीन काळी नकाशे तयार करण्यासाठी कशाचा वापर केला जात असे?",
+      "answer": "प्राचीन काळी नकाशे तयार करण्यासाठी प्राण्यांची कातडी, हाडे, कवड्या आणि मातीची किंवा दगडाची पाटी यांचा वापर केला जात असे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "मेसोपोटेमियाची 'मातीची पाटी' (Clay Tablet) कशाचे उदाहरण आहे?",
+      "answer": "मेसोपोटेमियाची 'मातीची पाटी' ही प्राचीन काळातील नकाशाचे एक उदाहरण आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "सूची म्हणजे काय?",
+      "answer": "नकाशात वापरलेल्या खुणा आणि त्यांचा अर्थ सांगणारी यादी म्हणजे सूची होय."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "नकाशात नैसर्गिक घटक कोणते असतात?",
+      "answer": "डोंगर, नदी, समुद्र, झाडे, गरम पाण्याचे झरे हे नकाशातील नैसर्गिक घटक आहेत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "नकाशात मानवनिर्मित घटक कोणते असतात?",
+      "answer": "रस्ते, लोहमार्ग, घरे, शाळा, पोलीस स्टेशन, टपाल कार्यालय हे नकाशातील मानवनिर्मित घटक आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "नकाशात बंदर कशासाठी दाखवतात?",
+      "answer": "नकाशात बंदर दाखवल्याने जलवाहतुकीचे केंद्र समजते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "नकाशात गरम पाण्याचे झरे का दाखवले जातात?",
+      "answer": "ते एक पर्यटन स्थळ आणि नैसर्गिक वैशिष्ट्य असल्याने नकाशात दाखवले जातात (उदा. वज्रेश्वरी)."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "नकाशात लेणी कोठे असतात?",
+      "answer": "नकाशात लेणी डोंगररांगांमध्ये किंवा ऐतिहासिक महत्त्व असलेल्या जिल्ह्यांमध्ये दाखवलेली असतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "नकाशात किल्ल्यांचे प्रकार कोणते दाखवले जातात?",
+      "answer": "नकाशात जलदुर्ग (सागरी किल्ला), गिरिदुर्ग (डोंगरी किल्ला) आणि भुईकोट (मैदानी किल्ला) हे प्रकार दाखवले जातात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "नकाशात राष्ट्रीय महामार्ग कसा ओळखाल?",
+      "answer": "नकाशात सूचीमध्ये दिलेल्या विशिष्ट रेषेवरून किंवा चिन्हावरून राष्ट्रीय महामार्ग ओळखता येतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "लोहमार्ग म्हणजे काय?",
+      "answer": "लोहमार्ग म्हणजे रेल्वेगाडी धावण्यासाठी तयार केलेला रूळांचा मार्ग."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "नकाशात विमान वाहतूक केंद्रे का दाखवतात?",
+      "answer": "विमान प्रवासाची सोय असलेल्या शहरांची माहिती मिळण्यासाठी विमान वाहतूक केंद्रे दाखवतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "नकाशातील शीर्षक काय दर्शवते?",
+      "answer": "नकाशातील शीर्षक तो नकाशा कोणत्या परिसराचा, जिल्ह्याचा किंवा राज्याचा आहे हे दर्शवते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "नकाशात दिशा चक्राचा उपयोग काय?",
+      "answer": "नकाशातील ठिकाणांची दिशा समजण्यासाठी दिशा चक्राचा उपयोग होतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "आपल्या परिसरात नैसर्गिक आणि मानवनिर्मित दोन्ही गोष्टी असतात का?",
+      "answer": "हो, आपल्या परिसरात नैसर्गिक (उदा. झाडे, डोंगर) आणि मानवनिर्मित (उदा. घरे, रस्ते) अशा दोन्ही गोष्टी असतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "नकाशा तयार करताना कोणत्या घटकांचा समावेश केला जातो?",
+      "answer": "नकाशा तयार करताना फक्त स्थिर घटकांचा समावेश केला जातो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "मानवनिर्मित गोष्टी कशासाठी तयार केल्या जातात?",
+      "answer": "मानवनिर्मित गोष्टी माणसाच्या गरजा पूर्ण करण्यासाठी आणि जीवन सोयीस्कर करण्यासाठी तयार केल्या जातात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "झाडाचे लाकूड ही नैसर्गिक साधनसंपत्ती कशासाठी वापरली जाते?",
+      "answer": "झाडाचे लाकूड फर्निचर (खुर्ची, टेबल), घरे इत्यादी मानवनिर्मित वस्तू बनवण्यासाठी वापरले जाते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "नकाशात 'जिल्हा मुख्यालय' का दाखवतात?",
+      "answer": "जिल्ह्याचा कारभार ज्या मुख्य शहरातून चालतो ते ठिकाण समजण्यासाठी जिल्हा मुख्यालय दाखवतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "अंजूच्या शाळेचा नकाशा कशासाठी वापरला जातो?",
+      "answer": "अंजूच्या घरापासून शाळेपर्यंतचा रस्ता आणि परिसरातील ठिकाणे समजून घेण्यासाठी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "नकाशात प्रमाण का दिले जाते?",
+      "answer": "नकाशातील दोन ठिकाणांमधील अंतरावरून जमिनीवरील प्रत्यक्ष अंतराचा अंदाज यावा म्हणून प्रमाण दिले जाते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "कोणता नकाशा पूर्ण आहे हे कसे ठरवावे?",
+      "answer": "ज्या नकाशामध्ये दिशा, सूची, शीर्षक आणि प्रमाण हे सर्व घटक असतात, तो नकाशा पूर्ण आहे असे म्हणता येते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "अपूर्ण नकाशा कशाला म्हणतात?",
+      "answer": "ज्या नकाशामध्ये दिशा, सूची किंवा इतर आवश्यक माहितीचा अभाव असतो, त्याला अपूर्ण नकाशा म्हणतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "नकाशात कोणत्या गोष्टी दाखवता येत नाहीत?",
+      "answer": "नकाशात उडणारे पक्षी, चालणारी माणसे, वाहने यांसारख्या हालचाल करणाऱ्या गोष्टी दाखवता येत नाहीत."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "परिसरातील घटकांचे वर्गीकरण कसे करता येईल?",
+      "answer": "परिसरातील घटकांचे नैसर्गिक आणि मानवनिर्मित अशा दोन गटांत वर्गीकरण करता येईल."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "नकाशात प्रमुख स्थानके (Major Stations) म्हणजे काय?",
+      "answer": "नकाशात रेल्वे किंवा बसची महत्त्वाची थांबण्याची ठिकाणे म्हणजे प्रमुख स्थानके होय."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "नकाशातील चिन्हे कशासाठी उपयुक्त असतात?",
+      "answer": "नकाशातील चिन्हे नकाशा वाचताना कमी जागेत जास्त माहिती समजण्यासाठी उपयुक्त असतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "जेकबला नकाशात कोणत्या गोष्टी दाखवायच्या आहेत?",
+      "answer": "जेकबला नकाशात घर, रस्ता, शाळा, पोलीस स्टेशन यांसारख्या स्थिर गोष्टी दाखवायच्या आहेत."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "जेकब नकाशात कोणत्या गोष्टी दाखवणार नाही?",
+      "answer": "जेकब नकाशात उडणारा कावळा, माणसे, वाहने यांसारख्या हालचाल करणाऱ्या गोष्टी दाखवणार नाही."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "आपल्या राज्यात गरम पाण्याचे झरे कोठे आहेत?",
+      "answer": "आपल्या राज्यात वज्रेश्वरी, उन्हवरे यांसारख्या ठिकाणी गरम पाण्याचे झरे आहेत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "आपल्या राज्यात लेणी कोठे आहेत?",
+      "answer": "आपल्या राज्यात अजिंठा, वेरूळ, घारापुरी, कार्ला यांसारख्या अनेक ठिकाणी लेणी आहेत."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "आपल्या राज्यात किल्ले कोठे आढळतात?",
+      "answer": "आपल्या राज्यात रायगड, प्रतापगड, सिंधुदुर्ग यांसारख्या अनेक जिल्ह्यांमध्ये किल्ले आढळतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "नकाशातील सूचीचा वापर करून काय करता येते?",
+      "answer": "सूचीचा वापर करून नकाशातील विविध खुणा आणि चिन्हे यांचा अर्थ समजून नकाशा वाचन करता येते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "मानवनिर्मित गोष्टींसाठी साधने कोठून उपलब्ध होतात?",
+      "answer": "मानवनिर्मित गोष्टींसाठी साधने निसर्गातून (परिसरातून) उपलब्ध होतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "नकाशात 'उत्तर' दिशा कोणत्या बाजूला असते?",
+      "answer": "नकाशात 'उत्तर' दिशा नेहमी वरच्या बाजूला असते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "नकाशात 'दक्षिण' दिशा कोणत्या बाजूला असते?",
+      "answer": "नकाशात 'दक्षिण' दिशा नेहमी खालच्या बाजूला असते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "नकाशात 'पूर्व' दिशा कोणत्या बाजूला असते?",
+      "answer": "नकाशात 'पूर्व' दिशा उजव्या बाजूला असते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "नकाशात 'पश्चिम' दिशा कोणत्या बाजूला असते?",
+      "answer": "नकाशात 'पश्चिम' दिशा डाव्या बाजूला असते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पर्यटन नकाशाचा उपयोग काय?",
+      "answer": "पर्यटन नकाशाचा उपयोग पर्यटकांना प्रेक्षणीय स्थळे, रस्ते आणि अंतराची माहिती मिळवण्यासाठी होतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "वाहतूक नकाशाचा उपयोग काय?",
+      "answer": "वाहतूक नकाशाचा उपयोग रस्ते, लोहमार्ग आणि विमानतळ यांची माहिती मिळवण्यासाठी होतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक आपत्ती नकाशात कशा दाखवतात?",
+      "answer": "नैसर्गिक आपत्ती (उदा. पूरप्रवण क्षेत्र) नकाशात विशिष्ट रंगाने किंवा खुणेने दाखवतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "नकाशात 'प्रमाण' का महत्त्वाचे असते?",
+      "answer": "नकाशात 'प्रमाण' महत्त्वाचे असते कारण त्यामुळे नकाशावरील अंतराचे जमिनीवरील खऱ्या अंतराशी नाते समजते."
+    }
+  ]
+}

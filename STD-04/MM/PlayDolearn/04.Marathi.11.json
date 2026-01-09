@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.KheluKaruShiku.11",
+    "standard": "4",
+    "subject": "खेळू, करू, शिकू (कला शिक्षण)",
+    "medium": "Marathi",
+    "chapter_name": "चित्र (चित्रकला)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "रेखांकन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "रंग भरणे", "is_correct": false },
+        { "option_id": 2, "text": "रेषा काढणे", "is_correct": true },
+        { "option_id": 3, "text": "कागद फाडणे", "is_correct": false },
+        { "option_id": 4, "text": "गाणे गाणे", "is_correct": false }
+      ],
+      "answer": "रेषा काढणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "रेषा एकमेकांना जोडल्यावर काय तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "आकार", "is_correct": true },
+        { "option_id": 2, "text": "रंग", "is_correct": false },
+        { "option_id": 3, "text": "बिंदू", "is_correct": false },
+        { "option_id": 4, "text": "पेन्सिल", "is_correct": false }
+      ],
+      "answer": "आकार"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "उभी, आडवी, तिरपी हे कशाचे प्रकार आहेत?",
+      "options": [
+        { "option_id": 1, "text": "रंगांचे", "is_correct": false },
+        { "option_id": 2, "text": "रेषांचे", "is_correct": true },
+        { "option_id": 3, "text": "कागदांचे", "is_correct": false },
+        { "option_id": 4, "text": "खडूंचे", "is_correct": false }
+      ],
+      "answer": "रेषांचे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "डोंगरासारख्या दिसणाऱ्या रेषेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सरळ रेषा", "is_correct": false },
+        { "option_id": 2, "text": "नागमोडी / झिगझॅग रेषा", "is_correct": true },
+        { "option_id": 3, "text": "वर्तुळाकार रेषा", "is_correct": false },
+        { "option_id": 4, "text": "गुंतागुंतीची रेषा", "is_correct": false }
+      ],
+      "answer": "नागमोडी / झिगझॅग रेषा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "स्मरणचित्र म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "बघून काढलेले चित्र", "is_correct": false },
+        { "option_id": 2, "text": "आठवून काढलेले चित्र", "is_correct": true },
+        { "option_id": 3, "text": "छापलेले चित्र", "is_correct": false },
+        { "option_id": 4, "text": "फाडलेले चित्र", "is_correct": false }
+      ],
+      "answer": "आठवून काढलेले चित्र"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "वारली चित्रकला कशाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "लोककलेचे", "is_correct": true },
+        { "option_id": 2, "text": "शिल्पकलेचे", "is_correct": false },
+        { "option_id": 3, "text": "संगीतकलेचे", "is_correct": false },
+        { "option_id": 4, "text": "नृत्यकलेचे", "is_correct": false }
+      ],
+      "answer": "लोककलेचे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कल्पनेने काढलेल्या चित्राला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "स्मरणचित्र", "is_correct": false },
+        { "option_id": 2, "text": "कल्पनाचित्र", "is_correct": true },
+        { "option_id": 3, "text": "संकल्पचित्र", "is_correct": false },
+        { "option_id": 4, "text": "वस्तुचित्र", "is_correct": false }
+      ],
+      "answer": "कल्पनाचित्र"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'चंद्रावरची सफर' हा विषय कोणत्या प्रकारच्या चित्रासाठी योग्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "कल्पनाचित्र", "is_correct": true },
+        { "option_id": 2, "text": "वस्तुचित्र", "is_correct": false },
+        { "option_id": 3, "text": "निसर्गचित्र", "is_correct": false },
+        { "option_id": 4, "text": "व्यक्तिचित्र", "is_correct": false }
+      ],
+      "answer": "कल्पनाचित्र"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "संकल्पचित्रात (नक्षीकाम) कशाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ शब्दांचा", "is_correct": false },
+        { "option_id": 2, "text": "भौमितिक आकार व रेषांचा", "is_correct": true },
+        { "option_id": 3, "text": "केवळ प्राण्यांचा", "is_correct": false },
+        { "option_id": 4, "text": "केवळ माणसांचा", "is_correct": false }
+      ],
+      "answer": "भौमितिक आकार व रेषांचा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मुद्राचित्र म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पेन्सिल चित्र", "is_correct": false },
+        { "option_id": 2, "text": "ठसेकाम", "is_correct": true },
+        { "option_id": 3, "text": "रंगकाम", "is_correct": false },
+        { "option_id": 4, "text": "कागदकाम", "is_correct": false }
+      ],
+      "answer": "ठसेकाम"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ठसेकामासाठी हाताला कोणता रंग लावावा?",
+      "options": [
+        { "option_id": 1, "text": "जलरंग (Water Colour)", "is_correct": true },
+        { "option_id": 2, "text": "ऑईल पेंट", "is_correct": false },
+        { "option_id": 3, "text": "पेन्सिल रंग", "is_correct": false },
+        { "option_id": 4, "text": "खडू", "is_correct": false }
+      ],
+      "answer": "जलरंग (Water Colour)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "हातांच्या ठशांपासून कोणते चित्र बनवता येते?",
+      "options": [
+        { "option_id": 1, "text": "फुलपाखरू", "is_correct": true },
+        { "option_id": 2, "text": "इमारत", "is_correct": false },
+        { "option_id": 3, "text": "टेबल", "is_correct": false },
+        { "option_id": 4, "text": "पेन", "is_correct": false }
+      ],
+      "answer": "फुलपाखरू"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "चुरगळलेल्या कागदाचा वापर कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "लिहिण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "ठसेकामासाठी (टेक्सचर)", "is_correct": true },
+        { "option_id": 3, "text": "खाण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "वाचण्यासाठी", "is_correct": false }
+      ],
+      "answer": "ठसेकामासाठी (टेक्सचर)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "चिकटचित्र (कोलाज) करण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "रंगीत कागद, कात्री, डिंक", "is_correct": true },
+        { "option_id": 2, "text": "माती", "is_correct": false },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "रंगीत कागद, कात्री, डिंक"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "समअंगी चिकटचित्र म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "वेगवेगळे आकार चिकटवणे", "is_correct": false },
+        { "option_id": 2, "text": "एकाच रंगाचे चित्र", "is_correct": false },
+        { "option_id": 3, "text": "एकसारखे (Symmetrical) आकार कापून चिकटवणे", "is_correct": true },
+        { "option_id": 4, "text": "फाटलेले चित्र", "is_correct": false }
+      ],
+      "answer": "एकसारखे (Symmetrical) आकार कापून चिकटवणे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते रंगाचे माध्यम आहे?",
+      "options": [
+        { "option_id": 1, "text": "कात्री", "is_correct": false },
+        { "option_id": 2, "text": "ऑईल पेस्टल (तेलखडू)", "is_correct": true },
+        { "option_id": 3, "text": "मोजपट्टी", "is_correct": false },
+        { "option_id": 4, "text": "रबर", "is_correct": false }
+      ],
+      "answer": "ऑईल पेस्टल (तेलखडू)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "नैसर्गिक रंग कशापासून मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "कारखान्यातून", "is_correct": false },
+        { "option_id": 2, "text": "फुले, पाने, फळे, माती यांपासून", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिकपासून", "is_correct": false },
+        { "option_id": 4, "text": "काचेपासून", "is_correct": false }
+      ],
+      "answer": "फुले, पाने, फळे, माती यांपासून"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पिवळा रंग कोणत्या नैसर्गिक घटकापासून मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "गुलाब", "is_correct": false },
+        { "option_id": 2, "text": "हळद / झेंडू", "is_correct": true },
+        { "option_id": 3, "text": "कोळसा", "is_correct": false },
+        { "option_id": 4, "text": "बीट", "is_correct": false }
+      ],
+      "answer": "हळद / झेंडू"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "हिरवा रंग मिळवण्यासाठी काय वापरता येते?",
+      "options": [
+        { "option_id": 1, "text": "झाडांची पाने", "is_correct": true },
+        { "option_id": 2, "text": "माती", "is_correct": false },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "राख", "is_correct": false }
+      ],
+      "answer": "झाडांची पाने"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "बीटपासून कोणता नैसर्गिक रंग मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "पिवळा", "is_correct": false },
+        { "option_id": 2, "text": "गडद गुलाबी / लाल", "is_correct": true },
+        { "option_id": 3, "text": "काळा", "is_correct": false },
+        { "option_id": 4, "text": "पांढरा", "is_correct": false }
+      ],
+      "answer": "गडद गुलाबी / लाल"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "राखेपासून कोणता रंग तयार होतो?",
+      "options": [
+        { "option_id": 1, "text": "लाल", "is_correct": false },
+        { "option_id": 2, "text": "राखाडी (Grey)", "is_correct": true },
+        { "option_id": 3, "text": "हिरवा", "is_correct": false },
+        { "option_id": 4, "text": "निळा", "is_correct": false }
+      ],
+      "answer": "राखाडी (Grey)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "काळा रंग कशापासून मिळवता येतो?",
+      "options": [
+        { "option_id": 1, "text": "चुना", "is_correct": false },
+        { "option_id": 2, "text": "कोळसा", "is_correct": true },
+        { "option_id": 3, "text": "हळद", "is_correct": false },
+        { "option_id": 4, "text": "कुंकू", "is_correct": false }
+      ],
+      "answer": "कोळसा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "पांढरा रंग कशापासून मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "चुना किंवा तांदळाची पेस्ट", "is_correct": true },
+        { "option_id": 2, "text": "विटकर", "is_correct": false },
+        { "option_id": 3, "text": "राख", "is_correct": false },
+        { "option_id": 4, "text": "पाने", "is_correct": false }
+      ],
+      "answer": "चुना किंवा तांदळाची पेस्ट"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "नीळ फुलांपासून कोणता रंग मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "निळा", "is_correct": true },
+        { "option_id": 2, "text": "लाल", "is_correct": false },
+        { "option_id": 3, "text": "पिवळा", "is_correct": false },
+        { "option_id": 4, "text": "केशरी", "is_correct": false }
+      ],
+      "answer": "निळा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "'ठिपक्यांची मजा' या उपक्रमात काय काढायचे असते?",
+      "options": [
+        { "option_id": 1, "text": "रेषा", "is_correct": false },
+        { "option_id": 2, "text": "लहान-मोठे ठिपके", "is_correct": true },
+        { "option_id": 3, "text": "अक्षरे", "is_correct": false },
+        { "option_id": 4, "text": "संख्या", "is_correct": false }
+      ],
+      "answer": "लहान-मोठे ठिपके"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "चित्राला आकर्षक करण्यासाठी आउटलाईन (Border) कशाने करावी?",
+      "options": [
+        { "option_id": 1, "text": "काळ्या स्केचपेनने", "is_correct": true },
+        { "option_id": 2, "text": "पांढऱ्या रंगाने", "is_correct": false },
+        { "option_id": 3, "text": "पाण्याने", "is_correct": false },
+        { "option_id": 4, "text": "कागदाने", "is_correct": false }
+      ],
+      "answer": "काळ्या स्केचपेनने"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "चॉकलेटी रंग कशापासून मिळवता येतो?",
+      "options": [
+        { "option_id": 1, "text": "वीट / विटकर", "is_correct": true },
+        { "option_id": 2, "text": "हळद", "is_correct": false },
+        { "option_id": 3, "text": "पान", "is_correct": false },
+        { "option_id": 4, "text": "चुना", "is_correct": false }
+      ],
+      "answer": "वीट / विटकर"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कोणत्या रेषेमुळे आकार तयार होतो?",
+      "options": [
+        { "option_id": 1, "text": "एकमेकांना जोडलेल्या रेषांमुळे", "is_correct": true },
+        { "option_id": 2, "text": "फक्त एका रेषेमुळे", "is_correct": false },
+        { "option_id": 3, "text": "तुटलेल्या रेषेमुळे", "is_correct": false },
+        { "option_id": 4, "text": "न दिसणाऱ्या रेषेमुळे", "is_correct": false }
+      ],
+      "answer": "एकमेकांना जोडलेल्या रेषांमुळे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "ओल्या मातीवर रेषा काढण्यासाठी काय वापरता येते?",
+      "options": [
+        { "option_id": 1, "text": "काडी किंवा रिकामी रीफिल", "is_correct": true },
+        { "option_id": 2, "text": "कागद", "is_correct": false },
+        { "option_id": 3, "text": "कापड", "is_correct": false },
+        { "option_id": 4, "text": "रबर", "is_correct": false }
+      ],
+      "answer": "काडी किंवा रिकामी रीफिल"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "होळीसाठी कोणते रंग वापरणे सुरक्षित असते?",
+      "options": [
+        { "option_id": 1, "text": "रासायनिक", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिक", "is_correct": true },
+        { "option_id": 3, "text": "पक्के", "is_correct": false },
+        { "option_id": 4, "text": "तेलकट", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "चिकटकामात कागदाऐवजी काय वापरता येते?",
+      "options": [
+        { "option_id": 1, "text": "कापडाचे तुकडे", "is_correct": true },
+        { "option_id": 2, "text": "लोखंड", "is_correct": false },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "कापडाचे तुकडे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कोणता आकार भौमितिक आहे?",
+      "options": [
+        { "option_id": 1, "text": "त्रिकोण", "is_correct": true },
+        { "option_id": 2, "text": "पान", "is_correct": false },
+        { "option_id": 3, "text": "फूल", "is_correct": false },
+        { "option_id": 4, "text": "झाड", "is_correct": false }
+      ],
+      "answer": "त्रिकोण"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "पोकळ ठिपका म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "आत रंग नसलेला (फक्त कडा असलेला)", "is_correct": true },
+        { "option_id": 2, "text": "पूर्ण भरलेला", "is_correct": false },
+        { "option_id": 3, "text": "चौकोनी", "is_correct": false },
+        { "option_id": 4, "text": "त्रिकोणी", "is_correct": false }
+      ],
+      "answer": "आत रंग नसलेला (फक्त कडा असलेला)"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "चित्रात रंग भरण्यासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "कात्री", "is_correct": false },
+        { "option_id": 2, "text": "रंगीत खडू / पेन्सिल", "is_correct": true },
+        { "option_id": 3, "text": "डिंक", "is_correct": false },
+        { "option_id": 4, "text": "पट्टी", "is_correct": false }
+      ],
+      "answer": "रंगीत खडू / पेन्सिल"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "अमावास्येला चंद्र दिसतो का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "अर्धा दिसतो", "is_correct": false },
+        { "option_id": 4, "text": "लाल दिसतो", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "पौर्णिमेला चंद्र कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "पूर्ण गोल", "is_correct": true },
+        { "option_id": 2, "text": "कोर", "is_correct": false },
+        { "option_id": 3, "text": "चौकोनी", "is_correct": false },
+        { "option_id": 4, "text": "त्रिकोणी", "is_correct": false }
+      ],
+      "answer": "पूर्ण गोल"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "वर्तुळाकार रेषेपासून काय काढता येते?",
+      "options": [
+        { "option_id": 1, "text": "चेंडू, सूर्य", "is_correct": true },
+        { "option_id": 2, "text": "घर", "is_correct": false },
+        { "option_id": 3, "text": "बॅट", "is_correct": false },
+        { "option_id": 4, "text": "पेटी", "is_correct": false }
+      ],
+      "answer": "चेंडू, सूर्य"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "नक्षीकामात काय महत्त्वाचे असते?",
+      "options": [
+        { "option_id": 1, "text": "आकारांची योग्य मांडणी (Design)", "is_correct": true },
+        { "option_id": 2, "text": "फक्त रंग", "is_correct": false },
+        { "option_id": 3, "text": "कागदाचा आकार", "is_correct": false },
+        { "option_id": 4, "text": "वेळ", "is_correct": false }
+      ],
+      "answer": "आकारांची योग्य मांडणी (Design)"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "चुरगळलेला कागद रंगात बुडवून काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "फेकून देतात", "is_correct": false },
+        { "option_id": 2, "text": "ठसा घेतात", "is_correct": true },
+        { "option_id": 3, "text": "खातात", "is_correct": false },
+        { "option_id": 4, "text": "जाळतात", "is_correct": false }
+      ],
+      "answer": "ठसा घेतात"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "चित्रकलेमुळे कशाचा आनंद मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "नवनिर्मितीचा (काहीतरी नवीन बनवल्याचा)", "is_correct": true },
+        { "option_id": 2, "text": "कंटाळ्याचा", "is_correct": false },
+        { "option_id": 3, "text": "रागाचा", "is_correct": false },
+        { "option_id": 4, "text": "भीतीचा", "is_correct": false }
+      ],
+      "answer": "नवनिर्मितीचा (काहीतरी नवीन बनवल्याचा)"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "गुंतागुंतीची रेषा कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "सरळ", "is_correct": false },
+        { "option_id": 2, "text": "एकमेकांत गुंतलेली", "is_correct": true },
+        { "option_id": 3, "text": "गोल", "is_correct": false },
+        { "option_id": 4, "text": "त्रिकोणी", "is_correct": false }
+      ],
+      "answer": "एकमेकांत गुंतलेली"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "आकार सुबक असल्यास चित्र कसे दिसते?",
+      "options": [
+        { "option_id": 1, "text": "खराब", "is_correct": false },
+        { "option_id": 2, "text": "छान आणि आकर्षक", "is_correct": true },
+        { "option_id": 3, "text": "विचित्र", "is_correct": false },
+        { "option_id": 4, "text": "भयानक", "is_correct": false }
+      ],
+      "answer": "छान आणि आकर्षक"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "ठसेकामात रंगाचा थर कसा असावा?",
+      "options": [
+        { "option_id": 1, "text": "खूप जाड", "is_correct": false },
+        { "option_id": 2, "text": "समान आणि योग्य", "is_correct": true },
+        { "option_id": 3, "text": "अजिबात नसावा", "is_correct": false },
+        { "option_id": 4, "text": "खूप पातळ (पाण्यासारखा)", "is_correct": false }
+      ],
+      "answer": "समान आणि योग्य"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "समअंगी चिकटचित्रात आकार कसे असतात?",
+      "options": [
+        { "option_id": 1, "text": "वेगवेगळे", "is_correct": false },
+        { "option_id": 2, "text": "एकसारखे", "is_correct": true },
+        { "option_id": 3, "text": "लहान-मोठे", "is_correct": false },
+        { "option_id": 4, "text": "वाकडे", "is_correct": false }
+      ],
+      "answer": "एकसारखे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कल्पनाचित्रात काय महत्त्वाचे असते?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःची कल्पना", "is_correct": true },
+        { "option_id": 2, "text": "दुसऱ्याचे चित्र", "is_correct": false },
+        { "option_id": 3, "text": "फोटो", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तक", "is_correct": false }
+      ],
+      "answer": "स्वतःची कल्पना"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "निसर्गचित्रात कशाचे चित्र असते?",
+      "options": [
+        { "option_id": 1, "text": "निसर्गाचे (डोंगर, नदी, झाडे)", "is_correct": true },
+        { "option_id": 2, "text": "फक्त माणसाचे", "is_correct": false },
+        { "option_id": 3, "text": "फक्त गाडीचे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त घराचे", "is_correct": false }
+      ],
+      "answer": "निसर्गाचे (डोंगर, नदी, झाडे)"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "डिंक लावताना काय काळजी घ्यावी?",
+      "options": [
+        { "option_id": 1, "text": "जास्त लावावा", "is_correct": false },
+        { "option_id": 2, "text": "योग्य प्रमाणात लावावा व कागद खराब होणार नाही हे पहावे", "is_correct": true },
+        { "option_id": 3, "text": "लावायचाच नाही", "is_correct": false },
+        { "option_id": 4, "text": "कपड्याला पुसावा", "is_correct": false }
+      ],
+      "answer": "योग्य प्रमाणात लावावा व कागद खराब होणार नाही हे पहावे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "चित्र काढल्यावर काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "रंगवावे", "is_correct": true },
+        { "option_id": 2, "text": "फाडावे", "is_correct": false },
+        { "option_id": 3, "text": "लपवावे", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "रंगवावे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "लाल रंग कशापासून मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "कुंकू / पलाश फुले", "is_correct": true },
+        { "option_id": 2, "text": "हळद", "is_correct": false },
+        { "option_id": 3, "text": "राख", "is_correct": false },
+        { "option_id": 4, "text": "नीळ", "is_correct": false }
+      ],
+      "answer": "कुंकू / पलाश फुले"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "केशरी रंग कोणत्या फुलापासून मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "पळस (केशरी फुले)", "is_correct": true },
+        { "option_id": 2, "text": "मोगरा", "is_correct": false },
+        { "option_id": 3, "text": "जास्वंद", "is_correct": false },
+        { "option_id": 4, "text": "सदाफुली", "is_correct": false }
+      ],
+      "answer": "पळस (केशरी फुले)"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "रेखांकन म्हणजे काय?",
+      "answer": "रेखांकन म्हणजे रेषा काढणे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "रेषांचे चार प्रकार सांगा.",
+      "answer": "उभी रेषा, आडवी रेषा, तिरपी रेषा, नागमोडी रेषा."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "आकार कसा तयार होतो?",
+      "answer": "वेगवेगळ्या रेषा एकमेकांना जोडल्या की आकार तयार होतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "स्मरणचित्र म्हणजे काय?",
+      "answer": "आपल्या पाहण्यातील वस्तू, प्रसंग आठवून काढलेले चित्र."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "स्मरणचित्रासाठी दोन विषय सुचवा.",
+      "answer": "माझे घर, आवडता पक्षी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कल्पनाचित्र म्हणजे काय?",
+      "answer": "एखाद्या विषयावर स्वतःच्या कल्पनेने विचार करून काढलेले चित्र."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कल्पनाचित्रासाठी 'चंद्र' विषयावर काय काढता येईल?",
+      "answer": "चंद्राची होडी, चंद्राला पाय फुटले, चांदोबाची टोपी."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "संकल्पचित्र (Design) कशापासून बनवता येते?",
+      "answer": "भौमितिक आकार (त्रिकोण, चौकोन, गोल) आणि रेषांपासून."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मुद्राचित्र कसे तयार करतात?",
+      "answer": "हाताला किंवा वस्तूंना रंग लावून कागदावर त्यांचे ठसे उमटवून."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ठसेकामासाठी कोणते रंग वापरावेत?",
+      "answer": "जलरंग (Water Colour) किंवा पोस्टर कलर्स."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "हातांच्या ठशांपासून कोणते आकार बनवता येतात?",
+      "answer": "फुलपाखरू, पक्षी, प्राणी, झाड."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "चुरगळलेल्या कागदाचा वापर चित्रात कशासाठी होतो?",
+      "answer": "चित्राला वेगळा पोत (Texture) देण्यासाठी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "चिकटचित्र (कोलाज) साठी काय साहित्य लागते?",
+      "answer": "रंगीत कागद, कात्री, डिंक, कोरा कागद."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "समअंगी चिकटचित्र कसे करतात?",
+      "answer": "कागदाची घडी घालून एकसारखे आकार कापून ते ठराविक रचनेत चिकटवतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "रंगांची माध्यमे कोणती?",
+      "answer": "खडू (Crayons), तेलखडू (Oil Pastels), पेन्सिल रंग, स्केचपेन, जलरंग."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक रंग म्हणजे काय?",
+      "answer": "निसर्गातील फुले, पाने, फळे, माती यांपासून बनवलेले रंग."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पिवळा रंग कोणत्या नैसर्गिक गोष्टीपासून मिळतो?",
+      "answer": "हळद, झेंडूची फुले."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "हिरवा रंग कसा मिळवता येईल?",
+      "answer": "झाडांच्या पानांचा रस काढून."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "लाल रंग कशापासून तयार होतो?",
+      "answer": "कुंकू, बीट, लाल फुले."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "काळा रंग कशापासून मिळतो?",
+      "answer": "कोळसा किंवा जाळलेले लाकूड."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "पांढरा रंग कशापासून बनवता येतो?",
+      "answer": "चुना, तांदळाची पेस्ट."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "राखाडी (Grey) रंग कशापासून मिळतो?",
+      "answer": "राखेपासून."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "चॉकलेटी रंग कशाचा असतो?",
+      "answer": "विटेचा किंवा विटकरीचा."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "निळा रंग कोणत्या स्रोतापासून मिळतो?",
+      "answer": "नीळ किंवा निळ्या रंगाची फुले."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक रंगांचा वापर केव्हा करावा?",
+      "answer": "चित्र रंगवण्यासाठी आणि होळी खेळताना."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "वारली चित्रकला काय आहे?",
+      "answer": "वारली चित्रकला ही महाराष्ट्रातील एक आदिवासी लोककला आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "चित्रात 'आकार' कसा असावा?",
+      "answer": "चित्रात आकार सुबक आणि प्रमाणबद्ध असावा."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "ठिपक्यांच्या मजेत काय करायचे आहे?",
+      "answer": "लहान-मोठे, भरीव-पोकळ ठिपके काढून नक्षी तयार करायची आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "काळ्या स्केचपेनचा वापर कशासाठी करतात?",
+      "answer": "चित्राची बाह्यरेषा (Border) गडद करण्यासाठी."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "चित्रकलेमुळे कोणता फायदा होतो?",
+      "answer": "नवनिर्मितीचा आनंद मिळतो आणि निरीक्षणशक्ती वाढते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "ओल्या मातीवर रेषा कशाने काढाव्यात?",
+      "answer": "काडीने किंवा रिकाम्या रिफिलने."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "गुंतागुंतीच्या रेषा कशा दिसतात?",
+      "answer": "त्या एकमेकांत गुंतलेल्या आणि वेड्यावाकड्या दिसतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कल्पनाचित्रात चंद्राला काय करता येते?",
+      "answer": "चंद्राला मानवी चेहरा देता येतो, हात-पाय काढता येतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "चिकटचित्रात रंगीत कागदांऐवजी काय वापरता येईल?",
+      "answer": "रंगीत कापडाचे तुकडे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "वर्तुळाकार रेषेचा उपयोग करून कोणते फळ काढता येईल?",
+      "answer": "सफरचंद, संत्री, डाळिंब."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "तुम्हाला कोणता रंग सर्वात जास्त आवडतो?",
+      "answer": "मला निळा (किंवा कोणताही आवडता) रंग आवडतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "चित्रांचे प्रदर्शन कुठे भरवता येते?",
+      "answer": "वर्गात किंवा शाळेच्या नोटीस बोर्डावर."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "नक्षीकाम कोठे वापरले जाते?",
+      "answer": "कपड्यांवर, फरशीवर, रांगोळीत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "चित्र काढताना चूक झाल्यास काय करावे?",
+      "answer": "पुन्हा प्रयत्न करावा किंवा त्यातून नवीन आकार शोधावा."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक रंग तयार करण्यासाठी पाने/फुले कशी वापरावीत?",
+      "answer": "त्यांना कुटून किंवा पाण्यात मिसळून रस काढावा."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "ठसेकामात रंगाचा थर कसा असावा?",
+      "answer": "समान आणि मध्यम (जास्त पातळ किंवा घट्ट नसावा)."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "निरीक्षणाचे महत्त्व काय?",
+      "answer": "निरीक्षणामुळे वस्तूचे आकार आणि रंग समजण्यास मदत होते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "तुमच्या आवडीचे चित्र कोणते?",
+      "answer": "मला निसर्गचित्र (किंवा इतर) काढायला आवडते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "रेषांच्या सरावासाठी काय करता येईल?",
+      "answer": "कोऱ्या कागदावर विविध प्रकारच्या रेषा वारंवार काढता येतील."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "कागद काम करताना काय काळजी घ्यावी?",
+      "answer": "कागद वाया जाणार नाही आणि परिसर अस्वच्छ होणार नाही याची काळजी घ्यावी."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "डिंक कसा वापरावा?",
+      "answer": "गरजेपुरता आणि व्यवस्थित पसरावा."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पोकळ ठिपका कसा काढावा?",
+      "answer": "फक्त वर्तुळाची कडा काढून, आत रंग न भरता."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "चित्रात रंग भरताना काय दक्षता घ्यावी?",
+      "answer": "रंग रेषेच्या बाहेर जाणार नाही याची दक्षता घ्यावी."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "चित्रकलेसाठी लागणारे साहित्य कोणते?",
+      "answer": "ड्रॉईंग बुक, पेन्सिल, रबर, रंग, ब्रश."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "या पाठातून काय शिकायला मिळाले?",
+      "answer": "विविध रेषा, आकार, रंग आणि चित्रकलेचे विविध प्रकार शिकायला मिळाले."
+    }
+  ]
+}

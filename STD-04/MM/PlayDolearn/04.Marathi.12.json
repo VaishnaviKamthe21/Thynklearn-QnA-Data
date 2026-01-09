@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.KheluKaruShiku.12",
+    "standard": "4",
+    "subject": "खेळू, करू, शिकू (कला शिक्षण)",
+    "medium": "Marathi",
+    "chapter_name": "शिल्प (शिल्पकाम)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "शिल्पकला म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "चित्र काढणे", "is_correct": false },
+        { "option_id": 2, "text": "पदार्थांना त्रिमिती (3D) आकार देणे", "is_correct": true },
+        { "option_id": 3, "text": "गाणे गाणे", "is_correct": false },
+        { "option_id": 4, "text": "नाच करणे", "is_correct": false }
+      ],
+      "answer": "पदार्थांना त्रिमिती (3D) आकार देणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कागदापासून काय तयार करता येते?",
+      "options": [
+        { "option_id": 1, "text": "मातीचे भांडे", "is_correct": false },
+        { "option_id": 2, "text": "कागदी मुखवटे", "is_correct": true },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "कागदी मुखवटे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कागदी मुखवटा बनवण्यासाठी कागदाला काय घालावी?",
+      "options": [
+        { "option_id": 1, "text": "गाठ", "is_correct": false },
+        { "option_id": 2, "text": "मध्यातून घडी", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "मध्यातून घडी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मुखवट्याच्या आतील बाजूस काय बांधावे?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "दोरा", "is_correct": true },
+        { "option_id": 3, "text": "काडी", "is_correct": false },
+        { "option_id": 4, "text": "पाय", "is_correct": false }
+      ],
+      "answer": "दोरा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "प्लॅस्टिसिन क्ले (Plasticine Clay) कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त पांढरी", "is_correct": false },
+        { "option_id": 2, "text": "कृत्रिम आणि विविध रंगांत मिळणारी", "is_correct": true },
+        { "option_id": 3, "text": "कडक", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यासारखी", "is_correct": false }
+      ],
+      "answer": "कृत्रिम आणि विविध रंगांत मिळणारी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कोणती माती पाण्यात सहज विरघळते?",
+      "options": [
+        { "option_id": 1, "text": "सिमेंट", "is_correct": false },
+        { "option_id": 2, "text": "शाडू माती", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "शाडू माती"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पर्यावरणपूरक माती कोणती?",
+      "options": [
+        { "option_id": 1, "text": "प्लॅस्टिसिन क्ले", "is_correct": false },
+        { "option_id": 2, "text": "शाडू माती", "is_correct": true },
+        { "option_id": 3, "text": "केमिकल माती", "is_correct": false },
+        { "option_id": 4, "text": "रंगीत माती", "is_correct": false }
+      ],
+      "answer": "शाडू माती"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शाडू मातीचा रंग कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "लाल", "is_correct": false },
+        { "option_id": 2, "text": "राखाडी (ग्रे)", "is_correct": true },
+        { "option_id": 3, "text": "पिवळा", "is_correct": false },
+        { "option_id": 4, "text": "निळा", "is_correct": false }
+      ],
+      "answer": "राखाडी (ग्रे)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "साध्या मातीला चिरा जाऊ नयेत म्हणून काय मिसळतात?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "शेण, कापूस किंवा भुसा", "is_correct": true },
+        { "option_id": 3, "text": "तेल", "is_correct": false },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "शेण, कापूस किंवा भुसा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "बागकामासाठी कोणती माती वापरली जाते?",
+      "options": [
+        { "option_id": 1, "text": "शाडू माती", "is_correct": false },
+        { "option_id": 2, "text": "पोयटा माती", "is_correct": true },
+        { "option_id": 3, "text": "वाळू", "is_correct": false },
+        { "option_id": 4, "text": "राख", "is_correct": false }
+      ],
+      "answer": "पोयटा माती"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पोयटा मातीचा रंग कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "काळा", "is_correct": false },
+        { "option_id": 2, "text": "लालसर", "is_correct": true },
+        { "option_id": 3, "text": "पांढरा", "is_correct": false },
+        { "option_id": 4, "text": "हिरवा", "is_correct": false }
+      ],
+      "answer": "लालसर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "शेतातील मातीचा रंग कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "काळा", "is_correct": true },
+        { "option_id": 2, "text": "निळा", "is_correct": false },
+        { "option_id": 3, "text": "पांढरा", "is_correct": false },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "काळा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "वस्त्रगाळ करणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "कपडे धुणे", "is_correct": false },
+        { "option_id": 2, "text": "कापडातून माती गाळून घेणे", "is_correct": true },
+        { "option_id": 3, "text": "कपडे शिवणे", "is_correct": false },
+        { "option_id": 4, "text": "कापड फाडणे", "is_correct": false }
+      ],
+      "answer": "कापडातून माती गाळून घेणे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "टाकाऊ वस्तूंपासून काय करता येते?",
+      "options": [
+        { "option_id": 1, "text": "कचरा", "is_correct": false },
+        { "option_id": 2, "text": "सुंदर कलाकृती (Best out of waste)", "is_correct": true },
+        { "option_id": 3, "text": "अन्न", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "सुंदर कलाकृती (Best out of waste)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "रिकाम्या झाकणांपासून काय तयार करता येते?",
+      "options": [
+        { "option_id": 1, "text": "झाड", "is_correct": false },
+        { "option_id": 2, "text": "फुलांची नक्षी/कलाकृती", "is_correct": true },
+        { "option_id": 3, "text": "पुस्तक", "is_correct": false },
+        { "option_id": 4, "text": "कपडे", "is_correct": false }
+      ],
+      "answer": "फुलांची नक्षी/कलाकृती"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "झाकणांच्या फुलाला देठ कशाचा लावावा?",
+      "options": [
+        { "option_id": 1, "text": "लोखंडाचा", "is_correct": false },
+        { "option_id": 2, "text": "हिरव्या रंगाच्या कागदाचा", "is_correct": true },
+        { "option_id": 3, "text": "काचेचा", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिकचा", "is_correct": false }
+      ],
+      "answer": "हिरव्या रंगाच्या कागदाचा"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मातीकाम करणारा कारागीर कोण असतो?",
+      "options": [
+        { "option_id": 1, "text": "सुतार", "is_correct": false },
+        { "option_id": 2, "text": "कुंभार", "is_correct": true },
+        { "option_id": 3, "text": "लोहार", "is_correct": false },
+        { "option_id": 4, "text": "चांभार", "is_correct": false }
+      ],
+      "answer": "कुंभार"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कोणत्या मातीचा वापर पुन्हा पुन्हा करता येतो?",
+      "options": [
+        { "option_id": 1, "text": "सिमेंट", "is_correct": false },
+        { "option_id": 2, "text": "प्लॅस्टिसिन क्ले आणि शाडू माती", "is_correct": true },
+        { "option_id": 3, "text": "राख", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "प्लॅस्टिसिन क्ले आणि शाडू माती"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कागदी मुखवटे कोणत्या सणासाठी वापरता येतात?",
+      "options": [
+        { "option_id": 1, "text": "दिवाळी", "is_correct": false },
+        { "option_id": 2, "text": "होळी किंवा नाटकासाठी", "is_correct": true },
+        { "option_id": 3, "text": "रक्षाबंधन", "is_correct": false },
+        { "option_id": 4, "text": "वटपौर्णिमा", "is_correct": false }
+      ],
+      "answer": "होळी किंवा नाटकासाठी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "शिल्पकलेत काय केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ रंगकाम", "is_correct": false },
+        { "option_id": 2, "text": "पदार्थांना कोरून किंवा जोडून आकार देणे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त लिहिणे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त वाचणे", "is_correct": false }
+      ],
+      "answer": "पदार्थांना कोरून किंवा जोडून आकार देणे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कागदी मुखवट्यावर डोळ्यांचा भाग काय करावा?",
+      "options": [
+        { "option_id": 1, "text": "रंगवावा", "is_correct": false },
+        { "option_id": 2, "text": "कापून घ्यावा", "is_correct": true },
+        { "option_id": 3, "text": "झाकून टाकावा", "is_correct": false },
+        { "option_id": 4, "text": "चिकटवावा", "is_correct": false }
+      ],
+      "answer": "कापून घ्यावा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "मुखवट्याची सजावट कशाने करावी?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याने", "is_correct": false },
+        { "option_id": 2, "text": "रंगीत स्केचपेन, कागदाचे तुकडे", "is_correct": true },
+        { "option_id": 3, "text": "मातीने", "is_correct": false },
+        { "option_id": 4, "text": "दगडाने", "is_correct": false }
+      ],
+      "answer": "रंगीत स्केचपेन, कागदाचे तुकडे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "साधी माती कोठे मिळते?",
+      "options": [
+        { "option_id": 1, "text": "दुकानात", "is_correct": false },
+        { "option_id": 2, "text": "ओढा, नाला किंवा अंगणात", "is_correct": true },
+        { "option_id": 3, "text": "घरात", "is_correct": false },
+        { "option_id": 4, "text": "शाळेत", "is_correct": false }
+      ],
+      "answer": "ओढा, नाला किंवा अंगणात"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कोणती माती हाताला मऊ लागते?",
+      "options": [
+        { "option_id": 1, "text": "मुरुम", "is_correct": false },
+        { "option_id": 2, "text": "वस्त्रगाळ केलेली पोयटा माती", "is_correct": true },
+        { "option_id": 3, "text": "दगड मिश्रित माती", "is_correct": false },
+        { "option_id": 4, "text": "वाळू", "is_correct": false }
+      ],
+      "answer": "वस्त्रगाळ केलेली पोयटा माती"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "रिकाम्या झाकणांची कलाकृती कशावर करावी?",
+      "options": [
+        { "option_id": 1, "text": "हवेत", "is_correct": false },
+        { "option_id": 2, "text": "पुठ्ठ्यावर", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 4, "text": "काचावर", "is_correct": false }
+      ],
+      "answer": "पुठ्ठ्यावर"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "मातीचे पक्षी किंवा प्राणी बनवणे हे कोणते काम आहे?",
+      "options": [
+        { "option_id": 1, "text": "चित्रकला", "is_correct": false },
+        { "option_id": 2, "text": "शिल्पकाम (मातकाम)", "is_correct": true },
+        { "option_id": 3, "text": "गायन", "is_correct": false },
+        { "option_id": 4, "text": "नृत्य", "is_correct": false }
+      ],
+      "answer": "शिल्पकाम (मातकाम)"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "शाडू माती निसर्गाला कशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "हानिकारक", "is_correct": false },
+        { "option_id": 2, "text": "पूरक (Eco-friendly)", "is_correct": true },
+        { "option_id": 3, "text": "विषारी", "is_correct": false },
+        { "option_id": 4, "text": "महाग", "is_correct": false }
+      ],
+      "answer": "पूरक (Eco-friendly)"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कागदाची घडी घालून काय करता येते?",
+      "options": [
+        { "option_id": 1, "text": "मातीकाम", "is_correct": false },
+        { "option_id": 2, "text": "समअंगी आकार (Symmetrical shapes)", "is_correct": true },
+        { "option_id": 3, "text": "रंग", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "समअंगी आकार (Symmetrical shapes)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "मातीमध्ये काय मिसळल्यास ती चिकट होते?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "पाणी", "is_correct": true },
+        { "option_id": 3, "text": "तेल", "is_correct": false },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "पाणी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कोणत्या वस्तू टाकून न देता त्यांचा वापर करता येतो?",
+      "options": [
+        { "option_id": 1, "text": "जुन्या भाज्या", "is_correct": false },
+        { "option_id": 2, "text": "टिकाऊ भाग असलेल्या टाकाऊ वस्तू", "is_correct": true },
+        { "option_id": 3, "text": "खराब पाणी", "is_correct": false },
+        { "option_id": 4, "text": "धूळ", "is_correct": false }
+      ],
+      "answer": "टिकाऊ भाग असलेल्या टाकाऊ वस्तू"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "माती मळणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "माती फेकणे", "is_correct": false },
+        { "option_id": 2, "text": "मातीत पाणी घालून ती एकजीव करणे", "is_correct": true },
+        { "option_id": 3, "text": "माती विकणे", "is_correct": false },
+        { "option_id": 4, "text": "माती खाणे", "is_correct": false }
+      ],
+      "answer": "मातीत पाणी घालून ती एकजीव करणे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "गणपतीची मूर्ती कोणत्या मातीपासून बनवतात?",
+      "options": [
+        { "option_id": 1, "text": "वाळू", "is_correct": false },
+        { "option_id": 2, "text": "शाडू माती", "is_correct": true },
+        { "option_id": 3, "text": "सिमेंट", "is_correct": false },
+        { "option_id": 4, "text": "कागद", "is_correct": false }
+      ],
+      "answer": "शाडू माती"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कागदी मुखवटा बनवण्यासाठी कागद कोणत्या आकाराचा घ्यावा?",
+      "options": [
+        { "option_id": 1, "text": "गोल", "is_correct": false },
+        { "option_id": 2, "text": "आयताकृती", "is_correct": true },
+        { "option_id": 3, "text": "त्रिकोणी", "is_correct": false },
+        { "option_id": 4, "text": "लंबगोल", "is_correct": false }
+      ],
+      "answer": "आयताकृती"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "मातीला 'चिरा' जाणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "माती सुकणे", "is_correct": false },
+        { "option_id": 2, "text": "मातीला तडे जाणे (Crack)", "is_correct": true },
+        { "option_id": 3, "text": "माती ओली होणे", "is_correct": false },
+        { "option_id": 4, "text": "माती रंगवणे", "is_correct": false }
+      ],
+      "answer": "मातीला तडे जाणे (Crack)"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "प्लॅस्टिसिन क्ले कुठे मिळते?",
+      "options": [
+        { "option_id": 1, "text": "शेतात", "is_correct": false },
+        { "option_id": 2, "text": "बाजारात (स्टेशनरी दुकानात)", "is_correct": true },
+        { "option_id": 3, "text": "नदीत", "is_correct": false },
+        { "option_id": 4, "text": "झाडावर", "is_correct": false }
+      ],
+      "answer": "बाजारात (स्टेशनरी दुकानात)"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "मातकाम करताना कोणती काळजी घ्यावी?",
+      "options": [
+        { "option_id": 1, "text": "कपडे खराब होणार नाहीत याची", "is_correct": true },
+        { "option_id": 2, "text": "माती खाण्याची", "is_correct": false },
+        { "option_id": 3, "text": "जोरात ओरडण्याची", "is_correct": false },
+        { "option_id": 4, "text": "धावण्याची", "is_correct": false }
+      ],
+      "answer": "कपडे खराब होणार नाहीत याची"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "झाकणे चिकटवण्यासाठी काय वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "डिंक / फेव्हिकॉल", "is_correct": true },
+        { "option_id": 3, "text": "माती", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "डिंक / फेव्हिकॉल"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "शिल्पकामात वस्तू कशा असतात?",
+      "options": [
+        { "option_id": 1, "text": "सपाट (2D)", "is_correct": false },
+        { "option_id": 2, "text": "त्रिमिती (3D) / उठावदार", "is_correct": true },
+        { "option_id": 3, "text": "अदृश्य", "is_correct": false },
+        { "option_id": 4, "text": "कागदी", "is_correct": false }
+      ],
+      "answer": "त्रिमिती (3D) / उठावदार"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कोणत्या मातीचा वापर मूर्ती बनवण्यासाठी जास्त होतो?",
+      "options": [
+        { "option_id": 1, "text": "वाळू", "is_correct": false },
+        { "option_id": 2, "text": "शाडू माती", "is_correct": true },
+        { "option_id": 3, "text": "मुरुम", "is_correct": false },
+        { "option_id": 4, "text": "राख", "is_correct": false }
+      ],
+      "answer": "शाडू माती"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "मुखवटा तोंडावर लावण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "चिकटवावा", "is_correct": false },
+        { "option_id": 2, "text": "दोरा बांधावा", "is_correct": true },
+        { "option_id": 3, "text": "हातात धरावा", "is_correct": false },
+        { "option_id": 4, "text": "खिशात ठेवावा", "is_correct": false }
+      ],
+      "answer": "दोरा बांधावा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "ओली माती मळल्यावर काय तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "गोळा", "is_correct": true },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "झाड", "is_correct": false }
+      ],
+      "answer": "गोळा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "शिल्पकामामुळे कोणता आनंद मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "नवनिर्मितीचा", "is_correct": true },
+        { "option_id": 2, "text": "झोपेचा", "is_correct": false },
+        { "option_id": 3, "text": "भुकेचा", "is_correct": false },
+        { "option_id": 4, "text": "भीतीचा", "is_correct": false }
+      ],
+      "answer": "नवनिर्मितीचा"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "बागेतील कुंडीत कोणती माती असते?",
+      "options": [
+        { "option_id": 1, "text": "पोयटा माती", "is_correct": true },
+        { "option_id": 2, "text": "शाडू", "is_correct": false },
+        { "option_id": 3, "text": "प्लॅस्टिसिन", "is_correct": false },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "पोयटा माती"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मातकामात मातीला आकार देण्यासाठी कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "हातांचा आणि बोटांचा", "is_correct": true },
+        { "option_id": 2, "text": "पायांचा", "is_correct": false },
+        { "option_id": 3, "text": "दातंचा", "is_correct": false },
+        { "option_id": 4, "text": "केसांचा", "is_correct": false }
+      ],
+      "answer": "हातांचा आणि बोटांचा"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कागदी मुखवटा कशाचा प्रकार आहे?",
+      "options": [
+        { "option_id": 1, "text": "चित्रकला", "is_correct": false },
+        { "option_id": 2, "text": "हस्तकला / शिल्पकाम", "is_correct": true },
+        { "option_id": 3, "text": "गायन", "is_correct": false },
+        { "option_id": 4, "text": "नृत्य", "is_correct": false }
+      ],
+      "answer": "हस्तकला / शिल्पकाम"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "मातीकाम करताना पाणी कसे वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "खूप जास्त", "is_correct": false },
+        { "option_id": 2, "text": "लागेल तसे थोडे थोडे", "is_correct": true },
+        { "option_id": 3, "text": "अजिबात नाही", "is_correct": false },
+        { "option_id": 4, "text": "गरम", "is_correct": false }
+      ],
+      "answer": "लागेल तसे थोडे थोडे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "राखाडी रंग कोणत्या मातीचा असतो?",
+      "options": [
+        { "option_id": 1, "text": "लाल माती", "is_correct": false },
+        { "option_id": 2, "text": "काळी माती", "is_correct": false },
+        { "option_id": 3, "text": "शाडू माती", "is_correct": true },
+        { "option_id": 4, "text": "पोयटा माती", "is_correct": false }
+      ],
+      "answer": "शाडू माती"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "दुसऱ्या माध्यमांचा वापर म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "फक्त माती वापरणे", "is_correct": false },
+        { "option_id": 2, "text": "टाकाऊ किंवा इतर वस्तूंचा वापर करून कलाकृती बनवणे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त कागद वापरणे", "is_correct": false },
+        { "option_id": 4, "text": "काहीच न करणे", "is_correct": false }
+      ],
+      "answer": "टाकाऊ किंवा इतर वस्तूंचा वापर करून कलाकृती बनवणे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "मातीचे गोळे कशासाठी करतात?",
+      "options": [
+        { "option_id": 1, "text": "फेकण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "आकार देण्यासाठी / वस्तू बनवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "खाण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "लपवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "आकार देण्यासाठी / वस्तू बनवण्यासाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "शाडू माती पाण्यात विरघळते का?",
+      "options": [
+        { "option_id": 1, "text": "हो, सहज विरघळते", "is_correct": true },
+        { "option_id": 2, "text": "नाही", "is_correct": false },
+        { "option_id": 3, "text": "कठिण होते", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "हो, सहज विरघळते"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "शिल्पकला म्हणजे काय?",
+      "answer": "कठीण किंवा मऊ पदार्थांना उठावदार आकार देऊन, कोरून किंवा जोडून त्रिमिती (3D) आकार बनवण्याच्या कलेला शिल्पकला म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कागदकाम म्हणजे काय?",
+      "answer": "कागदापासून विविध वस्तू किंवा शिल्पे तयार करणे म्हणजे कागदकाम."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कागदी मुखवटा बनवण्यासाठी कागदाला घडी का घालतात?",
+      "answer": "मुखवट्याचा डावा आणि उजवा भाग एकसारखा (समअंगी) यावा म्हणून."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मुखवट्यावर डोळे का कापतात?",
+      "answer": "मुखवटा चेहऱ्यावर लावल्यावर त्यातून पाहता यावे म्हणून."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "मातकामासाठी कोणकोणत्या प्रकारची माती वापरता येते?",
+      "answer": "प्लॅस्टिसिन क्ले, शाडू माती, साधी माती, पोयटा माती, काळी माती."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "प्लॅस्टिसिन क्लेचे वैशिष्ट्य काय?",
+      "answer": "ती कृत्रिम असते, विविध रंगांत मिळते आणि तिचा पुन्हा पुन्हा वापर करता येतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "शाडू माती पर्यावरणपूरक का मानली जाते?",
+      "answer": "कारण ती पाण्यात सहज विरघळते आणि त्यामुळे प्रदूषण होत नाही."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "साध्या मातीला चिरा जाऊ नयेत म्हणून काय करतात?",
+      "answer": "साध्या मातीत शेण, कापूस किंवा भुसा मिसळतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "पोयटा मातीचा उपयोग काय?",
+      "answer": "पोयटा मातीचा उपयोग प्रामुख्याने बागकामासाठी आणि झाडे लावण्यासाठी होतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "काळी माती कोठे आढळते?",
+      "answer": "काळी माती प्रामुख्याने शेतात आढळते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "वस्त्रगाळ माती म्हणजे काय?",
+      "answer": "कापडातून गाळून घेतलेली बारीक आणि मऊ माती."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "अन्य माध्यमांचा वापर म्हणजे काय?",
+      "answer": "माती किंवा कागदाव्यतिरिक्त इतर टाकाऊ किंवा टिकाऊ वस्तूंचा (उदा. झाकणे, काड्या) वापर करून कलाकृती करणे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "रिकाम्या झाकणांपासून फूल कसे बनवाल?",
+      "answer": "पुठ्ठ्यावर झाकणांची गोलाकार रचना करून आणि खाली हिरव्या कागदाचा देठ लावून फूल बनवता येईल."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मातकाम करण्यासाठी माती कशी तयार करावी?",
+      "answer": "माती चाळून, भिजवून आणि मळून एकजीव करावी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कुंभार काय काम करतो?",
+      "answer": "कुंभार मातीपासून मडकी, गाडगी, पणत्या आणि इतर वस्तू बनवतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "तुम्ही मातीपासून कोणत्या वस्तू बनवाल?",
+      "answer": "मी मातीपासून फळे, भाज्या, छोटे प्राणी आणि भांडी बनवेन."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "माती मळताना पाणी का लागते?",
+      "answer": "मातीला मऊपणा आणि चिकटपणा देण्यासाठी पाणी लागते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "मुखवटा सजवण्यासाठी काय वापरता येईल?",
+      "answer": "रंगीत स्केचपेन, रंगीत कागद, लोकरीचे धागे, टिकल्या."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "टाकाऊतून टिकाऊ म्हणजे काय?",
+      "answer": "फेकून देण्यासारख्या वस्तूंपासून सुंदर आणि उपयोगी वस्तू बनवणे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "शाडू मातीचा रंग कसा असतो?",
+      "answer": "शाडू मातीचा रंग राखाडी (Grey) असतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "लालसर रंगाची माती कोणती असते?",
+      "answer": "पोयटा माती लालसर रंगाची असते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "मातीचे संवर्धन का करावे?",
+      "answer": "कारण माती ही आपली 'माता' आहे, ती आपल्याला अन्न देते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "मातकामाच्या वस्तू वाळवताना काय काळजी घ्यावी?",
+      "answer": "त्या सावलीत वाळवाव्यात, थेट उन्हात ठेवल्यास तडे जाऊ शकतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कागदी मुखवटे वापरून काय करता येते?",
+      "answer": "कागदी मुखवटे वापरून नाटकातील पात्रे साकारता येतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "तुमच्या मित्राने बनवलेल्या वस्तूचे तुम्ही काय कराल?",
+      "answer": "मी त्याचे कौतुक करेन आणि त्यापासून प्रेरणा घेईन."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "शिल्पकामात त्रिमिती (3D) म्हणजे काय?",
+      "answer": "ज्या वस्तूला लांबी, रुंदी आणि जाडी/उंची असते ती त्रिमिती वस्तू होय."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कोणत्या ऋतूत मातीकाम करणे सोपे असते?",
+      "answer": "कोणत्याही ऋतूत करता येते, पण माती वाळण्यासाठी कोरडे हवामान चांगले असते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "डिंकाचा वापर कशासाठी होतो?",
+      "answer": "कागद, पुठ्ठा किंवा इतर वस्तू चिकटवण्यासाठी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कृत्रिम माती आणि नैसर्गिक माती यात काय फरक आहे?",
+      "answer": "कृत्रिम माती (क्ले) मानवनिर्मित असते, तर नैसर्गिक माती निसर्गात सापडते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "मातीची भांडी कशावर बनवतात?",
+      "answer": "मातीची भांडी कुंभाराच्या चाकावर बनवतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "तुमच्या आवडत्या प्राण्याचा मुखवटा कसा बनवाल?",
+      "answer": "कागदावर त्या प्राण्याचा चेहरा काढून, रंगवून आणि कापून मुखवटा बनवेन."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "शिल्पकामासाठी हातांचा वापर कसा होतो?",
+      "answer": "माती मळण्यासाठी, आकार देण्यासाठी आणि कोरीव काम करण्यासाठी हातांचा वापर होतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "मातकामात 'वळणे' म्हणजे काय?",
+      "answer": "मातीला हवा तो आकार देणे (उदा. गोल, लंबगोल)."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "झाकणांच्या व्यतिरिक्त अजून कशाचे शिल्प करता येईल?",
+      "answer": "काड्या, शंख-शिंपले, बिया, मणी इत्यादी."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "मातीकाम करताना परिसर कसा ठेवावा?",
+      "answer": "स्वच्छ ठेवावा, माती इकडे तिकडे पसरू देऊ नये."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "शाडूच्या गणपतीचे विसर्जन कोठे करावे?",
+      "answer": "शाडूच्या गणपतीचे विसर्जन बादलीत किंवा कृत्रिम तलावात करावे, जेणेकरून माती पुन्हा वापरता येईल."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पोयटा माती कोठे मिळते?",
+      "answer": "पोयटा माती बागेत किंवा नदीकाठी मिळते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "मातीचा साप कसा बनवतात?",
+      "answer": "माती हातावर लांबट वळून (वळकुटी करून) साप बनवतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "कागदी मुखवट्याला दोरा का बांधतात?",
+      "answer": "तो चेहऱ्यावर अडकवून ठेवण्यासाठी."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "या पाठातून तुम्ही काय शिकलात?",
+      "answer": "मातीचे प्रकार, मातकाम, कागदकाम आणि टाकाऊ वस्तूंपासून कलाकृती बनवायला शिकलो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "शिल्पकाम हा कोणता विषय आहे?",
+      "answer": "शिल्पकाम हा कला शिक्षणाचा एक भाग आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "मातीकाम करताना मातीत खडे असतील तर काय करावे?",
+      "answer": "माती चाळून घ्यावी किंवा खडे वेचून बाजूला करावेत."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "तुम्ही बनवलेल्या वस्तू कोणाला भेट द्याल?",
+      "answer": "मी माझ्या आई-बाबांना किंवा शिक्षकांना भेट देईन."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कागदाची घडी घालणे का महत्त्वाचे आहे?",
+      "answer": "त्यामुळे आकार एकसारखा येतो आणि काम सोपे होते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "मातीचे भांडे बनवल्यावर ते पक्के कसे करतात?",
+      "answer": "ते भट्टीत भाजून पक्के करतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "पुठ्ठ्यावर कलाकृती करताना काय वापरावे?",
+      "answer": "डिंक आणि कात्री वापरावी."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "तुम्हाला कोणता मुखवटा बनवायला आवडेल?",
+      "answer": "मला वाघाचा किंवा विदूषकाचा मुखवटा बनवायला आवडेल."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "मातीची गोळी कशी करतात?",
+      "answer": "माती हाताच्या तळव्यावर गोल गोल फिरवून गोळी करतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "शिल्पकामात संयम का आवश्यक आहे?",
+      "answer": "कारण आकार बिघडल्यास पुन्हा दुरुस्त करावा लागतो आणि सुबकतेसाठी वेळ लागतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "या उपक्रमांमुळे काय विकास होतो?",
+      "answer": "हाताचे कौशल्य, कल्पनाशक्ती आणि एकाग्रता यांचा विकास होतो."
+    }
+  ]
+}

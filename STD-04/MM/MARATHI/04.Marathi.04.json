@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.04",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "या भारतात... (कविता)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "संत तुकाराम", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रसंत तुकडोजी महाराज", "is_correct": true },
+        { "option_id": 3, "text": "संत ज्ञानेश्वर", "is_correct": false },
+        { "option_id": 4, "text": "संत गाडगेबाबा", "is_correct": false }
+      ],
+      "answer": "राष्ट्रसंत तुकडोजी महाराज"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवी भारतामध्ये नित्य काय वसू दे असे म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "श्रीमंती", "is_correct": false },
+        { "option_id": 2, "text": "बंधुभाव", "is_correct": true },
+        { "option_id": 3, "text": "वैरभाव", "is_correct": false },
+        { "option_id": 4, "text": "गरिबी", "is_correct": false }
+      ],
+      "answer": "बंधुभाव"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवी देवाकडे काय मागत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "धन", "is_correct": false },
+        { "option_id": 2, "text": "वर", "is_correct": true },
+        { "option_id": 3, "text": "सत्ता", "is_correct": false },
+        { "option_id": 4, "text": "सुख", "is_correct": false }
+      ],
+      "answer": "वर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सर्व पंथ आणि संप्रदाय कसे दिसावेत?",
+      "options": [
+        { "option_id": 1, "text": "वेगवेगळे", "is_correct": false },
+        { "option_id": 2, "text": "एक", "is_correct": true },
+        { "option_id": 3, "text": "विरोधी", "is_correct": false },
+        { "option_id": 4, "text": "अनेक", "is_correct": false }
+      ],
+      "answer": "एक"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "लोकांमध्ये काय नसावे असे कवीला वाटते?",
+      "options": [
+        { "option_id": 1, "text": "प्रेम", "is_correct": false },
+        { "option_id": 2, "text": "मतभेद", "is_correct": true },
+        { "option_id": 3, "text": "एकता", "is_correct": false },
+        { "option_id": 4, "text": "भावना", "is_correct": false }
+      ],
+      "answer": "मतभेद"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "गरीब आणि अमीर यांनी कसे नांदावे?",
+      "options": [
+        { "option_id": 1, "text": "भांडून", "is_correct": false },
+        { "option_id": 2, "text": "वेगवेगळे", "is_correct": false },
+        { "option_id": 3, "text": "एक मतानी (एकमताने) सुखे", "is_correct": true },
+        { "option_id": 4, "text": "दुःखाने", "is_correct": false }
+      ],
+      "answer": "एक मतानी (एकमताने) सुखे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणत्या धर्मांचा उल्लेख आला आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त हिंदू", "is_correct": false },
+        { "option_id": 2, "text": "हिंदू, ख्रिश्चन, इस्लामी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त ख्रिश्चन", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "हिंदू, ख्रिश्चन, इस्लामी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "स्वातंत्र्य सुख कोणामध्ये वसू दे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त श्रीमंतात", "is_correct": false },
+        { "option_id": 2, "text": "फक्त गरीबात", "is_correct": false },
+        { "option_id": 3, "text": "सकलांमाजि (सर्वांमध्ये)", "is_correct": true },
+        { "option_id": 4, "text": "परदेशात", "is_correct": false }
+      ],
+      "answer": "सकलांमाजि (सर्वांमध्ये)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सकळांस (सर्वांना) काय कळावे?",
+      "options": [
+        { "option_id": 1, "text": "मानवता आणि राष्ट्रभावना", "is_correct": true },
+        { "option_id": 2, "text": "संपत्ती", "is_correct": false },
+        { "option_id": 3, "text": "युद्ध", "is_correct": false },
+        { "option_id": 4, "text": "व्यापार", "is_correct": false }
+      ],
+      "answer": "मानवता आणि राष्ट्रभावना"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सर्व स्थळी मिळून काय व्हावे?",
+      "options": [
+        { "option_id": 1, "text": "भांडण", "is_correct": false },
+        { "option_id": 2, "text": "समुदाय-प्रार्थना", "is_correct": true },
+        { "option_id": 3, "text": "भोजन", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "समुदाय-प्रार्थना"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "तरुण कसे असावेत असे कवी म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "आळशी", "is_correct": false },
+        { "option_id": 2, "text": "उद्योगी", "is_correct": true },
+        { "option_id": 3, "text": "भित्रे", "is_correct": false },
+        { "option_id": 4, "text": "अज्ञानी", "is_correct": false }
+      ],
+      "answer": "उद्योगी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "उद्योगी तरूणांमध्ये कोणते गुण असावेत?",
+      "options": [
+        { "option_id": 1, "text": "वीर आणि शीलवान", "is_correct": true },
+        { "option_id": 2, "text": "क्रूर", "is_correct": false },
+        { "option_id": 3, "text": "स्वार्थी", "is_correct": false },
+        { "option_id": 4, "text": "लोभी", "is_correct": false }
+      ],
+      "answer": "वीर आणि शीलवान"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "आपण काय विसरून एक व्हावे?",
+      "options": [
+        { "option_id": 1, "text": "देशप्रेम", "is_correct": false },
+        { "option_id": 2, "text": "माणुसकी", "is_correct": false },
+        { "option_id": 3, "text": "जातिभाव", "is_correct": true },
+        { "option_id": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "जातिभाव"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "जगातून काय समूळ नष्ट व्हावे?",
+      "options": [
+        { "option_id": 1, "text": "अस्पृश्यता", "is_correct": true },
+        { "option_id": 2, "text": "श्रीमंती", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षण", "is_correct": false },
+        { "option_id": 4, "text": "धर्म", "is_correct": false }
+      ],
+      "answer": "अस्पृश्यता"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खळनिंदकांच्या मनी काय वसू दे?",
+      "options": [
+        { "option_id": 1, "text": "द्वेष", "is_correct": false },
+        { "option_id": 2, "text": "मत्सर", "is_correct": false },
+        { "option_id": 3, "text": "सत्य आणि न्याय", "is_correct": true },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "सत्य आणि न्याय"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "घराघरांत काय रमो असे कवी म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "संपत्ती", "is_correct": false },
+        { "option_id": 2, "text": "सौंदर्य", "is_correct": true },
+        { "option_id": 3, "text": "अंधार", "is_correct": false },
+        { "option_id": 4, "text": "गोंगाट", "is_correct": false }
+      ],
+      "answer": "सौंदर्य"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "सौंदर्य कशासारखे रमावे?",
+      "options": [
+        { "option_id": 1, "text": "नर्कासारखे", "is_correct": false },
+        { "option_id": 2, "text": "स्वर्गियापरी (स्वर्गाप्रमाणे)", "is_correct": true },
+        { "option_id": 3, "text": "सागरासारखे", "is_correct": false },
+        { "option_id": 4, "text": "पर्वतासारखे", "is_correct": false }
+      ],
+      "answer": "स्वर्गियापरी (स्वर्गाप्रमाणे)"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "काय नष्ट होऊ दे?",
+      "options": [
+        { "option_id": 1, "text": "विपत्ति आणि भीति", "is_correct": true },
+        { "option_id": 2, "text": "संपत्ती", "is_correct": false },
+        { "option_id": 3, "text": "मैत्री", "is_correct": false },
+        { "option_id": 4, "text": "आनंद", "is_correct": false }
+      ],
+      "answer": "विपत्ति आणि भीति"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "'तुकड्यास' कोणाला म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "एका तुकड्याला", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रसंत तुकडोजी महाराजांना", "is_correct": true },
+        { "option_id": 3, "text": "गरिबांना", "is_correct": false },
+        { "option_id": 4, "text": "भक्तांना", "is_correct": false }
+      ],
+      "answer": "राष्ट्रसंत तुकडोजी महाराजांना"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "तुकड्यास कशात 'कसू दे'?",
+      "options": [
+        { "option_id": 1, "text": "सेवेत", "is_correct": true },
+        { "option_id": 2, "text": "कामात", "is_correct": false },
+        { "option_id": 3, "text": "आरामात", "is_correct": false },
+        { "option_id": 4, "text": "सत्तेत", "is_correct": false }
+      ],
+      "answer": "सेवेत"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "'नित्य' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "कधीतरी", "is_correct": false },
+        { "option_id": 2, "text": "नेहमी/सतत", "is_correct": true },
+        { "option_id": 3, "text": "उद्या", "is_correct": false },
+        { "option_id": 4, "text": "काल", "is_correct": false }
+      ],
+      "answer": "नेहमी/सतत"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "'वसु दे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "वाहू दे", "is_correct": false },
+        { "option_id": 2, "text": "राहू दे/वास करू दे", "is_correct": true },
+        { "option_id": 3, "text": "जाऊ दे", "is_correct": false },
+        { "option_id": 4, "text": "येऊ दे", "is_correct": false }
+      ],
+      "answer": "राहू दे/वास करू दे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "'वर' या शब्दाचा कवितेतील अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "नवरदेव", "is_correct": false },
+        { "option_id": 2, "text": "वरची बाजू", "is_correct": false },
+        { "option_id": 3, "text": "आशीर्वाद/वरदान", "is_correct": true },
+        { "option_id": 4, "text": "श्रेष्ठ", "is_correct": false }
+      ],
+      "answer": "आशीर्वाद/वरदान"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "'सकल' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "सकाळ", "is_correct": false },
+        { "option_id": 2, "text": "सर्व/सगळे", "is_correct": true },
+        { "option_id": 3, "text": "थोडं", "is_correct": false },
+        { "option_id": 4, "text": "अर्धे", "is_correct": false }
+      ],
+      "answer": "सर्व/सगळे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "'उद्योगी' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "उद्योगपती", "is_correct": false },
+        { "option_id": 2, "text": "कष्टकरी/कष्टाळू", "is_correct": true },
+        { "option_id": 3, "text": "बेकार", "is_correct": false },
+        { "option_id": 4, "text": "श्रीमंत", "is_correct": false }
+      ],
+      "answer": "कष्टकरी/कष्टाळू"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "'शीलवान' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "चारित्र्यवान", "is_correct": true },
+        { "option_id": 2, "text": "दगडासारखा", "is_correct": false },
+        { "option_id": 3, "text": "ताकदवान", "is_correct": false },
+        { "option_id": 4, "text": "बुद्धिमान", "is_correct": false }
+      ],
+      "answer": "चारित्र्यवान"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "'विपत्ति' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "संपत्ती", "is_correct": false },
+        { "option_id": 2, "text": "संकट", "is_correct": true },
+        { "option_id": 3, "text": "पत्ता", "is_correct": false },
+        { "option_id": 4, "text": "आनंद", "is_correct": false }
+      ],
+      "answer": "संकट"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "'खळनिंदक' म्हणजे कोण?",
+      "options": [
+        { "option_id": 1, "text": "स्तुती करणारे", "is_correct": false },
+        { "option_id": 2, "text": "वाईट लोक/निंदा करणारे", "is_correct": true },
+        { "option_id": 3, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 4, "text": "सैनिक", "is_correct": false }
+      ],
+      "answer": "वाईट लोक/निंदा करणारे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "'सदासर्वदा' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "कधीतरी", "is_correct": false },
+        { "option_id": 2, "text": "कायम/नेहमी", "is_correct": true },
+        { "option_id": 3, "text": "आज", "is_correct": false },
+        { "option_id": 4, "text": "उद्या", "is_correct": false }
+      ],
+      "answer": "कायम/नेहमी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "'अमीर' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "श्रीमंत", "is_correct": false },
+        { "option_id": 2, "text": "गरीब", "is_correct": true },
+        { "option_id": 3, "text": "राजा", "is_correct": false },
+        { "option_id": 4, "text": "हुशार", "is_correct": false }
+      ],
+      "answer": "गरीब"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "'सत्य' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "असत्य", "is_correct": true },
+        { "option_id": 2, "text": "खरे", "is_correct": false },
+        { "option_id": 3, "text": "न्याय", "is_correct": false },
+        { "option_id": 4, "text": "अचूक", "is_correct": false }
+      ],
+      "answer": "असत्य"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कवितेतील 'धृ' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "ध्रुवपद", "is_correct": true },
+        { "option_id": 2, "text": "धूर", "is_correct": false },
+        { "option_id": 3, "text": "धैर्य", "is_correct": false },
+        { "option_id": 4, "text": "धरती", "is_correct": false }
+      ],
+      "answer": "ध्रुवपद"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या प्रकारची आहे?",
+      "options": [
+        { "option_id": 1, "text": "विनोदी", "is_correct": false },
+        { "option_id": 2, "text": "प्रार्थना/देशभक्तीपर", "is_correct": true },
+        { "option_id": 3, "text": "निसर्ग कविता", "is_correct": false },
+        { "option_id": 4, "text": "पोवाडा", "is_correct": false }
+      ],
+      "answer": "प्रार्थना/देशभक्तीपर"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: 'या भारतात _____ नित्य वसू दे ।'",
+      "options": [
+        { "option_id": 1, "text": "शत्रुभाव", "is_correct": false },
+        { "option_id": 2, "text": "बंधुभाव", "is_correct": true },
+        { "option_id": 3, "text": "समभाव", "is_correct": false },
+        { "option_id": 4, "text": "मित्रभाव", "is_correct": false }
+      ],
+      "answer": "बंधुभाव"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: 'नांदोत सुखे गरीब, अमीर _____ ।'",
+      "options": [
+        { "option_id": 1, "text": "एकमतानी", "is_correct": true },
+        { "option_id": 2, "text": "वेगवेगळे", "is_correct": false },
+        { "option_id": 3, "text": "आनंदाने", "is_correct": false },
+        { "option_id": 4, "text": "सुखाने", "is_correct": false }
+      ],
+      "answer": "एकमतानी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: 'हा _____ विसरुनिया एक हो आम्ही ।'",
+      "options": [
+        { "option_id": 1, "text": "भेदभाव", "is_correct": false },
+        { "option_id": 2, "text": "जातिभाव", "is_correct": true },
+        { "option_id": 3, "text": "धर्मभाव", "is_correct": false },
+        { "option_id": 4, "text": "द्वेषभाव", "is_correct": false }
+      ],
+      "answer": "जातिभाव"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: 'सौंदर्य रमो घराघरांत _____ ।'",
+      "options": [
+        { "option_id": 1, "text": "सागरापरी", "is_correct": false },
+        { "option_id": 2, "text": "स्वर्गियापरी", "is_correct": true },
+        { "option_id": 3, "text": "फुलांपरी", "is_correct": false },
+        { "option_id": 4, "text": "चांदण्यापरी", "is_correct": false }
+      ],
+      "answer": "स्वर्गियापरी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: 'तुकड्यास सदासर्वदा _____ कसू दे ।'",
+      "options": [
+        { "option_id": 1, "text": "कामात", "is_correct": false },
+        { "option_id": 2, "text": "शेतात", "is_correct": false },
+        { "option_id": 3, "text": "सेवेत", "is_correct": true },
+        { "option_id": 4, "text": "भक्तीत", "is_correct": false }
+      ],
+      "answer": "सेवेत"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कवीने 'वीर' हे विशेषण कोणासाठी वापरले आहे?",
+      "options": [
+        { "option_id": 1, "text": "ससैनिकांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "तरूणांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "मुलांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "नेत्यांसाठी", "is_correct": false }
+      ],
+      "answer": "तरूणांसाठी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "मानवता आणि राष्ट्रभावना कोणाला कळावी?",
+      "options": [
+        { "option_id": 1, "text": "सकळांस (सर्वांना)", "is_correct": true },
+        { "option_id": 2, "text": "फक्त भारतीयांना", "is_correct": false },
+        { "option_id": 3, "text": "फक्त तरूणांना", "is_correct": false },
+        { "option_id": 4, "text": "फक्त नेत्यांना", "is_correct": false }
+      ],
+      "answer": "सकळांस (सर्वांना)"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "'बोहरी' या शब्दाचा यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "स्वर्गियापरी", "is_correct": true },
+        { "option_id": 2, "text": "भीति", "is_correct": false },
+        { "option_id": 3, "text": "विपत्ति", "is_correct": false },
+        { "option_id": 4, "text": "सेवेत", "is_correct": false }
+      ],
+      "answer": "स्वर्गियापरी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "'नसू दे' या शब्दाचा यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "वसू दे", "is_correct": true },
+        { "option_id": 2, "text": "दिसू दे", "is_correct": true },
+        { "option_id": 3, "text": "असा दे", "is_correct": true },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "'समुदाय' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "एकटा माणूस", "is_correct": false },
+        { "option_id": 2, "text": "समुद्र", "is_correct": false },
+        { "option_id": 3, "text": "समूह/लोक", "is_correct": true },
+        { "option_id": 4, "text": "समान", "is_correct": false }
+      ],
+      "answer": "समूह/लोक"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "ही कविता विद्यार्थ्यांना कशी म्हणायला सांगितली आहे?",
+      "options": [
+        { "option_id": 1, "text": "तालासुरात", "is_correct": true },
+        { "option_id": 2, "text": "हळू आवाजात", "is_correct": false },
+        { "option_id": 3, "text": "पोटतिडकीने", "is_correct": false },
+        { "option_id": 4, "text": "शांतपणे", "is_correct": false }
+      ],
+      "answer": "तालासुरात"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कवीने देवाला काय मागितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "शाप", "is_correct": false },
+        { "option_id": 2, "text": "वर (आशीर्वाद)", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षा", "is_correct": false },
+        { "option_id": 4, "text": "मुक्ती", "is_correct": false }
+      ],
+      "answer": "वर (आशीर्वाद)"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "'पंथ' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "रस्ता", "is_correct": false },
+        { "option_id": 2, "text": "विचारधारेचा गट/धार्मिक गट", "is_correct": true },
+        { "option_id": 3, "text": "गाव", "is_correct": false },
+        { "option_id": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "विचारधारेचा गट/धार्मिक गट"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "'मनी' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "मनात", "is_correct": true },
+        { "option_id": 2, "text": "मांजरी", "is_correct": false },
+        { "option_id": 3, "text": "माणसात", "is_correct": false },
+        { "option_id": 4, "text": "मातीत", "is_correct": false }
+      ],
+      "answer": "मनात"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "सत्य आणि न्याय कोणाच्या मनात वसावा?",
+      "options": [
+        { "option_id": 1, "text": "सज्जनांच्या", "is_correct": false },
+        { "option_id": 2, "text": "खळनिंदकांच्या (वाईट लोकांच्या)", "is_correct": true },
+        { "option_id": 3, "text": "फक्त नेत्यांच्या", "is_correct": false },
+        { "option_id": 4, "text": "कवीच्या", "is_correct": false }
+      ],
+      "answer": "खळनिंदकांच्या (वाईट लोकांच्या)"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कवी कशाची प्रार्थना करत आहे?",
+      "options": [
+        { "option_id": 1, "text": "राष्ट्रीय एकात्मतेची", "is_correct": true },
+        { "option_id": 2, "text": "स्वतःच्या श्रीमंतीची", "is_correct": false },
+        { "option_id": 3, "text": "दुष्काळाची", "is_correct": false },
+        { "option_id": 4, "text": "युद्धाची", "is_correct": false }
+      ],
+      "answer": "राष्ट्रीय एकात्मतेची"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कवितेच्या शेवटी कवीने स्वतःचा उल्लेख कोणत्या नावाने केला आहे?",
+      "options": [
+        { "option_id": 1, "text": "तुकडोजी", "is_correct": false },
+        { "option_id": 2, "text": "तुकड्यास", "is_correct": true },
+        { "option_id": 3, "text": "महाराज", "is_correct": false },
+        { "option_id": 4, "text": "संत", "is_correct": false }
+      ],
+      "answer": "तुकड्यास"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवितेत कवीने कोणाकडे मागणी केली आहे?",
+      "answer": "कवितेत कवीने देवाकडे मागणी (प्रार्थना) केली आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कवी भारतामध्ये काय वसू दे अशी प्रार्थना करतात?",
+      "answer": "कवी भारतामध्ये 'बंधुभाव' नित्य वसू दे अशी प्रार्थना करतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "सर्व पंथ आणि संप्रदाय कसे दिसावेत?",
+      "answer": "सर्व पंथ आणि संप्रदाय 'एक' दिसावेत अशी कवीची इच्छा आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "लोकांमध्ये काय नसावे?",
+      "answer": "लोकांमध्ये 'मतभेद' नसावेत."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "गरीब आणि अमीर यांनी कसे रहावे?",
+      "answer": "गरीब आणि अमीर यांनी एकमताने आणि सुखाने एकत्र नांदावे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणकोणत्या धर्मांचा उल्लेख आहे?",
+      "answer": "कवितेत हिंदू, ख्रिश्चन आणि इस्लामी या धर्मांचा उल्लेख आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सकल लोकांमध्ये कोणते सुख वसू दे?",
+      "answer": "सकल लोकांमध्ये 'स्वातंत्र्य-सुख' वसू दे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "सर्वांना काय कळावे?",
+      "answer": "सर्वांना 'मानवता' आणि 'राष्ट्रभावना' कळावी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "सर्व ठिकाणी मिळून काय व्हावे?",
+      "answer": "सर्व ठिकाणी मिळून 'समुदाय-प्रार्थना' व्हावी."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "तरुण कसे असावेत?",
+      "answer": "तरुण उद्योगी, वीर आणि शीलवान असावेत."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आपण काय विसरून एक व्हावे?",
+      "answer": "आपण 'जातिभाव' विसरून एक व्हावे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "जगातून काय नष्ट व्हावे?",
+      "answer": "जगातून 'अस्पृश्यता' समूळ नष्ट व्हावी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "खळनिंदकांच्या मनात काय वसू दे?",
+      "answer": "खळनिंदकांच्या मनात 'सत्य' आणि 'न्याय' वसू दे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "सौंदर्य कोठे रमावे?",
+      "answer": "सौंदर्य 'घराघरांत' रमावे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "घराघरातील सौंदर्य कशासारखे असावे?",
+      "answer": "घराघरातील सौंदर्य 'स्वर्गासारखे' (स्वर्गियापरी) असावे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "काय नष्ट होऊ दे अशी कवी प्रार्थना करतो?",
+      "answer": "विपत्ति (संकट) आणि भीती नष्ट होऊ दे अशी कवी प्रार्थना करतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "तुकड्यास (कवीला) कशात कसू दे?",
+      "answer": "तुकड्यास सदासर्वदा 'सेवेत' कसू दे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "answer": "या कवितेचे कवी 'राष्ट्रसंत तुकडोजी महाराज' आहेत."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "'बंधुभाव' म्हणजे काय?",
+      "answer": "'बंधुभाव' म्हणजे भावासारखे प्रेम किंवा भाईचारा."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "'नित्य' या शब्दाचा अर्थ सांगा.",
+      "answer": "'नित्य' म्हणजे 'नेहमी' किंवा 'सतत'."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "'मतभेद नसू दे' याचा अर्थ काय?",
+      "answer": "लोकांमध्ये विचारांचे भांडण किंवा दुरावा नसावा."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कवी देवाला कोणता 'वर' मागत आहे?",
+      "answer": "कवी देशात एकता, बंधुभाव आणि सुखशांती नांदावी हा 'वर' मागत आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "'शीलवान' या शब्दाचा अर्थ काय?",
+      "answer": "'शीलवान' म्हणजे चांगले चारित्र्य असलेला किंवा गुणवान."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "'विपत्ति' म्हणजे काय?",
+      "answer": "'विपत्ति' म्हणजे 'संकट' किंवा 'आपत्ती'."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "'खळनिंदक' कोणाला म्हणतात?",
+      "answer": "जे लोक दुष्ट आहेत किंवा नेहमी दुसऱ्यांची निंदा करतात त्यांना 'खळनिंदक' म्हणतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कवीने 'तुकड्यास' हा शब्द कोणासाठी वापरला आहे?",
+      "answer": "कवीने 'तुकड्यास' हा शब्द स्वतःसाठी (तुकडोजी महाराजांसाठी) वापरला आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "या कवितेतून कोणता संदेश मिळतो?",
+      "answer": "या कवितेतून राष्ट्रीय एकात्मता, बंधुभाव आणि समानतेचा संदेश मिळतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "'समुदाय-प्रार्थना' म्हणजे काय?",
+      "answer": "सर्व लोकांनी एकत्र येऊन केलेली प्रार्थना म्हणजे 'समुदाय-प्रार्थना'."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "तरुणांनी कसे असावे असे कवीला वाटते?",
+      "answer": "तरुणांनी उद्योगी, शूर (वीर) आणि चारित्र्यवान असावे असे कवीला वाटते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "कवितेत यमक जुळणारे शब्द कोणते आहेत? (उदा. वसू दे - नसू दे)",
+      "answer": "वसू दे - नसू दे, दिसू दे - असू दे, एकमतानी - इस्लामी, राष्ट्रभावना - प्रार्थना."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "राष्ट्रसंत तुकडोजी महाराज यांनी कशाचा आग्रह धरला आहे?",
+      "answer": "त्यांनी जातिभेद विसरून एक होण्याचा आग्रह धरला आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "'सकलांमाजि' या शब्दाचा अर्थ काय?",
+      "answer": "'सकलांमाजि' म्हणजे 'सर्वांमध्ये'."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "'अस्पृश्यता' म्हणजे काय?",
+      "answer": "'अस्पृश्यता' म्हणजे काही लोकांना शिवण्यास मनाई करणे, ही एक वाईट सामाजिक प्रथा होती."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "कवीने घराघराला कशाची उपमा दिली आहे?",
+      "answer": "कवीने घराघराला 'स्वर्गाची' उपमा दिली आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "सत्य आणि न्याय कोठे बसावे?",
+      "answer": "सत्य आणि न्याय निंदकांच्या आणि दुष्टांच्या मनात बसावे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "'बोहरी' या शब्दाचा अर्थ काय असू शकतो?",
+      "answer": "'बोहरी' हा शब्द 'बाहेरी' (बाहेर) किंवा 'दूरी' या अर्थाने आला असावा (विपत्ती बाहेर जाऊ दे)."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "या कवितेत कोणत्या देशाचा उल्लेख आहे?",
+      "answer": "या कवितेत 'भारत' देशाचा उल्लेख आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कवीने देवाला 'वरचि असा दे' असे किती वेळा म्हटले आहे?",
+      "answer": "प्रत्येक कडव्याच्या शेवटी आणि ध्रुवपदात, म्हणजे एकूण पाच वेळा म्हटले आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "'नांदोत' या शब्दाचा अर्थ काय?",
+      "answer": "'नांदोत' म्हणजे 'राहोत' किंवा 'गुण्यागोविंदाने वागोत'."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "'सेवेत कसू दे' म्हणजे काय?",
+      "answer": "'सेवेत कसू दे' म्हणजे 'सेवा करण्यात कष्ट करू दे' किंवा 'सेवा करण्यात मग्न होऊ दे'."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "'पंथ' आणि 'संप्रदाय' एक दिसू दे म्हणजे काय?",
+      "answer": "सर्व धर्म आणि पंथांमध्ये समानता असावी, कोणीही वेगळे नसावे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "कवितेत 'सुखे' हा शब्द कोणासाठी वापरला आहे?",
+      "answer": "गरीब आणि अमीर यांनी सुखाने नांदावे यासाठी वापरला आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कवीला कशाची भीती नसावी असे वाटते?",
+      "answer": "कवीला संकटाची (विपत्तीची) भीती नसावी असे वाटते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "'सदासर्वदा' या शब्दाचा संधी विग्रह कसा होईल?",
+      "answer": "सदा + सर्वदा."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "कवीने कोणाच्या नष्ट होण्याची प्रार्थना केली आहे?",
+      "answer": "कवीने अस्पृश्यता, विपत्ती आणि भीती नष्ट होण्याची प्रार्थना केली आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणत्या इयत्तेच्या पुस्तकातील आहे?",
+      "answer": "ही कविता इयत्ता चौथीच्या पुस्तकातील आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "'वर' देणारा कोण आहे?",
+      "answer": "'वर' देणारा ईश्वर किंवा देव आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कवितेनुसार मानवता आणि राष्ट्रभावना कोणाला कळावी?",
+      "answer": "सकळांस (सर्व लोकांना) मानवता आणि राष्ट्रभावना कळावी."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कवीने तरुणांना 'वीर' का म्हटले असावे?",
+      "answer": "कारण तरुणांनी देशाच्या रक्षणासाठी आणि प्रगतीसाठी शूर असावे अशी अपेक्षा आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "राष्ट्रसंत तुकडोजी महाराज यांचे पूर्ण नाव काय आहे? (अवांतर माहिती)",
+      "answer": "माणिक बंडोजी इंगळे (ब्रम्हभट) हे त्यांचे मूळ नाव आहे."
+    }
+  ]
+}

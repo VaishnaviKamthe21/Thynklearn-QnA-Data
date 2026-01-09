@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "23.Marathi.04",
+    "standard": "4",
+    "subject": "Parisar Abhyas Bhag 1",
+    "medium": "Marathi",
+    "chapter_name": "नैसर्गिक आपत्ती"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "नैसर्गिक आपत्ती म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मानवाने निर्माण केलेले संकट", "is_correct": false },
+        { "option_id": 2, "text": "निसर्गात अचानक उद्भवणारे संकट", "is_correct": true },
+        { "option_id": 3, "text": "खेळातील संकट", "is_correct": false },
+        { "option_id": 4, "text": "शाळेतील संकट", "is_correct": false }
+      ],
+      "answer": "निसर्गात अचानक उद्भवणारे संकट"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी नैसर्गिक आपत्ती कोणती?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध", "is_correct": false },
+        { "option_id": 2, "text": "भूकंप", "is_correct": true },
+        { "option_id": 3, "text": "बॉम्बस्फोट", "is_correct": false },
+        { "option_id": 4, "text": "अपघात", "is_correct": false }
+      ],
+      "answer": "भूकंप"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पावसाळा नसताना पडणाऱ्या पावसाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मोसमी पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "अवकाळी पाऊस", "is_correct": true },
+        { "option_id": 3, "text": "रिमझिम पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "बर्फवृष्टी", "is_correct": false }
+      ],
+      "answer": "अवकाळी पाऊस"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "गारपिटीमुळे कशाचे नुकसान होते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त घरांचे", "is_correct": false },
+        { "option_id": 2, "text": "उभी पिके, फळबागा आणि घरांचे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त रस्त्यांचे", "is_correct": false },
+        { "option_id": 4, "text": "नद्यांचे", "is_correct": false }
+      ],
+      "answer": "उभी पिके, फळबागा आणि घरांचे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "नदीला पूर केव्हा येतो?",
+      "options": [
+        { "option_id": 1, "text": "पाऊस न पडल्यास", "is_correct": false },
+        { "option_id": 2, "text": "अतिवृष्टी (खूप पाऊस) झाल्यास", "is_correct": true },
+        { "option_id": 3, "text": "थंडी पडल्यास", "is_correct": false },
+        { "option_id": 4, "text": "वारा सुटल्यास", "is_correct": false }
+      ],
+      "answer": "अतिवृष्टी (खूप पाऊस) झाल्यास"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पुराचे पाणी वस्तीत शिरल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "घरातच राहावे", "is_correct": false },
+        { "option_id": 2, "text": "उंच आणि सुरक्षित ठिकाणी जावे", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यात पोहावे", "is_correct": false },
+        { "option_id": 4, "text": "झाडावर चढावे", "is_correct": false }
+      ],
+      "answer": "उंच आणि सुरक्षित ठिकाणी जावे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पुराच्या पाण्यात पोहणे का धोक्याचे असते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी थंड असते", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याचा ओघ (प्रवाह) खूप जोराचा असतो", "is_correct": true },
+        { "option_id": 3, "text": "पाणी घाणेरडे असते", "is_correct": false },
+        { "option_id": 4, "text": "मासे असतात", "is_correct": false }
+      ],
+      "answer": "पाण्याचा ओघ (प्रवाह) खूप जोराचा असतो"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "जमिनीच्या पोटात खडकांमध्ये हालचाली झाल्यामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पाऊस पडतो", "is_correct": false },
+        { "option_id": 2, "text": "भूकंप होतो", "is_correct": true },
+        { "option_id": 3, "text": "वारा सुटतो", "is_correct": false },
+        { "option_id": 4, "text": "वीज चमकते", "is_correct": false }
+      ],
+      "answer": "भूकंप होतो"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भूकंपामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "जमीन थरथरते आणि घरे कोसळतात", "is_correct": true },
+        { "option_id": 2, "text": "झाडे वाढतात", "is_correct": false },
+        { "option_id": 3, "text": "नद्या आटतात", "is_correct": false },
+        { "option_id": 4, "text": "आकाश निळे होते", "is_correct": false }
+      ],
+      "answer": "जमीन थरथरते आणि घरे कोसळतात"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "भूकंप झाल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "घाबरून पळावे", "is_correct": false },
+        { "option_id": 2, "text": "टेबलाखाली किंवा पलंगाखाली आश्रय घ्यावा", "is_correct": true },
+        { "option_id": 3, "text": " खिडकीजवळ उभे राहावे", "is_correct": false },
+        { "option_id": 4, "text": "लिफ्टचा वापर करावा", "is_correct": false }
+      ],
+      "answer": "टेबलाखाली किंवा पलंगाखाली आश्रय घ्यावा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "त्सुनामी म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "समुद्रातील महाकाय लाटा", "is_correct": true },
+        { "option_id": 2, "text": "नदीतील पूर", "is_correct": false },
+        { "option_id": 3, "text": "जोराचा वारा", "is_correct": false },
+        { "option_id": 4, "text": "डोंगरावरील आग", "is_correct": false }
+      ],
+      "answer": "समुद्रातील महाकाय लाटा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "त्सुनामी लाटा कशामुळे निर्माण होतात?",
+      "options": [
+        { "option_id": 1, "text": "वाऱ्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "सागरात होणाऱ्या भूकंपामुळे", "is_correct": true },
+        { "option_id": 3, "text": "पावसामुळे", "is_correct": false },
+        { "option_id": 4, "text": "जहाजांमुळे", "is_correct": false }
+      ],
+      "answer": "सागरात होणाऱ्या भूकंपामुळे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "त्सुनामीचा तडाखा कोणाला बसतो?",
+      "options": [
+        { "option_id": 1, "text": "डोंगराळ भागाला", "is_correct": false },
+        { "option_id": 2, "text": "सागरकिनाऱ्यावरील वस्तीला", "is_correct": true },
+        { "option_id": 3, "text": "वाळवंटाला", "is_correct": false },
+        { "option_id": 4, "text": "जंगलाला", "is_correct": false }
+      ],
+      "answer": "सागरकिनाऱ्यावरील वस्तीला"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "नैसर्गिक आपत्ती टाळणे आपल्या हातात असते का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "प्रयत्न केल्यास", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "आपत्ती आल्यावर आपण काय केले पाहिजे?",
+      "options": [
+        { "option_id": 1, "text": "घाबरून जावे", "is_correct": false },
+        { "option_id": 2, "text": "धैर्याने तोंड द्यावे आणि मदत करावी", "is_correct": true },
+        { "option_id": 3, "text": "रडत बसावे", "is_correct": false },
+        { "option_id": 4, "text": "पळून जावे", "is_correct": false }
+      ],
+      "answer": "धैर्याने तोंड द्यावे आणि मदत करावी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "शाळेत भूकंप झाल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "बाकाखाली बसावे", "is_correct": true },
+        { "option_id": 2, "text": "मैदानात पळावे", "is_correct": false },
+        { "option_id": 3, "text": "वर्गात उभे राहावे", "is_correct": false },
+        { "option_id": 4, "text": "खिडकीतून उडी मारावी", "is_correct": false }
+      ],
+      "answer": "बाकाखाली बसावे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पावसाळा सुरू होण्यापूर्वीच्या पावसाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वळवाचा पाऊस", "is_correct": true },
+        { "option_id": 2, "text": "मोसमी पाऊस", "is_correct": false },
+        { "option_id": 3, "text": "हिवाळी पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "संततधार", "is_correct": false }
+      ],
+      "answer": "वळवाचा पाऊस"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "गारपीट म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "बर्फाचा पाऊस (गारा पडणे)", "is_correct": true },
+        { "option_id": 2, "text": "थंड हवा", "is_correct": false },
+        { "option_id": 3, "text": "जोरदार वारा", "is_correct": false },
+        { "option_id": 4, "text": "धुके", "is_correct": false }
+      ],
+      "answer": "बर्फाचा पाऊस (गारा पडणे)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "मानवनिर्मित आपत्ती कोणती?",
+      "options": [
+        { "option_id": 1, "text": "भूकंप", "is_correct": false },
+        { "option_id": 2, "text": "आग लागणे (चूक झाल्यामुळे)", "is_correct": true },
+        { "option_id": 3, "text": "वादळ", "is_correct": false },
+        { "option_id": 4, "text": "त्सुनामी", "is_correct": false }
+      ],
+      "answer": "आग लागणे (चूक झाल्यामुळे)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "नैसर्गिक आपत्तीची माहिती कोठून मिळते?",
+      "options": [
+        { "option_id": 1, "text": "पुस्तकातून", "is_correct": false },
+        { "option_id": 2, "text": "बातम्यांतून (टीव्ही/रेडिओ)", "is_correct": true },
+        { "option_id": 3, "text": "खेळातून", "is_correct": false },
+        { "option_id": 4, "text": "स्वप्नातून", "is_correct": false }
+      ],
+      "answer": "बातम्यांतून (टीव्ही/रेडिओ)"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "पूर आल्यावर पिण्याचे पाणी कसे प्यावे?",
+      "options": [
+        { "option_id": 1, "text": "तसेच प्यावे", "is_correct": false },
+        { "option_id": 2, "text": "उकळून आणि गाळून", "is_correct": true },
+        { "option_id": 3, "text": "थंड करून", "is_correct": false },
+        { "option_id": 4, "text": "साखर टाकून", "is_correct": false }
+      ],
+      "answer": "उकळून आणि गाळून"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "भूकंपाच्या धक्क्यांमुळे काय पडते?",
+      "options": [
+        { "option_id": 1, "text": "पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "घरे, भिंती, झाडे", "is_correct": true },
+        { "option_id": 3, "text": "बर्फ", "is_correct": false },
+        { "option_id": 4, "text": "वीज", "is_correct": false }
+      ],
+      "answer": "घरे, भिंती, झाडे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "त्सुनामीमुळे समुद्रात काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी शांत होते", "is_correct": false },
+        { "option_id": 2, "text": "प्रचंड उंचीच्या लाटा उसळतात", "is_correct": true },
+        { "option_id": 3, "text": "पाणी आटते", "is_correct": false },
+        { "option_id": 4, "text": "मासे मरतात", "is_correct": false }
+      ],
+      "answer": "प्रचंड उंचीच्या लाटा उसळतात"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "अवकाळी पावसामुळे हिवाळी पिकांचे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "फायदा होतो", "is_correct": false },
+        { "option_id": 2, "text": "नुकसान होते (कुजतात)", "is_correct": true },
+        { "option_id": 3, "text": "वाढ चांगली होते", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होत नाही", "is_correct": false }
+      ],
+      "answer": "नुकसान होते (कुजतात)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "किल्लारी येथे झालेला भूकंप कोणत्या वर्षी झाला होता?",
+      "options": [
+        { "option_id": 1, "text": "१९९०", "is_correct": false },
+        { "option_id": 2, "text": "१९९३", "is_correct": true },
+        { "option_id": 3, "text": "२०००", "is_correct": false },
+        { "option_id": 4, "text": "२००५", "is_correct": false }
+      ],
+      "answer": "१९९३"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "माळीण गावाची दुर्घटना कशामुळे घडली?",
+      "options": [
+        { "option_id": 1, "text": "पुरामुळे", "is_correct": false },
+        { "option_id": 2, "text": "दरड कोसळल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "आगीमुळे", "is_correct": false },
+        { "option_id": 4, "text": "वाऱ्यामुळे", "is_correct": false }
+      ],
+      "answer": "दरड कोसळल्यामुळे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "नैसर्गिक आपत्ती आल्यावर कोणाची मदत घ्यावी?",
+      "options": [
+        { "option_id": 1, "text": "पोलीस, अग्निशामक दल, डॉक्टर", "is_correct": true },
+        { "option_id": 2, "text": "दुकानदार", "is_correct": false },
+        { "option_id": 3, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "पोलीस, अग्निशामक दल, डॉक्टर"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "त्सुनामी हा शब्द कोणत्या भाषेतील आहे?",
+      "options": [
+        { "option_id": 1, "text": "मराठी", "is_correct": false },
+        { "option_id": 2, "text": "जपानी", "is_correct": true },
+        { "option_id": 3, "text": "इंग्रजी", "is_correct": false },
+        { "option_id": 4, "text": "हिंदी", "is_correct": false }
+      ],
+      "answer": "जपानी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "समुद्रात भूकंप झाल्यामुळे काय निर्माण होते?",
+      "options": [
+        { "option_id": 1, "text": "वादळ", "is_correct": false },
+        { "option_id": 2, "text": "त्सुनामी", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "वीज", "is_correct": false }
+      ],
+      "answer": "त्सुनामी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "दुष्काळ ही कोणती आपत्ती आहे?",
+      "options": [
+        { "option_id": 1, "text": "नैसर्गिक", "is_correct": true },
+        { "option_id": 2, "text": "मानवनिर्मित", "is_correct": false },
+        { "option_id": 3, "text": "काल्पनिक", "is_correct": false },
+        { "option_id": 4, "text": "आनंददायी", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "वीज पडणे ही कसली आपत्ती आहे?",
+      "options": [
+        { "option_id": 1, "text": "मानवनिर्मित", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिक", "is_correct": true },
+        { "option_id": 3, "text": "खेळ", "is_correct": false },
+        { "option_id": 4, "text": "उत्सव", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "गॅस सिलिंडरचा स्फोट होणे ही कोणती आपत्ती आहे?",
+      "options": [
+        { "option_id": 1, "text": "नैसर्गिक", "is_correct": false },
+        { "option_id": 2, "text": "मानवनिर्मित", "is_correct": true },
+        { "option_id": 3, "text": "जागतिक", "is_correct": false },
+        { "option_id": 4, "text": "राजकीय", "is_correct": false }
+      ],
+      "answer": "मानवनिर्मित"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "शाळेत आपत्ती व्यवस्थापनाचे धडे का दिले जातात?",
+      "options": [
+        { "option_id": 1, "text": "मजा करण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "सुरक्षित राहण्यासाठी आणि इतरांना मदत करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "अभ्यास वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "वेळ घालवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "सुरक्षित राहण्यासाठी आणि इतरांना मदत करण्यासाठी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पुरामुळे कोणते नुकसान होते?",
+      "options": [
+        { "option_id": 1, "text": "पिके वाहून जातात", "is_correct": true },
+        { "option_id": 2, "text": "जमीन सुपीक होते", "is_correct": false },
+        { "option_id": 3, "text": "पाणी स्वच्छ होते", "is_correct": false },
+        { "option_id": 4, "text": "झाडे वाढतात", "is_correct": false }
+      ],
+      "answer": "पिके वाहून जातात"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "भूकंपाच्या वेळी इमारतीतून बाहेर पडताना काय वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "लिफ्ट", "is_correct": false },
+        { "option_id": 2, "text": "जिन्याचा (पायऱ्यांचा)", "is_correct": true },
+        { "option_id": 3, "text": "खिडकी", "is_correct": false },
+        { "option_id": 4, "text": "दोरी", "is_correct": false }
+      ],
+      "answer": "जिन्याचा (पायऱ्यांचा)"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कोणत्या ऋतूत गारपीट होण्याची शक्यता असते?",
+      "options": [
+        { "option_id": 1, "text": "पावसाळ्यात", "is_correct": false },
+        { "option_id": 2, "text": "हिवाळ्यात आणि उन्हाळ्यात (अवकाळी)", "is_correct": true },
+        { "option_id": 3, "text": "फक्त पावसाळ्यात", "is_correct": false },
+        { "option_id": 4, "text": "कधीच नाही", "is_correct": false }
+      ],
+      "answer": "हिवाळ्यात आणि उन्हाळ्यात (अवकाळी)"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "आपत्तीच्या काळात आपण कसे वागावे?",
+      "options": [
+        { "option_id": 1, "text": "स्वार्थीपणे", "is_correct": false },
+        { "option_id": 2, "text": "मदतनीस म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "भीतीदायक", "is_correct": false },
+        { "option_id": 4, "text": "बेजबाबदारपणे", "is_correct": false }
+      ],
+      "answer": "मदतनीस म्हणून"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "नदीकाठच्या लोकांना पुराचा धोका असतो का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": true },
+        { "option_id": 2, "text": "नाही", "is_correct": false },
+        { "option_id": 3, "text": "कधीच नाही", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "हो"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "त्सुनामीमुळे काय हानी होते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त झाडांची", "is_correct": false },
+        { "option_id": 2, "text": "माणसे, इमारती आणि वाहनांची मोठी हानी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त जहाजांची", "is_correct": false },
+        { "option_id": 4, "text": "फक्त माशांची", "is_correct": false }
+      ],
+      "answer": "माणसे, इमारती आणि वाहनांची मोठी हानी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "नैसर्गिक आपत्तींची पूर्वसूचना कोण देते?",
+      "options": [
+        { "option_id": 1, "text": "हवामान खाते", "is_correct": true },
+        { "option_id": 2, "text": "पोलीस", "is_correct": false },
+        { "option_id": 3, "text": "डॉक्टर", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षक", "is_correct": false }
+      ],
+      "answer": "हवामान खाते"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "गारपिटीचा फटका कोणाला बसतो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ शहरी लोकांना", "is_correct": false },
+        { "option_id": 2, "text": "शेतकरी आणि पिकांना", "is_correct": true },
+        { "option_id": 3, "text": "केवळ नोकरदारांना", "is_correct": false },
+        { "option_id": 4, "text": "विद्यार्थ्यांना", "is_correct": false }
+      ],
+      "answer": "शेतकरी आणि पिकांना"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "नैसर्गिक आपत्ती टाळता येतात का?",
+      "options": [
+        { "option_id": 1, "text": "हो, पूर्णपणे", "is_correct": false },
+        { "option_id": 2, "text": "नाही, पण सावधगिरी बाळगता येते", "is_correct": true },
+        { "option_id": 3, "text": "पैसे देऊन टाळता येतात", "is_correct": false },
+        { "option_id": 4, "text": "यंत्राने टाळता येतात", "is_correct": false }
+      ],
+      "answer": "नाही, पण सावधगिरी बाळगता येते"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "आपत्ती व्यवस्थापन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "आपत्ती निर्माण करणे", "is_correct": false },
+        { "option_id": 2, "text": "आपत्तीला तोंड देण्यासाठी केलेली पूर्वतयारी", "is_correct": true },
+        { "option_id": 3, "text": "आपत्तीकडे दुर्लक्ष करणे", "is_correct": false },
+        { "option_id": 4, "text": "घाबरणे", "is_correct": false }
+      ],
+      "answer": "आपत्तीला तोंड देण्यासाठी केलेली पूर्वतयारी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "दरड कोसळणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "डोंगराचा कडा किंवा दगड खाली पडणे", "is_correct": true },
+        { "option_id": 2, "text": "झाड पडणे", "is_correct": false },
+        { "option_id": 3, "text": "भिंत पडणे", "is_correct": false },
+        { "option_id": 4, "text": "पाऊस पडणे", "is_correct": false }
+      ],
+      "answer": "डोंगराचा कडा किंवा दगड खाली पडणे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "आपत्तीच्या वेळी अफवांवर विश्वास ठेवावा का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही, खात्री करावी", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "नाही, खात्री करावी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "आपत्तीच्या वेळी कोणाला प्राधान्याने मदत करावी?",
+      "options": [
+        { "option_id": 1, "text": "तरुण लोकांना", "is_correct": false },
+        { "option_id": 2, "text": "वृद्ध, लहान मुले आणि आजारी व्यक्तींना", "is_correct": true },
+        { "option_id": 3, "text": "स्वतःला", "is_correct": false },
+        { "option_id": 4, "text": "कोणालाच नाही", "is_correct": false }
+      ],
+      "answer": "वृद्ध, लहान मुले आणि आजारी व्यक्तींना"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "२६ जुलै २००५ रोजी मुंबईत काय झाले होते?",
+      "options": [
+        { "option_id": 1, "text": "भूकंप", "is_correct": false },
+        { "option_id": 2, "text": "महापूर (अतिवृष्टी)", "is_correct": true },
+        { "option_id": 3, "text": "त्सुनामी", "is_correct": false },
+        { "option_id": 4, "text": "वादळ", "is_correct": false }
+      ],
+      "answer": "महापूर (अतिवृष्टी)"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "वादळ आल्यावर कोठे थांबू नये?",
+      "options": [
+        { "option_id": 1, "text": "घरात", "is_correct": false },
+        { "option_id": 2, "text": "झाडाखाली किंवा मोडकळीस आलेल्या इमारतीजवळ", "is_correct": true },
+        { "option_id": 3, "text": "शाळेत", "is_correct": false },
+        { "option_id": 4, "text": "मजबूत इमारतीत", "is_correct": false }
+      ],
+      "answer": "झाडाखाली किंवा मोडकळीस आलेल्या इमारतीजवळ"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "आपत्तीत जखमी झालेल्या व्यक्तीला काय द्यावे?",
+      "options": [
+        { "option_id": 1, "text": "जेवण", "is_correct": false },
+        { "option_id": 2, "text": "प्रथमोपचार", "is_correct": true },
+        { "option_id": 3, "text": "पैसे", "is_correct": false },
+        { "option_id": 4, "text": "कपडे", "is_correct": false }
+      ],
+      "answer": "प्रथमोपचार"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "नैसर्गिक आपत्ती कशाचा भाग आहेत?",
+      "options": [
+        { "option_id": 1, "text": "खेळाचा", "is_correct": false },
+        { "option_id": 2, "text": "निसर्गचक्राचा", "is_correct": true },
+        { "option_id": 3, "text": "मानवाच्या चुकीचा", "is_correct": false },
+        { "option_id": 4, "text": "विज्ञानाचा", "is_correct": false }
+      ],
+      "answer": "निसर्गचक्राचा"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक आपत्ती म्हणजे काय?",
+      "answer": "निसर्गात अचानक घडणाऱ्या आणि मानवी जीवनावर वाईट परिणाम करणाऱ्या घटनांना नैसर्गिक आपत्ती म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "अवकाळी पाऊस कशाला म्हणतात?",
+      "answer": "पावसाळा सोडून इतर ऋतूंमध्ये (हिवाळा किंवा उन्हाळा) अचानक पडणाऱ्या पावसाला अवकाळी पाऊस म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पूर म्हणजे काय?",
+      "answer": "अतिवृष्टीमुळे नदीचे पाणी पात्र सोडून बाहेर पसरते, याला पूर म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय?",
+      "answer": "जमिनीच्या पोटात खडकांमध्ये हालचाली झाल्यामुळे जमीन हादरते, त्याला भूकंप म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "त्सुनामी म्हणजे काय?",
+      "answer": "सागराच्या तळाशी भूकंप झाल्यामुळे निर्माण होणाऱ्या प्रचंड लाटांना त्सुनामी म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "गारपिटीचा पिकांवर काय परिणाम होतो?",
+      "answer": "गारपिटीमुळे पिके भुईसपाट होतात आणि फळे-फुले गळून पडतात, त्यामुळे पिकांचे नुकसान होते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पुराच्या वेळी कोणती काळजी घ्यावी?",
+      "answer": "पुराच्या वेळी उंच आणि सुरक्षित ठिकाणी आश्रय घ्यावा आणि पाण्यात उतरू नये."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "भूकंपाच्या वेळी घरात असताना काय करावे?",
+      "answer": "भूकंपाच्या वेळी टेबलाखाली किंवा दाराच्या चौकटीत उभे राहावे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "त्सुनामीची पूर्वसूचना मिळाल्यावर काय करावे?",
+      "answer": "त्सुनामीची पूर्वसूचना मिळताच समुद्रकिनाऱ्यापासून दूर आणि उंचावर जावे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "मानवनिर्मित आपत्तींची दोन उदाहरणे सांगा.",
+      "answer": "आग लागणे, बॉम्बस्फोट, अपघात ही मानवनिर्मित आपत्तींची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "किल्लारी येथे झालेला भूकंप किती विनाशकारी होता?",
+      "answer": "किल्लारी येथील भूकंपाने हजारो लोकांचा बळी घेतला आणि मोठी वित्तहानी झाली."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "माळीण गावची दुर्घटना कशामुळे घडली?",
+      "answer": "अतिवृष्टीमुळे डोंगरकडा (दरड) कोसळून माळीण गाव गाडले गेले."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "वळवाचा पाऊस केव्हा पडतो?",
+      "answer": "उन्हाळ्यात किंवा पावसाळ्याच्या सुरुवातीला वळवाचा पाऊस पडतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "आपत्ती व्यवस्थापन म्हणजे काय?",
+      "answer": "आपत्तीला तोंड देण्यासाठी केलेले नियोजन आणि पूर्वतयारी म्हणजे आपत्ती व्यवस्थापन होय."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "वादळ आल्यावर झाडाखाली का थांबू नये?",
+      "answer": "वादळात झाड पडण्याची किंवा वीज पडण्याची शक्यता असते, म्हणून झाडाखाली थांबू नये."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पुराचे पाणी ओसरल्यावर काय करावे?",
+      "answer": "पुराचे पाणी ओसरल्यावर परिसर स्वच्छ करावा आणि जंतूनाशके फवारावीत."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे धक्के सौम्य असल्यास काय होते?",
+      "answer": "भूकंपाचे धक्के सौम्य असल्यास फक्त जमीन हादरते, पण जास्त नुकसान होत नाही."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "त्सुनामीचा वेग किती असतो?",
+      "answer": "त्सुनामीचा वेग ताशी शेकडो किलोमीटर असतो (विमानाइतका)."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "आपत्ती काळात आपण कोणाची मदत करू शकतो?",
+      "answer": "आपत्ती काळात आपण वृद्ध, मुले, अपंग आणि जखमी लोकांची मदत करू शकतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "शाळेत अग्निशामक यंत्र का असते?",
+      "answer": "शाळेत आग लागल्यास ती विझवण्यासाठी अग्निशामक यंत्र असते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक आपत्तींमुळे कोणाचे नुकसान होते?",
+      "answer": "नैसर्गिक आपत्तींमुळे सजीव, मालमत्ता आणि पर्यावरणाचे नुकसान होते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "वीज पडताना काय करू नये?",
+      "answer": "वीज पडताना उघड्यावर, झाडाखाली किंवा विजेच्या खांबाजवळ उभे राहू नये."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "दुष्काळाचा परिणाम काय होतो?",
+      "answer": "दुष्काळामुळे पाण्याची टंचाई होते, पिके करपतात आणि जनावरांना चारा मिळत नाही."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वादळात घराचे छत उडू नये म्हणून काय करतात?",
+      "answer": "घराचे छत मजबूत बांधतात आणि त्यावर वजन ठेवतात (जुन्या पद्धतीत)."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "आपत्ती काळात अफवा का पसरवू नयेत?",
+      "answer": "अफवांमुळे लोकांमध्ये भीती निर्माण होते आणि गोंधळ उडतो, म्हणून अफवा पसरवू नयेत."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "पूर आल्यावर पिण्याचे पाणी कसे उपलब्ध करावे?",
+      "answer": "पूर आल्यावर टँकरचे पाणी किंवा बाटलीबंद पाणी वापरावे आणि ते उकळून प्यावे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "भूकंप झाल्यावर इमारतीतून बाहेर कसे पडावे?",
+      "answer": "डोक्यावर हात ठेवून किंवा पिशवी घेऊन शांतपणे आणि रांगेत बाहेर पडावे, लिफ्ट वापरू नये."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "त्सुनामीपासून वाचण्यासाठी काय आवश्यक आहे?",
+      "answer": "त्सुनामीपासून वाचण्यासाठी वेळेवर पूर्वसूचना मिळणे आणि सुरक्षित स्थळी जाणे आवश्यक आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "आपत्ती काळात मदत करणाऱ्या संस्था कोणत्या?",
+      "answer": "पोलीस, अग्निशामक दल, एनडीआरएफ (NDRF), रुग्णालये आणि सामाजिक संस्था."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "घरात प्रथमोपचार पेटी का असावी?",
+      "answer": "छोट्या-मोठ्या दुखापतींवर त्वरित उपचार करण्यासाठी घरात प्रथमोपचार पेटी असावी."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक आपत्तीची माहिती मिळवण्यासाठी कोणते माध्यम उपयुक्त आहे?",
+      "answer": "रेडिओ, टेलिव्हिजन आणि मोबाईल हे नैसर्गिक आपत्तीची माहिती मिळवण्यासाठी उपयुक्त माध्यम आहेत."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "आपत्ती काळात धैर्य का ठेवावे?",
+      "answer": "धैर्य ठेवल्याने आपण योग्य निर्णय घेऊ शकतो आणि स्वतःचा व इतरांचा जीव वाचवू शकतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "अवकाळी पावसाचा पिकांवर काय परिणाम होतो?",
+      "answer": "अवकाळी पावसामुळे पिके भुईसपाट होतात, धान्य भिजते आणि कुजते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "गावात पूर आल्यावर जनावरांचे काय करावे?",
+      "answer": "गावात पूर आल्यावर जनावरांना दावणीतून सोडून द्यावे आणि सुरक्षित उंच ठिकाणी न्यावे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे केंद्र कोठे असते?",
+      "answer": "भूकंपाचे केंद्र जमिनीच्या पोटात (भूगर्भात) असते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "दरड कोसळण्याची भीती कोठे असते?",
+      "answer": "डोंगराळ भागात आणि घाटात दरड कोसळण्याची भीती असते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "आपत्ती काळात पाण्याचे महत्त्व काय?",
+      "answer": "स्वच्छ आणि सुरक्षित पाणी पिण्यासाठी मिळणे अत्यंत महत्त्वाचे असते, कारण दूषित पाण्यामुळे रोगराई पसरते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "त्सुनामीमुळे किनारी भागात काय होते?",
+      "answer": "त्सुनामीमुळे किनारी भागातील घरे, झाडे, वास्तू आणि वाहने वाहून जातात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "आपत्ती निवारणासाठी आपण काय करू शकतो?",
+      "answer": "आपण वृक्षारोपण, पाण्याचे संवर्धन आणि प्रदूषण कमी करून काही नैसर्गिक आपत्तींची तीव्रता कमी करू शकतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक आपत्ती आणि मानवनिर्मित आपत्ती यात काय फरक आहे?",
+      "answer": "नैसर्गिक आपत्ती निसर्गामुळे घडतात, तर मानवनिर्मित आपत्ती माणसाच्या चुकांमुळे घडतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "आपत्ती काळात संपर्क यंत्रणा का महत्त्वाची असते?",
+      "answer": "मदतीची मागणी करण्यासाठी आणि माहिती मिळवण्यासाठी संपर्क यंत्रणा महत्त्वाची असते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "वादळाची पूर्वसूचना मिळताच मच्छिमारांनी काय करावे?",
+      "answer": "वादळाची पूर्वसूचना मिळताच मच्छिमारांनी समुद्रात जाऊ नये आणि बोटी सुरक्षित ठिकाणी लावाव्यात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "भूकंप झाल्यावर लगेच घरात जावे का?",
+      "answer": "नाही, भूकंप झाल्यावर लगेच घरात जाऊ नये, कारण पुन्हा धक्के बसण्याची शक्यता असते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "पूर आल्यावर वीज का बंद करतात?",
+      "answer": "पाण्यातून विजेचा प्रवाह पसरून शॉक लागू नये म्हणून पूर आल्यावर वीज बंद करतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक आपत्तीमुळे जनजीवन कसे विस्कळीत होते?",
+      "answer": "नैसर्गिक आपत्तीमुळे रस्ते बंद होतात, वीज जाते, पाणीपुरवठा थांबतो आणि घरे पडतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "आपत्ती काळात अन्नाची सोय कशी होते?",
+      "answer": "शासन आणि सेवाभावी संस्था आपत्तीग्रस्तांना अन्नाची पाकिटे आणि धान्य पुरवतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "दरडी कोसळू नयेत म्हणून काय केले जाते?",
+      "answer": "डोंगराच्या कडांवर जाळी बसवली जाते आणि झाडे लावली जातात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "त्सुनामीपासून बचावासाठी खारफुटीची वने का महत्त्वाची आहेत?",
+      "answer": "खारफुटीची वने लाटांचा वेग कमी करतात आणि किनाऱ्याचे रक्षण करतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "भूकंपाचे मोजमाप कशात करतात?",
+      "answer": "भूकंपाचे मोजमाप रिश्टर स्केलमध्ये करतात (हे अतिरिक्त माहिती असू शकते)."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "आपत्ती काळात आपण कसे राहावे?",
+      "answer": "आपत्ती काळात आपण सतर्क, शांत आणि एकमेकांना मदत करणारे राहावे."
+    }
+  ]
+}

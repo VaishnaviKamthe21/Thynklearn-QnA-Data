@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.19",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "हे कोण गे आई ?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "बालकवी", "is_correct": false },
+        { "option_id": 2, "text": "भा. रा. तांबे", "is_correct": true },
+        { "option_id": 3, "text": "केशवसुत", "is_correct": false },
+        { "option_id": 4, "text": "कुसुमाग्रज", "is_correct": false }
+      ],
+      "answer": "भा. रा. तांबे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवी कोणाला प्रश्न विचारत आहे?",
+      "options": [
+        { "option_id": 1, "text": "बाबांना", "is_correct": false },
+        { "option_id": 2, "text": "आईला", "is_correct": true },
+        { "option_id": 3, "text": "मित्राला", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षकांना", "is_correct": false }
+      ],
+      "answer": "आईला"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणाच्या शेजारील जागेचे वर्णन केले आहे?",
+      "options": [
+        { "option_id": 1, "text": "शाळेच्या", "is_correct": false },
+        { "option_id": 2, "text": "घराच्या", "is_correct": false },
+        { "option_id": 3, "text": "नदीच्या", "is_correct": true },
+        { "option_id": 4, "text": "डोंगराच्या", "is_correct": false }
+      ],
+      "answer": "नदीच्या"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "गडाच्या कशात कोणीतरी राहते असे कवीला वाटते?",
+      "options": [
+        { "option_id": 1, "text": "खिडकीत", "is_correct": false },
+        { "option_id": 2, "text": "दरवाजात", "is_correct": false },
+        { "option_id": 3, "text": "खिंडारीत", "is_correct": true },
+        { "option_id": 4, "text": "बुरुजात", "is_correct": false }
+      ],
+      "answer": "खिंडारीत"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वेळूच्या जाळीत काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "सूर्यप्रकाश", "is_correct": false },
+        { "option_id": 2, "text": "साप", "is_correct": false },
+        { "option_id": 3, "text": "जांभळी अंधारी", "is_correct": true },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "जांभळी अंधारी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "देऊळ कसे आहे?",
+      "options": [
+        { "option_id": 1, "text": "नवीन", "is_correct": false },
+        { "option_id": 2, "text": "मोडके", "is_correct": true },
+        { "option_id": 3, "text": "मोठे", "is_correct": false },
+        { "option_id": 4, "text": "सुंदर", "is_correct": false }
+      ],
+      "answer": "मोडके"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "मोडक्या देवळावर कोणते झाड आहे?",
+      "options": [
+        { "option_id": 1, "text": "वड", "is_correct": false },
+        { "option_id": 2, "text": "पिंपळ", "is_correct": true },
+        { "option_id": 3, "text": "उंबर", "is_correct": false },
+        { "option_id": 4, "text": "लिंब", "is_correct": false }
+      ],
+      "answer": "पिंपळ"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कोणाच्या शेंड्यांना ओढून हलवले जात आहे?",
+      "options": [
+        { "option_id": 1, "text": "पिंपळाच्या", "is_correct": false },
+        { "option_id": 2, "text": "आंब्याच्या", "is_correct": false },
+        { "option_id": 3, "text": "चिंचेच्या", "is_correct": true },
+        { "option_id": 4, "text": "बाभळीच्या", "is_correct": false }
+      ],
+      "answer": "चिंचेच्या"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वडाच्या पारंब्यांना कवीने काय म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "केस", "is_correct": false },
+        { "option_id": 2, "text": "दाढ्या", "is_correct": true },
+        { "option_id": 3, "text": "दोऱ्या", "is_correct": false },
+        { "option_id": 4, "text": "हात", "is_correct": false }
+      ],
+      "answer": "दाढ्या"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "जोरजोराने कोण शीळ वाजवत आहे?",
+      "options": [
+        { "option_id": 1, "text": "पक्षी", "is_correct": false },
+        { "option_id": 2, "text": "मुलगा", "is_correct": false },
+        { "option_id": 3, "text": "वारा (कोणीतरी अज्ञात)", "is_correct": true },
+        { "option_id": 4, "text": "गुराखी", "is_correct": false }
+      ],
+      "answer": "वारा (कोणीतरी अज्ञात)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ही शीळ कोणाला लाजवणारी आहे?",
+      "options": [
+        { "option_id": 1, "text": "माणसांना", "is_correct": false },
+        { "option_id": 2, "text": "पाखरांना", "is_correct": true },
+        { "option_id": 3, "text": "प्राण्यांना", "is_correct": false },
+        { "option_id": 4, "text": "गायकाला", "is_correct": false }
+      ],
+      "answer": "पाखरांना"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाने कशी झाली आहेत?",
+      "options": [
+        { "option_id": 1, "text": "हिरवीगार", "is_correct": false },
+        { "option_id": 2, "text": "ओली", "is_correct": false },
+        { "option_id": 3, "text": "वाळलेली सोनेरी", "is_correct": true },
+        { "option_id": 4, "text": "लाल", "is_correct": false }
+      ],
+      "answer": "वाळलेली सोनेरी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पाने काय धरून नाचतात?",
+      "options": [
+        { "option_id": 1, "text": "हात", "is_correct": false },
+        { "option_id": 2, "text": "मंडळ (फेर)", "is_correct": true },
+        { "option_id": 3, "text": "फांदी", "is_correct": false },
+        { "option_id": 4, "text": "फूल", "is_correct": false }
+      ],
+      "answer": "मंडळ (फेर)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "झाडांच्या सावल्या कुठे कांपल्या?",
+      "options": [
+        { "option_id": 1, "text": "जमिनीवर", "is_correct": false },
+        { "option_id": 2, "text": "नदीत", "is_correct": true },
+        { "option_id": 3, "text": "भिंतीवर", "is_correct": false },
+        { "option_id": 4, "text": "आकाशात", "is_correct": false }
+      ],
+      "answer": "नदीत"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कवीने हाका मारल्यावर काय ऐकू आले?",
+      "options": [
+        { "option_id": 1, "text": "गाणे", "is_correct": false },
+        { "option_id": 2, "text": "पक्ष्यांचा आवाज", "is_correct": false },
+        { "option_id": 3, "text": "वाकोल्या (प्रतिध्वनी)", "is_correct": true },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "वाकोल्या (प्रतिध्वनी)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवीच्या उरात काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "दुखले", "is_correct": false },
+        { "option_id": 2, "text": "धडधडले", "is_correct": true },
+        { "option_id": 3, "text": "भरून आले", "is_correct": false },
+        { "option_id": 4, "text": "शांत झाले", "is_correct": false }
+      ],
+      "answer": "धडधडले"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "धावताना कवीचे काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "ते पडले", "is_correct": true },
+        { "option_id": 2, "text": "ते थांबले", "is_correct": false },
+        { "option_id": 3, "text": "ते हरवले", "is_correct": false },
+        { "option_id": 4, "text": "ते हसले", "is_correct": false }
+      ],
+      "answer": "ते पडले"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कवी कोठून पळाले?",
+      "options": [
+        { "option_id": 1, "text": "घरातून", "is_correct": false },
+        { "option_id": 2, "text": "शाळेतून", "is_correct": false },
+        { "option_id": 3, "text": "तेथून (नदीकाठच्या जागेवरून)", "is_correct": true },
+        { "option_id": 4, "text": "गावातून", "is_correct": false }
+      ],
+      "answer": "तेथून (नदीकाठच्या जागेवरून)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "'खिंडार' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मोठा दरवाजा", "is_correct": false },
+        { "option_id": 2, "text": "किल्ल्याचा अरुंद रस्ता / खिंड", "is_correct": true },
+        { "option_id": 3, "text": "गुहा", "is_correct": false },
+        { "option_id": 4, "text": "खिडकी", "is_correct": false }
+      ],
+      "answer": "किल्ल्याचा अरुंद रस्ता / खिंड"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "'वेळू' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "वेळ", "is_correct": false },
+        { "option_id": 2, "text": "वाळू", "is_correct": false },
+        { "option_id": 3, "text": "बांबू", "is_correct": true },
+        { "option_id": 4, "text": "वेली", "is_correct": false }
+      ],
+      "answer": "बांबू"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "'साउल्या' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "सावल्या", "is_correct": true },
+        { "option_id": 2, "text": "मैत्रिणी", "is_correct": false },
+        { "option_id": 3, "text": "सायकल", "is_correct": false },
+        { "option_id": 4, "text": "संध्याकाळ", "is_correct": false }
+      ],
+      "answer": "सावल्या"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "'वाकोल्या' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "वाकड्या रेषा", "is_correct": false },
+        { "option_id": 2, "text": "तोंड वाकडे करणे (येथे प्रतिध्वनी)", "is_correct": true },
+        { "option_id": 3, "text": "वाकायला लावणे", "is_correct": false },
+        { "option_id": 4, "text": "एक प्रकारचा पक्षी", "is_correct": false }
+      ],
+      "answer": "तोंड वाकडे करणे (येथे प्रतिध्वनी)"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणती वेळ दर्शवली आहे?",
+      "options": [
+        { "option_id": 1, "text": "पहाट", "is_correct": false },
+        { "option_id": 2, "text": "रात्र", "is_correct": false },
+        { "option_id": 3, "text": "दिवसा दुपारी", "is_correct": true },
+        { "option_id": 4, "text": "संध्याकाळ", "is_correct": false }
+      ],
+      "answer": "दिवसा दुपारी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "'पालवी' कोणी हालवली?",
+      "options": [
+        { "option_id": 1, "text": "वाऱ्याने (कोण गे)", "is_correct": true },
+        { "option_id": 2, "text": "मुलाने", "is_correct": false },
+        { "option_id": 3, "text": "वानराने", "is_correct": false },
+        { "option_id": 4, "text": "पक्षाने", "is_correct": false }
+      ],
+      "answer": "वाऱ्याने (कोण गे)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवीला कोणी लाजवले असे वाटते?",
+      "options": [
+        { "option_id": 1, "text": "मित्राने", "is_correct": false },
+        { "option_id": 2, "text": "आईने", "is_correct": false },
+        { "option_id": 3, "text": "शीळ वाजवणाऱ्याने पाखरांना", "is_correct": true },
+        { "option_id": 4, "text": "स्वतःने", "is_correct": false }
+      ],
+      "answer": "शीळ वाजवणाऱ्याने पाखरांना"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "'ठायी' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "ठामपणे", "is_correct": false },
+        { "option_id": 2, "text": "ठिकाणी", "is_correct": true },
+        { "option_id": 3, "text": "वेळेवर", "is_correct": false },
+        { "option_id": 4, "text": "खाली", "is_correct": false }
+      ],
+      "answer": "ठिकाणी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "'उरात' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पोटात", "is_correct": false },
+        { "option_id": 2, "text": "हृदयात / छातीत", "is_correct": true },
+        { "option_id": 3, "text": "घरात", "is_correct": false },
+        { "option_id": 4, "text": "मनात", "is_correct": false }
+      ],
+      "answer": "हृदयात / छातीत"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "'चौफेरी' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "चार वेळा", "is_correct": false },
+        { "option_id": 2, "text": "सगळीकडे / चोहोकडे", "is_correct": true },
+        { "option_id": 3, "text": "चार रस्ते", "is_correct": false },
+        { "option_id": 4, "text": "चार फळे", "is_correct": false }
+      ],
+      "answer": "सगळीकडे / चोहोकडे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कवीला कशाची भीती वाटली?",
+      "options": [
+        { "option_id": 1, "text": "सापाची", "is_correct": false },
+        { "option_id": 2, "text": "अंधाराची", "is_correct": false },
+        { "option_id": 3, "text": "अनामिक (मागे कोणीतरी येत असल्याची)", "is_correct": true },
+        { "option_id": 4, "text": "पाण्याची", "is_correct": false }
+      ],
+      "answer": "अनामिक (मागे कोणीतरी येत असल्याची)"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "'झाडांच्या ओळींत' या शब्दाशी यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "जाळींत", "is_correct": true },
+        { "option_id": 2, "text": "ठायीं", "is_correct": false },
+        { "option_id": 3, "text": "पिंपळ", "is_correct": false },
+        { "option_id": 4, "text": "आई", "is_correct": false }
+      ],
+      "answer": "जाळींत"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "'दुपारीं' या शब्दाशी यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "अंधारी", "is_correct": true },
+        { "option_id": 2, "text": "शेजारीं", "is_correct": false },
+        { "option_id": 3, "text": "पिंपळ", "is_correct": false },
+        { "option_id": 4, "text": "आई", "is_correct": false }
+      ],
+      "answer": "अंधारी"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "'दाढ्यांना' या शब्दाशी यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "शेंड्यांना", "is_correct": true },
+        { "option_id": 2, "text": "हालवी", "is_correct": false },
+        { "option_id": 3, "text": "पालवी", "is_correct": false },
+        { "option_id": 4, "text": "वाजवी", "is_correct": false }
+      ],
+      "answer": "शेंड्यांना"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "'हालवी' या शब्दाशी यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "पालवी", "is_correct": true },
+        { "option_id": 2, "text": "वाजवी", "is_correct": false },
+        { "option_id": 3, "text": "लाजवी", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "'सोनेरी' या शब्दाशी यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "चौफेरी", "is_correct": true },
+        { "option_id": 2, "text": "धरोनी", "is_correct": false },
+        { "option_id": 3, "text": "ऐकोनी", "is_correct": false },
+        { "option_id": 4, "text": "पाहीलें", "is_correct": false }
+      ],
+      "answer": "चौफेरी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "'साउल्या' या शब्दाशी यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "कांपल्या", "is_correct": true },
+        { "option_id": 2, "text": "मारिल्या", "is_correct": false },
+        { "option_id": 3, "text": "ऐकिल्या", "is_correct": false },
+        { "option_id": 4, "text": "देखीलें", "is_correct": false }
+      ],
+      "answer": "कांपल्या"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "'धडधडे' या शब्दाशी यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "पडे", "is_correct": true },
+        { "option_id": 2, "text": "तेथून", "is_correct": false },
+        { "option_id": 3, "text": "मागून", "is_correct": false },
+        { "option_id": 4, "text": "कोण", "is_correct": false }
+      ],
+      "answer": "पडे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कवितेत 'गे' हा शब्द कोणासाठी वापरला आहे?",
+      "options": [
+        { "option_id": 1, "text": "आईसाठी (संबोधन)", "is_correct": true },
+        { "option_id": 2, "text": "मुलीसाठी", "is_correct": false },
+        { "option_id": 3, "text": "नदीसाठी", "is_correct": false },
+        { "option_id": 4, "text": "सावलीसाठी", "is_correct": false }
+      ],
+      "answer": "आईसाठी (संबोधन)"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पिंपळ कोठे आहे?",
+      "options": [
+        { "option_id": 1, "text": "नदीच्या काठी", "is_correct": false },
+        { "option_id": 2, "text": "मोडक्या देवळावर", "is_correct": true },
+        { "option_id": 3, "text": "घरासमोर", "is_correct": false },
+        { "option_id": 4, "text": "गडावर", "is_correct": false }
+      ],
+      "answer": "मोडक्या देवळावर"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "पाने काय ऐकून नाचतात?",
+      "options": [
+        { "option_id": 1, "text": "गाणे", "is_correct": false },
+        { "option_id": 2, "text": "शीळ", "is_correct": true },
+        { "option_id": 3, "text": "ढोल", "is_correct": false },
+        { "option_id": 4, "text": "हाक", "is_correct": false }
+      ],
+      "answer": "शीळ"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "कवीला काय वाटत आहे?",
+      "options": [
+        { "option_id": 1, "text": "आनंद", "is_correct": false },
+        { "option_id": 2, "text": "भीती / कुतूहल", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "दुःख", "is_correct": false }
+      ],
+      "answer": "भीती / कुतूहल"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "'पांखरां' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पंख", "is_correct": false },
+        { "option_id": 2, "text": "पक्षी (पाखरांना)", "is_correct": true },
+        { "option_id": 3, "text": "पाने", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "पक्षी (पाखरांना)"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "'देखीलें' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "दाखवले", "is_correct": false },
+        { "option_id": 2, "text": "पाहिले", "is_correct": true },
+        { "option_id": 3, "text": "दिले", "is_correct": false },
+        { "option_id": 4, "text": "घेतले", "is_correct": false }
+      ],
+      "answer": "पाहिले"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कवितेत 'वडांच्या दाढ्यांना' म्हणजे कशाला?",
+      "options": [
+        { "option_id": 1, "text": "वडाच्या खोडाला", "is_correct": false },
+        { "option_id": 2, "text": "वडाच्या पानांना", "is_correct": false },
+        { "option_id": 3, "text": "वडाच्या पारंब्यांना", "is_correct": true },
+        { "option_id": 4, "text": "वडाच्या फळांना", "is_correct": false }
+      ],
+      "answer": "वडाच्या पारंब्यांना"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "'अंधारी' चा रंग कोणता सांगितला आहे?",
+      "options": [
+        { "option_id": 1, "text": "काळी", "is_correct": false },
+        { "option_id": 2, "text": "निळी", "is_correct": false },
+        { "option_id": 3, "text": "जांभळी", "is_correct": true },
+        { "option_id": 4, "text": "लाल", "is_correct": false }
+      ],
+      "answer": "जांभळी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या प्रकारची आहे?",
+      "options": [
+        { "option_id": 1, "text": "निसर्ग कविता / भीतीदायक वातावरणाचे वर्णन", "is_correct": true },
+        { "option_id": 2, "text": "देशभक्तीपर", "is_correct": false },
+        { "option_id": 3, "text": "विनोदी", "is_correct": false },
+        { "option_id": 4, "text": "प्रार्थना", "is_correct": false }
+      ],
+      "answer": "निसर्ग कविता / भीतीदायक वातावरणाचे वर्णन"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "'मोडकें' या शब्दाचे आधुनिक रूप काय?",
+      "options": [
+        { "option_id": 1, "text": "मोडके", "is_correct": true },
+        { "option_id": 2, "text": "मोडकी", "is_correct": false },
+        { "option_id": 3, "text": "मोडले", "is_correct": false },
+        { "option_id": 4, "text": "मोड", "is_correct": false }
+      ],
+      "answer": "मोडके"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "'राहतें' या शब्दाचे आधुनिक रूप काय?",
+      "options": [
+        { "option_id": 1, "text": "राहिली", "is_correct": false },
+        { "option_id": 2, "text": "राहते", "is_correct": true },
+        { "option_id": 3, "text": "राहील", "is_correct": false },
+        { "option_id": 4, "text": "राहणे", "is_correct": false }
+      ],
+      "answer": "राहते"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "कवीला कोण मागे येत आहे असे वाटते?",
+      "options": [
+        { "option_id": 1, "text": "मित्र", "is_correct": false },
+        { "option_id": 2, "text": "वाघ", "is_correct": false },
+        { "option_id": 3, "text": "कोणीतरी अज्ञात (कोण ये मागून?)", "is_correct": true },
+        { "option_id": 4, "text": "पोलीस", "is_correct": false }
+      ],
+      "answer": "कोणीतरी अज्ञात (कोण ये मागून?)"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कवीने हाका मारल्यावर काय ऐकू आले?",
+      "options": [
+        { "option_id": 1, "text": "वाकुल्या", "is_correct": true },
+        { "option_id": 2, "text": "गाणे", "is_correct": false },
+        { "option_id": 3, "text": "हसणे", "is_correct": false },
+        { "option_id": 4, "text": "रडणे", "is_correct": false }
+      ],
+      "answer": "वाकुल्या"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "झाडांच्या सावल्या कोठे कांपल्या?",
+      "options": [
+        { "option_id": 1, "text": "भिंतीवर", "is_correct": false },
+        { "option_id": 2, "text": "नदींत (नदीत)", "is_correct": true },
+        { "option_id": 3, "text": "रस्त्यावर", "is_correct": false },
+        { "option_id": 4, "text": "घरावर", "is_correct": false }
+      ],
+      "answer": "नदींत (नदीत)"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवितेचे नाव काय आहे?",
+      "answer": "कवितेचे नाव 'हे कोण गे आई ?' आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कवितेचे कवी कोण आहेत?",
+      "answer": "कवितेचे कवी भा. रा. तांबे आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या ठिकाणाचे वर्णन केले आहे?",
+      "answer": "नदीच्या शेजारी, गडाच्या खिंडारात आणि झाडांच्या ओळीत असलेल्या एका निर्जन जागेचे वर्णन केले आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "वेळूच्या जाळीत काय आहे?",
+      "answer": "वेळूच्या जाळीत भरदुपारी जांभळी अंधारी आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "मोडके देऊळ कोठे आहे?",
+      "answer": "गडाच्या खिंडारात किंवा त्या निर्जन जागी मोडके देऊळ आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "देवळावर कोणते झाड आहे?",
+      "answer": "देवळावर पिंपळाचे झाड आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कवी आईला काय विचारत आहेत?",
+      "answer": "कवी आईला विचारत आहेत की 'त्या ठिकाणी कोण राहते?'"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "चिंचांच्या शेंड्यांना कोण हलवत आहे?",
+      "answer": "कुणीतरी (बहुधा वारा) चिंचांच्या शेंड्यांना ओढून हलवत आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "वडांच्या दाढ्यांना (पारंब्यांना) कोण ओढत आहे?",
+      "answer": "वारा वडांच्या दाढ्यांना ओढत आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पालवी कोण हलवत आहे?",
+      "answer": "पालवी कोणीतरी (वारा) हलवत आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "मोठ्याने शीळ कोण वाजवत आहे?",
+      "answer": "वारा किंवा कोणीतरी अज्ञात शक्ती मोठ्याने शीळ वाजवत आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "शीळ वाजवून कोणाला लाजवले जात आहे?",
+      "answer": "शीळ वाजवून पाखरांना लाजवले जात आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "शीळ किती वेळ ऐकू येत आहे?",
+      "answer": "शीळ सारखी खूप वेळ ऐकू येत आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "वाळलेली पाने कशी आहेत?",
+      "answer": "वाळलेली पाने सोनेरी रंगाची आहेत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पाने काय करत आहेत?",
+      "answer": "पाने शीळ ऐकून गोल फिरत (मंडळ धरून) नाचत आहेत."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कवीने नदीत काय पाहिले?",
+      "answer": "कवीने नदीत झाडांच्या सावल्या कापताना (हलताना) पाहिल्या."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कवीने हाका मारल्यावर काय ऐकू आले?",
+      "answer": "कवीने हाका मारल्यावर वाकोल्या (पडसाद/प्रतिध्वनी) ऐकू आल्या."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कवीच्या उरात का धडधडले?",
+      "answer": "भीतीमुळे कवीच्या उरात धडधडले."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "धावताना कवीचे काय झाले?",
+      "answer": "धावताना कवी पडला."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कवीला काय वाटले?",
+      "answer": "कवीला वाटले की कोणीतरी आपल्या मागून येत आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "'खिंडार' म्हणजे काय?",
+      "answer": "'खिंडार' म्हणजे किल्ल्याचा अरुंद रस्ता किंवा पडका भाग."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "'वेळू' म्हणजे काय?",
+      "answer": "'वेळू' म्हणजे बांबू."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "'वडाची दाढी' कशाला म्हटले आहे?",
+      "answer": "वडाच्या पारंबीला 'वडाची दाढी' म्हटले आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "'साउल्या' या शब्दाचा अर्थ काय?",
+      "answer": "'साउल्या' म्हणजे सावल्या."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "'चौफेरी' म्हणजे काय?",
+      "answer": "'चौफेरी' म्हणजे सगळीकडे किंवा चारही बाजूंना."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कवितेत 'पांखरां' हा शब्द कोणासाठी आला आहे?",
+      "answer": "'पांखरां' हा शब्द पक्ष्यांसाठी आला आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कवी घाबरून का पळाला?",
+      "answer": "वाऱ्याचा आवाज, हलणारी झाडे आणि पडसाद ऐकून कवी घाबरून पळाला."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कवितेत घडलेल्या सर्व घटना कोणामुळे घडल्या?",
+      "answer": "कवितेत घडलेल्या सर्व घटना वाऱ्यामुळे घडल्या."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कवितेत 'वाकुल्या' कशाला म्हटले आहे?",
+      "answer": "कवितेत प्रतिध्वनीला 'वाकुल्या' म्हटले आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणत्या काळातील भाषेचे उदाहरण आहे?",
+      "answer": "ही कविता जुन्या काळातील (फार पूर्वीच्या) मराठी भाषेचे उदाहरण आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "'ओळींत' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'ओळीत'."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "'जाळींत' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'जाळीत'."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "'दुपारीं' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'दुपारी'."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "'राहतें' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'राहते'."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "'जोरानें' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'जोराने'."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "'पांखरां' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'पाखरा'."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "'ऐकूं' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'ऐकू'."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "'वाळलीं' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'वाळली'."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "'मीं' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'मी'."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "'पाहीलें' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'पाहिले'."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "'कांपल्या' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'कापल्या'."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "'हांका' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'हाका'."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "'उरांत' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'उरात'."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "'धांवतां' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'धावता'."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "'पड़ें' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'पडे'."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "'पळालों' या शब्दाचे आधुनिक रूप लिहा.",
+      "answer": "'पळालो'."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "कवितेत 'जांभळी' काय आहे?",
+      "answer": "कवितेत 'जांभळी अंधारी' आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "पाने कशी नाचत आहेत?",
+      "answer": "पाने मंडळ धरून (गोल होऊन) नाचत आहेत."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कवितेतील वातावरण कसे आहे?",
+      "answer": "कवितेतील वातावरण गूढ आणि भीतीदायक आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "कवी शेवटी काय करतो?",
+      "answer": "कवी शेवटी घाबरून तेथून पळून जातो."
+    }
+  ]
+}

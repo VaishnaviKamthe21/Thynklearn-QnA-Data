@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.18",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "जननायक बिरसा मुंडा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा यांचा जन्म कोणत्या तारखेला झाला?",
+      "options": [
+        { "option_id": 1, "text": "१५ ऑगस्ट १८७५", "is_correct": false },
+        { "option_id": 2, "text": "१५ नोव्हेंबर १८७५", "is_correct": true },
+        { "option_id": 3, "text": "२६ जानेवारी १८७५", "is_correct": false },
+        { "option_id": 4, "text": "२ ऑक्टोबर १८७५", "is_correct": false }
+      ],
+      "answer": "१५ नोव्हेंबर १८७५"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा यांच्या वडिलांचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "सुगाना", "is_correct": true },
+        { "option_id": 2, "text": "करमी", "is_correct": false },
+        { "option_id": 3, "text": "रघुनाथ", "is_correct": false },
+        { "option_id": 4, "text": "सोमा", "is_correct": false }
+      ],
+      "answer": "सुगाना"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा यांच्या आईचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पुतळाबाई", "is_correct": false },
+        { "option_id": 2, "text": "करमी", "is_correct": true },
+        { "option_id": 3, "text": "सुलभा", "is_correct": false },
+        { "option_id": 4, "text": "रमाबाई", "is_correct": false }
+      ],
+      "answer": "करमी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा यांचा जन्म कोणत्या गावात झाला?",
+      "options": [
+        { "option_id": 1, "text": "रांची", "is_correct": false },
+        { "option_id": 2, "text": "उलिहातू", "is_correct": true },
+        { "option_id": 3, "text": "हजारीबाग", "is_correct": false },
+        { "option_id": 4, "text": "चक्रधरपूर", "is_correct": false }
+      ],
+      "answer": "उलिहातू"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "उलिहातू हे गाव कोणत्या शहराच्या जवळ आहे?",
+      "options": [
+        { "option_id": 1, "text": "पाटणा", "is_correct": false },
+        { "option_id": 2, "text": "रांची", "is_correct": true },
+        { "option_id": 3, "text": "नागपूर", "is_correct": false },
+        { "option_id": 4, "text": "रायपूर", "is_correct": false }
+      ],
+      "answer": "रांची"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा यांचे आई-वडील काय काम करत होते?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 2, "text": "व्यापारी", "is_correct": false },
+        { "option_id": 3, "text": "शेतमजूर", "is_correct": true },
+        { "option_id": 4, "text": "वकील", "is_correct": false }
+      ],
+      "answer": "शेतमजूर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा यांच्या घरची परिस्थिती कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "श्रीमंतीची", "is_correct": false },
+        { "option_id": 2, "text": "अतिशय हलाखीची (गरीबीची)", "is_correct": true },
+        { "option_id": 3, "text": "समाधानकारक", "is_correct": false },
+        { "option_id": 4, "text": "उत्तम", "is_correct": false }
+      ],
+      "answer": "अतिशय हलाखीची (गरीबीची)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "गावात शाळा नसल्याने बिरसांना शिक्षणासाठी कोणाकडे पाठवले?",
+      "options": [
+        { "option_id": 1, "text": "काकांकडे", "is_correct": false },
+        { "option_id": 2, "text": "आजीकडे", "is_correct": false },
+        { "option_id": 3, "text": "मामाकडे", "is_correct": true },
+        { "option_id": 4, "text": "मित्राकडे", "is_correct": false }
+      ],
+      "answer": "मामाकडे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा यांनी कोणत्या शाळेत शिक्षण घेतले?",
+      "options": [
+        { "option_id": 1, "text": "सरकारी शाळेत", "is_correct": false },
+        { "option_id": 2, "text": "खाजगी शाळेत", "is_correct": false },
+        { "option_id": 3, "text": "मिशनरी शाळेत", "is_correct": true },
+        { "option_id": 4, "text": "आश्रम शाळेत", "is_correct": false }
+      ],
+      "answer": "मिशनरी शाळेत"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "शिक्षणाबरोबरच बिरसा यांना कशात विशेष रस होता?",
+      "options": [
+        { "option_id": 1, "text": "खेळात", "is_correct": false },
+        { "option_id": 2, "text": "संगीत व नृत्यात", "is_correct": true },
+        { "option_id": 3, "text": "चित्रकलेत", "is_correct": false },
+        { "option_id": 4, "text": "पोवण्यात", "is_correct": false }
+      ],
+      "answer": "संगीत व नृत्यात"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "इंग्रजांनी संपूर्ण देशाला काय बनवून ठेवले होते?",
+      "options": [
+        { "option_id": 1, "text": "मित्र", "is_correct": false },
+        { "option_id": 2, "text": "गुलाम", "is_correct": true },
+        { "option_id": 3, "text": "श्रीमंत", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षित", "is_correct": false }
+      ],
+      "answer": "गुलाम"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "इंग्रजांनी वन-कायदा करून आदिवासींचा कोणता अधिकार नाकारला होता?",
+      "options": [
+        { "option_id": 1, "text": "मतदानाचा", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षणाचा", "is_correct": false },
+        { "option_id": 3, "text": "जंगलावरचा पारंपरिक अधिकार", "is_correct": true },
+        { "option_id": 4, "text": "घराचा अधिकार", "is_correct": false }
+      ],
+      "answer": "जंगलावरचा पारंपरिक अधिकार"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "१८९४ साली बिहारमध्ये काय पडले?",
+      "options": [
+        { "option_id": 1, "text": "महापूर", "is_correct": false },
+        { "option_id": 2, "text": "भीषण दुष्काळ", "is_correct": true },
+        { "option_id": 3, "text": "बर्फ", "is_correct": false },
+        { "option_id": 4, "text": "वादळ", "is_correct": false }
+      ],
+      "answer": "भीषण दुष्काळ"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "दुष्काळाच्या काळात लोक कशामुळे मरण पावले?",
+      "options": [
+        { "option_id": 1, "text": "उपासमार व रोगराईमुळे", "is_correct": true },
+        { "option_id": 2, "text": "युद्धाने", "is_correct": false },
+        { "option_id": 3, "text": "अपघाताने", "is_correct": false },
+        { "option_id": 4, "text": "थंडीने", "is_correct": false }
+      ],
+      "answer": "उपासमार व रोगराईमुळे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ब्रिटिशांनी शेतकऱ्यांवर कोणामार्फत अवाजवी शेतसारा लावला होता?",
+      "options": [
+        { "option_id": 1, "text": "पोलिसांमार्फत", "is_correct": false },
+        { "option_id": 2, "text": "जमीनदार व जहागीरदारांकरवी", "is_correct": true },
+        { "option_id": 3, "text": "सावकारांमार्फत", "is_correct": false },
+        { "option_id": 4, "text": "व्यापाऱ्यांमार्फत", "is_correct": false }
+      ],
+      "answer": "जमीनदार व जहागीरदारांकरवी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "शेतसारा म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "शेतीचे अवजार", "is_correct": false },
+        { "option_id": 2, "text": "शेतीचे उत्पन्न", "is_correct": false },
+        { "option_id": 3, "text": "शेतजमिनीवरील कर", "is_correct": true },
+        { "option_id": 4, "text": "शेतातील पीक", "is_correct": false }
+      ],
+      "answer": "शेतजमिनीवरील कर"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "१८९५ मध्ये इंग्रज सरकारने बिरसा मुंडा यांना किती वर्षांची शिक्षा ठोठावली?",
+      "options": [
+        { "option_id": 1, "text": "पाच वर्षे", "is_correct": false },
+        { "option_id": 2, "text": "दोन वर्षे", "is_correct": true },
+        { "option_id": 3, "text": "दहा वर्षे", "is_correct": false },
+        { "option_id": 4, "text": "जन्मठेप", "is_correct": false }
+      ],
+      "answer": "दोन वर्षे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा यांना कोणत्या तुरुंगात डांबण्यात आले?",
+      "options": [
+        { "option_id": 1, "text": "येरवडा", "is_correct": false },
+        { "option_id": 2, "text": "तिहार", "is_correct": false },
+        { "option_id": 3, "text": "हजारीबाग", "is_correct": true },
+        { "option_id": 4, "text": "अंदमान", "is_correct": false }
+      ],
+      "answer": "हजारीबाग"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "तुरुंगात बिरसांनी कोणता संकल्प केला?",
+      "options": [
+        { "option_id": 1, "text": "पळून जाण्याचा", "is_correct": false },
+        { "option_id": 2, "text": "अभ्यास करण्याचा", "is_correct": false },
+        { "option_id": 3, "text": "इंग्रजी सत्ता मुळासकट उखडून टाकण्याचा", "is_correct": true },
+        { "option_id": 4, "text": "शेतकरी बनण्याचा", "is_correct": false }
+      ],
+      "answer": "इंग्रजी सत्ता मुळासकट उखडून टाकण्याचा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "बिरसांनी इंग्रजांविरुद्ध काय पुकारला?",
+      "options": [
+        { "option_id": 1, "text": "संप", "is_correct": false },
+        { "option_id": 2, "text": "मोर्चा", "is_correct": false },
+        { "option_id": 3, "text": "उलगुलान", "is_correct": true },
+        { "option_id": 4, "text": "उपवास", "is_correct": false }
+      ],
+      "answer": "उलगुलान"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "'उलगुलान' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मोठा उत्सव", "is_correct": false },
+        { "option_id": 2, "text": "एकाचवेळी सर्वांगीण उठाव", "is_correct": true },
+        { "option_id": 3, "text": "शांतता मोर्चा", "is_correct": false },
+        { "option_id": 4, "text": "जंगल यात्रा", "is_correct": false }
+      ],
+      "answer": "एकाचवेळी सर्वांगीण उठाव"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "१८९७ नंतर आदिवासींनी कोणाच्या नेतृत्वाखाली लढाया केल्या?",
+      "options": [
+        { "option_id": 1, "text": "महात्मा गांधी", "is_correct": false },
+        { "option_id": 2, "text": "बिरसा मुंडा", "is_correct": true },
+        { "option_id": 3, "text": "भगतसिंग", "is_correct": false },
+        { "option_id": 4, "text": "सुभाषचंद्र बोस", "is_correct": false }
+      ],
+      "answer": "बिरसा मुंडा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "आदिवासींनी कोणत्या शस्त्रांद्वारे लढाया केल्या?",
+      "options": [
+        { "option_id": 1, "text": "बंदुका", "is_correct": false },
+        { "option_id": 2, "text": "तोफा", "is_correct": false },
+        { "option_id": 3, "text": "पारंपरिक शस्त्रांद्वारे", "is_correct": true },
+        { "option_id": 4, "text": "बॉम्ब", "is_correct": false }
+      ],
+      "answer": "पारंपरिक शस्त्रांद्वारे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "ब्रिटिशांकडे कोणती शस्त्रे होती?",
+      "options": [
+        { "option_id": 1, "text": "पारंपरिक", "is_correct": false },
+        { "option_id": 2, "text": "आधुनिक", "is_correct": true },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "काठ्या", "is_correct": false }
+      ],
+      "answer": "आधुनिक"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "१८९८ मध्ये झालेल्या लढाईत किती आदिवासी क्रांतिकारक शहीद झाले?",
+      "options": [
+        { "option_id": 1, "text": "१००", "is_correct": false },
+        { "option_id": 2, "text": "२००", "is_correct": false },
+        { "option_id": 3, "text": "३००", "is_correct": false },
+        { "option_id": 4, "text": "४००", "is_correct": true }
+      ],
+      "answer": "४००"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "आदिवासी समाजाच्या शोषणाचे मूळ कशात आहे हे बिरसांनी ओळखले?",
+      "options": [
+        { "option_id": 1, "text": "गरीबीत", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षणाच्या अभावात", "is_correct": false },
+        { "option_id": 3, "text": "परकीय राजकीय व्यवस्थेत", "is_correct": true },
+        { "option_id": 4, "text": "अंधश्रद्धेत", "is_correct": false }
+      ],
+      "answer": "परकीय राजकीय व्यवस्थेत"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "बिरसांनी कोणाविरुद्ध बंड पुकारले?",
+      "options": [
+        { "option_id": 1, "text": "शेतकऱ्यांविरुद्ध", "is_correct": false },
+        { "option_id": 2, "text": "जमीनदार व जहागीरदार यांच्या विरोधात", "is_correct": true },
+        { "option_id": 3, "text": "आदिवासींविरुद्ध", "is_correct": false },
+        { "option_id": 4, "text": "व्यापाऱ्यांविरुद्ध", "is_correct": false }
+      ],
+      "answer": "जमीनदार व जहागीरदार यांच्या विरोधात"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "सन १९०० मध्ये बिरसा मुंडा कोठे मार्गदर्शन करत होते?",
+      "options": [
+        { "option_id": 1, "text": "शाळेत", "is_correct": false },
+        { "option_id": 2, "text": "गावात", "is_correct": false },
+        { "option_id": 3, "text": "पहाडांमध्ये", "is_correct": true },
+        { "option_id": 4, "text": "नदीकाठी", "is_correct": false }
+      ],
+      "answer": "पहाडांमध्ये"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडांना कोठे बंदी बनवण्यात आले?",
+      "options": [
+        { "option_id": 1, "text": "रांची", "is_correct": false },
+        { "option_id": 2, "text": "चक्रधरपूर", "is_correct": true },
+        { "option_id": 3, "text": "पाटणा", "is_correct": false },
+        { "option_id": 4, "text": "हजारीबाग", "is_correct": false }
+      ],
+      "answer": "चक्रधरपूर"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा यांना वीरगती कधी प्राप्त झाली?",
+      "options": [
+        { "option_id": 1, "text": "१५ ऑगस्ट १९४७", "is_correct": false },
+        { "option_id": 2, "text": "२६ जानेवारी १९५०", "is_correct": false },
+        { "option_id": 3, "text": "९ जून १९००", "is_correct": true },
+        { "option_id": 4, "text": "१५ नोव्हेंबर १८७५", "is_correct": false }
+      ],
+      "answer": "९ जून १९००"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "लोकांनी बिरसा मुंडा यांना कोणता किताब बहाल केला?",
+      "options": [
+        { "option_id": 1, "text": "महात्मा", "is_correct": false },
+        { "option_id": 2, "text": "लोकमान्य", "is_correct": false },
+        { "option_id": 3, "text": "जननायक", "is_correct": true },
+        { "option_id": 4, "text": "सरदार", "is_correct": false }
+      ],
+      "answer": "जननायक"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "'किताब' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "पुस्तक", "is_correct": false },
+        { "option_id": 2, "text": "पदवी", "is_correct": true },
+        { "option_id": 3, "text": "बक्षीस", "is_correct": false },
+        { "option_id": 4, "text": "सन्मान", "is_correct": false }
+      ],
+      "answer": "पदवी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "'सक्तमजुरी' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "सोपे काम", "is_correct": false },
+        { "option_id": 2, "text": "अतिशय कष्टाचे काम", "is_correct": true },
+        { "option_id": 3, "text": "पगारी काम", "is_correct": false },
+        { "option_id": 4, "text": "घरचे काम", "is_correct": false }
+      ],
+      "answer": "अतिशय कष्टाचे काम"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "'जनआंदोलन' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "एका माणसाने केलेले आंदोलन", "is_correct": false },
+        { "option_id": 2, "text": "लोकांनी केलेले आंदोलन", "is_correct": true },
+        { "option_id": 3, "text": "शासनाने केलेले आंदोलन", "is_correct": false },
+        { "option_id": 4, "text": "शांतता", "is_correct": false }
+      ],
+      "answer": "लोकांनी केलेले आंदोलन"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा कोणत्या समाजाचे नेते मानले जातात?",
+      "options": [
+        { "option_id": 1, "text": "शहरी", "is_correct": false },
+        { "option_id": 2, "text": "आदिवासी", "is_correct": true },
+        { "option_id": 3, "text": "व्यापारी", "is_correct": false },
+        { "option_id": 4, "text": "सैनिक", "is_correct": false }
+      ],
+      "answer": "आदिवासी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "'रस असणे' या वाक्प्रचाराचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "चव असणे", "is_correct": false },
+        { "option_id": 2, "text": "रुची असणे / आवड असणे", "is_correct": true },
+        { "option_id": 3, "text": "राग येणे", "is_correct": false },
+        { "option_id": 4, "text": "कंटाळा येणे", "is_correct": false }
+      ],
+      "answer": "रुची असणे / आवड असणे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "'असंतोष निर्माण होणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "आनंद होणे", "is_correct": false },
+        { "option_id": 2, "text": "चीड निर्माण होणे", "is_correct": true },
+        { "option_id": 3, "text": "शांतता पसरणे", "is_correct": false },
+        { "option_id": 4, "text": "भीती वाटणे", "is_correct": false }
+      ],
+      "answer": "चीड निर्माण होणे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "'कारावास ठोठावणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "दार ठोठावणे", "is_correct": false },
+        { "option_id": 2, "text": "तुरुंगवासाला पाठवणे", "is_correct": true },
+        { "option_id": 3, "text": "सुटका करणे", "is_correct": false },
+        { "option_id": 4, "text": "बक्षीस देणे", "is_correct": false }
+      ],
+      "answer": "तुरुंगवासाला पाठवणे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "'संकल्प करणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "विचार करणे", "is_correct": false },
+        { "option_id": 2, "text": "एखादी गोष्ट करण्याचा निश्चय करणे", "is_correct": true },
+        { "option_id": 3, "text": "स्वप्न पाहणे", "is_correct": false },
+        { "option_id": 4, "text": "भाषण देणे", "is_correct": false }
+      ],
+      "answer": "एखादी गोष्ट करण्याचा निश्चय करणे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "'टिकाव लागणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "हरणे", "is_correct": false },
+        { "option_id": 2, "text": "टिकणे", "is_correct": true },
+        { "option_id": 3, "text": "पळून जाणे", "is_correct": false },
+        { "option_id": 4, "text": "जिंकणे", "is_correct": false }
+      ],
+      "answer": "टिकणे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "'वीरगती प्राप्त होणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "देशासाठी लढताना मरण येणे", "is_correct": true },
+        { "option_id": 2, "text": "शर्यत जिंकणे", "is_correct": false },
+        { "option_id": 3, "text": "आजारी पडणे", "is_correct": false },
+        { "option_id": 4, "text": "पुरस्कार मिळणे", "is_correct": false }
+      ],
+      "answer": "देशासाठी लढताना मरण येणे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "आदिवासींनी इंग्रजांना कसे आणले?",
+      "options": [
+        { "option_id": 1, "text": "जेरीस", "is_correct": true },
+        { "option_id": 2, "text": "घरी", "is_correct": false },
+        { "option_id": 3, "text": "परत", "is_correct": false },
+        { "option_id": 4, "text": "मदत", "is_correct": false }
+      ],
+      "answer": "जेरीस"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा यांचे आयुष्य किती वर्षांचे होते?",
+      "options": [
+        { "option_id": 1, "text": "५०", "is_correct": false },
+        { "option_id": 2, "text": "२५", "is_correct": true },
+        { "option_id": 3, "text": "४०", "is_correct": false },
+        { "option_id": 4, "text": "६०", "is_correct": false }
+      ],
+      "answer": "२५"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा यांचे नाव कशात अमर झाले?",
+      "options": [
+        { "option_id": 1, "text": "पुस्तकात", "is_correct": false },
+        { "option_id": 2, "text": "भारतीय स्वातंत्र्यलढ्याच्या इतिहासात", "is_correct": true },
+        { "option_id": 3, "text": "गावात", "is_correct": false },
+        { "option_id": 4, "text": "शाळेत", "is_correct": false }
+      ],
+      "answer": "भारतीय स्वातंत्र्यलढ्याच्या इतिहासात"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "'महात्मा' हा किताब कोणाला मिळाला?",
+      "options": [
+        { "option_id": 1, "text": "गांधीजींना", "is_correct": true },
+        { "option_id": 2, "text": "टिळकांना", "is_correct": false },
+        { "option_id": 3, "text": "सावरकरांना", "is_correct": false },
+        { "option_id": 4, "text": "बोस यांना", "is_correct": false }
+      ],
+      "answer": "गांधीजींना"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "'लोकमान्य' हा किताब कोणाला मिळाला?",
+      "options": [
+        { "option_id": 1, "text": "गांधीजींना", "is_correct": false },
+        { "option_id": 2, "text": "बाळ गंगाधर टिळक", "is_correct": true },
+        { "option_id": 3, "text": "नेहरू", "is_correct": false },
+        { "option_id": 4, "text": "पटेल", "is_correct": false }
+      ],
+      "answer": "बाळ गंगाधर टिळक"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "'नेताजी' हा किताब कोणाला मिळाला?",
+      "options": [
+        { "option_id": 1, "text": "सुभाषचंद्र बोस", "is_correct": true },
+        { "option_id": 2, "text": "भगतसिंग", "is_correct": false },
+        { "option_id": 3, "text": "सुखदेव", "is_correct": false },
+        { "option_id": 4, "text": "राजगुरू", "is_correct": false }
+      ],
+      "answer": "सुभाषचंद्र बोस"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "तुरुंगात बिरसांवर काय करण्यात आले?",
+      "options": [
+        { "option_id": 1, "text": "सत्कार", "is_correct": false },
+        { "option_id": 2, "text": "अनन्वित अत्याचार", "is_correct": true },
+        { "option_id": 3, "text": "इलाज", "is_correct": false },
+        { "option_id": 4, "text": "मदत", "is_correct": false }
+      ],
+      "answer": "अनन्वित अत्याचार"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "बिरसा मुंडा यांच्या नेतृत्वाखाली आदिवासींनी काय केले?",
+      "options": [
+        { "option_id": 1, "text": "शेती", "is_correct": false },
+        { "option_id": 2, "text": "व्यापार", "is_correct": false },
+        { "option_id": 3, "text": "अनेक लढाया", "is_correct": true },
+        { "option_id": 4, "text": "पलायन", "is_correct": false }
+      ],
+      "answer": "अनेक लढाया"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "आदिवासींनी इंग्रजांना कसे आव्हान दिले?",
+      "options": [
+        { "option_id": 1, "text": "पत्राद्वारे", "is_correct": false },
+        { "option_id": 2, "text": "उलगुलान पुकारून", "is_correct": true },
+        { "option_id": 3, "text": "शांततेने", "is_correct": false },
+        { "option_id": 4, "text": "चर्चेने", "is_correct": false }
+      ],
+      "answer": "उलगुलान पुकारून"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांचा जन्म केव्हा व कोठे झाला?",
+      "answer": "बिरसा मुंडा यांचा जन्म १५ नोव्हेंबर १८७५ रोजी रांचीजवळील 'उलिहातू' या गावी झाला."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांचे शिक्षण कोणत्या शाळेत झाले?",
+      "answer": "बिरसा मुंडा यांचे प्राथमिक व माध्यमिक शिक्षण मामाच्या गावातील मिशनरी शाळेमध्ये झाले."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांना कोणत्या गोष्टींत विशेष रस होता?",
+      "answer": "शिक्षणाबरोबरच बिरसा मुंडा यांना संगीत व नृत्यातही विशेष रस होता."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "इंग्रजांनी आदिवासींचा कोणता अधिकार नाकारला होता?",
+      "answer": "इंग्रजांनी वन-कायदा करून आदिवासींचा जंगलावरचा पारंपरिक अधिकार नाकारला होता."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "१८९४ साली बिहारमध्ये कोणती नैसर्गिक आपत्ती आली?",
+      "answer": "१८९४ साली बिहारमध्ये भीषण दुष्काळ पडला."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शेतकऱ्यांवर अवाजवी शेतसारा कोणी लावला होता?",
+      "answer": "ब्रिटिशांनी जमीनदार व जहागीरदारांकरवी शेतकऱ्यांवर अवाजवी शेतसारा लावला होता."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांना इंग्रज सरकारने १८९५ मध्ये कोणती शिक्षा दिली?",
+      "answer": "इंग्रज सरकारने बिरसा मुंडा यांना दोन वर्षांची सक्तमजुरीची शिक्षा दिली."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "तुरुंगात असताना बिरसा मुंडा यांनी कोणता संकल्प केला?",
+      "answer": "तुरुंगात असताना त्यांनी इंग्रजी सत्ता मुळासकट उखडून टाकण्याचा संकल्प केला."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "'उलगुलान' म्हणजे काय?",
+      "answer": "'उलगुलान' म्हणजे एकाचवेळी सर्वांगीण उठाव."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "आदिवासी क्रांतिकारक ब्रिटिशांच्या पुढे टिकाव का धरू शकले नाहीत?",
+      "answer": "ब्रिटिशांच्या आधुनिक शस्त्रांपुढे व मोठ्या सैन्यबळापुढे आदिवासींच्या पारंपरिक शस्त्रांचा टिकाव लागू शकला नाही."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांनी आदिवासी समाजाच्या शोषणाचे मूळ कशात आहे हे ओळखले?",
+      "answer": "आदिवासी समाजाच्या शोषणाचे मूळ परकीय राजकीय व्यवस्थेत आहे, हे त्यांनी ओळखले."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांना अटक कोठे झाली?",
+      "answer": "बिरसा मुंडा यांना चक्रधरपूर येथे बंदी बनवण्यात आले."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांचा मृत्यू केव्हा व कोठे झाला?",
+      "answer": "बिरसा मुंडा यांचा मृत्यू ९ जून १९०० रोजी रांची येथील तुरुंगात झाला."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "लोकांनी बिरसा मुंडा यांना कोणता किताब बहाल केला?",
+      "answer": "लोकांनी बिरसा मुंडा यांना 'जननायक' हा किताब बहाल केला."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "शेतसारा म्हणजे काय?",
+      "answer": "शेतसारा म्हणजे शेतजमिनीवरील कर."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "जनआंदोलन म्हणजे काय?",
+      "answer": "जनआंदोलन म्हणजे लोकांनी केलेले आंदोलन."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "सक्तमजुरी म्हणजे काय?",
+      "answer": "सक्तमजुरी म्हणजे तुरुंगात असताना कैद्यांकडून करून घेतलेले अतिशय कष्टाचे काम."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "'रस असणे' या वाक्प्रचाराचा अर्थ सांगा.",
+      "answer": "'रस असणे' म्हणजे रुची असणे किंवा आवड असणे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "'असंतोष निर्माण होणे' या वाक्प्रचाराचा अर्थ काय?",
+      "answer": "'असंतोष निर्माण होणे' म्हणजे लोकांच्या मनात रागाची किंवा चिडीची भावना निर्माण होणे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "'कारावास ठोठावणे' म्हणजे काय?",
+      "answer": "'कारावास ठोठावणे' म्हणजे तुरुंगवासाची शिक्षा देणे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "'संकल्प करणे' म्हणजे काय?",
+      "answer": "'संकल्प करणे' म्हणजे एखादी गोष्ट करण्याचा पक्का निश्चय करणे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "'वीरगती प्राप्त होणे' म्हणजे काय?",
+      "answer": "'वीरगती प्राप्त होणे' म्हणजे देशासाठी लढताना मरण येणे किंवा शहीद होणे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "महात्मा हा किताब कोणाला मिळाला?",
+      "answer": "महात्मा हा किताब मोहनदास करमचंद गांधी (गांधीजी) आणि जोतीराव फुले यांना मिळाला."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "लोकमान्य हा किताब कोणाला मिळाला?",
+      "answer": "लोकमान्य हा किताब बाळ गंगाधर टिळक यांना मिळाला."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "स्वातंत्र्यवीर हा किताब कोणाला मिळाला?",
+      "answer": "स्वातंत्र्यवीर हा किताब विनायक दामोदर सावरकर यांना मिळाला."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "नेताजी हा किताब कोणाला मिळाला?",
+      "answer": "नेताजी हा किताब सुभाषचंद्र बोस यांना मिळाला."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "क्रांतिसिंह हा किताब कोणाला मिळाला?",
+      "answer": "क्रांतिसिंह हा किताब नाना पाटील यांना मिळाला."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "लोकनायक हा किताब कोणाला मिळाला?",
+      "answer": "लोकनायक हा किताब जयप्रकाश नारायण यांना मिळाला."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांच्या वडिलांचे नाव काय होते?",
+      "answer": "बिरसा मुंडा यांच्या वडिलांचे नाव सुगाना होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांच्या आईचे नाव काय होते?",
+      "answer": "बिरसा मुंडा यांच्या आईचे नाव करमी होते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांनी कोणत्या शोषणाविरुद्ध आवाज उठवला?",
+      "answer": "त्यांनी जमीनदार, जहागीरदार आणि ब्रिटिश सत्तेकडून होणाऱ्या आर्थिक व सामाजिक शोषणाविरुद्ध आवाज उठवला."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "१८९८ च्या लढाईत काय घडले?",
+      "answer": "१८९८ च्या एका नदीकाठी झालेल्या लढाईत सुमारे ४०० आदिवासी क्रांतिकारक शहीद झाले."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "आदिवासी समाज आजही बिरसा मुंडा यांना काय मानतो?",
+      "answer": "आदिवासी समाज आजही बिरसा मुंडा यांना आपला नेता आणि भगवान मानतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "ब्रिटिश सैन्याने बिरसा मुंडांवर हल्ला कधी केला?",
+      "answer": "सन १९०० मध्ये बिरसा मुंडा पहाडांमध्ये आदिवासींना मार्गदर्शन करत असताना ब्रिटिश सैन्याने हल्ला केला."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "तुरुंगात बिरसा मुंडा यांचे हाल कसे झाले?",
+      "answer": "तुरुंगात त्यांच्यावर अनन्वित अत्याचार करण्यात आले, ज्यामुळे त्यांचा मृत्यू झाला."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांनी कोणते कार्य केले?",
+      "answer": "त्यांनी आदिवासी समाजाला संघटित केले आणि अन्यायाविरुद्ध लढा दिला."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पारंपरिक अधिकार नाकारल्यामुळे आदिवासींमध्ये काय निर्माण झाले?",
+      "answer": "पारंपरिक अधिकार नाकारल्यामुळे आदिवासींमध्ये इंग्रजांविरुद्ध असंतोष निर्माण झाला."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "हजारीबाग तुरुंगात बिरसा मुंडा यांना का ठेवले होते?",
+      "answer": "त्यांनी इंग्रजांच्या अन्यायाविरुद्ध जनआंदोलन केल्यामुळे त्यांना शिक्षा म्हणून हजारीबाग तुरुंगात ठेवले होते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा कोणत्या समाजाचे होते?",
+      "answer": "बिरसा मुंडा आदिवासी समाजाचे होते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "'किताब' या शब्दाचा समानार्थी शब्द सांगा.",
+      "answer": "'किताब' या शब्दाचा समानार्थी शब्द 'पदवी' किंवा 'उपाधी' आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "ब्रिटिशांच्या आधुनिक शस्त्रांपुढे कोणाचा टिकाव लागला नाही?",
+      "answer": "आदिवासी क्रांतिकारकांच्या पारंपरिक शस्त्रांचा ब्रिटिशांच्या आधुनिक शस्त्रांपुढे टिकाव लागला नाही."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांना कोणत्या वर्षी अटक झाली?",
+      "answer": "बिरसा मुंडा यांना १९०० साली अटक झाली."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "रांची हे शहर सध्या कोणत्या राज्यात आहे? (अवांतर माहिती)",
+      "answer": "रांची हे शहर सध्या झारखंड राज्याची राजधानी आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "स्वातंत्र्यलढ्याच्या इतिहासात बिरसा मुंडा यांचे स्थान कसे आहे?",
+      "answer": "स्वातंत्र्यलढ्याच्या इतिहासात बिरसा मुंडा यांचे स्थान महत्त्वाचे आणि अमर आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांनी कोणत्या वयात शहादत पत्करली?",
+      "answer": "वयाच्या अवघ्या २५ व्या वर्षी त्यांनी शहादत पत्करली."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "'जेरीस आणणे' या वाक्प्रचाराचा अर्थ सांगा.",
+      "answer": "'जेरीस आणणे' म्हणजे सळो की पळो करून सोडणे किंवा खूप त्रास देणे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "'टिकाव लागणे' या वाक्प्रचाराचा वाक्यात उपयोग करा.",
+      "answer": "शत्रूच्या मोठ्या सैन्यापुढे मूठभर मावळ्यांचा टिकाव लागला नाही."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांचे कार्यक्षेत्र कोणते होते?",
+      "answer": "सध्याचे झारखंड, बिहार (छोटा नागपूर पठार) हे त्यांचे कार्यक्षेत्र होते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांना 'जननायक' का म्हणतात?",
+      "answer": "त्यांनी सामान्य जनतेसाठी, विशेषतः आदिवासींच्या हक्कांसाठी लढा दिला, म्हणून त्यांना 'जननायक' म्हणतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "बिरसा मुंडा यांच्या वडिलांची परिस्थिती कशी होती?",
+      "answer": "बिरसा मुंडा यांच्या वडिलांची परिस्थिती अतिशय हलाखीची (गरीबीची) होती, ते शेतमजूर होते."
+    }
+  ]
+}

@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.KheluKaruShiku.14",
+    "standard": "4",
+    "subject": "खेळू, करू, शिकू (कला शिक्षण)",
+    "medium": "Marathi",
+    "chapter_name": "वादन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "वादनामध्ये कशाचा समावेश असतो?",
+      "options": [
+        { "option_id": 1, "text": "काव्य", "is_correct": false },
+        { "option_id": 2, "text": "स्वर", "is_correct": true },
+        { "option_id": 3, "text": "शब्द", "is_correct": false },
+        { "option_id": 4, "text": "अर्थ", "is_correct": false }
+      ],
+      "answer": "स्वर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वाद्यांतून निघणाऱ्या नादाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "गोंगाट", "is_correct": false },
+        { "option_id": 2, "text": "स्वर", "is_correct": true },
+        { "option_id": 3, "text": "गाणे", "is_correct": false },
+        { "option_id": 4, "text": "भाषण", "is_correct": false }
+      ],
+      "answer": "स्वर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "गायनामध्ये कशाचा समावेश असतो जो वादनात नसतो?",
+      "options": [
+        { "option_id": 1, "text": "ताल", "is_correct": false },
+        { "option_id": 2, "text": "लय", "is_correct": false },
+        { "option_id": 3, "text": "काव्य आणि शब्द", "is_correct": true },
+        { "option_id": 4, "text": "आवाज", "is_correct": false }
+      ],
+      "answer": "काव्य आणि शब्द"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "तबल्यावर काय वाजवले जातात?",
+      "options": [
+        { "option_id": 1, "text": "सा रे ग म", "is_correct": false },
+        { "option_id": 2, "text": "बोल (धा, धिं, ता...)", "is_correct": true },
+        { "option_id": 3, "text": "गाणी", "is_correct": false },
+        { "option_id": 4, "text": "कविता", "is_correct": false }
+      ],
+      "answer": "बोल (धा, धिं, ता...)"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "गायनामध्ये साथीसाठी कोणते वाद्य वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "पेटी (हार्मोनियम)", "is_correct": true },
+        { "option_id": 2, "text": "बॅट", "is_correct": false },
+        { "option_id": 3, "text": "पेन", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तक", "is_correct": false }
+      ],
+      "answer": "पेटी (हार्मोनियम)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "तबला आणि डग्गा या दोन्हींना मिळून काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "ढोलकी", "is_correct": false },
+        { "option_id": 2, "text": "तबला", "is_correct": true },
+        { "option_id": 3, "text": "मृदंग", "is_correct": false },
+        { "option_id": 4, "text": "नगारा", "is_correct": false }
+      ],
+      "answer": "तबला"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "तबला (उजवा भाग) कशापासून बनलेला असतो?",
+      "options": [
+        { "option_id": 1, "text": "धातूपासून", "is_correct": false },
+        { "option_id": 2, "text": "लाकडी खोडापासून", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिकपासून", "is_correct": false },
+        { "option_id": 4, "text": "काचेपासून", "is_correct": false }
+      ],
+      "answer": "लाकडी खोडापासून"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "डग्गा (डावा भाग) कशापासून बनलेला असतो?",
+      "options": [
+        { "option_id": 1, "text": "लाकडापासून", "is_correct": false },
+        { "option_id": 2, "text": "धातूपासून (तांबे/पितळ/माती)", "is_correct": true },
+        { "option_id": 3, "text": "कागदापासून", "is_correct": false },
+        { "option_id": 4, "text": "कापडापासून", "is_correct": false }
+      ],
+      "answer": "धातूपासून (तांबे/पितळ/माती)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "डफ हे वाद्य प्रामुख्याने कोणत्या संगीतात वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "शास्त्रीय संगीत", "is_correct": false },
+        { "option_id": 2, "text": "लोकसंगीत (पोवाडा वगैरे)", "is_correct": true },
+        { "option_id": 3, "text": "पाश्चात्य संगीत", "is_correct": false },
+        { "option_id": 4, "text": "चित्रपट संगीत", "is_correct": false }
+      ],
+      "answer": "लोकसंगीत (पोवाडा वगैरे)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "खंजिरी हे वाद्य कशासारखे दिसते?",
+      "options": [
+        { "option_id": 1, "text": "बासरीसारखे", "is_correct": false },
+        { "option_id": 2, "text": "डफासारखे", "is_correct": true },
+        { "option_id": 3, "text": "तबल्यासारखे", "is_correct": false },
+        { "option_id": 4, "text": "पेटीसारखे", "is_correct": false }
+      ],
+      "answer": "डफासारखे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "खंजिरीला कशाच्या चकत्या बसवलेल्या असतात?",
+      "options": [
+        { "option_id": 1, "text": "कागदाच्या", "is_correct": false },
+        { "option_id": 2, "text": "धातूच्या", "is_correct": true },
+        { "option_id": 3, "text": "लाकडाच्या", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिकच्या", "is_correct": false }
+      ],
+      "answer": "धातूच्या"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मृदंगाच्या दोन्ही बाजू कशाने आच्छादित असतात?",
+      "options": [
+        { "option_id": 1, "text": "कापडाने", "is_correct": false },
+        { "option_id": 2, "text": "चामड्याने", "is_correct": true },
+        { "option_id": 3, "text": "कागदाने", "is_correct": false },
+        { "option_id": 4, "text": "लोखंडाने", "is_correct": false }
+      ],
+      "answer": "चामड्याने"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मृदंग हे वाद्य प्रामुख्याने कशात वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "डिस्को डान्समध्ये", "is_correct": false },
+        { "option_id": 2, "text": "भजन आणि कीर्तनात", "is_correct": true },
+        { "option_id": 3, "text": "क्रिकेट मॅचमध्ये", "is_correct": false },
+        { "option_id": 4, "text": "शाळेच्या प्रार्थनेत", "is_correct": false }
+      ],
+      "answer": "भजन आणि कीर्तनात"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ज्या वाद्यांवर चामडे (कातडे) असते त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "तंतुवाद्य", "is_correct": false },
+        { "option_id": 2, "text": "सुषिर वाद्य", "is_correct": false },
+        { "option_id": 3, "text": "अवनद्ध वाद्य", "is_correct": true },
+        { "option_id": 4, "text": "घन वाद्य", "is_correct": false }
+      ],
+      "answer": "अवनद्ध वाद्य"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते वाद्य अवनद्ध वाद्य नाही?",
+      "options": [
+        { "option_id": 1, "text": "ढोलकी", "is_correct": false },
+        { "option_id": 2, "text": "बासरी", "is_correct": true },
+        { "option_id": 3, "text": "नगारा", "is_correct": false },
+        { "option_id": 4, "text": "ताशा", "is_correct": false }
+      ],
+      "answer": "बासरी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "अवनद्ध वाद्ये वाजवण्यासाठी कशावर आघात करावा लागतो?",
+      "options": [
+        { "option_id": 1, "text": "तारेवर", "is_correct": false },
+        { "option_id": 2, "text": "चामड्यावर", "is_correct": true },
+        { "option_id": 3, "text": "हवेवर", "is_correct": false },
+        { "option_id": 4, "text": "लाकडावर", "is_correct": false }
+      ],
+      "answer": "चामड्यावर"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "वाद्यांमुळे गाण्याला काय प्राप्त होतो?",
+      "options": [
+        { "option_id": 1, "text": "रंग", "is_correct": true },
+        { "option_id": 2, "text": "शब्द", "is_correct": false },
+        { "option_id": 3, "text": "अर्थ", "is_correct": false },
+        { "option_id": 4, "text": "चित्र", "is_correct": false }
+      ],
+      "answer": "रंग"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "तबल्याचा आकार डग्ग्याच्या मानाने कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "मोठा", "is_correct": false },
+        { "option_id": 2, "text": "लहान", "is_correct": true },
+        { "option_id": 3, "text": "समान", "is_correct": false },
+        { "option_id": 4, "text": "चौकोनी", "is_correct": false }
+      ],
+      "answer": "लहान"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "खंजिरी कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "गाताना ठेका धरण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "लिहिण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "जेवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "गाताना ठेका धरण्यासाठी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "मृदंग वाजवण्यासाठी किती हातांचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "तंबोरा हे कोणत्या प्रकारचे वाद्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "अवनद्ध (चामड्याचे)", "is_correct": false },
+        { "option_id": 2, "text": "तंतुवाद्य (तारेचे)", "is_correct": true },
+        { "option_id": 3, "text": "घनवाद्य (धातूचे)", "is_correct": false },
+        { "option_id": 4, "text": "सुषिर (हवेचे)", "is_correct": false }
+      ],
+      "answer": "तंतुवाद्य (तारेचे)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते वाद्य हातात धरून वाजवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "पेटी", "is_correct": false },
+        { "option_id": 2, "text": "डफ / खंजिरी", "is_correct": true },
+        { "option_id": 3, "text": "तबला (जमिनीवर ठेवून)", "is_correct": false },
+        { "option_id": 4, "text": "सतार", "is_correct": false }
+      ],
+      "answer": "डफ / खंजिरी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "गाताना साथीला कोणते वाद्य तालासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "बासरी", "is_correct": false },
+        { "option_id": 2, "text": "व्हायोलिन", "is_correct": false },
+        { "option_id": 3, "text": "टाळ / चिपळ्या", "is_correct": true },
+        { "option_id": 4, "text": "शहनाई", "is_correct": false }
+      ],
+      "answer": "टाळ / चिपळ्या"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "डफ वाजवण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "काठीचा", "is_correct": false },
+        { "option_id": 2, "text": "दुसऱ्या हाताचा (थाप मारून)", "is_correct": true },
+        { "option_id": 3, "text": "पायाचा", "is_correct": false },
+        { "option_id": 4, "text": "चमच्याचा", "is_correct": false }
+      ],
+      "answer": "दुसऱ्या हाताचा (थाप मारून)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "ढोलकी हे वाद्य कशाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "तंतुवाद्य", "is_correct": false },
+        { "option_id": 2, "text": "अवनद्ध वाद्य", "is_correct": true },
+        { "option_id": 3, "text": "सुषिर वाद्य", "is_correct": false },
+        { "option_id": 4, "text": "घनवाद्य", "is_correct": false }
+      ],
+      "answer": "अवनद्ध वाद्य"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "टाळ हे वाद्य कशापासून बनलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "धातूपासून", "is_correct": true },
+        { "option_id": 2, "text": "लाकडापासून", "is_correct": false },
+        { "option_id": 3, "text": "प्लास्टिकपासून", "is_correct": false },
+        { "option_id": 4, "text": "कापडापासून", "is_correct": false }
+      ],
+      "answer": "धातूपासून"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कोणत्या वाद्यात धातूच्या चकत्या एकमेकांवर आपटून नाद निर्माण होतो?",
+      "options": [
+        { "option_id": 1, "text": "तबला", "is_correct": false },
+        { "option_id": 2, "text": "खंजिरी", "is_correct": true },
+        { "option_id": 3, "text": "ढोल", "is_correct": false },
+        { "option_id": 4, "text": "बासरी", "is_correct": false }
+      ],
+      "answer": "खंजिरी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "मृदंगाचा वापर कोणत्या कार्यक्रमात जास्त होतो?",
+      "options": [
+        { "option_id": 1, "text": "वाढदिवस", "is_correct": false },
+        { "option_id": 2, "text": "भजन / कीर्तन", "is_correct": true },
+        { "option_id": 3, "text": "शाळा", "is_correct": false },
+        { "option_id": 4, "text": "सहली", "is_correct": false }
+      ],
+      "answer": "भजन / कीर्तन"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "डमरू हे वाद्य कोणाचे आवडते वाद्य मानले जाते?",
+      "options": [
+        { "option_id": 1, "text": "भगवान विष्णू", "is_correct": false },
+        { "option_id": 2, "text": "भगवान शंकर", "is_correct": true },
+        { "option_id": 3, "text": "भगवान श्रीकृष्ण", "is_correct": false },
+        { "option_id": 4, "text": "भगवान राम", "is_correct": false }
+      ],
+      "answer": "भगवान शंकर"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ताशा हे वाद्य कशाच्या साहाय्याने वाजवतात?",
+      "options": [
+        { "option_id": 1, "text": "हाताने", "is_correct": false },
+        { "option_id": 2, "text": "काड्यांनी", "is_correct": true },
+        { "option_id": 3, "text": "दोरीने", "is_correct": false },
+        { "option_id": 4, "text": "हवेने", "is_correct": false }
+      ],
+      "answer": "काड्यांनी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "वादन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "गाणे म्हणणे", "is_correct": false },
+        { "option_id": 2, "text": "वाद्य वाजवणे", "is_correct": true },
+        { "option_id": 3, "text": "नाचणे", "is_correct": false },
+        { "option_id": 4, "text": "चित्र काढणे", "is_correct": false }
+      ],
+      "answer": "वाद्य वाजवणे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कोणत्या वाद्याला 'स्वरवाद्य' म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पेटी (हार्मोनियम)", "is_correct": true },
+        { "option_id": 2, "text": "ढोल", "is_correct": false },
+        { "option_id": 3, "text": "टाळ", "is_correct": false },
+        { "option_id": 4, "text": "झांज", "is_correct": false }
+      ],
+      "answer": "पेटी (हार्मोनियम)"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कोणत्या वाद्याला 'तालवाद्य' म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बासरी", "is_correct": false },
+        { "option_id": 2, "text": "तबला", "is_correct": true },
+        { "option_id": 3, "text": "सतार", "is_correct": false },
+        { "option_id": 4, "text": "शहनाई", "is_correct": false }
+      ],
+      "answer": "तबला"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "तंबोऱ्याला किती तारा असतात?",
+      "options": [
+        { "option_id": 1, "text": "चार (किंवा पाच)", "is_correct": true },
+        { "option_id": 2, "text": "एक", "is_correct": false },
+        { "option_id": 3, "text": "दहा", "is_correct": false },
+        { "option_id": 4, "text": "दोन", "is_correct": false }
+      ],
+      "answer": "चार (किंवा पाच)"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "एकतारी हे वाद्य कोण वापरते?",
+      "options": [
+        { "option_id": 1, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 2, "text": "भजनी मंडळी / वासुदेव", "is_correct": true },
+        { "option_id": 3, "text": "सैनिक", "is_correct": false },
+        { "option_id": 4, "text": "डॉक्टर", "is_correct": false }
+      ],
+      "answer": "भजनी मंडळी / वासुदेव"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "वीणा हे वाद्य कोणाच्या हातात दिसते?",
+      "options": [
+        { "option_id": 1, "text": "सरस्वती देवीच्या", "is_correct": true },
+        { "option_id": 2, "text": "लक्ष्मी देवीच्या", "is_correct": false },
+        { "option_id": 3, "text": "गणपतीच्या", "is_correct": false },
+        { "option_id": 4, "text": "मारुतीच्या", "is_correct": false }
+      ],
+      "answer": "सरस्वती देवीच्या"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "टिपरी कशापासून बनलेली असते?",
+      "options": [
+        { "option_id": 1, "text": "लाकडापासून", "is_correct": true },
+        { "option_id": 2, "text": "काचेपासून", "is_correct": false },
+        { "option_id": 3, "text": "कागदापासून", "is_correct": false },
+        { "option_id": 4, "text": "मातीपासून", "is_correct": false }
+      ],
+      "answer": "लाकडापासून"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "झांज हे वाद्य कसे वाजवतात?",
+      "options": [
+        { "option_id": 1, "text": "एकमेकांवर आपटून", "is_correct": true },
+        { "option_id": 2, "text": "फुंकून", "is_correct": false },
+        { "option_id": 3, "text": "तारा छेडून", "is_correct": false },
+        { "option_id": 4, "text": "काठीने मारून", "is_correct": false }
+      ],
+      "answer": "एकमेकांवर आपटून"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "तबल्यावर वाजवले जाणारे 'धा, धिं, ता' यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "स्वर", "is_correct": false },
+        { "option_id": 2, "text": "बोल", "is_correct": true },
+        { "option_id": 3, "text": "गाणे", "is_correct": false },
+        { "option_id": 4, "text": "वाक्य", "is_correct": false }
+      ],
+      "answer": "बोल"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "चर्मवाद्ये म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "तारेची वाद्ये", "is_correct": false },
+        { "option_id": 2, "text": "कातड्याची (चामड्याची) वाद्ये", "is_correct": true },
+        { "option_id": 3, "text": "हवेची वाद्ये", "is_correct": false },
+        { "option_id": 4, "text": "धातूची वाद्ये", "is_correct": false }
+      ],
+      "answer": "कातड्याची (चामड्याची) वाद्ये"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "नगारा हे वाद्य आकाराने कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "मोठे आणि अर्धगोलाकार", "is_correct": true },
+        { "option_id": 3, "text": "चपटे", "is_correct": false },
+        { "option_id": 4, "text": "लांबट", "is_correct": false }
+      ],
+      "answer": "मोठे आणि अर्धगोलाकार"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "डफली हे वाद्य कशाचे लहान रूप आहे?",
+      "options": [
+        { "option_id": 1, "text": "तबल्याचे", "is_correct": false },
+        { "option_id": 2, "text": "डफाचे", "is_correct": true },
+        { "option_id": 3, "text": "ढोलकीचे", "is_correct": false },
+        { "option_id": 4, "text": "पेटीचे", "is_correct": false }
+      ],
+      "answer": "डफाचे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "संगीतात तालाचे महत्त्व काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "गाण्याला वेग आणि शिस्त देणे", "is_correct": true },
+        { "option_id": 2, "text": "गाणे बंद करणे", "is_correct": false },
+        { "option_id": 3, "text": "गाणे विसरणे", "is_correct": false },
+        { "option_id": 4, "text": "आवाज वाढवणे", "is_correct": false }
+      ],
+      "answer": "गाण्याला वेग आणि शिस्त देणे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "वाद्ये शिकल्याने काय फायदा होतो?",
+      "options": [
+        { "option_id": 1, "text": "एकाग्रता वाढते", "is_correct": true },
+        { "option_id": 2, "text": "भूक लागते", "is_correct": false },
+        { "option_id": 3, "text": "झोप येते", "is_correct": false },
+        { "option_id": 4, "text": "पैसे मिळतात", "is_correct": false }
+      ],
+      "answer": "एकाग्रता वाढते"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कोणते वाद्य लाकडी पट्ट्यांनी बनलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "झांज", "is_correct": false },
+        { "option_id": 2, "text": "काष्ठतरंग / जलतरंग", "is_correct": false },
+        { "option_id": 3, "text": "चिपळ्या", "is_correct": true },
+        { "option_id": 4, "text": "तबला", "is_correct": false }
+      ],
+      "answer": "चिपळ्या"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "घुंगरू कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "खाण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "नृत्यात पायात बांधण्यासाठी व तालासाठी", "is_correct": true },
+        { "option_id": 3, "text": "लिहिण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "नृत्यात पायात बांधण्यासाठी व तालासाठी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कोणते वाद्य फुंकून वाजवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "तंबोरा", "is_correct": false },
+        { "option_id": 2, "text": "बासरी / शहनाई", "is_correct": true },
+        { "option_id": 3, "text": "ढोल", "is_correct": false },
+        { "option_id": 4, "text": "टाळ", "is_correct": false }
+      ],
+      "answer": "बासरी / शहनाई"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "वादनातील 'नाद' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "आवाज", "is_correct": true },
+        { "option_id": 2, "text": "चित्र", "is_correct": false },
+        { "option_id": 3, "text": "रंग", "is_correct": false },
+        { "option_id": 4, "text": "शब्द", "is_correct": false }
+      ],
+      "answer": "आवाज"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "तबल्याच्या काळ्या भागाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शाही", "is_correct": true },
+        { "option_id": 2, "text": "रंग", "is_correct": false },
+        { "option_id": 3, "text": "डाग", "is_correct": false },
+        { "option_id": 4, "text": "काजळ", "is_correct": false }
+      ],
+      "answer": "शाही"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "वाद्ये कशाचा भाग आहेत?",
+      "options": [
+        { "option_id": 1, "text": "खेळाचा", "is_correct": false },
+        { "option_id": 2, "text": "संगीताचा", "is_correct": true },
+        { "option_id": 3, "text": "व्यायामाचा", "is_correct": false },
+        { "option_id": 4, "text": "चित्रकलेचा", "is_correct": false }
+      ],
+      "answer": "संगीताचा"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वादन म्हणजे काय?",
+      "answer": "वादन म्हणजे विविध प्रकारची वाद्ये वाजवणे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "गायनात आणि वादनात मुख्य फरक काय आहे?",
+      "answer": "गायनात शब्द आणि काव्य असते, तर वादनात फक्त सूर आणि नाद असतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "तबला कोणत्या दोन भागांनी बनलेला असतो?",
+      "answer": "तबला (उजवा) आणि डग्गा (डावा) अशा दोन भागांनी बनलेला असतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "अवनद्ध वाद्ये म्हणजे काय?",
+      "answer": "जी वाद्ये लाकडी किंवा धातूच्या खोडावर चामडे (कातडे) बसवून तयार केली जातात, त्यांना अवनद्ध वाद्ये म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "चार अवनद्ध वाद्यांची नावे सांगा.",
+      "answer": "तबला, मृदंग, ढोलकी, डफ, नगारा, ताशा."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "खंजिरी या वाद्याचे वर्णन करा.",
+      "answer": "खंजिरी हे डफासारखे वाद्य असते, ज्याच्या कडेला धातूच्या चकत्या (घुंगरू) बसवलेल्या असतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "मृदंग कसा वाजवतात?",
+      "answer": "मृदंग दोन्ही हातांनी (एका बाजूला तळवा आणि दुसऱ्या बाजूला बोटे वापरून) वाजवतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पेटी (हार्मोनियम) कशासाठी वापरतात?",
+      "answer": "गाण्याला सुरांची साथ देण्यासाठी पेटी वापरतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "तालासाठी वापरल्या जाणाऱ्या दोन वाद्यांची नावे सांगा.",
+      "answer": "तबला आणि टाळ."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "डफ कसा वाजवतात?",
+      "answer": "एका हातात डफ धरून दुसऱ्या हाताने त्याच्या चामड्यावर थाप मारून वाजवतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तुम्हाला माहित असलेल्या दोन तंतुवाद्यांची नावे सांगा.",
+      "answer": "सतार, वीणा, तंबोरा, एकतारी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "सुषिर वाद्ये म्हणजे काय?",
+      "answer": "जी वाद्ये हवेच्या साहाय्याने किंवा फुंकून वाजवली जातात, त्यांना सुषिर वाद्ये म्हणतात. (उदा. बासरी, सनई)."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "घन वाद्ये म्हणजे काय?",
+      "answer": "जी वाद्ये धातूची बनलेली असतात आणि एकमेकांवर आपटून वाजवली जातात. (उदा. टाळ, झांज)."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "तबल्यावर कोणते बोल वाजवले जातात?",
+      "answer": "धा, धिं, धीं, धा, ता, तिनन, त्रक, तुन हे बोल वाजवले जातात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "शालेय परिपाठात कोणती वाद्ये वापरली जातात?",
+      "answer": "तबला, पेटी, टाळ आणि ढोलकी वापरली जाऊ शकते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "लोकसंगीतात कोणत्या वाद्यांचा वापर जास्त होतो?",
+      "answer": "डफ, तुणतुणे, ढोलकी, संबळ यांचा वापर जास्त होतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "तुम्हाला आवडणाऱ्या वाद्याचे नाव सांगा.",
+      "answer": "मला तबला (किंवा बासरी/पेटी) आवडतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "वाद्यांमुळे गाण्याला काय येते?",
+      "answer": "वाद्यांमुळे गाण्याला रंगत, गोडी आणि ताल येतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "तंबोऱ्याचा उपयोग काय?",
+      "answer": "तंबोरा गायकाला आधारभूत सूर (षड्ज) देण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "संगीतातील सप्तस्वर वाद्यावर कसे वाजवतात?",
+      "answer": "वाद्याच्या कळा (Keys) किंवा तारा छेडून सा रे ग म... हे स्वर वाजवतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "चिपळ्या म्हणजे काय?",
+      "answer": "हातात धरून वाजवण्याचे लाकडी पट्ट्या आणि घुंगरू असलेले एक छोटे तालवाद्य."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "झांज कशी वाजवतात?",
+      "answer": "झांजेच्या दोन चकत्या दोन्ही हातात धरून एकमेकांवर आपटून वाजवतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "ढोल कसा वाजवतात?",
+      "answer": "ढोल गळ्यात अडकवून काठीने किंवा हाताने दोन्ही बाजूंना वाजवतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "डमरू कसा वाजतो?",
+      "answer": "डमरू हाताने वेगाने हालवल्यावर त्याला बांधलेल्या गाठी चामड्यावर आपटून आवाज होतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "ताशाचा आवाज कसा असतो?",
+      "answer": "ताशाचा आवाज मोठा, भेदक आणि उत्साहवर्धक असतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "वाद्ये शिकण्यासाठी कशाची गरज असते?",
+      "answer": "वाद्ये शिकण्यासाठी गुरुंचे मार्गदर्शन आणि नियमित सरावाची (रियाज) गरज असते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "तबल्याचा डग्गा कोणत्या धातूचा असतो?",
+      "answer": "डग्गा सहसा तांबे, पितळ किंवा मातीचा असतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "तबल्याची शाई कशापासून बनवतात?",
+      "answer": "तबल्याची शाई विशिष्ट प्रकारच्या काळ्या मसाल्यापासून (लोहचुर्ण, भात इ.) बनवतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "संगीतात 'नाद' कशाला म्हणतात?",
+      "answer": "संगीतासाठी उपयुक्त अशा सुरील्या आवाजाला नाद म्हणतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "कोणत्या वाद्याला 'King of Instruments' म्हणतात?",
+      "answer": "काही जण पियानोला तर भारतीय संगीतात सतार/वीणा यांना महत्त्व आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "बासरी कशापासून बनवतात?",
+      "answer": "बासरी बांबूपासून (किंवा धातू/पीव्हीसी) बनवतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "घुंगरू नृत्यात का वापरतात?",
+      "answer": "पायांच्या हालचालींना ताल देण्यासाठी आणि आवाजासाठी घुंगरू वापरतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "टाळ कशात वापरतात?",
+      "answer": "टाळ भजन, कीर्तन आणि वारकरी संप्रदायाच्या दिंडीत वापरतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "तुम्ही चित्रात पाहिलेली वाद्ये ओळखा.",
+      "answer": "(विद्यार्थ्यांनी पुस्तकातील चित्रांवरून वाद्ये ओळखावीत - उदा. तबला, पेटी, डफ)."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "वाद्ये वाजवताना कोणत्या गुणाची वाढ होते?",
+      "answer": "वाद्ये वाजवताना एकाग्रता, लयकारी आणि हातांचा समन्वय वाढतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "कीर्तनात मृदंगाची साथ का असते?",
+      "answer": "कीर्तनाला गांभीर्य आणि भक्तिमय वातावरण देण्यासाठी मृदंगाची साथ असते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पोवाड्यात डफ का वाजवतात?",
+      "answer": "पोवाडा गाताना वीररस आणि उत्साह निर्माण करण्यासाठी डफ वाजवतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "तुमच्या शाळेत कोणती वाद्ये आहेत?",
+      "answer": "आमच्या शाळेत पेटी, तबला, ढोलकी आणि लेझीम आहेत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "वाद्यांची चित्रे जमा करून काय कराल?",
+      "answer": "वाद्यांची चित्रे जमा करून वहीत चिकटवेन आणि त्यांची माहिती लिहीन."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "नगारा कुठे वाजवला जातो?",
+      "answer": "नगारा मंदिरात किंवा जुन्या काळात युद्धात वाजवला जात असे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "सनई हे वाद्य कधी वाजवतात?",
+      "answer": "लग्नसमारंभात किंवा शुभकार्याच्या वेळी सनई वाजवतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "वाद्ये हाताळताना कोणती काळजी घ्यावी?",
+      "answer": "वाद्ये नाजूक असतात, ती पडू देऊ नयेत आणि धुळीपासून जपावीत."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "तालवाद्य आणि सूरवाद्य यात काय फरक आहे?",
+      "answer": "तालवाद्य (उदा. तबला) ठेका देते, तर सूरवाद्य (उदा. पेटी) स्वर देते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "संगीत म्हणजे काय?",
+      "answer": "गायन, वादन आणि नृत्य यांचा मिलाफ म्हणजे संगीत."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "तुम्हाला कोणते वाद्य वाजवायला शिकायला आवडेल?",
+      "answer": "मला तबला (किंवा गिटार/सिंथेसायझर) शिकायला आवडेल."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "वाद्यांचे आवाज ऐकून काय वाटते?",
+      "answer": "वाद्यांचे आवाज ऐकून मन प्रसन्न होते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "एकतारीला किती तारा असतात?",
+      "answer": "एकतारीला एकच तार असते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "तुणतुणे हे वाद्य कशात वापरतात?",
+      "answer": "तुणतुणे हे वाद्य शाहिरी गाण्यात किंवा पोवाड्यात वापरतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "ढोलकी आणि तबला यात काय साम्य आहे?",
+      "answer": "दोन्ही अवनद्ध वाद्ये आहेत आणि हाताने वाजवली जातात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "संगीतामुळे जीवनात काय येते?",
+      "answer": "संगीतामुळे जीवनात आनंद, शांती आणि उत्साह येतो."
+    }
+  ]
+}

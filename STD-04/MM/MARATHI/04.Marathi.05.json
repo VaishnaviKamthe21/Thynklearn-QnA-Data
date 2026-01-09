@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.05",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "मला शिकायचंय !"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या पाठाचे लेखक कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "द. ना. गव्हाणकर", "is_correct": false },
+        { "option_id": 2, "text": "आबा गोविंदा महाजन", "is_correct": true },
+        { "option_id": 3, "text": "पां. चिं. पाटील", "is_correct": false },
+        { "option_id": 4, "text": "वसंत बापट", "is_correct": false }
+      ],
+      "answer": "आबा गोविंदा महाजन"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सखाराम आणि त्याचे कुटुंब कोणत्या भागातील गावात राहत होते?",
+      "options": [
+        { "option_id": 1, "text": "कोकणातील", "is_correct": false },
+        { "option_id": 2, "text": "विदर्भातील", "is_correct": false },
+        { "option_id": 3, "text": "खानदेशातील", "is_correct": true },
+        { "option_id": 4, "text": "मराठवाड्यातील", "is_correct": false }
+      ],
+      "answer": "खानदेशातील"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सखारामच्या पत्नीचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "सुमन", "is_correct": false },
+        { "option_id": 2, "text": "सुलभा", "is_correct": true },
+        { "option_id": 3, "text": "सरला", "is_correct": false },
+        { "option_id": 4, "text": "सुनिता", "is_correct": false }
+      ],
+      "answer": "सुलभा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सखाराम आणि सुलभा काय काम करत असत?",
+      "options": [
+        { "option_id": 1, "text": "नोकरी", "is_correct": false },
+        { "option_id": 2, "text": "मजुरी", "is_correct": true },
+        { "option_id": 3, "text": "व्यापार", "is_correct": false },
+        { "option_id": 4, "text": "सुतारकाम", "is_correct": false }
+      ],
+      "answer": "मजुरी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सखारामच्या मुलीचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "बबली", "is_correct": false },
+        { "option_id": 2, "text": "स्नेहा", "is_correct": true },
+        { "option_id": 3, "text": "राधा", "is_correct": false },
+        { "option_id": 4, "text": "मीना", "is_correct": false }
+      ],
+      "answer": "स्नेहा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "स्नेहाचे शिक्षण कितवीपर्यंत झाले होते?",
+      "options": [
+        { "option_id": 1, "text": "पाचवीपर्यंत", "is_correct": false },
+        { "option_id": 2, "text": "चौथीपर्यंत", "is_correct": true },
+        { "option_id": 3, "text": "सातवीपर्यंत", "is_correct": false },
+        { "option_id": 4, "text": "दहावीपर्यंत", "is_correct": false }
+      ],
+      "answer": "चौथीपर्यंत"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "स्नेहाच्या भावाचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पिंटू", "is_correct": true },
+        { "option_id": 2, "text": "बंडू", "is_correct": false },
+        { "option_id": 3, "text": "राजू", "is_correct": false },
+        { "option_id": 4, "text": "छोटू", "is_correct": false }
+      ],
+      "answer": "पिंटू"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पिंटू कितवीत जाणार होता?",
+      "options": [
+        { "option_id": 1, "text": "पहिलीत", "is_correct": true },
+        { "option_id": 2, "text": "दुसरीत", "is_correct": false },
+        { "option_id": 3, "text": "बालवाडीत", "is_correct": false },
+        { "option_id": 4, "text": "पाचवीत", "is_correct": false }
+      ],
+      "answer": "पहिलीत"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "गावात कितवीपर्यंतचे वर्ग होते?",
+      "options": [
+        { "option_id": 1, "text": "सातवी", "is_correct": false },
+        { "option_id": 2, "text": "दहावी", "is_correct": false },
+        { "option_id": 3, "text": "चौथी", "is_correct": true },
+        { "option_id": 4, "text": "पाचवी", "is_correct": false }
+      ],
+      "answer": "चौथी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "स्नेहाची मैत्रीण कोण होती?",
+      "options": [
+        { "option_id": 1, "text": "राधा", "is_correct": false },
+        { "option_id": 2, "text": "बबली", "is_correct": true },
+        { "option_id": 3, "text": "कविता", "is_correct": false },
+        { "option_id": 4, "text": "सुमन", "is_correct": false }
+      ],
+      "answer": "बबली"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सुलभा घरी आली तेव्हा पिंटू कुठे खेळत होता?",
+      "options": [
+        { "option_id": 1, "text": "अंगणात", "is_correct": false },
+        { "option_id": 2, "text": "ओट्यावर", "is_correct": true },
+        { "option_id": 3, "text": "घरात", "is_correct": false },
+        { "option_id": 4, "text": "रस्त्यावर", "is_correct": false }
+      ],
+      "answer": "ओट्यावर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "स्नेहा कोठे बसून रडत होती?",
+      "options": [
+        { "option_id": 1, "text": "एका कोपऱ्यात", "is_correct": true },
+        { "option_id": 2, "text": "दारात", "is_correct": false },
+        { "option_id": 3, "text": "शाळेत", "is_correct": false },
+        { "option_id": 4, "text": "शेतात", "is_correct": false }
+      ],
+      "answer": "एका कोपऱ्यात"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "स्नेहाचे डोळे का सुजले होते?",
+      "options": [
+        { "option_id": 1, "text": "झोपल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "रडून रडून", "is_correct": true },
+        { "option_id": 3, "text": "डोळे आल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "मार लागल्यामुळे", "is_correct": false }
+      ],
+      "answer": "रडून रडून"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "स्नेहाला कोणत्या इयत्तेत नाव टाकायचे होते?",
+      "options": [
+        { "option_id": 1, "text": "पाचवीत", "is_correct": true },
+        { "option_id": 2, "text": "सहावीत", "is_correct": false },
+        { "option_id": 3, "text": "सातवीत", "is_correct": false },
+        { "option_id": 4, "text": "आठवीत", "is_correct": false }
+      ],
+      "answer": "पाचवीत"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सखारामने स्नेहाला पुढे शिकवण्यास का नकार दिला?",
+      "options": [
+        { "option_id": 1, "text": "तिला अभ्यास येत नव्हता म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "गरिबीमुळे आणि परगावी पाठवण्याच्या भीतीमुळे", "is_correct": true },
+        { "option_id": 3, "text": "शाळा बंद होती म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षक नव्हते म्हणून", "is_correct": false }
+      ],
+      "answer": "गरिबीमुळे आणि परगावी पाठवण्याच्या भीतीमुळे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "सखाराम स्नेहाला घरी बसवून काय करायला सांगत होता?",
+      "options": [
+        { "option_id": 1, "text": "स्वयंपाक", "is_correct": false },
+        { "option_id": 2, "text": "धाकट्या भावाला सांभाळायला", "is_correct": true },
+        { "option_id": 3, "text": "शेतात काम करायला", "is_correct": false },
+        { "option_id": 4, "text": "पाणी भरून आणायला", "is_correct": false }
+      ],
+      "answer": "धाकट्या भावाला सांभाळायला"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "बबली कोणाची मुलगी होती?",
+      "options": [
+        { "option_id": 1, "text": "मुख्याध्यापकांची", "is_correct": false },
+        { "option_id": 2, "text": "सरपंचांची", "is_correct": true },
+        { "option_id": 3, "text": "दामूअण्णांची", "is_correct": false },
+        { "option_id": 4, "text": "पाटीलची", "is_correct": false }
+      ],
+      "answer": "सरपंचांची"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "बबलीला कोणत्या गावात प्रवेश घेतला होता?",
+      "options": [
+        { "option_id": 1, "text": "आडगावला", "is_correct": true },
+        { "option_id": 2, "text": "वडगावला", "is_correct": false },
+        { "option_id": 3, "text": "जळगावला", "is_correct": false },
+        { "option_id": 4, "text": "नांदगावला", "is_correct": false }
+      ],
+      "answer": "आडगावला"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "सखारामच्या घरी कोण आले?",
+      "options": [
+        { "option_id": 1, "text": "फक्त मुख्याध्यापक", "is_correct": false },
+        { "option_id": 2, "text": "फक्त सरपंच", "is_correct": false },
+        { "option_id": 3, "text": "मुख्याध्यापक आणि सरपंच", "is_correct": true },
+        { "option_id": 4, "text": "बबली आणि तिची आई", "is_correct": false }
+      ],
+      "answer": "मुख्याध्यापक आणि सरपंच"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सखारामला कोणाला पाहून अचंबा वाटला?",
+      "options": [
+        { "option_id": 1, "text": "मुख्याध्यापकांना", "is_correct": false },
+        { "option_id": 2, "text": "सरपंचांना", "is_correct": true },
+        { "option_id": 3, "text": "पोलिसांना", "is_correct": false },
+        { "option_id": 4, "text": "स्नेहाला", "is_correct": false }
+      ],
+      "answer": "सरपंचांना"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "स्नेहाने कोणती परीक्षा दिली होती?",
+      "options": [
+        { "option_id": 1, "text": "शिष्यवृत्ती परीक्षा", "is_correct": true },
+        { "option_id": 2, "text": "चित्रकला परीक्षा", "is_correct": false },
+        { "option_id": 3, "text": "क्रीडा परीक्षा", "is_correct": false },
+        { "option_id": 4, "text": "नृत्य परीक्षा", "is_correct": false }
+      ],
+      "answer": "शिष्यवृत्ती परीक्षा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "आडगावची शाळा किती अंतरावर होती?",
+      "options": [
+        { "option_id": 1, "text": "एक तासाच्या", "is_correct": false },
+        { "option_id": 2, "text": "अर्ध्या तासाच्या", "is_correct": true },
+        { "option_id": 3, "text": "दोन तासाच्या", "is_correct": false },
+        { "option_id": 4, "text": "चालत जाण्याइतक्या", "is_correct": false }
+      ],
+      "answer": "अर्ध्या तासाच्या"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "मुली कशाने शाळेत जाणार होत्या?",
+      "options": [
+        { "option_id": 1, "text": "पायी", "is_correct": false },
+        { "option_id": 2, "text": "सायकलने", "is_correct": false },
+        { "option_id": 3, "text": "एस.टी.ने (बसने)", "is_correct": true },
+        { "option_id": 4, "text": "बैलगाडीने", "is_correct": false }
+      ],
+      "answer": "एस.टी.ने (बसने)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मुख्याध्यापकांनी जिल्ह्याची जिल्हाधिकारी कोण आहे असे सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "एक पुरुष", "is_correct": false },
+        { "option_id": 2, "text": "एक महिला", "is_correct": true },
+        { "option_id": 3, "text": "परदेशी व्यक्ती", "is_correct": false },
+        { "option_id": 4, "text": "त्यांचे मित्र", "is_correct": false }
+      ],
+      "answer": "एक महिला"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "दामूअण्णांची लेक काय झाली होती?",
+      "options": [
+        { "option_id": 1, "text": "वकील", "is_correct": false },
+        { "option_id": 2, "text": "इंजिनियर", "is_correct": false },
+        { "option_id": 3, "text": "डॉक्टर", "is_correct": true },
+        { "option_id": 4, "text": "शिक्षक", "is_correct": false }
+      ],
+      "answer": "डॉक्टर"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "'रगतनं पानी करसू' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पाणी पिणे", "is_correct": false },
+        { "option_id": 2, "text": "खूप कष्ट करणे/रक्ताचे पाणी करणे", "is_correct": true },
+        { "option_id": 3, "text": "मारामारी करणे", "is_correct": false },
+        { "option_id": 4, "text": "रडणे", "is_correct": false }
+      ],
+      "answer": "खूप कष्ट करणे/रक्ताचे पाणी करणे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पाठात 'तुले' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "मला", "is_correct": false },
+        { "option_id": 2, "text": "तिला", "is_correct": false },
+        { "option_id": 3, "text": "तुला", "is_correct": true },
+        { "option_id": 4, "text": "त्याला", "is_correct": false }
+      ],
+      "answer": "तुला"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "सखारामने शेवटी काय निर्णय घेतला?",
+      "options": [
+        { "option_id": 1, "text": "स्नेहाला शाळेत न पाठवण्याचा", "is_correct": false },
+        { "option_id": 2, "text": "स्नेहाला मामाकडे पाठवण्याचा", "is_correct": false },
+        { "option_id": 3, "text": "स्नेहाला पुढे शिकवण्याचा", "is_correct": true },
+        { "option_id": 4, "text": "काम सोडून देण्याचा", "is_correct": false }
+      ],
+      "answer": "स्नेहाला पुढे शिकवण्याचा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "निर्णय ऐकून स्नेहाने काय केले?",
+      "options": [
+        { "option_id": 1, "text": "ती रडू लागली", "is_correct": false },
+        { "option_id": 2, "text": "ती वडिलांना आनंदाने बिलगली", "is_correct": true },
+        { "option_id": 3, "text": "ती पळून गेली", "is_correct": false },
+        { "option_id": 4, "text": "ती गप्प बसली", "is_correct": false }
+      ],
+      "answer": "ती वडिलांना आनंदाने बिलगली"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "सखारामच्या भाऊबंदांनी पोरींना कितवीपर्यंत शिकवले होते?",
+      "options": [
+        { "option_id": 1, "text": "सातवीपर्यंत", "is_correct": false },
+        { "option_id": 2, "text": "चौथीपर्यंत", "is_correct": true },
+        { "option_id": 3, "text": "दहावीपर्यंत", "is_correct": false },
+        { "option_id": 4, "text": "शिकवलेच नाही", "is_correct": false }
+      ],
+      "answer": "चौथीपर्यंत"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "'मन्हा' या खानदेशी शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "तुझा", "is_correct": false },
+        { "option_id": 2, "text": "माझा/माझ्या", "is_correct": true },
+        { "option_id": 3, "text": "त्याचा", "is_correct": false },
+        { "option_id": 4, "text": "आमचा", "is_correct": false }
+      ],
+      "answer": "माझा/माझ्या"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "'अचंबा वाटणे' या वाक्प्रचाराचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "भीती वाटणे", "is_correct": false },
+        { "option_id": 2, "text": "आश्चर्य वाटणे/नवल वाटणे", "is_correct": true },
+        { "option_id": 3, "text": "राग येणे", "is_correct": false },
+        { "option_id": 4, "text": "आनंद होणे", "is_correct": false }
+      ],
+      "answer": "आश्चर्य वाटणे/नवल वाटणे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "तालुक्याच्या पोलीस स्टेशनला इन्स्पेक्टर कोण आहे?",
+      "options": [
+        { "option_id": 1, "text": "एक महिला", "is_correct": true },
+        { "option_id": 2, "text": "सखारामचा मित्र", "is_correct": false },
+        { "option_id": 3, "text": "सरपंचांचा मुलगा", "is_correct": false },
+        { "option_id": 4, "text": "माहित नाही", "is_correct": false }
+      ],
+      "answer": "एक महिला"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "'डोळे पाणावणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "डोळे दुखणे", "is_correct": false },
+        { "option_id": 2, "text": "डोळ्यात पाणी येणे/रडू येणे", "is_correct": true },
+        { "option_id": 3, "text": "डोळे धुणे", "is_correct": false },
+        { "option_id": 4, "text": "झोप येणे", "is_correct": false }
+      ],
+      "answer": "डोळ्यात पाणी येणे/रडू येणे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "सखारामने कोणाप्रमाणे वागायचे ठरवले होते?",
+      "options": [
+        { "option_id": 1, "text": "सरपंचांप्रमाणे", "is_correct": false },
+        { "option_id": 2, "text": "मुख्याध्यापकांप्रमाणे", "is_correct": false },
+        { "option_id": 3, "text": "भाऊबंदांप्रमाणे (कित्ता गिरवणार होता)", "is_correct": true },
+        { "option_id": 4, "text": "शहरातील लोकांप्रमाणे", "is_correct": false }
+      ],
+      "answer": "भाऊबंदांप्रमाणे (कित्ता गिरवणार होता)"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "सरपंच सखारामला कोणत्या स्वरात म्हणाले?",
+      "options": [
+        { "option_id": 1, "text": "रागाच्या", "is_correct": false },
+        { "option_id": 2, "text": "समजुतीच्या", "is_correct": true },
+        { "option_id": 3, "text": "मोठ्या", "is_correct": false },
+        { "option_id": 4, "text": "हळू", "is_correct": false }
+      ],
+      "answer": "समजुतीच्या"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "'आंडेरले' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "अंड्याला", "is_correct": false },
+        { "option_id": 2, "text": "मुलीला", "is_correct": true },
+        { "option_id": 3, "text": "मुलाला", "is_correct": false },
+        { "option_id": 4, "text": "गावाला", "is_correct": false }
+      ],
+      "answer": "मुलीला"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "मुख्याध्यापक कसे बोलू लागले?",
+      "options": [
+        { "option_id": 1, "text": "पोटतिडकीने", "is_correct": true },
+        { "option_id": 2, "text": "हसत हसत", "is_correct": false },
+        { "option_id": 3, "text": "ओरडून", "is_correct": false },
+        { "option_id": 4, "text": "घाबरून", "is_correct": false }
+      ],
+      "answer": "पोटतिडकीने"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "सखारामची अडचण सोडवण्यासाठी कोण तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "सरपंच", "is_correct": true },
+        { "option_id": 2, "text": "पोलीस", "is_correct": false },
+        { "option_id": 3, "text": "दामूअण्णा", "is_correct": false },
+        { "option_id": 4, "text": "पिंटू", "is_correct": false }
+      ],
+      "answer": "सरपंच"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "'मंग पोरगीना बाबतमाच असा भेद कसाले?' असे कोणी विचारले?",
+      "options": [
+        { "option_id": 1, "text": "मुख्याध्यापकांनी", "is_correct": false },
+        { "option_id": 2, "text": "सरपंचांनी", "is_correct": true },
+        { "option_id": 3, "text": "सुलभाने", "is_correct": false },
+        { "option_id": 4, "text": "स्नेहाने", "is_correct": false }
+      ],
+      "answer": "सरपंचांनी"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "स्नेहाने आईला कोणाला सांगायला लावले?",
+      "options": [
+        { "option_id": 1, "text": "दादाले (वडिलांना)", "is_correct": true },
+        { "option_id": 2, "text": "आजीला", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षकांना", "is_correct": false },
+        { "option_id": 4, "text": "सरपंचांना", "is_correct": false }
+      ],
+      "answer": "दादाले (वडिलांना)"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "स्नेहाचे वडील घरी आल्यावर काय करत होते?",
+      "options": [
+        { "option_id": 1, "text": "हातपाय धुवत होते", "is_correct": true },
+        { "option_id": 2, "text": "जेवत होते", "is_correct": false },
+        { "option_id": 3, "text": "झोपले होते", "is_correct": false },
+        { "option_id": 4, "text": "टीव्ही बघत होते", "is_correct": false }
+      ],
+      "answer": "हातपाय धुवत होते"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "'चवथीलोंग' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "चौथा भाग", "is_correct": false },
+        { "option_id": 2, "text": "चौथीपर्यंत", "is_correct": true },
+        { "option_id": 3, "text": "चार लोक", "is_correct": false },
+        { "option_id": 4, "text": "चौथी गल्ली", "is_correct": false }
+      ],
+      "answer": "चौथीपर्यंत"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मुलीला काय बनायचे होते?",
+      "options": [
+        { "option_id": 1, "text": "स्वावलंबी", "is_correct": true },
+        { "option_id": 2, "text": "श्रीमंत", "is_correct": false },
+        { "option_id": 3, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 4, "text": "सरपंच", "is_correct": false }
+      ],
+      "answer": "स्वावलंबी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "सखारामच्या कुटुंबाची परिस्थिती कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "श्रीमंत", "is_correct": false },
+        { "option_id": 2, "text": "अतिशय गरीब", "is_correct": true },
+        { "option_id": 3, "text": "मध्यम", "is_correct": false },
+        { "option_id": 4, "text": "उत्तम", "is_correct": false }
+      ],
+      "answer": "अतिशय गरीब"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "स्नेहा अभ्यासात कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "ढ", "is_correct": false },
+        { "option_id": 2, "text": "साधारण", "is_correct": false },
+        { "option_id": 3, "text": "अत्यंत हुशार आणि अभ्यासू", "is_correct": true },
+        { "option_id": 4, "text": "कंटाळवाणी", "is_correct": false }
+      ],
+      "answer": "अत्यंत हुशार आणि अभ्यासू"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "सरपंचांना स्नेहाचे काय वाटत असे?",
+      "options": [
+        { "option_id": 1, "text": "कौतुक", "is_correct": true },
+        { "option_id": 2, "text": "राग", "is_correct": false },
+        { "option_id": 3, "text": "मत्सर", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "कौतुक"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "सखाराम सुरुवातीला कशा रागात बोलला?",
+      "options": [
+        { "option_id": 1, "text": "आनंदाच्या", "is_correct": false },
+        { "option_id": 2, "text": "थोड्या रागात", "is_correct": true },
+        { "option_id": 3, "text": "प्रेमाने", "is_correct": false },
+        { "option_id": 4, "text": "दुःखाने", "is_correct": false }
+      ],
+      "answer": "थोड्या रागात"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "स्नेहाच्या वडिलांचे नाव 'सखा' असे कोणी उच्चारले?",
+      "options": [
+        { "option_id": 1, "text": "मुख्याध्यापकांनी", "is_correct": false },
+        { "option_id": 2, "text": "सरपंचांनी", "is_correct": true },
+        { "option_id": 3, "text": "सुलभाने", "is_correct": false },
+        { "option_id": 4, "text": "बबलीने", "is_correct": false }
+      ],
+      "answer": "सरपंचांनी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "स्नेहाचा चेहरा कशाने फुलला?",
+      "options": [
+        { "option_id": 1, "text": "रडल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "आनंदाने", "is_correct": true },
+        { "option_id": 3, "text": "रागाने", "is_correct": false },
+        { "option_id": 4, "text": "पावडर लावल्यामुळे", "is_correct": false }
+      ],
+      "answer": "आनंदाने"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सखाराम आणि सुलभा कोठे राहत होते?",
+      "answer": "सखाराम आणि सुलभा खानदेशातील एका गावात राहत होते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "स्नेहा कोणती मुलगी होती?",
+      "answer": "स्नेहा सखाराम आणि सुलभा यांची अत्यंत अभ्यासू व कष्टाळू मुलगी होती."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पिंटू कितवीत जाणार होता?",
+      "answer": "पिंटू पहिलीत जाणार होता."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "गावात शाळा कितवीपर्यंत होती?",
+      "answer": "गावात शाळा चौथीपर्यंत होती."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "स्नेहाच्या मनात सारखा कोणता विचार घोळत होता?",
+      "answer": "आपल्याला शिक्षणासाठी वडील परगावी पाठवतील का आणि आपण पुढे शिकू शकू का, हा विचार स्नेहाच्या मनात घोळत होता."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "बबली कोण होती?",
+      "answer": "बबली स्नेहाची मैत्रीण आणि गावच्या सरपंचांची मुलगी होती."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सुलभाला घरी आल्यावर कोण दिसले नाही?",
+      "answer": "सुलभाला घरी आल्यावर स्नेहा दिसली नाही."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "स्नेहा कोठे बसली होती?",
+      "answer": "स्नेहा एका कोपऱ्यात बसून रडत होती."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "स्नेहा आईला रडवेल्या आवाजात काय म्हणाली?",
+      "answer": "स्नेहा म्हणाली, 'वर्गामधल्या बबलीनं पाचवीमा नाव टाकाई गयं... मन्हंबी नाव टाका पाचवीमा. माले शिकू दयानं.'"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सखारामने स्नेहाला पुढे शिकवण्यास का नकार दिला?",
+      "answer": "गरिबीमुळे आणि परगावी एकटे पाठवण्याच्या काळजीमुळे सखारामने नकार दिला."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "स्नेहाने वडिलांना कोणाला सांगायला सांगितले?",
+      "answer": "स्नेहाने आईला सांगायला लावले की, 'दादाले सांगना ओ माय, माले पाचवीमा जावू दया.'"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "सखाराम कोणाचा कित्ता गिरवणार होता?",
+      "answer": "सखाराम त्याच्या भाऊबंदांचा कित्ता गिरवणार होता, ज्यांनी पोरींना चौथीच्या पुढे शिकवले नव्हते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मुख्याध्यापक आणि सरपंच सखारामच्या घरी का आले?",
+      "answer": "स्नेहाला तिचे बाबा पुढे शिकवणार नाहीत हे समजल्यामुळे तिला शिकवण्यासाठी सखारामला समजावण्यासाठी ते आले."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "सरपंचांना सखारामला पाहून अचंबा का वाटला?",
+      "answer": "सरपंच अचानक आपल्या घरी आलेले पाहून सखारामला अचंबा वाटला."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सरपंच सखारामला कायद्याबद्दल काय म्हणाले?",
+      "answer": "सरपंच म्हणाले, 'कायद्याप्रमाणे मुलीला शिकवावंच लागेल.'"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "स्नेहाने कोणती परीक्षा दिली होती?",
+      "answer": "स्नेहाने शिष्यवृत्ती परीक्षा दिली होती."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "सरपंचांनी एसटीच्या प्रवासाबद्दल सखारामला काय सांगितले?",
+      "answer": "सरपंच म्हणाले की आडगावची शाळा अर्ध्या तासाच्या अंतरावर आहे आणि बबली व स्नेहा सोबत एसटीने जातील."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "सरपंचांनी मुलगा आणि मुलगी यांच्यातल्या भेदाबद्दल काय विचारले?",
+      "answer": "सरपंचांनी विचारले, 'तू पिंटूला पाचवीत धाडशील, मग पोरीच्या बाबतीतच असा भेद कशाला?'"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "मुख्याध्यापकांनी जिल्ह्याच्या कोणत्या अधिकारी महिलेचे उदाहरण दिले?",
+      "answer": "मुख्याध्यापकांनी जिल्ह्याच्या जिल्हाधिकारी (कलेक्टर) महिलेचे उदाहरण दिले."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "दामूअण्णांची लेक काय झाली होती?",
+      "answer": "दामूअण्णांची लेक डॉक्टर झाली होती."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "सखारामला मुख्याध्यापकांनी कोणकोणत्या पदावरील महिलांची उदाहरणे दिली?",
+      "answer": "जिल्हाधिकारी, पोलीस इन्स्पेक्टर, डॉक्टर, वकील, इंजिनियर अशा पदांवरील महिलांची उदाहरणे दिली."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "शेवटी सखारामने काय ठरवले?",
+      "answer": "सखारामने ठरवले की अपुरे शिक्षण नको, कष्ट करेन पण मुलीला शिकवेन."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "'रगतनं पानी करसू' या वाक्याचा अर्थ काय?",
+      "answer": "याचा अर्थ 'अतिशय कष्ट करेन' किंवा 'रक्ताचे पाणी करेन'."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "स्नेहाचा आनंद कशावरून दिसून आला?",
+      "answer": "स्नेहाने वडिलांकडे पाहिले, ती त्यांना बिलगली आणि तिचा चेहरा आनंदाने फुलला होता."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "'पाचवीमा' या शब्दाचा प्रमाण मराठी शब्द सांगा.",
+      "answer": "'पाचवीमा' म्हणजे 'पाचवीला' किंवा 'पाचव्या इयत्तेत'."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "'माले' या शब्दाचा अर्थ काय?",
+      "answer": "'माले' म्हणजे 'मला'."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "'तनंपेक्षा' म्हणजे काय?",
+      "answer": "'तनंपेक्षा' म्हणजे 'त्यापेक्षा'."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "'शाय' या शब्दाचा अर्थ सांगा.",
+      "answer": "'शाय' म्हणजे 'शाळा'."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "'आंडेरले' या शब्दाचा अर्थ काय?",
+      "answer": "'आंडेरले' म्हणजे 'मुलीला'."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "'पोटतिडकीने बोलणे' म्हणजे काय?",
+      "answer": "मनापासून आणि कळकळीने बोलणे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "'अचंबा वाटणे' म्हणजे काय?",
+      "answer": "आश्चर्य वाटणे किंवा नवल वाटणे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "सखारामच्या निर्णयामुळे कोणाचा चेहरा फुलला?",
+      "answer": "सखारामच्या निर्णयामुळे स्नेहाचा चेहरा फुलला."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "सखारामने आपल्या मुलीला काय बनवू नये असे मुख्याध्यापकांना वाटत होते?",
+      "answer": "सखारामने तिला अशिक्षित ठेवू नये आणि तिला स्वावलंबी बनवावे असे त्यांना वाटत होते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "स्नेहाच्या भावाचे शिक्षण कितवीत सुरू होणार होते?",
+      "answer": "स्नेहाच्या भावाचे (पिंटूचे) शिक्षण पहिलीत सुरू होणार होते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "स्नेहाच्या डोळ्यातून पाणी का आले?",
+      "answer": "तिला पुढे शिकायचे होते पण वडील नकार देत होते, म्हणून तिच्या डोळ्यातून पाणी आले."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "सुलभाला गहिवरून का आले?",
+      "answer": "स्नेहाचे शिक्षणाबद्दलचे रडणे आणि तळमळ पाहून सुलभाला गहिवरून आले."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "सखारामने पिंटूबाबत काय ठरवले होते?",
+      "answer": "सखाराम पिंटूला पाचवीत (पुढे) शिकवणार होता."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "सरपंचांनी सखारामला काय आश्वासन दिले?",
+      "answer": "सरपंचांनी सांगितले की तुझी कोणतीही अडचण असली तरी आपण ती सोडवू."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "मुख्याध्यापकांनी पालकांबद्दल काय मत मांडले?",
+      "answer": "जर इतर यशस्वी महिलांच्या पालकांनी सखारामसारखा विचार केला असता, तर त्या घडल्या नसत्या."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "सखाराम निरुत्तर का झाला?",
+      "answer": "जेव्हा सरपंचांनी मुलगा आणि मुलगी यांच्यात भेदभाव का करतो असे विचारले, तेव्हा सखाराम निरुत्तर झाला."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "'मन्ही' या शब्दाचा अर्थ काय?",
+      "answer": "'मन्ही' म्हणजे 'माझी'."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "स्नेहा हुशार आहे हे कशावरून समजते?",
+      "answer": "ती अभ्यासू होती आणि तिने शिष्यवृत्ती परीक्षा दिली होती, यावरून ती हुशार आहे हे समजते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "हा पाठ कोणत्या सामाजिक समस्येवर भाष्य करतो?",
+      "answer": "हा पाठ स्त्री-शिक्षण आणि मुलगा-मुलगी भेद या सामाजिक समस्यांवर भाष्य करतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "सखारामच्या मनात परिवर्तन कोणामुळे झाले?",
+      "answer": "सरपंच आणि मुख्याध्यापक यांच्या समजावण्यामुळे सखारामच्या मनात परिवर्तन झाले."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "स्नेहाला तिच्या वडिलांनी काय करायला सांगितले होते?",
+      "answer": "शाळा बंद करून घरी बसून धाकट्या भावाला सांभाळायला सांगितले होते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "सुलभा नवऱ्याला का समजावू शकत नव्हती?",
+      "answer": "तिला गहिवरून आले होते आणि नवऱ्याचा रागीट स्वभाव किंवा पक्का निर्णय पाहून तिला काय बोलावे ते सुचत नव्हते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "आडगावच्या शाळेत जाण्यासाठी किती वेळ लागत असे?",
+      "answer": "आडगावच्या शाळेत जाण्यासाठी एसटीने अर्धा तास लागत असे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "पाठात 'दादा' कोणाला म्हटले आहे?",
+      "answer": "पाठात स्नेहाने तिच्या वडिलांना (सखारामला) 'दादा' म्हटले आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "हा पाठ कोणत्या बोलीभाषेत संवाद देतो?",
+      "answer": "हा पाठ 'खानदेशी' (अहिराणी) बोलीभाषेत संवाद देतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "स्नेहाच्या शिक्षणाचा मार्ग शेवटी कसा मोकळा झाला?",
+      "answer": "वडिलांनी कष्ट करून शिकवण्याचा निश्चय केल्यामुळे स्नेहाच्या शिक्षणाचा मार्ग मोकळा झाला."
+    }
+  ]
+}

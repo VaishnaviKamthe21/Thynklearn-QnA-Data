@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.KheluKaruShiku.07",
+    "standard": "4",
+    "subject": "खेळू, करू, शिकू (कार्यानुभव)",
+    "medium": "Marathi",
+    "chapter_name": "अभिरुचिपूरक उपक्रम (भिंगरी, विदूषक, फुलांच्या माळा)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भिंगरी तयार करण्यासाठी कशाची चकती लागते?",
+      "options": [
+        { "option_id": 1, "text": "लोखंडाची", "is_correct": false },
+        { "option_id": 2, "text": "पुठ्ठ्याची", "is_correct": true },
+        { "option_id": 3, "text": "काचेची", "is_correct": false },
+        { "option_id": 4, "text": "कापडाची", "is_correct": false }
+      ],
+      "answer": "पुठ्ठ्याची"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भिंगरी फिरवण्यासाठी तिला काय द्यावी लागते?",
+      "options": [
+        { "option_id": 1, "text": "धक्का", "is_correct": false },
+        { "option_id": 2, "text": "गिरकी", "is_correct": true },
+        { "option_id": 3, "text": "हवा", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "गिरकी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "भिंगरीच्या पुठ्ठ्याच्या मध्यावर कशाने छिद्र पाडावे?",
+      "options": [
+        { "option_id": 1, "text": "पेनाने", "is_correct": false },
+        { "option_id": 2, "text": "खिळ्याने", "is_correct": true },
+        { "option_id": 3, "text": "बोटाने", "is_correct": false },
+        { "option_id": 4, "text": "काठीने", "is_correct": false }
+      ],
+      "answer": "खिळ्याने"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भिंगरी बनवताना टूथपिक किंवा खिळ्यात काय ओवावे?",
+      "options": [
+        { "option_id": 1, "text": "फुले", "is_correct": false },
+        { "option_id": 2, "text": "मणी", "is_correct": true },
+        { "option_id": 3, "text": "पाने", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "मणी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "विदूषक बनवण्यासाठी कशाचे रिकामे खोके लागते?",
+      "options": [
+        { "option_id": 1, "text": "साबणाचे", "is_correct": false },
+        { "option_id": 2, "text": "काडीपेटीचे", "is_correct": true },
+        { "option_id": 3, "text": "पेनाचे", "is_correct": false },
+        { "option_id": 4, "text": "मिठाईचे", "is_correct": false }
+      ],
+      "answer": "काडीपेटीचे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "विदूषकाच्या हाताची हालचाल कशामुळे होते?",
+      "options": [
+        { "option_id": 1, "text": "दोऱ्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "हवेमुळे", "is_correct": false },
+        { "option_id": 3, "text": "आईस्क्रीमच्या काडीमुळे", "is_correct": true },
+        { "option_id": 4, "text": "बटणामुळे", "is_correct": false }
+      ],
+      "answer": "आईस्क्रीमच्या काडीमुळे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "काडीपेटीच्या ड्रॉवरला आईस्क्रीमची काडी कोठे चिकटवावी?",
+      "options": [
+        { "option_id": 1, "text": "पुढच्या बाजूस", "is_correct": false },
+        { "option_id": 2, "text": "मागच्या बाजूस मधोमध", "is_correct": true },
+        { "option_id": 3, "text": "वरच्या बाजूस", "is_correct": false },
+        { "option_id": 4, "text": "खालच्या बाजूस", "is_correct": false }
+      ],
+      "answer": "मागच्या बाजूस मधोमध"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "विदूषकाचे कपडे कशापासून तयार करतात?",
+      "options": [
+        { "option_id": 1, "text": "कापडापासून", "is_correct": false },
+        { "option_id": 2, "text": "रंगीत कागदापासून", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिकपासून", "is_correct": false },
+        { "option_id": 4, "text": "लोखंडापासून", "is_correct": false }
+      ],
+      "answer": "रंगीत कागदापासून"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "माळ बनवण्यासाठी फुले कशात ओवावीत?",
+      "options": [
+        { "option_id": 1, "text": "काठीत", "is_correct": false },
+        { "option_id": 2, "text": "सुई-दोऱ्यात", "is_correct": true },
+        { "option_id": 3, "text": "तारेंत", "is_correct": false },
+        { "option_id": 4, "text": "गवतामध्ये", "is_correct": false }
+      ],
+      "answer": "सुई-दोऱ्यात"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "माळ तयार करताना पानांची काय करावी?",
+      "options": [
+        { "option_id": 1, "text": "घडी / दुमडून", "is_correct": true },
+        { "option_id": 2, "text": "तुकडे", "is_correct": false },
+        { "option_id": 3, "text": "चोळामोळा", "is_correct": false },
+        { "option_id": 4, "text": "बारीक पूड", "is_correct": false }
+      ],
+      "answer": "घडी / दुमडून"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "फुलांच्या माळेत कोणते फूल वापरता येते?",
+      "options": [
+        { "option_id": 1, "text": "झेंडू", "is_correct": true },
+        { "option_id": 2, "text": "काटेरी फूल", "is_correct": false },
+        { "option_id": 3, "text": "प्लास्टिकचे फूल", "is_correct": false },
+        { "option_id": 4, "text": "कागदी फूल", "is_correct": false }
+      ],
+      "answer": "झेंडू"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "भिंगरीच्या टोकावर मणी कशासाठी लावतात?",
+      "options": [
+        { "option_id": 1, "text": "शोभेसाठी", "is_correct": false },
+        { "option_id": 2, "text": "फिरण्यासाठी आधार म्हणून (बॅलन्ससाठी)", "is_correct": true },
+        { "option_id": 3, "text": "वजन वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "आवाज करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "फिरण्यासाठी आधार म्हणून (बॅलन्ससाठी)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "विदूषकाचे चित्र कशावर काढून रंगवावे?",
+      "options": [
+        { "option_id": 1, "text": "कागदावर", "is_correct": true },
+        { "option_id": 2, "text": "भिंतीवर", "is_correct": false },
+        { "option_id": 3, "text": "जमिनीवर", "is_correct": false },
+        { "option_id": 4, "text": "कापडावर", "is_correct": false }
+      ],
+      "answer": "कागदावर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "फुलांच्या माळेत पानांचा वापर कशासाठी करतात?",
+      "options": [
+        { "option_id": 1, "text": "वजन वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "सुशोभनासाठी / आकर्षक दिसण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "वास येण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "फुले वाचवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "सुशोभनासाठी / आकर्षक दिसण्यासाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "भिंगरी फिरवण्यासाठी पृष्ठभाग कसा असावा?",
+      "options": [
+        { "option_id": 1, "text": "खडबडीत", "is_correct": false },
+        { "option_id": 2, "text": "गुळगुळीत", "is_correct": true },
+        { "option_id": 3, "text": "ओला", "is_correct": false },
+        { "option_id": 4, "text": "मऊ", "is_correct": false }
+      ],
+      "answer": "गुळगुळीत"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "विदूषक बनवण्यासाठी कात्री किंवा कटरचा वापर कोणी करावा?",
+      "options": [
+        { "option_id": 1, "text": "लहान मुलांनी एकट्याने", "is_correct": false },
+        { "option_id": 2, "text": "सावधानतेने आणि मोठ्यांच्या मार्गदर्शनाखाली", "is_correct": true },
+        { "option_id": 3, "text": "डोळे झाकून", "is_correct": false },
+        { "option_id": 4, "text": "मित्रांनी", "is_correct": false }
+      ],
+      "answer": "सावधानतेने आणि मोठ्यांच्या मार्गदर्शनाखाली"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "माळ बनवण्यासाठी दोरा कसा घ्यावा?",
+      "options": [
+        { "option_id": 1, "text": "एकपदरी", "is_correct": false },
+        { "option_id": 2, "text": "दुहेरी", "is_correct": true },
+        { "option_id": 3, "text": "तुटलेला", "is_correct": false },
+        { "option_id": 4, "text": "काळा", "is_correct": false }
+      ],
+      "answer": "दुहेरी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "माळ पूर्ण झाल्यावर दोऱ्याच्या टोकांना काय मारावी?",
+      "options": [
+        { "option_id": 1, "text": "गाठ", "is_correct": true },
+        { "option_id": 2, "text": "कात्री", "is_correct": false },
+        { "option_id": 3, "text": "सुई", "is_correct": false },
+        { "option_id": 4, "text": "फूल", "is_correct": false }
+      ],
+      "answer": "गाठ"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "भिंगरीच्या काडीला काय लावल्यास ती आकर्षक दिसते?",
+      "options": [
+        { "option_id": 1, "text": "रंगीत कागदाचे तुकडे", "is_correct": true },
+        { "option_id": 2, "text": "माती", "is_correct": false },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "रंगीत कागदाचे तुकडे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "काडीपेटीच्या ड्रॉवरवर काय चिकटवायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "विदूषकाचे डोके, हात व मान", "is_correct": true },
+        { "option_id": 2, "text": "पाय", "is_correct": false },
+        { "option_id": 3, "text": "केस", "is_correct": false },
+        { "option_id": 4, "text": "बूट", "is_correct": false }
+      ],
+      "answer": "विदूषकाचे डोके, हात व मान"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अशोकाची पाने कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "खाण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "फुलांच्या माळेत गुंफण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "लिहिण्यासाठी", "is_correct": false }
+      ],
+      "answer": "फुलांच्या माळेत गुंफण्यासाठी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "भिंगरी तयार करण्यासाठी पुठ्ठ्याचे वर्तुळ किती त्रिज्येचे असावे?",
+      "options": [
+        { "option_id": 1, "text": "५ सें.मी", "is_correct": false },
+        { "option_id": 2, "text": "२ सें.मी", "is_correct": true },
+        { "option_id": 3, "text": "१० सें.मी", "is_correct": false },
+        { "option_id": 4, "text": "१५ सें.मी", "is_correct": false }
+      ],
+      "answer": "२ सें.मी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "विदूषक खेळण्यात आईस्क्रीमची काडी कशी हालवावी?",
+      "options": [
+        { "option_id": 1, "text": "गोल गोल", "is_correct": false },
+        { "option_id": 2, "text": "वर - खाली", "is_correct": true },
+        { "option_id": 3, "text": "वाकडी", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर", "is_correct": false }
+      ],
+      "answer": "वर - खाली"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "माळ बनवताना सुई कोठे टोचू नये याची काळजी घ्यावी?",
+      "options": [
+        { "option_id": 1, "text": "फुलाला", "is_correct": false },
+        { "option_id": 2, "text": "पानाला", "is_correct": false },
+        { "option_id": 3, "text": "हाताला", "is_correct": true },
+        { "option_id": 4, "text": "दोऱ्याला", "is_correct": false }
+      ],
+      "answer": "हाताला"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "भिंगरीच्या पुठ्ठ्याला छिद्र पाडण्यासाठी काय वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "कागद", "is_correct": false },
+        { "option_id": 2, "text": "खिळा", "is_correct": true },
+        { "option_id": 3, "text": "पेन", "is_correct": false },
+        { "option_id": 4, "text": "काडी", "is_correct": false }
+      ],
+      "answer": "खिळा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "विदूषकाचे कपडे कुठे चिकटवावेत?",
+      "options": [
+        { "option_id": 1, "text": "काडीपेटीच्या वरील पृष्ठभागावर", "is_correct": true },
+        { "option_id": 2, "text": "काडीपेटीच्या आत", "is_correct": false },
+        { "option_id": 3, "text": "आईस्क्रीमच्या काडीवर", "is_correct": false },
+        { "option_id": 4, "text": "डोक्यावर", "is_correct": false }
+      ],
+      "answer": "काडीपेटीच्या वरील पृष्ठभागावर"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "निशिगंधाचे फूल कोणत्या रंगाचे असते?",
+      "options": [
+        { "option_id": 1, "text": "लाल", "is_correct": false },
+        { "option_id": 2, "text": "पांढरे", "is_correct": true },
+        { "option_id": 3, "text": "निळे", "is_correct": false },
+        { "option_id": 4, "text": "काळे", "is_correct": false }
+      ],
+      "answer": "पांढरे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "भिंगरीसाठी मण्यांऐवजी काय वापरता येईल?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "कागदाची गुंडाळी", "is_correct": true },
+        { "option_id": 3, "text": "कापड", "is_correct": false },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "कागदाची गुंडाळी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "विदूषकाच्या ड्रॉवरला काडी कोणत्या बाजूला चिकटवावी?",
+      "options": [
+        { "option_id": 1, "text": "पुढच्या", "is_correct": false },
+        { "option_id": 2, "text": "मागच्या", "is_correct": true },
+        { "option_id": 3, "text": "आतल्या", "is_correct": false },
+        { "option_id": 4, "text": "बाजूच्या", "is_correct": false }
+      ],
+      "answer": "मागच्या"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "माळ बनवताना दोन ते तीन फुले ओवल्यानंतर काय ओवावे?",
+      "options": [
+        { "option_id": 1, "text": "पान", "is_correct": true },
+        { "option_id": 2, "text": "दगड", "is_correct": false },
+        { "option_id": 3, "text": "कागद", "is_correct": false },
+        { "option_id": 4, "text": "मणी", "is_correct": false }
+      ],
+      "answer": "पान"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "भिंगरी कशाच्या साहाय्याने फिरते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याच्या", "is_correct": false },
+        { "option_id": 2, "text": "बोटांच्या चिमटीत पकडून फिरवल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "वाऱ्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "आपोआप", "is_correct": false }
+      ],
+      "answer": "बोटांच्या चिमटीत पकडून फिरवल्यामुळे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "विदूषकाचे हात हालवण्यासाठी कशाची हालचाल करावी?",
+      "options": [
+        { "option_id": 1, "text": "काडीपेटीची", "is_correct": false },
+        { "option_id": 2, "text": "आईस्क्रीमच्या काडीची", "is_correct": true },
+        { "option_id": 3, "text": "डोक्याची", "is_correct": false },
+        { "option_id": 4, "text": "पायाची", "is_correct": false }
+      ],
+      "answer": "आईस्क्रीमच्या काडीची"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "अॅस्टर हे कशाचे नाव आहे?",
+      "options": [
+        { "option_id": 1, "text": "फळाचे", "is_correct": false },
+        { "option_id": 2, "text": "फुलाचे", "is_correct": true },
+        { "option_id": 3, "text": "प्राण्याचे", "is_correct": false },
+        { "option_id": 4, "text": "गावाचे", "is_correct": false }
+      ],
+      "answer": "फुलाचे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "भिंगरीचे टोकदार बाजू कोठे टेकवावी?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यावर", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीच्या गुळगुळीत पृष्ठभागावर", "is_correct": true },
+        { "option_id": 3, "text": "हवेत", "is_correct": false },
+        { "option_id": 4, "text": "कागदावर", "is_correct": false }
+      ],
+      "answer": "जमिनीच्या गुळगुळीत पृष्ठभागावर"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "काडीपेटीच्या ड्रॉवरला खिडकीचा आकार कापावा का?",
+      "options": [
+        { "option_id": 1, "text": "नाही", "is_correct": false },
+        { "option_id": 2, "text": "हो (काही प्रकारांत)", "is_correct": true },
+        { "option_id": 3, "text": "गरज नाही", "is_correct": false },
+        { "option_id": 4, "text": "माहित नाही", "is_correct": false }
+      ],
+      "answer": "हो (काही प्रकारांत)"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "माळेचा उपयोग कशासाठी करतात?",
+      "options": [
+        { "option_id": 1, "text": "सुशोभनासाठी / सजावटीसाठी", "is_correct": true },
+        { "option_id": 2, "text": "खाण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "फेकण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "लिहिण्यासाठी", "is_correct": false }
+      ],
+      "answer": "सुशोभनासाठी / सजावटीसाठी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "बाटलीच्या झाकणापासून काय बनवता येते?",
+      "options": [
+        { "option_id": 1, "text": "विदूषक", "is_correct": false },
+        { "option_id": 2, "text": "भिंगरी", "is_correct": true },
+        { "option_id": 3, "text": "माळ", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तक", "is_correct": false }
+      ],
+      "answer": "भिंगरी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "विदूषकाचा ड्रॉवर काडीपेटीत कसा बसवावा?",
+      "options": [
+        { "option_id": 1, "text": "उलटा", "is_correct": false },
+        { "option_id": 2, "text": "आईस्क्रीमच्या काडीची बाजू खाली येईल असा", "is_correct": true },
+        { "option_id": 3, "text": "आडवा", "is_correct": false },
+        { "option_id": 4, "text": "तिरका", "is_correct": false }
+      ],
+      "answer": "आईस्क्रीमच्या काडीची बाजू खाली येईल असा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "झेंडूची फुले कोणत्या रंगाची असतात?",
+      "options": [
+        { "option_id": 1, "text": "निळी", "is_correct": false },
+        { "option_id": 2, "text": "पिवळी/केशरी", "is_correct": true },
+        { "option_id": 3, "text": "काळी", "is_correct": false },
+        { "option_id": 4, "text": "हिरवी", "is_correct": false }
+      ],
+      "answer": "पिवळी/केशरी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "भिंगरीसाठी लागणारा पुठ्ठा कसा असावा?",
+      "options": [
+        { "option_id": 1, "text": "जाड", "is_correct": true },
+        { "option_id": 2, "text": "कागदासारखा पातळ", "is_correct": false },
+        { "option_id": 3, "text": "ओला", "is_correct": false },
+        { "option_id": 4, "text": "मऊ", "is_correct": false }
+      ],
+      "answer": "जाड"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "विदूषक बनवण्यासाठी काय वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "माती", "is_correct": false },
+        { "option_id": 2, "text": "स्केचपेन, रंगीत कागद", "is_correct": true },
+        { "option_id": 3, "text": "काच", "is_correct": false },
+        { "option_id": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "स्केचपेन, रंगीत कागद"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "शेवंतीचे फूल कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "भाजी करण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "हार/माळ बनवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "रंगवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "हार/माळ बनवण्यासाठी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "भिंगरीच्या पुठ्ठ्याची चकती कोठे चिकटवावी?",
+      "options": [
+        { "option_id": 1, "text": "खिळ्याच्या टोकावर", "is_correct": false },
+        { "option_id": 2, "text": "खिळ्याच्या मध्यावर (मण्यांच्या खाली)", "is_correct": true },
+        { "option_id": 3, "text": "खिळ्याच्या तळाशी", "is_correct": false },
+        { "option_id": 4, "text": "बाजूला", "is_correct": false }
+      ],
+      "answer": "खिळ्याच्या मध्यावर (मण्यांच्या खाली)"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "डिंक कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "कापण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "चिकटवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "रंगवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "लिहिण्यासाठी", "is_correct": false }
+      ],
+      "answer": "चिकटवण्यासाठी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "आंब्याची पाने कशात वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "भिंगरीत", "is_correct": false },
+        { "option_id": 2, "text": "विदूषकात", "is_correct": false },
+        { "option_id": 3, "text": "फुलांच्या माळेत (तोरणात)", "is_correct": true },
+        { "option_id": 4, "text": "काडीपेटीत", "is_correct": false }
+      ],
+      "answer": "फुलांच्या माळेत (तोरणात)"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "भिंगरी बनवणे हा कोणता उपक्रम आहे?",
+      "options": [
+        { "option_id": 1, "text": "गरजाधिष्ठित", "is_correct": false },
+        { "option_id": 2, "text": "अभिरुचिपूरक", "is_correct": true },
+        { "option_id": 3, "text": "कौशल्याधिष्ठित", "is_correct": false },
+        { "option_id": 4, "text": "ऐच्छिक", "is_correct": false }
+      ],
+      "answer": "अभिरुचिपूरक"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "विदूषक बनवणे हा कोणता उपक्रम आहे?",
+      "options": [
+        { "option_id": 1, "text": "अभिरुचिपूरक", "is_correct": true },
+        { "option_id": 2, "text": "गरजाधिष्ठित", "is_correct": false },
+        { "option_id": 3, "text": "उत्पादक", "is_correct": false },
+        { "option_id": 4, "text": "तांत्रिक", "is_correct": false }
+      ],
+      "answer": "अभिरुचिपूरक"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "फुलांच्या माळा बनवणे हा कोणता उपक्रम आहे?",
+      "options": [
+        { "option_id": 1, "text": "अभिरुचिपूरक", "is_correct": true },
+        { "option_id": 2, "text": "वैज्ञानिक", "is_correct": false },
+        { "option_id": 3, "text": "क्रीडा", "is_correct": false },
+        { "option_id": 4, "text": "आरोग्य", "is_correct": false }
+      ],
+      "answer": "अभिरुचिपूरक"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कात्रीचा वापर कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "कापण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "चिकटवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "रंगवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "मोजण्यासाठी", "is_correct": false }
+      ],
+      "answer": "कापण्यासाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "सुई-दोरा कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "शिवण्यासाठी / ओवण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "कापण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "चिकटवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "लिहिण्यासाठी", "is_correct": false }
+      ],
+      "answer": "शिवण्यासाठी / ओवण्यासाठी"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "भिंगरी तयार करण्यासाठी कोणते साहित्य लागते?",
+      "answer": "पुठ्ठा, टूथपिक किंवा खिळा, मणी, रंगीत कागदाचे तुकडे, कात्री, डिंक."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "भिंगरीच्या पुठ्ठ्याचे माप किती असावे?",
+      "answer": "पुठ्ठ्यावर २ सें.मी त्रिज्येचे वर्तुळ असावे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "भिंगरी कशी फिरवावी?",
+      "answer": "वरची बाजू बोटात चिमटीत पकडून, टोकदार बाजू जमिनीवर टेकवून गिरकी द्यावी."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मण्यांऐवजी भिंगरीत काय वापरता येईल?",
+      "answer": "मण्यांऐवजी कागदाच्या गुंडाळीचा वापर करता येईल."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "विदूषक बनवण्यासाठी मुख्य साधन काय आहे?",
+      "answer": "रिकामी काडीपेटी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "विदूषकाचे चित्र कशावर काढावे?",
+      "answer": "पांढऱ्या किंवा रंगीत कागदावर विदूषकाचे चित्र काढावे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "आईस्क्रीमची काडी काडीपेटीच्या कोणत्या भागाला लावावी?",
+      "answer": "काडीपेटीच्या आतील ड्रॉवरला मागच्या बाजूस."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "विदूषकाची हालचाल कशी करावी?",
+      "answer": "आईस्क्रीमची काडी वर-खाली करून विदूषकाची हालचाल करावी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "फुलांच्या माळेसाठी कोणती फुले वापरता येतात?",
+      "answer": "झेंडू, शेवंती, निशिगंध, लिली, अॅस्टर इत्यादी."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "माळ बनवण्यासाठी कोणती पाने वापरतात?",
+      "answer": "अशोकाची किंवा आंब्याची पाने."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "माळ ओवण्यासाठी दोरा कसा असावा?",
+      "answer": "माळ ओवण्यासाठी जाड आणि दुहेरी दोरा असावा."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पाने कशी ओवावीत?",
+      "answer": "पाने दुमडून दोन ते तीन पाने गुंफून ओवावीत."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "माळ पूर्ण झाल्यावर काय करावे?",
+      "answer": "दोऱ्याच्या दोन्ही टोकांना गाठ मारावी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कात्रीचा वापर करताना काय काळजी घ्यावी?",
+      "answer": "कात्री हाताला लागणार नाही याची काळजी घ्यावी (सावधानता बाळगावी)."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सुईचा वापर करताना कोणती खबरदारी घ्यावी?",
+      "answer": "सुई हातास टोचणार नाही याची खबरदारी घ्यावी."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "अभिरुचिपूरक उपक्रम म्हणजे काय?",
+      "answer": "विद्यार्थ्यांच्या आवडीनुसार आणि कलागुणांना वाव देणारे उपक्रम."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "टाकाऊ वस्तूंचा वापर करून कोणता उपक्रम करता येईल?",
+      "answer": "काडीपेटीपासून विदूषक किंवा बाटलीच्या झाकणापासून भिंगरी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "भिंगरी फिरताना कशी दिसते?",
+      "answer": "भिंगरी गरगर फिरते आणि छान दिसते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "विदूषकाचे कपडे कशाचे बनवावेत?",
+      "answer": "विदूषकाचे कपडे रंगीत कागदाचे बनवावेत."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "फुलांचा उपयोग कशासाठी केला जातो?",
+      "answer": "पूजा, सजावट, हार, गजरे आणि माळा बनवण्यासाठी."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "बाटलीच्या झाकणापासून काय तयार करता येते?",
+      "answer": "बाटलीच्या झाकणापासून भिंगरी तयार करता येते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "तुम्हाला कोणती फुले आवडतात?",
+      "answer": "मला गुलाब, मोगरा आणि झेंडूची फुले आवडतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "तुम्ही बनवलेली भिंगरी कशी फिरली?",
+      "answer": "मी बनवलेली भिंगरी छान गरगर फिरली."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "विदूषकाच्या चेहऱ्यावर कोणते भाव काढाल?",
+      "answer": "विदूषकाच्या चेहऱ्यावर हसरे आणि गमतीदार भाव काढेन."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "माळ बनवताना फुलांचा क्रम कसा ठेवावा?",
+      "answer": "एकाच प्रकारची ४-५ फुले, मग वेगळ्या रंगाची २-३ फुले, मग पाने असा क्रम ठेवावा."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कोणत्या रंगाचे कागद विदूषकासाठी वापरावेत?",
+      "answer": "भडक आणि आकर्षक रंगाचे कागद वापरावेत."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "भिंगरीच्या टोकावर मणी नसला तर काय होईल?",
+      "answer": "मणी नसला तर भिंगरीला तोल सांभाळता येणार नाही आणि ती नीट फिरणार नाही."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "काडीपेटीच्या विदूषकाचा उपयोग काय?",
+      "answer": "खेळण्यासाठी किंवा मनोरंजनासाठी खेळणे म्हणून उपयोग होतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "सजावटीसाठी फुलांच्या माळा कुठे लावतात?",
+      "answer": "दरवाजावर (तोरण), देवाच्या फोटोला किंवा समारंभात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "डिंक लावताना काय काळजी घ्यावी?",
+      "answer": "डिंक हाताला किंवा कपड्याला लागणार नाही आणि कागद फाटणार नाही याची काळजी घ्यावी."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "भिंगरी फिरवण्यासाठी जागा कशी असावी?",
+      "answer": "जागा सपाट आणि गुळगुळीत असावी."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "विदूषकाच्या डोक्यावर काय असते?",
+      "answer": "विदूषकाच्या डोक्यावर टोपी असते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "फुलांच्या बाजारात काय मिळते?",
+      "answer": "फुलांच्या बाजारात विविध प्रकारची फुले, हार आणि सजावटीचे साहित्य मिळते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "टूथपिक म्हणजे काय?",
+      "answer": "दात स्वच्छ करण्यासाठी किंवा छोट्या गोष्टी टोचण्यासाठी वापरली जाणारी बारीक काडी."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "स्केचपेनचा वापर कशासाठी करावा?",
+      "answer": "चित्र काढण्यासाठी आणि रंगवण्यासाठी."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "काडीपेटीच्या कोणत्या भागाला ड्रॉवर म्हणतात?",
+      "answer": "काडीपेटीच्या आतल्या सरकणाऱ्या भागाला ड्रॉवर म्हणतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "अॅस्टरच्या फुलाचा रंग कोणता असतो?",
+      "answer": "अॅस्टरची फुले गुलाबी, जांभळी, पांढरी अशा विविध रंगांची असतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "भिंगरी किती वेळ फिरते?",
+      "answer": "जितकी जोरात गिरकी दिली असेल तितका वेळ ती फिरते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "विदूषकाचे हात हलवण्यासाठी काय करावे?",
+      "answer": "खालची काडी वर-खाली करावी."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "माळ बनवताना फुले कशी निवडावीत?",
+      "answer": "ताजी आणि देठ असलेली फुले निवडावीत."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "तुम्ही बनवलेल्या वस्तू कोणाला दाखवाल?",
+      "answer": "मी बनवलेल्या वस्तू आई-बाबांना, शिक्षकांना आणि मित्रांना दाखवेन."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "कौशल्यात्मक उपक्रम आणि अभिरुचिपूरक उपक्रम यात काय फरक आहे?",
+      "answer": "कौशल्यात्मक उपक्रमात विशिष्ट कौशल्य शिकले जाते, तर अभिरुचिपूरक उपक्रमात आवडीनुसार वस्तू बनवल्या जातात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "भिंगरीला रंगीत कागद का लावतात?",
+      "answer": "फिरताना ती रंगीबेरंगी आणि छान दिसावी म्हणून."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "विदूषक बनवताना 'कात्री' ऐवजी काय वापरता येईल?",
+      "answer": "कात्री ऐवजी कटर वापरता येईल (पण जपून)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "माळ लांब करण्यासाठी काय करावे?",
+      "answer": "जास्त दोरा घेऊन फुलांची पुनरावृत्ती करत राहावे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "भिंगरीच्या मध्यावर छिद्र न पाडल्यास काय होईल?",
+      "answer": "भिंगरीचा समतोल बिघडेल आणि ती फिरणार नाही."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "काडीपेटीच्या विदूषकाला हात कसे जोडावेत?",
+      "answer": "ड्रॉवरच्या बाजूला कागदी हात चिकटवून जोडावेत."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कोणत्या सणांना फुलांच्या माळा वापरतात?",
+      "answer": "दिवाळी, दसरा, गणेशोत्सव इत्यादी सणांना."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "या उपक्रमांतून काय शिकायला मिळते?",
+      "answer": "टाकाऊतून टिकाऊ वस्तू बनवणे, नवनिर्मितीचा आनंद आणि हाताचे कौशल्य शिकायला मिळते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "तुम्ही बनवलेली एखादी वस्तू मित्राला भेट म्हणून द्याल का?",
+      "answer": "हो, मी बनवलेली वस्तू मित्राला भेट म्हणून नक्की देईन."
+    }
+  ]
+}

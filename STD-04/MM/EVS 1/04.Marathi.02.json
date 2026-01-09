@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.02",
+    "standard": "4",
+    "subject": "परिसर अभ्यास (भाग १)",
+    "medium": "Marathi",
+    "chapter_name": "सजीवांचे परस्परांशी नाते"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "सजीवांच्या गरजा कोठून पूर्ण होतात?",
+      "options": [
+        { "option_id": 1, "text": "आकाशातून", "is_correct": false },
+        { "option_id": 2, "text": "परिसरातून", "is_correct": true },
+        { "option_id": 3, "text": "फक्त पाण्यातून", "is_correct": false },
+        { "option_id": 4, "text": "फक्त घरातून", "is_correct": false }
+      ],
+      "answer": "परिसरातून"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "अन्न, पाणी आणि हवा या कोणाच्या गरजा आहेत?",
+      "options": [
+        { "option_id": 1, "text": "फक्त माणसांच्या", "is_correct": false },
+        { "option_id": 2, "text": "निर्जीव वस्तूंच्या", "is_correct": false },
+        { "option_id": 3, "text": "सर्व सजीवांच्या", "is_correct": true },
+        { "option_id": 4, "text": "फक्त प्राण्यांच्या", "is_correct": false }
+      ],
+      "answer": "सर्व सजीवांच्या"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "उंदीर दिवसभरात जेवढे पाणी पितो, तेवढ्या पाण्याने हत्तीची एका वेळची _______ ही भागणार नाही.",
+      "options": [
+        { "option_id": 1, "text": "भूक", "is_correct": false },
+        { "option_id": 2, "text": "तहान", "is_correct": true },
+        { "option_id": 3, "text": "झोप", "is_correct": false },
+        { "option_id": 4, "text": "अंघोळ", "is_correct": false }
+      ],
+      "answer": "तहान"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "फुलांमधल्या गोड मकरंदावर आपली भूक कोण भागवते?",
+      "options": [
+        { "option_id": 1, "text": "बेडूक", "is_correct": false },
+        { "option_id": 2, "text": "फुलपाखरू", "is_correct": true },
+        { "option_id": 3, "text": "शेळी", "is_correct": false },
+        { "option_id": 4, "text": "वाघ", "is_correct": false }
+      ],
+      "answer": "फुलपाखरू"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पानकणीस ही वनस्पती कोठे वाढते?",
+      "options": [
+        { "option_id": 1, "text": "वाळवंटात", "is_correct": false },
+        { "option_id": 2, "text": "डोंगरावर", "is_correct": false },
+        { "option_id": 3, "text": "पाण्यात", "is_correct": true },
+        { "option_id": 4, "text": "झाडावर", "is_correct": false }
+      ],
+      "answer": "पाण्यात"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "जे पाणी पाणवनस्पती नाहीत, त्यांना गरजेपेक्षा जास्त पाणी मिळाले तर काय होते?",
+      "options": [
+        { "option_id": 1, "text": "त्या जोमाने वाढतात", "is_correct": false },
+        { "option_id": 2, "text": "त्या कुजतात", "is_correct": true },
+        { "option_id": 3, "text": "त्यांना फळे येतात", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होत नाही", "is_correct": false }
+      ],
+      "answer": "त्या कुजतात"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "प्रत्येक प्रकारच्या सजीवाच्या गरजा जिथे पूर्ण होतील, तिथेच ते ______ आढळतात.",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "सजीव", "is_correct": true },
+        { "option_id": 3, "text": "निर्जीव", "is_correct": false },
+        { "option_id": 4, "text": "मृत", "is_correct": false }
+      ],
+      "answer": "सजीव"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वाघाच्या अंगावर काय असतात?",
+      "options": [
+        { "option_id": 1, "text": "ठिपके", "is_correct": false },
+        { "option_id": 2, "text": "पट्टे", "is_correct": true },
+        { "option_id": 3, "text": "काटे", "is_correct": false },
+        { "option_id": 4, "text": "पिसे", "is_correct": false }
+      ],
+      "answer": "पट्टे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वाघ गवतात दबा धरून कशासाठी लपून बसतो?",
+      "options": [
+        { "option_id": 1, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "सावजासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "सावजासाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "वाघाच्या अंगावरील पट्ट्यांमुळे कोणाला वाघाचा पत्ता लागत नाही?",
+      "options": [
+        { "option_id": 1, "text": "सावजाला", "is_correct": true },
+        { "option_id": 2, "text": "शिकारीला", "is_correct": false },
+        { "option_id": 3, "text": "झाडांना", "is_correct": false },
+        { "option_id": 4, "text": "पाण्याला", "is_correct": false }
+      ],
+      "answer": "सावजाला"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "वाघाला निवाऱ्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "घराची", "is_correct": false },
+        { "option_id": 2, "text": "गुहेची", "is_correct": true },
+        { "option_id": 3, "text": "झाडाची", "is_correct": false },
+        { "option_id": 4, "text": "बोगद्याची", "is_correct": false }
+      ],
+      "answer": "गुहेची"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "रेशीम माणसाला कोठून मिळते?",
+      "options": [
+        { "option_id": 1, "text": "शेळीपासून", "is_correct": false },
+        { "option_id": 2, "text": "कोळ्यापासून", "is_correct": false },
+        { "option_id": 3, "text": "किड्यापासून (रेशीम किडा)", "is_correct": true },
+        { "option_id": 4, "text": "झाडापासून", "is_correct": false }
+      ],
+      "answer": "किड्यापासून (रेशीम किडा)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "गाई-म्हशींच्या शेणापासून काय थापतात?",
+      "options": [
+        { "option_id": 1, "text": "वीटा", "is_correct": false },
+        { "option_id": 2, "text": "गोवऱ्या", "is_correct": true },
+        { "option_id": 3, "text": "भांडी", "is_correct": false },
+        { "option_id": 4, "text": "खेळणी", "is_correct": false }
+      ],
+      "answer": "गोवऱ्या"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "गोवऱ्या कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "खाण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "इंधन म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "कपडे धुण्यासाठी", "is_correct": false }
+      ],
+      "answer": "इंधन म्हणून"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गाई-म्हशींच्या शेणापासून कोणता ज्वलनशील वायू तयार करतात?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "गोबरगॅस", "is_correct": true },
+        { "option_id": 3, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 4, "text": "हायड्रोजन", "is_correct": false }
+      ],
+      "answer": "गोबरगॅस"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "मातीची घरे लिंपण्यासाठी कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "सिमेंट", "is_correct": false },
+        { "option_id": 2, "text": "शेण", "is_correct": true },
+        { "option_id": 3, "text": "तेल", "is_correct": false },
+        { "option_id": 4, "text": "डांबर", "is_correct": false }
+      ],
+      "answer": "शेण"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मेंढ्यांच्या लेंड्यांपासून कोणते खत मिळते?",
+      "options": [
+        { "option_id": 1, "text": "रासायनिक खत", "is_correct": false },
+        { "option_id": 2, "text": "लेंडीखत", "is_correct": true },
+        { "option_id": 3, "text": "युरिया", "is_correct": false },
+        { "option_id": 4, "text": "कंपोस्ट", "is_correct": false }
+      ],
+      "answer": "लेंडीखत"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "माणसाला लोकर कोणापासून मिळते?",
+      "options": [
+        { "option_id": 1, "text": "कुत्रा", "is_correct": false },
+        { "option_id": 2, "text": "मेंढी", "is_correct": true },
+        { "option_id": 3, "text": "मांजर", "is_correct": false },
+        { "option_id": 4, "text": "गाय", "is_correct": false }
+      ],
+      "answer": "मेंढी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "अन्नधान्य, भाजीपाला, फळफळावळ माणसाला कोणाकडून मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "प्राण्यांकडून", "is_correct": false },
+        { "option_id": 2, "text": "वनस्पतींकडून", "is_correct": true },
+        { "option_id": 3, "text": "दगडांकडून", "is_correct": false },
+        { "option_id": 4, "text": "पाण्याकडून", "is_correct": false }
+      ],
+      "answer": "वनस्पतींकडून"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सुती कपड्यांसाठी लागणारा कापूस कोठून मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "प्राण्यांपासून", "is_correct": false },
+        { "option_id": 2, "text": "वनस्पतींपासून", "is_correct": true },
+        { "option_id": 3, "text": "खाणीतून", "is_correct": false },
+        { "option_id": 4, "text": "कारखान्यातून", "is_correct": false }
+      ],
+      "answer": "वनस्पतींपासून"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "'वृक्षवासी' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात राहणारे प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "झाडावर राहणारे प्राणी", "is_correct": true },
+        { "option_id": 3, "text": "जमिनीत राहणारे प्राणी", "is_correct": false },
+        { "option_id": 4, "text": "घरात राहणारे प्राणी", "is_correct": false }
+      ],
+      "answer": "झाडावर राहणारे प्राणी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी वृक्षवासी प्राणी कोणता?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "माकड", "is_correct": true },
+        { "option_id": 3, "text": "गाय", "is_correct": false },
+        { "option_id": 4, "text": "हत्ती", "is_correct": false }
+      ],
+      "answer": "माकड"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "वृक्षवासी प्राण्यांच्या विष्ठेतून कशाचा प्रसार होतो?",
+      "options": [
+        { "option_id": 1, "text": "फळांच्या बियांचा", "is_correct": true },
+        { "option_id": 2, "text": "पानांचा", "is_correct": false },
+        { "option_id": 3, "text": "फुलांचा", "is_correct": false },
+        { "option_id": 4, "text": "फांद्यांचा", "is_correct": false }
+      ],
+      "answer": "फळांच्या बियांचा"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "गवताळ जागेत म्हैस चरत असताना तिच्या पाठीवर कोणता पक्षी बसतो?",
+      "options": [
+        { "option_id": 1, "text": "कावळा", "is_correct": false },
+        { "option_id": 2, "text": "बगळा", "is_correct": true },
+        { "option_id": 3, "text": "चिमणी", "is_correct": false },
+        { "option_id": 4, "text": "कबुतर", "is_correct": false }
+      ],
+      "answer": "बगळा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "बगळा म्हशीच्या पाठीवर बसून काय खातो?",
+      "options": [
+        { "option_id": 1, "text": "गवत", "is_correct": false },
+        { "option_id": 2, "text": "कीटक", "is_correct": true },
+        { "option_id": 3, "text": "फळे", "is_correct": false },
+        { "option_id": 4, "text": "धान्य", "is_correct": false }
+      ],
+      "answer": "कीटक"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "हिवाळ्याचे वर्णन कोणत्या शब्दांत करतात?",
+      "options": [
+        { "option_id": 1, "text": "पावसाळा", "is_correct": false },
+        { "option_id": 2, "text": "पानगळीचा ऋतू", "is_correct": true },
+        { "option_id": 3, "text": "पालवीचा ऋतू", "is_correct": false },
+        { "option_id": 4, "text": "फळांचा ऋतू", "is_correct": false }
+      ],
+      "answer": "पानगळीचा ऋतू"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "हिवाळ्यात अनेक झाडांचे काय गळून पडतात?",
+      "options": [
+        { "option_id": 1, "text": "फळे", "is_correct": false },
+        { "option_id": 2, "text": "पाने", "is_correct": true },
+        { "option_id": 3, "text": "फांद्या", "is_correct": false },
+        { "option_id": 4, "text": "मुळे", "is_correct": false }
+      ],
+      "answer": "पाने"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "हिवाळ्यात कोणत्या प्राण्यांच्या अंगावरचे केस दाट होतात?",
+      "options": [
+        { "option_id": 1, "text": "मासे", "is_correct": false },
+        { "option_id": 2, "text": "ससे आणि मेंढ्या", "is_correct": true },
+        { "option_id": 3, "text": "बेडूक", "is_correct": false },
+        { "option_id": 4, "text": "कासव", "is_correct": false }
+      ],
+      "answer": "ससे आणि मेंढ्या"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "आंब्याला फुलोरा कधी येऊ लागतो?",
+      "options": [
+        { "option_id": 1, "text": "पावसाळ्यात", "is_correct": false },
+        { "option_id": 2, "text": "हिवाळ्यात", "is_correct": true },
+        { "option_id": 3, "text": "उन्हाळ्यात", "is_correct": false },
+        { "option_id": 4, "text": "वर्षभर", "is_correct": false }
+      ],
+      "answer": "हिवाळ्यात"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "आंब्याच्या फुलोऱ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कळी", "is_correct": false },
+        { "option_id": 2, "text": "मोहर", "is_correct": true },
+        { "option_id": 3, "text": "फूल", "is_correct": false },
+        { "option_id": 4, "text": "पालवी", "is_correct": false }
+      ],
+      "answer": "मोहर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "झाडांना येणारी नवीन कोवळी पाने म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मोहर", "is_correct": false },
+        { "option_id": 2, "text": "पालवी", "is_correct": true },
+        { "option_id": 3, "text": "फांदी", "is_correct": false },
+        { "option_id": 4, "text": "कळी", "is_correct": false }
+      ],
+      "answer": "पालवी"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पालवी कोणत्या रंगाची असते?",
+      "options": [
+        { "option_id": 1, "text": "हिरवीगार", "is_correct": false },
+        { "option_id": 2, "text": "तांबूस", "is_correct": true },
+        { "option_id": 3, "text": "पिवळी", "is_correct": false },
+        { "option_id": 4, "text": "काळी", "is_correct": false }
+      ],
+      "answer": "तांबूस"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "उन्हाळ्यात बाजारात कोणती फळे भरपूर येतात?",
+      "options": [
+        { "option_id": 1, "text": "सफरचंद आणि द्राक्षे", "is_correct": false },
+        { "option_id": 2, "text": "आंबे आणि कलिंगडे", "is_correct": true },
+        { "option_id": 3, "text": "सीताफळ आणि पेरू", "is_correct": false },
+        { "option_id": 4, "text": "केळी आणि चिकू", "is_correct": false }
+      ],
+      "answer": "आंबे आणि कलिंगडे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कोकण कशासाठी नावाजले जाते?",
+      "options": [
+        { "option_id": 1, "text": "द्राक्षांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "आंब्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "संत्र्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "सफरचंदासाठी", "is_correct": false }
+      ],
+      "answer": "आंब्यासाठी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "उन्हाळ्यात कोकणात आंब्याच्या जोडीने कशाचा हंगाम असतो?",
+      "options": [
+        { "option_id": 1, "text": "काजूचा", "is_correct": true },
+        { "option_id": 2, "text": "नारळाचा", "is_correct": false },
+        { "option_id": 3, "text": "सुपारीचा", "is_correct": false },
+        { "option_id": 4, "text": "फणसाचा", "is_correct": false }
+      ],
+      "answer": "काजूचा"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "जून महिन्यात आभाळात कसले ढग हजेरी लावतात?",
+      "options": [
+        { "option_id": 1, "text": "पांढरे", "is_correct": false },
+        { "option_id": 2, "text": "काळे", "is_correct": true },
+        { "option_id": 3, "text": "निळे", "is_correct": false },
+        { "option_id": 4, "text": "लाल", "is_correct": false }
+      ],
+      "answer": "काळे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पावसाळ्याची चाहूल लागताच बाजारात कोणती फळे येतात?",
+      "options": [
+        { "option_id": 1, "text": "फणस, करवंदे आणि जांभळे", "is_correct": true },
+        { "option_id": 2, "text": "सफरचंद आणि संत्री", "is_correct": false },
+        { "option_id": 3, "text": "आंबे आणि कलिंगड", "is_correct": false },
+        { "option_id": 4, "text": "द्राक्षे आणि बोरं", "is_correct": false }
+      ],
+      "answer": "फणस, करवंदे आणि जांभळे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पाऊस पडू लागताच कशाच्या बियांचे अंकुर फुटतात?",
+      "options": [
+        { "option_id": 1, "text": "दगडांचे", "is_correct": false },
+        { "option_id": 2, "text": "गवताच्या", "is_correct": true },
+        { "option_id": 3, "text": "कागदाचे", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिकचे", "is_correct": false }
+      ],
+      "answer": "गवताच्या"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "पावसाळ्यात सगळीकडे पाणी झाल्यावर काय दिसू लागतात?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "बेडूक", "is_correct": true },
+        { "option_id": 3, "text": "सिंह", "is_correct": false },
+        { "option_id": 4, "text": "हत्ती", "is_correct": false }
+      ],
+      "answer": "बेडूक"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "बेडूक थंडीचा त्रास होऊ नये म्हणून काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "स्वेटर घालतात", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीत खोलवर जाऊन झोपतात", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यात लपतात", "is_correct": false },
+        { "option_id": 4, "text": "झाडावर चढतात", "is_correct": false }
+      ],
+      "answer": "जमिनीत खोलवर जाऊन झोपतात"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "बेडकांची जमिनीखालील झोप किती महिने चालते?",
+      "options": [
+        { "option_id": 1, "text": "एक-दोन महिने", "is_correct": false },
+        { "option_id": 2, "text": "सात-आठ महिने", "is_correct": true },
+        { "option_id": 3, "text": "बारा महिने", "is_correct": false },
+        { "option_id": 4, "text": "पंधरा दिवस", "is_correct": false }
+      ],
+      "answer": "सात-आठ महिने"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "आपण अन्नासाठी कशावर अवलंबून असतो?",
+      "options": [
+        { "option_id": 1, "text": "दुकानावर", "is_correct": false },
+        { "option_id": 2, "text": "शेतीवर", "is_correct": true },
+        { "option_id": 3, "text": "जंगलावर", "is_correct": false },
+        { "option_id": 4, "text": "कारखान्यावर", "is_correct": false }
+      ],
+      "answer": "शेतीवर"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "थंडीचा कडाका कमी झाल्यावर कोणता महिना सुरू होतो?",
+      "options": [
+        { "option_id": 1, "text": "जानेवारी", "is_correct": false },
+        { "option_id": 2, "text": "मार्च", "is_correct": true },
+        { "option_id": 3, "text": "जून", "is_correct": false },
+        { "option_id": 4, "text": "ऑक्टोबर", "is_correct": false }
+      ],
+      "answer": "मार्च"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मार्च महिना सुरू झाला की काय जाणवू लागते?",
+      "options": [
+        { "option_id": 1, "text": "थंडी", "is_correct": false },
+        { "option_id": 2, "text": "उष्णता", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "वारा", "is_correct": false }
+      ],
+      "answer": "उष्णता"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कोणत्या ऋतूत उकडते?",
+      "options": [
+        { "option_id": 1, "text": "हिवाळ्यात", "is_correct": false },
+        { "option_id": 2, "text": "पावसाळ्यात", "is_correct": false },
+        { "option_id": 3, "text": "उन्हाळ्यात", "is_correct": true },
+        { "option_id": 4, "text": "वसंत ऋतूत", "is_correct": false }
+      ],
+      "answer": "उन्हाळ्यात"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "उन्हाळ्यात आपण कोणते कपडे वापरतो?",
+      "options": [
+        { "option_id": 1, "text": "लोकरीचे", "is_correct": false },
+        { "option_id": 2, "text": "सुती", "is_correct": true },
+        { "option_id": 3, "text": "रेशमी", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिकचे", "is_correct": false }
+      ],
+      "answer": "सुती"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "हिवाळ्यात थंडी वाजू नये म्हणून आपण कोणते कपडे वापरतो?",
+      "options": [
+        { "option_id": 1, "text": "सुती", "is_correct": false },
+        { "option_id": 2, "text": "उबेचे (लोकरीचे)", "is_correct": true },
+        { "option_id": 3, "text": "पातळ", "is_correct": false },
+        { "option_id": 4, "text": "कागदी", "is_correct": false }
+      ],
+      "answer": "उबेचे (लोकरीचे)"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "पावसाळ्यात बाहेर जाताना आपण कशाचा वापर करतो?",
+      "options": [
+        { "option_id": 1, "text": "स्वेटर", "is_correct": false },
+        { "option_id": 2, "text": "छत्री किंवा इरले", "is_correct": true },
+        { "option_id": 3, "text": "टोपी", "is_correct": false },
+        { "option_id": 4, "text": "मफलर", "is_correct": false }
+      ],
+      "answer": "छत्री किंवा इरले"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कोकीळ पक्ष्याचा आवाज कोणत्या ऋतूत ऐकू येतो?",
+      "options": [
+        { "option_id": 1, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 2, "text": "उन्हाळा (वसंत ऋतू)", "is_correct": true },
+        { "option_id": 3, "text": "पावसाळा", "is_correct": false },
+        { "option_id": 4, "text": "शरद ऋतू", "is_correct": false }
+      ],
+      "answer": "उन्हाळा (वसंत ऋतू)"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "पावसाळ्यात आकाशात काय दिसते?",
+      "options": [
+        { "option_id": 1, "text": "इंद्रधनुष्य", "is_correct": true },
+        { "option_id": 2, "text": "तारे", "is_correct": false },
+        { "option_id": 3, "text": "बर्फ", "is_correct": false },
+        { "option_id": 4, "text": "धुके", "is_correct": false }
+      ],
+      "answer": "इंद्रधनुष्य"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सजीवांच्या मूलभूत गरजा कोणत्या आहेत?",
+      "answer": "अन्न, पाणी, हवा, वस्त्र आणि निवारा या सजीवांच्या मूलभूत गरजा आहेत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "वाघाला लपण्यासाठी कशाची आवश्यकता असते?",
+      "answer": "वाघाला लपण्यासाठी उंच गवत किंवा डोंगरातील गुहेची आवश्यकता असते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वृक्षवासी प्राणी कशाला म्हणतात?",
+      "answer": "जे प्राणी जीवनातील जास्तीत जास्त वेळ झाडावर घालवतात, त्यांना वृक्षवासी प्राणी म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "बगळा म्हशीच्या पाठीवर का बसतो?",
+      "answer": "म्हैस गवत चरताना कीटक उडतात, ते खाण्यासाठी बगळा म्हशीच्या पाठीवर बसतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात झाडांमध्ये कोणता बदल होतो?",
+      "answer": "हिवाळ्यात अनेक झाडांची पाने गळून पडतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पालवी म्हणजे काय?",
+      "answer": "झाडांना येणाऱ्या तांबूस रंगाच्या नवीन कोवळ्या पानांना पालवी म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "मोहर म्हणजे काय?",
+      "answer": "हिवाळ्यात आंब्याच्या झाडाला येणाऱ्या फुलोऱ्याला मोहर म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पावसाळ्यात बेडूक का दिसत नाहीत?",
+      "answer": "पावसाळा संपल्यावर थंडीचा त्रास होऊ नये म्हणून बेडूक जमिनीत खोलवर जाऊन झोपतात, म्हणून ते नंतर दिसत नाहीत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कापसाचा उपयोग कशासाठी होतो?",
+      "answer": "कापसाचा उपयोग सुती कपडे तयार करण्यासाठी होतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "माणूस पाळीव प्राणी का पाळतो?",
+      "answer": "माणसाला प्राण्यांकडून दूध, मांस, अंडी मिळते, तसेच ओझी वाहण्यासाठी आणि शेतीच्या कामासाठी माणूस प्राणी पाळतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "शेणखत आणि लेंडीखत कशापासून मिळते?",
+      "answer": "शेणखत गाई-म्हशींच्या शेणापासून आणि लेंडीखत शेळ्या-मेंढ्यांच्या लेंड्यांपासून मिळते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "गोबरगॅस कशापासून तयार करतात?",
+      "answer": "गोबरगॅस गाई-म्हशींच्या शेणापासून तयार करतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मेंढीपासून माणसाला काय मिळते?",
+      "answer": "मेंढीपासून माणसाला लोकर मिळते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "वृक्षवासी प्राण्यांमुळे झाडांना कशी मदत होते?",
+      "answer": "वृक्षवासी प्राण्यांच्या विष्ठेतून बिया सगळीकडे पसरतात, त्यामुळे नवीन झाडे उगवायला मदत होते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पाणवनस्पती पाण्यातून बाहेर काढल्या तर काय होईल?",
+      "answer": "पाणवनस्पती पाण्यातून बाहेर काढल्या तर त्या जगू शकणार नाहीत."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "वाघाच्या अंगावरील पट्ट्यांचा काय उपयोग होतो?",
+      "answer": "वाघ गवतात लपला की पट्ट्यांमुळे तो सावजाला दिसत नाही."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात काही प्राण्यांच्या अंगावरचे केस दाट का होतात?",
+      "answer": "कडाक्याच्या थंडीपासून रक्षण होण्यासाठी हिवाळ्यात काही प्राण्यांच्या अंगावरचे केस दाट होतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "काजूचा हंगाम कोणत्या ऋतूत असतो?",
+      "answer": "काजूचा हंगाम उन्हाळ्यात असतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "पावसाळ्याची चाहूल लागताच कोणते बदल होतात?",
+      "answer": "आभाळात काळे ढग जमा होतात आणि पावसाळ्याची चाहूल लागते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "शेतीची कामे कोणत्या ऋतूंमध्ये विभागलेली असतात?",
+      "answer": "शेतीची कामे पावसाळा, हिवाळा आणि उन्हाळा या ऋतूंमध्ये विभागलेली असतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "माणूस प्राण्यांची काळजी कशी घेतो?",
+      "answer": "माणूस प्राण्यांना खाऊ-पिऊ घालतो आणि आजारी पडल्यास उपचार करतो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "वनस्पती माणसाला काय काय देतात?",
+      "answer": "वनस्पती माणसाला अन्नधान्य, भाजीपाला, फळे, फुले आणि कापूस देतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "रेशीम कशापासून मिळते?",
+      "answer": "रेशीम रेशीम किड्यांच्या कोशापासून मिळते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वाळवी झाडाला लागली तर काय होते?",
+      "answer": "वाळवीने झाड पोखरले तर झाड कमकुवत होऊन पडू शकते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "पक्ष्यांना झाडांचा काय उपयोग होतो?",
+      "answer": "पक्ष्यांना घरटी बांधण्यासाठी झाडांचा उपयोग होतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "साप काय खातो?",
+      "answer": "काही प्रकारचे साप उंदीर आणि बेडूक खातात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पाणकणीस कोठे वाढते?",
+      "answer": "पाणकणीस ही वनस्पती पाण्यात वाढते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कमळ कोठे फुलते?",
+      "answer": "कमळ पाण्यात फुलते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "लिंबू आणि वांगे पाण्यात वाढतील का?",
+      "answer": "नाही, लिंबू आणि वांगे पाण्यात वाढणार नाहीत, ते कुजून जातील."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "हिंगाच्या डब्यातील प्रयोगावरून काय समजते?",
+      "answer": "हिंगाच्या डब्यातील प्रयोगावरून समजते की ज्या वनस्पती पाणवनस्पती नाहीत, त्या पाणथळ जागी जगू शकत नाहीत."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "वाघ कोठे राहतो?",
+      "answer": "वाघ जिथे उंच गवत, पाणवठा आणि डोंगरातील गुहा असतात, तिथे राहतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "माणूस प्राणी का पाळतो?",
+      "answer": "माणसाच्या काही गरजा पूर्ण व्हाव्यात म्हणून माणूस विविध प्राणी पाळतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "आजारी पडलेल्या प्राण्यांवर माणूस काय करतो?",
+      "answer": "आजारी पडलेल्या प्राण्यांवर माणूस उपचार करतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "दूधदुभते माणसाला कोणाकडून मिळते?",
+      "answer": "दूधदुभते माणसाला गाई, म्हशी, शेळ्या यांसारख्या प्राण्यांकडून मिळते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "गोवऱ्यांचा उपयोग काय?",
+      "answer": "ग्रामीण भागात अनेक ठिकाणी गोवऱ्या इंधन म्हणून वापरतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "माकडे झाडावर का राहतात?",
+      "answer": "उंचावर असल्याने शत्रूपासून बचाव करणे सोपे जाते आणि फळे खाऊन पोट भरता येते म्हणून माकडे झाडावर राहतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "खारींना झाडाचा काय उपयोग होतो?",
+      "answer": "खारी झाडावर राहतात आणि झाडांची फळे खाऊन पोट भरतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "फळांच्या बिया परिसरात कशा पसरतात?",
+      "answer": "वृक्षवासी प्राणी फळे खाऊन इकडे तिकडे फिरतात, त्यांच्या विष्ठेतून फळांच्या बिया परिसरात पसरतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "हिवाळ्याला 'पानगळीचा ऋतू' असे का म्हणतात?",
+      "answer": "कारण हिवाळ्यात अनेक झाडांची पाने गळून पडतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात आपण कोणते कपडे वापरतो?",
+      "answer": "उन्हाळ्यात आपण सुती कपडे वापरतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "पावसाळ्यात कोणते बदल दिसतात?",
+      "answer": "पावसाळ्यात सर्वत्र हिरवाई दिसते, आकाशत काळे ढग येतात आणि इंद्रधनुष्य दिसते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "जून महिन्यात शेतकऱ्यांना कशाची तयारी करावी लागते?",
+      "answer": "जून महिन्यात शेतकऱ्यांना पावसाळ्याची आणि पेरणीची तयारी करावी लागते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "जांभळे आणि करवंदे बाजारात कधी येतात?",
+      "answer": "पावसाळ्याची चाहूल लागते तेव्हा, म्हणजेच उन्हाळ्याच्या शेवटी आणि पावसाळ्याच्या सुरुवातीला जांभळे आणि करवंदे बाजारात येतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "बेडूक पावसाळ्यात का दिसतात?",
+      "answer": "कारण पावसाळ्यात सगळीकडे पाणी असते आणि बेडकांना पाणी लागते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "ससे आणि मेंढ्या यांचे केस दाट का होतात?",
+      "answer": "थंडीपासून रक्षण होण्यासाठी ससे आणि मेंढ्या यांचे केस हिवाळ्यात दाट होतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "पानगळ म्हणजे काय?",
+      "answer": "झाडांची जुनी पाने गळून पडण्याची प्रक्रिया म्हणजे पानगळ होय."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पालवी फुटणे म्हणजे काय?",
+      "answer": "झाडांना नवी पाने येण्याच्या प्रक्रियेला पालवी फुटणे असे म्हणतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "मोहर येणे म्हणजे काय?",
+      "answer": "आंब्याच्या झाडाला फुले येण्याच्या प्रक्रियेला मोहर येणे म्हणतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "भारतातील मुख्य ऋतू कोणते?",
+      "answer": "उन्हाळा, पावसाळा आणि हिवाळा हे भारतातील मुख्य ऋतू आहेत."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "ऋतुमानाप्रमाणे सजीवांमध्ये बदल का होतात?",
+      "answer": "परिसरातील बदलांशी जुळवून घेण्यासाठी सजीवांमध्ये ऋतुमानाप्रमाणे बदल होतात."
+    }
+  ]
+}

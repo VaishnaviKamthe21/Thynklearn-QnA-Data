@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.KheluKaruShiku.10",
+    "standard": "4",
+    "subject": "खेळू, करू, शिकू (कार्यानुभव)",
+    "medium": "Marathi",
+    "chapter_name": "तंत्रज्ञान क्षेत्र, वाहतूक सुरक्षा आणि इतर क्षेत्रे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "संगणक सुरू केल्यावर दिसणाऱ्या पहिल्या स्क्रीनला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वॉलपेपर", "is_correct": false },
+        { "option_id": 2, "text": "डेस्कटॉप (Starting Desktop)", "is_correct": true },
+        { "option_id": 3, "text": "कीबोर्ड", "is_correct": false },
+        { "option_id": 4, "text": "माऊस", "is_correct": false }
+      ],
+      "answer": "डेस्कटॉप (Starting Desktop)"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "संगणकाला ऑपरेटिंग सिस्टिम मिळवण्याच्या प्रक्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "टायपिंग", "is_correct": false },
+        { "option_id": 2, "text": "क्लिकिंग", "is_correct": false },
+        { "option_id": 3, "text": "बूटिंग (Booting)", "is_correct": true },
+        { "option_id": 4, "text": "सेव्हिंग", "is_correct": false }
+      ],
+      "answer": "बूटिंग (Booting)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "डेस्कटॉपवर दिसणाऱ्या छोट्या चित्रांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "आयकॉन (Icons)", "is_correct": true },
+        { "option_id": 2, "text": "फोटो", "is_correct": false },
+        { "option_id": 3, "text": "बटण", "is_correct": false },
+        { "option_id": 4, "text": "फाईल", "is_correct": false }
+      ],
+      "answer": "आयकॉन (Icons)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आयकॉनवर काय केल्यावर ॲप्लिकेशन सुरू होते?",
+      "options": [
+        { "option_id": 1, "text": "सिंगल क्लिक", "is_correct": false },
+        { "option_id": 2, "text": "डबल क्लिक", "is_correct": true },
+        { "option_id": 3, "text": "राईट क्लिक", "is_correct": false },
+        { "option_id": 4, "text": "ड्रॅग", "is_correct": false }
+      ],
+      "answer": "डबल क्लिक"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "बूटिंग पूर्ण झाल्यानंतर पार्श्वभूमीवर दिसणाऱ्या चित्राला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "स्क्रीन सेव्हर", "is_correct": false },
+        { "option_id": 2, "text": "वॉलपेपर", "is_correct": true },
+        { "option_id": 3, "text": "पेंट", "is_correct": false },
+        { "option_id": 4, "text": "फोल्डर", "is_correct": false }
+      ],
+      "answer": "वॉलपेपर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "संगणकाच्या स्क्रीनवर तळाशी असणाऱ्या पट्टीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मेनुबार", "is_correct": false },
+        { "option_id": 2, "text": "टास्कबार", "is_correct": true },
+        { "option_id": 3, "text": "स्क्रोलबार", "is_correct": false },
+        { "option_id": 4, "text": "टायटल बार", "is_correct": false }
+      ],
+      "answer": "टास्कबार"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "टास्कबारवर काय दिसते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ वेळ", "is_correct": false },
+        { "option_id": 2, "text": "चालू असलेल्या कामांच्या विंडोची छोटी रूपे", "is_correct": true },
+        { "option_id": 3, "text": "केवळ तारीख", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "चालू असलेल्या कामांच्या विंडोची छोटी रूपे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "संगणकावर आकडेमोड करण्यासाठी कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "नोटपॅड", "is_correct": false },
+        { "option_id": 2, "text": "कॅल्क्युलेटर (Calculator)", "is_correct": true },
+        { "option_id": 3, "text": "पेंट", "is_correct": false },
+        { "option_id": 4, "text": "वर्डपॅड", "is_correct": false }
+      ],
+      "answer": "कॅल्क्युलेटर (Calculator)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कॅल्क्युलेटरचे किती प्रकार असतात?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन (स्टँडर्ड व सायंटिफिक)", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन (स्टँडर्ड व सायंटिफिक)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कॅल्क्युलेटर उघडण्यासाठी कोणत्या मार्गाने जावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "स्टार्ट -> शट डाऊन", "is_correct": false },
+        { "option_id": 2, "text": "स्टार्ट -> प्रोग्रॅम्स -> ॲक्सेसरीज -> कॅल्क्युलेटर", "is_correct": true },
+        { "option_id": 3, "text": "डेस्कटॉपवर राईट क्लिक", "is_correct": false },
+        { "option_id": 4, "text": "माय कॉम्प्युटर उघडून", "is_correct": false }
+      ],
+      "answer": "स्टार्ट -> प्रोग्रॅम्स -> ॲक्सेसरीज -> कॅल्क्युलेटर"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'पुढे शाळा आहे' हे चिन्ह कशासाठी असते?",
+      "options": [
+        { "option_id": 1, "text": "गाडी जोरात चालवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "वाहनाचा वेग कमी करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "हॉर्न वाजवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "गाडी थांबवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "वाहनाचा वेग कमी करण्यासाठी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'नो पार्किंग' (P) चिन्हाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "येथे गाडी उभी करावी", "is_correct": false },
+        { "option_id": 2, "text": "येथे गाडी उभी करू नये", "is_correct": true },
+        { "option_id": 3, "text": "येथे गाडी वळवावी", "is_correct": false },
+        { "option_id": 4, "text": "येथे रस्ता बंद आहे", "is_correct": false }
+      ],
+      "answer": "येथे गाडी उभी करू नये"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'हॉर्न वाजवणे' या चिन्हाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "हॉर्न वाजवू नये", "is_correct": false },
+        { "option_id": 2, "text": "हॉर्न वाजवणे सक्तीचे आहे", "is_correct": true },
+        { "option_id": 3, "text": "गाणी लावावीत", "is_correct": false },
+        { "option_id": 4, "text": "शांतता पाळावी", "is_correct": false }
+      ],
+      "answer": "हॉर्न वाजवणे सक्तीचे आहे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'रेल्वे क्रॉसिंग' चिन्ह काय दर्शवते?",
+      "options": [
+        { "option_id": 1, "text": "पुढे नदी आहे", "is_correct": false },
+        { "option_id": 2, "text": "पुढे रेल्वेचे रूळ आहेत (फाटक आहे)", "is_correct": true },
+        { "option_id": 3, "text": "पुढे शाळा आहे", "is_correct": false },
+        { "option_id": 4, "text": "पुढे दवाखाना आहे", "is_correct": false }
+      ],
+      "answer": "पुढे रेल्वेचे रूळ आहेत (फाटक आहे)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पशुपक्षी संवर्धनात प्रामुख्याने काय केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "प्राण्यांची शिकार", "is_correct": false },
+        { "option_id": 2, "text": "गोपालन आणि कुक्कुट पालन", "is_correct": true },
+        { "option_id": 3, "text": "प्राण्यांना जंगलात सोडणे", "is_correct": false },
+        { "option_id": 4, "text": "प्राण्यांची विक्री", "is_correct": false }
+      ],
+      "answer": "गोपालन आणि कुक्कुट पालन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "'खिल्लार' ही कशाची जात आहे?",
+      "options": [
+        { "option_id": 1, "text": "कोंबडीची", "is_correct": false },
+        { "option_id": 2, "text": "गाईची", "is_correct": true },
+        { "option_id": 3, "text": "बकरीची", "is_correct": false },
+        { "option_id": 4, "text": "म्हशीची", "is_correct": false }
+      ],
+      "answer": "गाईची"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पश्चिम महाराष्ट्रात आढळणारी पांढऱ्या रंगाची लांबट शरीराची गाय कोणती?",
+      "options": [
+        { "option_id": 1, "text": "गीर", "is_correct": false },
+        { "option_id": 2, "text": "खिल्लार", "is_correct": true },
+        { "option_id": 3, "text": "जर्सी", "is_correct": false },
+        { "option_id": 4, "text": "गवळाऊ", "is_correct": false }
+      ],
+      "answer": "खिल्लार"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "'गीर' गायीचे मूळ स्थान कोणते?",
+      "options": [
+        { "option_id": 1, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_id": 2, "text": "सौराष्ट्र (गुजरात)", "is_correct": true },
+        { "option_id": 3, "text": "पंजाब", "is_correct": false },
+        { "option_id": 4, "text": "केरळ", "is_correct": false }
+      ],
+      "answer": "सौराष्ट्र (गुजरात)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कोणत्या गायीचे दूध उत्पादन १० ते १२ लिटर (अंदाजे) असते?",
+      "options": [
+        { "option_id": 1, "text": "खिल्लार", "is_correct": false },
+        { "option_id": 2, "text": "होलस्टन व जर्सी", "is_correct": true },
+        { "option_id": 3, "text": "गवळाऊ", "is_correct": false },
+        { "option_id": 4, "text": "गीर", "is_correct": false }
+      ],
+      "answer": "होलस्टन व जर्सी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "'व्हाईट लेगहॉर्न' ही कशाची जात आहे?",
+      "options": [
+        { "option_id": 1, "text": "गाय", "is_correct": false },
+        { "option_id": 2, "text": "कोंबडी", "is_correct": true },
+        { "option_id": 3, "text": "शेळी", "is_correct": false },
+        { "option_id": 4, "text": "मेंढी", "is_correct": false }
+      ],
+      "answer": "कोंबडी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अतिशय कमी वेळेत जास्त मांस वाढवून खाण्यासाठी कोणती कोंबडी वापरली जाते?",
+      "options": [
+        { "option_id": 1, "text": "गावरान", "is_correct": false },
+        { "option_id": 2, "text": "ब्रॉयलर", "is_correct": true },
+        { "option_id": 3, "text": "लेगहॉर्न", "is_correct": false },
+        { "option_id": 4, "text": "ब्लॅक मिनार्का", "is_correct": false }
+      ],
+      "answer": "ब्रॉयलर"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "व्हाईट लेगहॉर्न कोंबडी वर्षाला अंदाजे किती अंडी देते?",
+      "options": [
+        { "option_id": 1, "text": "५० ते ६०", "is_correct": false },
+        { "option_id": 2, "text": "१०० ते १२०", "is_correct": false },
+        { "option_id": 3, "text": "२०० ते २५०", "is_correct": true },
+        { "option_id": 4, "text": "५०० ते ६००", "is_correct": false }
+      ],
+      "answer": "२०० ते २५०"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "ब्राऊन लेगहॉर्न कोंबडीचा रंग कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त पांढरा", "is_correct": false },
+        { "option_id": 2, "text": "पिवळा, काळा, तांबडा, राखाडी मिश्रित", "is_correct": true },
+        { "option_id": 3, "text": "पूर्ण काळा", "is_correct": false },
+        { "option_id": 4, "text": "हिरवा", "is_correct": false }
+      ],
+      "answer": "पिवळा, काळा, तांबडा, राखाडी मिश्रित"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "ब्लॅक मिनार्का कोंबडीचे मूळ स्थान कोणते?",
+      "options": [
+        { "option_id": 1, "text": "इटली", "is_correct": false },
+        { "option_id": 2, "text": "स्पेन", "is_correct": true },
+        { "option_id": 3, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 4, "text": "भारत", "is_correct": false }
+      ],
+      "answer": "स्पेन"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "विदर्भात कोणती गाय आढळते?",
+      "options": [
+        { "option_id": 1, "text": "गवळाऊ", "is_correct": true },
+        { "option_id": 2, "text": "गीर", "is_correct": false },
+        { "option_id": 3, "text": "खिल्लार", "is_correct": false },
+        { "option_id": 4, "text": "जर्सी", "is_correct": false }
+      ],
+      "answer": "गवळाऊ"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "होड आयर्लंड रेड या कोंबडीचा रंग कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "पांढरा", "is_correct": false },
+        { "option_id": 2, "text": "लाल किंवा तपकिरी", "is_correct": true },
+        { "option_id": 3, "text": "काळा", "is_correct": false },
+        { "option_id": 4, "text": "निळा", "is_correct": false }
+      ],
+      "answer": "लाल किंवा तपकिरी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "जर्सी गायीचे मूळ स्थान कोणते?",
+      "options": [
+        { "option_id": 1, "text": "भारत व इंग्लंड", "is_correct": true },
+        { "option_id": 2, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 3, "text": "स्पेन", "is_correct": false },
+        { "option_id": 4, "text": "इटली", "is_correct": false }
+      ],
+      "answer": "भारत व इंग्लंड"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "ब्रॉयलर कोंबडीचा रंग कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "काळा", "is_correct": false },
+        { "option_id": 2, "text": "लाल", "is_correct": false },
+        { "option_id": 3, "text": "पांढरा", "is_correct": true },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "पांढरा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "होलस्टन गायीचे शरीर कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "मध्यम", "is_correct": false },
+        { "option_id": 3, "text": "मोठे", "is_correct": true },
+        { "option_id": 4, "text": "बारीक", "is_correct": false }
+      ],
+      "answer": "मोठे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "'P' या चिन्हाचा रस्ता सुरक्षेत काय अर्थ होतो?",
+      "options": [
+        { "option_id": 1, "text": "पेट्रोल पंप", "is_correct": false },
+        { "option_id": 2, "text": "पार्किंग (येथे गाडी उभी करावी)", "is_correct": true },
+        { "option_id": 3, "text": "पोलिस स्टेशन", "is_correct": false },
+        { "option_id": 4, "text": "पोस्ट ऑफिस", "is_correct": false }
+      ],
+      "answer": "पार्किंग (येथे गाडी उभी करावी)"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "रस्ता सुरक्षेचे 'डावे वळण' चिन्ह काय सांगते?",
+      "options": [
+        { "option_id": 1, "text": "डावीकडे वळावे", "is_correct": true },
+        { "option_id": 2, "text": "उजवीकडे वळावे", "is_correct": false },
+        { "option_id": 3, "text": "सरळ जावे", "is_correct": false },
+        { "option_id": 4, "text": "थांबावे", "is_correct": false }
+      ],
+      "answer": "डावीकडे वळावे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "रस्ता सुरक्षेचे 'उजवे वळण' चिन्ह काय सांगते?",
+      "options": [
+        { "option_id": 1, "text": "डावीकडे वळावे", "is_correct": false },
+        { "option_id": 2, "text": "उजवीकडे वळावे", "is_correct": true },
+        { "option_id": 3, "text": "मागे वळावे", "is_correct": false },
+        { "option_id": 4, "text": "थांबावे", "is_correct": false }
+      ],
+      "answer": "उजवीकडे वळावे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "'पुढे उभा उतार आहे' हे चिन्ह कशासाठी असते?",
+      "options": [
+        { "option_id": 1, "text": "गाडी जोरात चालवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "सावधानतेसाठी (वेग कमी करण्यासाठी)", "is_correct": true },
+        { "option_id": 3, "text": "गाडी बंद करण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "उडी मारण्यासाठी", "is_correct": false }
+      ],
+      "answer": "सावधानतेसाठी (वेग कमी करण्यासाठी)"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "'पुढे उभी चढण आहे' हे चिन्ह कशासाठी असते?",
+      "options": [
+        { "option_id": 1, "text": "गाडीचा गिअर बदलण्यासाठी आणि सावधगिरीसाठी", "is_correct": true },
+        { "option_id": 2, "text": "गाडी थांबवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "गाडी वळवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "हॉर्न वाजवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "गाडीचा गिअर बदलण्यासाठी आणि सावधगिरीसाठी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "'हॉस्पिटलकडे' हे चिन्ह काय दर्शवते?",
+      "options": [
+        { "option_id": 1, "text": "जवळच शाळा आहे", "is_correct": false },
+        { "option_id": 2, "text": "जवळच दवाखाना/हॉस्पिटल आहे", "is_correct": true },
+        { "option_id": 3, "text": "जवळच हॉटेल आहे", "is_correct": false },
+        { "option_id": 4, "text": "जवळच उद्यान आहे", "is_correct": false }
+      ],
+      "answer": "जवळच दवाखाना/हॉस्पिटल आहे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कॅल्क्युलेटरचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "गाणी ऐकण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "जलद व अचूक आकडेमोड करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "चित्र काढण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "गेम खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "जलद व अचूक आकडेमोड करण्यासाठी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "व्हाईट लेगहॉर्न कोंबडीचे मूळ स्थान कोणते?",
+      "options": [
+        { "option_id": 1, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 2, "text": "इटली", "is_correct": true },
+        { "option_id": 3, "text": "स्पेन", "is_correct": false },
+        { "option_id": 4, "text": "भारत", "is_correct": false }
+      ],
+      "answer": "इटली"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "अमेरिकन पांढरीशुभ्र कोंबडी वर्षाला किती अंडी देते?",
+      "options": [
+        { "option_id": 1, "text": "सुमारे १८०", "is_correct": true },
+        { "option_id": 2, "text": "सुमारे १००", "is_correct": false },
+        { "option_id": 3, "text": "सुमारे ३००", "is_correct": false },
+        { "option_id": 4, "text": "सुमारे ५०", "is_correct": false }
+      ],
+      "answer": "सुमारे १८०"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कोणत्या गायीची शिंगे टोकदार व पुढे थोडी वळलेली असतात?",
+      "options": [
+        { "option_id": 1, "text": "गवळाऊ", "is_correct": false },
+        { "option_id": 2, "text": "खिल्लार", "is_correct": true },
+        { "option_id": 3, "text": "जर्सी", "is_correct": false },
+        { "option_id": 4, "text": "होलस्टन", "is_correct": false }
+      ],
+      "answer": "खिल्लार"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "गीर गायीचा रंग कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "काळा", "is_correct": false },
+        { "option_id": 2, "text": "पांढरा", "is_correct": false },
+        { "option_id": 3, "text": "तांबडा", "is_correct": true },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "तांबडा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "कोणत्या गायीचे शरीर धिप्पाड असते आणि कान लांब असतात?",
+      "options": [
+        { "option_id": 1, "text": "गीर", "is_correct": true },
+        { "option_id": 2, "text": "खिल्लार", "is_correct": false },
+        { "option_id": 3, "text": "गवळाऊ", "is_correct": false },
+        { "option_id": 4, "text": "जर्सी", "is_correct": false }
+      ],
+      "answer": "गीर"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "होलस्टन गायीचा रंग कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त पांढरा", "is_correct": false },
+        { "option_id": 2, "text": "काळा व पांढरा", "is_correct": true },
+        { "option_id": 3, "text": "फक्त काळा", "is_correct": false },
+        { "option_id": 4, "text": "लाल", "is_correct": false }
+      ],
+      "answer": "काळा व पांढरा"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कोणत्या गायीची शिंगे अतिशय लहान असतात?",
+      "options": [
+        { "option_id": 1, "text": "खिल्लार", "is_correct": false },
+        { "option_id": 2, "text": "होलस्टन", "is_correct": true },
+        { "option_id": 3, "text": "गीर", "is_correct": false },
+        { "option_id": 4, "text": "गवळाऊ", "is_correct": false }
+      ],
+      "answer": "होलस्टन"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "ब्लॅक मिनार्का कोंबडी वर्षाला किती अंडी देते?",
+      "options": [
+        { "option_id": 1, "text": "१२०", "is_correct": true },
+        { "option_id": 2, "text": "२००", "is_correct": false },
+        { "option_id": 3, "text": "३००", "is_correct": false },
+        { "option_id": 4, "text": "४००", "is_correct": false }
+      ],
+      "answer": "१२०"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "होड आयर्लंड रेड कोंबडीचे मूळ स्थान कोठे आहे?",
+      "options": [
+        { "option_id": 1, "text": "भारत", "is_correct": false },
+        { "option_id": 2, "text": "अमेरिका (होड आयर्लंड)", "is_correct": true },
+        { "option_id": 3, "text": "चीन", "is_correct": false },
+        { "option_id": 4, "text": "जपान", "is_correct": false }
+      ],
+      "answer": "अमेरिका (होड आयर्लंड)"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "ब्राऊन लेगहॉर्न कोंबडी वर्षाला किती अंडी देते?",
+      "options": [
+        { "option_id": 1, "text": "२०० ते २२५", "is_correct": true },
+        { "option_id": 2, "text": "१०० ते १२०", "is_correct": false },
+        { "option_id": 3, "text": "५० ते ६०", "is_correct": false },
+        { "option_id": 4, "text": "३०० ते ४००", "is_correct": false }
+      ],
+      "answer": "२०० ते २२५"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "ब्रॉयलर कोंबडीचे मांस कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "कडक", "is_correct": false },
+        { "option_id": 2, "text": "कोवळे व लुसलुशीत", "is_correct": true },
+        { "option_id": 3, "text": "कडू", "is_correct": false },
+        { "option_id": 4, "text": "खारट", "is_correct": false }
+      ],
+      "answer": "कोवळे व लुसलुशीत"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "जर्सी गायीची शिंगे कशी असतात?",
+      "options": [
+        { "option_id": 1, "text": "बारीक व टोकदार", "is_correct": true },
+        { "option_id": 2, "text": "मोठी व जाड", "is_correct": false },
+        { "option_id": 3, "text": "वळलेली", "is_correct": false },
+        { "option_id": 4, "text": "नसतात", "is_correct": false }
+      ],
+      "answer": "बारीक व टोकदार"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "संगणकावर आयकॉन्स कशावर दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "कीबोर्डवर", "is_correct": false },
+        { "option_id": 2, "text": "मॉनिटरवर", "is_correct": true },
+        { "option_id": 3, "text": "माऊसवर", "is_correct": false },
+        { "option_id": 4, "text": "सीपीयूवर", "is_correct": false }
+      ],
+      "answer": "मॉनिटरवर"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "स्टार्ट मेनू कोठे असतो?",
+      "options": [
+        { "option_id": 1, "text": "डेस्कटॉपच्या मध्यभागी", "is_correct": false },
+        { "option_id": 2, "text": "टास्कबारवर", "is_correct": true },
+        { "option_id": 3, "text": "आयकॉनमध्ये", "is_correct": false },
+        { "option_id": 4, "text": "वॉलपेपरवर", "is_correct": false }
+      ],
+      "answer": "टास्कबारवर"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "डेस्कटॉप म्हणजे काय?",
+      "answer": "संगणक सुरू झाल्यावर (बूटिंग पूर्ण झाल्यावर) स्क्रीनवर जो पहिला पृष्ठभाग दिसतो, त्याला डेस्कटॉप म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "आयकॉन म्हणजे काय?",
+      "answer": "संगणकावर विविध प्रोग्राम्स किंवा फाईल्सची जी छोटी चिन्हे (संक्षिप्त रूपे) डेस्कटॉपवर दिसतात, त्यांना आयकॉन म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "बूटिंग म्हणजे काय?",
+      "answer": "संगणक सुरू केल्यावर त्याला कार्यक्षम होण्यासाठी ऑपरेटिंग सिस्टिम लोड करावी लागते, या प्रक्रियेला बूटिंग म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "वॉलपेपर म्हणजे काय?",
+      "answer": "डेस्कटॉपच्या पार्श्वभूमीवर (Background) जे चित्र दिसते, त्याला वॉलपेपर म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "टास्कबार म्हणजे काय?",
+      "answer": "डेस्कटॉपच्या तळाशी असलेल्या आडव्या पट्टीला टास्कबार म्हणतात, जिथे चालू असलेल्या कामांची छोटी रूपे दिसतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कॅल्क्युलेटरचे उपयोग काय?",
+      "answer": "संख्यांची बेरीज, वजाबाकी, गुणाकार, भागाकार अशी आकडेमोड जलद व अचूक करण्यासाठी कॅल्क्युलेटरचा उपयोग होतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "संगणकावरील कॅल्क्युलेटरचे दोन प्रकार कोणते?",
+      "answer": "स्टँडर्ड कॅल्क्युलेटर आणि सायंटिफिक कॅल्क्युलेटर."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रस्ता सुरक्षेचे 'थांबा' चिन्ह काय सांगते?",
+      "answer": "वाहनाने पुढे न जाता तेथेच थांबावे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "नो पार्किंग म्हणजे काय?",
+      "answer": "ज्या ठिकाणी गाडी उभी करण्यास मनाई आहे, त्या ठिकाणाला नो पार्किंग म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "रेल्वे क्रॉसिंगच्या चिन्हाचा अर्थ काय?",
+      "answer": "पुढे रेल्वेचे फाटक आहे, त्यामुळे सावधगिरीने गाडी चालवा किंवा थांबा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "शाळा पुढे आहे हे चिन्ह कशासाठी असते?",
+      "answer": "वाहनचालकाने वेग कमी करावा आणि सावध राहावे, कारण मुले रस्ता ओलांडू शकतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पशुपक्षी संवर्धन म्हणजे काय?",
+      "answer": "पाळीव प्राणी (गाय, म्हैस, शेळी) आणि पक्षी (कोंबडी) यांचे पालनपोषण करून अर्थोत्पादन वाढवणे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "खिल्लार गायीचे वर्णन करा.",
+      "answer": "खिल्लार गाय पांढऱ्या रंगाची असते, तिचे शरीर लांबट असते आणि शिंगे टोकदार व पुढे वळलेली असतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "गीर गायीची ओळख काय?",
+      "answer": "गीर गायीचा रंग तांबडा असतो, शरीर धिप्पाड असते, कान लांब असतात आणि शिंगे जाड व आखूड असतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "होलस्टन गायीचे दूध उत्पादन किती असते?",
+      "answer": "होलस्टन गाय अंदाजे १० ते १२ लिटर दूध देते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "जर्सी गायीचे वैशिष्ट्य काय?",
+      "answer": "जर्सी गायीचा रंग फिकट लाल असतो, शरीर मोठे असते आणि ती जास्त दूध देते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "ब्रॉयलर कोंबडीचा मुख्य उपयोग काय?",
+      "answer": "ब्रॉयलर कोंबडीचा मुख्य उपयोग मांस मिळवण्यासाठी होतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "लेगहॉर्न कोंबडी कशासाठी प्रसिद्ध आहे?",
+      "answer": "लेगहॉर्न कोंबडी जास्त अंडी देण्यासाठी प्रसिद्ध आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "होड आयर्लंड रेड कोंबडी वर्षाला किती अंडी देते?",
+      "answer": "होड आयर्लंड रेड कोंबडी वर्षाला २०० ते ३०० अंडी देते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "गवळाऊ गाय कोठे आढळते?",
+      "answer": "गवळाऊ गाय विदर्भात आढळते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कॅल्क्युलेटर उघडण्याची कृती सांगा.",
+      "answer": "स्टार्ट बटनावर क्लिक करा, नंतर प्रोग्रॅम्स, मग ॲक्सेसरीज आणि शेवटी कॅल्क्युलेटर निवडा."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "आयकॉन सुरू करण्यासाठी माऊसचा वापर कसा करावा?",
+      "answer": "आयकॉनवर माऊस पॉईंटर नेऊन डावे बटन दोनदा दाबावे (डबल क्लिक करावे)."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "तुम्ही काढलेले चित्र संगणकावर कुठे ठेवू शकता?",
+      "answer": "आम्ही काढलेले चित्र डेस्कटॉपवर वॉलपेपर म्हणून ठेवू शकतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे नियम पाळणे का गरजेचे आहे?",
+      "answer": "अपघात टाळण्यासाठी आणि स्वतःची व इतरांची सुरक्षा राखण्यासाठी."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "हॉर्न वाजवणे हे चिन्ह कुठे असू नये?",
+      "answer": "शाळा, हॉस्पिटल किंवा शांतता क्षेत्र (Silent Zone) च्या जवळ हॉर्न वाजवू नये."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "गाईच्या दूध देण्याच्या क्षमतेवर काय अवलंबून असते?",
+      "answer": "गाईची जात आणि तिचा आहार यावर दूध देण्याची क्षमता अवलंबून असते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कोंबडी पालनाचा मुख्य उद्देश काय?",
+      "answer": "अंडी आणि मांस मिळवणे हा कोंबडी पालनाचा मुख्य उद्देश आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "खिल्लार गायीचे दूध किती असते?",
+      "answer": "खिल्लार गाय अंदाजे ३ ते ४ लिटर दूध देते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "गवळाऊ गायीचे दूध किती असते?",
+      "answer": "गवळाऊ गाय अंदाजे ३ ते ५ लिटर दूध देते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "ब्लॅक मिनार्का कोंबडीचा रंग कोणता?",
+      "answer": "ब्लॅक मिनार्का कोंबडीचा रंग काळा असतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "टास्कबारचा उपयोग काय?",
+      "answer": "चालू असलेल्या सर्व प्रोग्राम्सची माहिती आणि स्टार्ट बटण टास्कबारवर असते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "हॉस्पिटलचे चिन्ह कसे असते?",
+      "answer": "हॉस्पिटलचे चिन्ह बेड (खाट) आणि रेड क्रॉस (अधिक चिन्ह) असे असू शकते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "पार्किंगची जागा कशी ओळखाल?",
+      "answer": "'P' अक्षर असलेल्या निळ्या फलकावरून पार्किंगची जागा ओळखता येते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "उभा उतार आणि उभी चढण यातील फरक काय?",
+      "answer": "उभा उतार म्हणजे रस्ता खाली जातोय आणि उभी चढण म्हणजे रस्ता वर जातोय."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "संगणकावर काम करताना गणितासाठी काय वापरावे?",
+      "answer": "संगणकावर काम करताना गणितासाठी कॅल्क्युलेटर वापरावे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "ब्राऊन लेगहॉर्न कोंबडीच्या रंगाचे वैशिष्ट्य काय?",
+      "answer": "तिचा रंग पिवळा, काळा, तांबडा आणि राखाडी रंगांचे मिश्रण असतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "अमेरिकन पांढरीशुभ्र कोंबडी कुठली आहे?",
+      "answer": "ही कोंबडी अमेरिका देशातील आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "होलस्टन गायीचे शिंग कसे असते?",
+      "answer": "होलस्टन गायीचे शिंग अतिशय लहान असते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "गीर गायीचे दूध किती असते?",
+      "answer": "गीर गाय अंदाजे ७ लिटर दूध देते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "संगणकाचा उपयोग कशासाठी होतो?",
+      "answer": "माहिती मिळवण्यासाठी, साठवण्यासाठी, प्रक्रिया करण्यासाठी आणि मनोरंजनासाठी होतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "ऑनलाईन शिक्षणात कशाचा वापर केला जातो?",
+      "answer": "संगणक, मोबाईल आणि इंटरनेटचा वापर केला जातो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "रस्ता ओलांडताना काय करावे?",
+      "answer": "दोन्ही बाजूंना पाहून, झेब्रा क्रॉसिंगवरून रस्ता ओलांडावा."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "वळण घेताना काय करावे?",
+      "answer": "वळण घेताना इंडिकेटर द्यावा आणि वेग कमी करावा."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "गाईच्या कोणत्या जाती परदेशी आहेत?",
+      "answer": "होलस्टन आणि जर्सी या परदेशी जाती आहेत."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "कोंबडीच्या कोणत्या जाती परदेशी आहेत?",
+      "answer": "लेगहॉर्न, मिनार्का, रोड आयर्लंड रेड या परदेशी जाती आहेत."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "दुग्ध व्यवसायात कोणत्या गायी फायदेशीर ठरतात?",
+      "answer": "जास्त दूध देणाऱ्या जर्सी, होलस्टन आणि गीर गायी फायदेशीर ठरतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पोल्ट्री फार्ममध्ये कोणत्या कोंबड्या पाळल्या जातात?",
+      "answer": "अंडी आणि मांसासाठी लेगहॉर्न आणि ब्रॉयलर कोंबड्या पाळल्या जातात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कॅल्क्युलेटरमधील चिन्हे कशासाठी असतात?",
+      "answer": "+ (बेरीज), - (वजाबाकी), * (गुणाकार), / (भागाकार) आणि = (उत्तर) यासाठी असतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "डेस्कटॉपवर नवीन फोल्डर कसे तयार करावे?",
+      "answer": "राईट क्लिक करून 'New' आणि मग 'Folder' निवडावे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "संगणक बंद करताना काय करावे?",
+      "answer": "संगणक बंद करताना योग्य पध्दतीने 'शट डाऊन' (Shut Down) करावे."
+    }
+  ]
+}

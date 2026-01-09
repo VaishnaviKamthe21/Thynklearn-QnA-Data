@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.06",
+    "standard": "4",
+    "subject": "Parisar Abhyas Bhag 1",
+    "medium": "Marathi",
+    "chapter_name": "अन्नातील विविधता"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आपल्या देशात कोणत्या बाबतीत मोठी विविधता आढळते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याच्या रंगात", "is_correct": false },
+        { "option_id": 2, "text": "अन्नपदार्थांत", "is_correct": true },
+        { "option_id": 3, "text": "आकाशाच्या रंगात", "is_correct": false },
+        { "option_id": 4, "text": "मिठाच्या चवीत", "is_correct": false }
+      ],
+      "answer": "अन्नपदार्थांत"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "तांदळापासून (धान) खालीलपैकी कोणता पदार्थ बनवला जातो?",
+      "options": [
+        { "option_id": 1, "text": "चपाती", "is_correct": false },
+        { "option_id": 2, "text": "भाकरी", "is_correct": true },
+        { "option_id": 3, "text": "हलवा", "is_correct": false },
+        { "option_id": 4, "text": "पेढा", "is_correct": false }
+      ],
+      "answer": "भाकरी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "इडली हा पदार्थ कोणत्या धान्यापासून बनवला जातो?",
+      "options": [
+        { "option_id": 1, "text": "गहू", "is_correct": false },
+        { "option_id": 2, "text": "बाजरी", "is_correct": false },
+        { "option_id": 3, "text": "तांदूळ", "is_correct": true },
+        { "option_id": 4, "text": "मका", "is_correct": false }
+      ],
+      "answer": "तांदूळ"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मोदक बनवण्यासाठी मुख्य अन्नघटक कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "गहू", "is_correct": false },
+        { "option_id": 2, "text": "ज्वारी", "is_correct": false },
+        { "option_id": 3, "text": "तांदूळ", "is_correct": true },
+        { "option_id": 4, "text": "हरभरा", "is_correct": false }
+      ],
+      "answer": "तांदूळ"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "गव्हापासून खालीलपैकी कोणता पदार्थ बनवला जातो?",
+      "options": [
+        { "option_id": 1, "text": "इडली", "is_correct": false },
+        { "option_id": 2, "text": "गव्हाची खीर (शिरा)", "is_correct": true },
+        { "option_id": 3, "text": "डोसा", "is_correct": false },
+        { "option_id": 4, "text": "भाकरी", "is_correct": false }
+      ],
+      "answer": "गव्हाची खीर (शिरा)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "आपल्या देशातील किनारपट्टीच्या प्रदेशात कोणते पीक जास्त प्रमाणात घेतले जाते?",
+      "options": [
+        { "option_id": 1, "text": "गहू", "is_correct": false },
+        { "option_id": 2, "text": "ज्वारी", "is_correct": false },
+        { "option_id": 3, "text": "तांदूळ", "is_correct": true },
+        { "option_id": 4, "text": "हरभरा", "is_correct": false }
+      ],
+      "answer": "तांदूळ"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "उत्तर भारतात कोणते पीक मोठ्या प्रमाणावर होते?",
+      "options": [
+        { "option_id": 1, "text": "नारळ", "is_correct": false },
+        { "option_id": 2, "text": "गहू", "is_correct": true },
+        { "option_id": 3, "text": "तांदूळ", "is_correct": false },
+        { "option_id": 4, "text": "रागी", "is_correct": false }
+      ],
+      "answer": "गहू"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भारताच्या मध्यवर्ती भागात कोणते पीक जास्त घेतले जाते?",
+      "options": [
+        { "option_id": 1, "text": "तांदूळ", "is_correct": false },
+        { "option_id": 2, "text": "ज्वारी", "is_correct": true },
+        { "option_id": 3, "text": "नारळ", "is_correct": false },
+        { "option_id": 4, "text": "सफरचंद", "is_correct": false }
+      ],
+      "answer": "ज्वारी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "आपल्या देशातील शेती प्रामुख्याने कशावर अवलंबून आहे?",
+      "options": [
+        { "option_id": 1, "text": "नळाच्या पाण्यावर", "is_correct": false },
+        { "option_id": 2, "text": "पावसाच्या पाण्यावर", "is_correct": true },
+        { "option_id": 3, "text": "समुद्राच्या पाण्यावर", "is_correct": false },
+        { "option_id": 4, "text": "बर्फावर", "is_correct": false }
+      ],
+      "answer": "पावसाच्या पाण्यावर"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "जास्त पावसाच्या प्रदेशात खालीलपैकी कोणते पीक घेतले जाते?",
+      "options": [
+        { "option_id": 1, "text": "ज्वारी", "is_correct": false },
+        { "option_id": 2, "text": "बाजरी", "is_correct": false },
+        { "option_id": 3, "text": "नारळ", "is_correct": true },
+        { "option_id": 4, "text": "मटकी", "is_correct": false }
+      ],
+      "answer": "नारळ"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कमी पावसाच्या प्रदेशात कोणते पीक घेतले जाते?",
+      "options": [
+        { "option_id": 1, "text": "तांदूळ", "is_correct": false },
+        { "option_id": 2, "text": "बाजरी", "is_correct": true },
+        { "option_id": 3, "text": "नारळ", "is_correct": false },
+        { "option_id": 4, "text": "वरई", "is_correct": false }
+      ],
+      "answer": "बाजरी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मध्यम पावसाच्या प्रदेशात कोणती पिके घेतली जातात?",
+      "options": [
+        { "option_id": 1, "text": "तांदूळ आणि नारळ", "is_correct": false },
+        { "option_id": 2, "text": "गहू, तूर, सोयाबीन", "is_correct": true },
+        { "option_id": 3, "text": "नाचणी आणि वरई", "is_correct": false },
+        { "option_id": 4, "text": "बाजरी आणि मटकी", "is_correct": false }
+      ],
+      "answer": "गहू, तूर, सोयाबीन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पीक चांगले येण्यासाठी खालीलपैकी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त वाऱ्याची", "is_correct": false },
+        { "option_id": 2, "text": "सुपीक जमीन आणि सूर्यप्रकाश", "is_correct": true },
+        { "option_id": 3, "text": "फक्त खताची", "is_correct": false },
+        { "option_id": 4, "text": "कमी पाण्याची", "is_correct": false }
+      ],
+      "answer": "सुपीक जमीन आणि सूर्यप्रकाश"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "उन्हाळ्यात खालीलपैकी कोणते फळ बाजारात जास्त येते?",
+      "options": [
+        { "option_id": 1, "text": "सीताफळ", "is_correct": false },
+        { "option_id": 2, "text": "आंबा", "is_correct": true },
+        { "option_id": 3, "text": "पेरू", "is_correct": false },
+        { "option_id": 4, "text": "बोरे", "is_correct": false }
+      ],
+      "answer": "आंबा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "जांभूळ आणि करवंदे ही फळे कोणत्या ऋतूत मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "उन्हाळ्यात", "is_correct": false },
+        { "option_id": 2, "text": "पावसाळ्यात", "is_correct": true },
+        { "option_id": 3, "text": "हिवाळ्यात", "is_correct": false },
+        { "option_id": 4, "text": "वर्षभर", "is_correct": false }
+      ],
+      "answer": "पावसाळ्यात"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "हिवाळ्यात कोणती फळे मुबलक प्रमाणात मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "आंबा आणि फणस", "is_correct": false },
+        { "option_id": 2, "text": "पेरू आणि बोरे", "is_correct": true },
+        { "option_id": 3, "text": "जांभूळ", "is_correct": false },
+        { "option_id": 4, "text": "करवंदे", "is_correct": false }
+      ],
+      "answer": "पेरू आणि बोरे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "जळगाव जिल्ह्याचा कोणता खाद्यपदार्थ प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "संत्रा बर्फी", "is_correct": false },
+        { "option_id": 2, "text": "वांग्याचे भरीत", "is_correct": true },
+        { "option_id": 3, "text": "बाकरवडी", "is_correct": false },
+        { "option_id": 4, "text": "पेढा", "is_correct": false }
+      ],
+      "answer": "वांग्याचे भरीत"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "नागपूर जिल्हा कोणत्या मिठाईसाठी प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "कंदी पेढे", "is_correct": false },
+        { "option_id": 2, "text": "संत्रा बर्फी", "is_correct": true },
+        { "option_id": 3, "text": "मांडे", "is_correct": false },
+        { "option_id": 4, "text": "लसणाची चटणी", "is_correct": false }
+      ],
+      "answer": "संत्रा बर्फी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कोल्हापूर जिल्हा कशासाठी ओळखला जातो?",
+      "options": [
+        { "option_id": 1, "text": "ढोकळा", "is_correct": false },
+        { "option_id": 2, "text": "तांबडा-पांढरा रस्सा", "is_correct": true },
+        { "option_id": 3, "text": "डोसा", "is_correct": false },
+        { "option_id": 4, "text": "बाफला", "is_correct": false }
+      ],
+      "answer": "तांबडा-पांढरा रस्सा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सोलापूर जिल्ह्याची कोणती चटणी प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "खोबऱ्याची चटणी", "is_correct": false },
+        { "option_id": 2, "text": "शेंगदाणा चटणी", "is_correct": true },
+        { "option_id": 3, "text": "तीळाची चटणी", "is_correct": false },
+        { "option_id": 4, "text": "कारल्याची चटणी", "is_correct": false }
+      ],
+      "answer": "शेंगदाणा चटणी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कोकणात (सिंधुदुर्ग/रत्नागिरी) आहारात कशाचा वापर जास्त होतो?",
+      "options": [
+        { "option_id": 1, "text": "ज्वारी आणि बाजरी", "is_correct": false },
+        { "option_id": 2, "text": "तांदूळ (भात) आणि मासळी", "is_correct": true },
+        { "option_id": 3, "text": "गहू आणि डाळी", "is_correct": false },
+        { "option_id": 4, "text": "मका", "is_correct": false }
+      ],
+      "answer": "तांदूळ (भात) आणि मासळी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पुणे जिल्ह्याचा कोणता पदार्थ नकाशात दाखवला आहे?",
+      "options": [
+        { "option_id": 1, "text": "बाकरवडी", "is_correct": true },
+        { "option_id": 2, "text": "धपाटे", "is_correct": false },
+        { "option_id": 3, "text": "ठेपला", "is_correct": false },
+        { "option_id": 4, "text": "बिर्याणी", "is_correct": false }
+      ],
+      "answer": "बाकरवडी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सातारा जिल्ह्यातील प्रसिद्ध गोड पदार्थ कोणता?",
+      "options": [
+        { "option_id": 1, "text": "संत्रा बर्फी", "is_correct": false },
+        { "option_id": 2, "text": "कंदी पेढे", "is_correct": true },
+        { "option_id": 3, "text": "मोदक", "is_correct": false },
+        { "option_id": 4, "text": "लाडू", "is_correct": false }
+      ],
+      "answer": "कंदी पेढे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "नाशिक जिल्ह्यात कोणता गोड पदार्थ प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "मांडे", "is_correct": true },
+        { "option_id": 2, "text": "पुरणपोळी", "is_correct": false },
+        { "option_id": 3, "text": "श्रीखंड", "is_correct": false },
+        { "option_id": 4, "text": "बासुंदी", "is_correct": false }
+      ],
+      "answer": "मांडे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "गुजरात राज्यातील कोणते पदार्थ प्रसिद्ध आहेत?",
+      "options": [
+        { "option_id": 1, "text": "इडली, डोसा", "is_correct": false },
+        { "option_id": 2, "text": "ढोकळा, थेपला", "is_correct": true },
+        { "option_id": 3, "text": "मासळी, भात", "is_correct": false },
+        { "option_id": 4, "text": "मिसळ, पाव", "is_correct": false }
+      ],
+      "answer": "ढोकळा, थेपला"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कर्नाटक राज्यातील कोणता गोड पदार्थ प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "मैसूर पाक", "is_correct": true },
+        { "option_id": 2, "text": "पेढा", "is_correct": false },
+        { "option_id": 3, "text": "रसगुल्ला", "is_correct": false },
+        { "option_id": 4, "text": "जिलबी", "is_correct": false }
+      ],
+      "answer": "मैसूर पाक"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "मध्य प्रदेशातील कोणते पदार्थ नकाशात दाखवले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "बाफला, लापशी", "is_correct": true },
+        { "option_id": 2, "text": "डोसा, इडली", "is_correct": false },
+        { "option_id": 3, "text": "वडा, सामोसा", "is_correct": false },
+        { "option_id": 4, "text": "मटन रस्सा", "is_correct": false }
+      ],
+      "answer": "बाफला, लापशी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "तेलंगणा राज्यातील कोणते पदार्थ प्रसिद्ध आहेत?",
+      "options": [
+        { "option_id": 1, "text": "ढोकळा", "is_correct": false },
+        { "option_id": 2, "text": "कोरीकूरा, मिरची सालन", "is_correct": true },
+        { "option_id": 3, "text": "पावभाजी", "is_correct": false },
+        { "option_id": 4, "text": "पुरणपोळी", "is_correct": false }
+      ],
+      "answer": "कोरीकूरा, मिरची सालन"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "एखाद्या प्रदेशात एक अन्नघटक मुख्य असण्याचे कारण काय?",
+      "options": [
+        { "option_id": 1, "text": "लोकांची आवड", "is_correct": false },
+        { "option_id": 2, "text": "तिथे ते पीक जास्त पिकते", "is_correct": true },
+        { "option_id": 3, "text": "तिथे दुसरे काही मिळत नाही", "is_correct": false },
+        { "option_id": 4, "text": "तिथे दुकाने नसतात", "is_correct": false }
+      ],
+      "answer": "तिथे ते पीक जास्त पिकते"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ज्वारीपासून खालीलपैकी कोणता पदार्थ बनवता येतो?",
+      "options": [
+        { "option_id": 1, "text": "धिरडे", "is_correct": true },
+        { "option_id": 2, "text": "इडली", "is_correct": false },
+        { "option_id": 3, "text": "पेढा", "is_correct": false },
+        { "option_id": 4, "text": "श्रीखंड", "is_correct": false }
+      ],
+      "answer": "धिरडे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्राच्या पठारी प्रदेशात आहारात कशाचा वापर जास्त होतो?",
+      "options": [
+        { "option_id": 1, "text": "तांदूळ", "is_correct": false },
+        { "option_id": 2, "text": "ज्वारी", "is_correct": true },
+        { "option_id": 3, "text": "नाचणी", "is_correct": false },
+        { "option_id": 4, "text": "नारळ", "is_correct": false }
+      ],
+      "answer": "ज्वारी"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "समुद्रकिनाऱ्यालगतच्या प्रदेशात कोणत्या तेलाचा वापर जास्त होतो?",
+      "options": [
+        { "option_id": 1, "text": "शेंगदाणा तेल", "is_correct": false },
+        { "option_id": 2, "text": "खोबरेल तेल", "is_correct": true },
+        { "option_id": 3, "text": "मोहरीचे तेल", "is_correct": false },
+        { "option_id": 4, "text": "सूर्यफूल तेल", "is_correct": false }
+      ],
+      "answer": "खोबरेल तेल"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "मध्य महाराष्ट्रात कोणत्या तेलाचा वापर जास्त होतो?",
+      "options": [
+        { "option_id": 1, "text": "शेंगदाणा तेल", "is_correct": true },
+        { "option_id": 2, "text": "खोबरेल तेल", "is_correct": false },
+        { "option_id": 3, "text": "ऑलिव्ह ऑईल", "is_correct": false },
+        { "option_id": 4, "text": "बदाम तेल", "is_correct": false }
+      ],
+      "answer": "शेंगदाणा तेल"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "ऋतूंनुसार आहारात बदल का होतो?",
+      "options": [
+        { "option_id": 1, "text": "लोकांना कंटाळा येतो म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "ऋतूंनुसार फळे व भाज्यांची उपलब्धता बदलते म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "सण बदलतात म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "शाळांना सुट्ट्या असतात म्हणून", "is_correct": false }
+      ],
+      "answer": "ऋतूंनुसार फळे व भाज्यांची उपलब्धता बदलते म्हणून"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "आता फळे व भाज्या वर्षभर का उपलब्ध होऊ लागल्या आहेत?",
+      "options": [
+        { "option_id": 1, "text": "जलद वाहतूक व शीतगृहांच्या सोयीमुळे", "is_correct": true },
+        { "option_id": 2, "text": "लोक कमी खातात म्हणून", "is_correct": false },
+        { "option_id": 3, "text": "फळे प्लॅस्टिकची आहेत म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "झाडांना फळे जास्त येतात म्हणून", "is_correct": false }
+      ],
+      "answer": "जलद वाहतूक व शीतगृहांच्या सोयीमुळे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "रासायनिक खतांच्या अतिवापरामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "मृदेचे (मातीचे) प्रदूषण वाढते", "is_correct": true },
+        { "option_id": 2, "text": "जमीन सुपीक होते", "is_correct": false },
+        { "option_id": 3, "text": "पाऊस जास्त पडतो", "is_correct": false },
+        { "option_id": 4, "text": "हवा शुद्ध होते", "is_correct": false }
+      ],
+      "answer": "मृदेचे (मातीचे) प्रदूषण वाढते"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "डोसा हा पदार्थ मूळचा कोणत्या भागातील आहे?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर भारत", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण भारत", "is_correct": true },
+        { "option_id": 3, "text": "पश्चिम भारत", "is_correct": false },
+        { "option_id": 4, "text": "पूर्व भारत", "is_correct": false }
+      ],
+      "answer": "दक्षिण भारत"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "ज्वारीच्या कणीदार दाण्यांपासून काय बनवतात?",
+      "options": [
+        { "option_id": 1, "text": "हुरडा", "is_correct": true },
+        { "option_id": 2, "text": "इडली", "is_correct": false },
+        { "option_id": 3, "text": "लोणचे", "is_correct": false },
+        { "option_id": 4, "text": "रस", "is_correct": false }
+      ],
+      "answer": "हुरडा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कोणत्या जिल्ह्यात बाजरीची भाकरी जास्त खाल्ली जाते?",
+      "options": [
+        { "option_id": 1, "text": "सिंधुदुर्ग", "is_correct": false },
+        { "option_id": 2, "text": "अहमदनगर", "is_correct": true },
+        { "option_id": 3, "text": "रत्नागिरी", "is_correct": false },
+        { "option_id": 4, "text": "भंडारा", "is_correct": false }
+      ],
+      "answer": "अहमदनगर"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "तांदूळ (धान) हे पीक कोणत्या हंगामात येते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त उन्हाळ्यात", "is_correct": false },
+        { "option_id": 2, "text": "जास्त पावसाच्या हंगामात (खरीप)", "is_correct": true },
+        { "option_id": 3, "text": "कमी पावसाच्या हंगामात", "is_correct": false },
+        { "option_id": 4, "text": "बर्फ पडल्यावर", "is_correct": false }
+      ],
+      "answer": "जास्त पावसाच्या हंगामात (खरीप)"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "मटकी आणि बाजरी ही पिके कोणत्या भागात येतात?",
+      "options": [
+        { "option_id": 1, "text": "जास्त पावसाच्या", "is_correct": false },
+        { "option_id": 2, "text": "कमी पावसाच्या", "is_correct": true },
+        { "option_id": 3, "text": "बर्फाळ", "is_correct": false },
+        { "option_id": 4, "text": "दलदलीच्या", "is_correct": false }
+      ],
+      "answer": "कमी पावसाच्या"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "सोयाबीन हे पीक कोणत्या पावसाच्या प्रदेशात घेतले जाते?",
+      "options": [
+        { "option_id": 1, "text": "कमी", "is_correct": false },
+        { "option_id": 2, "text": "मध्यम", "is_correct": true },
+        { "option_id": 3, "text": "जास्त", "is_correct": false },
+        { "option_id": 4, "text": "अति जास्त", "is_correct": false }
+      ],
+      "answer": "मध्यम"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "नाचणी (रागी) हे पीक प्रामुख्याने कुठे घेतले जाते?",
+      "options": [
+        { "option_id": 1, "text": "वाळवंटात", "is_correct": false },
+        { "option_id": 2, "text": "जास्त पावसाच्या प्रदेशात (उदा. कोकण)", "is_correct": true },
+        { "option_id": 3, "text": "कमी पावसाच्या प्रदेशात", "is_correct": false },
+        { "option_id": 4, "text": "बर्फात", "is_correct": false }
+      ],
+      "answer": "जास्त पावसाच्या प्रदेशात (उदा. कोकण)"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "बाजारात मिळणारी फळे व भाज्या जगभर कशामुळे पोचतात?",
+      "options": [
+        { "option_id": 1, "text": "वाऱ्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "पाण्यामुळे", "is_correct": false },
+        { "option_id": 3, "text": "वाहतुकीच्या सोईमुळे", "is_correct": true },
+        { "option_id": 4, "text": "पक्ष्यांमुळे", "is_correct": false }
+      ],
+      "answer": "वाहतुकीच्या सोईमुळे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कोणत्या ऋतूत कलिंगड भरपूर प्रमाणात मिळते?",
+      "options": [
+        { "option_id": 1, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 2, "text": "उन्हाळा", "is_correct": true },
+        { "option_id": 3, "text": "पावसाळा", "is_correct": false },
+        { "option_id": 4, "text": "शरद ऋतू", "is_correct": false }
+      ],
+      "answer": "उन्हाळा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "कोणत्या अन्नघटकापासून 'डोसा' बनवतात?",
+      "options": [
+        { "option_id": 1, "text": "गहू", "is_correct": false },
+        { "option_id": 2, "text": "तांदूळ", "is_correct": true },
+        { "option_id": 3, "text": "बाजरी", "is_correct": false },
+        { "option_id": 4, "text": "मका", "is_correct": false }
+      ],
+      "answer": "तांदूळ"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कोणत्या अन्नघटकापासून 'धिरडे' बनवतात?",
+      "options": [
+        { "option_id": 1, "text": "ज्वारी", "is_correct": true },
+        { "option_id": 2, "text": "तांदूळ", "is_correct": false },
+        { "option_id": 3, "text": "गहू", "is_correct": false },
+        { "option_id": 4, "text": "मका", "is_correct": false }
+      ],
+      "answer": "ज्वारी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "कोणत्या अन्नघटकापासून 'पराठा' बनवतात?",
+      "options": [
+        { "option_id": 1, "text": "ज्वारी", "is_correct": false },
+        { "option_id": 2, "text": "गहू", "is_correct": true },
+        { "option_id": 3, "text": "बाजरी", "is_correct": false },
+        { "option_id": 4, "text": "नाचणी", "is_correct": false }
+      ],
+      "answer": "गहू"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "'मिरची सालन' हा कोणत्या राज्याचा पदार्थ आहे?",
+      "options": [
+        { "option_id": 1, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_id": 2, "text": "तेलंगणा", "is_correct": true },
+        { "option_id": 3, "text": "गुजरात", "is_correct": false },
+        { "option_id": 4, "text": "गोवा", "is_correct": false }
+      ],
+      "answer": "तेलंगणा"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "आपल्या आहारात कोणते अन्न असणार हे कशावरून ठरते?",
+      "options": [
+        { "option_id": 1, "text": "प्रदेशातील हवामान व होणारी पिके", "is_correct": true },
+        { "option_id": 2, "text": "फक्त आपली आवड", "is_correct": false },
+        { "option_id": 3, "text": "टीव्हीवरच्या जाहिराती", "is_correct": false },
+        { "option_id": 4, "text": "मित्रांचे डबे", "is_correct": false }
+      ],
+      "answer": "प्रदेशातील हवामान व होणारी पिके"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "अन्नातील विविधता कशामुळे येते?",
+      "answer": "वेगवेगळ्या प्रदेशात हवामान व मृदेनुसार वेगवेगळी पिके येतात, त्यामुळे अन्नातील विविधता येते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "एकाच धान्यापासून विविध पदार्थ बनतात, याचे एक उदाहरण द्या.",
+      "answer": "तांदळापासून भात, भाकरी, इडली, डोसा, मोदक असे विविध पदार्थ बनतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मुख्य अन्नघटक म्हणजे काय?",
+      "answer": "ज्या अन्नपदार्थाचा वापर आहारात जास्तीत जास्त केला जातो, त्याला मुख्य अन्नघटक म्हणतात (उदा. गहू, तांदूळ, ज्वारी)."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कोकणात तांदूळ आणि मासळीचा वापर जास्त का होतो?",
+      "answer": "कोकणात तांदळाचे पीक जास्त होते आणि समुद्र जवळ असल्याने मासळी सहज उपलब्ध होते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कमी पावसाच्या प्रदेशात कोणती पिके येतात?",
+      "answer": "कमी पावसाच्या प्रदेशात ज्वारी, बाजरी, मटकी अशी पिके येतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मध्यम पावसाच्या प्रदेशातील पिके कोणती?",
+      "answer": "मध्यम पावसाच्या प्रदेशात गहू, तूर, सोयाबीन ही पिके घेतली जातात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "जळगाव जिल्ह्याचे वैशिष्ट्य असलेला खाद्यपदार्थ कोणता?",
+      "answer": "जळगाव जिल्ह्याचे 'वांग्याचे भरीत' प्रसिद्ध आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "नागपूर कशासाठी प्रसिद्ध आहे?",
+      "answer": "नागपूर संत्र्यांसाठी आणि 'संत्रा बर्फी'साठी प्रसिद्ध आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कोल्हापूरचे प्रसिद्ध पदार्थ कोणते?",
+      "answer": "कोल्हापूरचा 'तांबडा रस्सा' आणि 'पांढरा रस्सा' प्रसिद्ध आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सोलापूरची कोणती चटणी प्रसिद्ध आहे?",
+      "answer": "सोलापूरची 'शेंगदाणा चटणी' प्रसिद्ध आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तांदळापासून बनणारे दक्षिण भारतीय पदार्थ कोणते?",
+      "answer": "इडली आणि डोसा हे तांदळापासून बनणारे प्रसिद्ध दक्षिण भारतीय पदार्थ आहेत."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "गव्हापासून कोणते पदार्थ बनवतात?",
+      "answer": "गव्हापासून चपाती, पोळी, पराठा, पुरी, शिरा असे पदार्थ बनवतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ज्वारीपासून कोणते पदार्थ बनवता येतात?",
+      "answer": "ज्वारीपासून भाकरी, धपाटे, धिरडे, पापड इत्यादी पदार्थ बनवता येतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात कोणती फळे येतात?",
+      "answer": "उन्हाळ्यात आंबा, कलिंगड, फणस ही फळे येतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पावसाळ्यात मिळणारी फळे कोणती?",
+      "answer": "पावसाळ्यात जांभूळ, करवंदे ही फळे मिळतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात कोणती फळे येतात?",
+      "answer": "हिवाळ्यात बोरे, पेरू, संत्री ही फळे येतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पिकांचे उत्पादन कशावर अवलंबून असते?",
+      "answer": "पिकांचे उत्पादन हवामान, मृदा आणि पाण्याच्या उपलब्धतेवर अवलंबून असते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "गुजरातमध्ये कोणता पदार्थ आवडीने खाल्ला जातो?",
+      "answer": "गुजरातमध्ये 'ढोकळा' आणि 'थेपला' आवडीने खाल्ला जातो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कर्नाटक राज्यातील प्रसिद्ध गोड पदार्थ कोणता?",
+      "answer": "कर्नाटक राज्यातील 'मैसूर पाक' हा गोड पदार्थ प्रसिद्ध आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "मध्य प्रदेशात कोणते पदार्थ प्रसिद्ध आहेत?",
+      "answer": "मध्य प्रदेशात 'बाफला' आणि 'लापशी' हे पदार्थ प्रसिद्ध आहेत."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "फळे वर्षभर का उपलब्ध होतात?",
+      "answer": "शीतगृहांची सोय आणि जलद वाहतुकीमुळे फळे वर्षभर उपलब्ध होतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "रासायनिक खतांचा अतिवापर का टाळावा?",
+      "answer": "रासायनिक खतांच्या अतिवापरामुळे जमिनीचे प्रदूषण वाढते, म्हणून तो टाळावा."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "बाकरवडी कोणत्या जिल्ह्याचा प्रसिद्ध पदार्थ आहे?",
+      "answer": "बाकरवडी पुणे जिल्ह्याचा प्रसिद्ध पदार्थ आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कंदी पेढे कोणत्या जिल्ह्यात मिळतात?",
+      "answer": "कंदी पेढे सातारा जिल्ह्यात मिळतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "मांडे हा पदार्थ कोणत्या जिल्ह्यात प्रसिद्ध आहे?",
+      "answer": "मांडे हा पदार्थ नाशिक जिल्ह्यात प्रसिद्ध आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "तेलंगणा राज्यातील 'कोरीकूरा' आणि 'मिरची सालन' कशाशी संबंधित आहेत?",
+      "answer": "हे तेलंगणा राज्यातील प्रसिद्ध अन्नपदार्थ आहेत."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "बाजरीची भाकरी कोणत्या जिल्ह्यात जास्त खातात?",
+      "answer": "कमी पावसाच्या भागात, उदा. अहमदनगर, पुणे, सोलापूर येथे बाजरीची भाकरी जास्त खातात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "मोदक बनवण्यासाठी काय वापरतात?",
+      "answer": "मोदक बनवण्यासाठी तांदळाचे पीठ, नारळाचा चव आणि गूळ वापरतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "धान्यापासून पीठ कसे मिळते?",
+      "answer": "धान्य गिरणीत दळून आणले की त्याचे पीठ मिळते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "उसळ कशापासून बनवतात?",
+      "answer": "उसळ मोड आलेल्या कडधान्यांपासून (मटकी, मूग) बनवतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "लोणचे कशापासून बनवता येते?",
+      "answer": "लोणचे कैरी, लिंबू, मिरची, आवळा इत्यादींपासून बनवता येते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "श्रीखंड कशापासून बनवतात?",
+      "answer": "श्रीखंड दुधापासून बनवलेल्या चक्क्यापासून बनवतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "जलसिंचन म्हणजे काय?",
+      "answer": "पावसाच्या पाण्याव्यतिरिक्त विहिरी, कालवे याद्वारे शेतीला पाणी देण्याला जलसिंचन म्हणतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "मासे आणि भात हे जेवण कोणत्या भागात मुख्य आहे?",
+      "answer": "मासे आणि भात हे जेवण कोकण किनारपट्टीच्या भागात मुख्य आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "ज्वारीच्या पिठापासून बनणारे दोन पदार्थ सांगा.",
+      "answer": "ज्वारीच्या पिठापासून भाकरी आणि धपाटे बनतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "वांग्याचे भरीत बनवण्यासाठी मुख्य भाजी कोणती?",
+      "answer": "वांग्याचे भरीत बनवण्यासाठी वांगे ही मुख्य भाजी आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पीक चांगले येण्यासाठी जमिनीला कशाची गरज असते?",
+      "answer": "पीक चांगले येण्यासाठी जमीन सुपीक असणे गरजेचे असते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "नगदी पिके म्हणजे काय?",
+      "answer": "जी पिके बाजारात विकून पैसे मिळवण्यासाठी घेतली जातात, त्यांना नगदी पिके म्हणतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्राच्या पूर्व भागात कोणते पीक जास्त येते?",
+      "answer": "महाराष्ट्राच्या पूर्व भागात (विदर्भात) तांदळाचे पीक काही प्रमाणात घेतले जाते (उदा. भंडारा, गोंदिया)."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "डोसा आणि इडली बनवण्यासाठी तांदळासोबत काय वापरतात?",
+      "answer": "डोसा आणि इडली बनवण्यासाठी तांदळासोबत उडीद डाळ वापरतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "ऋतूंनुसार काय बदलते?",
+      "answer": "ऋतूंनुसार फळे, भाज्या आणि अन्नाची उपलब्धता बदलते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "उत्तर भारतात गव्हाचे पीक जास्त का घेतले जाते?",
+      "answer": "उत्तर भारतातील हवामान आणि जमीन गव्हाच्या पिकासाठी योग्य असल्याने तिथे गहू जास्त घेतला जातो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "पावसाळ्यात शेतीला पाणी कुठून मिळते?",
+      "answer": "पावसाळ्यात शेतीला प्रामुख्याने पावसापासून पाणी मिळते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कोणत्या ऋतूत आमरस खाल्ला जातो?",
+      "answer": "उन्हाळ्यात जेव्हा आंबे येतात, तेव्हा आमरस खाल्ला जातो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "अन्नपदार्थांची नासाडी का करू नये?",
+      "answer": "अन्न मिळवण्यासाठी शेतकऱ्यांपासून ते आईपर्यंत अनेकांचे कष्ट असतात, म्हणून अन्नाची नासाडी करू नये."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्राची किनारपट्टी कोणत्या समुद्राला लागून आहे?",
+      "answer": "महाराष्ट्राची किनारपट्टी अरबी समुद्राला लागून आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "बाजरी कोणत्या हंगामात घेतली जाते?",
+      "answer": "बाजरी खरीप हंगामात (पावसाळ्यात) घेतली जाते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "गहू कोणत्या हंगामात घेतला जातो?",
+      "answer": "गहू रब्बी हंगामात (हिवाळ्यात) घेतला जातो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "आपल्या आहारात कोणते घटक असावेत?",
+      "answer": "आपल्या आहारात धान्य, भाज्या, फळे, डाळी असे विविध घटक असावेत."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "ज्वारीच्या लाह्या कशापासून बनतात?",
+      "answer": "ज्वारीच्या लाह्या ज्वारीच्या दाण्यांपासून बनतात."
+    }
+  ]
+}

@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.11",
+    "standard": "4",
+    "subject": "Parisar Abhyas Bhag 1",
+    "medium": "Marathi",
+    "chapter_name": "पाहू तरी शरीराच्या आत"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "जे अवयव शरीराच्या बाहेरच्या बाजूस असतात, त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "आंतरेंद्रिये", "is_correct": false },
+        { "option_id": 2, "text": "बाह्यावयव", "is_correct": true },
+        { "option_id": 3, "text": "गुप्त अवयव", "is_correct": false },
+        { "option_id": 4, "text": "पोकळी", "is_correct": false }
+      ],
+      "answer": "बाह्यावयव"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते इंद्रिय बाह्यावयव आहे?",
+      "options": [
+        { "option_id": 1, "text": "हृदय", "is_correct": false },
+        { "option_id": 2, "text": "मेंदू", "is_correct": false },
+        { "option_id": 3, "text": "कान", "is_correct": true },
+        { "option_id": 4, "text": "जठर", "is_correct": false }
+      ],
+      "answer": "कान"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "शरीराच्या आत असणाऱ्या इंद्रियांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बाह्यावयव", "is_correct": false },
+        { "option_id": 2, "text": "ज्ञानेंद्रिये", "is_correct": false },
+        { "option_id": 3, "text": "आंतरेंद्रिये", "is_correct": true },
+        { "option_id": 4, "text": "बाह्येंद्रिये", "is_correct": false }
+      ],
+      "answer": "आंतरेंद्रिये"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "डोक्याच्या आत असलेल्या पोकळीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वक्षपोकळी", "is_correct": false },
+        { "option_id": 2, "text": "उदरपोकळी", "is_correct": false },
+        { "option_id": 3, "text": "शिरोपोकळी", "is_correct": true },
+        { "option_id": 4, "text": "कटीपोकळी", "is_correct": false }
+      ],
+      "answer": "शिरोपोकळी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "छातीच्या भागात जी पोकळी असते, तिला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शिरोपोकळी", "is_correct": false },
+        { "option_id": 2, "text": "वक्षपोकळी", "is_correct": true },
+        { "option_id": 3, "text": "उदरपोकळी", "is_correct": false },
+        { "option_id": 4, "text": "कटीपोकळी", "is_correct": false }
+      ],
+      "answer": "वक्षपोकळी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पोटाच्या भागात असलेल्या पोकळीचे किती भाग असतात?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "तोंडातील घास जठरापर्यंत पोचवणाऱ्या नळीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "श्वासनलिका", "is_correct": false },
+        { "option_id": 2, "text": "रक्तवाहिनी", "is_correct": false },
+        { "option_id": 3, "text": "ग्रासनलिका", "is_correct": true },
+        { "option_id": 4, "text": "मज्जारज्जू", "is_correct": false }
+      ],
+      "answer": "ग्रासनलिका"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ग्रासनलिका कोणत्या पोकळीत असते?",
+      "options": [
+        { "option_id": 1, "text": "शिरोपोकळी", "is_correct": false },
+        { "option_id": 2, "text": "उदरपोकळी", "is_correct": false },
+        { "option_id": 3, "text": "वक्षपोकळी", "is_correct": true },
+        { "option_id": 4, "text": "कटीपोकळी", "is_correct": false }
+      ],
+      "answer": "वक्षपोकळी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हृदय हे कोठे असते?",
+      "options": [
+        { "option_id": 1, "text": "उदरपोकळीत", "is_correct": false },
+        { "option_id": 2, "text": "वक्षपोकळीत मधोमध, किंचित डाव्या बाजूला", "is_correct": true },
+        { "option_id": 3, "text": "शिरोपोकळीत", "is_correct": false },
+        { "option_id": 4, "text": "कटीपोकळीत", "is_correct": false }
+      ],
+      "answer": "वक्षपोकळीत मधोमध, किंचित डाव्या बाजूला"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "हृदयाचा आकार साधारणपणे केवढा असतो?",
+      "options": [
+        { "option_id": 1, "text": "आपल्या डोक्याएवढा", "is_correct": false },
+        { "option_id": 2, "text": "आपल्या मुठीपेक्षा किंचित मोठा", "is_correct": true },
+        { "option_id": 3, "text": "पायाएवढा", "is_correct": false },
+        { "option_id": 4, "text": "चेंडूएवढा", "is_correct": false }
+      ],
+      "answer": "आपल्या मुठीपेक्षा किंचित मोठा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "हृदयाच्या आकुंचनाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "श्वास", "is_correct": false },
+        { "option_id": 2, "text": "उच्छ्वास", "is_correct": false },
+        { "option_id": 3, "text": "ठोका", "is_correct": true },
+        { "option_id": 4, "text": "धाप", "is_correct": false }
+      ],
+      "answer": "ठोका"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "शरीरभर रक्त पोचवण्याचे काम कोणते इंद्रिय करते?",
+      "options": [
+        { "option_id": 1, "text": "फुप्फुसे", "is_correct": false },
+        { "option_id": 2, "text": "मेंदू", "is_correct": false },
+        { "option_id": 3, "text": "हृदय", "is_correct": true },
+        { "option_id": 4, "text": "जठर", "is_correct": false }
+      ],
+      "answer": "हृदय"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "आपण शांत झोपेत असताना नाडीचे ठोके कसे पडतात?",
+      "options": [
+        { "option_id": 1, "text": "अतिशय जलद", "is_correct": false },
+        { "option_id": 2, "text": "मंद गतीने", "is_correct": true },
+        { "option_id": 3, "text": "थांबतात", "is_correct": false },
+        { "option_id": 4, "text": "खूप जोरात", "is_correct": false }
+      ],
+      "answer": "मंद गतीने"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "श्वसनावाटे घेतलेली हवा शरीराला पुरवणारे इंद्रिय कोणते?",
+      "options": [
+        { "option_id": 1, "text": "हृदय", "is_correct": false },
+        { "option_id": 2, "text": "फुप्फुसे", "is_correct": true },
+        { "option_id": 3, "text": "यकृत", "is_correct": false },
+        { "option_id": 4, "text": "जठर", "is_correct": false }
+      ],
+      "answer": "फुप्फुसे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "आपल्याला किती फुप्फुसे असतात?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "फुप्फुसे कोणत्या पोकळीत असतात?",
+      "options": [
+        { "option_id": 1, "text": "उदरपोकळी", "is_correct": false },
+        { "option_id": 2, "text": "वक्षपोकळी", "is_correct": true },
+        { "option_id": 3, "text": "शिरोपोकळी", "is_correct": false },
+        { "option_id": 4, "text": "कटीपोकळी", "is_correct": false }
+      ],
+      "answer": "वक्षपोकळी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "श्वास घेतल्याने छाती का फुगते?",
+      "options": [
+        { "option_id": 1, "text": "हृदय मोठे होते म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "फुप्फुसे प्रसरण पावतात म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "पोट फुगते म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "हवा पोटात जाते म्हणून", "is_correct": false }
+      ],
+      "answer": "फुप्फुसे प्रसरण पावतात म्हणून"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "मेंदू कोणत्या पोकळीत असतो?",
+      "options": [
+        { "option_id": 1, "text": "वक्षपोकळी", "is_correct": false },
+        { "option_id": 2, "text": "शिरोपोकळी", "is_correct": true },
+        { "option_id": 3, "text": "उदरपोकळी", "is_correct": false },
+        { "option_id": 4, "text": "कटीपोकळी", "is_correct": false }
+      ],
+      "answer": "शिरोपोकळी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "आपल्या सर्व हालचालींवर कोणाचे नियंत्रण असते?",
+      "options": [
+        { "option_id": 1, "text": "हृदयाचे", "is_correct": false },
+        { "option_id": 2, "text": "फुप्फुसांचे", "is_correct": false },
+        { "option_id": 3, "text": "मेंदूचे", "is_correct": true },
+        { "option_id": 4, "text": "जठराचे", "is_correct": false }
+      ],
+      "answer": "मेंदूचे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "भावनांची जाणीव आपल्याला कोठे होते?",
+      "options": [
+        { "option_id": 1, "text": "हृदयात", "is_correct": false },
+        { "option_id": 2, "text": "पोटात", "is_correct": false },
+        { "option_id": 3, "text": "मेंदूत", "is_correct": true },
+        { "option_id": 4, "text": "हातात", "is_correct": false }
+      ],
+      "answer": "मेंदूत"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "मेंदूला संरक्षण देण्यासाठी निसर्गाने काय दिले आहे?",
+      "options": [
+        { "option_id": 1, "text": "कवटीचे कवच", "is_correct": true },
+        { "option_id": 2, "text": "बरगड्या", "is_correct": false },
+        { "option_id": 3, "text": "स्नायू", "is_correct": false },
+        { "option_id": 4, "text": "केस", "is_correct": false }
+      ],
+      "answer": "कवटीचे कवच"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "हृदय आणि फुप्फुसे कशाच्या पिंजऱ्यात सुरक्षित असतात?",
+      "options": [
+        { "option_id": 1, "text": "कवटीच्या", "is_correct": false },
+        { "option_id": 2, "text": "बरगड्यांच्या", "is_correct": true },
+        { "option_id": 3, "text": "लोखंडाच्या", "is_correct": false },
+        { "option_id": 4, "text": "काचेच्या", "is_correct": false }
+      ],
+      "answer": "बरगड्यांच्या"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "अन्नाचे पचन करण्याचे काम कोणती इंद्रिये करतात?",
+      "options": [
+        { "option_id": 1, "text": "हृदय आणि फुप्फुसे", "is_correct": false },
+        { "option_id": 2, "text": "तोंड आणि जठर", "is_correct": true },
+        { "option_id": 3, "text": "मेंदू आणि मज्जारज्जू", "is_correct": false },
+        { "option_id": 4, "text": "हात आणि पाय", "is_correct": false }
+      ],
+      "answer": "तोंड आणि जठर"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "श्वासनलिकेला पुढे किती फाटे फुटतात?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कोणते फुप्फुस थोडेसे मोठे असते?",
+      "options": [
+        { "option_id": 1, "text": "डावे", "is_correct": false },
+        { "option_id": 2, "text": "उजवे", "is_correct": true },
+        { "option_id": 3, "text": "दोन्ही समान", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "उजवे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "तोंडातल्या घासाचा ओलसर गोळा कशामुळे होतो?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "लाळेमुळे", "is_correct": true },
+        { "option_id": 3, "text": "रक्तामुळे", "is_correct": false },
+        { "option_id": 4, "text": "हवेमुळे", "is_correct": false }
+      ],
+      "answer": "लाळेमुळे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "ग्रासनलिकेची भिंत कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "कडक", "is_correct": false },
+        { "option_id": 2, "text": "लवचीक", "is_correct": true },
+        { "option_id": 3, "text": "जाड", "is_correct": false },
+        { "option_id": 4, "text": "कठीण", "is_correct": false }
+      ],
+      "answer": "लवचीक"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "मेंदूला इजा झाली तर काय होऊ शकते?",
+      "options": [
+        { "option_id": 1, "text": "माणूस कायमचा अपंग होऊ शकतो", "is_correct": true },
+        { "option_id": 2, "text": "काहीच होत नाही", "is_correct": false },
+        { "option_id": 3, "text": "माणूस हुशार होतो", "is_correct": false },
+        { "option_id": 4, "text": "केस गळतात", "is_correct": false }
+      ],
+      "answer": "माणूस कायमचा अपंग होऊ शकतो"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "स्मरणशक्ती म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "विसरणे", "is_correct": false },
+        { "option_id": 2, "text": "मेंदूत माहिती नोंदवल्याने ती लक्षात राहणे", "is_correct": true },
+        { "option_id": 3, "text": "विचार न करणे", "is_correct": false },
+        { "option_id": 4, "text": "झोपणे", "is_correct": false }
+      ],
+      "answer": "मेंदूत माहिती नोंदवल्याने ती लक्षात राहणे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "स्कूटर चालवताना डोक्याच्या संरक्षणासाठी काय वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "टोपी", "is_correct": false },
+        { "option_id": 2, "text": "रुमाल", "is_correct": false },
+        { "option_id": 3, "text": "हेल्मेट", "is_correct": true },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "हेल्मेट"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "हृदयाच्या आकुंचनामुळे रक्त कोठे ढकलले जाते?",
+      "options": [
+        { "option_id": 1, "text": "पोटात", "is_correct": false },
+        { "option_id": 2, "text": "रक्तवाहिन्यांमध्ये", "is_correct": true },
+        { "option_id": 3, "text": "फुप्फुसात", "is_correct": false },
+        { "option_id": 4, "text": "मेंदूत", "is_correct": false }
+      ],
+      "answer": "रक्तवाहिन्यांमध्ये"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पोटाच्या भागात असलेल्या दोन पोकळ्या कोणत्या?",
+      "options": [
+        { "option_id": 1, "text": "शिरोपोकळी आणि वक्षपोकळी", "is_correct": false },
+        { "option_id": 2, "text": "उदरपोकळी आणि कटीपोकळी", "is_correct": true },
+        { "option_id": 3, "text": "वक्षपोकळी आणि उदरपोकळी", "is_correct": false },
+        { "option_id": 4, "text": "शिरोपोकळी आणि कटीपोकळी", "is_correct": false }
+      ],
+      "answer": "उदरपोकळी आणि कटीपोकळी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "ग्रासनलिकेला दुसरे नाव काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "श्वासनलिका", "is_correct": false },
+        { "option_id": 2, "text": "अन्ननलिका (ग्रासिका)", "is_correct": true },
+        { "option_id": 3, "text": "रक्तवाहिनी", "is_correct": false },
+        { "option_id": 4, "text": "मज्जारज्जू", "is_correct": false }
+      ],
+      "answer": "अन्ननलिका (ग्रासिका)"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "अन्नपचनाचे काम करणारी बहुतेक आंतरेंद्रिये कोणत्या पोकळीत असतात?",
+      "options": [
+        { "option_id": 1, "text": "शिरोपोकळी", "is_correct": false },
+        { "option_id": 2, "text": "वक्षपोकळी", "is_correct": false },
+        { "option_id": 3, "text": "उदरपोकळी", "is_correct": true },
+        { "option_id": 4, "text": "कटीपोकळी", "is_correct": false }
+      ],
+      "answer": "उदरपोकळी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "अन्नमार्गाची लांबी साधारणपणे किती असते?",
+      "options": [
+        { "option_id": 1, "text": "२ मीटर", "is_correct": false },
+        { "option_id": 2, "text": "९ मीटर", "is_correct": true },
+        { "option_id": 3, "text": "५ मीटर", "is_correct": false },
+        { "option_id": 4, "text": "१० मीटर", "is_correct": false }
+      ],
+      "answer": "९ मीटर"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "अन्नमार्गाची सुरुवात कोठून होते?",
+      "options": [
+        { "option_id": 1, "text": "जठरापासून", "is_correct": false },
+        { "option_id": 2, "text": "तोंडातून", "is_correct": true },
+        { "option_id": 3, "text": "घशातून", "is_correct": false },
+        { "option_id": 4, "text": "ग्रासनलिकेतून", "is_correct": false }
+      ],
+      "answer": "तोंडातून"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "जोरजोराने पळताना नाडीचे ठोके कसे पडतात?",
+      "options": [
+        { "option_id": 1, "text": "मंद गतीने", "is_correct": false },
+        { "option_id": 2, "text": "जलद गतीने", "is_correct": true },
+        { "option_id": 3, "text": "थांबतात", "is_correct": false },
+        { "option_id": 4, "text": "कमी होतात", "is_correct": false }
+      ],
+      "answer": "जलद गतीने"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "डाव्या फुप्फुसात काय असते?",
+      "options": [
+        { "option_id": 1, "text": "खोलगट जागा", "is_correct": true },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "अन्न", "is_correct": false },
+        { "option_id": 4, "text": "हाड", "is_correct": false }
+      ],
+      "answer": "खोलगट जागा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "श्वासनलिकेच्या फाट्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "ग्रासिका", "is_correct": false },
+        { "option_id": 2, "text": "श्वसनी", "is_correct": true },
+        { "option_id": 3, "text": "वाहिनी", "is_correct": false },
+        { "option_id": 4, "text": "शिरा", "is_correct": false }
+      ],
+      "answer": "श्वसनी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "ज्ञानेंद्रियांनी दिलेल्या माहितीचा अर्थ कोठे समजतो?",
+      "options": [
+        { "option_id": 1, "text": "डोळ्यात", "is_correct": false },
+        { "option_id": 2, "text": "कानात", "is_correct": false },
+        { "option_id": 3, "text": "मेंदूमध्ये", "is_correct": true },
+        { "option_id": 4, "text": "नाकात", "is_correct": false }
+      ],
+      "answer": "मेंदूमध्ये"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "आपल्या मुठीपेक्षा किंचित मोठे असणारे आंतरेंद्रिय कोणते?",
+      "options": [
+        { "option_id": 1, "text": "मेंदू", "is_correct": false },
+        { "option_id": 2, "text": "हृदय", "is_correct": true },
+        { "option_id": 3, "text": "जठर", "is_correct": false },
+        { "option_id": 4, "text": "फुप्फुस", "is_correct": false }
+      ],
+      "answer": "हृदय"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "हृदयाचे शिथिलीकरण म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "हृदयाचे आकारमान कमी होणे", "is_correct": false },
+        { "option_id": 2, "text": "हृदयाचे आकारमान पूर्ववत होणे", "is_correct": true },
+        { "option_id": 3, "text": "हृदय बंद पडणे", "is_correct": false },
+        { "option_id": 4, "text": "हृदय मोठे होणे", "is_correct": false }
+      ],
+      "answer": "हृदयाचे आकारमान पूर्ववत होणे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "बिस्किटांचा पुडा हालवल्यावर बिस्किटे का फुटत नाहीत?",
+      "options": [
+        { "option_id": 1, "text": "ती कडक असतात", "is_correct": false },
+        { "option_id": 2, "text": "ती सुरक्षित रचलेली असतात", "is_correct": true },
+        { "option_id": 3, "text": "ती मऊ असतात", "is_correct": false },
+        { "option_id": 4, "text": "पुडा मोठा असतो", "is_correct": false }
+      ],
+      "answer": "ती सुरक्षित रचलेली असतात"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "शरीराच्या पोकळ्यांचे किती भाग आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन (शिरोपोकळी, वक्षपोकळी, उदरपोकळी)", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "तीन (शिरोपोकळी, वक्षपोकळी, उदरपोकळी)"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "अन्नाचे पचन झाल्यानंतर ते शरीराच्या प्रत्येक कणाला पोचवण्याचे काम कोण करते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "रक्त", "is_correct": true },
+        { "option_id": 3, "text": "हवा", "is_correct": false },
+        { "option_id": 4, "text": "हाडे", "is_correct": false }
+      ],
+      "answer": "रक्त"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "नाडीचे ठोके कोठे जाणवतात?",
+      "options": [
+        { "option_id": 1, "text": "डोक्यावर", "is_correct": false },
+        { "option_id": 2, "text": "मनगटापाशी", "is_correct": true },
+        { "option_id": 3, "text": "पोटावर", "is_correct": false },
+        { "option_id": 4, "text": "गुढघ्यावर", "is_correct": false }
+      ],
+      "answer": "मनगटापाशी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "मेंदू कशाच्या आत सुरक्षित असतो?",
+      "options": [
+        { "option_id": 1, "text": "पिशवीच्या", "is_correct": false },
+        { "option_id": 2, "text": "कवटीच्या (शिरोपोकळीत)", "is_correct": true },
+        { "option_id": 3, "text": "बाटीच्या", "is_correct": false },
+        { "option_id": 4, "text": "डब्याच्या", "is_correct": false }
+      ],
+      "answer": "कवटीच्या (शिरोपोकळीत)"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "आपल्या शरीरात रक्तवाहिन्यांचे काय पसरलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "जाळे", "is_correct": true },
+        { "option_id": 2, "text": "गोळे", "is_correct": false },
+        { "option_id": 3, "text": "तुकडे", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "जाळे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "जठर कोणत्या पोकळीत असते?",
+      "options": [
+        { "option_id": 1, "text": "वक्षपोकळी", "is_correct": false },
+        { "option_id": 2, "text": "उदरपोकळी", "is_correct": true },
+        { "option_id": 3, "text": "शिरोपोकळी", "is_correct": false },
+        { "option_id": 4, "text": "कटीपोकळी", "is_correct": false }
+      ],
+      "answer": "उदरपोकळी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "डोळे, कान, नाक, जीभ आणि त्वचा यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "आंतरेंद्रिये", "is_correct": false },
+        { "option_id": 2, "text": "ज्ञानेंद्रिये", "is_correct": true },
+        { "option_id": 3, "text": "स्नायू", "is_correct": false },
+        { "option_id": 4, "text": "हाडे", "is_correct": false }
+      ],
+      "answer": "ज्ञानेंद्रिये"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "आंतरेंद्रिये म्हणजे काय?",
+      "answer": "जी इंद्रिये शरीराच्या आत असतात आणि बाहेरून दिसत नाहीत, त्यांना आंतरेंद्रिये म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "बाह्यावयव म्हणजे काय?",
+      "answer": "जे अवयव शरीराच्या बाहेरच्या बाजूस असतात आणि आपण सहज पाहू शकतो, त्यांना बाह्यावयव म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ज्ञानेंद्रिये कोणकोणती आहेत?",
+      "answer": "डोळे, कान, नाक, जीभ आणि त्वचा ही आपली ज्ञानेंद्रिये आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "शिरोपोकळी कशाला म्हणतात?",
+      "answer": "डोक्याच्या आत असलेल्या पोकळीला शिरोपोकळी असे म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वक्षपोकळी कोठे असते?",
+      "answer": "वक्षपोकळी छातीच्या भागात असते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "उदरपोकळी आणि कटीपोकळी कोठे असतात?",
+      "answer": "उदरपोकळी आणि कटीपोकळी पोटाच्या भागात असतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "ग्रासनलिकेचे कार्य काय आहे?",
+      "answer": "तोंडातील घास जठरापर्यंत पोचवण्याचे कार्य ग्रासनलिका करते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "हृदयाचे स्थान कोठे आहे?",
+      "answer": "हृदय वक्षपोकळीत मधोमध, पण किंचित डाव्या बाजूला असते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "हृदयाचे आकुंचन म्हणजे काय?",
+      "answer": "हृदयाचे आकारमान कमी होणे याला हृदयाचे आकुंचन म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "हृदयाचे शिथिलीकरण म्हणजे काय?",
+      "answer": "हृदयाचे आकारमान पूर्ववत होणे याला हृदयाचे शिथिलीकरण म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "हृदयाचा ठोका कशाला म्हणतात?",
+      "answer": "हृदयाच्या प्रत्येक आकुंचनाला हृदयाचा ठोका असे म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "फुप्फुसांचे कार्य काय आहे?",
+      "answer": "श्वसनावाटे घेतलेली हवा शरीराला पुरवण्याचे कार्य फुप्फुसे करतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मेंदूचे मुख्य कार्य कोणते?",
+      "answer": "हालचालींवर नियंत्रण ठेवणे, भावनांची जाणीव होणे आणि माहितीचा अर्थ लावणे ही मेंदूची कामे आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मेंदूला संरक्षण कशामुळे मिळते?",
+      "answer": "मेंदूला कवटीच्या कवचामुळे संरक्षण मिळते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हृदय आणि फुप्फुसे कशामुळे सुरक्षित राहतात?",
+      "answer": "हृदय आणि फुप्फुसे वक्षपोकळीतील बरगड्यांच्या पिंजऱ्यात असल्याने सुरक्षित राहतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "श्वास घेतल्यावर छाती का फुगते?",
+      "answer": "श्वास घेतल्याने फुप्फुसे थोडीशी प्रसरण पावतात, त्यामुळे छाती फुगते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "अन्नमार्गाची लांबी किती असते?",
+      "answer": "अन्नमार्गाची लांबी सुमारे नऊ मीटर असते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "ग्रासनलिका लवचीक का असते?",
+      "answer": "अन्नाचा घास जठरापर्यंत सुलभपणे नेता यावा यासाठी ग्रासनलिकेची भिंत लवचीक असते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "नाडीचे ठोके म्हणजे काय?",
+      "answer": "हृदयाच्या ठोक्यांमुळे रक्तवाहिन्यांमध्ये होणारी हालचाल जी मनगटापाशी जाणवते, तिला नाडीचे ठोके म्हणतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "रक्ताचे शरीरातील कार्य काय आहे?",
+      "answer": "हवा आणि पचलेले अन्न शरीराच्या प्रत्येक भागाला पोचवण्याचे कार्य रक्त करते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कोणते फुप्फुस थोडेसे मोठे असते?",
+      "answer": "उजवे फुप्फुस डाव्या फुप्फुसापेक्षा थोडेसे मोठे असते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "श्वासनलिका म्हणजे काय?",
+      "answer": "श्वासाबरोबर आत घेतलेली हवा फुप्फुसापर्यंत पोचवणारे नळीसारखे इंद्रिय म्हणजे श्वासनलिका होय."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "श्वसनी कशाला म्हणतात?",
+      "answer": "श्वासनलिकेला पुढे जे दोन छोटे फाटे फुटतात, त्यांना श्वसनी म्हणतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "मेंदूला इजा झाल्यास काय होऊ शकते?",
+      "answer": "मेंदूला इजा झाल्यास माणूस कायमचा अपंग होऊ शकतो किंवा दगावू शकतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "स्मरणशक्ती कशाला म्हणतात?",
+      "answer": "माहिती किंवा कविता मेंदूत नोंदवल्या जाऊन लक्षात राहणे, याला स्मरणशक्ती म्हणतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "आपल्या शरीरात कोणती महत्त्वाची कामे सतत चालू असतात?",
+      "answer": "श्वसन, पचन, रक्ताभिसरण आणि मेंदूचे नियंत्रण ही कामे सतत चालू असतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "शरीराच्या पोकळ्यांचे उपयोग काय?",
+      "answer": "शरीराच्या पोकळ्यांमुळे आंतरेंद्रिये सुरक्षित राहतात आणि हालचाल केली तरी ती जागच्या जागी राहतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "जोराने पळताना धाप का लागते?",
+      "answer": "शरीराला जास्त हवेची गरज भासते, ती भरून काढण्यासाठी आपण जोराने श्वास घेतो, म्हणून धाप लागते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "हेल्मेट वापरणे का गरजेचे आहे?",
+      "answer": "अपघातात डोक्याला व मेंदूला दुखापत होऊ नये म्हणून हेल्मेट वापरणे गरजेचे आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "अन्नपचनाचे काम करणारी दोन इंद्रिये सांगा.",
+      "answer": "तोंड आणि जठर ही अन्नपचनाचे काम करणारी इंद्रिये आहेत."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "ग्रासनलिका कोणत्या पोकळीतून जाते?",
+      "answer": "ग्रासनलिका वक्षपोकळीतून जाते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "हृदयाचा आकार साधारणपणे कसा असतो?",
+      "answer": "हृदयाचा आकार आपल्या मुठीपेक्षा किंचित मोठा असतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "बंदिस्त जागेतील द्रवपदार्थावर दाब दिल्यास काय होते?",
+      "answer": "द्रवपदार्थ जागा मिळेल तेथून जोराने बाहेर पडतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "डाव्या फुप्फुसात खोलगट जागा का असते?",
+      "answer": "हृदयासाठी जागा देण्यासाठी डाव्या फुप्फुसात खोलगट जागा असते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "भावनांची जाणीव कोठे होते?",
+      "answer": "राग, आनंद, दुःख अशा भावनांची जाणीव मेंदूमध्ये होते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "ज्ञानेंद्रियांच्या माहितीचा अर्थ कोण लावते?",
+      "answer": "ज्ञानेंद्रियांच्या माहितीचा अर्थ मेंदू लावतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "अन्ननलिका म्हणजे काय?",
+      "answer": "गिळलेला घास जठरापर्यंत पोचवणाऱ्या ग्रासनलिकेलाच अन्ननलिका असेही म्हणतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "रक्तवाहिन्या म्हणजे काय?",
+      "answer": "शरीरभर रक्त वाहून नेणाऱ्या नळ्यांना रक्तवाहिन्या म्हणतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "शरीराची रचना कशी असते?",
+      "answer": "आंतरेंद्रिये सुरक्षित राहावीत आणि कामे सुरळीत चालावीत अशी शरीराची रचना असते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "आपल्याला किती फुप्फुसे असतात?",
+      "answer": "आपल्याला दोन फुप्फुसे असतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "तोंडात अन्नाचा गोळा कशामुळे होतो?",
+      "answer": "तोंडात अन्नात लाळ मिसळल्यामुळे अन्नाचा ओलसर गोळा होतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "जठर कोणत्या पोकळीत असते?",
+      "answer": "जठर उदरपोकळीत असते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "मेंदूचे स्थान कोठे आहे?",
+      "answer": "मेंदूचे स्थान शिरोपोकळीत (कवटीच्या आत) आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हृदय आणि फुप्फुसे यांचे कार्य कसे चालते?",
+      "answer": "हृदय आणि फुप्फुसे यांची कामे एकमेकांवर अवलंबून असतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "शरीराच्या आत असणाऱ्या परंतु बाहेरून न दिसणाऱ्या अवयवांना काय म्हणतात?",
+      "answer": "त्यांना आंतरेंद्रिये म्हणतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "शरीराचे नियंत्रण कोणाकडे असते?",
+      "answer": "शरीराचे नियंत्रण मेंदूमध्ये असते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "रक्त सतत खेळते ठेवण्याचे काम कोण करते?",
+      "answer": "रक्त सतत खेळते ठेवण्याचे काम हृदय करते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "श्वासोच्छ्वास केल्याने काय होते?",
+      "answer": "श्वासोच्छ्वास केल्याने हवा शरीरात घेतली जाते आणि रक्त शुद्ध होते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "अन्नमार्गाचे कार्य काय?",
+      "answer": "तोंडापासून गुदद्वारापर्यंत अन्नाचा प्रवास घडवून आणणे आणि पचन करणे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "कवटीचा उपयोग काय?",
+      "answer": "मेंदूला मार लागण्यापासून वाचवणे आणि संरक्षण देणे हा कवटीचा उपयोग आहे."
+    }
+  ]
+}

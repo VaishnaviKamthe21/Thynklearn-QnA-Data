@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.51",
+    "standard": "4",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "A Visit to a Garden"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which class went for the picnic?",
+      "options": [
+        { "option_id": 1, "text": "Class IV A", "is_correct": false },
+        { "option_id": 2, "text": "Class IV B", "is_correct": true },
+        { "option_id": 3, "text": "Class III B", "is_correct": false },
+        { "option_id": 4, "text": "Class V", "is_correct": false }
+      ],
+      "answer": "Class IV B"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where did the children go?",
+      "options": [
+        { "option_id": 1, "text": "To a zoo", "is_correct": false },
+        { "option_id": 2, "text": "To a big garden", "is_correct": true },
+        { "option_id": 3, "text": "To a museum", "is_correct": false },
+        { "option_id": 4, "text": "To a school", "is_correct": false }
+      ],
+      "answer": "To a big garden"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What did they see at the gate?",
+      "options": [
+        { "option_id": 1, "text": "A big dog", "is_correct": false },
+        { "option_id": 2, "text": "A big board", "is_correct": true },
+        { "option_id": 3, "text": "A car", "is_correct": false },
+        { "option_id": 4, "text": "A shop", "is_correct": false }
+      ],
+      "answer": "A big board"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was written on the board at the gate?",
+      "options": [
+        { "option_id": 1, "text": "Names of students", "is_correct": false },
+        { "option_id": 2, "text": "Names of different parts of the garden", "is_correct": true },
+        { "option_id": 3, "text": "A story", "is_correct": false },
+        { "option_id": 4, "text": "Menu card", "is_correct": false }
+      ],
+      "answer": "Names of different parts of the garden"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Where did the children want to go first?",
+      "options": [
+        { "option_id": 1, "text": "To the gym", "is_correct": false },
+        { "option_id": 2, "text": "To the lake", "is_correct": true },
+        { "option_id": 3, "text": "To the nursery", "is_correct": false },
+        { "option_id": 4, "text": "To the resort", "is_correct": false }
+      ],
+      "answer": "To the lake"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What did the children want to do at the lake?",
+      "options": [
+        { "option_id": 1, "text": "Swimming", "is_correct": false },
+        { "option_id": 2, "text": "Fishing", "is_correct": false },
+        { "option_id": 3, "text": "Boating", "is_correct": true },
+        { "option_id": 4, "text": "Drinking water", "is_correct": false }
+      ],
+      "answer": "Boating"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is the name of the lake in the garden?",
+      "options": [
+        { "option_id": 1, "text": "Blue Lake", "is_correct": false },
+        { "option_id": 2, "text": "Neel Lake", "is_correct": true },
+        { "option_id": 3, "text": "Green Lake", "is_correct": false },
+        { "option_id": 4, "text": "Swan Lake", "is_correct": false }
+      ],
+      "answer": "Neel Lake"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What helped them find their way to the lake?",
+      "options": [
+        { "option_id": 1, "text": "A compass", "is_correct": false },
+        { "option_id": 2, "text": "A map of the garden", "is_correct": true },
+        { "option_id": 3, "text": "Google Maps", "is_correct": false },
+        { "option_id": 4, "text": "A guard", "is_correct": false }
+      ],
+      "answer": "A map of the garden"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of these is a name of a garden mentioned?",
+      "options": [
+        { "option_id": 1, "text": "Rose Garden", "is_correct": false },
+        { "option_id": 2, "text": "Manik Garden", "is_correct": true },
+        { "option_id": 3, "text": "Lilly Garden", "is_correct": false },
+        { "option_id": 4, "text": "Lotus Garden", "is_correct": false }
+      ],
+      "answer": "Manik Garden"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the name of the 'Resort' in the garden?",
+      "options": [
+        { "option_id": 1, "text": "Moti Resort", "is_correct": true },
+        { "option_id": 2, "text": "Heera Resort", "is_correct": false },
+        { "option_id": 3, "text": "Taj Resort", "is_correct": false },
+        { "option_id": 4, "text": "Star Resort", "is_correct": false }
+      ],
+      "answer": "Moti Resort"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Where did they sit to eat snacks?",
+      "options": [
+        { "option_id": 1, "text": "In the boat", "is_correct": false },
+        { "option_id": 2, "text": "Under a tree", "is_correct": true },
+        { "option_id": 3, "text": "In the bus", "is_correct": false },
+        { "option_id": 4, "text": "On a bench", "is_correct": false }
+      ],
+      "answer": "Under a tree"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What was on the second board near the tree?",
+      "options": [
+        { "option_id": 1, "text": "A map", "is_correct": false },
+        { "option_id": 2, "text": "A chart with pictures of trees", "is_correct": true },
+        { "option_id": 3, "text": "A list of rules", "is_correct": false },
+        { "option_id": 4, "text": "A menu", "is_correct": false }
+      ],
+      "answer": "A chart with pictures of trees"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is a chart with pictures called?",
+      "options": [
+        { "option_id": 1, "text": "Photograph", "is_correct": false },
+        { "option_id": 2, "text": "Pictogram / Pictograph", "is_correct": true },
+        { "option_id": 3, "text": "Paragraph", "is_correct": false },
+        { "option_id": 4, "text": "Autograph", "is_correct": false }
+      ],
+      "answer": "Pictogram / Pictograph"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What information did the pictogram give?",
+      "options": [
+        { "option_id": 1, "text": "How many trees of each type there are", "is_correct": true },
+        { "option_id": 2, "text": "The height of trees", "is_correct": false },
+        { "option_id": 3, "text": "The age of trees", "is_correct": false },
+        { "option_id": 4, "text": "The price of fruits", "is_correct": false }
+      ],
+      "answer": "How many trees of each type there are"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does 'One Picture' represent in the pictogram?",
+      "options": [
+        { "option_id": 1, "text": "One tree", "is_correct": false },
+        { "option_id": 2, "text": "Three trees", "is_correct": true },
+        { "option_id": 3, "text": "Five trees", "is_correct": false },
+        { "option_id": 4, "text": "Ten trees", "is_correct": false }
+      ],
+      "answer": "Three trees"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which of these trees was NOT listed in the pictogram?",
+      "options": [
+        { "option_id": 1, "text": "Mango", "is_correct": false },
+        { "option_id": 2, "text": "Neem", "is_correct": false },
+        { "option_id": 3, "text": "Apple", "is_correct": true },
+        { "option_id": 4, "text": "Banyan", "is_correct": false }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the name of the 'Nursery' in the garden?",
+      "options": [
+        { "option_id": 1, "text": "Plant Nursery", "is_correct": false },
+        { "option_id": 2, "text": "Gems Nursery", "is_correct": true },
+        { "option_id": 3, "text": "Green Nursery", "is_correct": false },
+        { "option_id": 4, "text": "Star Nursery", "is_correct": false }
+      ],
+      "answer": "Gems Nursery"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the name of the 'Corner' in the garden?",
+      "options": [
+        { "option_id": 1, "text": "Silent Corner", "is_correct": false },
+        { "option_id": 2, "text": "Paachu Corner", "is_correct": true },
+        { "option_id": 3, "text": "Kids Corner", "is_correct": false },
+        { "option_id": 4, "text": "Food Corner", "is_correct": false }
+      ],
+      "answer": "Paachu Corner"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "If there are 3 pictures of Mango trees, how many trees are there actually?",
+      "options": [
+        { "option_id": 1, "text": "3", "is_correct": false },
+        { "option_id": 2, "text": "6", "is_correct": false },
+        { "option_id": 3, "text": "9", "is_correct": true },
+        { "option_id": 4, "text": "12", "is_correct": false }
+      ],
+      "answer": "9"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "If there is 1 picture of Banyan tree, how many trees are there?",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": false },
+        { "option_id": 2, "text": "3", "is_correct": true },
+        { "option_id": 3, "text": "5", "is_correct": false },
+        { "option_id": 4, "text": "10", "is_correct": false }
+      ],
+      "answer": "3"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'picnic' is:",
+      "options": [
+        { "option_id": 1, "text": "Picknic", "is_correct": false },
+        { "option_id": 2, "text": "Picnic", "is_correct": true },
+        { "option_id": 3, "text": "Piknik", "is_correct": false },
+        { "option_id": 4, "text": "Picnick", "is_correct": false }
+      ],
+      "answer": "Picnic"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'garden' is:",
+      "options": [
+        { "option_id": 1, "text": "Gardon", "is_correct": false },
+        { "option_id": 2, "text": "Garden", "is_correct": true },
+        { "option_id": 3, "text": "Gardin", "is_correct": false },
+        { "option_id": 4, "text": "Gardan", "is_correct": false }
+      ],
+      "answer": "Garden"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'entrance' is:",
+      "options": [
+        { "option_id": 1, "text": "Entrans", "is_correct": false },
+        { "option_id": 2, "text": "Entrance", "is_correct": true },
+        { "option_id": 3, "text": "Entrence", "is_correct": false },
+        { "option_id": 4, "text": "Intrance", "is_correct": false }
+      ],
+      "answer": "Entrance"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'pictogram' is:",
+      "options": [
+        { "option_id": 1, "text": "Pictagram", "is_correct": false },
+        { "option_id": 2, "text": "Pictogram", "is_correct": true },
+        { "option_id": 3, "text": "Piktogram", "is_correct": false },
+        { "option_id": 4, "text": "Picturegram", "is_correct": false }
+      ],
+      "answer": "Pictogram"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is 'Jarul' also known as?",
+      "options": [
+        { "option_id": 1, "text": "Tamhan", "is_correct": true },
+        { "option_id": 2, "text": "Mango", "is_correct": false },
+        { "option_id": 3, "text": "Neem", "is_correct": false },
+        { "option_id": 4, "text": "Tulsi", "is_correct": false }
+      ],
+      "answer": "Tamhan"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What type of tree has 'rain' in its name?",
+      "options": [
+        { "option_id": 1, "text": "Water tree", "is_correct": false },
+        { "option_id": 2, "text": "Rain tree", "is_correct": true },
+        { "option_id": 3, "text": "Cloud tree", "is_correct": false },
+        { "option_id": 4, "text": "Wet tree", "is_correct": false }
+      ],
+      "answer": "Rain tree"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The activity suggests making a list related to your ______.",
+      "options": [
+        { "option_id": 1, "text": "Home", "is_correct": false },
+        { "option_id": 2, "text": "School", "is_correct": true },
+        { "option_id": 3, "text": "City", "is_correct": false },
+        { "option_id": 4, "text": "Country", "is_correct": false }
+      ],
+      "answer": "School"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The list should be in which order?",
+      "options": [
+        { "option_id": 1, "text": "Random", "is_correct": false },
+        { "option_id": 2, "text": "Alphabetical", "is_correct": true },
+        { "option_id": 3, "text": "Size", "is_correct": false },
+        { "option_id": 4, "text": "Color", "is_correct": false }
+      ],
+      "answer": "Alphabetical"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which unit is this chapter from?",
+      "options": [
+        { "option_id": 1, "text": "Unit Four", "is_correct": false },
+        { "option_id": 2, "text": "Unit Five", "is_correct": true },
+        { "option_id": 3, "text": "Unit Six", "is_correct": false },
+        { "option_id": 4, "text": "Unit One", "is_correct": false }
+      ],
+      "answer": "Unit Five"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is 'Heera' Garden named after?",
+      "options": [
+        { "option_id": 1, "text": "A flower", "is_correct": false },
+        { "option_id": 2, "text": "A gem (Diamond)", "is_correct": true },
+        { "option_id": 3, "text": "A fruit", "is_correct": false },
+        { "option_id": 4, "text": "A bird", "is_correct": false }
+      ],
+      "answer": "A gem (Diamond)"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is 'Neel' Lake named after?",
+      "options": [
+        { "option_id": 1, "text": "The color Blue", "is_correct": true },
+        { "option_id": 2, "text": "A boy", "is_correct": false },
+        { "option_id": 3, "text": "A stone", "is_correct": false },
+        { "option_id": 4, "text": "A fish", "is_correct": false }
+      ],
+      "answer": "The color Blue"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is 'Moti' Resort named after?",
+      "options": [
+        { "option_id": 1, "text": "Pearl", "is_correct": true },
+        { "option_id": 2, "text": "Gold", "is_correct": false },
+        { "option_id": 3, "text": "Silver", "is_correct": false },
+        { "option_id": 4, "text": "Bronze", "is_correct": false }
+      ],
+      "answer": "Pearl"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What is 'Paachu' Corner named after?",
+      "options": [
+        { "option_id": 1, "text": "Ruby", "is_correct": false },
+        { "option_id": 2, "text": "Emerald", "is_correct": true },
+        { "option_id": 3, "text": "Topaz", "is_correct": false },
+        { "option_id": 4, "text": "Sapphire", "is_correct": false }
+      ],
+      "answer": "Emerald"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is 'Manik' Garden named after?",
+      "options": [
+        { "option_id": 1, "text": "Ruby", "is_correct": true },
+        { "option_id": 2, "text": "Pearl", "is_correct": false },
+        { "option_id": 3, "text": "Diamond", "is_correct": false },
+        { "option_id": 4, "text": "Coral", "is_correct": false }
+      ],
+      "answer": "Ruby"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who explained the pictogram?",
+      "options": [
+        { "option_id": 1, "text": "A student", "is_correct": false },
+        { "option_id": 2, "text": "The Teacher", "is_correct": true },
+        { "option_id": 3, "text": "The Gardener", "is_correct": false },
+        { "option_id": 4, "text": "The Principal", "is_correct": false }
+      ],
+      "answer": "The Teacher"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Did the children answer the questions correctly?",
+      "options": [
+        { "option_id": 1, "text": "No", "is_correct": false },
+        { "option_id": 2, "text": "Yes", "is_correct": true },
+        { "option_id": 3, "text": "Partially", "is_correct": false },
+        { "option_id": 4, "text": "They didn't answer", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What language should the labels in the pictogram be in?",
+      "options": [
+        { "option_id": 1, "text": "Hindi", "is_correct": false },
+        { "option_id": 2, "text": "Marathi", "is_correct": false },
+        { "option_id": 3, "text": "English", "is_correct": true },
+        { "option_id": 4, "text": "Any language", "is_correct": false }
+      ],
+      "answer": "English"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "You can discuss the topic in which language?",
+      "options": [
+        { "option_id": 1, "text": "English only", "is_correct": false },
+        { "option_id": 2, "text": "Marathi", "is_correct": true },
+        { "option_id": 3, "text": "Sanskrit", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Marathi"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The gate board had a list written one ______ the other.",
+      "options": [
+        { "option_id": 1, "text": "Beside", "is_correct": false },
+        { "option_id": 2, "text": "Below", "is_correct": true },
+        { "option_id": 3, "text": "Above", "is_correct": false },
+        { "option_id": 4, "text": "Inside", "is_correct": false }
+      ],
+      "answer": "Below"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Who took the children to the lake?",
+      "options": [
+        { "option_id": 1, "text": "The parents", "is_correct": false },
+        { "option_id": 2, "text": "The teachers", "is_correct": true },
+        { "option_id": 3, "text": "The driver", "is_correct": false },
+        { "option_id": 4, "text": "They went alone", "is_correct": false }
+      ],
+      "answer": "The teachers"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What did the children do after boating?",
+      "options": [
+        { "option_id": 1, "text": "Played football", "is_correct": false },
+        { "option_id": 2, "text": "Sat under a tree to eat snacks", "is_correct": true },
+        { "option_id": 3, "text": "Went home", "is_correct": false },
+        { "option_id": 4, "text": "Slept", "is_correct": false }
+      ],
+      "answer": "Sat under a tree to eat snacks"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'Entrance'?",
+      "options": [
+        { "option_id": 1, "text": "Door", "is_correct": false },
+        { "option_id": 2, "text": "Exit", "is_correct": true },
+        { "option_id": 3, "text": "Open", "is_correct": false },
+        { "option_id": 4, "text": "Close", "is_correct": false }
+      ],
+      "answer": "Exit"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'long'?",
+      "options": [
+        { "option_id": 1, "text": "Tall", "is_correct": false },
+        { "option_id": 2, "text": "Short", "is_correct": true },
+        { "option_id": 3, "text": "Big", "is_correct": false },
+        { "option_id": 4, "text": "Wide", "is_correct": false }
+      ],
+      "answer": "Short"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'many'?",
+      "options": [
+        { "option_id": 1, "text": "Lots", "is_correct": false },
+        { "option_id": 2, "text": "Few", "is_correct": true },
+        { "option_id": 3, "text": "More", "is_correct": false },
+        { "option_id": 4, "text": "Some", "is_correct": false }
+      ],
+      "answer": "Few"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'correctly'?",
+      "options": [
+        { "option_id": 1, "text": "Rightly", "is_correct": false },
+        { "option_id": 2, "text": "Incorrectly", "is_correct": true },
+        { "option_id": 3, "text": "Fast", "is_correct": false },
+        { "option_id": 4, "text": "Slowly", "is_correct": false }
+      ],
+      "answer": "Incorrectly"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Gulmohar trees have ______ flowers.",
+      "options": [
+        { "option_id": 1, "text": "Red/Orange", "is_correct": true },
+        { "option_id": 2, "text": "Blue", "is_correct": false },
+        { "option_id": 3, "text": "Black", "is_correct": false },
+        { "option_id": 4, "text": "Green", "is_correct": false }
+      ],
+      "answer": "Red/Orange"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What is common between Pushkar, Manik, Heera?",
+      "options": [
+        { "option_id": 1, "text": "They are names of flowers", "is_correct": false },
+        { "option_id": 2, "text": "They are names of gems/precious stones", "is_correct": true },
+        { "option_id": 3, "text": "They are names of rivers", "is_correct": false },
+        { "option_id": 4, "text": "They are names of animals", "is_correct": false }
+      ],
+      "answer": "They are names of gems/precious stones"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "The activity helps students learn to read ______.",
+      "options": [
+        { "option_id": 1, "text": "Maps and charts", "is_correct": true },
+        { "option_id": 2, "text": "Music", "is_correct": false },
+        { "option_id": 3, "text": "Faces", "is_correct": false },
+        { "option_id": 4, "text": "Minds", "is_correct": false }
+      ],
+      "answer": "Maps and charts"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What can you use to show information visually?",
+      "options": [
+        { "option_id": 1, "text": "A song", "is_correct": false },
+        { "option_id": 2, "text": "A pictogram", "is_correct": true },
+        { "option_id": 3, "text": "A sound", "is_correct": false },
+        { "option_id": 4, "text": "A smell", "is_correct": false }
+      ],
+      "answer": "A pictogram"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Who asked 'What does it mean, Teacher'?",
+      "options": [
+        { "option_id": 1, "text": "The parents", "is_correct": false },
+        { "option_id": 2, "text": "The children", "is_correct": true },
+        { "option_id": 3, "text": "The guard", "is_correct": false },
+        { "option_id": 4, "text": "The driver", "is_correct": false }
+      ],
+      "answer": "The children"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the name of the garden corner starting with P?",
+      "answer": "Paachu Corner."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the name of the garden starting with H?",
+      "answer": "Heera Garden."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the name of the garden starting with M?",
+      "answer": "Manik Garden."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the name of the resort?",
+      "answer": "Moti Resort."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the name of the nursery?",
+      "answer": "Gems Nursery."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the name of the lake?",
+      "answer": "Neel Lake."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What helps to find the way in the garden?",
+      "answer": "A map."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is a pictogram?",
+      "answer": "A chart that gives information with pictures."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How many trees does one picture represent in the chart?",
+      "answer": "Three trees."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "If there are 3 pictures of Mango trees, how many trees are there?",
+      "answer": "9 trees."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "If there are 4 pictures of Neem trees, how many trees are there?",
+      "answer": "12 trees."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "If there are 2 pictures of Jamun trees, how many trees are there?",
+      "answer": "6 trees."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name two types of trees found in the garden.",
+      "answer": "Mango, Neem (or any other from list)."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the local name for 'Jarul'?",
+      "answer": "Tamhan."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What did the children say about the list at the gate?",
+      "answer": "\"What a long list!\""
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What activity did the children do at the lake?",
+      "answer": "Boat rides."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Where was the second big board located?",
+      "answer": "Near the tree (where they ate snacks)."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What did the children eat?",
+      "answer": "Snacks."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'pictogram'.",
+      "answer": "P-I-C-T-O-G-R-A-M."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'resort'.",
+      "answer": "R-E-S-O-R-T."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'nursery'.",
+      "answer": "N-U-R-S-E-R-Y."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'entrance'.",
+      "answer": "E-N-T-R-A-N-C-E."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is 'Paachu' in English?",
+      "answer": "Emerald."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is 'Heera' in English?",
+      "answer": "Diamond."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is 'Manik' in English?",
+      "answer": "Ruby."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is 'Moti' in English?",
+      "answer": "Pearl."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is 'Neel' in English?",
+      "answer": "Blue (Sapphire or Indigo)."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is 'Pushkar' in English?",
+      "answer": "Topaz (Pushkaraj) or Lotus."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What are gems?",
+      "answer": "Precious stones."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is a nursery (in a garden)?",
+      "answer": "A place where young plants are grown."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is a resort?",
+      "answer": "A place for holiday or relaxation."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the map?",
+      "answer": "To show the way to different places."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Did the children enjoy the picnic?",
+      "answer": "Yes (implied by activities)."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What assignment is given to the students?",
+      "answer": "To prepare a list, map, or pictogram about their school."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is alphabetical order?",
+      "answer": "A, B, C, D order."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "List two topics for a school pictogram.",
+      "answer": "Furniture, Rooms (or Trees, People)."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What unit is this chapter in?",
+      "answer": "Unit Five."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is the title of the page?",
+      "answer": "A Visit to a Garden."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Use 'map' in a sentence.",
+      "answer": "We used a map to find the treasure."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Use 'list' in a sentence.",
+      "answer": "Make a list of things to buy."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Use 'picnic' in a sentence.",
+      "answer": "We went for a picnic on Sunday."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What does a Banyan tree look like?",
+      "answer": "It is big with aerial roots."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What fruit grows on a Mango tree?",
+      "answer": "Mango."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What fruit grows on a Jamun tree?",
+      "answer": "Jamun (Black plum)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Who answered the teacher's question correctly?",
+      "answer": "The children."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What does 'information' mean?",
+      "answer": "Facts provided or learned."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Is the key 'One picture = Three trees' important?",
+      "answer": "Yes, to calculate the correct number."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "If there is half a picture, what might it mean?",
+      "answer": "Usually half the value (but not used in this simple chart)."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'Entrance'?",
+      "answer": "Exit."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'long'?",
+      "answer": "Short."
+    }
+  ]
+}

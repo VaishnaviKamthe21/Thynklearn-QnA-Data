@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.08",
+    "standard": "4",
+    "subject": "Parisar Abhyas Bhag 1",
+    "medium": "Marathi",
+    "chapter_name": "मोलाचे अन्न"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "वर्षा आणि अर्जुनला कोणता पदार्थ मनापासून आवडतो?",
+      "options": [
+        { "option_id": 1, "text": "पोळी आणि भाजी", "is_correct": false },
+        { "option_id": 2, "text": "बाजरीची भाकरी आणि लोणी", "is_correct": true },
+        { "option_id": 3, "text": "भात आणि वरण", "is_correct": false },
+        { "option_id": 4, "text": "इडली आणि सांबर", "is_correct": false }
+      ],
+      "answer": "बाजरीची भाकरी आणि लोणी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "जेवायला वाढताना आई नेहमी काय म्हणते?",
+      "options": [
+        { "option_id": 1, "text": "भरपूर खा", "is_correct": false },
+        { "option_id": 2, "text": "लवकर जेवा", "is_correct": false },
+        { "option_id": 3, "text": "अन्न वाया जायला नको", "is_correct": true },
+        { "option_id": 4, "text": "गप्पा मारू नका", "is_correct": false }
+      ],
+      "answer": "अन्न वाया जायला नको"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वर्षाच्या बाबांचा व्यवसाय कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 2, "text": "शेतकरी", "is_correct": true },
+        { "option_id": 3, "text": "डॉक्टर", "is_correct": false },
+        { "option_id": 4, "text": "दुकानदार", "is_correct": false }
+      ],
+      "answer": "शेतकरी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शेतीच्या मशागतीची कामे कोणत्या ऋतूत सुरू होतात?",
+      "options": [
+        { "option_id": 1, "text": "हिवाळ्यात", "is_correct": false },
+        { "option_id": 2, "text": "पावसाळ्यात", "is_correct": false },
+        { "option_id": 3, "text": "उन्हाळ्यात", "is_correct": true },
+        { "option_id": 4, "text": "वसंत ऋतूत", "is_correct": false }
+      ],
+      "answer": "उन्हाळ्यात"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "बाबा शेतीची कामे करण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "ट्रॅक्टर", "is_correct": true },
+        { "option_id": 2, "text": "मोटारगाडी", "is_correct": false },
+        { "option_id": 3, "text": "सायकल", "is_correct": false },
+        { "option_id": 4, "text": "बस", "is_correct": false }
+      ],
+      "answer": "ट्रॅक्टर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाऊस पडल्यावर जमिनीचा काय होतो?",
+      "options": [
+        { "option_id": 1, "text": "चिखल", "is_correct": false },
+        { "option_id": 2, "text": "वाफसा", "is_correct": true },
+        { "option_id": 3, "text": "गाळ", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "वाफसा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "वाफसा झाल्यावर बाबा शेतात कशाची पेरणी करतात?",
+      "options": [
+        { "option_id": 1, "text": "गहू", "is_correct": false },
+        { "option_id": 2, "text": "बाजरी", "is_correct": true },
+        { "option_id": 3, "text": "तांदूळ", "is_correct": false },
+        { "option_id": 4, "text": "कापूस", "is_correct": false }
+      ],
+      "answer": "बाजरी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पिकाच्या जोडीने शेतात काय वाढते जे काढून टाकावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "झाडे", "is_correct": false },
+        { "option_id": 2, "text": "फळे", "is_correct": false },
+        { "option_id": 3, "text": "तण", "is_correct": true },
+        { "option_id": 4, "text": "फुले", "is_correct": false }
+      ],
+      "answer": "तण"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पाखरांना पळवून लावण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "बंदूक", "is_correct": false },
+        { "option_id": 2, "text": "गोफण", "is_correct": true },
+        { "option_id": 3, "text": "काठी", "is_correct": false },
+        { "option_id": 4, "text": "जाळे", "is_correct": false }
+      ],
+      "answer": "गोफण"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "शेतात आलेली सगळी कणसे कापून गोळा करणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मळणी", "is_correct": false },
+        { "option_id": 2, "text": "उफणणी", "is_correct": false },
+        { "option_id": 3, "text": "कापणी", "is_correct": true },
+        { "option_id": 4, "text": "पेरणी", "is_correct": false }
+      ],
+      "answer": "कापणी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कणसांपासून बाजरीचे दाणे सुटे करण्याच्या प्रक्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कापणी", "is_correct": false },
+        { "option_id": 2, "text": "मळणी", "is_correct": true },
+        { "option_id": 3, "text": "पेरणी", "is_correct": false },
+        { "option_id": 4, "text": "नांगरणी", "is_correct": false }
+      ],
+      "answer": "मळणी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "दाणे आणि टरफले वेगळी करण्याच्या प्रक्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "उफणणी", "is_correct": true },
+        { "option_id": 2, "text": "मळणी", "is_correct": false },
+        { "option_id": 3, "text": "कापणी", "is_correct": false },
+        { "option_id": 4, "text": "साठवण", "is_correct": false }
+      ],
+      "answer": "उफणणी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मळणीसाठी शेतात तयार केलेल्या गोल जागेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मळा", "is_correct": false },
+        { "option_id": 2, "text": "खळे", "is_correct": true },
+        { "option_id": 3, "text": "वावर", "is_correct": false },
+        { "option_id": 4, "text": "गोठा", "is_correct": false }
+      ],
+      "answer": "खळे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "खळ्याच्या मधोमध काय उभे करतात?",
+      "options": [
+        { "option_id": 1, "text": "खांब", "is_correct": false },
+        { "option_id": 2, "text": "खुंटा", "is_correct": true },
+        { "option_id": 3, "text": "झाड", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "खुंटा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पारंपरिक पद्धतीत मळणीसाठी कोणत्या प्राण्याचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "घोडा", "is_correct": false },
+        { "option_id": 2, "text": "बैल", "is_correct": true },
+        { "option_id": 3, "text": "गाढव", "is_correct": false },
+        { "option_id": 4, "text": "हत्ती", "is_correct": false }
+      ],
+      "answer": "बैल"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "बैल कणसांवरून फिरल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "कणसे फुटतात", "is_correct": false },
+        { "option_id": 2, "text": "दाणे सुटे होतात", "is_correct": true },
+        { "option_id": 3, "text": "कणसे खराब होतात", "is_correct": false },
+        { "option_id": 4, "text": "कचरा जमा होतो", "is_correct": false }
+      ],
+      "answer": "दाणे सुटे होतात"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "उफणणी करताना कशाचा उपयोग होतो?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याचा", "is_correct": false },
+        { "option_id": 2, "text": "वाऱ्याचा", "is_correct": true },
+        { "option_id": 3, "text": "उन्हाचा", "is_correct": false },
+        { "option_id": 4, "text": "पावसाचा", "is_correct": false }
+      ],
+      "answer": "वाऱ्याचा"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "उफणणी करताना हलके काय दूर जाऊन पडते?",
+      "options": [
+        { "option_id": 1, "text": "दाणे", "is_correct": false },
+        { "option_id": 2, "text": "दगड", "is_correct": false },
+        { "option_id": 3, "text": "टरफले आणि कचरा", "is_correct": true },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "टरफले आणि कचरा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "यंत्राने मळणी केल्याने काय फायदा होतो?",
+      "options": [
+        { "option_id": 1, "text": "खर्च वाढत नाही", "is_correct": false },
+        { "option_id": 2, "text": "कामे लवकर होतात", "is_correct": true },
+        { "option_id": 3, "text": "धान्य खराब होते", "is_correct": false },
+        { "option_id": 4, "text": "बैल थकत नाहीत", "is_correct": false }
+      ],
+      "answer": "कामे लवकर होतात"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "शेतकरी उरलेले धान्य कुठे नेतात?",
+      "options": [
+        { "option_id": 1, "text": "घरी", "is_correct": false },
+        { "option_id": 2, "text": "बाजारपेठेत", "is_correct": true },
+        { "option_id": 3, "text": "शाळेत", "is_correct": false },
+        { "option_id": 4, "text": "नदीवर", "is_correct": false }
+      ],
+      "answer": "बाजारपेठेत"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "व्यापारी घेतलेले धान्य देशभर कसे पोचवतात?",
+      "options": [
+        { "option_id": 1, "text": "विमानाने", "is_correct": false },
+        { "option_id": 2, "text": "ट्रकने किंवा मालगाडीने", "is_correct": true },
+        { "option_id": 3, "text": "बैलगाडीने", "is_correct": false },
+        { "option_id": 4, "text": "सायकलने", "is_correct": false }
+      ],
+      "answer": "ट्रकने किंवा मालगाडीने"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "शिंगाडे आणि मकाणे कोणत्या पाण्यात वाढणाऱ्या वनस्पतींपासून मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "खाऱ्या", "is_correct": false },
+        { "option_id": 2, "text": "गोड्या", "is_correct": true },
+        { "option_id": 3, "text": "गढूळ", "is_correct": false },
+        { "option_id": 4, "text": "गरम", "is_correct": false }
+      ],
+      "answer": "गोड्या"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "मासळी मिळवण्यासाठी कोण कष्ट करतात?",
+      "options": [
+        { "option_id": 1, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 2, "text": "कोळी", "is_correct": true },
+        { "option_id": 3, "text": "कुंभार", "is_correct": false },
+        { "option_id": 4, "text": "लोहार", "is_correct": false }
+      ],
+      "answer": "कोळी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "जंगलातून कोणती फळे मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "सफरचंद आणि द्राक्षे", "is_correct": false },
+        { "option_id": 2, "text": "करवंदे आणि जांभळे", "is_correct": true },
+        { "option_id": 3, "text": "केळी आणि पपई", "is_correct": false },
+        { "option_id": 4, "text": "नारळ आणि सुपारी", "is_correct": false }
+      ],
+      "answer": "करवंदे आणि जांभळे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "आपण अन्नाची नासाडी का करू नये?",
+      "options": [
+        { "option_id": 1, "text": "कारण अन्न स्वस्त असते", "is_correct": false },
+        { "option_id": 2, "text": "कारण आई रागावते", "is_correct": false },
+        { "option_id": 3, "text": "कारण त्यावर अनेकांचे कष्ट व खर्च झालेला असतो", "is_correct": true },
+        { "option_id": 4, "text": "कारण पोट भरते", "is_correct": false }
+      ],
+      "answer": "कारण त्यावर अनेकांचे कष्ट व खर्च झालेला असतो"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "मीठ कोठून मिळते?",
+      "options": [
+        { "option_id": 1, "text": "नदीतून", "is_correct": false },
+        { "option_id": 2, "text": "समुद्रातून", "is_correct": true },
+        { "option_id": 3, "text": "विहिरीतून", "is_correct": false },
+        { "option_id": 4, "text": "पावसातून", "is_correct": false }
+      ],
+      "answer": "समुद्रातून"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "अंडी आणि मांस मिळवण्यासाठी कोणता व्यवसाय करतात?",
+      "options": [
+        { "option_id": 1, "text": "शेती", "is_correct": false },
+        { "option_id": 2, "text": "कुक्कुटपालन किंवा पशुपालन", "is_correct": true },
+        { "option_id": 3, "text": "मासेमारी", "is_correct": false },
+        { "option_id": 4, "text": "बागकाम", "is_correct": false }
+      ],
+      "answer": "कुक्कुटपालन किंवा पशुपालन"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "बाजरीची पेरणी कोणत्या पावसानंतर करतात?",
+      "options": [
+        { "option_id": 1, "text": "वळवाचा पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "मृगाचा पाऊस", "is_correct": true },
+        { "option_id": 3, "text": "परतीचा पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "अवकाळी पाऊस", "is_correct": false }
+      ],
+      "answer": "मृगाचा पाऊस"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "बाजरीच्या रोपांना काय लागतात?",
+      "options": [
+        { "option_id": 1, "text": "शेंगा", "is_correct": false },
+        { "option_id": 2, "text": "फळे", "is_correct": false },
+        { "option_id": 3, "text": "कणसे", "is_correct": true },
+        { "option_id": 4, "text": "फुले", "is_correct": false }
+      ],
+      "answer": "कणसे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "गोफण कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "माती खणण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "पाखरांना पळवून लावण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "कणसे कापण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "पाणी देण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पाखरांना पळवून लावण्यासाठी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "धान्याच्या पोत्यांची वाहतूक करणारे कोण असतात?",
+      "options": [
+        { "option_id": 1, "text": "हमाल आणि ट्रक चालक", "is_correct": true },
+        { "option_id": 2, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 3, "text": "दुकानदार", "is_correct": false },
+        { "option_id": 4, "text": "ग्राहक", "is_correct": false }
+      ],
+      "answer": "हमाल आणि ट्रक चालक"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "दुकानदाराकडून आणलेल्या धान्याचे आपण काय करतो?",
+      "options": [
+        { "option_id": 1, "text": "तसेच खातो", "is_correct": false },
+        { "option_id": 2, "text": "निवडतो, स्वच्छ करतो आणि दळतो", "is_correct": true },
+        { "option_id": 3, "text": "फेकून देतो", "is_correct": false },
+        { "option_id": 4, "text": "पेरतो", "is_correct": false }
+      ],
+      "answer": "निवडतो, स्वच्छ करतो आणि दळतो"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "भाकरी करण्यासाठी पीठाचे काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "कापतात", "is_correct": false },
+        { "option_id": 2, "text": "मळतात आणि थापतात", "is_correct": true },
+        { "option_id": 3, "text": "उकळतात", "is_correct": false },
+        { "option_id": 4, "text": "तळतात", "is_correct": false }
+      ],
+      "answer": "मळतात आणि थापतात"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "अन्न तयार करण्यासाठी कशाचा खर्च येतो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ बियाण्यांचा", "is_correct": false },
+        { "option_id": 2, "text": "केवळ वाहतुकीचा", "is_correct": false },
+        { "option_id": 3, "text": "मजुरी, वाहतूक, इंधन अशा अनेक गोष्टींचा", "is_correct": true },
+        { "option_id": 4, "text": "खर्च येत नाही", "is_correct": false }
+      ],
+      "answer": "मजुरी, वाहतूक, इंधन अशा अनेक गोष्टींचा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "समुद्राच्या पाण्यापासून मीठ तयार होते, त्या ठिकाणाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शेती", "is_correct": false },
+        { "option_id": 2, "text": "मिठागरे", "is_correct": true },
+        { "option_id": 3, "text": "खाण", "is_correct": false },
+        { "option_id": 4, "text": "कारखाना", "is_correct": false }
+      ],
+      "answer": "मिठागरे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "आपल्या आहारात येणारे पदार्थ कोठून येतात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त दुकानातून", "is_correct": false },
+        { "option_id": 2, "text": "शेतमळे, तळी, समुद्र, जंगल, पशुपालनगृहे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त कारखान्यातून", "is_correct": false },
+        { "option_id": 4, "text": "आकाशातून", "is_correct": false }
+      ],
+      "answer": "शेतमळे, तळी, समुद्र, जंगल, पशुपालनगृहे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कष्टाने मिळवलेल्या अन्नाबद्दल आपण कसे असावे?",
+      "options": [
+        { "option_id": 1, "text": "बेफिकीर", "is_correct": false },
+        { "option_id": 2, "text": "कृतज्ञ", "is_correct": true },
+        { "option_id": 3, "text": "रागीट", "is_correct": false },
+        { "option_id": 4, "text": "उदासीन", "is_correct": false }
+      ],
+      "answer": "कृतज्ञ"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "ऊस कोठून मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "शेतातून", "is_correct": true },
+        { "option_id": 2, "text": "जंगलातून", "is_correct": false },
+        { "option_id": 3, "text": "समुद्रातून", "is_correct": false },
+        { "option_id": 4, "text": "खाणीतून", "is_correct": false }
+      ],
+      "answer": "शेतातून"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "bor (बोरे) कोठून मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "समुद्रातून", "is_correct": false },
+        { "option_id": 2, "text": "वनातून/जंगलातून", "is_correct": true },
+        { "option_id": 3, "text": "मिठागरातून", "is_correct": false },
+        { "option_id": 4, "text": "तळ्यातून", "is_correct": false }
+      ],
+      "answer": "वनातून/जंगलातून"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "भाजीपाला कोठून मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "मळ्यातून", "is_correct": true },
+        { "option_id": 2, "text": "समुद्रातून", "is_correct": false },
+        { "option_id": 3, "text": "खाणीतून", "is_correct": false },
+        { "option_id": 4, "text": "गोठ्यातून", "is_correct": false }
+      ],
+      "answer": "मळ्यातून"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "मळणी व उफणणी एकाच वेळी करणारे साधन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "बैलगाडी", "is_correct": false },
+        { "option_id": 2, "text": "यंत्र", "is_correct": true },
+        { "option_id": 3, "text": "गोफण", "is_correct": false },
+        { "option_id": 4, "text": "विळा", "is_correct": false }
+      ],
+      "answer": "यंत्र"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "धान्य साठवताना कशाची काळजी घ्यावी लागते?",
+      "options": [
+        { "option_id": 1, "text": "कीड, उंदीर व घुशींची", "is_correct": true },
+        { "option_id": 2, "text": "पाखरांची", "is_correct": false },
+        { "option_id": 3, "text": "मांजरांची", "is_correct": false },
+        { "option_id": 4, "text": "कुत्र्यांची", "is_correct": false }
+      ],
+      "answer": "कीड, उंदीर व घुशींची"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "यंत्र नसल्यास मळणीसाठी काय लागते?",
+      "options": [
+        { "option_id": 1, "text": "जास्त वेळ आणि कष्ट", "is_correct": true },
+        { "option_id": 2, "text": "कमी वेळ", "is_correct": false },
+        { "option_id": 3, "text": "कमी कष्ट", "is_correct": false },
+        { "option_id": 4, "text": "काहीच लागत नाही", "is_correct": false }
+      ],
+      "answer": "जास्त वेळ आणि कष्ट"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "बाजरीची कणसे लागण्यापूर्वी शेतात काय वाढतात?",
+      "options": [
+        { "option_id": 1, "text": "फळे", "is_correct": false },
+        { "option_id": 2, "text": "फुले", "is_correct": false },
+        { "option_id": 3, "text": "बाजरीची ताटे", "is_correct": true },
+        { "option_id": 4, "text": "काटे", "is_correct": false }
+      ],
+      "answer": "बाजरीची ताटे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "पावसाचे पाणी शेतात साचल्याने जमिनीचा काय होतो?",
+      "options": [
+        { "option_id": 1, "text": "वाफसा", "is_correct": true },
+        { "option_id": 2, "text": "दुष्काळ", "is_correct": false },
+        { "option_id": 3, "text": "पूर", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "वाफसा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "शेतकरी धान्य कोठे विकतात?",
+      "options": [
+        { "option_id": 1, "text": "घरी", "is_correct": false },
+        { "option_id": 2, "text": "बाजारपेठेत (मंडईत)", "is_correct": true },
+        { "option_id": 3, "text": "शेतात", "is_correct": false },
+        { "option_id": 4, "text": "रस्त्यावर", "is_correct": false }
+      ],
+      "answer": "बाजारपेठेत (मंडईत)"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "आपल्या ताटात अन्न येईपर्यंत कोणाकोणाचे कष्ट असतात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त आईचे", "is_correct": false },
+        { "option_id": 2, "text": "फक्त शेतकऱ्याचे", "is_correct": false },
+        { "option_id": 3, "text": "शेतकरी, मजूर, हमाल, व्यापारी, दुकानदार आणि घरातील माणसे", "is_correct": true },
+        { "option_id": 4, "text": "कोणाचेच नाही", "is_correct": false }
+      ],
+      "answer": "शेतकरी, मजूर, हमाल, व्यापारी, दुकानदार आणि घरातील माणसे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "मकाणे कोठून मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "गोड्या पाण्याच्या तळ्यातुन", "is_correct": true },
+        { "option_id": 2, "text": "समुद्रातून", "is_correct": false },
+        { "option_id": 3, "text": "शेतातून", "is_correct": false },
+        { "option_id": 4, "text": "जंगलातून", "is_correct": false }
+      ],
+      "answer": "गोड्या पाण्याच्या तळ्यातुन"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "जमिनीची मशागत करण्यासाठी कोणते अवजार वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "नांगर", "is_correct": true },
+        { "option_id": 2, "text": "विळा", "is_correct": false },
+        { "option_id": 3, "text": "कुऱ्हाड", "is_correct": false },
+        { "option_id": 4, "text": "करवत", "is_correct": false }
+      ],
+      "answer": "नांगर"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कष्टाने पिकवलेले अन्न वाया घालवणे कोणाला आवडत नाही?",
+      "options": [
+        { "option_id": 1, "text": "अर्जुनला", "is_correct": false },
+        { "option_id": 2, "text": "आईला", "is_correct": true },
+        { "option_id": 3, "text": "वर्षाला", "is_correct": false },
+        { "option_id": 4, "text": "पाखरांना", "is_correct": false }
+      ],
+      "answer": "आईला"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "मृगाचा पाऊस पडल्यावर जमिनीचे काय होते?",
+      "answer": "मृगाचा पाऊस पडल्यावर उन्हाळ्यात तापलेल्या जमिनीचा वाफसा होतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "बाबा शेतात मजुरांना कशासाठी लावतात?",
+      "answer": "शेतात वाढलेले तण काढून टाकण्यासाठी बाबा मजुरांना लावतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पाखरांच्या झुंडी शेतात का येतात?",
+      "answer": "कणसात दाणे भरू लागले की ते कोवळे दाणे खाण्यासाठी पाखरांच्या झुंडी येतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कापणी म्हणजे काय?",
+      "answer": "शेतात आलेली पिकाची सगळी कणसे कापून गोळा करणे, याला कापणी म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "मळणी म्हणजे काय?",
+      "answer": "कणसांपासून किंवा शेंगांपासून दाणे सुटे करण्याच्या कामाला मळणी म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "उफणणी म्हणजे काय?",
+      "answer": "धान्यापासून टरफले आणि हलका कचरा वाऱ्याच्या मदतीने वेगळा करण्याच्या प्रक्रियेला उफणणी म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "खळे म्हणजे काय?",
+      "answer": "शेतात मळणी करण्यासाठी तयार केलेल्या गोल जागेला खळे म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "मळणी करताना बैलाचा उपयोग कसा करतात?",
+      "answer": "बैलाला खळ्यातील खुंट्याला बांधून कणसांवरून गोल गोल फिरवतात, त्याच्या वजनाने दाणे सुटे होतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "यंत्राने मळणी व उफणणी करण्याचे फायदे काय?",
+      "answer": "यंत्राने मळणी व उफणणी केल्याने कामे लवकर होतात आणि कष्ट कमी लागतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "धान्य बाजारात पोचवण्यासाठी कोणती साधने वापरतात?",
+      "answer": "धान्य बाजारात पोचवण्यासाठी ट्रक किंवा मालगाडी वापरतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "अन्न का वाया घालवू नये?",
+      "answer": "अन्न तयार करण्यासाठी अनेक लोकांचे खूप कष्ट आणि खर्च झालेला असतो, म्हणून अन्न वाया घालवू नये."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "शिंगाडे आणि मकाणे कुठून मिळतात?",
+      "answer": "शिंगाडे आणि मकाणे गोड्या पाण्यात वाढणाऱ्या विशिष्ट वनस्पतींपासून मिळतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मासळी कोण मिळवतात?",
+      "answer": "कोळी लोक समुद्रातून किंवा पाण्यातून कष्ट करून मासळी मिळवतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "जंगलातून कोणती फळे गोळा केली जातात?",
+      "answer": "जंगलातून आवळा, जांभळे, करवंदे, बोरे अशी फळे गोळा केली जातात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "शेतीच्या मशागतीची कामे कोणती?",
+      "answer": "शेत नांगरणे, मातीची ढेकळे फोडणे, जमीन सपाट करणे ही मशागतीची कामे आहेत."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "गोफण कशासाठी फिरवतात?",
+      "answer": "पिकाचे नुकसान करणाऱ्या पाखरांना पळवून लावण्यासाठी गोफण फिरवतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "धान्याच्या पोत्यांची वाहतूक करताना कोण कष्ट करतात?",
+      "answer": "ट्रक चालक आणि पोती पाठीवर वाहणारे हमाल कष्ट करतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "आपण विकत घेतलेल्या धान्याचे काय करतो?",
+      "answer": "आपण ते निवडतो, स्वच्छ करतो आणि गिरणीतून त्याचे पीठ करून आणतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "भाकरी भाजण्यासाठी कशाची गरज असते?",
+      "answer": "भाकरी भाजण्यासाठी उष्णतेची म्हणजेच इंधनाची गरज असते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "मीठ कोठे तयार होते?",
+      "answer": "मीठ समुद्राच्या पाण्यापासून मिठागरांमध्ये तयार होते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "अन्नाच्या बाबतीत आपण कोणाविषयी कृतज्ञ असावे?",
+      "answer": "अन्नाच्या उत्पादनात आणि वाहतुकीत कष्ट करणाऱ्या सर्व लोकांविषयी आपण कृतज्ञ असावे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "टरफले आणि दाणे वेगळे करण्याची प्रक्रिया कोणती?",
+      "answer": "उफणणी ही टरफले आणि दाणे वेगळे करण्याची प्रक्रिया आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "टरफले वाऱ्याने उडून का जातात?",
+      "answer": "टरफले वजनाने हलकी असतात, म्हणून ती वाऱ्याने उडून दूर जातात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "दाणे सुपात किंवा खालीच का पडतात?",
+      "answer": "दाणे जड असतात, म्हणून ते वाऱ्याने न उडता खाली पडतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "शेतात तण काढले नाही तर काय होईल?",
+      "answer": "शेतात तण काढले नाही तर मुख्य पिकाची वाढ नीट होणार नाही."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "बाबा शेतात पेरणी कधी करतात?",
+      "answer": "मृगाचा पाऊस पडून जमिनीत वाफसा झाल्यावर बाबा पेरणी करतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कणसे कापल्यानंतर काय करतात?",
+      "answer": "कणसे कापल्यानंतर मळणी आणि उफणणी करतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "धान्याची नासाडी कोणामुळे होऊ शकते?",
+      "answer": "धान्याची नासाडी कीड, मुंग्या, उंदीर आणि घुशींमुळे होऊ शकते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "ट्रॅक्टरचा उपयोग कशासाठी होतो?",
+      "answer": "ट्रॅक्टरचा उपयोग शेतीच्या मशागतीची कामे (नांगरणी इ.) करण्यासाठी होतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पाखरे पिकाचे नुकसान कसे करतात?",
+      "answer": "पाखरे कणसांतील कोवळे दाणे खाऊन पिकाचे नुकसान करतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "बाजरीची भाकरी बनवण्याच्या पायऱ्या सांगा.",
+      "answer": "धान्य दळणे, पीठ मळणे, भाकरी थापणे आणि भाजणे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "अन्न तयार होण्यासाठी कोणाकोणाचे श्रम लागतात?",
+      "answer": "शेतकरी, शेतमजूर, हमाल, वाहनचालक, व्यापारी, दुकानदार आणि घरातील व्यक्तींचे श्रम लागतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "फळबागा कोणाच्या असतात?",
+      "answer": "काही लोकांच्या स्वतःच्या फळांच्या बागा असतात, जिथे ते फळे पिकवतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "भाजीपाला पिकवणारे लोक कोठे काम करतात?",
+      "answer": "भाजीपाला पिकवणारे लोक भाजीपाल्याच्या मळ्यांमध्ये काम करतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात शेतकरी काय करतात?",
+      "answer": "उन्हाळ्यात शेतकरी शेतीच्या मशागतीची कामे करतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "शेतकऱ्याला पैसे कधी मिळतात?",
+      "answer": "जेव्हा व्यापारी शेतकऱ्याकडून धान्य विकत घेतात, तेव्हा शेतकऱ्याला पैसे मिळतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "गोड्या पाण्यातील दोन खाद्यपदार्थ सांगा.",
+      "answer": "शिंगाडे आणि मकाणे हे गोड्या पाण्यातील दोन खाद्यपदार्थ आहेत."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "मळणीसाठी यंत्राचा वापर का वाढला आहे?",
+      "answer": "यंत्रामुळे कामे जलद होतात आणि वेळ वाचतो, म्हणून वापर वाढला आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "वर्षा आणि अर्जुनला काय आवडते?",
+      "answer": "वर्षा आणि अर्जुनला बाजरीची गरम भाकरी आणि लोणी आवडते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "खळ्याच्या मध्यभागी काय असते?",
+      "answer": "खळ्याच्या मध्यभागी एक लाकडी खुंटा असतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "कणसे कोठे रचून ठेवतात?",
+      "answer": "कणसे खळ्यात बैलाच्या पायाखाली येतील अशी रचून ठेवतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "उफणणीसाठी कशाची मदत होते?",
+      "answer": "उफणणीसाठी वाऱ्याची मदत होते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "धान्य घरात आणल्यावर काय करतात?",
+      "answer": "धान्य घरात आणल्यावर ते स्वच्छ करून, कीड लागणार नाही अशा सुरक्षित जागी साठवतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "मृगाचा पाऊस कधी पडतो?",
+      "answer": "मृगाचा पाऊस साधारणपणे जून महिन्यात पावसाळ्याच्या सुरुवातीला पडतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "बाजरीचे पीक कशावर वाढते?",
+      "answer": "बाजरीचे पीक पावसाच्या पाण्यावर जोमाने वाढते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "धान्याच्या राशी कशा तयार होतात?",
+      "answer": "मळणी आणि उफणणी केल्यानंतर धान्याच्या राशी तयार होतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "सागरातून आपल्याला काय मिळते?",
+      "answer": "सागरातून आपल्याला मीठ आणि मासळी मिळते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कोंबड्या पाळण्याच्या व्यवसायाला काय म्हणतात?",
+      "answer": "कोंबड्या पाळण्याच्या व्यवसायाला कुक्कुटपालन म्हणतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "अन्नाची नासाडी होऊ नये म्हणून काय करावे?",
+      "answer": "ताटात हवे तेवढेच अन्न घ्यावे आणि अन्न वाया घालवू नये."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "अन्न मोलाचे का आहे?",
+      "answer": "अन्न तयार होण्यासाठी निसर्गाची मदत आणि अनेक माणसांचे अपार कष्ट लागतात, म्हणून अन्न मोलाचे आहे."
+    }
+  ]
+}

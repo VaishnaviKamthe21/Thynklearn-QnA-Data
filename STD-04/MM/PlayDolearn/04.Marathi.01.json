@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.KheluKaruShiku.01",
+    "standard": "4",
+    "subject": "खेळू, करू, शिकू (आरोग्य)",
+    "medium": "Marathi",
+    "chapter_name": "आरोग्य"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "सकाळी उठल्यावर सर्वप्रथम काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "टीव्ही पहावा", "is_correct": false },
+        { "option_id": 2, "text": "प्रातर्विधी करावे", "is_correct": true },
+        { "option_id": 3, "text": "जेवण करावे", "is_correct": false },
+        { "option_id": 4, "text": "खेळायला जावे", "is_correct": false }
+      ],
+      "answer": "प्रातर्विधी करावे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "जेवणानंतर काय करणे आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "लगेच झोपणे", "is_correct": false },
+        { "option_id": 2, "text": "दात स्वच्छ करणे/चुळ भरून तोंड धुणे", "is_correct": true },
+        { "option_id": 3, "text": "धावणे", "is_correct": false },
+        { "option_id": 4, "text": "अभ्यास करणे", "is_correct": false }
+      ],
+      "answer": "दात स्वच्छ करणे/चुळ भरून तोंड धुणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "नखे कोणाच्या मदतीने कापावीत?",
+      "options": [
+        { "option_id": 1, "text": "स्वतः", "is_correct": false },
+        { "option_id": 2, "text": "मित्राच्या", "is_correct": false },
+        { "option_id": 3, "text": "मोठ्यांच्या", "is_correct": true },
+        { "option_id": 4, "text": "लहान भावाच्या", "is_correct": false }
+      ],
+      "answer": "मोठ्यांच्या"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ओला कचरा कोणत्या रंगाच्या पेटीत टाकावा?",
+      "options": [
+        { "option_id": 1, "text": "हिरव्या", "is_correct": false },
+        { "option_id": 2, "text": "निळ्या", "is_correct": true },
+        { "option_id": 3, "text": "लाल", "is_correct": false },
+        { "option_id": 4, "text": "काळ्या", "is_correct": false }
+      ],
+      "answer": "निळ्या"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सुका कचरा कोणत्या रंगाच्या पेटीत टाकावा?",
+      "options": [
+        { "option_id": 1, "text": "निळ्या", "is_correct": false },
+        { "option_id": 2, "text": "पिवळ्या", "is_correct": false },
+        { "option_id": 3, "text": "हिरव्या", "is_correct": true },
+        { "option_id": 4, "text": "पांढऱ्या", "is_correct": false }
+      ],
+      "answer": "हिरव्या"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "आहारात कशाचे अतिसेवन टाळावे?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याचे", "is_correct": false },
+        { "option_id": 2, "text": "मिठाचे", "is_correct": true },
+        { "option_id": 3, "text": "फळभाज्यांचे", "is_correct": false },
+        { "option_id": 4, "text": "पालेभाज्यांचे", "is_correct": false }
+      ],
+      "answer": "मिठाचे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कोणते अन्न खावे?",
+      "options": [
+        { "option_id": 1, "text": "शिळे", "is_correct": false },
+        { "option_id": 2, "text": "उघड्यावरील", "is_correct": false },
+        { "option_id": 3, "text": "ताजे", "is_correct": true },
+        { "option_id": 4, "text": "पाकीटबंद", "is_correct": false }
+      ],
+      "answer": "ताजे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "दररोज किती तास झोप घेतल्यास शरीर ताजेतवाने होते?",
+      "options": [
+        { "option_id": 1, "text": "दोन ते तीन", "is_correct": false },
+        { "option_id": 2, "text": "चार ते पाच", "is_correct": false },
+        { "option_id": 3, "text": "सात ते आठ", "is_correct": true },
+        { "option_id": 4, "text": "दहा ते बारा", "is_correct": false }
+      ],
+      "answer": "सात ते आठ"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मलमूत्र विसर्जनाचा आवेग रोखून धरल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "ताकद वाढते", "is_correct": false },
+        { "option_id": 2, "text": "संसर्गजन्य आजार होतात/त्रास होतो", "is_correct": true },
+        { "option_id": 3, "text": "भूक लागते", "is_correct": false },
+        { "option_id": 4, "text": "झोप येते", "is_correct": false }
+      ],
+      "answer": "संसर्गजन्य आजार होतात/त्रास होतो"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मलमूत्र विसर्जनानंतर हात पाय कशाने धुवावेत?",
+      "options": [
+        { "option_id": 1, "text": "फक्त पाण्याने", "is_correct": false },
+        { "option_id": 2, "text": "मातीने", "is_correct": false },
+        { "option_id": 3, "text": "साबणाने", "is_correct": true },
+        { "option_id": 4, "text": "राखेने", "is_correct": false }
+      ],
+      "answer": "साबणाने"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ज्या सवयी आरोग्यावर दुष्परिणाम करतात त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "चांगल्या सवयी", "is_correct": false },
+        { "option_id": 2, "text": "वाईट सवयी", "is_correct": true },
+        { "option_id": 3, "text": "नियमित सवयी", "is_correct": false },
+        { "option_id": 4, "text": "आवश्यक सवयी", "is_correct": false }
+      ],
+      "answer": "वाईट सवयी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी चांगली सवय कोणती?",
+      "options": [
+        { "option_id": 1, "text": "नेहमी पाकीटबंद अन्न खाणे", "is_correct": false },
+        { "option_id": 2, "text": "दिवसभर मोबाईल खेळणे", "is_correct": false },
+        { "option_id": 3, "text": "मैदानी खेळ खेळणे", "is_correct": true },
+        { "option_id": 4, "text": "खूप वेळ टीव्ही पाहणे", "is_correct": false }
+      ],
+      "answer": "मैदानी खेळ खेळणे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शरीराचे तापमान वाढल्यामुळे शरीर गरम होणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "थंडी वाजणे", "is_correct": false },
+        { "option_id": 2, "text": "ताप येणे", "is_correct": true },
+        { "option_id": 3, "text": "खोकला येणे", "is_correct": false },
+        { "option_id": 4, "text": "चक्कर येणे", "is_correct": false }
+      ],
+      "answer": "ताप येणे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "साध्या तापामध्ये कपाळावर कशाच्या पट्ट्या ठेवाव्यात?",
+      "options": [
+        { "option_id": 1, "text": "गरम पाण्याच्या", "is_correct": false },
+        { "option_id": 2, "text": "थंड पाण्याच्या", "is_correct": true },
+        { "option_id": 3, "text": "हळदीच्या", "is_correct": false },
+        { "option_id": 4, "text": "मिठाच्या", "is_correct": false }
+      ],
+      "answer": "थंड पाण्याच्या"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सर्दी खोकला झाल्यास इतरांशी संपर्क टाळण्यासाठी काय वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "चष्मा", "is_correct": false },
+        { "option_id": 2, "text": "टोपी", "is_correct": false },
+        { "option_id": 3, "text": "मास्क", "is_correct": true },
+        { "option_id": 4, "text": "हातमोजे", "is_correct": false }
+      ],
+      "answer": "मास्क"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "खेळता खेळता पडल्यामुळे आघात होऊन स्नायूंना काय बसतो?",
+      "options": [
+        { "option_id": 1, "text": "मुका मार", "is_correct": true },
+        { "option_id": 2, "text": "मोळा", "is_correct": false },
+        { "option_id": 3, "text": "काटा", "is_correct": false },
+        { "option_id": 4, "text": "ताप", "is_correct": false }
+      ],
+      "answer": "मुका मार"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "डॉक्टरांची मदत मिळण्यापूर्वी केलेल्या उपचारांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शस्त्रक्रिया", "is_correct": false },
+        { "option_id": 2, "text": "प्रथमोपचार", "is_correct": true },
+        { "option_id": 3, "text": "तपासणी", "is_correct": false },
+        { "option_id": 4, "text": "औषधोपचार", "is_correct": false }
+      ],
+      "answer": "प्रथमोपचार"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "खरचटल्यावर त्या जागी काय लावावे?",
+      "options": [
+        { "option_id": 1, "text": "माती", "is_correct": false },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "जंतुनाशक औषध व मलम", "is_correct": true },
+        { "option_id": 4, "text": "साबण", "is_correct": false }
+      ],
+      "answer": "जंतुनाशक औषध व मलम"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "रक्तस्राव होत असल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "धावत सुटावे", "is_correct": false },
+        { "option_id": 2, "text": "त्यावर हाताने दाब देऊन रक्तस्राव थांबवावा", "is_correct": true },
+        { "option_id": 3, "text": "जोरजोरात रडावे", "is_correct": false },
+        { "option_id": 4, "text": "काहीच करू नये", "is_correct": false }
+      ],
+      "answer": "त्यावर हाताने दाब देऊन रक्तस्राव थांबवावा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "शरीरातील हाड तुटणे याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मुरगळणे", "is_correct": false },
+        { "option_id": 2, "text": "अस्थिभंग", "is_correct": true },
+        { "option_id": 3, "text": "खरचटणे", "is_correct": false },
+        { "option_id": 4, "text": "भाजणे", "is_correct": false }
+      ],
+      "answer": "अस्थिभंग"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "भाजलेल्या अवयवावर ताबडतोब काय टाकावे?",
+      "options": [
+        { "option_id": 1, "text": "गरम पाणी", "is_correct": false },
+        { "option_id": 2, "text": "तेल", "is_correct": false },
+        { "option_id": 3, "text": "थंड पाणी (सावकाश)", "is_correct": true },
+        { "option_id": 4, "text": "हळद", "is_correct": false }
+      ],
+      "answer": "थंड पाणी (सावकाश)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "उन्हाळ्यात कोणत्या प्रकारचे कपडे वापरावेत?",
+      "options": [
+        { "option_id": 1, "text": "लोकरीचे", "is_correct": false },
+        { "option_id": 2, "text": "सुती आणि हलक्या रंगाचे", "is_correct": true },
+        { "option_id": 3, "text": "रेशमी", "is_correct": false },
+        { "option_id": 4, "text": "नायलॉनचे", "is_correct": false }
+      ],
+      "answer": "सुती आणि हलक्या रंगाचे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "हिवाळ्यात कोणते कपडे वापरले जातात?",
+      "options": [
+        { "option_id": 1, "text": "सुती", "is_correct": false },
+        { "option_id": 2, "text": "लोकरीचे (उबदार)", "is_correct": true },
+        { "option_id": 3, "text": "पावसाळी", "is_correct": false },
+        { "option_id": 4, "text": "जाळीदार", "is_correct": false }
+      ],
+      "answer": "लोकरीचे (उबदार)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पावसाळ्यात संरक्षणासाठी काय वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "स्वेटर", "is_correct": false },
+        { "option_id": 2, "text": "मफलर", "is_correct": false },
+        { "option_id": 3, "text": "रेनकोट", "is_correct": true },
+        { "option_id": 4, "text": "कानटोपी", "is_correct": false }
+      ],
+      "answer": "रेनकोट"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "शाळेत जाताना विद्यार्थी कोणता विशिष्ट पोशाख घालतात?",
+      "options": [
+        { "option_id": 1, "text": "पार्टी वेअर", "is_correct": false },
+        { "option_id": 2, "text": "रात्रीचे कपडे", "is_correct": false },
+        { "option_id": 3, "text": "गणवेश", "is_correct": true },
+        { "option_id": 4, "text": "खेळाचे कपडे", "is_correct": false }
+      ],
+      "answer": "गणवेश"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "अस्थिभंग झालेल्या अवयवाचा आधार देण्यासाठी कशाचा वापर करावा?",
+      "options": [
+        { "option_id": 1, "text": "दोरीचा", "is_correct": false },
+        { "option_id": 2, "text": "पट्टीचा", "is_correct": true },
+        { "option_id": 3, "text": "पाण्याचा", "is_correct": false },
+        { "option_id": 4, "text": "कागदाचा", "is_correct": false }
+      ],
+      "answer": "पट्टीचा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "रक्तस्राव थांबल्यावर जखमेवर काय बांधावे?",
+      "options": [
+        { "option_id": 1, "text": "रंगीत कागद", "is_correct": false },
+        { "option_id": 2, "text": "घट्ट पट्टी", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 4, "text": "धागा", "is_correct": false }
+      ],
+      "answer": "घट्ट पट्टी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "मुका मार लागलेल्या अवयवाची हालचाल कशी असावी?",
+      "options": [
+        { "option_id": 1, "text": "जास्तीत जास्त", "is_correct": false },
+        { "option_id": 2, "text": "कमीत कमी", "is_correct": true },
+        { "option_id": 3, "text": "वेगाने", "is_correct": false },
+        { "option_id": 4, "text": "सतत", "is_correct": false }
+      ],
+      "answer": "कमीत कमी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कोणता कचरा हिरव्या पेटीत टाकावा?",
+      "options": [
+        { "option_id": 1, "text": "ओला कचरा", "is_correct": false },
+        { "option_id": 2, "text": "काच", "is_correct": false },
+        { "option_id": 3, "text": "सुका कचरा", "is_correct": true },
+        { "option_id": 4, "text": "धातू", "is_correct": false }
+      ],
+      "answer": "सुका कचरा"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पाणी कसे वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "भरपूर वाया घालवून", "is_correct": false },
+        { "option_id": 2, "text": "जपून", "is_correct": true },
+        { "option_id": 3, "text": "कसेही", "is_correct": false },
+        { "option_id": 4, "text": "फेकून", "is_correct": false }
+      ],
+      "answer": "जपून"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणती गोष्ट रोज करावी?",
+      "options": [
+        { "option_id": 1, "text": "वडा पाव खाणे", "is_correct": false },
+        { "option_id": 2, "text": "सूर्यनमस्कार घालणे", "is_correct": true },
+        { "option_id": 3, "text": "शीतपेये पिणे", "is_correct": false },
+        { "option_id": 4, "text": "मोबाईल गेम खेळणे", "is_correct": false }
+      ],
+      "answer": "सूर्यनमस्कार घालणे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "अंघोळ करताना काय स्वच्छ करावे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त हात", "is_correct": false },
+        { "option_id": 2, "text": "फक्त पाय", "is_correct": false },
+        { "option_id": 3, "text": "सर्व अवयव", "is_correct": true },
+        { "option_id": 4, "text": "फक्त चेहरा", "is_correct": false }
+      ],
+      "answer": "सर्व अवयव"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "जेवणापूर्वी हात धुणे योग्य की अयोग्य?",
+      "options": [
+        { "option_id": 1, "text": "योग्य", "is_correct": true },
+        { "option_id": 2, "text": "अयोग्य", "is_correct": false },
+        { "option_id": 3, "text": "गरज नाही", "is_correct": false },
+        { "option_id": 4, "text": "माहित नाही", "is_correct": false }
+      ],
+      "answer": "योग्य"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक ठिकाणी कचरा टाकणे योग्य आहे का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी चालेल", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कोणत्या ठिकाणी थुंकू नये?",
+      "options": [
+        { "option_id": 1, "text": "बेसमध्ये", "is_correct": false },
+        { "option_id": 2, "text": "कोणत्याही ठिकाणी (सार्वजनिक)", "is_correct": true },
+        { "option_id": 3, "text": "गटारात", "is_correct": false },
+        { "option_id": 4, "text": "घरात", "is_correct": false }
+      ],
+      "answer": "कोणत्याही ठिकाणी (सार्वजनिक)"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "आहारात कशाचा समावेश असावा?",
+      "options": [
+        { "option_id": 1, "text": "केवळ गोड पदार्थांचा", "is_correct": false },
+        { "option_id": 2, "text": "फळभाज्या, पालेभाज्या, कडधान्ये", "is_correct": true },
+        { "option_id": 3, "text": "केवळ मांसाहाराचा", "is_correct": false },
+        { "option_id": 4, "text": "केवळ तळलेल्या पदार्थांचा", "is_correct": false }
+      ],
+      "answer": "फळभाज्या, पालेभाज्या, कडधान्ये"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "रस्त्याच्या कडेला मलमूत्र विसर्जन केल्याने काय पसरतात?",
+      "options": [
+        { "option_id": 1, "text": "सुगंध", "is_correct": false },
+        { "option_id": 2, "text": "संसर्गजन्य आजार", "is_correct": true },
+        { "option_id": 3, "text": "फुले", "is_correct": false },
+        { "option_id": 4, "text": "आनंद", "is_correct": false }
+      ],
+      "answer": "संसर्गजन्य आजार"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "आपल्याला असलेल्या चांगल्या सवयींची काय करावी?",
+      "options": [
+        { "option_id": 1, "text": "नोंद", "is_correct": true },
+        { "option_id": 2, "text": "तक्रार", "is_correct": false },
+        { "option_id": 3, "text": "दुर्लक्ष", "is_correct": false },
+        { "option_id": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "नोंद"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "संगणकाचा वापर कशासाठी करावा?",
+      "options": [
+        { "option_id": 1, "text": "केवळ खेळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "अभ्यासासाठी", "is_correct": true },
+        { "option_id": 3, "text": "वेळ घालवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "गाणी ऐकण्यासाठी", "is_correct": false }
+      ],
+      "answer": "अभ्यासासाठी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "सर्दी खोकला असल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "इतरांच्या जवळ जावे", "is_correct": false },
+        { "option_id": 2, "text": "शिंकावे", "is_correct": false },
+        { "option_id": 3, "text": "मास्क वापरावा व डॉक्टरांचा सल्ला घ्यावा", "is_correct": true },
+        { "option_id": 4, "text": "काहीच करू नये", "is_correct": false }
+      ],
+      "answer": "मास्क वापरावा व डॉक्टरांचा सल्ला घ्यावा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "प्रथमोपचार पेटीत काय असावे?",
+      "options": [
+        { "option_id": 1, "text": "खेळणी", "is_correct": false },
+        { "option_id": 2, "text": "खाऊ", "is_correct": false },
+        { "option_id": 3, "text": "प्रथमोपचाराचे साहित्य (औषध, मलम, पट्टी)", "is_correct": true },
+        { "option_id": 4, "text": "पुस्तके", "is_correct": false }
+      ],
+      "answer": "प्रथमोपचाराचे साहित्य (औषध, मलम, पट्टी)"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "हिवाळ्यात कानटोपी व मफलर का वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "पावसापासून वाचण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "उन्हापासून वाचण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "थंडीपासून संरक्षणासाठी", "is_correct": true },
+        { "option_id": 4, "text": "छान दिसण्यासाठी", "is_correct": false }
+      ],
+      "answer": "थंडीपासून संरक्षणासाठी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "उघड्यावरील पदार्थ खाणे योग्य आहे का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी चालेल", "is_correct": false },
+        { "option_id": 4, "text": "नेहमी खावे", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "स्वच्छतागृहाचा वापर केल्यानंतर काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "तसेच सोडावे", "is_correct": false },
+        { "option_id": 2, "text": "आवश्यकतेनुसार पाणी वापरून स्वच्छता करावी", "is_correct": true },
+        { "option_id": 3, "text": "दार उघडे ठेवावे", "is_correct": false },
+        { "option_id": 4, "text": "कचरा टाकावा", "is_correct": false }
+      ],
+      "answer": "आवश्यकतेनुसार पाणी वापरून स्वच्छता करावी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कोणती सवय चांगली आहे?",
+      "options": [
+        { "option_id": 1, "text": "दिवसभर टीव्ही पाहणे", "is_correct": false },
+        { "option_id": 2, "text": "विविध फळे आवडीने खाणे", "is_correct": true },
+        { "option_id": 3, "text": "बाहेरचे पदार्थ खाणे", "is_correct": false },
+        { "option_id": 4, "text": "उशिरा उठणे", "is_correct": false }
+      ],
+      "answer": "विविध फळे आवडीने खाणे"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "अंगदुखी म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "शरीराचे तापमान वाढणे", "is_correct": false },
+        { "option_id": 2, "text": "शरीराच्या विविध ठिकाणी वेदना जाणवणे", "is_correct": true },
+        { "option_id": 3, "text": "नाक वाहणे", "is_correct": false },
+        { "option_id": 4, "text": "हाड तुटणे", "is_correct": false }
+      ],
+      "answer": "शरीराच्या विविध ठिकाणी वेदना जाणवणे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "खेळाडूंना खेळांनुसार काय परिधान करावे लागतात?",
+      "options": [
+        { "option_id": 1, "text": "घरगुती कपडे", "is_correct": false },
+        { "option_id": 2, "text": "शाळेचा गणवेश", "is_correct": false },
+        { "option_id": 3, "text": "विविध प्रकारचे पोशाख", "is_correct": true },
+        { "option_id": 4, "text": "रेनकोट", "is_correct": false }
+      ],
+      "answer": "विविध प्रकारचे पोशाख"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "पावसाळ्यात कोणते पादत्राण वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "सँडल", "is_correct": false },
+        { "option_id": 2, "text": "गमबूट", "is_correct": true },
+        { "option_id": 3, "text": "मोजे", "is_correct": false },
+        { "option_id": 4, "text": "बूट", "is_correct": false }
+      ],
+      "answer": "गमबूट"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "प्रथमोपचार पेटी तयार करण्यासाठी काय वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "कागदी पिशवी", "is_correct": false },
+        { "option_id": 2, "text": "रिकामे खोके", "is_correct": true },
+        { "option_id": 3, "text": "बाटली", "is_correct": false },
+        { "option_id": 4, "text": "बादली", "is_correct": false }
+      ],
+      "answer": "रिकामे खोके"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "शरीराच्या अवयवांची स्वच्छता का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "चांगले दिसण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "आरोग्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "आरोग्यासाठी"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सकाळी उठण्याची योग्य वेळ कोणती?",
+      "answer": "सकाळी पहाटे लवकर उठावे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "दात कधी कधी घासणे आवश्यक आहे?",
+      "answer": "सकाळी उठल्यावर आणि रात्री झोपण्यापूर्वी दात घासणे आवश्यक आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "अंघोळ करताना काय काळजी घ्यावी?",
+      "answer": "अंघोळ करताना शरीराचे सर्व अवयव स्वच्छ धुवावेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "केसांची काळजी कशी घ्यावी?",
+      "answer": "केसांना तेल लावून नीट विंचरावे आणि भांग पाडावा."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "ओला कचरा कोणत्या पेटीत टाकावा?",
+      "answer": "ओला कचरा निळ्या पेटीत टाकावा."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "सुका कचरा कोणत्या पेटीत टाकावा?",
+      "answer": "सुका कचरा हिरव्या पेटीत टाकावा."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "घर आणि परिसर कसा ठेवावा?",
+      "answer": "घर आणि परिसर नेहमी स्वच्छ ठेवावा."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "जेवणापूर्वी काय करणे आवश्यक आहे?",
+      "answer": "जेवणापूर्वी हात साबणाने स्वच्छ धुणे आवश्यक आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "आहारात कोणत्या गोष्टींचा समावेश असावा?",
+      "answer": "आहारात फळभाज्या, पालेभाज्या, कडधान्ये, तृणधान्ये आणि तेलबियांचा समावेश असावा."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पाणी किती प्यावे?",
+      "answer": "दिवसभरात भरपूर पाणी प्यावे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "विश्रांती का घ्यावी?",
+      "answer": "शारीरिक कामे केल्यानंतर थकलेल्या शरीराला ताजेतवाने करण्यासाठी विश्रांतीची गरज असते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "दररोज किती झोप आवश्यक आहे?",
+      "answer": "दररोज सात ते आठ तास झोप आवश्यक आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मलमूत्र विसर्जन कोठे करू नये?",
+      "answer": "रस्त्याच्या कडेला, मैदानावर किंवा मोकळ्या ठिकाणी मलमूत्र विसर्जन करू नये."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "स्वच्छतागृहाचा वापर केल्यानंतर काय करावे?",
+      "answer": "स्वच्छतागृहाचा वापर केल्यानंतर आवश्यकतेनुसार पाणी वापरून स्वच्छता करावी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "वाईट सवयी म्हणजे काय?",
+      "answer": "ज्या सवयी आरोग्यावर दुष्परिणाम करतात त्यांना वाईट सवयी म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "दोन चांगल्या सवयी सांगा.",
+      "answer": "नियमित व्यायाम करणे आणि घरी तयार केलेले अन्नपदार्थ खाणे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "ताप आल्यावर घरगुती उपाय काय करावा?",
+      "answer": "कपाळावर थंड पाण्याच्या पट्ट्या ठेवाव्यात किंवा साध्या पाण्याने अंग पुसावे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "सर्दी-खोकला झाल्यास कोणती काळजी घ्यावी?",
+      "answer": "इतरांशी संपर्क टाळावा, मास्क वापरावा आणि डॉक्टरांचा सल्ला घ्यावा."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "मुका मार लागल्यास काय करावे?",
+      "answer": "त्या अवयवाची कमीत कमी हालचाल करावी आणि पालकांना किंवा शिक्षकांना सांगावे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "प्रथमोपचार म्हणजे काय?",
+      "answer": "डॉक्टरांची मदत मिळण्यापूर्वी जखमी व्यक्तीवर केले जाणारे तात्पुरते उपचार म्हणजे प्रथमोपचार."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "खरचटल्यावर काय करावे?",
+      "answer": "जखम स्वच्छ धुवून पुसावी आणि जंतुनाशक औषध व मलम लावावे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "रक्तस्राव थांबवण्यासाठी काय करावे?",
+      "answer": "रक्तस्राव होणाऱ्या जागी हाताने दाब द्यावा."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "अस्थिभंग झाल्यास काय काळजी घ्यावी?",
+      "answer": "त्या अवयवाची हालचाल होऊ देऊ नये, पट्टीचा आधार द्यावा आणि डॉक्टरांकडे न्यावे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "भाजल्यावर त्वरित काय करावे?",
+      "answer": "भाजलेल्या भागावर ताबडतोब थंड पाणी सावकाश टाकावे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात कोणते कपडे वापरावेत?",
+      "answer": "उन्हाळ्यात सुती आणि हलक्या रंगाचे कपडे वापरावेत."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात उबदार राहण्यासाठी काय वापरतात?",
+      "answer": "हिवाळ्यात स्वेटर, जर्कीन, मफलर, कानटोपी असे लोकरीचे कपडे वापरतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पावसाळ्यात कोणते कपडे वापरतात?",
+      "answer": "पावसाळ्यात रेनकोट, टोप्या आणि गमबूट वापरतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पोशाख म्हणजे काय?",
+      "answer": "प्रसंगांनुसार किंवा ऋतुमानानुसार जे वेगवेगळे कपडे घातले जातात त्यांना पोशाख म्हणतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "दिनचर्या म्हणजे काय?",
+      "answer": "सकाळी उठल्यापासून रात्री झोपेपर्यंत आपण जी कामे क्रमाने करतो त्याला दिनचर्या म्हणतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "डोळे, नाक आणि जीभ यांची स्वच्छता का गरजेची आहे?",
+      "answer": "त्यामुळे संसर्गजन्य आजार टाळता येतात आणि आरोग्य चांगले राहते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "वाईट सवयींचा आरोग्यावर काय परिणाम होतो?",
+      "answer": "वाईट सवयींमुळे आरोग्यावर दुष्परिणाम होतात आणि आजार होऊ शकतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "नियमित व्यायाम केल्याने काय फायदा होतो?",
+      "answer": "शरीर तंदुरुस्त राहते आणि उत्साह वाढतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "शाळेत जाताना कोणता पोशाख घालतात?",
+      "answer": "शाळेत जाताना शाळेचा गणवेश घालतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "प्रथमोपचार पेटीत कोणकोणते साहित्य असावे?",
+      "answer": "जंतुनाशक औषध, मलम, कापूस, पट्टी इत्यादी साहित्य असावे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "अंगदुखी म्हणजे काय?",
+      "answer": "डोके, पाठ, पोट, कंबर इत्यादी ठिकाणी वेदना जाणवणे म्हणजे अंगदुखी."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "ताप म्हणजे काय?",
+      "answer": "शरीराचे तापमान वाढल्यामुळे शरीर गरम होणे म्हणजे ताप येणे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "कोणत्या ऋतूत टोपी आणि पंचा वापरतात?",
+      "answer": "उन्हाळ्यात उन्हापासून संरक्षणासाठी टोपी आणि पंचा वापरतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "भाजल्यावर कोणते मलम लावावे?",
+      "answer": "भाजल्यावर लावले जाणारे विशेष मलम (उदा. बर्नॉल) लावावे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "रक्तस्राव थांबल्यानंतर जखमेवर काय करावे?",
+      "answer": "जखम स्वच्छ करून जंतुनाशक औषध लावून घट्ट पट्टी बांधावी."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "आपल्या नखांची काळजी कशी घ्यावी?",
+      "answer": "नखे नियमितपणे मोठ्यांच्या मदतीने कापावीत आणि त्यातील मळ काढावा."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "आपल्या आहारात पाण्याचे महत्त्व काय?",
+      "answer": "शरीराचे कार्य सुरळीत चालण्यासाठी भरपूर पाणी पिणे आवश्यक आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "वाईट सवयींना कसा प्रतिबंध करावा?",
+      "answer": "वाईट सवयी ओळखून त्या सोडून द्याव्यात आणि चांगल्या सवयी अंगीकाराव्यात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "मैदानी खेळांचे महत्त्व काय?",
+      "answer": "मैदानी खेळांमुळे शरीराचा व्यायाम होतो आणि आरोग्य सुधारते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक स्वच्छता कशी राखावी?",
+      "answer": "सार्वजनिक ठिकाणी कचरा टाकू नये आणि थुंकू नये."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "पाकीटबंद अन्नाऐवजी काय खावे?",
+      "answer": "पाकीटबंद अन्नाऐवजी घरी बनवलेले ताजे अन्न आणि फळे खावीत."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "संगणकाचा वापर कसा करावा?",
+      "answer": "संगणकाचा वापर प्रामुख्याने अभ्यासासाठी आणि माहिती मिळवण्यासाठी करावा."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "कोणत्या सवयी टाळाव्यात?",
+      "answer": "मोबाईलवर गेम खेळणे, जास्त वेळ टीव्ही पाहणे, बाहेरचे उघड्यावरचे अन्न खाणे अशा सवयी टाळाव्यात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "प्रथमोपचारानंतर काय करणे गरजेचे आहे?",
+      "answer": "प्रथमोपचारानंतर रुग्णाला लवकरात लवकर डॉक्टरकडे नेणे गरजेचे आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कपडे कसे असावेत?",
+      "answer": "कपडे स्वच्छ, नीटनेटके आणि ऋतुमानानुसार असावेत."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "स्वच्छतागृह वापरताना पाण्याची काळजी कशी घ्यावी?",
+      "answer": "स्वच्छतागृह वापरताना आवश्यकतेनुसारच पाणी वापरावे, पाणी वाया घालवू नये."
+    }
+  ]
+}

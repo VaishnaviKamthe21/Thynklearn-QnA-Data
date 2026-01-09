@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.12",
+    "standard": "4",
+    "subject": "Parisar Abhyas Bhag 1",
+    "medium": "Marathi",
+    "chapter_name": "छोटे आजार, घरगुती उपचार"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "सखूचा घसा का दुखू लागला होता?",
+      "options": [
+        { "option_id": 1, "text": "तिने थंडगार आईस्क्रीम खाल्ले होते", "is_correct": true },
+        { "option_id": 2, "text": "तिने खूप गाणी गायली होती", "is_correct": false },
+        { "option_id": 3, "text": "तिला सर्दी झाली होती", "is_correct": false },
+        { "option_id": 4, "text": "तिने आंबट खाल्ले होते", "is_correct": false }
+      ],
+      "answer": "तिने थंडगार आईस्क्रीम खाल्ले होते"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सखूच्या आईने तिला घसा बरा होण्यासाठी काय करायला सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "गोळ्या घ्यायला", "is_correct": false },
+        { "option_id": 2, "text": "इंजेक्शन घ्यायला", "is_correct": false },
+        { "option_id": 3, "text": "मिठाच्या गरम पाण्याने गुळण्या करायला", "is_correct": true },
+        { "option_id": 4, "text": "झोपायला", "is_correct": false }
+      ],
+      "answer": "मिठाच्या गरम पाण्याने गुळण्या करायला"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सखूचा आजार किती दिवसांत बरा झाला?",
+      "options": [
+        { "option_id": 1, "text": "पाच दिवसांत", "is_correct": false },
+        { "option_id": 2, "text": "दोन दिवसांत", "is_correct": true },
+        { "option_id": 3, "text": "एका महिन्यात", "is_correct": false },
+        { "option_id": 4, "text": "तीन आठवड्यांत", "is_correct": false }
+      ],
+      "answer": "दोन दिवसांत"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सखूच्या ताईला कोणता आजार झाला होता?",
+      "options": [
+        { "option_id": 1, "text": "सर्दी", "is_correct": false },
+        { "option_id": 2, "text": "ताप", "is_correct": false },
+        { "option_id": 3, "text": "कावीळ", "is_correct": true },
+        { "option_id": 4, "text": "खोक्ला", "is_correct": false }
+      ],
+      "answer": "कावीळ"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "काविळीमध्ये डोळे कसे दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "लाल", "is_correct": false },
+        { "option_id": 2, "text": "पांढरे", "is_correct": false },
+        { "option_id": 3, "text": "पिवळसर", "is_correct": true },
+        { "option_id": 4, "text": "निळे", "is_correct": false }
+      ],
+      "answer": "पिवळसर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "डॉक्टरांनी ताईला किती काळ पूर्ण विश्रांती घ्यायला सांगितली?",
+      "options": [
+        { "option_id": 1, "text": "दोन दिवस", "is_correct": false },
+        { "option_id": 2, "text": "एक आठवडा", "is_correct": false },
+        { "option_id": 3, "text": "तीन आठवडे", "is_correct": true },
+        { "option_id": 4, "text": "एक महिना", "is_correct": false }
+      ],
+      "answer": "तीन आठवडे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "श्रीपतीला काय चावले होते?",
+      "options": [
+        { "option_id": 1, "text": "कुत्रा", "is_correct": false },
+        { "option_id": 2, "text": "विंचू", "is_correct": false },
+        { "option_id": 3, "text": "साप", "is_correct": true },
+        { "option_id": 4, "text": "उंदीर", "is_correct": false }
+      ],
+      "answer": "साप"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "श्रीपतीला लोकांनी कोठे नेले?",
+      "options": [
+        { "option_id": 1, "text": "दवाखान्यात", "is_correct": false },
+        { "option_id": 2, "text": "घरी", "is_correct": false },
+        { "option_id": 3, "text": "देवळात (मांत्रिकाकडे)", "is_correct": true },
+        { "option_id": 4, "text": "शाळेत", "is_correct": false }
+      ],
+      "answer": "देवळात (मांत्रिकाकडे)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "साप चावल्यावर ताराने श्रीपतीला कुठे नेण्याचा आग्रह केला?",
+      "options": [
+        { "option_id": 1, "text": "मांत्रिकाकडे", "is_correct": false },
+        { "option_id": 2, "text": "सरकारी इस्पितळात", "is_correct": true },
+        { "option_id": 3, "text": "घरी", "is_correct": false },
+        { "option_id": 4, "text": "शहरात", "is_correct": false }
+      ],
+      "answer": "सरकारी इस्पितळात"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मांत्रिकाने श्रीपतीला कशावर झोपवले?",
+      "options": [
+        { "option_id": 1, "text": "गादीवर", "is_correct": false },
+        { "option_id": 2, "text": "सतरंजीवर", "is_correct": false },
+        { "option_id": 3, "text": "लिंबाच्या पाल्यावर", "is_correct": true },
+        { "option_id": 4, "text": "जमिनीवर", "is_correct": false }
+      ],
+      "answer": "लिंबाच्या पाल्यावर"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सापाचे विष मंत्राने उतरते का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "श्रीपतीला बरे का वाटले?",
+      "options": [
+        { "option_id": 1, "text": "मंत्राचा प्रभाव पडला म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "साप बिनविषारी होता म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "औषध घेतल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "लिंबाच्या पाल्यामुळे", "is_correct": false }
+      ],
+      "answer": "साप बिनविषारी होता म्हणून"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सर्दी झाली असल्यास कोणता घरगुती उपाय करतात?",
+      "options": [
+        { "option_id": 1, "text": "थंड पाणी पिणे", "is_correct": false },
+        { "option_id": 2, "text": "गरम पाण्याचा वाफारा घेणे", "is_correct": true },
+        { "option_id": 3, "text": "उन्हात बसणे", "is_correct": false },
+        { "option_id": 4, "text": "आंघोळ करणे", "is_correct": false }
+      ],
+      "answer": "गरम पाण्याचा वाफारा घेणे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "उलट्या होत असतील तर काय प्यायला देतात?",
+      "options": [
+        { "option_id": 1, "text": "दूध", "is_correct": false },
+        { "option_id": 2, "text": "चहा", "is_correct": false },
+        { "option_id": 3, "text": "लिंबाचे थंडगार सरबत", "is_correct": true },
+        { "option_id": 4, "text": "कॉफी", "is_correct": false }
+      ],
+      "answer": "लिंबाचे थंडगार सरबत"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "जखम झाल्यास ती कशाने धुवावी?",
+      "options": [
+        { "option_id": 1, "text": "स्वच्छ पाण्याने", "is_correct": true },
+        { "option_id": 2, "text": "तेलाने", "is_correct": false },
+        { "option_id": 3, "text": "मातीने", "is_correct": false },
+        { "option_id": 4, "text": "रक्ताने", "is_correct": false }
+      ],
+      "answer": "स्वच्छ पाण्याने"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "जखमेवर कोणते औषध लावले जाते?",
+      "options": [
+        { "option_id": 1, "text": "बाम", "is_correct": false },
+        { "option_id": 2, "text": "टिंक्चर आयोडीन", "is_correct": true },
+        { "option_id": 3, "text": "तेल", "is_correct": false },
+        { "option_id": 4, "text": "हळद", "is_correct": false }
+      ],
+      "answer": "टिंक्चर आयोडीन"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "घरगुती उपचार किती दिवसांत लागू पडले नाहीत तर डॉक्टरांकडे जावे?",
+      "options": [
+        { "option_id": 1, "text": "एका दिवसात", "is_correct": false },
+        { "option_id": 2, "text": "दोन दिवसांत", "is_correct": true },
+        { "option_id": 3, "text": "एका आठवड्यात", "is_correct": false },
+        { "option_id": 4, "text": "दहा दिवसांत", "is_correct": false }
+      ],
+      "answer": "दोन दिवसांत"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पोटात घ्यायचे औषध कोणाच्या सल्ल्याशिवाय घेऊ नये?",
+      "options": [
+        { "option_id": 1, "text": "आईच्या", "is_correct": false },
+        { "option_id": 2, "text": "मित्राच्या", "is_correct": false },
+        { "option_id": 3, "text": "डॉक्टरांच्या", "is_correct": true },
+        { "option_id": 4, "text": "शेजाऱ्यांच्या", "is_correct": false }
+      ],
+      "answer": "डॉक्टरांच्या"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "समाजाच्या आरोग्याची काळजी घेणाऱ्या सेवेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पोलीस सेवा", "is_correct": false },
+        { "option_id": 2, "text": "आरोग्यसेवा (वैद्यकीय सेवा)", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षण सेवा", "is_correct": false },
+        { "option_id": 4, "text": "टपाल सेवा", "is_correct": false }
+      ],
+      "answer": "आरोग्यसेवा (वैद्यकीय सेवा)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ग्रामीण भागात शासकीय वैद्यकीय सेवा कुठे मिळते?",
+      "options": [
+        { "option_id": 1, "text": "प्राथमिक आरोग्यकेंद्रात", "is_correct": true },
+        { "option_id": 2, "text": "शाळेत", "is_correct": false },
+        { "option_id": 3, "text": "ग्रामपंचायतीत", "is_correct": false },
+        { "option_id": 4, "text": "बँकेत", "is_correct": false }
+      ],
+      "answer": "प्राथमिक आरोग्यकेंद्रात"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "सरकारी इस्पितळात उपचार कसे मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "खूप महाग", "is_correct": false },
+        { "option_id": 2, "text": "सवलतीच्या दरात", "is_correct": true },
+        { "option_id": 3, "text": "मोफत", "is_correct": false },
+        { "option_id": 4, "text": "मिळत नाहीत", "is_correct": false }
+      ],
+      "answer": "सवलतीच्या दरात"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "मोठ्या शहरांत वैद्यकीय उपचार देणारी रुग्णालये कोण चालवते?",
+      "options": [
+        { "option_id": 1, "text": "खाजगी कंपन्या", "is_correct": false },
+        { "option_id": 2, "text": "नगरपालिका", "is_correct": true },
+        { "option_id": 3, "text": "शाळा", "is_correct": false },
+        { "option_id": 4, "text": "गावकऱ्यांची समिती", "is_correct": false }
+      ],
+      "answer": "नगरपालिका"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "काविळीच्या रुग्णाने कोणते पदार्थ टाळावेत?",
+      "options": [
+        { "option_id": 1, "text": "फळे", "is_correct": false },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "तेल, तूप, लोणी", "is_correct": true },
+        { "option_id": 4, "text": "भाकरी", "is_correct": false }
+      ],
+      "answer": "तेल, तूप, लोणी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सखूच्या ताईला जेवण का नकोसे झाले होते?",
+      "options": [
+        { "option_id": 1, "text": "तिला भूक नव्हती", "is_correct": false },
+        { "option_id": 2, "text": "तिला कावीळ झाली होती", "is_correct": true },
+        { "option_id": 3, "text": "जेवण चांगले नव्हते", "is_correct": false },
+        { "option_id": 4, "text": "तिला बाहेर जायचे होते", "is_correct": false }
+      ],
+      "answer": "तिला कावीळ झाली होती"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "श्रीपतीला साप चावल्यावर तो का ओरडला?",
+      "options": [
+        { "option_id": 1, "text": "आनंदाने", "is_correct": false },
+        { "option_id": 2, "text": "घाबरल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "रागाने", "is_correct": false },
+        { "option_id": 4, "text": "मस्तीमध्ये", "is_correct": false }
+      ],
+      "answer": "घाबरल्यामुळे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "सर्दी झाल्यावर काय शेकतात?",
+      "options": [
+        { "option_id": 1, "text": "पाय", "is_correct": false },
+        { "option_id": 2, "text": "हात", "is_correct": false },
+        { "option_id": 3, "text": "छाती", "is_correct": true },
+        { "option_id": 4, "text": "डोके", "is_correct": false }
+      ],
+      "answer": "छाती"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "उलट्या झाल्यानंतर दुसऱ्या दिवशी काय खायला द्यावे?",
+      "options": [
+        { "option_id": 1, "text": "पुरणपोळी", "is_correct": false },
+        { "option_id": 2, "text": "दहीभात", "is_correct": true },
+        { "option_id": 3, "text": "वडापाव", "is_correct": false },
+        { "option_id": 4, "text": "मिसळ", "is_correct": false }
+      ],
+      "answer": "दहीभात"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "छोटे आजार कशाने बरे होऊ शकतात?",
+      "options": [
+        { "option_id": 1, "text": "मंत्रांनी", "is_correct": false },
+        { "option_id": 2, "text": "घरगुती उपचारांनी", "is_correct": true },
+        { "option_id": 3, "text": "जादूटोण्याने", "is_correct": false },
+        { "option_id": 4, "text": "अंगारे-धुपारे यांनी", "is_correct": false }
+      ],
+      "answer": "घरगुती उपचारांनी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "श्रीपतीला साप चावल्यानंतर मांत्रिकाने काय केले?",
+      "options": [
+        { "option_id": 1, "text": "इंजेक्शन दिले", "is_correct": false },
+        { "option_id": 2, "text": "विष उतरवण्याचा मंत्र म्हटला", "is_correct": true },
+        { "option_id": 3, "text": "औषध दिले", "is_correct": false },
+        { "option_id": 4, "text": "दवाखान्यात नेले", "is_correct": false }
+      ],
+      "answer": "विष उतरवण्याचा मंत्र म्हटला"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "आजाराकडे काय करू नये?",
+      "options": [
+        { "option_id": 1, "text": "लक्ष देऊ नये", "is_correct": false },
+        { "option_id": 2, "text": "दुर्लक्ष करू नये", "is_correct": true },
+        { "option_id": 3, "text": "घाबरू नये", "is_correct": false },
+        { "option_id": 4, "text": "उपचार करू नये", "is_correct": false }
+      ],
+      "answer": "दुर्लक्ष करू नये"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "सापाच्या विषावर उतारा असणारे इंजेक्शन कोठे मिळते?",
+      "options": [
+        { "option_id": 1, "text": "दुकानात", "is_correct": false },
+        { "option_id": 2, "text": "मांत्रिकाकडे", "is_correct": false },
+        { "option_id": 3, "text": "सरकारी इस्पितळात", "is_correct": true },
+        { "option_id": 4, "text": "बाजारात", "is_correct": false }
+      ],
+      "answer": "सरकारी इस्पितळात"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "घरगुती उपचार कोणी सुचवले?",
+      "options": [
+        { "option_id": 1, "text": "लहान मुलांनी", "is_correct": false },
+        { "option_id": 2, "text": "घरातील अनुभवी, वडीलधाऱ्या लोकांनी", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षकांनी", "is_correct": false },
+        { "option_id": 4, "text": "शेजाऱ्यांनी", "is_correct": false }
+      ],
+      "answer": "घरातील अनुभवी, वडीलधाऱ्या लोकांनी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "ताप उतरल्याची खूण कोणती?",
+      "options": [
+        { "option_id": 1, "text": "अंगाला दरदरून घाम येणे", "is_correct": true },
+        { "option_id": 2, "text": "थंडी वाजणे", "is_correct": false },
+        { "option_id": 3, "text": "भूक लागणे", "is_correct": false },
+        { "option_id": 4, "text": "झोप येणे", "is_correct": false }
+      ],
+      "answer": "अंगाला दरदरून घाम येणे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "बाम कशासाठी वापरला जातो?",
+      "options": [
+        { "option_id": 1, "text": "ताप आल्यावर", "is_correct": false },
+        { "option_id": 2, "text": "सर्दी किंवा डोकेदुखीवर", "is_correct": true },
+        { "option_id": 3, "text": "पोटदुखीवर", "is_correct": false },
+        { "option_id": 4, "text": "जखमेवर", "is_correct": false }
+      ],
+      "answer": "सर्दी किंवा डोकेदुखीवर"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "अडुळशाच्या पानांचा अर्क कशासाठी उपयोगी पडतो?",
+      "options": [
+        { "option_id": 1, "text": "ताप", "is_correct": false },
+        { "option_id": 2, "text": "खोकला", "is_correct": true },
+        { "option_id": 3, "text": "पोटदुखी", "is_correct": false },
+        { "option_id": 4, "text": "डोकेदुखी", "is_correct": false }
+      ],
+      "answer": "खोकला"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता आजार लवकर बरा होणारा आहे?",
+      "options": [
+        { "option_id": 1, "text": "कावीळ", "is_correct": false },
+        { "option_id": 2, "text": "सर्दी", "is_correct": true },
+        { "option_id": 3, "text": "विषमज्वर (टायफॉइड)", "is_correct": false },
+        { "option_id": 4, "text": "हिवताप", "is_correct": false }
+      ],
+      "answer": "सर्दी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता आजार लवकर बरा न होणारा आहे?",
+      "options": [
+        { "option_id": 1, "text": "खरचटणे", "is_correct": false },
+        { "option_id": 2, "text": "पोटाला तड लागणे", "is_correct": false },
+        { "option_id": 3, "text": "विषमज्वर (टायफॉइड)", "is_correct": true },
+        { "option_id": 4, "text": "गरम तव्याचा चटका", "is_correct": false }
+      ],
+      "answer": "विषमज्वर (टायफॉइड)"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "प्रकृती चांगली असते तेव्हा काय होते?",
+      "options": [
+        { "option_id": 1, "text": "वेळच्या वेळी भूक लागते", "is_correct": true },
+        { "option_id": 2, "text": "थकवा वाटतो", "is_correct": false },
+        { "option_id": 3, "text": "जेवण नकोसे होते", "is_correct": false },
+        { "option_id": 4, "text": "झोप येत नाही", "is_correct": false }
+      ],
+      "answer": "वेळच्या वेळी भूक लागते"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "घरगुती उपचारांना काय असते?",
+      "options": [
+        { "option_id": 1, "text": "काहीच नाही", "is_correct": false },
+        { "option_id": 2, "text": "मर्यादा", "is_correct": true },
+        { "option_id": 3, "text": "नियम", "is_correct": false },
+        { "option_id": 4, "text": "कायदा", "is_correct": false }
+      ],
+      "answer": "मर्यादा"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "आजारी माणसाला काय देऊ नये?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "औषध", "is_correct": false },
+        { "option_id": 3, "text": "तळलेले पदार्थ", "is_correct": true },
+        { "option_id": 4, "text": "फळे", "is_correct": false }
+      ],
+      "answer": "तळलेले पदार्थ"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "मंत्र-तंत्राने आजार बरे होतात का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "मोठ्या आजारांवर", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "श्रीपतीला लोकांनी कशात घालून नेले?",
+      "options": [
+        { "option_id": 1, "text": "रिक्षात", "is_correct": false },
+        { "option_id": 2, "text": "बैलगाडीत", "is_correct": true },
+        { "option_id": 3, "text": "मोटारीत", "is_correct": false },
+        { "option_id": 4, "text": "विमानात", "is_correct": false }
+      ],
+      "answer": "बैलगाडीत"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "ताराच्या मते श्रीपतीला कुठे न्यायला हवे होते?",
+      "options": [
+        { "option_id": 1, "text": "मांत्रिकाकडे", "is_correct": false },
+        { "option_id": 2, "text": "तालुक्याच्या गावी (दवाखान्यात)", "is_correct": true },
+        { "option_id": 3, "text": "घरी", "is_correct": false },
+        { "option_id": 4, "text": "शाळेत", "is_correct": false }
+      ],
+      "answer": "तालुक्याच्या गावी (दवाखान्यात)"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "अंगारे-धुपारे यांनी आजार बरे होतात का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "फक्त ताप", "is_correct": false },
+        { "option_id": 4, "text": "फक्त सर्दी", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "जखमेवर काय बांधून ठेवावे?",
+      "options": [
+        { "option_id": 1, "text": "स्वच्छ कापूस", "is_correct": true },
+        { "option_id": 2, "text": "कागद", "is_correct": false },
+        { "option_id": 3, "text": "पाने", "is_correct": false },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "स्वच्छ कापूस"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "उलट्या होत असल्यास जेवण्याचा आग्रह करावा का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "थोडासा", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कावीळ झाल्यावर ताईचे डोळे कसे दिसत होते?",
+      "options": [
+        { "option_id": 1, "text": "लालसर", "is_correct": false },
+        { "option_id": 2, "text": "पिवळसर", "is_correct": true },
+        { "option_id": 3, "text": "निळसर", "is_correct": false },
+        { "option_id": 4, "text": "काळे", "is_correct": false }
+      ],
+      "answer": "पिवळसर"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "श्रीपतीला बरे वाटले, त्याचे श्रेय कोणाला मिळाले?",
+      "options": [
+        { "option_id": 1, "text": "डॉक्टरांना", "is_correct": false },
+        { "option_id": 2, "text": "मांत्रिकाला", "is_correct": true },
+        { "option_id": 3, "text": "ताराला", "is_correct": false },
+        { "option_id": 4, "text": "गावकऱ्यांना", "is_correct": false }
+      ],
+      "answer": "मांत्रिकाला"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "चिकुनगुनिया हा आजार कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "लवकर बरा होणारा", "is_correct": false },
+        { "option_id": 2, "text": "लवकर बरा न होणारा", "is_correct": true },
+        { "option_id": 3, "text": "घरगुती उपचाराने बरा होणारा", "is_correct": false },
+        { "option_id": 4, "text": "खूप साधा", "is_correct": false }
+      ],
+      "answer": "लवकर बरा न होणारा"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कशाने आजार बरे होत नाहीत?",
+      "options": [
+        { "option_id": 1, "text": "औषधाने", "is_correct": false },
+        { "option_id": 2, "text": "विश्रांतीने", "is_correct": false },
+        { "option_id": 3, "text": "गंडे-दोरे यांनी", "is_correct": true },
+        { "option_id": 4, "text": "डॉक्टरांच्या सल्ल्याने", "is_correct": false }
+      ],
+      "answer": "गंडे-दोरे यांनी"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सखूचा घसा का दुखू लागला?",
+      "answer": "सखूने थंडगार आईस्क्रीम खाल्ले होते, त्यामुळे तिचा घसा दुखू लागला."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "घसा दुखीवर आईने सखूला कोणता घरगुती उपाय सांगितला?",
+      "answer": "आईने सखूला मिठाच्या गरम पाण्याने गुळण्या करायला सांगितल्या."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कावीळ झाल्यावर ताईला काय लक्षणे दिसत होती?",
+      "answer": "ताईला ताप येऊ लागला, तिचे डोळे पिवळसर दिसत होते आणि तिला अन्न नकोसे झाले होते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कावीळ झाल्यावर डॉक्टरांनी ताईला कोणता सल्ला दिला?",
+      "answer": "डॉक्टरांनी ताईला तीन आठवडे पूर्ण विश्रांती घेण्यास आणि तेलकट पदार्थ न खाण्याचा सल्ला दिला."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "श्रीपतीला साप चावल्यावर लोकांनी काय केले?",
+      "answer": "लोकांनी श्रीपतीला बैलगाडीत घालून गावातल्या देवळात मांत्रिकाकडे नेले."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "साप चावल्यावर मांत्रिकाने काय केले?",
+      "answer": "मांत्रिकाने श्रीपतीला लिंबाच्या पाल्यावर झोपवले आणि विष उतरवण्याचा मंत्र म्हणू लागला."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "श्रीपतीला बरे का वाटले?",
+      "answer": "श्रीपतीला चावलेला साप बिनविषारी होता, म्हणून त्याला आपोआप बरे वाटले."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "घरगुती उपचार म्हणजे काय?",
+      "answer": "चटकन बरे होणाऱ्या छोट्या आजारांवर घरीच केले जाणारे साधे उपाय म्हणजे घरगुती उपचार."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "सर्दी झाली असल्यास कोणता घरगुती उपाय करतात?",
+      "answer": "सर्दी झाल्यास गरम पाण्याचा वाफारा घेतात किंवा छाती शेकतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "उलट्या होत असल्यास काय द्यावे?",
+      "answer": "उलट्या होत असल्यास लिंबाचे थंडगार सरबत द्यावे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "छोटी जखम झाल्यास काय करावे?",
+      "answer": "जखम स्वच्छ पाण्याने धुवून कोरडी करावी आणि त्यावर टिंक्चर आयोडीन लावून स्वच्छ कापूस ठेवावा."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "घरगुती उपचारांना काय असते?",
+      "answer": "घरगुती उपचारांना मर्यादा असतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "डॉक्टरांचा सल्ला कधी घ्यावा?",
+      "answer": "दोन दिवसांत बरे वाटले नाही आणि आजार बळावला तर डॉक्टरांचा सल्ला घ्यावा."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "आरोग्यसेवा म्हणजे काय?",
+      "answer": "समाजाच्या आरोग्याची काळजी घेणाऱ्या आणि आजारी लोकांवर उपचार करणाऱ्या सेवेला आरोग्यसेवा म्हणतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सरकारी इस्पितळात उपचार कसे मिळतात?",
+      "answer": "सरकारी इस्पितळात आजारी व्यक्तींना सवलतीच्या दरात उपचार मिळतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "मंत्रांनी सापाचे विष उतरते का?",
+      "answer": "नाही, मंत्रांनी सापाचे विष उतरत नाही."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "प्रकृती चांगली असल्याची लक्षणे कोणती?",
+      "answer": "वेळेवर भूक लागणे, शांत झोप लागणे आणि सकाळी ताजेतवाने वाटणे ही प्रकृती चांगली असल्याची लक्षणे आहेत."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "ताराने श्रीपतीला कोठे नेण्याचा आग्रह केला?",
+      "answer": "ताराने श्रीपतीला तालुक्याच्या गावी दवाखान्यात नेण्याचा आग्रह केला."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "आजारी माणसाला कोणते पदार्थ खायला देऊ नयेत?",
+      "answer": "आजारी माणसाला तेलकट, तळलेले पदार्थ खायला देऊ नयेत."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "अडुळशाच्या पानांचा अर्क कशासाठी वापरतात?",
+      "answer": "अडुळशाच्या पानांचा अर्क खोकल्यासाठी वापरतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "बाम कशासाठी वापरतात?",
+      "answer": "बाम सर्दी आणि डोकेदुखीवर वापरतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "ताप उतरल्याची खूण कोणती?",
+      "answer": "अंगाला दरदरून घाम येणे ही ताप उतरल्याची खूण आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "लवकर बरे होणारे दोन आजार सांगा.",
+      "answer": "सर्दी आणि खरचटणे हे लवकर बरे होणारे आजार आहेत."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "लवकर बरे न होणारे दोन आजार सांगा.",
+      "answer": "कावीळ आणि विषमज्वर (टायफॉइड) हे लवकर बरे न होणारे आजार आहेत."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "पोटात घ्यायचे औषध कधी घ्यावे?",
+      "answer": "पोटात घ्यायचे औषध फक्त डॉक्टरांच्या सल्ल्यानेच घ्यावे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "गंडे-दोरे आणि ताईत यांचा आजारावर काय परिणाम होतो?",
+      "answer": "गंडे-दोरे आणि ताईत यांनी आजार बरे होत नाहीत."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "श्रीपतीला साप चावल्यावर तो का घाबरला?",
+      "answer": "साप चावल्यामुळे श्रीपती खूप घाबरला आणि त्याने आरडाओरडा केला."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "गावातील लोकांनी श्रीपतीला मांत्रिकाकडे का नेले?",
+      "answer": "गावातील लोकांचा मंत्र-तंत्रावर विश्वास होता, म्हणून त्यांनी त्याला मांत्रिकाकडे नेले."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "काविळीच्या रुग्णाने किती दिवस विश्रांती घ्यावी?",
+      "answer": "काविळीच्या रुग्णाने साधारणपणे तीन आठवडे पूर्ण विश्रांती घ्यावी."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "उलट्या झाल्यानंतर दुसऱ्या दिवशी काय खावे?",
+      "answer": "उलट्या झाल्यानंतर दुसऱ्या दिवशी पचायला हलका असा दहीभात खावा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "टिंक्चर आयोडीन कशावर लावतात?",
+      "answer": "टिंक्चर आयोडीन जखमेवर लावतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "शहरात नगरपालिका कोणती सेवा पुरवते?",
+      "answer": "शहरात नगरपालिका वैद्यकीय उपचारांची सेवा (रुग्णालये) पुरवते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कोणते आजार घरगुती उपायांनी बरे होतात?",
+      "answer": "छोटे आणि चटकन बरे होणारे आजार घरगुती उपायांनी बरे होतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "आजाराकडे दुर्लक्ष का करू नये?",
+      "answer": "कारण आजार बळावू शकतो आणि आरोग्याला धोका निर्माण होऊ शकतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "सरकारी रुग्णालयांना काय म्हणतात?",
+      "answer": "सरकारी रुग्णालयांना शासकीय रुग्णालये असेही म्हणतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "सखूची ताई कशामुळे आजारी पडली?",
+      "answer": "सखूच्या ताईला कावीळ झाल्यामुळे ती आजारी पडली."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "साप चावल्यावर योग्य उपाय कोणता?",
+      "answer": "साप चावल्यावर ताबडतोब दवाखान्यात जाऊन सापाच्या विषावर उतारा असणारे इंजेक्शन घेणे हा योग्य उपाय आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "घरगुती उपचार कोणाकडून समजतात?",
+      "answer": "घरगुती उपचार घरातील अनुभवी आणि वडीलधाऱ्या लोकांकडून समजतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "हिवताप (मलेरिया) लवकर बरा होणारा आजार आहे का?",
+      "answer": "नाही, हिवताप लवकर बरा होणारा आजार नाही, त्यासाठी डॉक्टरांचे उपचार घ्यावे लागतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पाय मुरगळणे हा छोटा आजार आहे की मोठा?",
+      "answer": "पाय मुरगळणे हा तसा छोटा आजार आहे, पण जास्त त्रास झाल्यास डॉक्टरांना दाखवावे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "विषमज्वर (टायफॉइड) साठी किती दिवस उपचार घ्यावे लागतात?",
+      "answer": "विषमज्वरासाठी काही आठवडे डॉक्टरांचे उपचार आणि विश्रांती घ्यावी लागते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "गरम तव्याचा चटका बसल्यास काय करावे?",
+      "answer": "गरम तव्याचा चटका बसल्यास जखम स्वच्छ धुवून त्यावर औषध लावावे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "ताराच्या मते इंजेक्शन कुठे मिळाले असते?",
+      "answer": "ताराच्या मते इंजेक्शन तालुक्याच्या सरकारी इस्पितळात मिळाले असते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "श्रीपतीला बरे वाटण्याचे श्रेय कोणाला मिळाले?",
+      "answer": "श्रीपतीला बरे वाटण्याचे श्रेय मांत्रिकाला मिळाले (जरी ते चुकीचे होते)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "आरोग्यसेवा कोठे उपलब्ध असते?",
+      "answer": "आरोग्यसेवा मोठमोठ्या गावांत, शहरांत आणि प्राथमिक आरोग्यकेंद्रात उपलब्ध असते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "रुग्ण म्हणजे काय?",
+      "answer": "जो व्यक्ती आजारी आहे आणि उपचार घेत आहे, त्याला रुग्ण म्हणतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "सखूने आईस्क्रीम खाल्ल्याने काय झाले?",
+      "answer": "सखूने आईस्क्रीम खाल्ल्याने तिचा घसा दुखू लागला."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "अपचनामुळे काय होऊ शकते?",
+      "answer": "अपचनामुळे सतत उलट्या होऊ शकतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "घसा दुखीवर गरम पाण्याच्या गुळण्या का करतात?",
+      "answer": "गरम पाण्यामुळे घशाला शेक मिळतो आणि सूज कमी होण्यास मदत होते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "मंत्र-तंत्रावर विश्वास ठेवावा का?",
+      "answer": "नाही, मंत्र-तंत्रावर विश्वास ठेवू नये, कारण त्याने आजार बरे होत नाहीत."
+    }
+  ]
+}

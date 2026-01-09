@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.05",
+    "standard": "4",
+    "subject": "Parisar Abhyas Bhag 1",
+    "medium": "Marathi",
+    "chapter_name": "घरोघरी पाणी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आपल्याला पाण्याची गरज कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त सकाळी", "is_correct": false },
+        { "option_id": 2, "text": "फक्त रात्री", "is_correct": false },
+        { "option_id": 3, "text": "सतत", "is_correct": true },
+        { "option_id": 4, "text": "कधीतरी", "is_correct": false }
+      ],
+      "answer": "सतत"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पाणी घरात का साठवून ठेवावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी शिळे होते म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "गरजेनुसार पाणी घेता यावे म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "पाणी वाया घालवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "पाणी खराब करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "गरजेनुसार पाणी घेता यावे म्हणून"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पूर्वीच्या काळी पाणी साठवण्यासाठी कोणत्या धातूंची भांडी वापरत असत?",
+      "options": [
+        { "option_id": 1, "text": "स्टील आणि प्लास्टिक", "is_correct": false },
+        { "option_id": 2, "text": "पितळ आणि तांबे", "is_correct": true },
+        { "option_id": 3, "text": "सोने आणि चांदी", "is_correct": false },
+        { "option_id": 4, "text": "लोखंड आणि अॅल्युमिनियम", "is_correct": false }
+      ],
+      "answer": "पितळ आणि तांबे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सध्या पाणी साठवण्यासाठी कोणत्या भांड्यांचा वापर वाढला आहे?",
+      "options": [
+        { "option_id": 1, "text": "मातीची मडकी", "is_correct": false },
+        { "option_id": 2, "text": "स्टील व प्लास्टिक", "is_correct": true },
+        { "option_id": 3, "text": "तांब्याची भांडी", "is_correct": false },
+        { "option_id": 4, "text": "पितळी भांडी", "is_correct": false }
+      ],
+      "answer": "स्टील व प्लास्टिक"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पिण्याचे व स्वयंपाकाचे पाणी साठवताना आपण कोणती काळजी घेतो?",
+      "options": [
+        { "option_id": 1, "text": "ते उघडे ठेवतो", "is_correct": false },
+        { "option_id": 2, "text": "ते उन्हात ठेवतो", "is_correct": false },
+        { "option_id": 3, "text": "ते झाकून ठेवतो", "is_correct": true },
+        { "option_id": 4, "text": "ते गढूळ करतो", "is_correct": false }
+      ],
+      "answer": "ते झाकून ठेवतो"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाण्याच्या भांड्यावर झाकण ठेवल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी गरम होते", "is_correct": false },
+        { "option_id": 2, "text": "पाण्यात धूळ व कचरा पडत नाही", "is_correct": true },
+        { "option_id": 3, "text": "पाणी कमी होते", "is_correct": false },
+        { "option_id": 4, "text": "पाणी थंड होते", "is_correct": false }
+      ],
+      "answer": "पाण्यात धूळ व कचरा पडत नाही"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भांड्यात हात बुडवून पाणी काढल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी स्वच्छ राहते", "is_correct": false },
+        { "option_id": 2, "text": "हातांना लागलेली घाण पाण्यात जाते", "is_correct": true },
+        { "option_id": 3, "text": "पाणी थंड होते", "is_correct": false },
+        { "option_id": 4, "text": "पाणी गोड लागते", "is_correct": false }
+      ],
+      "answer": "हातांना लागलेली घाण पाण्यात जाते"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पाणी काढण्यासाठी काय वापरणे योग्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "ग्लास", "is_correct": false },
+        { "option_id": 2, "text": "वाटी", "is_correct": false },
+        { "option_id": 3, "text": "लांब दांड्याचे ओगराळे", "is_correct": true },
+        { "option_id": 4, "text": "ताट", "is_correct": false }
+      ],
+      "answer": "लांब दांड्याचे ओगराळे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पाणी काढण्याची सर्वांत उत्तम पद्धत कोणती?",
+      "options": [
+        { "option_id": 1, "text": "ओगराळे वापरणे", "is_correct": false },
+        { "option_id": 2, "text": "भांड्याला तोटी लावणे", "is_correct": true },
+        { "option_id": 3, "text": "ग्लास बुडवणे", "is_correct": false },
+        { "option_id": 4, "text": "हात बुडवणे", "is_correct": false }
+      ],
+      "answer": "भांड्याला तोटी लावणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पाणी शिळे होते का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "उन्हाळ्यात होते", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आधीच्या दिवशी भरलेले पाणी ओतून देणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "स्वच्छता करणे", "is_correct": false },
+        { "option_id": 2, "text": "चांगले पाणी वाया घालवणे", "is_correct": true },
+        { "option_id": 3, "text": "पाणी बदलणे", "is_correct": false },
+        { "option_id": 4, "text": "पाणी साठवणे", "is_correct": false }
+      ],
+      "answer": "चांगले पाणी वाया घालवणे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मोठ्या इमारतींच्या छतावर पाण्याच्या टाक्या कशासाठी बसवतात?",
+      "options": [
+        { "option_id": 1, "text": "पाणी साठवून इमारतीत पोचवण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "इमारत थंड ठेवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "पावसाचे पाणी जमा करण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "शोभेसाठी", "is_correct": false }
+      ],
+      "answer": "पाणी साठवून इमारतीत पोचवण्यासाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "एकाच टाकीतून एकाच वेळी अनेक ठिकाणी पाणी कशाच्या मदतीने मिळते?",
+      "options": [
+        { "option_id": 1, "text": "बादल्या", "is_correct": false },
+        { "option_id": 2, "text": "नळ आणि पाईप", "is_correct": true },
+        { "option_id": 3, "text": "हंडे", "is_correct": false },
+        { "option_id": 4, "text": "विहिरी", "is_correct": false }
+      ],
+      "answer": "नळ आणि पाईप"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "गावाचा पाणीपुरवठा कोठून होतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त पावसातून", "is_correct": false },
+        { "option_id": 2, "text": "तलाव, नद्या, धरणे यांसारख्या जलस्रोतांतून", "is_correct": true },
+        { "option_id": 3, "text": "समुद्रातून", "is_correct": false },
+        { "option_id": 4, "text": "फक्त विहिरीतून", "is_correct": false }
+      ],
+      "answer": "तलाव, नद्या, धरणे यांसारख्या जलस्रोतांतून"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाणी पिण्यासाठी निर्धोक करण्याच्या प्रक्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जलवितरण", "is_correct": false },
+        { "option_id": 2, "text": "जलशुद्धीकरण", "is_correct": true },
+        { "option_id": 3, "text": "जलसाठा", "is_correct": false },
+        { "option_id": 4, "text": "जलसिंचन", "is_correct": false }
+      ],
+      "answer": "जलशुद्धीकरण"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "शुद्ध केलेले पाणी सर्वांना पुरवण्याच्या प्रक्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जलशुद्धीकरण", "is_correct": false },
+        { "option_id": 2, "text": "जलवितरण", "is_correct": true },
+        { "option_id": 3, "text": "जलसाठवण", "is_correct": false },
+        { "option_id": 4, "text": "जलवाहतूक", "is_correct": false }
+      ],
+      "answer": "जलवितरण"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पाणी वरच्या दिशेने चढवण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "बादली", "is_correct": false },
+        { "option_id": 2, "text": "पंप (यंत्र)", "is_correct": true },
+        { "option_id": 3, "text": "नळ", "is_correct": false },
+        { "option_id": 4, "text": "शिडी", "is_correct": false }
+      ],
+      "answer": "पंप (यंत्र)"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पाण्याचे पंप चालवण्यासाठी कोणती उर्जा वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "डिझेल किंवा वीज", "is_correct": true },
+        { "option_id": 2, "text": "वारा", "is_correct": false },
+        { "option_id": 3, "text": "सूर्यप्रकाश", "is_correct": false },
+        { "option_id": 4, "text": "कोळसा", "is_correct": false }
+      ],
+      "answer": "डिझेल किंवा वीज"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "प्राचीन काळी नगरे कोठे वसली होती?",
+      "options": [
+        { "option_id": 1, "text": "डोंगराच्या टोकावर", "is_correct": false },
+        { "option_id": 2, "text": "मोठ्या नदीच्या तीरावर", "is_correct": true },
+        { "option_id": 3, "text": "वाळवंटात", "is_correct": false },
+        { "option_id": 4, "text": "समुद्राच्या मध्ये", "is_correct": false }
+      ],
+      "answer": "मोठ्या नदीच्या तीरावर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "दिल्ली हे शहर कोणत्या नदीवर वसले आहे?",
+      "options": [
+        { "option_id": 1, "text": "गंगा", "is_correct": false },
+        { "option_id": 2, "text": "यमुना", "is_correct": true },
+        { "option_id": 3, "text": "गोदावरी", "is_correct": false },
+        { "option_id": 4, "text": "कृष्णा", "is_correct": false }
+      ],
+      "answer": "यमुना"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "नाशिक हे शहर कोणत्या नदीच्या काठावर आहे?",
+      "options": [
+        { "option_id": 1, "text": "यमुना", "is_correct": false },
+        { "option_id": 2, "text": "गंगा", "is_correct": false },
+        { "option_id": 3, "text": "गोदावरी", "is_correct": true },
+        { "option_id": 4, "text": "नर्मदा", "is_correct": false }
+      ],
+      "answer": "गोदावरी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "जलशुद्धीकरण केंद्रातून पाणी आधी कुठे साठवतात?",
+      "options": [
+        { "option_id": 1, "text": "घरातील टाकीत", "is_correct": false },
+        { "option_id": 2, "text": "उंचावरील टाकीत", "is_correct": true },
+        { "option_id": 3, "text": "विहिरीत", "is_correct": false },
+        { "option_id": 4, "text": "हौदात", "is_correct": false }
+      ],
+      "answer": "उंचावरील टाकीत"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "स्वच्छ पाणी हा कसा पदार्थ आहे?",
+      "options": [
+        { "option_id": 1, "text": "स्वस्त", "is_correct": false },
+        { "option_id": 2, "text": "मौल्यवान", "is_correct": true },
+        { "option_id": 3, "text": "टाकाऊ", "is_correct": false },
+        { "option_id": 4, "text": "साधा", "is_correct": false }
+      ],
+      "answer": "मौल्यवान"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पाणी काटकसरीने का वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "कारण ते शुद्ध करायला व पोचवायला खर्च येतो", "is_correct": true },
+        { "option_id": 2, "text": "कारण ते खूप स्वस्त आहे", "is_correct": false },
+        { "option_id": 3, "text": "कारण ते सहज मिळते", "is_correct": false },
+        { "option_id": 4, "text": "कारण पाणी खराब नसते", "is_correct": false }
+      ],
+      "answer": "कारण ते शुद्ध करायला व पोचवायला खर्च येतो"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "तोंड धुण्यासाठी घेतलेले उरलेले पाणी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "फेकून द्यावे", "is_correct": false },
+        { "option_id": 2, "text": "तसेच ठेवावे", "is_correct": false },
+        { "option_id": 3, "text": "परत वापरण्यासाठी ठेवावे", "is_correct": true },
+        { "option_id": 4, "text": "सांडून द्यावे", "is_correct": false }
+      ],
+      "answer": "परत वापरण्यासाठी ठेवावे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "रोज दात घासत असताना नळ कसा ठेवावा?",
+      "options": [
+        { "option_id": 1, "text": "सतत चालू ठेवावा", "is_correct": false },
+        { "option_id": 2, "text": "मधून मधून बंद करावा", "is_correct": true },
+        { "option_id": 3, "text": "पूर्ण उघडा ठेवावा", "is_correct": false },
+        { "option_id": 4, "text": "मोठ्या धारेने चालू ठेवावा", "is_correct": false }
+      ],
+      "answer": "मधून मधून बंद करावा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "भाज्या व फळे धुतलेले पाणी कशासाठी वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "पिण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "फेकून देण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "झाडांना देण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "काहीच उपयोग नाही", "is_correct": false }
+      ],
+      "answer": "झाडांना देण्यासाठी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पाणी खालच्या दिशेने कसे वाहते?",
+      "options": [
+        { "option_id": 1, "text": "आपोआप", "is_correct": true },
+        { "option_id": 2, "text": "पंप लावून", "is_correct": false },
+        { "option_id": 3, "text": "जोर लावून", "is_correct": false },
+        { "option_id": 4, "text": "विजेने", "is_correct": false }
+      ],
+      "answer": "आपोआप"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पाणीटंचाई असलेल्या भागात पाणी कसे पुरवतात?",
+      "options": [
+        { "option_id": 1, "text": "विमानाने", "is_correct": false },
+        { "option_id": 2, "text": "रेल्वेने", "is_correct": false },
+        { "option_id": 3, "text": "टँकरमधून", "is_correct": true },
+        { "option_id": 4, "text": "बादलीतून", "is_correct": false }
+      ],
+      "answer": "टँकरमधून"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "विहिरीचे पाणी पिण्यायोग्य नसल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "तसेच प्यावे", "is_correct": false },
+        { "option_id": 2, "text": "पिण्यासाठी उकळून घ्यावे", "is_correct": true },
+        { "option_id": 3, "text": "पिऊच नये", "is_correct": false },
+        { "option_id": 4, "text": "साखर टाकून प्यावे", "is_correct": false }
+      ],
+      "answer": "पिण्यासाठी उकळून घ्यावे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "पाणी निर्धोक नसेल तर काय होऊ शकते?",
+      "options": [
+        { "option_id": 1, "text": "आजार", "is_correct": true },
+        { "option_id": 2, "text": "आनंद", "is_correct": false },
+        { "option_id": 3, "text": "भूक", "is_correct": false },
+        { "option_id": 4, "text": "झोप", "is_correct": false }
+      ],
+      "answer": "आजार"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भांड्याला झाकण नसल्यास काय होऊ शकते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी उडून जाईल", "is_correct": false },
+        { "option_id": 2, "text": "पाण्यात कचरा पडेल", "is_correct": true },
+        { "option_id": 3, "text": "पाणी गोड होईल", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होणार नाही", "is_correct": false }
+      ],
+      "answer": "पाण्यात कचरा पडेल"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "जेव्हा आपण भांडी विसळतो तेव्हा नळ कसा असावा?",
+      "options": [
+        { "option_id": 1, "text": "पूर्ण उघडा", "is_correct": false },
+        { "option_id": 2, "text": "नीट धुण्यापुरता सोडलेला", "is_correct": true },
+        { "option_id": 3, "text": "बंद", "is_correct": false },
+        { "option_id": 4, "text": "जोरदार प्रवाहाचा", "is_correct": false }
+      ],
+      "answer": "नीट धुण्यापुरता सोडलेला"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "बागेला पाणी देण्यासाठी कोणते पाणी वापरणे चांगले?",
+      "options": [
+        { "option_id": 1, "text": "पिण्याचे शुद्ध केलेले पाणी", "is_correct": false },
+        { "option_id": 2, "text": "विहिरीचे पाणी", "is_correct": true },
+        { "option_id": 3, "text": "बिसलरीचे पाणी", "is_correct": false },
+        { "option_id": 4, "text": "उकळलेले पाणी", "is_correct": false }
+      ],
+      "answer": "विहिरीचे पाणी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पाणी भरून ठेवण्यासाठी प्लॅस्टिक व स्टीलची भांडी का वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "ती जड असतात म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "ती स्वच्छ करायला सोपी असतात म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "ती महाग असतात म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "ती फुटतात म्हणून", "is_correct": false }
+      ],
+      "answer": "ती स्वच्छ करायला सोपी असतात म्हणून"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "पाणी पुन्हा भरण्याआधी भांडे का धुवावे?",
+      "options": [
+        { "option_id": 1, "text": "वेळ घालवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "पाणी स्वच्छ राहण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पाणी थंड होण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "भांडे जुने दिसण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पाणी स्वच्छ राहण्यासाठी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "नळाला तोट्या बसवल्याने काय फायदा होतो?",
+      "options": [
+        { "option_id": 1, "text": "पाणी वाया जाते", "is_correct": false },
+        { "option_id": 2, "text": "पाणी पाहिजे तेव्हा घेता येते व बंद करता येते", "is_correct": true },
+        { "option_id": 3, "text": "पाणी गरम येते", "is_correct": false },
+        { "option_id": 4, "text": "पाणी वेगाने येते", "is_correct": false }
+      ],
+      "answer": "पाणी पाहिजे तेव्हा घेता येते व बंद करता येते"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "शहरात पाणीपुरवठा करण्यासाठी काय उभारले जातात?",
+      "options": [
+        { "option_id": 1, "text": "जलशुद्धीकरण केंद्रे", "is_correct": true },
+        { "option_id": 2, "text": "खेळण्याची मैदाने", "is_correct": false },
+        { "option_id": 3, "text": "शाळा", "is_correct": false },
+        { "option_id": 4, "text": "बाजार", "is_correct": false }
+      ],
+      "answer": "जलशुद्धीकरण केंद्रे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "गंगानदीवरील प्राचीन नगर कोणते?",
+      "options": [
+        { "option_id": 1, "text": "दिल्ली", "is_correct": false },
+        { "option_id": 2, "text": "पाटणा", "is_correct": true },
+        { "option_id": 3, "text": "नाशिक", "is_correct": false },
+        { "option_id": 4, "text": "मुंबई", "is_correct": false }
+      ],
+      "answer": "पाटणा"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "मानवी वस्ती शक्यतो कोठे असते?",
+      "options": [
+        { "option_id": 1, "text": "डोंगरावर", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याच्या स्रोताजवळ", "is_correct": true },
+        { "option_id": 3, "text": "जंगलात", "is_correct": false },
+        { "option_id": 4, "text": "वाळवंटात", "is_correct": false }
+      ],
+      "answer": "पाण्याच्या स्रोताजवळ"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "विजेचा शोध लागण्यापूर्वी पाणी कोठे नेणे शक्य होत नव्हते?",
+      "options": [
+        { "option_id": 1, "text": "घराबाहेर", "is_correct": false },
+        { "option_id": 2, "text": "जास्त उंचीवर", "is_correct": true },
+        { "option_id": 3, "text": "शेतात", "is_correct": false },
+        { "option_id": 4, "text": "विहिरीत", "is_correct": false }
+      ],
+      "answer": "जास्त उंचीवर"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "उंचावरील टाकीतून पाणी घरापर्यंत कसे येते?",
+      "options": [
+        { "option_id": 1, "text": "बादलीने", "is_correct": false },
+        { "option_id": 2, "text": "मोठ्या नळातून आणि त्याच्या शाखांतून", "is_correct": true },
+        { "option_id": 3, "text": "पावसाने", "is_correct": false },
+        { "option_id": 4, "text": "नदीतून", "is_correct": false }
+      ],
+      "answer": "मोठ्या नळातून आणि त्याच्या शाखांतून"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "पाणी शुद्धीकरण आणि वितरणासाठी कशाचा खर्च येतो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ पैशांचा", "is_correct": false },
+        { "option_id": 2, "text": "श्रम आणि इंधन/वीज यांचा", "is_correct": true },
+        { "option_id": 3, "text": "केवळ वेळेचा", "is_correct": false },
+        { "option_id": 4, "text": "काहीच खर्च येत नाही", "is_correct": false }
+      ],
+      "answer": "श्रम आणि इंधन/वीज यांचा"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "जर पाणी शिळे समजून ओतून दिले तर काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी ताजे मिळते", "is_correct": false },
+        { "option_id": 2, "text": "चांगले पाणी वाया जाते", "is_correct": true },
+        { "option_id": 3, "text": "आरोग्य सुधारते", "is_correct": false },
+        { "option_id": 4, "text": "भांडी स्वच्छ होतात", "is_correct": false }
+      ],
+      "answer": "चांगले पाणी वाया जाते"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कूपनलिकेतून पाणी काढणारा पंप कशावर चालतो?",
+      "options": [
+        { "option_id": 1, "text": "डिझेल किंवा वीज", "is_correct": true },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "हवा", "is_correct": false },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "डिझेल किंवा वीज"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक नळ सतत वाहत असल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "तसाच राहू द्यावा", "is_correct": false },
+        { "option_id": 2, "text": "तो बंद करावा किंवा दुरुस्त करावा", "is_correct": true },
+        { "option_id": 3, "text": "त्याखाली बादली ठेवावी", "is_correct": false },
+        { "option_id": 4, "text": "तिथे आंघोळ करावी", "is_correct": false }
+      ],
+      "answer": "तो बंद करावा किंवा दुरुस्त करावा"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "रेश्मा सहलीला जाताना पाणी सोबत नेते, हे योग्य की अयोग्य?",
+      "options": [
+        { "option_id": 1, "text": "योग्य", "is_correct": true },
+        { "option_id": 2, "text": "अयोग्य", "is_correct": false },
+        { "option_id": 3, "text": "चुकीचे", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "योग्य"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "समीरने पाणी पिऊन माठावर झाकण ठेवले नाही, हे योग्य की अयोग्य?",
+      "options": [
+        { "option_id": 1, "text": "योग्य", "is_correct": false },
+        { "option_id": 2, "text": "अयोग्य", "is_correct": true },
+        { "option_id": 3, "text": "बरोबर", "is_correct": false },
+        { "option_id": 4, "text": "काही हरकत नाही", "is_correct": false }
+      ],
+      "answer": "अयोग्य"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "पाणी साठवण्याची आधुनिक भांडी कशापासून बनलेली असतात?",
+      "options": [
+        { "option_id": 1, "text": "माती", "is_correct": false },
+        { "option_id": 2, "text": "तांबे", "is_correct": false },
+        { "option_id": 3, "text": "स्टील व प्लास्टिक", "is_correct": true },
+        { "option_id": 4, "text": "लाकूड", "is_correct": false }
+      ],
+      "answer": "स्टील व प्लास्टिक"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "नळातून पाणी वाहू दिल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी स्वच्छ राहते", "is_correct": false },
+        { "option_id": 2, "text": "पाणी वाया जाते", "is_correct": true },
+        { "option_id": 3, "text": "टाकी भरते", "is_correct": false },
+        { "option_id": 4, "text": "काहीही होत नाही", "is_correct": false }
+      ],
+      "answer": "पाणी वाया जाते"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "आपल्याला पाणी घरात का साठवून ठेवावे लागते?",
+      "answer": "आपल्याला सतत पाण्याची गरज असते, म्हणून गरजेनुसार पाणी घेता यावे यासाठी ते घरात साठवून ठेवावे लागते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पिण्याचे पाणी साठवताना आपण कोणती काळजी घेतो?",
+      "answer": "पिण्याचे पाणी साठवताना आपण भांडी स्वच्छ धुतो आणि पाणी भरल्यावर ती झाकून ठेवतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पाण्याच्या भांड्याला झाकण का असावे?",
+      "answer": "झाकण असल्यामुळे पाण्यात धूळ आणि कचरा पडत नाही, म्हणून पाण्याच्या भांड्याला झाकण असावे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाणी काढण्यासाठी ओगराळ्याचा वापर का करावा?",
+      "answer": "भांड्यात हात बुडवल्यास हातांची घाण पाण्यात जाते, म्हणून पाणी काढण्यासाठी ओगराळ्याचा वापर करावा."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पाणी काढण्याची सर्वांत उत्तम पद्धत कोणती?",
+      "answer": "भांड्याला तोटी लावणे ही पाणी काढण्याची सर्वांत उत्तम पद्धत आहे, कारण त्यामुळे पाणी खराब होत नाही."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पाणी शिळे होते का?",
+      "answer": "नाही, पाणी कधीही शिळे होत नाही."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "आधीच्या दिवशी भरलेले पाणी ओतून देणे योग्य आहे का?",
+      "answer": "नाही, ते पाणी ओतून देणे म्हणजे चांगले पाणी वाया घालवणे आहे, म्हणून ते योग्य नाही."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "इमारतींच्या छतावर पाण्याच्या टाक्या का बसवतात?",
+      "answer": "एकाच टाकीतून इमारतीतील अनेक ठिकाणी नळाद्वारे पाणी पोचवण्यासाठी छतावर पाण्याच्या टाक्या बसवतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "जलशुद्धीकरण म्हणजे काय?",
+      "answer": "गावासाठी आणलेले पाणी पिण्यासाठी निर्धोक करण्याच्या प्रक्रियेला जलशुद्धीकरण म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "जलवितरण म्हणजे काय?",
+      "answer": "जलशुद्धीकरण केंद्रातून शुद्ध केलेले पाणी सर्वांना पुरवण्याच्या सोईला जलवितरण म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "उंचावरील टाकीत पाणी कसे चढवतात?",
+      "answer": "उंचावरील टाकीत पाणी चढवण्यासाठी पंपाचा (यंत्राचा) वापर केला जातो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पंप चालवण्यासाठी कोणती इंधने वापरतात?",
+      "answer": "पंप चालवण्यासाठी डिझेल किंवा वीज वापरतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "प्राचीन काळी नगरे कोठे वसली होती?",
+      "answer": "प्राचीन काळी पाण्याची सोय असलेल्या मोठ्या नद्यांच्या तीरावर नगरे वसली होती."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "यमुना नदीवर कोणते शहर वसले आहे?",
+      "answer": "यमुना नदीवर दिल्ली हे शहर वसले आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पाणी मौल्यवान का आहे?",
+      "answer": "पाणी शुद्ध करणे आणि ते उंचावर चढवून वितरीत करणे यासाठी खूप श्रम व खर्च लागतो, म्हणून पाणी मौल्यवान आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पाण्याची काटकसर कशी करावी?",
+      "answer": "गरजेपुरतेच पाणी वापरावे, नळ उघडा टाकू नये आणि पाणी वाया घालवू नये."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "भाज्या धुतलेले पाणी काय करावे?",
+      "answer": "भाज्या धुतलेले पाणी फेकून न देता ते झाडांना घालावे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "दात घासताना नळ कसा वापरावा?",
+      "answer": "दात घासताना नळ सतत चालू न ठेवता, गरजेपुरताच चालू करावा व मधून मधून बंद करावा."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "पाणीटंचाई असलेल्या भागात पाणी कसे पुरवतात?",
+      "answer": "पाणीटंचाई असलेल्या भागात टँकरमधून पाणी पुरवतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पिण्याचे पाणी निर्धोक नसेल तर काय करावे?",
+      "answer": "पिण्याचे पाणी निर्धोक नसेल तर ते उकळून प्यावे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "पूर्वी पाणी साठवण्यासाठी कोणती भांडी वापरत असत?",
+      "answer": "पूर्वी पितळ किंवा तांब्याचे हंडे, कळश्या आणि मातीची मडकी पाणी साठवण्यासाठी वापरत असत."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "आता पाणी साठवण्यासाठी कोणती भांडी वापरतात?",
+      "answer": "आता पाणी साठवण्यासाठी स्टील व प्लॅस्टिकची भांडी वापरतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "पाण्याचा स्रोत मानवी वस्तीच्या जवळ का असावा?",
+      "answer": "पाण्याशिवाय माणूस जगू शकत नाही, म्हणून पाण्याचा स्रोत वस्तीच्या शक्य तितका जवळ असणे गरजेचे असते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पाणी भरलेल्या बादलीचे वजन रिकाम्या बादलीपेक्षा कसे असते?",
+      "answer": "पाणी भरलेल्या बादलीचे वजन रिकाम्या बादलीपेक्षा जास्त (जड) असते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "बागेला पाणी देण्यासाठी कोणते पाणी वापरणे योग्य आहे?",
+      "answer": "बागेला पाणी देण्यासाठी नळाच्या पाण्याऐवजी विहिरीचे पाणी वापरणे जास्त योग्य आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "नळाला पाणी आले की भरलेला हंडा ओतून देणे योग्य आहे का?",
+      "answer": "नाही, कारण पाणी कधीच शिळे होत नाही आणि असे करणे म्हणजे पाणी वाया घालवणे आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "समीरने माठावर झाकण ठेवले नाही, हे योग्य की अयोग्य?",
+      "answer": "हे अयोग्य आहे, कारण यामुळे पाण्यात कचरा पडू शकतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "रेश्मा सहलीला जाताना पाणी सोबत नेते, हे योग्य की अयोग्य?",
+      "answer": "हे योग्य आहे, कारण बाहेरचे पाणी निर्धोक असेलच असे नाही."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "जलशुद्धीकरण केंद्रातून पाणी बाहेर पडून घरापर्यंत कसे पोचते?",
+      "answer": "जलशुद्धीकरण केंद्रातून पाणी उंचावरील टाकीत चढवतात आणि तिथून नळांद्वारे ते घरापर्यंत पोचते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पाणी दूषित असल्यास काय होऊ शकते?",
+      "answer": "पाणी दूषित असल्यास पोटाचे आजार होऊ शकतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "पाण्याच्या टाकीतून पाणी खाली कसे येते?",
+      "answer": "पाणी उताराच्या (खालच्या) दिशेने वाहते, त्यामुळे टाकीतून पाणी नळाद्वारे खाली येते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "पाणी वर चढवण्यासाठी जोर का लावावा लागतो?",
+      "answer": "पाणी नैसर्गिकरित्या खाली वाहते, म्हणून ते वर चढवण्यासाठी पंपाचा वापर करून जोर लावावा लागतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "घरातील पाणी भरणाऱ्या व्यक्तीचे श्रम कमी करण्यासाठी काय करता येईल?",
+      "answer": "पाण्याचा काटकसरीने वापर केल्यास पाणी कमी लागेल आणि पाणी भरणाऱ्या व्यक्तीचे श्रम कमी होतील."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक नळ गळत असल्यास काय करावे?",
+      "answer": "सार्वजनिक नळ गळत असल्यास तो बंद करावा किंवा ग्रामपंचायत/नगरपालिकेला कळवून दुरुस्त करावा."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "पाणी खराब झाले असेल तर त्याचा वापर कशासाठी करावा?",
+      "answer": "पाणी खराब झाले असेल तर त्याचा वापर पिण्याव्यतिरिक्त इतर कामांसाठी (उदा. झाडांना घालणे) करावा."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "पाण्याच्या स्रोतापासून थेट घेतलेले पाणी पिण्यासाठी का वापरत नाहीत?",
+      "answer": "कारण त्यातील पाणी जसेच्या तसे पिण्यासाठी निर्धोक असेलच याची खात्री देता येत नाही."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "कोणत्या नदीच्या काठावर नाशिक शहर वसले आहे?",
+      "answer": "गोदावरी नदीच्या काठावर नाशिक शहर वसले आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "पाटणा शहर कोणत्या नदीच्या काठावर आहे?",
+      "answer": "पाटणा शहर गंगा नदीच्या काठावर वसले आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "घरात पाणी भरण्यासाठी लागणारे श्रम कशावर अवलंबून असतात?",
+      "answer": "घरात किती पाणी लागते आणि ते किती दूरवरून आणावे लागते, यावर श्रम अवलंबून असतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पाण्याच्या बाटलीला भोके पाडून केलेल्या प्रयोगातून काय समजते?",
+      "answer": "एका ठिकाणी साठवलेले पाणी नळाचा वापर करून निरनिराळ्या ठिकाणी वाटता येते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "तोटी असलेल्या भांड्यातून पाणी काढणे सोयीचे का असते?",
+      "answer": "कारण त्यामुळे पाणी खराब होत नाही आणि पाणी काढणे सोपे जाते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "पाणी साठवण्याची गरज का भासते?",
+      "answer": "पावसाळा सोडल्यास इतर वेळी पाणी मिळण्यासाठी आणि रोजच्या गरजेसाठी पाणी साठवण्याची गरज भासते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "विहिरीचे पाणी निर्धोक करण्यासाठी काय करावे?",
+      "answer": "विहिरीचे पाणी निर्धोक करण्यासाठी ते उकळून घ्यावे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "जलवाहिन्यांचा उपयोग काय आहे?",
+      "answer": "जलवाहिन्यांच्या मदतीने गावासाठी एका ठिकाणी पाणी आणले जाते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "घरातील नळ व्यवस्था कशी काम करते?",
+      "answer": "छतावरील टाकीतून पाणी नळांद्वारे स्वयंपाकघर आणि न्हाणीघरात पोचवले जाते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "पाणी काटकसरीने वापरण्याची एक पद्धत सांगा.",
+      "answer": "भांडी विसळताना नळ पूर्ण उघडा न ठेवता गरजेपुरता सोडावा."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "नळ नसताना पाणी कसे भरावे?",
+      "answer": "नळ नसताना पाणी ओगराळ्याने काढून भरावे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "उंचावरील टाकीतून पाणी वस्त्यांमध्ये कसे पोचते?",
+      "answer": "उंचावरील टाकीच्या नळापासून अनेक शाखा (पाईप) निघतात, त्याद्वारे पाणी वस्त्यांमध्ये पोचते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "विजेवर चालणाऱ्या पंपाचा काय फायदा झाला?",
+      "answer": "विजेवर चालणाऱ्या पंपामुळे पाणी खूप जास्त उंचीवर नेणे शक्य झाले."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "आपण पाण्याची काळजी कशी घ्यावी?",
+      "answer": "पाणी मौल्यवान आहे म्हणून ते वाया जाऊ देऊ नये आणि खराब होऊ देऊ नये."
+    }
+  ]
+}
