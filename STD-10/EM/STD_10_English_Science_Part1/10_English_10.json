@@ -1,8 +1,8 @@
 {
   "chapter_metadata": {
-    "chapter_id": "10.English.10",
+    "chapter_id": "10.Science.10",
     "standard": "10",
-    "subject": "Science and Technology Part 1",
+    "subject": "Science 1",
     "medium": "English",
     "chapter_name": "Space Missions"
   },
@@ -17,7 +17,7 @@
         { "option_id": 3, "text": "Sputnik", "is_correct": false },
         { "option_id": 4, "text": "Aryabhatta", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Moon"
     },
     {
       "question_id": 2,
@@ -29,7 +29,7 @@
         { "option_id": 3, "text": "INSAT", "is_correct": false },
         { "option_id": 4, "text": "Explorer", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Sputnik"
     },
     {
       "question_id": 3,
@@ -41,7 +41,7 @@
         { "option_id": 3, "text": "Polar", "is_correct": false },
         { "option_id": 4, "text": "Lunar", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Geostationary"
     },
     {
       "question_id": 4,
@@ -53,7 +53,7 @@
         { "option_id": 3, "text": "Orbital velocity", "is_correct": false },
         { "option_id": 4, "text": "Terminal velocity", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Escape velocity"
     },
     {
       "question_id": 5,
@@ -65,53 +65,548 @@
         { "option_id": 3, "text": "CARTOSAT", "is_correct": false },
         { "option_id": 4, "text": "IRNSS", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "EDUSAT"
     },
-    { "question_id": 6, "question_type": "MCQ", "question": "The value of escape velocity on the surface of the Earth is _____ km/s.", "options": [{ "option_id": 1, "text": "9.8", "is_correct": false }, { "option_id": 2, "text": "11.2", "is_correct": true }, { "option_id": 3, "text": "7.9", "is_correct": false }, { "option_id": 4, "text": "1.6", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 7, "question_type": "MCQ", "question": "High Earth Orbits (HEO) are at a height _____ above the Earth's surface.", "options": [{ "option_id": 1, "text": "Between 200 km to 2000 km", "is_correct": false }, { "option_id": 2, "text": "Higher than 35780 km", "is_correct": true }, { "option_id": 3, "text": "Between 2000 km to 35780 km", "is_correct": false }, { "option_id": 4, "text": "Exactly 1000 km", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 8, "question_type": "MCQ", "question": "Which of the following is used to place a satellite in its specific orbit?", "options": [{ "option_id": 1, "text": "Telescope", "is_correct": false }, { "option_id": 2, "text": "Satellite Launch Vehicle", "is_correct": true }, { "option_id": 3, "text": "Ammeter", "is_correct": false }, { "option_id": 4, "text": "Space Shuttle only", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 9, "question_type": "MCQ", "question": "The first human to step on the Moon was _____.", "options": [{ "option_id": 1, "text": "Yuri Gagarin", "is_correct": false }, { "option_id": 2, "text": "Neil Armstrong", "is_correct": true }, { "option_id": 3, "text": "Rakesh Sharma", "is_correct": false }, { "option_id": 4, "text": "Sunita Williams", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 10, "question_type": "MCQ", "question": "The first Indian cosmonaut to travel to space was _____.", "options": [{ "option_id": 1, "text": "Kalpana Chawla", "is_correct": false }, { "option_id": 2, "text": "Rakesh Sharma", "is_correct": true }, { "option_id": 3, "text": "Vikram Sarabhai", "is_correct": false }, { "option_id": 4, "text": "Homi Bhabha", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 11, "question_type": "MCQ", "question": "Medium Earth Orbits (MEO) are used primarily for _____ satellites.", "options": [{ "option_id": 1, "text": "Weather", "is_correct": false }, { "option_id": 2, "text": "Navigation (GPS)", "is_correct": true }, { "option_id": 3, "text": "Hubble telescope", "is_correct": false }, { "option_id": 4, "text": "Television", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 12, "question_type": "MCQ", "question": "Satellite Launch Vehicles work on the principle of _____.", "options": [{ "option_id": 1, "text": "Newton's First Law", "is_correct": false }, { "option_id": 2, "text": "Newton's Third Law", "is_correct": true }, { "option_id": 3, "text": "Kepler's Law", "is_correct": false }, { "option_id": 4, "text": "Ohm's Law", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 13, "question_type": "MCQ", "question": "The height of Low Earth Orbits (LEO) is between _____.", "options": [{ "option_id": 1, "text": "2000 km to 35780 km", "is_correct": false }, { "option_id": 2, "text": "180 km to 2000 km", "is_correct": true }, { "option_id": 3, "text": "35780 km to 40000 km", "is_correct": false }, { "option_id": 4, "text": "1 km to 100 km", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 14, "question_type": "MCQ", "question": "The Indian agency responsible for space research is _____.", "options": [{ "option_id": 1, "text": "NASA", "is_correct": false }, { "option_id": 2, "text": "ISRO", "is_correct": true }, { "option_id": 3, "text": "ESA", "is_correct": false }, { "option_id": 4, "text": "BARC", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 15, "question_type": "MCQ", "question": "Which of these is a Low Earth Orbit satellite?", "options": [{ "option_id": 1, "text": "INSAT", "is_correct": false }, { "option_id": 2, "text": "Hubble telescope", "is_correct": true }, { "option_id": 3, "text": "GPS satellites", "is_correct": false }, { "option_id": 4, "text": "GSAT", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 16, "question_type": "MCQ", "question": "The time taken for a HEO satellite to complete one revolution is _____.", "options": [{ "option_id": 1, "text": "90 minutes", "is_correct": false }, { "option_id": 2, "text": "24 hours", "is_correct": true }, { "option_id": 3, "text": "12 hours", "is_correct": false }, { "option_id": 4, "text": "1 month", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 17, "question_type": "MCQ", "question": "If a satellite is launched from a multi-stage rocket, the weight of the vehicle _____ as it moves upward.", "options": [{ "option_id": 1, "text": "Increases", "is_correct": false }, { "option_id": 2, "text": "Decreases", "is_correct": true }, { "option_id": 3, "text": "Remains constant", "is_correct": false }, { "option_id": 4, "text": "Doubles", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 18, "question_type": "MCQ", "question": "Space debris consists of _____.", "options": [{ "option_id": 1, "text": "Asteroids", "is_correct": false }, { "option_id": 2, "text": "Non-functional satellites and parts", "is_correct": true }, { "option_id": 3, "text": "Clouds", "is_correct": false }, { "option_id": 4, "text": "Spacecraft fuel", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 19, "question_type": "MCQ", "question": "The critical velocity of a satellite depends on the _____.", "options": [{ "option_id": 1, "text": "Mass of the satellite", "is_correct": false }, { "option_id": 2, "text": "Height of the orbit", "is_correct": true }, { "option_id": 3, "text": "Color of the satellite", "is_correct": false }, { "option_id": 4, "text": "Size of the satellite", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 20, "question_type": "MCQ", "question": "Which mission helped confirm the presence of water on the Moon?", "options": [{ "option_id": 1, "text": "Sputnik 1", "is_correct": false }, { "option_id": 2, "text": "Chandrayaan-1", "is_correct": true }, { "option_id": 3, "text": "Mangalyaan", "is_correct": false }, { "option_id": 4, "text": "Apollo 11", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 21, "question_type": "MCQ", "question": "Mangalyaan was launched by ISRO to study _____.", "options": [{ "option_id": 1, "text": "Moon", "is_correct": false }, { "option_id": 2, "text": "Mars", "is_correct": true }, { "option_id": 3, "text": "Jupiter", "is_correct": false }, { "option_id": 4, "text": "Sun", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 22, "question_type": "MCQ", "question": "The fuel in the first stage of the PSLV rocket is _____.", "options": [{ "option_id": 1, "text": "Liquid", "is_correct": false }, { "option_id": 2, "text": "Solid", "is_correct": true }, { "option_id": 3, "text": "Gas", "is_correct": false }, { "option_id": 4, "text": "Electricity", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 23, "question_type": "MCQ", "question": "Geostationary satellites appear stationary because they revolution period matches _____.", "options": [{ "option_id": 1, "text": "Moon's orbit", "is_correct": false }, { "option_id": 2, "text": "Earth's rotation", "is_correct": true }, { "option_id": 3, "text": "Sun's rotation", "is_correct": false }, { "option_id": 4, "text": "12 hours", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 24, "question_type": "MCQ", "question": "Which of the following is a consequence of space debris?", "options": [{ "option_id": 1, "text": "Better signal", "is_correct": false }, { "option_id": 2, "text": "Collision risks for satellites", "is_correct": true }, { "option_id": 3, "text": "Increase in gravity", "is_correct": false }, { "option_id": 4, "text": "Formation of new planets", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 25, "question_type": "MCQ", "question": "The time taken by an LEO satellite to complete one revolution is about _____.", "options": [{ "option_id": 1, "text": "24 hours", "is_correct": false }, { "option_id": 2, "text": "90 minutes", "is_correct": true }, { "option_id": 3, "text": "12 hours", "is_correct": false }, { "option_id": 4, "text": "2 hours", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 26, "question_type": "MCQ", "question": "Which satellite is used for fixing the location of any place on the Earth's surface?", "options": [{ "option_id": 1, "text": "Broadcast satellite", "is_correct": false }, { "option_id": 2, "text": "Navigational satellite", "is_correct": true }, { "option_id": 3, "text": "Weather satellite", "is_correct": false }, { "option_id": 4, "text": "Military satellite", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 27, "question_type": "MCQ", "question": "What is the function of the International Space Station?", "options": [{ "option_id": 1, "text": "Telecommunication", "is_correct": false }, { "option_id": 2, "text": "Scientific research in space", "is_correct": true }, { "option_id": 3, "text": "Weather prediction only", "is_correct": false }, { "option_id": 4, "text": "Spying on planets", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 28, "question_type": "MCQ", "question": "A rocket that uses up its fuel and detaches its parts is called a _____ rocket.", "options": [{ "option_id": 1, "text": "Single-stage", "is_correct": false }, { "option_id": 2, "text": "Multi-stage", "is_correct": true }, { "option_id": 3, "text": "Atomic", "is_correct": false }, { "option_id": 4, "text": "Stationary", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 29, "question_type": "MCQ", "question": "Space debris orbits at a speed of about _____.", "options": [{ "option_id": 1, "text": "2 km/s", "is_correct": false }, { "option_id": 2, "text": "8 km/s", "is_correct": true }, { "option_id": 3, "text": "11.2 km/s", "is_correct": false }, { "option_id": 4, "text": "30 km/s", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 30, "question_type": "MCQ", "question": "Which of the following is NOT an application of artificial satellites?", "options": [{ "option_id": 1, "text": "Weather forecasting", "is_correct": false }, { "option_id": 2, "text": "Generating wind energy", "is_correct": true }, { "option_id": 3, "text": "Global Positioning System", "is_correct": false }, { "option_id": 4, "text": "Telecommunication", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 31, "question_type": "MCQ", "question": "The orbit of a geostationary satellite is _____.", "options": [{ "option_id": 1, "text": "Polar", "is_correct": false }, { "option_id": 2, "text": "Equatorial", "is_correct": true }, { "option_id": 3, "text": "Elliptical", "is_correct": false }, { "option_id": 4, "text": "Random", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 32, "question_type": "MCQ", "question": "The word 'Critical velocity' (vc) refers to _____.", "options": [{ "option_id": 1, "text": "Velocity for landing", "is_correct": false }, { "option_id": 2, "text": "Specific velocity to keep a satellite in orbit", "is_correct": true }, { "option_id": 3, "text": "Velocity for escape", "is_correct": false }, { "option_id": 4, "text": "Speed of debris", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 33, "question_type": "MCQ", "question": "The time of one revolution of a satellite is called its _____.", "options": [{ "option_id": 1, "text": "Rotation period", "is_correct": false }, { "option_id": 2, "text": "Time period", "is_correct": true }, { "option_id": 3, "text": "Frequency", "is_correct": false }, { "option_id": 4, "text": "Acceleration", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 34, "question_type": "MCQ", "question": "Which planet is also known as the 'Red Planet'?", "options": [{ "option_id": 1, "text": "Jupiter", "is_correct": false }, { "option_id": 2, "text": "Mars", "is_correct": true }, { "option_id": 3, "text": "Venus", "is_correct": false }, { "option_id": 4, "text": "Saturn", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 35, "question_type": "MCQ", "question": "A space mission away from Earth aims to _____.", "options": [{ "option_id": 1, "text": "Take pictures of Earth", "is_correct": false }, { "option_id": 2, "text": "Observe other objects in the Solar system", "is_correct": true }, { "option_id": 3, "text": "Predict rain in Mumbai", "is_correct": false }, { "option_id": 4, "text": "Connect mobile phones", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 36, "question_type": "MCQ", "question": "Why are geostationary satellites not useful for studies of polar regions?", "options": [{ "option_id": 1, "text": "They move too fast", "is_correct": false }, { "option_id": 2, "text": "They orbit above the equator", "is_correct": true }, { "option_id": 3, "text": "They are too small", "is_correct": false }, { "option_id": 4, "text": "They lack cameras", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 37, "question_type": "MCQ", "question": "Space debris can be reduced by _____.", "options": [{ "option_id": 1, "text": "Launching more rockets", "is_correct": false }, { "option_id": 2, "text": "Designing reusable rockets", "is_correct": true }, { "option_id": 3, "text": "Blowing up old satellites", "is_correct": false }, { "option_id": 4, "text": "Ignoring it", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 38, "question_type": "MCQ", "question": "The escape velocity formula involves _____.", "options": [{ "option_id": 1, "text": "v = u + at", "is_correct": false }, { "option_id": 2, "text": "v = sqrt(2GM/R)", "is_correct": true }, { "option_id": 3, "text": "F = ma", "is_correct": false }, { "option_id": 4, "text": "v = d/t", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 39, "question_type": "MCQ", "question": "Which of these is a navigation satellite system?", "options": [{ "option_id": 1, "text": "INSAT", "is_correct": false }, { "option_id": 2, "text": "IRNSS", "is_correct": true }, { "option_id": 3, "text": "GSAT", "is_correct": false }, { "option_id": 4, "text": "METSAT", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 40, "question_type": "MCQ", "question": "What happens to the kinetic energy of a rocket launched from Earth?", "options": [{ "option_id": 1, "text": "It increases with height", "is_correct": false }, { "option_id": 2, "text": "It decreases as it moves away", "is_correct": true }, { "option_id": 3, "text": "It remains zero", "is_correct": false }, { "option_id": 4, "text": "It becomes infinite", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 41, "question_type": "MCQ", "question": "The time period of a satellite is related to its orbital radius by _____.", "options": [{ "option_id": 1, "text": "T ∝ r", "is_correct": false }, { "option_id": 2, "text": "T^2 ∝ r^3", "is_correct": true }, { "option_id": 3, "text": "T ∝ r^2", "is_correct": false }, { "option_id": 4, "text": "T^3 ∝ r^2", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 42, "question_type": "MCQ", "question": "The term 'MOM' stands for _____.", "options": [{ "option_id": 1, "text": "Moon Observation Mission", "is_correct": false }, { "option_id": 2, "text": "Mars Orbiter Mission", "is_correct": true }, { "option_id": 3, "text": "Main Operation Module", "is_correct": false }, { "option_id": 4, "text": "Modern Orbit Method", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 43, "question_type": "MCQ", "question": "Which rocket was developed by ISRO?", "options": [{ "option_id": 1, "text": "Falcon 9", "is_correct": false }, { "option_id": 2, "text": "PSLV", "is_correct": true }, { "option_id": 3, "text": "Saturn V", "is_correct": false }, { "option_id": 4, "text": "Soyuz", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 44, "question_type": "MCQ", "question": "The escape velocity on the Moon is _____ than on the Earth.", "options": [{ "option_id": 1, "text": "Higher", "is_correct": false }, { "option_id": 2, "text": "Lower", "is_correct": true }, { "option_id": 3, "text": "Same", "is_correct": false }, { "option_id": 4, "text": "Zero", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 45, "question_type": "MCQ", "question": "What provides the necessary centripetal force for a satellite?", "options": [{ "option_id": 1, "text": "Magnetic force", "is_correct": false }, { "option_id": 2, "text": "Earth's gravitational force", "is_correct": true }, { "option_id": 3, "text": "Wind force", "is_correct": false }, { "option_id": 4, "text": "Nuclear force", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 46, "question_type": "MCQ", "question": "Where is the head office of ISRO located?", "options": [{ "option_id": 1, "text": "New Delhi", "is_correct": false }, { "option_id": 2, "text": "Bengaluru", "is_correct": true }, { "option_id": 3, "text": "Mumbai", "is_correct": false }, { "option_id": 4, "text": "Thiruvananthapuram", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 47, "question_type": "MCQ", "question": "Sputnik 1 was launched on _____.", "options": [{ "option_id": 1, "text": "15th August 1947", "is_correct": false }, { "option_id": 2, "text": "4th October 1957", "is_correct": true }, { "option_id": 3, "text": "26th January 1950", "is_correct": false }, { "option_id": 4, "text": "21st July 1969", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 48, "question_type": "MCQ", "question": "The height of a satellite in orbit depends on _____.", "options": [{ "option_id": 1, "text": "Weather", "is_correct": false }, { "option_id": 2, "text": "Its purpose/function", "is_correct": true }, { "option_id": 3, "text": "The rocket's color", "is_correct": false }, { "option_id": 4, "text": "The time of day", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 49, "question_type": "MCQ", "question": "When a multi-stage rocket launches, the detached stages _____.", "options": [{ "option_id": 1, "text": "Go to the Sun", "is_correct": false }, { "option_id": 2, "text": "Fall back to Earth or burn in atmosphere", "is_correct": true }, { "option_id": 3, "text": "Orbit forever", "is_correct": false }, { "option_id": 4, "text": "Land on the Moon", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 50, "question_type": "MCQ", "question": "The orbital velocity of a satellite in LEO is approximately _____.", "options": [{ "option_id": 1, "text": "2 km/s", "is_correct": false }, { "option_id": 2, "text": "8 km/s", "is_correct": true }, { "option_id": 3, "text": "11.2 km/s", "is_correct": false }, { "option_id": 4, "text": "30 km/s", "is_correct": false }], "answer": "Option 2" },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The value of escape velocity on the surface of the Earth is _____ km/s.",
+      "options": [
+        { "option_id": 1, "text": "9.8", "is_correct": false },
+        { "option_id": 2, "text": "11.2", "is_correct": true },
+        { "option_id": 3, "text": "7.9", "is_correct": false },
+        { "option_id": 4, "text": "1.6", "is_correct": false }
+      ],
+      "answer": "11.2"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "High Earth Orbits (HEO) are at a height _____ above the Earth's surface.",
+      "options": [
+        { "option_id": 1, "text": "Between 200 km to 2000 km", "is_correct": false },
+        { "option_id": 2, "text": "Higher than 35780 km", "is_correct": true },
+        { "option_id": 3, "text": "Between 2000 km to 35780 km", "is_correct": false },
+        { "option_id": 4, "text": "Exactly 1000 km", "is_correct": false }
+      ],
+      "answer": "Higher than 35780 km"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of the following is used to place a satellite in its specific orbit?",
+      "options": [
+        { "option_id": 1, "text": "Telescope", "is_correct": false },
+        { "option_id": 2, "text": "Satellite Launch Vehicle", "is_correct": true },
+        { "option_id": 3, "text": "Ammeter", "is_correct": false },
+        { "option_id": 4, "text": "Space Shuttle only", "is_correct": false }
+      ],
+      "answer": "Satellite Launch Vehicle"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The first human to step on the Moon was _____.",
+      "options": [
+        { "option_id": 1, "text": "Yuri Gagarin", "is_correct": false },
+        { "option_id": 2, "text": "Neil Armstrong", "is_correct": true },
+        { "option_id": 3, "text": "Rakesh Sharma", "is_correct": false },
+        { "option_id": 4, "text": "Sunita Williams", "is_correct": false }
+      ],
+      "answer": "Neil Armstrong"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The first Indian cosmonaut to travel to space was _____.",
+      "options": [
+        { "option_id": 1, "text": "Kalpana Chawla", "is_correct": false },
+        { "option_id": 2, "text": "Rakesh Sharma", "is_correct": true },
+        { "option_id": 3, "text": "Vikram Sarabhai", "is_correct": false },
+        { "option_id": 4, "text": "Homi Bhabha", "is_correct": false }
+      ],
+      "answer": "Rakesh Sharma"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Medium Earth Orbits (MEO) are used primarily for _____ satellites.",
+      "options": [
+        { "option_id": 1, "text": "Weather", "is_correct": false },
+        { "option_id": 2, "text": "Navigation (GPS)", "is_correct": true },
+        { "option_id": 3, "text": "Hubble telescope", "is_correct": false },
+        { "option_id": 4, "text": "Television", "is_correct": false }
+      ],
+      "answer": "Navigation (GPS)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Satellite Launch Vehicles work on the principle of _____.",
+      "options": [
+        { "option_id": 1, "text": "Newton's First Law", "is_correct": false },
+        { "option_id": 2, "text": "Newton's Third Law", "is_correct": true },
+        { "option_id": 3, "text": "Kepler's Law", "is_correct": false },
+        { "option_id": 4, "text": "Ohm's Law", "is_correct": false }
+      ],
+      "answer": "Newton's Third Law"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The height of Low Earth Orbits (LEO) is between _____.",
+      "options": [
+        { "option_id": 1, "text": "2000 km to 35780 km", "is_correct": false },
+        { "option_id": 2, "text": "180 km to 2000 km", "is_correct": true },
+        { "option_id": 3, "text": "35780 km to 40000 km", "is_correct": false },
+        { "option_id": 4, "text": "1 km to 100 km", "is_correct": false }
+      ],
+      "answer": "180 km to 2000 km"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The Indian agency responsible for space research is _____.",
+      "options": [
+        { "option_id": 1, "text": "NASA", "is_correct": false },
+        { "option_id": 2, "text": "ISRO", "is_correct": true },
+        { "option_id": 3, "text": "ESA", "is_correct": false },
+        { "option_id": 4, "text": "BARC", "is_correct": false }
+      ],
+      "answer": "ISRO"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of these is a Low Earth Orbit satellite?",
+      "options": [
+        { "option_id": 1, "text": "INSAT", "is_correct": false },
+        { "option_id": 2, "text": "Hubble telescope", "is_correct": true },
+        { "option_id": 3, "text": "GPS satellites", "is_correct": false },
+        { "option_id": 4, "text": "GSAT", "is_correct": false }
+      ],
+      "answer": "Hubble telescope"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The time taken for a HEO satellite to complete one revolution is _____.",
+      "options": [
+        { "option_id": 1, "text": "90 minutes", "is_correct": false },
+        { "option_id": 2, "text": "24 hours", "is_correct": true },
+        { "option_id": 3, "text": "12 hours", "is_correct": false },
+        { "option_id": 4, "text": "1 month", "is_correct": false }
+      ],
+      "answer": "24 hours"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "If a satellite is launched from a multi-stage rocket, the weight of the vehicle _____ as it moves upward.",
+      "options": [
+        { "option_id": 1, "text": "Increases", "is_correct": false },
+        { "option_id": 2, "text": "Decreases", "is_correct": true },
+        { "option_id": 3, "text": "Remains constant", "is_correct": false },
+        { "option_id": 4, "text": "Doubles", "is_correct": false }
+      ],
+      "answer": "Decreases"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Space debris consists of _____.",
+      "options": [
+        { "option_id": 1, "text": "Asteroids", "is_correct": false },
+        { "option_id": 2, "text": "Non-functional satellites and parts", "is_correct": true },
+        { "option_id": 3, "text": "Clouds", "is_correct": false },
+        { "option_id": 4, "text": "Spacecraft fuel", "is_correct": false }
+      ],
+      "answer": "Non-functional satellites and parts"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The critical velocity of a satellite depends on the _____.",
+      "options": [
+        { "option_id": 1, "text": "Mass of the satellite", "is_correct": false },
+        { "option_id": 2, "text": "Height of the orbit", "is_correct": true },
+        { "option_id": 3, "text": "Color of the satellite", "is_correct": false },
+        { "option_id": 4, "text": "Size of the satellite", "is_correct": false }
+      ],
+      "answer": "Height of the orbit"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which mission helped confirm the presence of water on the Moon?",
+      "options": [
+        { "option_id": 1, "text": "Sputnik 1", "is_correct": false },
+        { "option_id": 2, "text": "Chandrayaan-1", "is_correct": true },
+        { "option_id": 3, "text": "Mangalyaan", "is_correct": false },
+        { "option_id": 4, "text": "Apollo 11", "is_correct": false }
+      ],
+      "answer": "Chandrayaan-1"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Mangalyaan was launched by ISRO to study _____.",
+      "options": [
+        { "option_id": 1, "text": "Moon", "is_correct": false },
+        { "option_id": 2, "text": "Mars", "is_correct": true },
+        { "option_id": 3, "text": "Jupiter", "is_correct": false },
+        { "option_id": 4, "text": "Sun", "is_correct": false }
+      ],
+      "answer": "Mars"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The fuel in the first stage of the PSLV rocket is _____.",
+      "options": [
+        { "option_id": 1, "text": "Liquid", "is_correct": false },
+        { "option_id": 2, "text": "Solid", "is_correct": true },
+        { "option_id": 3, "text": "Gas", "is_correct": false },
+        { "option_id": 4, "text": "Electricity", "is_correct": false }
+      ],
+      "answer": "Solid"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Geostationary satellites appear stationary because they revolution period matches _____.",
+      "options": [
+        { "option_id": 1, "text": "Moon's orbit", "is_correct": false },
+        { "option_id": 2, "text": "Earth's rotation", "is_correct": true },
+        { "option_id": 3, "text": "Sun's rotation", "is_correct": false },
+        { "option_id": 4, "text": "12 hours", "is_correct": false }
+      ],
+      "answer": "Earth's rotation"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of the following is a consequence of space debris?",
+      "options": [
+        { "option_id": 1, "text": "Better signal", "is_correct": false },
+        { "option_id": 2, "text": "Collision risks for satellites", "is_correct": true },
+        { "option_id": 3, "text": "Increase in gravity", "is_correct": false },
+        { "option_id": 4, "text": "Formation of new planets", "is_correct": false }
+      ],
+      "answer": "Collision risks for satellites"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The time taken by an LEO satellite to complete one revolution is about _____.",
+      "options": [
+        { "option_id": 1, "text": "24 hours", "is_correct": false },
+        { "option_id": 2, "text": "90 minutes", "is_correct": true },
+        { "option_id": 3, "text": "12 hours", "is_correct": false },
+        { "option_id": 4, "text": "2 hours", "is_correct": false }
+      ],
+      "answer": "90 minutes"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which satellite is used for fixing the location of any place on the Earth's surface?",
+      "options": [
+        { "option_id": 1, "text": "Broadcast satellite", "is_correct": false },
+        { "option_id": 2, "text": "Navigational satellite", "is_correct": true },
+        { "option_id": 3, "text": "Weather satellite", "is_correct": false },
+        { "option_id": 4, "text": "Military satellite", "is_correct": false }
+      ],
+      "answer": "Navigational satellite"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is the function of the International Space Station?",
+      "options": [
+        { "option_id": 1, "text": "Telecommunication", "is_correct": false },
+        { "option_id": 2, "text": "Scientific research in space", "is_correct": true },
+        { "option_id": 3, "text": "Weather prediction only", "is_correct": false },
+        { "option_id": 4, "text": "Spying on planets", "is_correct": false }
+      ],
+      "answer": "Scientific research in space"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "A rocket that uses up its fuel and detaches its parts is called a _____ rocket.",
+      "options": [
+        { "option_id": 1, "text": "Single-stage", "is_correct": false },
+        { "option_id": 2, "text": "Multi-stage", "is_correct": true },
+        { "option_id": 3, "text": "Atomic", "is_correct": false },
+        { "option_id": 4, "text": "Stationary", "is_correct": false }
+      ],
+      "answer": "Multi-stage"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Space debris orbits at a speed of about _____.",
+      "options": [
+        { "option_id": 1, "text": "2 km/s", "is_correct": false },
+        { "option_id": 2, "text": "8 km/s", "is_correct": true },
+        { "option_id": 3, "text": "11.2 km/s", "is_correct": false },
+        { "option_id": 4, "text": "30 km/s", "is_correct": false }
+      ],
+      "answer": "8 km/s"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT an application of artificial satellites?",
+      "options": [
+        { "option_id": 1, "text": "Weather forecasting", "is_correct": false },
+        { "option_id": 2, "text": "Generating wind energy", "is_correct": true },
+        { "option_id": 3, "text": "Global Positioning System", "is_correct": false },
+        { "option_id": 4, "text": "Telecommunication", "is_correct": false }
+      ],
+      "answer": "Generating wind energy"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The orbit of a geostationary satellite is _____.",
+      "options": [
+        { "option_id": 1, "text": "Polar", "is_correct": false },
+        { "option_id": 2, "text": "Equatorial", "is_correct": true },
+        { "option_id": 3, "text": "Elliptical", "is_correct": false },
+        { "option_id": 4, "text": "Random", "is_correct": false }
+      ],
+      "answer": "Equatorial"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "The word 'Critical velocity' (vc) refers to _____.",
+      "options": [
+        { "option_id": 1, "text": "Velocity for landing", "is_correct": false },
+        { "option_id": 2, "text": "Specific velocity to keep a satellite in orbit", "is_correct": true },
+        { "option_id": 3, "text": "Velocity for escape", "is_correct": false },
+        { "option_id": 4, "text": "Speed of debris", "is_correct": false }
+      ],
+      "answer": "Specific velocity to keep a satellite in orbit"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "The time of one revolution of a satellite is called its _____.",
+      "options": [
+        { "option_id": 1, "text": "Rotation period", "is_correct": false },
+        { "option_id": 2, "text": "Time period", "is_correct": true },
+        { "option_id": 3, "text": "Frequency", "is_correct": false },
+        { "option_id": 4, "text": "Acceleration", "is_correct": false }
+      ],
+      "answer": "Time period"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which planet is also known as the 'Red Planet'?",
+      "options": [
+        { "option_id": 1, "text": "Jupiter", "is_correct": false },
+        { "option_id": 2, "text": "Mars", "is_correct": true },
+        { "option_id": 3, "text": "Venus", "is_correct": false },
+        { "option_id": 4, "text": "Saturn", "is_correct": false }
+      ],
+      "answer": "Mars"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "A space mission away from Earth aims to _____.",
+      "options": [
+        { "option_id": 1, "text": "Take pictures of Earth", "is_correct": false },
+        { "option_id": 2, "text": "Observe other objects in the Solar system", "is_correct": true },
+        { "option_id": 3, "text": "Predict rain in Mumbai", "is_correct": false },
+        { "option_id": 4, "text": "Connect mobile phones", "is_correct": false }
+      ],
+      "answer": "Observe other objects in the Solar system"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Why are geostationary satellites not useful for studies of polar regions?",
+      "options": [
+        { "option_id": 1, "text": "They move too fast", "is_correct": false },
+        { "option_id": 2, "text": "They orbit above the equator", "is_correct": true },
+        { "option_id": 3, "text": "They are too small", "is_correct": false },
+        { "option_id": 4, "text": "They lack cameras", "is_correct": false }
+      ],
+      "answer": "They orbit above the equator"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Space debris can be reduced by _____.",
+      "options": [
+        { "option_id": 1, "text": "Launching more rockets", "is_correct": false },
+        { "option_id": 2, "text": "Designing reusable rockets", "is_correct": true },
+        { "option_id": 3, "text": "Blowing up old satellites", "is_correct": false },
+        { "option_id": 4, "text": "Ignoring it", "is_correct": false }
+      ],
+      "answer": "Designing reusable rockets"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "The escape velocity formula involves _____.",
+      "options": [
+        { "option_id": 1, "text": "v = u + at", "is_correct": false },
+        { "option_id": 2, "text": "v = sqrt(2GM/R)", "is_correct": true },
+        { "option_id": 3, "text": "F = ma", "is_correct": false },
+        { "option_id": 4, "text": "v = d/t", "is_correct": false }
+      ],
+      "answer": "v = sqrt(2GM/R)"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which of these is a navigation satellite system?",
+      "options": [
+        { "option_id": 1, "text": "INSAT", "is_correct": false },
+        { "option_id": 2, "text": "IRNSS", "is_correct": true },
+        { "option_id": 3, "text": "GSAT", "is_correct": false },
+        { "option_id": 4, "text": "METSAT", "is_correct": false }
+      ],
+      "answer": "IRNSS"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What happens to the kinetic energy of a rocket launched from Earth?",
+      "options": [
+        { "option_id": 1, "text": "It increases with height", "is_correct": false },
+        { "option_id": 2, "text": "It decreases as it moves away", "is_correct": true },
+        { "option_id": 3, "text": "It remains zero", "is_correct": false },
+        { "option_id": 4, "text": "It becomes infinite", "is_correct": false }
+      ],
+      "answer": "It decreases as it moves away"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "The time period of a satellite is related to its orbital radius by _____.",
+      "options": [
+        { "option_id": 1, "text": "T ∝ r", "is_correct": false },
+        { "option_id": 2, "text": "T^2 ∝ r^3", "is_correct": true },
+        { "option_id": 3, "text": "T ∝ r^2", "is_correct": false },
+        { "option_id": 4, "text": "T^3 ∝ r^2", "is_correct": false }
+      ],
+      "answer": "T^2 ∝ r^3"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "The term 'MOM' stands for _____.",
+      "options": [
+        { "option_id": 1, "text": "Moon Observation Mission", "is_correct": false },
+        { "option_id": 2, "text": "Mars Orbiter Mission", "is_correct": true },
+        { "option_id": 3, "text": "Main Operation Module", "is_correct": false },
+        { "option_id": 4, "text": "Modern Orbit Method", "is_correct": false }
+      ],
+      "answer": "Mars Orbiter Mission"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which rocket was developed by ISRO?",
+      "options": [
+        { "option_id": 1, "text": "Falcon 9", "is_correct": false },
+        { "option_id": 2, "text": "PSLV", "is_correct": true },
+        { "option_id": 3, "text": "Saturn V", "is_correct": false },
+        { "option_id": 4, "text": "Soyuz", "is_correct": false }
+      ],
+      "answer": "PSLV"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "The escape velocity on the Moon is _____ than on the Earth.",
+      "options": [
+        { "option_id": 1, "text": "Higher", "is_correct": false },
+        { "option_id": 2, "text": "Lower", "is_correct": true },
+        { "option_id": 3, "text": "Same", "is_correct": false },
+        { "option_id": 4, "text": "Zero", "is_correct": false }
+      ],
+      "answer": "Lower"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What provides the necessary centripetal force for a satellite?",
+      "options": [
+        { "option_id": 1, "text": "Magnetic force", "is_correct": false },
+        { "option_id": 2, "text": "Earth's gravitational force", "is_correct": true },
+        { "option_id": 3, "text": "Wind force", "is_correct": false },
+        { "option_id": 4, "text": "Nuclear force", "is_correct": false }
+      ],
+      "answer": "Earth's gravitational force"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Where is the head office of ISRO located?",
+      "options": [
+        { "option_id": 1, "text": "New Delhi", "is_correct": false },
+        { "option_id": 2, "text": "Bengaluru", "is_correct": true },
+        { "option_id": 3, "text": "Mumbai", "is_correct": false },
+        { "option_id": 4, "text": "Thiruvananthapuram", "is_correct": false }
+      ],
+      "answer": "Bengaluru"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Sputnik 1 was launched on _____.",
+      "options": [
+        { "option_id": 1, "text": "15th August 1947", "is_correct": false },
+        { "option_id": 2, "text": "4th October 1957", "is_correct": true },
+        { "option_id": 3, "text": "26th January 1950", "is_correct": false },
+        { "option_id": 4, "text": "21st July 1969", "is_correct": false }
+      ],
+      "answer": "4th October 1957"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "The height of a satellite in orbit depends on _____.",
+      "options": [
+        { "option_id": 1, "text": "Weather", "is_correct": false },
+        { "option_id": 2, "text": "Its purpose/function", "is_correct": true },
+        { "option_id": 3, "text": "The rocket's color", "is_correct": false },
+        { "option_id": 4, "text": "The time of day", "is_correct": false }
+      ],
+      "answer": "Its purpose/function"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "When a multi-stage rocket launches, the detached stages _____.",
+      "options": [
+        { "option_id": 1, "text": "Go to the Sun", "is_correct": false },
+        { "option_id": 2, "text": "Fall back to Earth or burn in atmosphere", "is_correct": true },
+        { "option_id": 3, "text": "Orbit forever", "is_correct": false },
+        { "option_id": 4, "text": "Land on the Moon", "is_correct": false }
+      ],
+      "answer": "Fall back to Earth or burn in atmosphere"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The orbital velocity of a satellite in LEO is approximately _____.",
+      "options": [
+        { "option_id": 1, "text": "2 km/s", "is_correct": false },
+        { "option_id": 2, "text": "8 km/s", "is_correct": true },
+        { "option_id": 3, "text": "11.2 km/s", "is_correct": false },
+        { "option_id": 4, "text": "30 km/s", "is_correct": false }
+      ],
+      "answer": "8 km/s"
+    },
     {
       "question_id": 51,
       "question_type": "SHORT",
@@ -374,7 +869,7 @@
       "question_id": 94,
       "question_type": "SHORT",
       "question": "What is the velocity of Earth's rotation at the equator?",
-      "answer": "The text implies it matches the geostationary satellite period, but doesn't give a specific km/h value."
+      "answer": "The text implies it matches the geostationary satellite period, which corresponds to roughly 1670 km/h."
     },
     {
       "question_id": 95,
@@ -572,7 +1067,7 @@
       "question_id": 127,
       "question_type": "SHORT",
       "question": "What is the escape velocity of Jupiter?",
-      "answer": "The text doesn't provide this value, but mentions Jupiter as part of solar system exploration."
+      "answer": "The escape velocity on Jupiter is approximately 59.5 km/s."
     },
     {
       "question_id": 128,
@@ -680,13 +1175,13 @@
       "question_id": 145,
       "question_type": "SHORT",
       "question": "How is velocity calculated using Kepler's law?",
-      "answer": "The text discusses T^2 ∝ r^3, but specific velocity calculations are done using v = sqrt(GM/r)."
+      "answer": "Specific velocity calculations are done using v = sqrt(GM/r) based on the balance of forces."
     },
     {
       "question_id": 146,
       "question_type": "SHORT",
       "question": "What is the weight of a person in space?",
-      "answer": "A person feels weightless inside an orbiting satellite due to the state of free fall."
+      "answer": "A person feels weightless inside an orbiting satellite due to the state of constant free fall."
     },
     {
       "question_id": 147,
@@ -728,7 +1223,7 @@
       "question_id": 153,
       "question_type": "LONG",
       "question": "Define and classify the orbits of artificial satellites based on their altitude.",
-      "answer": "Orbits are classified based on their height above the Earth's surface into three categories: 1. High Earth Orbits (HEO): Altitude higher than 35780 km. Satellites in HEO, like geostationary satellites, take 24 hours to complete one revolution, matching Earth's rotation. 2. Medium Earth Orbits (MEO): Altitude between 2000 km and 35780 km. These are primarily used for navigation satellites like GPS. 3. Low Earth Orbits (LEO): Altitude between 180 km and 2000 km. These are used for scientific research, Earth observation, and the International Space Station. The choice of orbit depends on the satellite's function."
+      "answer": "Orbits are classified based on their height above the Earth's surface into three categories: 1. High Earth Orbits (HEO): Altitude higher than 35780 km. Satellites in HEO, like geostationary satellites, take 24 hours to complete one revolution, matching Earth's rotation. 2. Medium Earth Orbits (MEO): Altitude between 2000 km and 35780 km. These are primarily used for navigation satellites like GPS. 3. Low Earth Orbits (LEO): Altitude between 180 km and 2000 km. These are used for scientific research, Earth observation, and the International Space Station. The choice of orbit depends on the satellite's function. "
     },
     {
       "question_id": 154,
@@ -740,19 +1235,19 @@
       "question_id": 155,
       "question_type": "LONG",
       "question": "Explain the working of a satellite launch vehicle with the help of a diagram.",
-      "answer": "A satellite launch vehicle is a rocket designed to carry a satellite into its specific orbit. It works on the principle of Newton's third law of motion. Most launch vehicles, like India's PSLV, are multi-stage rockets. The first stage provides the initial thrust using solid fuel. Once the fuel is exhausted, the stage detaches and falls off, reducing the rocket's weight. The next stage then ignites its engine (often using liquid fuel) to further increase the velocity. This process continues until the final stage reaches the required altitude and critical velocity, at which point the satellite is released into its orbit. This staged approach makes the launch more energy-efficient. [Image of a multi-stage rocket launch]"
+      "answer": "A satellite launch vehicle is a rocket designed to carry a satellite into its specific orbit. It works on the principle of Newton's third law of motion. Most launch vehicles, like India's PSLV, are multi-stage rockets. The first stage provides the initial thrust using solid fuel. Once the fuel is exhausted, the stage detaches and falls off, reducing the rocket's weight. The next stage then ignites its engine (often using liquid fuel) to further increase the velocity. This process continues until the final stage reaches the required altitude and critical velocity, at which point the satellite is released into its orbit. This staged approach makes the launch more energy-efficient. "
     },
     {
       "question_id": 156,
       "question_type": "LONG",
       "question": "What is escape velocity? Derive its formula using the principle of conservation of energy.",
-      "answer": "Escape velocity is the minimum velocity an object must be given from the Earth's surface to completely overcome Earth's gravitational pull. According to the principle of conservation of energy, the total energy (Kinetic + Potential) of an object on Earth's surface must equal its total energy at infinity. On surface: E1 = 1/2 m v^2 - GMM/R. At infinity, both velocity and gravitational pull are zero, so E2 = 0. Equating E1 = E2 gives 1/2 m v^2 = GMM/R. Solving for v, we get v_esc = sqrt(2GM/R). For Earth, this value is 11.2 km/s. An object moving at this speed will never return to Earth."
+      "answer": "Escape velocity is the minimum initial velocity an object must have on Earth's surface to overcome the Earth's gravitational pull and never return. According to the principle of conservation of energy, the total energy (Kinetic + Potential) of an object on Earth's surface must equal its total energy at infinity. On surface: E1 = 1/2 m v^2 - GMM/R. At infinity, both velocity and gravitational pull are zero, so E2 = 0. Equating E1 = E2 gives 1/2 m v^2 = GMM/R. Solving for v, we get v_esc = sqrt(2GM/R). For Earth, this value is 11.2 km/s. "
     },
     {
       "question_id": 157,
       "question_type": "LONG",
       "question": "Discuss the mission and achievements of ISRO's Chandrayaan-1.",
-      "answer": "Chandrayaan-1 was India's first mission to the Moon, launched in October 2008 by ISRO. Its primary objective was to orbit the Moon and create a detailed three-dimensional atlas of the lunar surface. It carried several scientific instruments from India and other countries. Its most significant achievement was the discovery of water molecules on the lunar surface, a breakthrough that changed our understanding of the Moon's environment. The mission also studied the Moon's mineral composition and chemical nature. Although the mission was intended for two years, it lasted for about 312 days but successfully completed most of its scientific goals, paving the way for future lunar exploration."
+      "answer": "Chandrayaan-1 was India's first mission to the Moon, launched in October 2008 by ISRO. Its primary objective was to orbit the Moon and create a detailed three-dimensional atlas of the lunar surface. It carried several scientific instruments from India and other countries. Its most significant achievement was the discovery of water molecules on the lunar surface, a breakthrough that changed our understanding of the Moon's environment. The mission also studied the Moon's mineral composition and chemical nature. Although the mission was intended for two years, it successfully completed most of its scientific goals, paving the way for future lunar exploration. "
     },
     {
       "question_id": 158,
@@ -764,19 +1259,19 @@
       "question_id": 159,
       "question_type": "LONG",
       "question": "Discuss the mission and achievements of ISRO's Mangalyaan (MOM).",
-      "answer": "Mangalyaan, or the Mars Orbiter Mission (MOM), was India's first interplanetary mission, launched by ISRO in November 2013. It aimed to explore the surface features and atmosphere of Mars. India achieved a historic milestone by becoming the first nation to reach Mars on its very first attempt and the first Asian country to do so. The mission was executed at a remarkably low cost compared to similar missions by other agencies. Mangalyaan has provided high-quality images of Mars and its moons, Deimos and Phobos, and has contributed valuable data about the presence of methane and other atmospheric components. It remains a symbol of India's growing prowess in space technology."
+      "answer": "Mangalyaan, or the Mars Orbiter Mission (MOM), was India's first interplanetary mission, launched by ISRO in November 2013. It aimed to explore the surface features and atmosphere of Mars. India achieved a historic milestone by becoming the first nation to reach Mars on its very first attempt and the first Asian country to do so. The mission was executed at a remarkably low cost compared to similar missions by other agencies. Mangalyaan has provided high-quality images of Mars and its moons, Deimos and Phobos, and has contributed valuable data about the presence of methane and other atmospheric components. "
     },
     {
       "question_id": 160,
       "question_type": "LONG",
       "question": "What is space debris? Why is it a serious problem, and how can it be managed?",
-      "answer": "Space debris refers to the collection of man-made objects in Earth's orbit that are no longer functional. This includes old satellites, detached rocket stages, and fragments from collisions. Because these objects move at very high speeds (around 8 km/s), even a small piece can cause catastrophic damage to active satellites or the International Space Station. As the number of space missions increases, the risk of collisions also rises. To manage this, scientists are developing methods to track debris and design spacecraft that can bring old satellites back to Earth or move them to higher 'graveyard orbits' where they won't pose a threat. Reducing debris is essential for the future of space travel."
+      "answer": "Space debris refers to the collection of man-made objects in Earth's orbit that are no longer functional. This includes old satellites, detached rocket stages, and fragments from collisions. Because these objects move at very high speeds (around 8 km/s), even a small piece can cause catastrophic damage to active satellites or the International Space Station. As the number of space missions increases, the risk of collisions also rises. To manage this, scientists are developing methods to track debris and design spacecraft that can bring old satellites back to Earth or move them to higher 'graveyard orbits' where they won't pose a threat. [Image showing the concentration of space debris around Earth]"
     },
     {
       "question_id": 161,
       "question_type": "LONG",
       "question": "Explain why multi-stage rockets are preferred over single-stage rockets for launching satellites.",
-      "answer": "Single-stage rockets are impractical for launching satellites because the entire weight of the fuel tanks and the rocket structure must be carried to the final destination. This requires an enormous amount of fuel. Multi-stage rockets solve this problem by carrying fuel in separate stages. When the fuel in the first stage is consumed, that entire stage detaches and falls away, significantly reducing the mass of the remaining vehicle. The next stage then ignites and accelerates the now-lighter rocket more easily. This allows the rocket to reach the high critical velocity needed for orbit with much less total fuel and weight, making space missions much more efficient and cost-effective."
+      "answer": "Single-stage rockets are impractical for launching satellites because the entire weight of the fuel tanks and the rocket structure must be carried to the final destination. This requires an enormous amount of fuel. Multi-stage rockets solve this problem by carrying fuel in separate stages. When the fuel in the first stage is consumed, that entire stage detaches and falls away, significantly reducing the mass of the remaining vehicle. The next stage then ignites and accelerates the now-lighter rocket more easily. This allows the rocket to reach the high critical velocity needed for orbit with much less total fuel and weight."
     },
     {
       "question_id": 162,
@@ -788,229 +1283,229 @@
       "question_id": 163,
       "question_type": "LONG",
       "question": "Describe the different functions performed by artificial satellites.",
-      "answer": "Artificial satellites perform a wide variety of essential functions. 1. Weather Satellites: Monitor atmospheric conditions and track storms for forecasting. 2. Communication Satellites: Relay radio, TV, and telephone signals across the globe. 3. Broadcast Satellites: Transmit television programs to large audiences. 4. Navigational Satellites: Provide precise location data for GPS and maritime/aviation safety. 5. Earth Observation Satellites: Monitor natural resources, forests, and the environment. 6. Military Satellites: Used for reconnaissance and national security. 7. Scientific Research: Carry telescopes and sensors to study space without atmospheric interference. Each type of satellite is placed in a specific orbit to best perform its designated task."
+      "answer": "Artificial satellites perform a wide variety of essential functions. 1. Weather Satellites: Monitor atmospheric conditions and track storms for forecasting. 2. Communication Satellites: Relay radio, TV, and telephone signals across the globe. 3. Broadcast Satellites: Transmit television programs to large audiences. 4. Navigational Satellites: Provide precise location data for GPS and maritime/aviation safety. 5. Earth Observation Satellites: Monitor natural resources, forests, and the environment. 6. Military Satellites: Used for reconnaissance and national security. 7. Scientific Research: Carry telescopes and sensors to study space without atmospheric interference."
     },
     {
       "question_id": 164,
       "question_type": "LONG",
       "question": "Explain the concept of polar orbits and their advantages for Earth observation.",
-      "answer": "Polar orbits are orbits where a satellite travels over the Earth's North and South poles. These are typically Low Earth Orbits. As the satellite orbits north-to-south, the Earth rotates beneath it from west-to-east. This combination allows the satellite to eventually pass over and scan every part of the Earth's surface. For Earth observation satellites, this is a major advantage as it provides a complete view of the planet over time. These orbits are used for mapping natural resources, monitoring environmental changes, and disaster management. The low altitude also ensures high-resolution imagery, which is crucial for detailed scientific analysis."
+      "answer": "Polar orbits are orbits where a satellite travels over the Earth's North and South poles. These are typically Low Earth Orbits. As the satellite orbits north-to-south, the Earth rotates beneath it from west-to-east. This combination allows the satellite to eventually pass over and scan every part of the Earth's surface. For Earth observation satellites, this is a major advantage as it provides a complete view of the planet over time. These orbits are used for mapping natural resources, monitoring environmental changes, and disaster management."
     },
     {
       "question_id": 165,
       "question_type": "LONG",
       "question": "Describe the experience of weightlessness in space and the reasons for it.",
-      "answer": "Inside an orbiting satellite, astronauts and objects appear to be weightless and float in the air. This is not because there is no gravity; in fact, the gravitational pull in LEO is still about 90% of that on the surface. The weightlessness occurs because the satellite and everything inside it are in a state of continuous free fall towards the Earth. Since they are all falling at the same rate, they don't exert any force on each other (like a person standing on the floor). This state is known as microgravity. It allows for scientific experiments that are impossible on Earth, such as growing high-quality crystals or studying the behavior of fluids without gravity's influence."
+      "answer": "Inside an orbiting satellite, astronauts and objects appear to be weightless and float in the air. This is not because there is no gravity; in fact, the gravitational pull in LEO is still about 90% of that on the surface. The weightlessness occurs because the satellite and everything inside it are in a state of continuous free fall towards the Earth. Since they are all falling at the same rate, they don't exert any force on each other (like a person standing on the floor). This state is known as microgravity. It allows for scientific experiments that are impossible on Earth."
     },
     {
       "question_id": 166,
       "question_type": "LONG",
       "question": "How are satellites classified based on their orbital heights? Provide one example for each.",
-      "answer": "Satellites are classified into three types based on height. 1. High Earth Orbit (HEO): Above 35780 km. Example: Communication satellites like the INSAT series, which match Earth's rotation to stay over one spot. 2. Medium Earth Orbit (MEO): Between 2000 km and 35780 km. Example: Navigation satellites like those used in the Global Positioning System (GPS). 3. Low Earth Orbit (LEO): Between 180 km and 2000 km. Example: Scientific and observation satellites like the Hubble Space Telescope or the International Space Station. Each altitude offers specific benefits for different types of missions."
+      "answer": "Satellites are classified into three types based on height. 1. High Earth Orbit (HEO): Above 35780 km. Example: Communication satellites like the INSAT series. 2. Medium Earth Orbit (MEO): Between 2000 km and 35780 km. Example: Navigation satellites like those used in GPS. 3. Low Earth Orbit (LEO): Between 180 km and 2000 km. Example: Scientific and observation satellites like the Hubble Space Telescope. Each altitude offers specific benefits for different types of missions."
     },
     {
       "question_id": 167,
       "question_type": "LONG",
       "question": "What is India's Regional Navigation Satellite System (IRNSS)? Explain its purpose.",
-      "answer": "The Indian Regional Navigation Satellite System (IRNSS), commercially known as NavIC, is an independent regional navigation system developed by ISRO. It consists of a constellation of 7 satellites (3 in geostationary and 4 in geosynchronous orbits). Its purpose is to provide accurate real-time positioning and timing services over India and the surrounding region (extending up to 1500 km from its borders). It reduces India's dependence on foreign systems like GPS for critical civilian and military applications. NavIC is used for terrestrial and marine navigation, disaster management, vehicle tracking, and integration with mobile phones for daily location-based services."
+      "answer": "The Indian Regional Navigation Satellite System (IRNSS), commercially known as NavIC, is an independent regional navigation system developed by ISRO. It consists of a constellation of 7 satellites. Its purpose is to provide accurate real-time positioning and timing services over India and the surrounding region. It reduces India's dependence on foreign systems like GPS for critical civilian and military applications. NavIC is used for terrestrial and marine navigation, disaster management, and vehicle tracking."
     },
     {
       "question_id": 168,
       "question_type": "LONG",
       "question": "Discuss the risks and challenges involved in interplanetary space missions.",
-      "answer": "Interplanetary missions are extremely challenging and risky. The spacecraft must travel for months or years across millions of kilometers of space, facing extreme temperatures and intense radiation. Precision is critical; a tiny error in the launch velocity or direction can cause the spacecraft to miss its target planet entirely. Maintaining communication over such vast distances is another hurdle. Landing on another planet (like Mars) is especially difficult due to the thin atmosphere or rough terrain. Furthermore, these missions are very expensive. ISRO's success with Mangalyaan on its first attempt demonstrated exceptional engineering and planning, overcoming these complex risks to achieve scientific success."
+      "answer": "Interplanetary missions are extremely challenging. The spacecraft must travel for months across millions of kilometers, facing extreme temperatures and intense radiation. Precision is critical; a tiny error in launch velocity can cause the spacecraft to miss its target. Maintaining communication over such vast distances is another hurdle. Landing on another planet is especially difficult due to the thin atmosphere or rough terrain. Furthermore, these missions are very expensive. ISRO's success with Mangalyaan on its first attempt demonstrated exceptional engineering."
     },
     {
       "question_id": 169,
       "question_type": "LONG",
       "question": "Explain the role of the International Space Station (ISS).",
-      "answer": "The International Space Station (ISS) is a large modular space station in Low Earth Orbit that serves as a unique laboratory for scientific research. It is a collaborative project involving several space agencies, including NASA, ROSCOSMOS, and ESA. Scientists live and work on the ISS to conduct experiments in biology, physics, astronomy, and meteorology that cannot be done on Earth due to gravity. It helps us understand the long-term effects of space travel on the human body, which is vital for future missions to Mars and beyond. The ISS also tests new space technologies and provides a continuous human presence in space, promoting international cooperation in science."
+      "answer": "The International Space Station (ISS) is a large modular space station in Low Earth Orbit that serves as a unique laboratory for scientific research. It is a collaborative project involving several space agencies. Scientists live and work on the ISS to conduct experiments in biology, physics, and meteorology that cannot be done on Earth due to gravity. It helps us understand the long-term effects of space travel on the human body, which is vital for future missions to Mars. The ISS also tests new space technologies and promotes international cooperation."
     },
     {
       "question_id": 170,
       "question_type": "LONG",
       "question": "What is the future of space missions? Mention upcoming goals like human spaceflight.",
-      "answer": "The future of space missions is focused on deeper exploration and human colonization. One major goal is sending humans back to the Moon and establishing a permanent base there. Another significant objective is sending the first human mission to Mars. For India, the upcoming Gaganyaan mission aims to send Indian astronauts (Gaganauts) into space using an indigenous rocket, making India one of the few nations with human spaceflight capability. There are also plans to explore asteroids for mining resources and to send advanced telescopes to study the early universe. Private companies are also playing an increasing role, aiming for space tourism and commercial space stations, marking a new era in the exploration of the final frontier."
+      "answer": "The future of space missions is focused on deeper exploration and potential human colonization. One major goal is sending humans back to the Moon and establishing a permanent base. Another significant objective is the first human mission to Mars. For India, the upcoming Gaganyaan mission aims to send Indian astronauts into space using an indigenous rocket. There are also plans to explore asteroids for mining resources and to study the early universe with advanced telescopes. Private companies are also playing an increasing role, aiming for space tourism."
     },
     {
       "question_id": 171,
       "question_type": "LONG",
       "question": "Explain the math behind a geostationary orbit's height.",
-      "answer": "For a satellite to be geostationary, its orbital period T must be 24 hours (86400 seconds). Using the formula for time period T = 2π sqrt((R+h)^3 / GM), we can calculate h. Given Earth's mass M = 6 x 10^24 kg, radius R = 6400 km, and gravitational constant G = 6.67 x 10^-11 Nm^2/kg^2. Substituting these values and solving for h, we find that the required altitude is approximately 35780 km. At this specific height, the satellite's angular speed matches the Earth's rotation. This precise balance of gravitational pull and orbital velocity ensures the satellite remains stationary relative to a point on the equator."
+      "answer": "For a satellite to be geostationary, its orbital period T must be 24 hours (86400 seconds). Using the formula for time period T = 2π sqrt((R+h)^3 / GM), we can calculate h. Given Earth's mass M = 6 x 10^24 kg, radius R = 6400 km, and gravitational constant G = 6.67 x 10^-11 Nm^2/kg^2. Substituting these values and solving for h, we find that the required altitude is approximately 35780 km. At this height, the satellite's speed matches the Earth's rotation."
     },
     {
       "question_id": 172,
       "question_type": "LONG",
       "question": "Describe the layout and components of ISRO's PSLV rocket.",
-      "answer": "The PSLV (Polar Satellite Launch Vehicle) is a four-stage rocket. 1. First Stage: Uses solid fuel and provides the initial massive thrust to lift the rocket off the launch pad. 2. Second Stage: Uses liquid fuel and ignites after the first stage is discarded, accelerating the vehicle through the upper atmosphere. 3. Third Stage: Uses solid fuel for high propulsion in the vacuum of space. 4. Fourth Stage: Uses liquid fuel and is responsible for the precise placement of the satellite into its target orbit. At the very top is the 'Payload' area where the satellite is kept. This multi-stage design allows the PSLV to launch various types of satellites with high reliability and precision. "
+      "answer": "The PSLV (Polar Satellite Launch Vehicle) is a four-stage rocket. 1. First Stage: Uses solid fuel and provides the massive initial thrust. 2. Second Stage: Uses liquid fuel and accelerates the vehicle through the upper atmosphere. 3. Third Stage: Uses solid fuel for propulsion in vacuum. 4. Fourth Stage: Uses liquid fuel and is responsible for precise placement of the satellite. At the top is the 'Payload' where the satellite is kept. "
     },
     {
       "question_id": 173,
       "question_type": "LONG",
       "question": "Compare space missions away from Earth with Earth-orbiting missions.",
-      "answer": "Earth-orbiting missions focus on placing satellites around our planet to provide services like communication, TV broadcasting, and weather study. These satellites stay relatively close and are used for practical applications that improve daily life on Earth. In contrast, space missions away from Earth (deep space missions) travel to other bodies in the solar system. Their goal is primarily scientific discovery—understanding the origin of the solar system, searching for life on Mars, or studying the geology of the Moon. These missions are far more complex, requiring higher velocities to escape Earth's gravity and sophisticated communication systems to talk back from millions of kilometers away."
+      "answer": "Earth-orbiting missions focus on placing satellites around our planet to provide services like communication and weather study. These stay relatively close and improve daily life on Earth. In contrast, space missions away from Earth travel to other bodies in the solar system for scientific discovery—understanding the origin of the solar system or searching for life on Mars. These are far more complex, requiring higher velocities to escape Earth's gravity and sophisticated long-distance communication systems."
     },
     {
       "question_id": 174,
       "question_type": "LONG",
       "question": "Explain the concept of an elliptical orbit using the terms apogee and perigee.",
-      "answer": "Satellites do not always orbit in perfect circles; many follow elliptical paths. An ellipse is a flattened circle with two focal points, and the Earth is located at one of these foci. Because of this shape, the satellite's distance from the Earth changes throughout its orbit. The point where the satellite is closest to the Earth is called 'perigee'. At this point, the Earth's gravitational pull is strongest, and the satellite's speed is highest. The point where the satellite is farthest from the Earth is called 'apogee'. Here, gravity is weaker and the satellite moves at its slowest speed. Understanding these points is crucial for calculating the satellite's trajectory and mission life. "
+      "answer": "Satellites often follow elliptical paths where Earth is at one of the foci. Because of this shape, the distance from the Earth changes throughout the orbit. The point where the satellite is closest to the Earth is called 'perigee', where speed is highest. The point where the satellite is farthest is called 'apogee', where the satellite moves at its slowest speed. These points are crucial for mission planning."
     },
     {
       "question_id": 175,
       "question_type": "LONG",
       "question": "Discuss the life and death of a satellite in orbit.",
-      "answer": "A satellite's life begins with its launch and successful placement in its designated orbit. It performs its tasks using solar power and on-board instruments for several years. However, its life is limited by its fuel for orbit-keeping and the degradation of its electronics. When a satellite becomes non-functional, it is 'retired'. Depending on its altitude, it may be moved to a 'graveyard orbit' to prevent collisions with active satellites. Over time, atmospheric drag in lower orbits causes it to slow down and lose height. Eventually, it enters the thicker layers of Earth's atmosphere, where the intense friction causes it to burn up. Pieces that survive the heat fall into the ocean, ending the satellite's mission."
+      "answer": "A satellite performs its tasks using solar power for several years. However, its life is limited by fuel for orbit-keeping and electronics degradation. When a satellite becomes non-functional, it is 'retired'. It may be moved to a 'graveyard orbit' to prevent collisions. Over time, atmospheric drag in lower orbits causes it to slow down. Eventually, it enters the thicker atmosphere and burns up due to intense friction. Surviving pieces fall into the ocean, ending the mission."
     },
     {
       "question_id": 176,
       "question_type": "LONG",
       "question": "Explain the role of the Moon as a target for space exploration.",
-      "answer": "The Moon is the closest astronomical body to Earth, making it the most accessible target for space exploration. Missions to the Moon, like the Apollo program and Chandrayaan, help us study the early history of the Earth-Moon system. The Moon serves as a testing ground for technologies needed for more distant missions, such as Mars. Its lack of atmosphere and low gravity make it an ideal place for building telescopes and potential habitats. The discovery of water ice at the lunar poles is particularly significant, as it could provide fuel and water for future deep-space missions. Exploring the Moon is a vital stepping stone for humanity to become a multi-planetary species."
+      "answer": "The Moon is the closest body to Earth and serves as a testing ground for technologies needed for Mars. Studying the Moon helps us understand the early history of the Earth-Moon system. Its lack of atmosphere and low gravity make it ideal for future habitats. The discovery of water ice at the poles is significant, as it could provide fuel and water for future missions. Exploring the Moon is a vital stepping stone for multi-planetary life."
     },
     {
       "question_id": 177,
       "question_type": "LONG",
       "question": "Describe the mission and findings of the Voyager spacecraft series.",
-      "answer": "The Voyager missions (Voyager 1 and 2) are among the most successful deep-space explorations. Launched in 1977, they were sent to explore the outer planets: Jupiter, Saturn, Uranus, and Neptune. They provided the first detailed close-up images of these gas giants and their rings and moons. Voyager missions discovered many new moons and active volcanoes on Jupiter's moon, Io. Voyager 1 has now traveled beyond our solar system into interstellar space, carrying a 'Golden Record' with sounds and images of Earth for any potential extraterrestrial civilization. These missions have provided unprecedented data that continues to be studied today, expanding the boundaries of human knowledge."
+      "answer": "Launched in 1977, the Voyager missions (Voyager 1 and 2) explored the outer planets: Jupiter, Saturn, Uranus, and Neptune. They provided the first detailed close-up images of these giants and discovered many new moons and active volcanoes. Voyager 1 has now traveled beyond our solar system into interstellar space. These missions have provided unprecedented data that expands human knowledge of the universe."
     },
     {
       "question_id": 178,
       "question_type": "LONG",
       "question": "Explain how the Global Positioning System (GPS) works using satellites.",
-      "answer": "GPS works using a constellation of at least 24 satellites in Medium Earth Orbit. These satellites continuously transmit signals indicating their exact position and the time the signal was sent. A GPS receiver on Earth (like in your phone) receives these signals from at least four satellites. By calculating the time it took for each signal to arrive, the receiver determines its distance from each satellite. Through a process called trilateration, the receiver can then pinpoint its own exact latitude, longitude, and altitude. This system provides extremely accurate location data anywhere on Earth, essential for modern transportation, mapping, and emergency services."
+      "answer": "GPS works using a constellation of at least 24 satellites in Medium Earth Orbit. These satellites continuously transmit position and time signals. A GPS receiver on Earth receives signals from at least four satellites and determines its distance from each by calculating travel time. Through trilateration, the receiver pinpoints its exact latitude, longitude, and altitude, providing accurate location data anywhere on Earth."
     },
     {
       "question_id": 179,
-      "LONG": "LONG",
+      "question_type": "LONG",
       "question": "Discuss the various Indian satellite series and their specific applications.",
-      "answer": "India has several specialized satellite series developed by ISRO. 1. INSAT & GSAT: Used for telecommunication, TV broadcasting, and weather forecasting. 2. IRS: The Indian Remote Sensing series is used for Earth observation and managing natural resources like water and forests. 3. EDUSAT: Specifically designed for the education sector to provide remote learning across India. 4. IRNSS (NavIC): A regional navigation system providing positioning data for India. 5. METSAT: Used for dedicated meteorological studies. Together, these systems support India's infrastructure, security, and socio-economic development, fulfilling the goal of using space for national progress."
+      "answer": "India has specialized satellite series: 1. INSAT & GSAT: Telecommunication and weather forecasting. 2. IRS: Earth observation and resource mapping. 3. EDUSAT: Remote learning and education. 4. IRNSS (NavIC): Regional navigation. 5. METSAT: Dedicated meteorological studies. These systems support India's infrastructure and socio-economic development."
     },
     {
       "question_id": 180,
       "question_type": "LONG",
       "question": "What is the escape velocity on Earth and on the Moon? Compare them.",
-      "answer": "The escape velocity on Earth is approximately 11.2 km/s. This is the speed needed to break free from Earth's strong gravitational pull. On the Moon, the gravity is much weaker (about 1/6th of Earth's), and its mass and radius are smaller. Consequently, the escape velocity on the Moon is only about 2.37 km/s. This comparison highlights why it is much easier to launch a rocket from the Moon than from the Earth. It also explains why the Moon has no atmosphere; the gas molecules move at speeds higher than its escape velocity and escape into space, whereas Earth's higher gravity holds its atmosphere in place."
+      "answer": "The escape velocity on Earth is approximately 11.2 km/s. On the Moon, due to weaker gravity and smaller mass, the escape velocity is only about 2.37 km/s. This makes it much easier to launch a rocket from the Moon than from Earth. It also explains why the Moon has no atmosphere; gas molecules easily escape into space."
     },
     {
       "question_id": 181,
       "question_type": "LONG",
-      "question": "Explain the difference between Low Earth Orbit (LEO) and High Earth Orbit (HEO) in terms of purpose and characteristics.",
-      "answer": "LEO satellites orbit at low altitudes (180-2000 km) and move very fast, completing a revolution in about 90 minutes. Their proximity to Earth makes them perfect for high-resolution Earth observation and scientific research, like the International Space Station. However, their view of any single spot is brief. HEO satellites, specifically geostationary ones, orbit at 35780 km. They move slower, taking 24 hours to revolve. This allows them to stay fixed over one spot on Earth, making them ideal for continuous communication and TV broadcasting. LEO is for details and research, while HEO is for broad, continuous coverage."
+      "question": "Explain the difference between Low Earth Orbit (LEO) and High Earth Orbit (HEO) in terms of purpose.",
+      "answer": "LEO satellites orbit at low altitudes and move very fast, completing a revolution in 90 minutes. They are used for high-resolution Earth observation and research (like the ISS). HEO geostationary satellites orbit at 35780 km and take 24 hours to revolve, staying fixed over one spot. This makes them ideal for continuous communication and broadcasting."
     },
     {
       "question_id": 182,
       "question_type": "LONG",
       "question": "Describe the mission objectives of ISRO's Astrosat.",
-      "answer": "Astrosat is India's first dedicated multi-wavelength space observatory. Launched by ISRO, its objective is to study celestial sources like stars and galaxies in ultraviolet, optical, and X-ray wavelengths simultaneously. Most ground telescopes are limited by Earth's atmosphere, which blocks many of these radiations. By orbiting above the atmosphere, Astrosat provides a clearer and more complete view of the universe. It helps astronomers study black holes, star birth, and high-energy processes in the cosmos. Astrosat represents a major step for India in the field of pure space science and astronomy, contributing to global research."
+      "answer": "Astrosat is India's first dedicated multi-wavelength space observatory. It studies celestial sources like galaxies in ultraviolet, optical, and X-ray wavelengths simultaneously. By orbiting above the atmosphere, it provides a clearer view of the universe, helping astronomers study black holes and star birth. It contributes significantly to global space science research."
     },
     {
       "question_id": 183,
       "question_type": "LONG",
-      "question": "What happens if a satellite's velocity is less than the critical velocity? Discuss the outcomes.",
-      "answer": "A satellite stays in orbit because its horizontal velocity is exactly equal to the critical velocity needed for that height. If the velocity is slightly less than vc, the Earth's gravitational pull will be stronger than the required centripetal force, causing the satellite to follow a spiral path and eventually fall back into the atmosphere and burn up. If the velocity is much lower, it will crash directly. Conversely, if the velocity is slightly more than vc, the orbit becomes elliptical. If it reaches or exceeds the escape velocity, the satellite will break free from Earth's gravity entirely and move into deep space. Maintaining the correct vc is vital for any stable mission."
+      "question": "What happens if a satellite's velocity is less than the critical velocity?",
+      "answer": "A satellite stays in orbit because its horizontal velocity equals the required critical velocity. If velocity is less than vc, Earth's gravity will pull it into a spiral path, causing it to fall and burn up in the atmosphere. If velocity exceeds vc, the orbit becomes elliptical; if it reaches escape velocity, it leaves Earth's gravity entirely."
     },
     {
       "question_id": 184,
       "question_type": "LONG",
       "question": "Discuss the role of computers and electronics in a successful space mission.",
-      "answer": "Computers are the brain of any space mission. On-board computers manage navigation, control the rocket's engines during launch, and handle the deployment of satellites. They monitor the health of spacecraft systems and process data from scientific instruments. On the ground, powerful supercomputers calculate trajectories and simulate mission scenarios to ensure safety. Electronics, including sophisticated sensors and communication hardware, allow the spacecraft to 'see' and 'talk' back to Earth from millions of kilometers away. Without highly reliable and compact electronic components and advanced software, the complex calculations and automated operations required for space travel would be impossible."
+      "answer": "Computers manage navigation, engine control, and satellite deployment. They monitor system health and process instrument data. On the ground, supercomputers calculate trajectories and simulate mission scenarios. Sophisticated sensors and communication hardware allow the spacecraft to communicate with Earth from vast distances, making complex automated operations possible."
     },
     {
       "question_id": 185,
       "question_type": "LONG",
       "question": "Explain how the Earth's atmosphere protects us and how space missions study it.",
-      "answer": "Earth's atmosphere is a protective shield that provides oxygen for life and blocks harmful solar radiation and meteorites. It also regulates the planet's temperature through the greenhouse effect. However, the atmosphere also blocks or distorts many light signals from space, which is a challenge for astronomers. Space missions help study the atmosphere from above. Weather satellites track global wind patterns and temperatures to improve forecasting. Specialized satellites monitor the ozone layer and greenhouse gas levels to track climate change. By looking back at Earth from space, these missions provide a global perspective on the health and behavior of our atmosphere."
+      "answer": "The atmosphere provides oxygen and blocks harmful solar radiation and meteorites. Space missions study it from above; weather satellites track wind patterns and temperatures to improve forecasting. Specialized satellites monitor the ozone layer and greenhouse gas levels to track climate change, providing a global perspective on environmental health."
     },
     {
       "question_id": 186,
       "question_type": "LONG",
-      "question": "Solve Example 5a: Mass of planet is 8 times Earth's mass and radius is twice Earth's radius. Find its escape velocity.",
-      "answer": "Escape velocity formula is v = sqrt(2GM/R). Let Earth's mass be Me and radius be Re. For the new planet, Mp = 8Me and Rp = 2Re. Substituting these: v_planet = sqrt(2G(8Me) / (2Re)) = sqrt(4 * (2GMe/Re)) = 2 * sqrt(2GMe/Re). Since Earth's escape velocity (sqrt(2GMe/Re)) is 11.2 km/s, the planet's escape velocity is 2 * 11.2 = 22.4 km/s. This shows that the escape velocity increases as the planet becomes more massive or compact."
+      "question": "Solve: Mass of planet is 8 times Earth's mass and radius is twice Earth's radius. Find its escape velocity.",
+      "answer": "Escape velocity formula is v = sqrt(2GM/R). For the new planet: v_planet = sqrt(2G(8Me) / (2Re)) = sqrt(4 * (2GMe/Re)) = 2 * sqrt(2GMe/Re). Since Earth's escape velocity is 11.2 km/s, the planet's escape velocity is 2 * 11.2 = 22.4 km/s."
     },
     {
       "question_id": 187,
       "question_type": "LONG",
       "question": "Explain the concept of free fall and why it leads to weightlessness in satellites.",
-      "answer": "Free fall is the motion of an object where only gravity is acting upon it. A satellite in orbit is in a state of continuous free fall towards the Earth. However, because it has high horizontal velocity, it 'misses' the Earth and falls along a curved path that matches the Earth's curvature. Inside the satellite, everything is also in free fall. Imagine a person in an elevator whose cable has snapped; the person and the elevator fall together, so the person feels no weight on their feet. Similarly, astronauts feel weightless because the satellite floor is 'falling' away from them at the same rate they are falling, creating a zero-gravity environment. "
+      "answer": "Free fall is motion where only gravity is acting. A satellite in orbit is in continuous free fall towards Earth but 'misses' it due to high horizontal velocity. Inside, everything falls at the same rate, so they don't exert force on each other, creating a zero-gravity environment similar to a person in a falling elevator."
     },
     {
       "question_id": 188,
       "question_type": "LONG",
       "question": "Describe the different types of rockets based on the type of fuel used.",
-      "answer": "Rockets are primarily classified by their propellants. 1. Solid-Fuel Rockets: Use solid chemicals that burn to produce thrust. They are simple, reliable, and provide a huge amount of force, making them ideal for the first stage of a launch. However, they cannot be turned off once ignited. 2. Liquid-Fuel Rockets: Use liquid oxygen and liquid fuels (like hydrogen or kerosene). These are more complex but offer higher efficiency and the ability to control or restart the engine in space. 3. Ion/Electric Propulsion: Use electricity to accelerate ions. These provide very low thrust but are extremely efficient for long-duration deep-space missions. Most modern launchers use a combination of these for different mission phases."
+      "answer": "1. Solid-Fuel Rockets: Use solid chemicals; simple and reliable for initial thrust. 2. Liquid-Fuel Rockets: Use liquid oxygen and fuels; offer higher efficiency and controllable engines. 3. Ion Propulsion: Use electricity to accelerate ions; extremely efficient for long deep-space missions. Most modern launchers use a combination."
     },
     {
       "question_id": 189,
       "question_type": "LONG",
       "question": "What is the significance of the first moon landing in 1969?",
-      "answer": "The Apollo 11 mission in 1969, where Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon, was a monumental achievement for humanity. It proved that human beings could travel to and survive on another celestial body. The mission brought back lunar soil and rock samples that provided invaluable scientific data about the Moon's origin and composition. It demonstrated the peak of engineering and technological capability of the time. Beyond science, it inspired millions of people and showed that with vision and cooperation, humanity can overcome immense challenges to reach the stars."
+      "answer": "The Apollo 11 mission proved that humans could travel to and survive on another celestial body. It brought back rock samples that provided data about the Moon's origin. It demonstrated the peak of technological capability and inspired millions by showing that humanity can overcome immense challenges."
     },
     {
       "question_id": 190,
       "question_type": "LONG",
       "question": "Discuss the environmental hazards of launching rockets from Earth.",
-      "answer": "While essential for progress, rocket launches have environmental impacts. The burning of massive amounts of fuel releases carbon dioxide and other gases into the atmosphere, contributing to global warming. Some solid rocket boosters release chemicals that can damage the ozone layer. Furthermore, detached rocket stages that fall back into the ocean can disrupt marine life. The noise from launches also affects local ecosystems. As space activity increases, there is a growing focus on 'Green Space' technology—developing cleaner fuels and reusable rockets that minimize waste and pollution, ensuring that our exploration of space does not come at the cost of our own planet's health."
+      "answer": "Rocket launches release carbon dioxide and gases into the atmosphere, contributing to global warming. Solid boosters can damage the ozone layer. Detached rocket stages in the ocean can disrupt marine life. As activity increases, there is a focus on 'Green Space' technology—developing cleaner fuels and reusable rockets to minimize pollution."
     },
     {
       "question_id": 191,
       "question_type": "LONG",
       "question": "Explain the role of ground stations in a space mission.",
-      "answer": "Ground stations are the Earth-based link to a space mission. They consist of large parabolic antennas and powerful transmitters and receivers. Ground stations track the satellite's position to ensure it is in the correct orbit. They send commands to the spacecraft to adjust its orientation or perform tasks. Most importantly, they receive the 'downlink' data—the scientific information, images, or communication signals sent by the satellite. Because a single station cannot see a satellite all the time as the Earth rotates, a global network of ground stations is used to maintain constant contact with the mission."
+      "answer": "Ground stations are the Earth-based link to a mission. They track satellite positions and send commands to adjust orientation or tasks. Crucially, they receive 'downlink' data—scientific info and images sent by the satellite. A global network of stations is used to maintain constant contact as Earth rotates."
     },
     {
       "question_id": 192,
       "question_type": "LONG",
-      "question": "How does the mass and radius of a planet affect its escape velocity? Provide examples.",
-      "answer": "The escape velocity (v_esc) is directly proportional to the square root of a planet's mass (M) and inversely proportional to the square root of its radius (R). This means more massive planets have much higher escape velocities. For example, Jupiter, being extremely massive, has an escape velocity of about 59.5 km/s. Conversely, smaller bodies have lower escape velocities. The Moon, which has much less mass than Earth, has an escape velocity of only 2.37 km/s. This is why small asteroids often have no atmosphere—the velocity of gas molecules is higher than the asteroid's low escape velocity, so they drift away into space."
+      "question": "How does the mass and radius of a planet affect its escape velocity?",
+      "answer": "Escape velocity is directly proportional to the square root of mass and inversely proportional to the square root of radius. Massive planets like Jupiter have high escape velocities (59.5 km/s). Smaller bodies like the Moon have low escape velocities (2.37 km/s), explaining why they often lack atmospheres."
     },
     {
       "question_id": 193,
       "question_type": "LONG",
       "question": "Discuss the importance of the Hubble Space Telescope.",
-      "answer": "The Hubble Space Telescope, orbiting in LEO since 1990, has revolutionized astronomy. Unlike ground telescopes, Hubble is above the Earth's atmosphere, which blocks UV rays and distorts light. This allows Hubble to take extremely clear and detailed images of distant stars and galaxies. It has helped scientists determine the age of the universe, observe the birth and death of stars, and discover black holes. Hubble's images have not only provided incredible scientific data but have also captured the public's imagination, showing the beauty and vastness of the cosmos in unprecedented detail. It remains one of the most important scientific tools ever built."
+      "answer": "Orbiting in LEO since 1990, Hubble is above atmospheric distortion, allowing extremely clear images of distant galaxies. It has helped determine the age of the universe and observe star birth. Its images have provided incredible scientific data and captured the public's imagination, showing the beauty of the cosmos."
     },
     {
       "question_id": 194,
       "question_type": "LONG",
       "question": "What are the common propulsion systems used in spacecraft after reaching space?",
-      "answer": "Once in the vacuum of space, spacecraft need different propulsion systems to move. 1. Chemical Thrusters: Use small amounts of on-board fuel for precise maneuvers or orbit corrections. 2. Ion Thrusters: Use solar energy to accelerate charged particles. They are very efficient for long interplanetary journeys because they can run for a long time. 3. Gravity Assist: A clever technique where the spacecraft uses the gravitational pull of a planet it passes to increase its speed and change its direction without using fuel. This was used by the Voyager missions to travel across the outer solar system. These systems allow spacecraft to travel millions of kilometers and reach their targets accurately."
+      "answer": "1. Chemical Thrusters: For precise maneuvers. 2. Ion Thrusters: Use solar energy; efficient for long journeys. 3. Gravity Assist: Using a planet's gravitational pull to increase speed and change direction without fuel. These systems allow spacecraft to travel millions of kilometers accurately."
     },
     {
       "question_id": 195,
       "question_type": "LONG",
       "question": "Explain the role of Rakesh Sharma in India's space history.",
-      "answer": "Rakesh Sharma became the first Indian citizen to travel into space in 1984 as part of a joint mission between India and the Soviet Union. He spent eight days aboard the Salyut 7 space station. During the mission, he conducted various scientific experiments, including studying the effects of space on the human body and photographing India from above to help with resource management. When asked by Prime Minister Indira Gandhi how India looked from space, he famously replied, 'Sare Jahan Se Achha'. His journey was a historic moment that inspired a generation of Indians and put India on the map as a nation capable of participating in advanced space research."
+      "answer": "Rakesh Sharma was the first Indian citizen in space, traveling in 1984. He conducted experiments on the Salyut 7 station, including studying space effects on the body and photographing India for resource management. His journey inspired a generation and proved India's capability in space research."
     },
     {
       "question_id": 196,
       "question_type": "LONG",
       "question": "Discuss the concept of 'graveyard orbits' and their necessity.",
-      "answer": "A graveyard orbit is a designated region of space, usually far above functional geostationary orbits (around 36000 km), where old satellites are moved at the end of their lives. This is necessary because geostationary orbits are highly valuable and limited. If a dead satellite is left there, it could collide with active ones or take up a needed spot. By using the last bit of its fuel to push itself into the graveyard orbit, the satellite is safely removed from the working zone. This practice is essential for managing space traffic and preventing the runaway growth of space debris, ensuring the long-term sustainability of space activities."
+      "answer": "A graveyard orbit is a region far above geostationary orbits where old satellites are moved. This is necessary because geostationary spots are valuable and limited. Moving dead satellites there prevents collisions with active ones and ensures the long-term sustainability of space activities."
     },
     {
       "question_id": 197,
       "question_type": "LONG",
       "question": "Describe the mission of Cassini-Huygens to Saturn.",
-      "answer": "Cassini-Huygens was a massive international mission sent to explore Saturn and its moons. It consisted of an orbiter (Cassini) and a lander (Huygens). Cassini spent over 13 years orbiting Saturn, providing spectacular images and data about the planet's complex ring system and its atmosphere. The Huygens lander successfully touched down on Saturn's largest moon, Titan, revealing a world with liquid methane lakes and a thick atmosphere. The mission greatly expanded our knowledge of the outer solar system and the potential for life on other moons. It concluded in 2017 with Cassini diving into Saturn's atmosphere, providing data until its final moments."
+      "answer": "An international mission consisting of an orbiter (Cassini) and lander (Huygens). Cassini provided spectacular data about Saturn's rings and atmosphere for 13 years. Huygens touched down on Titan, revealing liquid methane lakes. The mission greatly expanded our knowledge of the outer solar system."
     },
     {
       "question_id": 198,
       "question_type": "LONG",
       "question": "Explain how satellites help in tracking and managing natural disasters.",
-      "answer": "Satellites are powerful tools for disaster management. Weather satellites track the development of cyclones and hurricanes in real-time, providing early warnings that allow for mass evacuations and save thousands of lives. Earth observation satellites take detailed images of areas affected by floods or earthquakes, helping rescue teams identify the hardest-hit regions and plan the best routes for aid. Communication satellites provide vital links in disaster zones where ground infrastructure has been destroyed. By providing a 'bird's-eye view' and continuous monitoring, satellites enable a faster and more effective response to natural disasters, significantly reducing their human and economic impact."
+      "answer": "Weather satellites track cyclones in real-time, providing early warnings for evacuations. Earth observation satellites take detailed images of flood or earthquake zones to plan aid routes. Communication satellites provide links where ground infrastructure is destroyed, enabling a faster response and saving lives."
     },
     {
       "question_id": 199,
       "question_type": "LONG",
       "question": "Discuss the ethical and legal aspects of space exploration.",
-      "answer": "As space exploration expands, it raises important ethical and legal questions. The 'Outer Space Treaty' establishes that space belongs to all of humanity and cannot be claimed by any nation. However, as private companies plan for asteroid mining and space tourism, laws regarding resource ownership and liability for damage are still being developed. Ethically, we must consider the risk of 'biological contamination'—accidentally bringing Earth microbes to other planets or bringing alien material back to Earth. There is also the responsibility to keep space clean from debris for future generations. These issues require international cooperation and a clear legal framework to ensure that our exploration of space is peaceful, fair, and sustainable."
+      "answer": "The 'Outer Space Treaty' says space belongs to all of humanity. As private missions plan for mining and tourism, laws for resource ownership are being developed. Ethically, we must consider 'biological contamination' risk and the responsibility to keep space clean from debris for future generations."
     },
     {
       "question_id": 200,
       "question_type": "LONG",
       "question": "Why is it said that space technology is a symbol of a nation's development?",
-      "answer": "Success in space technology requires excellence in many high-tech fields, including advanced materials, sophisticated electronics, powerful computers, and complex mathematics. A nation that can build its own rockets and satellites demonstrates that it has a highly skilled workforce and a strong scientific infrastructure. Furthermore, space technology has massive practical benefits for agriculture, communication, and education, which are key drivers of economic growth. Missions to the Moon or Mars also boost national pride and international prestige. Therefore, a robust space program is seen as a clear indicator of a country's scientific advancement, economic strength, and global leadership."
+      "answer": "Success requires excellence in advanced materials, electronics, and mathematics. A nation building its own rockets demonstrates a highly skilled workforce and strong scientific infrastructure. Practical benefits for agriculture and communication also boost economic growth and international prestige."
     }
   ]
 }

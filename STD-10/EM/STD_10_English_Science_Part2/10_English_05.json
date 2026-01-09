@@ -1,8 +1,8 @@
 {
   "chapter_metadata": {
-    "chapter_id": "10.English.05",
+    "chapter_id": "10.Science.5",
     "standard": "10",
-    "subject": "Science and Technology Part 2",
+    "subject": "Science2",
     "medium": "English",
     "chapter_name": "Towards Green Energy"
   },
@@ -12,1400 +12,600 @@
       "question_type": "MCQ",
       "question": "Most electric power plants are based on the principle of _____ invented by Michael Faraday.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Magnetic Resonance",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Electromagnetic Induction",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Chemical Reaction",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Nuclear Fusion",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Magnetic Resonance", "is_correct": false },
+        { "option_id": 2, "text": "Electromagnetic Induction", "is_correct": true },
+        { "option_id": 3, "text": "Chemical Reaction", "is_correct": false },
+        { "option_id": 4, "text": "Nuclear Fusion", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Electromagnetic Induction"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
       "question": "Which component is used to rotate the magnet in a commercial electric generator?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Voltmeter",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Nozzle",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Turbine",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Inverter",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Voltmeter", "is_correct": false },
+        { "option_id": 2, "text": "Nozzle", "is_correct": false },
+        { "option_id": 3, "text": "Turbine", "is_correct": true },
+        { "option_id": 4, "text": "Inverter", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Turbine"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
       "question": "In a thermal power plant, the chemical energy in coal is first converted into _____ energy.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Electrical",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Thermal",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Kinetic",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Nuclear",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Electrical", "is_correct": false },
+        { "option_id": 2, "text": "Thermal", "is_correct": true },
+        { "option_id": 3, "text": "Kinetic", "is_correct": false },
+        { "option_id": 4, "text": "Nuclear", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Thermal"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
       "question": "Which of the following is considered a 'green' energy source?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Coal",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Natural Gas",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Wind Energy",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Nuclear Energy",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Natural Gas", "is_correct": false },
+        { "option_id": 3, "text": "Wind Energy", "is_correct": true },
+        { "option_id": 4, "text": "Nuclear Energy", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Wind Energy"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
       "question": "Nuclear power plants use the process of _____ to release energy from Uranium.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Fusion",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Fission",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Combustion",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Neutralization",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Fusion", "is_correct": false },
+        { "option_id": 2, "text": "Fission", "is_correct": true },
+        { "option_id": 3, "text": "Combustion", "is_correct": false },
+        { "option_id": 4, "text": "Neutralization", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Fission"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
       "question": "What is the isotope formed when Uranium-235 absorbs a neutron?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Uranium-236",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "Uranium-238",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Plutonium-239",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Krypton-92",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Uranium-236", "is_correct": true },
+        { "option_id": 2, "text": "Uranium-238", "is_correct": false },
+        { "option_id": 3, "text": "Plutonium-239", "is_correct": false },
+        { "option_id": 4, "text": "Krypton-92", "is_correct": false }
       ],
-      "answer": "Option 1"
+      "answer": "Uranium-236"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
       "question": "Natural gas based power plants are more efficient than coal plants because they contain no _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Carbon",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Hydrogen",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Sulphur",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Oxygen",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Carbon", "is_correct": false },
+        { "option_id": 2, "text": "Hydrogen", "is_correct": false },
+        { "option_id": 3, "text": "Sulphur", "is_correct": true },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Sulphur"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
       "question": "In a hydroelectric power plant, _____ energy of water is converted into kinetic energy.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Chemical",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Potential",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Thermal",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Nuclear",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Chemical", "is_correct": false },
+        { "option_id": 2, "text": "Potential", "is_correct": true },
+        { "option_id": 3, "text": "Thermal", "is_correct": false },
+        { "option_id": 4, "text": "Nuclear", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Potential"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
       "question": "Solar photovoltaic cells convert solar energy directly into _____ current.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "AC",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "DC",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Static",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "High Voltage",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "AC", "is_correct": false },
+        { "option_id": 2, "text": "DC", "is_correct": true },
+        { "option_id": 3, "text": "Static", "is_correct": false },
+        { "option_id": 4, "text": "High Voltage", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "DC"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
       "question": "A silicon solar cell of dimension 1 cm² generates a potential difference of about _____ V.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "0.1",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "0.5",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "1.0",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "1.5",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "0.1", "is_correct": false },
+        { "option_id": 2, "text": "0.5", "is_correct": true },
+        { "option_id": 3, "text": "1.0", "is_correct": false },
+        { "option_id": 4, "text": "1.5", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "0.5"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
       "question": "Which device is used to convert DC power from solar cells into AC power?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Transformer",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Inverter",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Generator",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Capacitor",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Transformer", "is_correct": false },
+        { "option_id": 2, "text": "Inverter", "is_correct": true },
+        { "option_id": 3, "text": "Generator", "is_correct": false },
+        { "option_id": 4, "text": "Capacitor", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Inverter"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
       "question": "To obtain high potential difference, solar panels are connected in _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Parallel",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Series",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "A circle",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "None of these",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Parallel", "is_correct": false },
+        { "option_id": 2, "text": "Series", "is_correct": true },
+        { "option_id": 3, "text": "A circle", "is_correct": false },
+        { "option_id": 4, "text": "None of these", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Series"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
       "question": "In a solar thermal power plant, _____ are used to concentrate solar radiation.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Absorbers",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Reflectors",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Inverters",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Batteries",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Absorbers", "is_correct": false },
+        { "option_id": 2, "text": "Reflectors", "is_correct": true },
+        { "option_id": 3, "text": "Inverters", "is_correct": false },
+        { "option_id": 4, "text": "Batteries", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Reflectors"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
       "question": "Burning of fossil fuels like coal releases which gas responsible for global warming?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Oxygen",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Nitrogen",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Carbon dioxide",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Helium",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Oxygen", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 3, "text": "Carbon dioxide", "is_correct": true },
+        { "option_id": 4, "text": "Helium", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Carbon dioxide"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
       "question": "The kinetic energy in wind is converted into _____ current in wind turbines.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Direct",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Alternating",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Static",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "None of these",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Direct", "is_correct": false },
+        { "option_id": 2, "text": "Alternating", "is_correct": true },
+        { "option_id": 3, "text": "Static", "is_correct": false },
+        { "option_id": 4, "text": "None of these", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Alternating"
     },
     {
       "question_id": 16,
       "question_type": "MCQ",
       "question": "What is the approximate efficiency of a natural gas power plant?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "10%",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "30%",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Higher than coal",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Lower than coal",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "10%", "is_correct": false },
+        { "option_id": 2, "text": "30%", "is_correct": false },
+        { "option_id": 3, "text": "Higher than coal", "is_correct": true },
+        { "option_id": 4, "text": "Lower than coal", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Higher than coal"
     },
     {
       "question_id": 17,
       "question_type": "MCQ",
       "question": "Nuclear fission of one Uranium-235 atom releases how many neutrons?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "1",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "2",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "3",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "4",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "1", "is_correct": false },
+        { "option_id": 2, "text": "2", "is_correct": false },
+        { "option_id": 3, "text": "3", "is_correct": true },
+        { "option_id": 4, "text": "4", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "3"
     },
     {
       "question_id": 18,
       "question_type": "MCQ",
       "question": "The potential energy of water in a dam is converted into _____ energy to rotate the turbine.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Chemical",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Kinetic",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Thermal",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Nuclear",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Chemical", "is_correct": false },
+        { "option_id": 2, "text": "Kinetic", "is_correct": true },
+        { "option_id": 3, "text": "Thermal", "is_correct": false },
+        { "option_id": 4, "text": "Nuclear", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Kinetic"
     },
     {
       "question_id": 19,
       "question_type": "MCQ",
       "question": "Which of these is a major problem with nuclear power plants?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Air pollution",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Soot particles",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Nuclear waste disposal",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Global warming",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Air pollution", "is_correct": false },
+        { "option_id": 2, "text": "Soot particles", "is_correct": false },
+        { "option_id": 3, "text": "Nuclear waste disposal", "is_correct": true },
+        { "option_id": 4, "text": "Global warming", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Nuclear waste disposal"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
       "question": "A solar string is formed by connecting many solar _____ in series.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Arrays",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Panels",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Batteries",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Inverters",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Arrays", "is_correct": false },
+        { "option_id": 2, "text": "Panels", "is_correct": true },
+        { "option_id": 3, "text": "Batteries", "is_correct": false },
+        { "option_id": 4, "text": "Inverters", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Panels"
     },
     {
       "question_id": 21,
       "question_type": "MCQ",
       "question": "Which of the following is a byproduct of nuclear fission along with energy?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Carbon dioxide",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Sulphur dioxide",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Neutrons",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Oxygen",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 2, "text": "Sulphur dioxide", "is_correct": false },
+        { "option_id": 3, "text": "Neutrons", "is_correct": true },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Neutrons"
     },
     {
       "question_id": 22,
       "question_type": "MCQ",
       "question": "Which part of the wind turbine converts the mechanical energy of the shaft into electricity?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Blades",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Gearbox",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Generator",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Tower",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Blades", "is_correct": false },
+        { "option_id": 2, "text": "Gearbox", "is_correct": false },
+        { "option_id": 3, "text": "Generator", "is_correct": true },
+        { "option_id": 4, "text": "Tower", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Generator"
     },
     {
       "question_id": 23,
       "question_type": "MCQ",
       "question": "What happens to the potential difference when solar cells are connected in parallel?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "It increases",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "It decreases",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "It remains same as a single cell",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "It becomes zero",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "It increases", "is_correct": false },
+        { "option_id": 2, "text": "It decreases", "is_correct": false },
+        { "option_id": 3, "text": "It remains same as a single cell", "is_correct": true },
+        { "option_id": 4, "text": "It becomes zero", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "It remains same as a single cell"
     },
     {
       "question_id": 24,
       "question_type": "MCQ",
       "question": "In a thermal power plant, the used steam is cooled and converted back into water in the _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Boiler",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Turbine",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Condenser",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Stack",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Boiler", "is_correct": false },
+        { "option_id": 2, "text": "Turbine", "is_correct": false },
+        { "option_id": 3, "text": "Condenser", "is_correct": true },
+        { "option_id": 4, "text": "Stack", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Condenser"
     },
     {
       "question_id": 25,
       "question_type": "MCQ",
       "question": "Which of the following is NOT an emission from burning fossil fuels?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Nitrogen dioxide",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Sulphur dioxide",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Hydrogen gas",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Soot particles",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Nitrogen dioxide", "is_correct": false },
+        { "option_id": 2, "text": "Sulphur dioxide", "is_correct": false },
+        { "option_id": 3, "text": "Hydrogen gas", "is_correct": true },
+        { "option_id": 4, "text": "Soot particles", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Hydrogen gas"
     },
     {
       "question_id": 26,
       "question_type": "MCQ",
       "question": "Hydroelectric power plants are located at _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Deserts",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Coastal areas",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Dams on rivers",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Underground mines",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Deserts", "is_correct": false },
+        { "option_id": 2, "text": "Coastal areas", "is_correct": false },
+        { "option_id": 3, "text": "Dams on rivers", "is_correct": true },
+        { "option_id": 4, "text": "Underground mines", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Dams on rivers"
     },
     {
       "question_id": 27,
       "question_type": "MCQ",
       "question": "A solar array is formed by connecting strings in _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Series",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Parallel",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "A circle",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Square",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Series", "is_correct": false },
+        { "option_id": 2, "text": "Parallel", "is_correct": true },
+        { "option_id": 3, "text": "A circle", "is_correct": false },
+        { "option_id": 4, "text": "Square", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Parallel"
     },
     {
       "question_id": 28,
       "question_type": "MCQ",
       "question": "Energy in Uranium nuclei is released during which reaction?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Chemical",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Nuclear Fission",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Oxidation",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Reduction",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Chemical", "is_correct": false },
+        { "option_id": 2, "text": "Nuclear Fission", "is_correct": true },
+        { "option_id": 3, "text": "Oxidation", "is_correct": false },
+        { "option_id": 4, "text": "Reduction", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Nuclear Fission"
     },
     {
       "question_id": 29,
       "question_type": "MCQ",
       "question": "Wind turbines of capacity 2000 kW are generally used for _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Household use",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Commercial use",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Small labs",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Calculators",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Household use", "is_correct": false },
+        { "option_id": 2, "text": "Commercial use", "is_correct": true },
+        { "option_id": 3, "text": "Small labs", "is_correct": false },
+        { "option_id": 4, "text": "Calculators", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Commercial use"
     },
     {
       "question_id": 30,
       "question_type": "MCQ",
       "question": "Solar thermal plants produce high temperature _____ to rotate the turbine.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Water",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Steam",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Smoke",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Air",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Water", "is_correct": false },
+        { "option_id": 2, "text": "Steam", "is_correct": true },
+        { "option_id": 3, "text": "Smoke", "is_correct": false },
+        { "option_id": 4, "text": "Air", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Steam"
     },
     {
       "question_id": 31,
       "question_type": "MCQ",
       "question": "The potential difference of a silicon solar cell is approximately _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "1.5 V",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "0.5 V",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "12 V",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "230 V",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "1.5 V", "is_correct": false },
+        { "option_id": 2, "text": "0.5 V", "is_correct": true },
+        { "option_id": 3, "text": "12 V", "is_correct": false },
+        { "option_id": 4, "text": "230 V", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "0.5 V"
     },
     {
       "question_id": 32,
       "question_type": "MCQ",
       "question": "What is the primary pollutant from coal plants that causes acid rain?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Carbon dioxide",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Nitrogen oxides",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Water vapor",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Oxygen",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Carbon dioxide", "is_correct": false },
+        { "option_id": 2, "text": "Nitrogen oxides", "is_correct": true },
+        { "option_id": 3, "text": "Water vapor", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Nitrogen oxides"
     },
     {
       "question_id": 33,
       "question_type": "MCQ",
       "question": "In a generator, electricity is produced by rotating a _____ in a magnetic field.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Plastic rod",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Coil of wire",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Piece of coal",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Silicon cell",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Plastic rod", "is_correct": false },
+        { "option_id": 2, "text": "Coil of wire", "is_correct": true },
+        { "option_id": 3, "text": "Piece of coal", "is_correct": false },
+        { "option_id": 4, "text": "Silicon cell", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Coil of wire"
     },
     {
       "question_id": 34,
       "question_type": "MCQ",
       "question": "Nuclear fuel Uranium-235 is bombarded by which particle to start fission?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Electron",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Proton",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Neutron",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Alpha particle",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Electron", "is_correct": false },
+        { "option_id": 2, "text": "Proton", "is_correct": false },
+        { "option_id": 3, "text": "Neutron", "is_correct": true },
+        { "option_id": 4, "text": "Alpha particle", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Neutron"
     },
     {
       "question_id": 35,
       "question_type": "MCQ",
       "question": "Solar energy is available only when _____ is present.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Wind",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Sunlight",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Coal",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Water",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Wind", "is_correct": false },
+        { "option_id": 2, "text": "Sunlight", "is_correct": true },
+        { "option_id": 3, "text": "Coal", "is_correct": false },
+        { "option_id": 4, "text": "Water", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Sunlight"
     },
     {
       "question_id": 36,
       "question_type": "MCQ",
       "question": "The potential difference obtained from two solar cells in series is _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Same as one cell",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Sum of two cells",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Zero",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Half of one cell",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Sum of two cells", "is_correct": true },
+        { "option_id": 2, "text": "Same as one cell", "is_correct": false },
+        { "option_id": 3, "text": "Zero", "is_correct": false },
+        { "option_id": 4, "text": "Half of one cell", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Sum of two cells"
     },
     {
       "question_id": 37,
       "question_type": "MCQ",
       "question": "Which country is a leader in wind energy generation?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "India",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "USA",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Germany",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Brazil",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "India", "is_correct": false },
+        { "option_id": 2, "text": "USA", "is_correct": false },
+        { "option_id": 3, "text": "Germany", "is_correct": true },
+        { "option_id": 4, "text": "Brazil", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Germany"
     },
     {
       "question_id": 38,
       "question_type": "MCQ",
       "question": "Which form of energy is stored in a water reservoir?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Chemical",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Kinetic",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Potential",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Electrical",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Chemical", "is_correct": false },
+        { "option_id": 2, "text": "Kinetic", "is_correct": false },
+        { "option_id": 3, "text": "Potential", "is_correct": true },
+        { "option_id": 4, "text": "Electrical", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Potential"
     },
     {
       "question_id": 39,
       "question_type": "MCQ",
       "question": "In a nuclear power plant, _____ is used to rotate the turbine.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Steam",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "Smoke",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Water",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Air",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Steam", "is_correct": true },
+        { "option_id": 2, "text": "Smoke", "is_correct": false },
+        { "option_id": 3, "text": "Water", "is_correct": false },
+        { "option_id": 4, "text": "Air", "is_correct": false }
       ],
-      "answer": "Option 1"
+      "answer": "Steam"
     },
     {
       "question_id": 40,
       "question_type": "MCQ",
       "question": "Energy in solar photovoltaic cells is generated as _____ current.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Alternating",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Direct",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "High power",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Low power",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Alternating", "is_correct": false },
+        { "option_id": 2, "text": "Direct", "is_correct": true },
+        { "option_id": 3, "text": "High power", "is_correct": false },
+        { "option_id": 4, "text": "Low power", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Direct"
     },
     {
       "question_id": 41,
       "question_type": "MCQ",
       "question": "Which isotope is formed immediately after neutron bombardment on U-235?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Ba-141",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Kr-92",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "U-236",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "U-238",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Ba-141", "is_correct": false },
+        { "option_id": 2, "text": "Kr-92", "is_correct": false },
+        { "option_id": 3, "text": "U-236", "is_correct": true },
+        { "option_id": 4, "text": "U-238", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "U-236"
     },
     {
       "question_id": 42,
       "question_type": "MCQ",
       "question": "What is the role of a gearbox in a wind turbine?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Stop the turbine",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Increase rotations per minute",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Cool the generator",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Generate magnetic field",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Stop the turbine", "is_correct": false },
+        { "option_id": 2, "text": "Increase rotations per minute", "is_correct": true },
+        { "option_id": 3, "text": "Cool the generator", "is_correct": false },
+        { "option_id": 4, "text": "Generate magnetic field", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Increase rotations per minute"
     },
     {
       "question_id": 43,
       "question_type": "MCQ",
       "question": "Silicon solar cells of 100 cm² area generate how much current?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "30 mA",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "3 A",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "0.5 A",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "100 A",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "30 mA", "is_correct": false },
+        { "option_id": 2, "text": "3 A", "is_correct": true },
+        { "option_id": 3, "text": "0.5 A", "is_correct": false },
+        { "option_id": 4, "text": "100 A", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "3 A"
     },
     {
       "question_id": 44,
       "question_type": "MCQ",
       "question": "Which source of energy is 'perpetual'?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Coal",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Natural Gas",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Solar",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Uranium",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Coal", "is_correct": false },
+        { "option_id": 2, "text": "Natural Gas", "is_correct": false },
+        { "option_id": 3, "text": "Solar", "is_correct": true },
+        { "option_id": 4, "text": "Uranium", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Solar"
     },
     {
       "question_id": 45,
       "question_type": "MCQ",
       "question": "Fossil fuels are stored energy in _____ form.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Electrical",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Chemical",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Thermal",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Potential",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Electrical", "is_correct": false },
+        { "option_id": 2, "text": "Chemical", "is_correct": true },
+        { "option_id": 3, "text": "Thermal", "is_correct": false },
+        { "option_id": 4, "text": "Potential", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Chemical"
     },
     {
       "question_id": 46,
       "question_type": "MCQ",
       "question": "A solar string consists of many solar panels connected in _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Parallel",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Series",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Zig-zag",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Vertical",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Parallel", "is_correct": false },
+        { "option_id": 2, "text": "Series", "is_correct": true },
+        { "option_id": 3, "text": "Zig-zag", "is_correct": false },
+        { "option_id": 4, "text": "Vertical", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Series"
     },
     {
       "question_id": 47,
       "question_type": "MCQ",
       "question": "The efficiency of coal power plants is around _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "100%",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Low compared to gas",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Maximum possible",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Zero",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "100%", "is_correct": false },
+        { "option_id": 2, "text": "Low compared to gas", "is_correct": true },
+        { "option_id": 3, "text": "Maximum possible", "is_correct": false },
+        { "option_id": 4, "text": "Zero", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Low compared to gas"
     },
     {
       "question_id": 48,
       "question_type": "MCQ",
       "question": "What is the function of the compressor in a natural gas power plant?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Pressurize air",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "Burn gas",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Cool the turbine",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Eject smoke",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Pressurize air", "is_correct": true },
+        { "option_id": 2, "text": "Burn gas", "is_correct": false },
+        { "option_id": 3, "text": "Cool the turbine", "is_correct": false },
+        { "option_id": 4, "text": "Eject smoke", "is_correct": false }
       ],
-      "answer": "Option 1"
+      "answer": "Pressurize air"
     },
     {
       "question_id": 49,
       "question_type": "MCQ",
       "question": "The 'Green City' mentioned in the context of sustainable energy projects is _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Mumbai",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Geneva",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "New York",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Tokyo",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Mumbai", "is_correct": false },
+        { "option_id": 2, "text": "Geneva", "is_correct": true },
+        { "option_id": 3, "text": "New York", "is_correct": false },
+        { "option_id": 4, "text": "Tokyo", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Geneva"
     },
     {
       "question_id": 50,
       "question_type": "MCQ",
       "question": "Uranium fission releases _____ energy.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Light",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Nuclear",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Chemical",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Mechanical",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Light", "is_correct": false },
+        { "option_id": 2, "text": "Nuclear", "is_correct": true },
+        { "option_id": 3, "text": "Chemical", "is_correct": false },
+        { "option_id": 4, "text": "Mechanical", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Nuclear"
     },
     {
       "question_id": 51,
