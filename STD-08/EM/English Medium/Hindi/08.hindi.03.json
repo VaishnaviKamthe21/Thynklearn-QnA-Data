@@ -1,0 +1,1191 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Hindi.03",
+    "standard": "08",
+    "subject": "हिंदी",
+    "medium": "Hindi",
+    "chapter_name": "गाना-बजाना "
+  },
+  "questions": [
+    {
+    "question_id": 1,
+    "question_type": "MCQ",
+    "question": "पिपुही की आवाज सुनकर बच्चा क्या करता है?",
+    "options": [
+      { "option_id": 1, "text": "और रोने लगता है", "is_correct": false },
+      { "option_id": 2, "text": "चुप हो जाता है", "is_correct": true },
+      { "option_id": 3, "text": "डर जाता है", "is_correct": false },
+      { "option_id": 4, "text": "सो जाता है", "is_correct": false }
+    ],
+    "answer": "चुप हो जाता है"
+  },
+  {
+    "question_id": 2,
+    "question_type": "MCQ",
+    "question": "लेखक के अनुसार गाने-बजाने का शौक किसमें होता है?",
+    "options": [
+      { "option_id": 1, "text": "केवल कलाकारों में", "is_correct": false },
+      { "option_id": 2, "text": "केवल पढ़े-लिखे लोगों में", "is_correct": false },
+      { "option_id": 3, "text": "सभी देशों के लोगों में", "is_correct": true },
+      { "option_id": 4, "text": "केवल बच्चों में", "is_correct": false }
+    ],
+    "answer": "सभी देशों के लोगों में"
+  },
+  {
+    "question_id": 3,
+    "question_type": "MCQ",
+    "question": "बाजा गाने को कैसा बना देता है?",
+    "options": [
+      { "option_id": 1, "text": "नीरस", "is_correct": false },
+      { "option_id": 2, "text": "भड़कदार और दिलचस्प", "is_correct": true },
+      { "option_id": 3, "text": "धीमा", "is_correct": false },
+      { "option_id": 4, "text": "कमजोर", "is_correct": false }
+    ],
+    "answer": "भड़कदार और दिलचस्प"
+  },
+  {
+    "question_id": 4,
+    "question_type": "MCQ",
+    "question": "प्राचीन समय में बाजे कैसे बनाए गए होंगे?",
+    "options": [
+      { "option_id": 1, "text": "मशीनों से", "is_correct": false },
+      { "option_id": 2, "text": "प्राकृतिक वस्तुओं को पीटकर", "is_correct": true },
+      { "option_id": 3, "text": "कारखानों में", "is_correct": false },
+      { "option_id": 4, "text": "बिजली से", "is_correct": false }
+    ],
+    "answer": "प्राकृतिक वस्तुओं को पीटकर"
+  },
+  {
+    "question_id": 5,
+    "question_type": "MCQ",
+    "question": "ढोल किससे बनाया गया होगा?",
+    "options": [
+      { "option_id": 1, "text": "कागज से", "is_correct": false },
+      { "option_id": 2, "text": "पशुओं के चमड़े से", "is_correct": true },
+      { "option_id": 3, "text": "लोहे से", "is_correct": false },
+      { "option_id": 4, "text": "प्लास्टिक से", "is_correct": false }
+    ],
+    "answer": "पशुओं के चमड़े से"
+  },
+  {
+    "question_id": 6,
+    "question_type": "MCQ",
+    "question": "पिपुही किससे बनाई गई होगी?",
+    "options": [
+      { "option_id": 1, "text": "लकड़ी से", "is_correct": false },
+      { "option_id": 2, "text": "नरकट से", "is_correct": true },
+      { "option_id": 3, "text": "लोहे से", "is_correct": false },
+      { "option_id": 4, "text": "पत्थर से", "is_correct": false }
+    ],
+    "answer": "नरकट से"
+  },
+  {
+    "question_id": 7,
+    "question_type": "MCQ",
+    "question": "झुनझुना कैसे बनाया गया होगा?",
+    "options": [
+      { "option_id": 1, "text": "तार जोड़कर", "is_correct": false },
+      { "option_id": 2, "text": "कंकड़ भरकर हिलाने से", "is_correct": true },
+      { "option_id": 3, "text": "पानी भरकर", "is_correct": false },
+      { "option_id": 4, "text": "चमड़ा चढ़ाकर", "is_correct": false }
+    ],
+    "answer": "कंकड़ भरकर हिलाने से"
+  },
+  {
+    "question_id": 8,
+    "question_type": "MCQ",
+    "question": "बहुत से देशों में मुख्य रूप से कितने बाजे पाए जाते हैं?",
+    "options": [
+      { "option_id": 1, "text": "दो", "is_correct": false },
+      { "option_id": 2, "text": "तीन", "is_correct": true },
+      { "option_id": 3, "text": "चार", "is_correct": false },
+      { "option_id": 4, "text": "पाँच", "is_correct": false }
+    ],
+    "answer": "तीन"
+  },
+  {
+    "question_id": 9,
+    "question_type": "MCQ",
+    "question": "वनवासी लोगों के संगीत में किसकी प्रधानता होती है?",
+    "options": [
+      { "option_id": 1, "text": "सुर", "is_correct": false },
+      { "option_id": 2, "text": "ताल", "is_correct": true },
+      { "option_id": 3, "text": "शब्द", "is_correct": false },
+      { "option_id": 4, "text": "भाषा", "is_correct": false }
+    ],
+    "answer": "ताल"
+  },
+  {
+    "question_id": 10,
+    "question_type": "MCQ",
+    "question": "हब्शी लोग किस वाद्य में कुशल होते हैं?",
+    "options": [
+      { "option_id": 1, "text": "सितार", "is_correct": false },
+      { "option_id": 2, "text": "ढोल", "is_correct": true },
+      { "option_id": 3, "text": "वीणा", "is_correct": false },
+      { "option_id": 4, "text": "बंशी", "is_correct": false }
+    ],
+    "answer": "ढोल"
+  },
+
+  {
+    "question_id": 11,
+    "question_type": "MCQ",
+    "question": "ढोल की भाषा का प्रयोग किसने किया?",
+    "options": [
+      { "option_id": 1, "text": "भारतीयों ने", "is_correct": false },
+      { "option_id": 2, "text": "हब्शी लोगों ने", "is_correct": true },
+      { "option_id": 3, "text": "चीनी लोगों ने", "is_correct": false },
+      { "option_id": 4, "text": "जापानी लोगों ने", "is_correct": false }
+    ],
+    "answer": "हब्शी लोगों ने"
+  },
+  {
+    "question_id": 12,
+    "question_type": "MCQ",
+    "question": "भारत का प्रसिद्ध बाजा कौन-सा है?",
+    "options": [
+      { "option_id": 1, "text": "ढोल", "is_correct": false },
+      { "option_id": 2, "text": "वीणा", "is_correct": true },
+      { "option_id": 3, "text": "पिपुही", "is_correct": false },
+      { "option_id": 4, "text": "झुनझुना", "is_correct": false }
+    ],
+    "answer": "वीणा"
+  },
+  {
+    "question_id": 13,
+    "question_type": "MCQ",
+    "question": "सरस्वती देवी किस वाद्य को धारण करती हैं?",
+    "options": [
+      { "option_id": 1, "text": "ढोल", "is_correct": false },
+      { "option_id": 2, "text": "वीणा", "is_correct": true },
+      { "option_id": 3, "text": "बंशी", "is_correct": false },
+      { "option_id": 4, "text": "पिपुही", "is_correct": false }
+    ],
+    "answer": "वीणा"
+  },
+  {
+    "question_id": 14,
+    "question_type": "MCQ",
+    "question": "चीन के प्रसिद्ध बाजे का नाम क्या है?",
+    "options": [
+      { "option_id": 1, "text": "मरिंबा", "is_correct": false },
+      { "option_id": 2, "text": "राजा", "is_correct": true },
+      { "option_id": 3, "text": "ऐंगलौंग", "is_correct": false },
+      { "option_id": 4, "text": "सिंगा", "is_correct": false }
+    ],
+    "answer": "राजा"
+  },
+  {
+    "question_id": 15,
+    "question_type": "MCQ",
+    "question": "‘राजा’ बाजे में कितने पत्थर के टुकड़े होते हैं?",
+    "options": [
+      { "option_id": 1, "text": "आठ", "is_correct": false },
+      { "option_id": 2, "text": "दस", "is_correct": false },
+      { "option_id": 3, "text": "सोलह", "is_correct": true },
+      { "option_id": 4, "text": "बीस", "is_correct": false }
+    ],
+    "answer": "सोलह"
+  },
+
+  {
+    "question_id": 16,
+    "question_type": "MCQ",
+    "question": "बर्मा में बनाए जाने वाले बाजे का नाम क्या है?",
+    "options": [
+      { "option_id": 1, "text": "मरिंबा", "is_correct": false },
+      { "option_id": 2, "text": "ढोल तरंग", "is_correct": true },
+      { "option_id": 3, "text": "राजा", "is_correct": false },
+      { "option_id": 4, "text": "ऐंगलौंग", "is_correct": false }
+    ],
+    "answer": "ढोल तरंग"
+  },
+  {
+    "question_id": 17,
+    "question_type": "MCQ",
+    "question": "जापान में बाँस से बना बाजा क्या कहलाता है?",
+    "options": [
+      { "option_id": 1, "text": "राजा", "is_correct": false },
+      { "option_id": 2, "text": "ऐंगलौंग", "is_correct": true },
+      { "option_id": 3, "text": "मरिंबा", "is_correct": false },
+      { "option_id": 4, "text": "सिंगा", "is_correct": false }
+    ],
+    "answer": "ऐंगलौंग"
+  },
+  {
+    "question_id": 18,
+    "question_type": "MCQ",
+    "question": "जापान में किस प्रकार के बाजों की अधिक कदर है?",
+    "options": [
+      { "option_id": 1, "text": "फूंक वाले", "is_correct": false },
+      { "option_id": 2, "text": "तार वाले", "is_correct": true },
+      { "option_id": 3, "text": "इलेक्ट्रॉनिक", "is_correct": false },
+      { "option_id": 4, "text": "लकड़ी वाले", "is_correct": false }
+    ],
+    "answer": "तार वाले"
+  },
+  {
+    "question_id": 19,
+    "question_type": "MCQ",
+    "question": "रेड इंडियनों के पास कितने बाजे होते हैं?",
+    "options": [
+      { "option_id": 1, "text": "दो", "is_correct": false },
+      { "option_id": 2, "text": "तीन", "is_correct": true },
+      { "option_id": 3, "text": "चार", "is_correct": false },
+      { "option_id": 4, "text": "पाँच", "is_correct": false }
+    ],
+    "answer": "तीन"
+  },
+  {
+    "question_id": 20,
+    "question_type": "MCQ",
+    "question": "रेड इंडियन किन बाजों का प्रयोग करते हैं?",
+    "options": [
+      { "option_id": 1, "text": "ढोल, पिपुही, झुनझुना", "is_correct": true },
+      { "option_id": 2, "text": "वीणा, सितार, सारंगी", "is_correct": false },
+      { "option_id": 3, "text": "मरिंबा, राजा", "is_correct": false },
+      { "option_id": 4, "text": "बंशी, सिंगा", "is_correct": false }
+    ],
+    "answer": "ढोल, पिपुही, झुनझुना"
+  },
+
+  {
+    "question_id": 21,
+    "question_type": "MCQ",
+    "question": "कुछ आदिवासी ढोल में क्या भरते हैं?",
+    "options": [
+      { "option_id": 1, "text": "रेत", "is_correct": false },
+      { "option_id": 2, "text": "पानी", "is_correct": true },
+      { "option_id": 3, "text": "कंकड़", "is_correct": false },
+      { "option_id": 4, "text": "हवा", "is_correct": false }
+    ],
+    "answer": "पानी"
+  },
+  {
+    "question_id": 22,
+    "question_type": "MCQ",
+    "question": "न्यासालैंड के बाजे को क्या कहा गया है?",
+    "options": [
+      { "option_id": 1, "text": "राजा", "is_correct": false },
+      { "option_id": 2, "text": "बाजों की खिचड़ी", "is_correct": true },
+      { "option_id": 3, "text": "ढोल तरंग", "is_correct": false },
+      { "option_id": 4, "text": "ऐंगलौंग", "is_correct": false }
+    ],
+    "answer": "बाजों की खिचड़ी"
+  },
+  {
+    "question_id": 23,
+    "question_type": "MCQ",
+    "question": "फिजी के आदिवासी बंशी कैसे बजाते हैं?",
+    "options": [
+      { "option_id": 1, "text": "हाथ से", "is_correct": false },
+      { "option_id": 2, "text": "नाक से", "is_correct": true },
+      { "option_id": 3, "text": "पैर से", "is_correct": false },
+      { "option_id": 4, "text": "मुँह से", "is_correct": false }
+    ],
+    "answer": "नाक से"
+  },
+  {
+    "question_id": 24,
+    "question_type": "MCQ",
+    "question": "मैक्सिको का प्रसिद्ध बाजा कौन-सा है?",
+    "options": [
+      { "option_id": 1, "text": "राजा", "is_correct": false },
+      { "option_id": 2, "text": "मरिंबा", "is_correct": true },
+      { "option_id": 3, "text": "ऐंगलौंग", "is_correct": false },
+      { "option_id": 4, "text": "सिंगा", "is_correct": false }
+    ],
+    "answer": "मरिंबा"
+  },
+  {
+    "question_id": 25,
+    "question_type": "MCQ",
+    "question": "मरिंबा पर एक साथ कितने लोग बजा सकते हैं?",
+    "options": [
+      { "option_id": 1, "text": "दो", "is_correct": false },
+      { "option_id": 2, "text": "तीन", "is_correct": false },
+      { "option_id": 3, "text": "चार", "is_correct": true },
+      { "option_id": 4, "text": "पाँच", "is_correct": false }
+    ],
+    "answer": "चार"
+  },
+
+  {
+    "question_id": 26,
+    "question_type": "MCQ",
+    "question": "भारत का कौन-सा बाजा विदेशियों के लिए आश्चर्यजनक है?",
+    "options": [
+      { "option_id": 1, "text": "वीणा", "is_correct": false },
+      { "option_id": 2, "text": "सिंगा", "is_correct": true },
+      { "option_id": 3, "text": "सितार", "is_correct": false },
+      { "option_id": 4, "text": "सारंगी", "is_correct": false }
+    ],
+    "answer": "सिंगा"
+  },
+  {
+    "question_id": 27,
+    "question_type": "MCQ",
+    "question": "‘गाना-बजाना’ पाठ के लेखक कौन हैं?",
+    "options": [
+      { "option_id": 1, "text": "जयशंकर प्रसाद", "is_correct": false },
+      { "option_id": 2, "text": "रामवृक्ष बेनीपुरी", "is_correct": true },
+      { "option_id": 3, "text": "महादेवी वर्मा", "is_correct": false },
+      { "option_id": 4, "text": "सुभद्रा कुमारी चौहान", "is_correct": false }
+    ],
+    "answer": "रामवृक्ष बेनीपुरी"
+  },
+  {
+    "question_id": 28,
+    "question_type": "MCQ",
+    "question": "रामवृक्ष बेनीपुरी किस रूप में प्रसिद्ध हैं?",
+    "options": [
+      { "option_id": 1, "text": "कवि", "is_correct": false },
+      { "option_id": 2, "text": "निबंधकार", "is_correct": true },
+      { "option_id": 3, "text": "गायक", "is_correct": false },
+      { "option_id": 4, "text": "चित्रकार", "is_correct": false }
+    ],
+    "answer": "निबंधकार"
+  },
+  {
+    "question_id": 29,
+    "question_type": "MCQ",
+    "question": "‘बेतहाशा’ शब्द का अर्थ क्या है?",
+    "options": [
+      { "option_id": 1, "text": "धीरे-धीरे", "is_correct": false },
+      { "option_id": 2, "text": "असीमित", "is_correct": true },
+      { "option_id": 3, "text": "कम", "is_correct": false },
+      { "option_id": 4, "text": "सीमित", "is_correct": false }
+    ],
+    "answer": "असीमित"
+  },
+  {
+    "question_id": 30,
+    "question_type": "MCQ",
+    "question": "‘ईजाद’ शब्द का सही अर्थ क्या है?",
+    "options": [
+      { "option_id": 1, "text": "नकल", "is_correct": false },
+      { "option_id": 2, "text": "खोज", "is_correct": true },
+      { "option_id": 3, "text": "विनाश", "is_correct": false },
+      { "option_id": 4, "text": "सुधार", "is_correct": false }
+    ],
+    "answer": "खोज"
+  },
+
+  {
+    "question_id": 31,
+    "question_type": "MCQ",
+    "question": "‘मशहूर’ शब्द का अर्थ क्या है?",
+    "options": [
+      { "option_id": 1, "text": "अज्ञात", "is_correct": false },
+      { "option_id": 2, "text": "प्रसिद्ध", "is_correct": true },
+      { "option_id": 3, "text": "कम जाना-पहचाना", "is_correct": false },
+      { "option_id": 4, "text": "नया", "is_correct": false }
+    ],
+    "answer": "प्रसिद्ध"
+  },
+  {
+    "question_id": 32,
+    "question_type": "MCQ",
+    "question": "‘मुँगरी’ का अर्थ क्या है?",
+    "options": [
+      { "option_id": 1, "text": "छोटी छड़ी", "is_correct": false },
+      { "option_id": 2, "text": "मुठियादार लाठी", "is_correct": true },
+      { "option_id": 3, "text": "रस्सी", "is_correct": false },
+      { "option_id": 4, "text": "पत्थर", "is_correct": false }
+    ],
+    "answer": "मुठियादार लाठी"
+  },
+  {
+    "question_id": 33,
+    "question_type": "MCQ",
+    "question": "‘बेशी’ शब्द का अर्थ क्या है?",
+    "options": [
+      { "option_id": 1, "text": "कम", "is_correct": false },
+      { "option_id": 2, "text": "ज्यादा", "is_correct": true },
+      { "option_id": 3, "text": "बराबर", "is_correct": false },
+      { "option_id": 4, "text": "धीमा", "is_correct": false }
+    ],
+    "answer": "ज्यादा"
+  },
+  {
+    "question_id": 34,
+    "question_type": "MCQ",
+    "question": "‘अधिवासी’ शब्द का अर्थ क्या है?",
+    "options": [
+      { "option_id": 1, "text": "घूमने वाला", "is_correct": false },
+      { "option_id": 2, "text": "आकर बसने वाला", "is_correct": true },
+      { "option_id": 3, "text": "यात्री", "is_correct": false },
+      { "option_id": 4, "text": "व्यापारी", "is_correct": false }
+    ],
+    "answer": "आकर बसने वाला"
+  },
+  {
+    "question_id": 35,
+    "question_type": "MCQ",
+    "question": "यह पाठ मुख्य रूप से किस विषय पर आधारित है?",
+    "options": [
+      { "option_id": 1, "text": "इतिहास", "is_correct": false },
+      { "option_id": 2, "text": "संगीत और बाजे", "is_correct": true },
+      { "option_id": 3, "text": "विज्ञान", "is_correct": false },
+      { "option_id": 4, "text": "भूगोल", "is_correct": false }
+    ],
+    "answer": "संगीत और बाजे"
+  },
+
+  {
+    "question_id": 36,
+    "question_type": "MCQ",
+    "question": "लेखक के अनुसार संगीत किस भावना को व्यक्त करता है?",
+    "options": [
+      { "option_id": 1, "text": "क्रोध", "is_correct": false },
+      { "option_id": 2, "text": "दिल के उच्छ्वास", "is_correct": true },
+      { "option_id": 3, "text": "डर", "is_correct": false },
+      { "option_id": 4, "text": "दुख", "is_correct": false }
+    ],
+    "answer": "दिल के उच्छ्वास"
+  },
+  {
+    "question_id": 37,
+    "question_type": "MCQ",
+    "question": "गाना-बजाना किसे जोड़ने का काम करता है?",
+    "options": [
+      { "option_id": 1, "text": "लोगों को", "is_correct": true },
+      { "option_id": 2, "text": "देशों को नहीं", "is_correct": false },
+      { "option_id": 3, "text": "केवल कलाकारों को", "is_correct": false },
+      { "option_id": 4, "text": "केवल बच्चों को", "is_correct": false }
+    ],
+    "answer": "लोगों को"
+  },
+  {
+    "question_id": 38,
+    "question_type": "MCQ",
+    "question": "पाठ के अनुसार कौन-सा बाजा सबसे प्राचीन माना जा सकता है?",
+    "options": [
+      { "option_id": 1, "text": "ढोल", "is_correct": true },
+      { "option_id": 2, "text": "सितार", "is_correct": false },
+      { "option_id": 3, "text": "की-बोर्ड", "is_correct": false },
+      { "option_id": 4, "text": "गिटार", "is_correct": false }
+    ],
+    "answer": "ढोल"
+  },
+  {
+    "question_id": 39,
+    "question_type": "MCQ",
+    "question": "पाठ में किस देश का उदाहरण नहीं है?",
+    "options": [
+      { "option_id": 1, "text": "भारत", "is_correct": false },
+      { "option_id": 2, "text": "चीन", "is_correct": false },
+      { "option_id": 3, "text": "फ्रांस", "is_correct": true },
+      { "option_id": 4, "text": "जापान", "is_correct": false }
+    ],
+    "answer": "फ्रांस"
+  },
+  {
+    "question_id": 40,
+    "question_type": "MCQ",
+    "question": "पाठ से हमें क्या शिक्षा मिलती है?",
+    "options": [
+      { "option_id": 1, "text": "संगीत केवल मनोरंजन है", "is_correct": false },
+      { "option_id": 2, "text": "संगीत सभी संस्कृतियों में समान है", "is_correct": true },
+      { "option_id": 3, "text": "संगीत कठिन है", "is_correct": false },
+      { "option_id": 4, "text": "संगीत व्यर्थ है", "is_correct": false }
+    ],
+    "answer": "संगीत सभी संस्कृतियों में समान है"
+  },
+
+  {
+    "question_id": 41,
+    "question_type": "MCQ",
+    "question": "‘गाना-बजाना’ पाठ किस विधा से संबंधित है?",
+    "options": [
+      { "option_id": 1, "text": "कहानी", "is_correct": false },
+      { "option_id": 2, "text": "निबंध", "is_correct": true },
+      { "option_id": 3, "text": "कविता", "is_correct": false },
+      { "option_id": 4, "text": "नाटक", "is_correct": false }
+    ],
+    "answer": "निबंध"
+  },
+  {
+    "question_id": 42,
+    "question_type": "MCQ",
+    "question": "लेखक का जन्म कहाँ हुआ था?",
+    "options": [
+      { "option_id": 1, "text": "पटना", "is_correct": false },
+      { "option_id": 2, "text": "मुजफ्फरपुर", "is_correct": true },
+      { "option_id": 3, "text": "दिल्ली", "is_correct": false },
+      { "option_id": 4, "text": "वाराणसी", "is_correct": false }
+    ],
+    "answer": "मुजफ्फरपुर"
+  },
+  {
+    "question_id": 43,
+    "question_type": "MCQ",
+    "question": "लेखक का संबंध किस राज्य से था?",
+    "options": [
+      { "option_id": 1, "text": "उत्तर प्रदेश", "is_correct": false },
+      { "option_id": 2, "text": "बिहार", "is_correct": true },
+      { "option_id": 3, "text": "मध्य प्रदेश", "is_correct": false },
+      { "option_id": 4, "text": "राजस्थान", "is_correct": false }
+    ],
+    "answer": "बिहार"
+  },
+  {
+    "question_id": 44,
+    "question_type": "MCQ",
+    "question": "लेखक के अनुसार संगीत कब से मानव जीवन में है?",
+    "options": [
+      { "option_id": 1, "text": "आधुनिक काल से", "is_correct": false },
+      { "option_id": 2, "text": "बचपन से ही", "is_correct": true },
+      { "option_id": 3, "text": "मध्यकाल से", "is_correct": false },
+      { "option_id": 4, "text": "विज्ञान युग से", "is_correct": false }
+    ],
+    "answer": "बचपन से ही"
+  },
+  {
+    "question_id": 45,
+    "question_type": "MCQ",
+    "question": "संगीत किसे और प्रभावी बनाता है?",
+    "options": [
+      { "option_id": 1, "text": "भाषा को", "is_correct": false },
+      { "option_id": 2, "text": "भावनाओं को", "is_correct": true },
+      { "option_id": 3, "text": "कठिनाई को", "is_correct": false },
+      { "option_id": 4, "text": "शोर को", "is_correct": false }
+    ],
+    "answer": "भावनाओं को"
+  },
+
+  {
+    "question_id": 46,
+    "question_type": "MCQ",
+    "question": "पाठ में संगीत को किससे जोड़ा गया है?",
+    "options": [
+      { "option_id": 1, "text": "प्रकृति से", "is_correct": false },
+      { "option_id": 2, "text": "मानव जीवन से", "is_correct": true },
+      { "option_id": 3, "text": "मशीन से", "is_correct": false },
+      { "option_id": 4, "text": "शहरों से", "is_correct": false }
+    ],
+    "answer": "मानव जीवन से"
+  },
+  {
+    "question_id": 47,
+    "question_type": "MCQ",
+    "question": "यह पाठ किस कक्षा स्तर के लिए उपयुक्त है?",
+    "options": [
+      { "option_id": 1, "text": "प्राथमिक", "is_correct": false },
+      { "option_id": 2, "text": "माध्यमिक", "is_correct": true },
+      { "option_id": 3, "text": "स्नातक", "is_correct": false },
+      { "option_id": 4, "text": "परास्नातक", "is_correct": false }
+    ],
+    "answer": "माध्यमिक"
+  },
+  {
+    "question_id": 48,
+    "question_type": "MCQ",
+    "question": "लेखक ने बाजों का वर्णन क्यों किया है?",
+    "options": [
+      { "option_id": 1, "text": "मनोरंजन के लिए", "is_correct": false },
+      { "option_id": 2, "text": "विभिन्न संस्कृतियाँ दिखाने के लिए", "is_correct": true },
+      { "option_id": 3, "text": "केवल जानकारी के लिए", "is_correct": false },
+      { "option_id": 4, "text": "परीक्षा के लिए", "is_correct": false }
+    ],
+    "answer": "विभिन्न संस्कृतियाँ दिखाने के लिए"
+  },
+  {
+    "question_id": 49,
+    "question_type": "MCQ",
+    "question": "पाठ में संगीत को किस रूप में प्रस्तुत किया गया है?",
+    "options": [
+      { "option_id": 1, "text": "एक बोझ", "is_correct": false },
+      { "option_id": 2, "text": "मानव की स्वाभाविक प्रवृत्ति", "is_correct": true },
+      { "option_id": 3, "text": "एक समस्या", "is_correct": false },
+      { "option_id": 4, "text": "एक बाधा", "is_correct": false }
+    ],
+    "answer": "मानव की स्वाभाविक प्रवृत्ति"
+  },
+  {
+    "question_id": 50,
+    "question_type": "MCQ",
+    "question": "‘गाना-बजाना’ पाठ का मुख्य संदेश क्या है?",
+    "options": [
+      { "option_id": 1, "text": "संगीत कठिन है", "is_correct": false },
+      { "option_id": 2, "text": "संगीत मानव जीवन का अभिन्न अंग है", "is_correct": true },
+      { "option_id": 3, "text": "संगीत केवल कला है", "is_correct": false },
+      { "option_id": 4, "text": "संगीत केवल मनोरंजन है", "is_correct": false }
+    ],
+    "answer": "संगीत मानव जीवन का अभिन्न अंग है"
+  },
+  {
+  "question_id": 51,
+  "question_type": "SHORT",
+  "question": "लेखक के अनुसार गाने-बजाने की करामात क्या है?",
+  "answer": "लेखक के अनुसार गाने-बजाने से रोता बच्चा भी चुप हो जाता है और प्रसन्न हो उठता है।"
+},
+{
+  "question_id": 52,
+  "question_type": "SHORT",
+  "question": "पिपुही बजाने से बच्चे पर क्या प्रभाव पड़ता है?",
+  "answer": "पिपुही बजाने से बच्चा चुप हो जाता है और मुस्कराने लगता है।"
+},
+{
+  "question_id": 53,
+  "question_type": "SHORT",
+  "question": "लेखक ने मनुष्य के बचपन के बारे में क्या कहा है?",
+  "answer": "लेखक के अनुसार मनुष्य के बचपन में भी गाने-बजाने का शौक रहा होगा।"
+},
+{
+  "question_id": 54,
+  "question_type": "SHORT",
+  "question": "गाना किस प्रकार मन के भाव प्रकट करता है?",
+  "answer": "गाना मन के उच्छ्वास और भावनाओं को व्यक्त करता है।"
+},
+{
+  "question_id": 55,
+  "question_type": "SHORT",
+  "question": "बाजा गाने को कैसा बनाता है?",
+  "answer": "बाजा गाने को भड़कदार और दिलचस्प बना देता है।"
+},
+{
+  "question_id": 56,
+  "question_type": "SHORT",
+  "question": "दुनिया के किस प्रकार के देशों में गाना-बजाना पाया जाता है?",
+  "answer": "दुनिया के सबसे पिछड़े देशों में भी गाना-बजाना पाया जाता है।"
+},
+{
+  "question_id": 57,
+  "question_type": "SHORT",
+  "question": "पहले बाजे कैसे बनाए गए होंगे?",
+  "answer": "पहले लोग वस्तुओं को पीटकर शब्द निकालने की कोशिश करते होंगे।"
+},
+{
+  "question_id": 58,
+  "question_type": "SHORT",
+  "question": "ढोल कैसे बनाया गया होगा?",
+  "answer": "मरे पशुओं के चमड़े को कद्दू पर मढ़कर ढोल बनाया गया होगा।"
+},
+{
+  "question_id": 59,
+  "question_type": "SHORT",
+  "question": "पिपुही कैसे बनी होगी?",
+  "answer": "नरकट की गाँठों में छेद करके पिपुही बनाई गई होगी।"
+},
+{
+  "question_id": 60,
+  "question_type": "SHORT",
+  "question": "झुनझुना कैसे बनाया गया होगा?",
+  "answer": "पोपली चीज में कंकड़ डालकर हिलाने से झुनझुना बना होगा।"
+},
+{
+  "question_id": 61,
+  "question_type": "SHORT",
+  "question": "आदिवासी समाज में कौन से तीन बाजे प्रचलित हैं?",
+  "answer": "ढोल, पिपुही और झुनझुना।"
+},
+{
+  "question_id": 62,
+  "question_type": "SHORT",
+  "question": "वनवासी लोग गाने में किस पर अधिक ध्यान देते हैं?",
+  "answer": "वनवासी लोग ताल पर अधिक ध्यान देते हैं।"
+},
+{
+  "question_id": 63,
+  "question_type": "SHORT",
+  "question": "रेड इंडियनों के यहाँ किस चीज़ की प्रधानता होती है?",
+  "answer": "रेड इंडियनों के यहाँ ताल की प्रधानता होती है।"
+},
+{
+  "question_id": 64,
+  "question_type": "SHORT",
+  "question": "हब्शी लोग किस वाद्य में निपुण होते हैं?",
+  "answer": "हब्शी लोग ढोल बजाने में निपुण होते हैं।"
+},
+{
+  "question_id": 65,
+  "question_type": "SHORT",
+  "question": "हब्शी लोगों की विशेषता क्या है?",
+  "answer": "वे ढोल की भाषा समझ लेते हैं।"
+},
+{
+  "question_id": 66,
+  "question_type": "SHORT",
+  "question": "मध्य अफ्रीका के लोग कैसे गाते-बजाते हैं?",
+  "answer": "वे पूरे सम्मान के साथ गाते-बजाते हैं।"
+},
+{
+  "question_id": 67,
+  "question_type": "SHORT",
+  "question": "भारत का प्रसिद्ध बाजा कौन सा है?",
+  "answer": "भारत का प्रसिद्ध बाजा वीणा है।"
+},
+{
+  "question_id": 68,
+  "question_type": "SHORT",
+  "question": "सरस्वती देवी किस बाजे को बजाती हैं?",
+  "answer": "सरस्वती देवी वीणा बजाती हैं।"
+},
+{
+  "question_id": 69,
+  "question_type": "SHORT",
+  "question": "चीन का प्रसिद्ध बाजा क्या कहलाता है?",
+  "answer": "चीन का प्रसिद्ध बाजा ‘राजा’ कहलाता है।"
+},
+{
+  "question_id": 70,
+  "question_type": "SHORT",
+  "question": "बर्मा का प्रसिद्ध बाजा कौन सा है?",
+  "answer": "बर्मा में ‘ढोल तरंग’ प्रसिद्ध है।"
+},
+{
+  "question_id": 71,
+  "question_type": "SHORT",
+  "question": "जापान का प्रसिद्ध बाजा क्या है?",
+  "answer": "जापान में ‘ऐंगलौंग’ प्रसिद्ध है।"
+},
+{
+  "question_id": 72,
+  "question_type": "SHORT",
+  "question": "जापान में कौन से तार वाले बाजे मिलते हैं?",
+  "answer": "सितार, सारंगी और वीणा जैसे बाजे मिलते हैं।"
+},
+{
+  "question_id": 73,
+  "question_type": "SHORT",
+  "question": "रेडस्किन जाति के पास कितने बाजे होते हैं?",
+  "answer": "उनके पास तीन बाजे होते हैं।"
+},
+{
+  "question_id": 74,
+  "question_type": "SHORT",
+  "question": "रेडस्किन लोग ढोल में पानी क्यों भरते हैं?",
+  "answer": "स्वर को अपने अनुसार बनाने के लिए।"
+},
+{
+  "question_id": 75,
+  "question_type": "SHORT",
+  "question": "न्यासालैंड का विचित्र बाजा किस प्रकार बजाया जाता है?",
+  "answer": "पैर में अखरोट के छिलके बाँधकर और हाथ में तार वाला बाजा लेकर।"
+},
+{
+  "question_id": 81,
+  "question_type": "SHORT",
+  "question": "न्यासालैंड के लोगों के बाजे को ‘बाजों की खिचड़ी’ क्यों कहा गया है?",
+  "answer": "क्योंकि उसमें एक साथ झुनझुना, घंटी और तार की आवाज निकलती है।"
+},
+{
+  "question_id": 82,
+  "question_type": "SHORT",
+  "question": "न्यासालैंड के गवैये पैरों में क्या बाँधते हैं?",
+  "answer": "वे पैरों में अखरोट के छिलके बाँधते हैं जिनमें पत्थर होते हैं।"
+},
+{
+  "question_id": 83,
+  "question_type": "SHORT",
+  "question": "फिजी के आदिवासी कौन सा बाजा बजाते हैं?",
+  "answer": "फिजी के आदिवासी लंबी बंशी बजाते हैं।"
+},
+{
+  "question_id": 84,
+  "question_type": "SHORT",
+  "question": "फिजी की बंशी किस अंग से बजाई जाती है?",
+  "answer": "फिजी की बंशी नाक से बजाई जाती है।"
+},
+{
+  "question_id": 85,
+  "question_type": "SHORT",
+  "question": "मलाया में किस प्रकार की बंशी देखी जाती है?",
+  "answer": "मलाया में नाक से बजाई जाने वाली बंशी देखी जाती है।"
+},
+{
+  "question_id": 86,
+  "question_type": "SHORT",
+  "question": "मैक्सिको का प्रसिद्ध बाजा कौन सा है?",
+  "answer": "मैक्सिको का प्रसिद्ध बाजा ‘मरिंबा’ है।"
+},
+{
+  "question_id": 87,
+  "question_type": "SHORT",
+  "question": "मरिंबा पर एक साथ कितने लोग बजा सकते हैं?",
+  "answer": "मरिंबा पर एक साथ चार लोग तक बजा सकते हैं।"
+},
+{
+  "question_id": 88,
+  "question_type": "SHORT",
+  "question": "भारत का कौन सा बाजा विदेशियों को आश्चर्यचकित करता है?",
+  "answer": "भारत का ‘सिंगा’ विदेशियों को आश्चर्यचकित करता है।"
+},
+{
+  "question_id": 89,
+  "question_type": "SHORT",
+  "question": "लेखक के अनुसार हर पूर्वी देश की क्या विशेषता है?",
+  "answer": "हर पूर्वी देश का एक प्रसिद्ध बाजा होता है।"
+},
+{
+  "question_id": 90,
+  "question_type": "SHORT",
+  "question": "भारत का राष्ट्रीय बाजा किसे माना गया है?",
+  "answer": "भारत का राष्ट्रीय बाजा वीणा को माना गया है।"
+},
+{
+  "question_id": 91,
+  "question_type": "SHORT",
+  "question": "चीन के ‘राजा’ बाजे में क्या विशेष होता है?",
+  "answer": "उसमें सोलह पत्थरों को काठ की मुँगरी से बजाया जाता है।"
+},
+{
+  "question_id": 92,
+  "question_type": "SHORT",
+  "question": "बर्मा की ‘ढोल तरंग’ कैसी होती है?",
+  "answer": "ढोल तरंग में 21 ढोल अर्धवृत्त में रखे जाते हैं।"
+},
+{
+  "question_id": 93,
+  "question_type": "SHORT",
+  "question": "ढोल तरंग बजाने वाला कहाँ बैठता है?",
+  "answer": "वह ढोलों के बीच में बैठकर या खड़े होकर बजाता है।"
+},
+{
+  "question_id": 94,
+  "question_type": "SHORT",
+  "question": "जापान के ‘ऐंगलौंग’ बाजे की विशेषता क्या है?",
+  "answer": "यह बाँस के टुकड़ों को पीटकर बजाया जाता है।"
+},
+{
+  "question_id": 95,
+  "question_type": "SHORT",
+  "question": "रेडस्किन लोगों के प्रमुख तीन बाजे कौन से हैं?",
+  "answer": "ढोल, पिपुही और झुनझुना।"
+},
+{
+  "question_id": 96,
+  "question_type": "SHORT",
+  "question": "रेडस्किन लोग स्वर कैसे बदलते हैं?",
+  "answer": "ढोल के पानी की मात्रा कम-ज्यादा करके।"
+},
+{
+  "question_id": 97,
+  "question_type": "SHORT",
+  "question": "गवैये राजा द्वारा क्यों दंडित किए जाते थे?",
+  "answer": "ताकि वे राज्य छोड़कर न जाएँ।"
+},
+{
+  "question_id": 98,
+  "question_type": "SHORT",
+  "question": "राजा गवैये के साथ क्या करता था?",
+  "answer": "राजा अच्छे गवैये की आँखें निकलवा देता था।"
+},
+{
+  "question_id": 99,
+  "question_type": "SHORT",
+  "question": "लेखक ने गाने-बजाने के शौक को कैसा बताया है?",
+  "answer": "लेखक ने इसे सार्वभौमिक शौक बताया है।"
+},
+{
+  "question_id": 100,
+  "question_type": "SHORT",
+  "question": "रामवृक्ष बेनीपुरी किस विधा के लेखक थे?",
+  "answer": "वे निबंधकार थे।"
+},
+{
+  "question_id": 101,
+  "question_type": "SHORT",
+  "question": "रामवृक्ष बेनीपुरी का जन्म कहाँ हुआ था?",
+  "answer": "मुजफ्फरपुर, बिहार में।"
+},
+{
+  "question_id": 102,
+  "question_type": "SHORT",
+  "question": "रामवृक्ष बेनीपुरी की एक प्रसिद्ध रचना का नाम लिखिए।",
+  "answer": "‘माटी’।"
+},
+{
+  "question_id": 103,
+  "question_type": "SHORT",
+  "question": "लेखक के अनुसार गाना-बजाना किस भावना को प्रकट करता है?",
+  "answer": "दिल के उच्छ्वास को।"
+},
+{
+  "question_id": 104,
+  "question_type": "SHORT",
+  "question": "बाजा गाने को कैसा बना देता है?",
+  "answer": "बाजा गाने को रोचक और प्रभावशाली बना देता है।"
+},
+{
+  "question_id": 105,
+  "question_type": "SHORT",
+  "question": "ढोल किससे बनाया गया होगा?",
+  "answer": "मरे हुए पशुओं के चमड़े से।"
+},
+{
+  "question_id": 106,
+  "question_type": "SHORT",
+  "question": "पिपुही किससे बनाई गई होगी?",
+  "answer": "नरकट की गाँठों से।"
+},
+{
+  "question_id": 107,
+  "question_type": "SHORT",
+  "question": "झुनझुना कैसे बजाया जाता है?",
+  "answer": "उसे हिलाने-डुलाने से।"
+},
+{
+  "question_id": 108,
+  "question_type": "SHORT",
+  "question": "वनवासी लोग सुर की अपेक्षा किसे अधिक महत्व देते हैं?",
+  "answer": "ताल को।"
+},
+{
+  "question_id": 109,
+  "question_type": "SHORT",
+  "question": "हब्शी लोग ढोल से क्या समझ लेते हैं?",
+  "answer": "वे ढोल की भाषा समझ लेते हैं।"
+},
+{
+  "question_id": 110,
+  "question_type": "SHORT",
+  "question": "लेखक के अनुसार संगीत किस देश में नहीं है?",
+  "answer": "कोई भी देश ऐसा नहीं जहाँ संगीत न हो।"
+},
+{
+  "question_id": 111,
+  "question_type": "SHORT",
+  "question": "‘मुँगरी’ शब्द का अर्थ क्या है?",
+  "answer": "मुठियादार लाठी।"
+},
+{
+  "question_id": 112,
+  "question_type": "SHORT",
+  "question": "‘ईजाद’ शब्द का अर्थ क्या है?",
+  "answer": "खोज।"
+},
+{
+  "question_id": 113,
+  "question_type": "SHORT",
+  "question": "‘नरकट’ शब्द का अर्थ क्या है?",
+  "answer": "पतली गाँठदार बेंत।"
+},
+{
+  "question_id": 114,
+  "question_type": "SHORT",
+  "question": "‘बेशी’ शब्द का अर्थ क्या है?",
+  "answer": "ज्यादा।"
+},
+{
+  "question_id": 115,
+  "question_type": "SHORT",
+  "question": "‘अधिवासी’ शब्द का अर्थ क्या है?",
+  "answer": "आकर बसने वाला।"
+},
+{
+  "question_id": 116,
+  "question_type": "SHORT",
+  "question": "लेखक ने गाने-बजाने को किससे जोड़ा है?",
+  "answer": "मानव स्वभाव से।"
+},
+{
+  "question_id": 117,
+  "question_type": "SHORT",
+  "question": "संगीत से मनुष्य को क्या मिलता है?",
+  "answer": "आनंद और मानसिक शांति।"
+},
+{
+  "question_id": 118,
+  "question_type": "SHORT",
+  "question": "गवैये दल को मध्य अफ्रीका में कैसा सम्मान मिलता है?",
+  "answer": "पूरा सम्मान मिलता है।"
+},
+{
+  "question_id": 119,
+  "question_type": "SHORT",
+  "question": "भारत के अलावा कौन से देशों में विचित्र बाजे मिलते हैं?",
+  "answer": "फिजी, मलाया, मैक्सिको और न्यासालैंड।"
+},
+{
+  "question_id": 120,
+  "question_type": "SHORT",
+  "question": "लेखक का मुख्य उद्देश्य क्या है?",
+  "answer": "दुनिया के अलग-अलग बाजों की जानकारी देना।"
+},
+{
+  "question_id": 121,
+  "question_type": "SHORT",
+  "question": "गाने-बजाने से समाज में क्या प्रभाव पड़ता है?",
+  "answer": "समाज में आनंद और एकता बढ़ती है।"
+},
+{
+  "question_id": 122,
+  "question_type": "SHORT",
+  "question": "लेखक ने संगीत को कैसा शौक बताया है?",
+  "answer": "सार्वभौमिक शौक।"
+},
+{
+  "question_id": 123,
+  "question_type": "SHORT",
+  "question": "संगीत का मानव जीवन से क्या संबंध है?",
+  "answer": "संगीत मानव जीवन का अभिन्न अंग है।"
+},
+{
+  "question_id": 124,
+  "question_type": "SHORT",
+  "question": "लेखक के अनुसार बाजों का विकास कैसे हुआ?",
+  "answer": "प्राकृतिक वस्तुओं से प्रयोग करते हुए।"
+},
+{
+  "question_id": 125,
+  "question_type": "SHORT",
+  "question": "संगीत क्यों सभी देशों में पाया जाता है?",
+  "answer": "क्योंकि यह मनुष्य की स्वाभाविक प्रवृत्ति है।"
+},
+{
+  "question_id": 126,
+  "question_type": "SHORT",
+  "question": "संगीत का सबसे पुराना रूप क्या माना गया है?",
+  "answer": "ढोल, पिपुही और झुनझुना।"
+},
+{
+  "question_id": 127,
+  "question_type": "SHORT",
+  "question": "लेखक ने किस बाजे को सबसे सरल बताया है?",
+  "answer": "झुनझुना।"
+},
+{
+  "question_id": 128,
+  "question_type": "SHORT",
+  "question": "बाजा गाने को कैसा रूप देता है?",
+  "answer": "सजीव और आकर्षक।"
+},
+{
+  "question_id": 129,
+  "question_type": "SHORT",
+  "question": "लेखक ने किन वाद्यों का उदाहरण दिया है?",
+  "answer": "ढोल, पिपुही, झुनझुना, वीणा, मरिंबा।"
+},
+{
+  "question_id": 130,
+  "question_type": "SHORT",
+  "question": "संगीत से बच्चे पर क्या प्रभाव पड़ता है?",
+  "answer": "बच्चा प्रसन्न हो जाता है।"
+},
+{
+  "question_id": 131,
+  "question_type": "SHORT",
+  "question": "लेखक ने संगीत को किससे जोड़ा है?",
+  "answer": "मानव सभ्यता से।"
+},
+{
+  "question_id": 132,
+  "question_type": "SHORT",
+  "question": "वनवासी लोगों में किस प्रकार का संगीत पाया जाता है?",
+  "answer": "ताल प्रधान संगीत।"
+},
+{
+  "question_id": 133,
+  "question_type": "SHORT",
+  "question": "लेखक ने बाजे को गाने का कौन सा अंग कहा है?",
+  "answer": "गाने को भड़काने वाला अंग।"
+},
+{
+  "question_id": 134,
+  "question_type": "SHORT",
+  "question": "लेखक ने ढोल को क्या कहा है?",
+  "answer": "ताल देने वाला बाजा।"
+},
+{
+  "question_id": 135,
+  "question_type": "SHORT",
+  "question": "गवैये अपने बाजों का प्रयोग क्यों करते हैं?",
+  "answer": "स्वर और ताल उत्पन्न करने के लिए।"
+},
+{
+  "question_id": 136,
+  "question_type": "SHORT",
+  "question": "रामवृक्ष बेनीपुरी किस भाषा के लेखक थे?",
+  "answer": "हिंदी भाषा के।"
+},
+{
+  "question_id": 137,
+  "question_type": "SHORT",
+  "question": "लेखक ने संगीत को मानव जीवन का क्या बताया है?",
+  "answer": "अनिवार्य अंग।"
+},
+{
+  "question_id": 138,
+  "question_type": "SHORT",
+  "question": "बाजा किस भावना को प्रकट करता है?",
+  "answer": "उत्साह और आनंद की भावना।"
+},
+{
+  "question_id": 139,
+  "question_type": "SHORT",
+  "question": "संगीत से क्या सामाजिक लाभ होता है?",
+  "answer": "समाज में मेल-जोल बढ़ता है।"
+},
+{
+  "question_id": 140,
+  "question_type": "SHORT",
+  "question": "लेखक ने किसे मानव सभ्यता का प्रमाण बताया है?",
+  "answer": "गाना-बजाना।"
+},
+{
+  "question_id": 141,
+  "question_type": "SHORT",
+  "question": "लेखक ने किस बाजे को राष्ट्रीय बाजा कहा है?",
+  "answer": "वीणा।"
+},
+{
+  "question_id": 142,
+  "question_type": "SHORT",
+  "question": "संगीत से मनुष्य के मन पर क्या असर पड़ता है?",
+  "answer": "मन प्रसन्न और शांत हो जाता है।"
+},
+{
+  "question_id": 143,
+  "question_type": "SHORT",
+  "question": "संगीत क्यों मनुष्य के लिए आवश्यक है?",
+  "answer": "क्योंकि यह जीवन को आनंदमय बनाता है।"
+},
+{
+  "question_id": 144,
+  "question_type": "SHORT",
+  "question": "लेखक ने बाजों की विविधता कहाँ दिखाई है?",
+  "answer": "विभिन्न देशों के उदाहरणों से।"
+},
+{
+  "question_id": 145,
+  "question_type": "SHORT",
+  "question": "संगीत से मनुष्य की कौन सी भावना प्रकट होती है?",
+  "answer": "खुशी और उत्साह की भावना।"
+},
+{
+  "question_id": 146,
+  "question_type": "SHORT",
+  "question": "बाजा और गाने का क्या संबंध है?",
+  "answer": "बाजा गाने को प्रभावशाली बनाता है।"
+},
+{
+  "question_id": 147,
+  "question_type": "SHORT",
+  "question": "लेखक के अनुसार संगीत कहाँ-कहाँ पाया जाता है?",
+  "answer": "पूरी दुनिया में।"
+},
+{
+  "question_id": 148,
+  "question_type": "SHORT",
+  "question": "संगीत से बच्चों का स्वभाव कैसा होता है?",
+  "answer": "प्रसन्न और शांत।"
+},
+{
+  "question_id": 149,
+  "question_type": "SHORT",
+  "question": "लेखक ने गाने-बजाने को किसका प्रतीक माना है?",
+  "answer": "मानव संस्कृति का प्रतीक।"
+},
+{
+  "question_id": 150,
+  "question_type": "SHORT",
+  "question": "इस पाठ का मुख्य संदेश क्या है?",
+  "answer": "गाना-बजाना मानव जीवन का अनिवार्य और सार्वभौमिक अंग है।"
+}
+  ]
+}
+
+

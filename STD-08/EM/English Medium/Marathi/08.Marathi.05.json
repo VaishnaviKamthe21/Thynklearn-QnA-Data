@@ -1,0 +1,1231 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "8.Mar.05",
+    "standard": "8",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "विश्वविख्यात शास्त्रज्ञ — स्टीफन हॉकिंग"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग यांचा जन्म कुठे झाला?",
+      "options": [
+        { "option_id": 1, "text": "लंडन", "is_correct": false },
+        { "option_id": 2, "text": "ऑक्सफर्ड", "is_correct": true },
+        { "option_id": 3, "text": "केंब्रिज", "is_correct": false },
+        { "option_id": 4, "text": "मँचेस्टर", "is_correct": false }
+      ],
+      "answer": "ऑक्सफर्ड"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "स्टीफन हॉकिंग यांना कोणते विषय विशेष आवडत होते?",
+      "options": [
+        { "option_id": 1, "text": "इतिहास व भूगोल", "is_correct": false },
+        { "option_id": 2, "text": "गणित व भौतिकशास्त्र", "is_correct": true },
+        { "option_id": 3, "text": "रसायनशास्त्र", "is_correct": false },
+        { "option_id": 4, "text": "जीवशास्त्र", "is_correct": false }
+      ],
+      "answer": "गणित व भौतिकशास्त्र"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांनी कोणत्या विद्यापीठात प्रवेश घेतला?",
+      "options": [
+        { "option_id": 1, "text": "केंब्रिज विद्यापीठ", "is_correct": false },
+        { "option_id": 2, "text": "ऑक्सफर्ड विद्यापीठ", "is_correct": true },
+        { "option_id": 3, "text": "हार्वर्ड विद्यापीठ", "is_correct": false },
+        { "option_id": 4, "text": "येल विद्यापीठ", "is_correct": false }
+      ],
+      "answer": "ऑक्सफर्ड विद्यापीठ"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पीएच.डी.साठी हॉकिंग यांना कुठे शिष्यवृत्ती मिळाली?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सफर्ड", "is_correct": false },
+        { "option_id": 2, "text": "केंब्रिज", "is_correct": true },
+        { "option_id": 3, "text": "लंडन", "is_correct": false },
+        { "option_id": 4, "text": "न्यूयॉर्क", "is_correct": false }
+      ],
+      "answer": "केंब्रिज"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांना कोणता आजार झाल्याचे निदान झाले?",
+      "options": [
+        { "option_id": 1, "text": "हृदयरोग", "is_correct": false },
+        { "option_id": 2, "text": "मोटार न्यूरॉन रोग", "is_correct": true },
+        { "option_id": 3, "text": "मधुमेह", "is_correct": false },
+        { "option_id": 4, "text": "कर्करोग", "is_correct": false }
+      ],
+      "answer": "मोटार न्यूरॉन रोग"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "या आजाराचे प्रारंभिक लक्षण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "डोकेदुखी", "is_correct": false },
+        { "option_id": 2, "text": "बोटांची हालचाल नीट न होणे", "is_correct": true },
+        { "option_id": 3, "text": "ताप येणे", "is_correct": false },
+        { "option_id": 4, "text": "डोळे दुखणे", "is_correct": false }
+      ],
+      "answer": "बोटांची हालचाल नीट न होणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "या आजारामुळे पुढे कोणती अडचण निर्माण झाली?",
+      "options": [
+        { "option_id": 1, "text": "ऐकू न येणे", "is_correct": false },
+        { "option_id": 2, "text": "चालणे-बोलणे बंद होणे", "is_correct": true },
+        { "option_id": 3, "text": "दृष्टी कमी होणे", "is_correct": false },
+        { "option_id": 4, "text": "स्मरणशक्ती कमी होणे", "is_correct": false }
+      ],
+      "answer": "चालणे-बोलणे बंद होणे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "‘चाकाची खुर्ची’ का हॉकिंग यांची साथीदार बनली?",
+      "options": [
+        { "option_id": 1, "text": "अपघातामुळे", "is_correct": false },
+        { "option_id": 2, "text": "स्नायूंवरील नियंत्रण कमी झाल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "वृद्धत्वामुळे", "is_correct": false },
+        { "option_id": 4, "text": "दृष्टी कमी झाल्यामुळे", "is_correct": false }
+      ],
+      "answer": "स्नायूंवरील नियंत्रण कमी झाल्यामुळे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांचा शोधनिबंध कोणत्या वर्षी गौरवण्यात आला?",
+      "options": [
+        { "option_id": 1, "text": "1960", "is_correct": false },
+        { "option_id": 2, "text": "1966", "is_correct": true },
+        { "option_id": 3, "text": "1978", "is_correct": false },
+        { "option_id": 4, "text": "1985", "is_correct": false }
+      ],
+      "answer": "1966"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांना कोणत्या संस्थेत कामासाठी निमंत्रण मिळाले?",
+      "options": [
+        { "option_id": 1, "text": "इन्स्टिट्यूट ऑफ अॅस्ट्रॉनॉमी, केंब्रिज", "is_correct": true },
+        { "option_id": 2, "text": "इस्रो", "is_correct": false },
+        { "option_id": 3, "text": "नासा", "is_correct": false },
+        { "option_id": 4, "text": "टाटा संशोधन संस्था", "is_correct": false }
+      ],
+      "answer": "इन्स्टिट्यूट ऑफ अॅस्ट्रॉनॉमी, केंब्रिज"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘A Brief History of Time’ हे पुस्तक कशासाठी प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "कादंबरी", "is_correct": false },
+        { "option_id": 2, "text": "वैज्ञानिक पुस्तक", "is_correct": true },
+        { "option_id": 3, "text": "कविता संग्रह", "is_correct": false },
+        { "option_id": 4, "text": "नाटक", "is_correct": false }
+      ],
+      "answer": "वैज्ञानिक पुस्तक"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "या पुस्तकाच्या किती आवृत्त्या प्रसिद्ध झाल्या?",
+      "options": [
+        { "option_id": 1, "text": "23", "is_correct": false },
+        { "option_id": 2, "text": "33", "is_correct": true },
+        { "option_id": 3, "text": "43", "is_correct": false },
+        { "option_id": 4, "text": "53", "is_correct": false }
+      ],
+      "answer": "33"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या पुस्तकाच्या विक्रमाची नोंद कुठे झाली?",
+      "options": [
+        { "option_id": 1, "text": "विश्वकोशात", "is_correct": false },
+        { "option_id": 2, "text": "गिनिज बुक ऑफ वर्ल्ड रेकॉर्डमध्ये", "is_correct": true },
+        { "option_id": 3, "text": "राष्ट्रीय अभिलेखात", "is_correct": false },
+        { "option_id": 4, "text": "विद्यापीठात", "is_correct": false }
+      ],
+      "answer": "गिनिज बुक ऑफ वर्ल्ड रेकॉर्डमध्ये"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांना 1978 मध्ये कोणता पुरस्कार मिळाला?",
+      "options": [
+        { "option_id": 1, "text": "नोबेल पुरस्कार", "is_correct": false },
+        { "option_id": 2, "text": "अल्बर्ट आईन्स्टाईन पुरस्कार", "is_correct": true },
+        { "option_id": 3, "text": "भारत रत्न", "is_correct": false },
+        { "option_id": 4, "text": "पद्मश्री", "is_correct": false }
+      ],
+      "answer": "अल्बर्ट आईन्स्टाईन पुरस्कार"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांना ‘दुसरा आईन्स्टाईन’ का म्हटले गेले?",
+      "options": [
+        { "option_id": 1, "text": "त्यांच्या लोकप्रियतेमुळे", "is_correct": false },
+        { "option_id": 2, "text": "त्यांच्या उत्कृष्ट संशोधनामुळे", "is_correct": true },
+        { "option_id": 3, "text": "त्यांच्या लिखाणामुळे", "is_correct": false },
+        { "option_id": 4, "text": "त्यांच्या प्रवासामुळे", "is_correct": false }
+      ],
+      "answer": "त्यांच्या उत्कृष्ट संशोधनामुळे"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "1985 साली हॉकिंग यांना कोणती अडचण आली?",
+      "options": [
+        { "option_id": 1, "text": "अपघात", "is_correct": false },
+        { "option_id": 2, "text": "न्यूमोनिया", "is_correct": true },
+        { "option_id": 3, "text": "हृदयविकार", "is_correct": false },
+        { "option_id": 4, "text": "दृष्टी कमी होणे", "is_correct": false }
+      ],
+      "answer": "न्यूमोनिया"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "या आजारानंतर त्यांच्यात कोणती मर्यादा आली?",
+      "options": [
+        { "option_id": 1, "text": "ऐकू न येणे", "is_correct": false },
+        { "option_id": 2, "text": "वाचा जाणे", "is_correct": true },
+        { "option_id": 3, "text": "दृष्टी जाणे", "is_correct": false },
+        { "option_id": 4, "text": "स्मरणशक्ती कमी होणे", "is_correct": false }
+      ],
+      "answer": "वाचा जाणे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांनी वैज्ञानिक संशोधन थांबवले का?",
+      "options": [
+        { "option_id": 1, "text": "होय", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "काही काळासाठी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त शिकवणे थांबवले", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांनी आपला वाढदिवस भारतात कुठे साजरा केला?",
+      "options": [
+        { "option_id": 1, "text": "आयआयटी मुंबई", "is_correct": false },
+        { "option_id": 2, "text": "टाटा मूलभूत संशोधन संस्था", "is_correct": true },
+        { "option_id": 3, "text": "इस्रो", "is_correct": false },
+        { "option_id": 4, "text": "दिल्ली विद्यापीठ", "is_correct": false }
+      ],
+      "answer": "टाटा मूलभूत संशोधन संस्था"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "प्रसारमाध्यमांनी हॉकिंग यांना काय म्हटले?",
+      "options": [
+        { "option_id": 1, "text": "विज्ञान सम्राट", "is_correct": false },
+        { "option_id": 2, "text": "विश्वाचा स्वामी", "is_correct": true },
+        { "option_id": 3, "text": "ज्ञानयोगी", "is_correct": false },
+        { "option_id": 4, "text": "वैज्ञानिक राजा", "is_correct": false }
+      ],
+      "answer": "विश्वाचा स्वामी"
+    },
+
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या व्यक्तिमत्त्वातील मुख्य गुण कोणता?",
+      "options": [
+        { "option_id": 1, "text": "आळस", "is_correct": false },
+        { "option_id": 2, "text": "जिद्द व आत्मविश्वास", "is_correct": true },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "उदासीनता", "is_correct": false }
+      ],
+      "answer": "जिद्द व आत्मविश्वास"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "‘ठसा उमटवणे’ या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "पुसणे", "is_correct": false },
+        { "option_id": 2, "text": "छाप पाडणे", "is_correct": true },
+        { "option_id": 3, "text": "लपवणे", "is_correct": false },
+        { "option_id": 4, "text": "थांबवणे", "is_correct": false }
+      ],
+      "answer": "छाप पाडणे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "‘मात करणे’ म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "हरवणे", "is_correct": false },
+        { "option_id": 2, "text": "विजय मिळवणे", "is_correct": true },
+        { "option_id": 3, "text": "थांबवणे", "is_correct": false },
+        { "option_id": 4, "text": "लपवणे", "is_correct": false }
+      ],
+      "answer": "विजय मिळवणे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांचा छंद कोणता होता?",
+      "options": [
+        { "option_id": 1, "text": "चित्रकला", "is_correct": false },
+        { "option_id": 2, "text": "बोटी वल्हवणे", "is_correct": true },
+        { "option_id": 3, "text": "नृत्य", "is_correct": false },
+        { "option_id": 4, "text": "गायन", "is_correct": false }
+      ],
+      "answer": "बोटी वल्हवणे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांची निराशा कशामुळे दूर झाली?",
+      "options": [
+        { "option_id": 1, "text": "मित्रांमुळे", "is_correct": false },
+        { "option_id": 2, "text": "समंजसपणा व विचारीपणा", "is_correct": true },
+        { "option_id": 3, "text": "औषधांमुळे", "is_correct": false },
+        { "option_id": 4, "text": "प्रवासामुळे", "is_correct": false }
+      ],
+      "answer": "समंजसपणा व विचारीपणा"
+    },
+
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांनी परिस्थितीवर कसे मात केली?",
+      "options": [
+        { "option_id": 1, "text": "हार मानून", "is_correct": false },
+        { "option_id": 2, "text": "जिद्दीने व आत्मविश्वासाने", "is_correct": true },
+        { "option_id": 3, "text": "मदतीवर अवलंबून", "is_correct": false },
+        { "option_id": 4, "text": "संशोधन थांबवून", "is_correct": false }
+      ],
+      "answer": "जिद्दीने व आत्मविश्वासाने"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या जीवनातून कोणती शिकवण मिळते?",
+      "options": [
+        { "option_id": 1, "text": "हार मानावी", "is_correct": false },
+        { "option_id": 2, "text": "प्रतिकूल परिस्थितीतही प्रयत्न करावेत", "is_correct": true },
+        { "option_id": 3, "text": "जोखीम टाळावी", "is_correct": false },
+        { "option_id": 4, "text": "स्वतःवर विश्वास ठेवू नये", "is_correct": false }
+      ],
+      "answer": "प्रतिकूल परिस्थितीतही प्रयत्न करावेत"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांना ‘दिव्यांग तारा’ का म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "ते प्रसिद्ध होते म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "अपंगत्व असूनही महान कार्य केल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "ते प्रवासी होते म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "ते शिक्षक होते म्हणून", "is_correct": false }
+      ],
+      "answer": "अपंगत्व असूनही महान कार्य केल्यामुळे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या व्यक्तिमत्त्वात कोणता पैलू उल्लेखनीय आहे?",
+      "options": [
+        { "option_id": 1, "text": "आळशीपणा", "is_correct": false },
+        { "option_id": 2, "text": "विनोदबुद्धी", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "विनोदबुद्धी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांची दिनचर्या कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "सामान्य", "is_correct": false },
+        { "option_id": 2, "text": "अनोखी", "is_correct": true },
+        { "option_id": 3, "text": "अव्यवस्थित", "is_correct": false },
+        { "option_id": 4, "text": "आळशी", "is_correct": false }
+      ],
+      "answer": "अनोखी"
+    },
+
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या जीवनात कोणते गुण विशेष दिसतात?",
+      "options": [
+        { "option_id": 1, "text": "भीती व निराशा", "is_correct": false },
+        { "option_id": 2, "text": "आत्मविश्वास व जिद्द", "is_correct": true },
+        { "option_id": 3, "text": "अहंकार", "is_correct": false },
+        { "option_id": 4, "text": "आळस", "is_correct": false }
+      ],
+      "answer": "आत्मविश्वास व जिद्द"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांचा जीवनसंघर्ष कोणत्या गोष्टीवर केंद्रित आहे?",
+      "options": [
+        { "option_id": 1, "text": "पैसा कमावणे", "is_correct": false },
+        { "option_id": 2, "text": "अपंगत्वावर मात करणे", "is_correct": true },
+        { "option_id": 3, "text": "प्रवास करणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ जिंकणे", "is_correct": false }
+      ],
+      "answer": "अपंगत्वावर मात करणे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांचे संशोधन कोणत्या क्षेत्रात होते?",
+      "options": [
+        { "option_id": 1, "text": "जीवशास्त्र", "is_correct": false },
+        { "option_id": 2, "text": "भौतिकशास्त्र", "is_correct": true },
+        { "option_id": 3, "text": "रसायनशास्त्र", "is_correct": false },
+        { "option_id": 4, "text": "भूगोल", "is_correct": false }
+      ],
+      "answer": "भौतिकशास्त्र"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या जीवनकथेचा मुख्य संदेश कोणता?",
+      "options": [
+        { "option_id": 1, "text": "आरोग्य महत्त्वाचे", "is_correct": false },
+        { "option_id": 2, "text": "जिद्द आणि आत्मविश्वासाने यश मिळते", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षण कठीण आहे", "is_correct": false },
+        { "option_id": 4, "text": "यश सहज मिळते", "is_correct": false }
+      ],
+      "answer": "जिद्द आणि आत्मविश्वासाने यश मिळते"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांचे लेखन कोणासाठी प्रेरणादायी आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त शास्त्रज्ञांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "सर्वांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त विद्यार्थ्यांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त शिक्षकांसाठी", "is_correct": false }
+      ],
+      "answer": "सर्वांसाठी"
+    },
+
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या जीवनात विद्यापीठाची भूमिका काय होती?",
+      "options": [
+        { "option_id": 1, "text": "कोणतीही मदत नाही", "is_correct": false },
+        { "option_id": 2, "text": "विविध सुविधा पुरवल्या", "is_correct": true },
+        { "option_id": 3, "text": "प्रवेश नाकारला", "is_correct": false },
+        { "option_id": 4, "text": "संशोधन थांबवले", "is_correct": false }
+      ],
+      "answer": "विविध सुविधा पुरवल्या"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या आयुष्यातील सर्वांत वेदनादायक गोष्ट कोणती?",
+      "options": [
+        { "option_id": 1, "text": "चालणे बंद होणे", "is_correct": false },
+        { "option_id": 2, "text": "श्वासासाठी उपयुक्त स्नायू दुर्बल होणे", "is_correct": true },
+        { "option_id": 3, "text": "बोलणे कठीण होणे", "is_correct": false },
+        { "option_id": 4, "text": "लेखन न करणे", "is_correct": false }
+      ],
+      "answer": "श्वासासाठी उपयुक्त स्नायू दुर्बल होणे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या मनःस्थितीत बदल कसा झाला?",
+      "options": [
+        { "option_id": 1, "text": "अजून निराश झाले", "is_correct": false },
+        { "option_id": 2, "text": "हळूहळू सकारात्मक झाले", "is_correct": true },
+        { "option_id": 3, "text": "संशोधन सोडले", "is_correct": false },
+        { "option_id": 4, "text": "एकटे राहिले", "is_correct": false }
+      ],
+      "answer": "हळूहळू सकारात्मक झाले"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांचे जीवन कोणासाठी प्रेरणादायी आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त अपंगांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "सर्वांसाठी", "is_correct": true },
+        { "option_id": 3, "text": "फक्त विद्यार्थ्यांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त शास्त्रज्ञांसाठी", "is_correct": false }
+      ],
+      "answer": "सर्वांसाठी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या जीवनकथेतून कोणता भाव ठळक दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "भीती", "is_correct": false },
+        { "option_id": 2, "text": "आशावाद", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "उदासी", "is_correct": false }
+      ],
+      "answer": "आशावाद"
+    },
+
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांचे जीवनकौशल्य काय होते?",
+      "options": [
+        { "option_id": 1, "text": "परिस्थितीला शरण जाणे", "is_correct": false },
+        { "option_id": 2, "text": "परिस्थितीवर मात करणे", "is_correct": true },
+        { "option_id": 3, "text": "प्रयत्न न करणे", "is_correct": false },
+        { "option_id": 4, "text": "सर्वांवर अवलंबून राहणे", "is_correct": false }
+      ],
+      "answer": "परिस्थितीवर मात करणे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या यशामागील मुख्य कारण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "नशीब", "is_correct": false },
+        { "option_id": 2, "text": "कठोर परिश्रम व जिद्द", "is_correct": true },
+        { "option_id": 3, "text": "प्रसिद्धी", "is_correct": false },
+        { "option_id": 4, "text": "मदत", "is_correct": false }
+      ],
+      "answer": "कठोर परिश्रम व जिद्द"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या जीवनकथेत कोणता संदेश दिला आहे?",
+      "options": [
+        { "option_id": 1, "text": "आराम महत्त्वाचा", "is_correct": false },
+        { "option_id": 2, "text": "हार मानू नका", "is_correct": true },
+        { "option_id": 3, "text": "जोखीम टाळा", "is_correct": false },
+        { "option_id": 4, "text": "एकटे रहा", "is_correct": false }
+      ],
+      "answer": "हार मानू नका"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या कार्यामुळे कोणत्या क्षेत्राला गौरव मिळाला?",
+      "options": [
+        { "option_id": 1, "text": "कला", "is_correct": false },
+        { "option_id": 2, "text": "विज्ञान", "is_correct": true },
+        { "option_id": 3, "text": "क्रीडा", "is_correct": false },
+        { "option_id": 4, "text": "राजकारण", "is_correct": false }
+      ],
+      "answer": "विज्ञान"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या व्यक्तिमत्त्वाचे वर्णन कसे केले आहे?",
+      "options": [
+        { "option_id": 1, "text": "भीतिदायक", "is_correct": false },
+        { "option_id": 2, "text": "प्रेरणादायी", "is_correct": true },
+        { "option_id": 3, "text": "उदास", "is_correct": false },
+        { "option_id": 4, "text": "रागीट", "is_correct": false }
+      ],
+      "answer": "प्रेरणादायी"
+    },
+
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या जीवनात कोणती भावना प्रमुख आहे?",
+      "options": [
+        { "option_id": 1, "text": "निराशा", "is_correct": false },
+        { "option_id": 2, "text": "आत्मविश्वास", "is_correct": true },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या कार्याचा समाजावर काय परिणाम झाला?",
+      "options": [
+        { "option_id": 1, "text": "लोक निराश झाले", "is_correct": false },
+        { "option_id": 2, "text": "लोक प्रेरित झाले", "is_correct": true },
+        { "option_id": 3, "text": "लोक घाबरले", "is_correct": false },
+        { "option_id": 4, "text": "लोक उदास झाले", "is_correct": false }
+      ],
+      "answer": "लोक प्रेरित झाले"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या जीवनकथेचा अभ्यास का करावा?",
+      "options": [
+        { "option_id": 1, "text": "मनोरंजनासाठी", "is_correct": false },
+        { "option_id": 2, "text": "प्रेरणा मिळवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "वेळ घालवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त परीक्षेसाठी", "is_correct": false }
+      ],
+      "answer": "प्रेरणा मिळवण्यासाठी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "हॉकिंग यांच्या जीवनात शिक्षणाचे महत्त्व कसे दिसते?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षणामुळेच संशोधन शक्य झाले", "is_correct": true },
+        { "option_id": 2, "text": "शिक्षण उपयोगाचे नव्हते", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षण थांबवले", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षण टाळले", "is_correct": false }
+      ],
+      "answer": "शिक्षणामुळेच संशोधन शक्य झाले"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "या पाठाचा मुख्य उद्देश कोणता?",
+      "options": [
+        { "option_id": 1, "text": "इतिहास सांगणे", "is_correct": false },
+        { "option_id": 2, "text": "विद्यार्थ्यांना प्रेरणा देणे", "is_correct": true },
+        { "option_id": 3, "text": "मनोरंजन करणे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त माहिती देणे", "is_correct": false }
+      ],
+      "answer": "विद्यार्थ्यांना प्रेरणा देणे"
+    },
+    [
+  {
+    "question_id": 51,
+    "question_type": "SHORT",
+    "question": "स्टीफन हॉकिंग यांचे बालपण कसे होते?",
+    "answer": "हॉकिंग यांचे बालपण सामान्य होते. त्यांना लहानपणापासून अभ्यासाची आवड होती. गणित व विज्ञान विषयांकडे त्यांचा कल होता."
+  },
+  {
+    "question_id": 52,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांना कोणते विषय आवडत होते?",
+    "answer": "त्यांना गणित आणि भौतिकशास्त्र हे विषय विशेष आवडत होते. या विषयांमध्ये ते खूप रस घेऊन अभ्यास करत होते. पुढे त्यांनी याच क्षेत्रात संशोधन केले."
+  },
+  {
+    "question_id": 53,
+    "question_type": "SHORT",
+    "question": "ऑक्सफर्ड विद्यापीठात प्रवेश मिळाल्यावर हॉकिंग काय करू लागले?",
+    "answer": "ऑक्सफर्डमध्ये त्यांनी विज्ञानाचा सखोल अभ्यास सुरू केला. ते विविध प्रयोग व वाचन करत असत. यामुळे त्यांची वैज्ञानिक दृष्टी विकसित झाली."
+  },
+  {
+    "question_id": 54,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांना कोणता आजार झाला आणि त्याचा परिणाम काय झाला?",
+    "answer": "त्यांना मोटार न्यूरॉन रोग झाला. या आजारामुळे हळूहळू स्नायूंवर नियंत्रण कमी झाले. चालणे आणि बोलणे कठीण झाले."
+  },
+  {
+    "question_id": 55,
+    "question_type": "SHORT",
+    "question": "आजाराचे पहिले लक्षण कोणते होते?",
+    "answer": "बोटांची हालचाल नीट न होणे हे पहिले लक्षण होते. वस्तू पकडताना अडचण येत होती. त्यामुळे तपासणी केली गेली."
+  },
+  {
+    "question_id": 56,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांना चाकाच्या खुर्चीचा वापर का करावा लागला?",
+    "answer": "स्नायूंवरील नियंत्रण कमी झाल्यामुळे चालणे अशक्य झाले. त्यामुळे त्यांना चाकाच्या खुर्चीचा आधार घ्यावा लागला. तरीही त्यांनी काम थांबवले नाही."
+  },
+  {
+    "question_id": 57,
+    "question_type": "SHORT",
+    "question": "पीएच.डी.साठी हॉकिंग कुठे गेले?",
+    "answer": "पीएच.डी.साठी ते केंब्रिज विद्यापीठात गेले. तेथे त्यांना संशोधनासाठी चांगल्या संधी मिळाल्या. त्यांचा अभ्यास अधिक सखोल झाला."
+  },
+  {
+    "question_id": 58,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या शोधनिबंधाचे महत्त्व काय होते?",
+    "answer": "त्यांचा शोधनिबंध उत्कृष्ट मानला गेला. 1966 साली त्याचा गौरव झाला. त्यामुळे ते प्रसिद्ध झाले."
+  },
+  {
+    "question_id": 59,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांना कोणत्या संस्थेत काम करण्याची संधी मिळाली?",
+    "answer": "त्यांना केंब्रिजच्या इन्स्टिट्यूट ऑफ अॅस्ट्रॉनॉमीमध्ये कामाची संधी मिळाली. तेथे त्यांनी खगोलशास्त्रात संशोधन केले."
+  },
+  {
+    "question_id": 60,
+    "question_type": "SHORT",
+    "question": "‘A Brief History of Time’ हे पुस्तक का प्रसिद्ध झाले?",
+    "answer": "हे पुस्तक अवघड विषय सोप्या भाषेत समजावते. सामान्य वाचकांनाही विज्ञान समजावे हा त्याचा उद्देश होता. त्यामुळे ते खूप लोकप्रिय झाले."
+  },
+
+  {
+    "question_id": 61,
+    "question_type": "SHORT",
+    "question": "या पुस्तकाची विक्रमी कामगिरी काय आहे?",
+    "answer": "या पुस्तकाच्या 33 आवृत्त्या प्रसिद्ध झाल्या. त्याची नोंद गिनिज बुकमध्ये झाली. हे पुस्तक अनेक देशांत वाचले गेले."
+  },
+  {
+    "question_id": 62,
+    "question_type": "SHORT",
+    "question": "1978 साली हॉकिंग यांना कोणता पुरस्कार मिळाला?",
+    "answer": "1978 मध्ये त्यांना अल्बर्ट आईन्स्टाईन पुरस्कार मिळाला. हा पुरस्कार त्यांच्या संशोधनासाठी दिला गेला. त्यामुळे त्यांचा मान वाढला."
+  },
+  {
+    "question_id": 63,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांना ‘दुसरे आईन्स्टाईन’ का म्हणत?",
+    "answer": "त्यांचे संशोधन अत्यंत महत्त्वाचे होते. त्यांच्या विचारांची तुलना आईन्स्टाईन यांच्याशी केली जात होती. म्हणून त्यांना हे नाव मिळाले."
+  },
+  {
+    "question_id": 64,
+    "question_type": "SHORT",
+    "question": "1985 साली हॉकिंग यांना कोणती अडचण आली?",
+    "answer": "त्यांना न्यूमोनिया झाला. त्यामुळे त्यांची वाचा गेली. त्यानंतर ते यंत्राच्या साहाय्याने संवाद साधू लागले."
+  },
+  {
+    "question_id": 65,
+    "question_type": "SHORT",
+    "question": "वाचा गेल्यानंतरही हॉकिंग कसे काम करत राहिले?",
+    "answer": "ते संगणकीय उपकरणाच्या मदतीने बोलत. टायपिंगद्वारे विचार मांडत. त्यामुळे संशोधन सुरू ठेवू शकले."
+  },
+  {
+    "question_id": 66,
+    "question_type": "SHORT",
+    "question": "हॉकिंग भारतात कुठे आले होते?",
+    "answer": "ते टाटा मूलभूत संशोधन संस्थेत आले होते. तेथे त्यांनी आपला वाढदिवस साजरा केला. भारतीय शास्त्रज्ञांशी संवाद साधला."
+  },
+  {
+    "question_id": 67,
+    "question_type": "SHORT",
+    "question": "प्रसारमाध्यमांनी हॉकिंग यांना काय म्हटले?",
+    "answer": "प्रसारमाध्यमांनी त्यांना ‘विश्वाचा स्वामी’ असे म्हटले. त्यांच्या संशोधनामुळे हे नाव दिले गेले."
+  },
+  {
+    "question_id": 68,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या व्यक्तिमत्त्वातील मुख्य गुण कोणते?",
+    "answer": "जिद्द, आत्मविश्वास आणि सकारात्मक विचार हे त्यांचे मुख्य गुण होते. आजार असूनही त्यांनी हार मानली नाही."
+  },
+  {
+    "question_id": 69,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात निराशा कशी दूर झाली?",
+    "answer": "त्यांनी परिस्थिती स्वीकारली आणि अभ्यासात मन लावले. समंजसपणा व विचारीपणामुळे त्यांची निराशा कमी झाली."
+  },
+  {
+    "question_id": 70,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचा छंद कोणता होता?",
+    "answer": "त्यांना बोटी वल्हवण्याचा छंद होता. आजारापूर्वी ते खेळातही सहभागी होत असत. ते सक्रिय जीवन जगत होते."
+  },
+
+  {
+    "question_id": 71,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनातून कोणती शिकवण मिळते?",
+    "answer": "प्रतिकूल परिस्थितीतही हार मानू नये ही शिकवण मिळते. जिद्द व परिश्रमाने यश मिळू शकते."
+  },
+  {
+    "question_id": 72,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांना ‘दिव्यांग तारा’ का म्हटले जाते?",
+    "answer": "अपंगत्व असूनही त्यांनी महान कार्य केले. त्यामुळे ते समाजासाठी प्रेरणादायी ठरले. म्हणून त्यांना हे नाव दिले जाते."
+  },
+  {
+    "question_id": 73,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या संशोधनाचे क्षेत्र कोणते होते?",
+    "answer": "त्यांचे संशोधन भौतिकशास्त्र आणि खगोलशास्त्रात होते. त्यांनी विश्वाच्या उत्पत्तीविषयी अभ्यास केला."
+  },
+  {
+    "question_id": 74,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांची दिनचर्या कशी होती?",
+    "answer": "त्यांची दिनचर्या अनोखी होती. उपकरणांच्या मदतीने ते काम करत असत. तरीही ते सातत्याने संशोधन करत."
+  },
+  {
+    "question_id": 75,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात शिक्षणाचे महत्त्व कसे दिसते?",
+    "answer": "उच्च शिक्षणामुळे त्यांना संशोधनाची संधी मिळाली. शिक्षणामुळेच त्यांचे विचार विकसित झाले."
+  },
+  {
+    "question_id": 76,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे लेखन का महत्त्वाचे आहे?",
+    "answer": "त्यांचे लेखन विज्ञान सर्वसामान्यांपर्यंत पोहोचवते. त्यामुळे लोकांना अवघड संकल्पना समजतात."
+  },
+  {
+    "question_id": 77,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात कुटुंबाची भूमिका काय होती?",
+    "answer": "कुटुंबाने त्यांना मानसिक आधार दिला. त्यामुळे ते खचले नाहीत आणि काम करत राहिले."
+  },
+  {
+    "question_id": 78,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या यशामागील मुख्य कारण काय?",
+    "answer": "त्यांची जिद्द आणि सातत्य हे मुख्य कारण होते. आजार असूनही त्यांनी अभ्यास सोडला नाही."
+  },
+  {
+    "question_id": 79,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे जीवन विद्यार्थ्यांसाठी का प्रेरणादायी आहे?",
+    "answer": "कठीण परिस्थितीतही शिक्षण सुरू ठेवण्याची प्रेरणा मिळते. आत्मविश्वास ठेवायला शिकवते."
+  },
+  {
+    "question_id": 80,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या आयुष्यातील संघर्ष कशाशी संबंधित होता?",
+    "answer": "तो प्रामुख्याने आजाराशी संबंधित होता. तरीही त्यांनी वैज्ञानिक क्षेत्रात मोठे यश मिळवले."
+  },
+
+  {
+    "question_id": 81,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे जीवन सकारात्मक का मानले जाते?",
+    "answer": "ते अडचणींवर मात करत राहिले. त्यांनी कधीही हार मानली नाही. म्हणून त्यांचे जीवन सकारात्मक मानले जाते."
+  },
+  {
+    "question_id": 82,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे कार्य समाजासाठी का महत्त्वाचे आहे?",
+    "answer": "त्यांनी विज्ञानातील नवे विचार मांडले. तसेच अपंग व्यक्तींना आत्मविश्वास दिला."
+  },
+  {
+    "question_id": 83,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे व्यक्तिमत्त्व कसे होते?",
+    "answer": "ते आत्मविश्वासी आणि आशावादी होते. त्यांच्यात विनोदबुद्धीही होती. लोकांशी ते सकारात्मक राहायचे."
+  },
+  {
+    "question_id": 84,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांना कोणत्या अडचणींचा सामना करावा लागला?",
+    "answer": "चालणे, बोलणे आणि हालचाल करणे कठीण झाले. तरीही त्यांनी संशोधन थांबवले नाही."
+  },
+  {
+    "question_id": 85,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनकथेचा मुख्य संदेश काय?",
+    "answer": "कठीण परिस्थितीतही प्रयत्न करत राहावे. आत्मविश्वास आणि जिद्द ठेवल्यास यश मिळते."
+  },
+  {
+    "question_id": 86,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे यश कशामुळे शक्य झाले?",
+    "answer": "त्यांच्या कठोर परिश्रमामुळे आणि सातत्यामुळे यश मिळाले. त्यांनी स्वतःवर विश्वास ठेवला."
+  },
+  {
+    "question_id": 87,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे संशोधन का विशेष मानले जाते?",
+    "answer": "त्यांनी विश्वाविषयी नवे सिद्धांत मांडले. हे संशोधन वैज्ञानिक जगतात महत्त्वाचे ठरले."
+  },
+  {
+    "question_id": 88,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या आयुष्यातील प्रेरणादायी घटना कोणती?",
+    "answer": "गंभीर आजार असूनही त्यांनी पीएच.डी. पूर्ण केली. तसेच मोठे संशोधन केले."
+  },
+  {
+    "question_id": 89,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे जीवनकौशल्य काय होते?",
+    "answer": "परिस्थिती स्वीकारून पुढे जाणे हे त्यांचे कौशल्य होते. त्यांनी कधीही थांबायचे मानले नाही."
+  },
+  {
+    "question_id": 90,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात तंत्रज्ञानाची भूमिका काय होती?",
+    "answer": "तंत्रज्ञानामुळे ते संवाद साधू शकले. त्यामुळे संशोधन आणि अध्यापन सुरू ठेवता आले."
+  },
+
+  {
+    "question_id": 91,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे कार्य जगभर का ओळखले गेले?",
+    "answer": "त्यांचे संशोधन अत्यंत महत्त्वाचे होते. तसेच त्यांची पुस्तके खूप वाचली गेली."
+  },
+  {
+    "question_id": 92,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे व्यक्तिमत्त्व अपंगांसाठी का प्रेरणादायी आहे?",
+    "answer": "अपंगत्व असूनही त्यांनी मोठे यश मिळवले. त्यामुळे इतरांनाही आत्मविश्वास मिळतो."
+  },
+  {
+    "question_id": 93,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात संघर्षाचे महत्त्व काय?",
+    "answer": "संघर्षामुळे ते अधिक मजबूत झाले. त्यामुळे त्यांनी अधिक जिद्दीने काम केले."
+  },
+  {
+    "question_id": 94,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या आयुष्यातील यश कसे मिळाले?",
+    "answer": "सतत प्रयत्न आणि अभ्यासामुळे यश मिळाले. त्यांनी कधीही हार मानली नाही."
+  },
+  {
+    "question_id": 95,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात आशावाद कसा दिसतो?",
+    "answer": "आजार असूनही ते भविष्यासाठी सकारात्मक राहिले. त्यांनी काम सुरूच ठेवले."
+  },
+  {
+    "question_id": 96,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे जीवन विद्यार्थ्यांसाठी काय शिकवते?",
+    "answer": "अडचणी आल्या तरी अभ्यास थांबवू नये. सातत्य ठेवले तर यश मिळते."
+  },
+  {
+    "question_id": 97,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात धैर्याचे उदाहरण कसे दिसते?",
+    "answer": "गंभीर आजार असूनही त्यांनी संशोधन सुरू ठेवले. हे मोठे धैर्य दर्शवते."
+  },
+  {
+    "question_id": 98,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनकथेचा समाजावर काय परिणाम झाला?",
+    "answer": "लोकांना प्रेरणा मिळाली. अपंग व्यक्तींना आत्मविश्वास मिळाला."
+  },
+  {
+    "question_id": 99,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे जीवन का आदर्श मानले जाते?",
+    "answer": "ते संकटांवर मात करून पुढे गेले. त्यामुळे त्यांचे जीवन आदर्श ठरते."
+  },
+  {
+    "question_id": 100,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनातून काय बोध मिळतो?",
+    "answer": "हार मानू नये आणि सतत प्रयत्न करावेत. आत्मविश्वास ठेवल्यास यश मिळते."
+  },
+
+  {
+    "question_id": 101,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे जीवन यशस्वी कसे ठरले?",
+    "answer": "संशोधन, लेखन आणि पुरस्कारांमुळे त्यांचे जीवन यशस्वी ठरले. त्यांनी विज्ञानात मोठे योगदान दिले."
+  },
+  {
+    "question_id": 102,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या आयुष्यातील कठीण टप्पा कोणता?",
+    "answer": "मोटार न्यूरॉन रोगाचे निदान होणे हा कठीण टप्पा होता. तरीही त्यांनी खचून न जाता काम सुरू ठेवले."
+  },
+  {
+    "question_id": 103,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे जीवन प्रेरणादायी का मानले जाते?",
+    "answer": "कारण त्यांनी अपंगत्वावर मात करून यश मिळवले. त्यामुळे अनेकांना धैर्य मिळते."
+  },
+  {
+    "question_id": 104,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या कार्याचे महत्त्व काय?",
+    "answer": "त्यांचे संशोधन विज्ञानासाठी मोलाचे आहे. तसेच समाजाला प्रेरणा देणारे आहे."
+  },
+  {
+    "question_id": 105,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनकथेचा अभ्यास का करावा?",
+    "answer": "जीवनातील संघर्ष कसे जिंकायचे हे शिकायला मिळते. आत्मविश्वास वाढतो."
+  },
+  {
+    "question_id": 106,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या आयुष्यातील विजय कोणता?",
+    "answer": "आजार असूनही त्यांनी संशोधनात यश मिळवले. हाच त्यांचा खरा विजय होता."
+  },
+  {
+    "question_id": 107,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात प्रयत्नांचे महत्त्व कसे दिसते?",
+    "answer": "ते सतत प्रयत्न करत राहिले. त्यामुळेच त्यांना यश मिळाले."
+  },
+  {
+    "question_id": 108,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात आत्मविश्वास कसा दिसतो?",
+    "answer": "अडचणी असूनही त्यांनी स्वतःवर विश्वास ठेवला. त्यामुळे ते पुढे जाऊ शकले."
+  },
+  {
+    "question_id": 109,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे जीवन का आदर्श ठरते?",
+    "answer": "ते संकटांवर मात करून यशस्वी झाले. त्यामुळे ते समाजासाठी आदर्श ठरतात."
+  },
+  {
+    "question_id": 110,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनकथेचा मुख्य उद्देश काय?",
+    "answer": "विद्यार्थ्यांना प्रेरणा देणे हा मुख्य उद्देश आहे. हार मानू नये हा संदेश दिला आहे."
+  },
+
+  {
+    "question_id": 111,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात सकारात्मक दृष्टिकोन कसा दिसतो?",
+    "answer": "ते अडचणींनाही संधी मानत. त्यामुळे त्यांचा दृष्टिकोन नेहमी सकारात्मक होता."
+  },
+  {
+    "question_id": 112,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या कार्याचा शास्त्रज्ञांवर काय परिणाम झाला?",
+    "answer": "त्यांच्या संशोधनामुळे नवे विचार पुढे आले. इतर शास्त्रज्ञांना दिशा मिळाली."
+  },
+  {
+    "question_id": 113,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात संघर्षाचे स्थान काय?",
+    "answer": "संघर्षामुळेच त्यांचे व्यक्तिमत्त्व घडले. त्यामुळे ते अधिक मजबूत झाले."
+  },
+  {
+    "question_id": 114,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या आयुष्यात यश कसे परिभाषित होते?",
+    "answer": "अडचणी असूनही कार्य करत राहणे हेच त्यांचे यश होते. पुरस्कार हे त्याचे फलित होते."
+  },
+  {
+    "question_id": 115,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे जीवन का अभ्यासावे?",
+    "answer": "ते प्रेरणा देते आणि धैर्य शिकवते. जीवनात हार मानू नये हे कळते."
+  },
+  {
+    "question_id": 116,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या कार्यामुळे विज्ञानाला काय मिळाले?",
+    "answer": "विश्वाविषयी नवे सिद्धांत मिळाले. विज्ञानातील ज्ञान वाढले."
+  },
+  {
+    "question_id": 117,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात तंत्रज्ञानाचे योगदान काय?",
+    "answer": "तंत्रज्ञानामुळे ते संवाद साधू शकले. त्यामुळे काम सुरू ठेवणे शक्य झाले."
+  },
+  {
+    "question_id": 118,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनकथेतील प्रेरक घटक कोणते?",
+    "answer": "जिद्द, आत्मविश्वास आणि सातत्य हे प्रेरक घटक आहेत. त्यामुळे यश मिळाले."
+  },
+  {
+    "question_id": 119,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात आशा का महत्त्वाची होती?",
+    "answer": "आशेमुळे त्यांनी प्रयत्न सुरू ठेवले. त्यामुळे निराशा दूर राहिली."
+  },
+  {
+    "question_id": 120,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे जीवन कोणासाठी मार्गदर्शक आहे?",
+    "answer": "विद्यार्थी आणि अपंग व्यक्तींसाठी ते मार्गदर्शक आहे. सर्वांसाठी प्रेरणादायी आहे."
+  },
+
+  {
+    "question_id": 121,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात यश मिळवण्याचा मार्ग कोणता?",
+    "answer": "परिश्रम, अभ्यास आणि जिद्द हा त्यांचा मार्ग होता. त्यामुळेच ते यशस्वी झाले."
+  },
+  {
+    "question_id": 122,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात अपयशावर मात कशी केली?",
+    "answer": "ते अपयशाला शिकवण मानत. पुन्हा प्रयत्न करून पुढे जात."
+  },
+  {
+    "question_id": 123,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे जीवन समाजासाठी प्रेरणादायी का आहे?",
+    "answer": "ते अडचणींवर मात करून यशस्वी झाले. त्यामुळे समाजाला आशा मिळते."
+  },
+  {
+    "question_id": 124,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात संघर्ष आणि यश यांचे नाते काय?",
+    "answer": "संघर्षामुळेच यश मिळाले. अडचणींनी त्यांना अधिक मजबूत केले."
+  },
+  {
+    "question_id": 125,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात ध्येयाचे महत्त्व कसे दिसते?",
+    "answer": "ध्येय स्पष्ट असल्यामुळे ते प्रयत्न करत राहिले. त्यामुळेच ते पुढे गेले."
+  },
+  {
+    "question_id": 126,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात प्रेरणा कशातून मिळाली?",
+    "answer": "स्वतःच्या आतल्या जिद्दीतून प्रेरणा मिळाली. तसेच शिक्षकांचे मार्गदर्शनही मिळाले."
+  },
+  {
+    "question_id": 127,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात कुटुंबाचा आधार कसा उपयोगी पडला?",
+    "answer": "कुटुंबाने त्यांना मानसिक बळ दिले. त्यामुळे ते खचले नाहीत."
+  },
+  {
+    "question_id": 128,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात धैर्याचे उदाहरण कसे दिसते?",
+    "answer": "गंभीर आजार असूनही त्यांनी संशोधन सुरू ठेवले. हे मोठे धैर्य दर्शवते."
+  },
+  {
+    "question_id": 129,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात संघर्षाचे फलित काय झाले?",
+    "answer": "संघर्षाचे फलित म्हणजे मोठे वैज्ञानिक यश. तसेच समाजासाठी प्रेरणा."
+  },
+  {
+    "question_id": 130,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनकथेचा शेवट कसा संदेश देतो?",
+    "answer": "हार मानू नये आणि प्रयत्न करत राहावे असा संदेश देतो. जीवन सकारात्मक ठेवावे हे शिकवतो."
+  },
+
+  {
+    "question_id": 131,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांचे जीवन यशस्वी कसे ठरले याचे कारण काय?",
+    "answer": "त्यांची जिद्द, अभ्यास आणि सातत्यामुळे जीवन यशस्वी ठरले. त्यांनी कधीही प्रयत्न थांबवले नाहीत."
+  },
+  {
+    "question_id": 132,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात संशोधनाचे महत्त्व काय?",
+    "answer": "संशोधन हेच त्यांच्या जीवनाचे केंद्र होते. त्यामुळेच त्यांना जागतिक ओळख मिळाली."
+  },
+  {
+    "question_id": 133,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात आत्मविश्वास का गरजेचा होता?",
+    "answer": "आजारामुळे अनेक अडचणी होत्या. आत्मविश्वासामुळे त्यांनी पुढे जाण्याची ताकद मिळाली."
+  },
+  {
+    "question_id": 134,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात सकारात्मक विचारांचा परिणाम काय झाला?",
+    "answer": "ते निराश न होता काम करत राहिले. त्यामुळे यश मिळवणे शक्य झाले."
+  },
+  {
+    "question_id": 135,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनकथेतून कोणती मूल्ये मिळतात?",
+    "answer": "जिद्द, परिश्रम, आशावाद आणि आत्मविश्वास ही मूल्ये मिळतात. ही जीवनासाठी उपयुक्त आहेत."
+  },
+  {
+    "question_id": 136,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात यंत्रांची मदत का आवश्यक होती?",
+    "answer": "बोलता येत नसल्यामुळे यंत्रांद्वारे संवाद साधावा लागत होता. त्यामुळे काम सुरू ठेवता आले."
+  },
+  {
+    "question_id": 137,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात संघर्ष कधी संपला का?",
+    "answer": "नाही, संघर्ष सतत होता. तरीही त्यांनी प्रयत्न थांबवले नाहीत."
+  },
+  {
+    "question_id": 138,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनकथेचा विद्यार्थ्यांवर काय परिणाम होतो?",
+    "answer": "विद्यार्थ्यांना मेहनत करण्याची प्रेरणा मिळते. हार न मानण्याची शिकवण मिळते."
+  },
+  {
+    "question_id": 139,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात यश म्हणजे काय होते?",
+    "answer": "संशोधन करणे आणि ज्ञान वाढवणे हेच त्यांचे यश होते. पुरस्कार दुय्यम होते."
+  },
+  {
+    "question_id": 140,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात प्रेरणा टिकवण्यासाठी काय महत्त्वाचे होते?",
+    "answer": "ध्येयावर लक्ष केंद्रित करणे महत्त्वाचे होते. त्यामुळे ते खचले नाहीत."
+  },
+
+  {
+    "question_id": 141,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात परिस्थिती स्वीकारण्याचे महत्त्व काय?",
+    "answer": "परिस्थिती स्वीकारल्यामुळे ते मानसिकदृष्ट्या मजबूत झाले. त्यामुळे पुढे जाणे सोपे झाले."
+  },
+  {
+    "question_id": 142,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात सातत्याचे महत्त्व कसे दिसते?",
+    "answer": "ते दररोज संशोधन करत राहिले. सातत्यामुळेच मोठे यश मिळाले."
+  },
+  {
+    "question_id": 143,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात अपंगत्व अडथळा का ठरले नाही?",
+    "answer": "त्यांनी अपंगत्वावर मात करण्याचा निर्धार केला. त्यामुळे अडथळे पार करता आले."
+  },
+  {
+    "question_id": 144,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात यश टिकवण्यासाठी काय आवश्यक होते?",
+    "answer": "मेहनत, आत्मविश्वास आणि सकारात्मक विचार आवश्यक होते. त्यांनी हे सर्व टिकवले."
+  },
+  {
+    "question_id": 145,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात आदर्श काय ठरतो?",
+    "answer": "अडचणींवर मात करून यश मिळवणे हेच आदर्श ठरते. त्यामुळे ते समाजासाठी उदाहरण बनले."
+  },
+  {
+    "question_id": 146,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात परिश्रमांचे स्थान काय?",
+    "answer": "परिश्रमामुळेच त्यांचे संशोधन पुढे गेले. मेहनतीशिवाय यश मिळाले नसते."
+  },
+  {
+    "question_id": 147,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात ध्येयपूर्ती कशी झाली?",
+    "answer": "सतत प्रयत्न आणि अभ्यासामुळे ध्येयपूर्ती झाली. त्यांनी कधीही हार मानली नाही."
+  },
+  {
+    "question_id": 148,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनात समाजाचा फायदा काय झाला?",
+    "answer": "समाजाला प्रेरणा मिळाली. विज्ञानातील ज्ञान वाढले."
+  },
+  {
+    "question_id": 149,
+    "question_type": "SHORT",
+    "question": "हॉकिंग यांच्या जीवनकथेतून कोणता मुख्य बोध मिळतो?",
+    "answer": "कठीण परिस्थितीतही प्रयत्न करत राहावे. आत्मविश्वास ठेवावा हा मुख्य बोध आहे."
+  },
+  {
+    "question_id": 150,
+    "question_type": "SHORT",
+    "question": "या पाठाचा एकूण संदेश काय आहे?",
+    "answer": "जिद्द, आत्मविश्वास आणि परिश्रम यांच्या बळावर कोणतीही अडचण पार करता येते, हाच या पाठाचा संदेश आहे."
+  }
+]
+
+  ]
+}
