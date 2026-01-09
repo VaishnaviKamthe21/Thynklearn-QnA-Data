@@ -1,8 +1,8 @@
 {
   "chapter_metadata": {
-    "chapter_id": "10.English.08",
+    "chapter_id": "10.Science.8",
     "standard": "10",
-    "subject": "Science and Technology Part 1",
+    "subject": "Science1",
     "medium": "English",
     "chapter_name": "Metallurgy"
   },
@@ -12,106 +12,1401 @@
       "question_type": "MCQ",
       "question": "Which of the following metals exists in a liquid state at room temperature?",
       "options": [
-        { "option_id": 1, "text": "Sodium", "is_correct": false },
-        { "option_id": 2, "text": "Mercury", "is_correct": true },
-        { "option_id": 3, "text": "Potassium", "is_correct": false },
-        { "option_id": 4, "text": "Aluminium", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Sodium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mercury",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Potassium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aluminium",
+          "is_correct": false
+        }
       ],
-      "answer": "Option 2"
+      "answer": "Mercury"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
       "question": "The property by which metals can be beaten into thin sheets is called _____.",
       "options": [
-        { "option_id": 1, "text": "Ductility", "is_correct": false },
-        { "option_id": 2, "text": "Malleability", "is_correct": true },
-        { "option_id": 3, "text": "Sonority", "is_correct": false },
-        { "option_id": 4, "text": "Lustre", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Ductility",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Malleability",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sonority",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lustre",
+          "is_correct": false
+        }
       ],
-      "answer": "Option 2"
+      "answer": "Malleability"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
       "question": "Which nonmetal is a good conductor of electricity?",
       "options": [
-        { "option_id": 1, "text": "Sulphur", "is_correct": false },
-        { "option_id": 2, "text": "Graphite", "is_correct": true },
-        { "option_id": 3, "text": "Iodine", "is_correct": false },
-        { "option_id": 4, "text": "Phosphorus", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Sulphur",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Graphite",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iodine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Phosphorus",
+          "is_correct": false
+        }
       ],
-      "answer": "Option 2"
+      "answer": "Graphite"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
       "question": "The reaction of which metal with water is highly vigorous and exothermic?",
       "options": [
-        { "option_id": 1, "text": "Iron", "is_correct": false },
-        { "option_id": 2, "text": "Sodium", "is_correct": true },
-        { "option_id": 3, "text": "Copper", "is_correct": false },
-        { "option_id": 4, "text": "Magnesium", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sodium",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Magnesium",
+          "is_correct": false
+        }
       ],
-      "answer": "Option 2"
+      "answer": "Sodium"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
       "question": "What is the product formed when a metal reacts with oxygen?",
       "options": [
-        { "option_id": 1, "text": "Metal hydride", "is_correct": false },
-        { "option_id": 2, "text": "Metal oxide", "is_correct": true },
-        { "option_id": 3, "text": "Metal carbonate", "is_correct": false },
-        { "option_id": 4, "text": "Metal hydroxide", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Metal hydride",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Metal oxide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Metal carbonate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Metal hydroxide",
+          "is_correct": false
+        }
       ],
-      "answer": "Option 2"
+      "answer": "Metal oxide"
     },
-    { "question_id": 6, "question_type": "MCQ", "question": "Anodization is the process of developing a strong layer of oxide on which metal?", "options": [{ "option_id": 1, "text": "Zinc", "is_correct": false }, { "option_id": 2, "text": "Aluminium", "is_correct": true }, { "option_id": 3, "text": "Iron", "is_correct": false }, { "option_id": 4, "text": "Silver", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 7, "question_type": "MCQ", "question": "In the reactivity series, which of the following is the most reactive metal?", "options": [{ "option_id": 1, "text": "Gold", "is_correct": false }, { "option_id": 2, "text": "Potassium", "is_correct": true }, { "option_id": 3, "text": "Zinc", "is_correct": false }, { "option_id": 4, "text": "Lead", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 8, "question_type": "MCQ", "question": "Aqua regia is a mixture of concentrated HCl and concentrated HNO3 in the ratio _____.", "options": [{ "option_id": 1, "text": "1:3", "is_correct": false }, { "option_id": 2, "text": "3:1", "is_correct": true }, { "option_id": 3, "text": "2:1", "is_correct": false }, { "option_id": 4, "text": "1:1", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 9, "question_type": "MCQ", "question": "Which of the following is an ionic compound?", "options": [{ "option_id": 1, "text": "H2O", "is_correct": false }, { "option_id": 2, "text": "MgCl2", "is_correct": true }, { "option_id": 3, "text": "CO2", "is_correct": false }, { "option_id": 4, "text": "CH4", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 10, "question_type": "MCQ", "question": "The science and technology regarding extraction of metals from ores is called _____.", "options": [{ "option_id": 1, "text": "Geology", "is_correct": false }, { "option_id": 2, "text": "Metallurgy", "is_correct": true }, { "option_id": 3, "text": "Ecology", "is_correct": false }, { "option_id": 4, "text": "Anodization", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 11, "question_type": "MCQ", "question": "Gangue is defined as _____.", "options": [{ "option_id": 1, "text": "Pure metal", "is_correct": false }, { "option_id": 2, "text": "Impurities like sand and soil in ore", "is_correct": true }, { "option_id": 3, "text": "A type of flux", "is_correct": false }, { "option_id": 4, "text": "An alloy", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 12, "question_type": "MCQ", "question": "Which method is based on the difference in the gravitativities of the ore and gangue?", "options": [{ "option_id": 1, "text": "Magnetic separation", "is_correct": false }, { "option_id": 2, "text": "Hydraulic separation", "is_correct": true }, { "option_id": 3, "text": "Froth floatation", "is_correct": false }, { "option_id": 4, "text": "Leaching", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 13, "question_type": "MCQ", "question": "In froth floatation, which oil is typically used to form froth?", "options": [{ "option_id": 1, "text": "Coconut oil", "is_correct": false }, { "option_id": 2, "text": "Pine oil", "is_correct": true }, { "option_id": 3, "text": "Kerosene", "is_correct": false }, { "option_id": 4, "text": "Olive oil", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 14, "question_type": "MCQ", "question": "The process of heating carbonate ores strongly in limited air is called _____.", "options": [{ "option_id": 1, "text": "Roasting", "is_correct": false }, { "option_id": 2, "text": "Calcination", "is_correct": true }, { "option_id": 3, "text": "Reduction", "is_correct": false }, { "option_id": 4, "text": "Smelting", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 15, "question_type": "MCQ", "question": "Which of the following is the main ore of aluminium?", "options": [{ "option_id": 1, "text": "Haematite", "is_correct": false }, { "option_id": 2, "text": "Bauxite", "is_correct": true }, { "option_id": 3, "text": "Cinnabar", "is_correct": false }, { "option_id": 4, "text": "Galena", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 16, "question_type": "MCQ", "question": "In the extraction of aluminium, the leaching of bauxite is done using _____.", "options": [{ "option_id": 1, "text": "Water", "is_correct": false }, { "option_id": 2, "text": "NaOH solution", "is_correct": true }, { "option_id": 3, "text": "Dilute HCl", "is_correct": false }, { "option_id": 4, "text": "Pine oil", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 17, "question_type": "MCQ", "question": "During the electrolysis of alumina, what is added to lower the melting point to 900°C?", "options": [{ "option_id": 1, "text": "Sodium chloride", "is_correct": false }, { "option_id": 2, "text": "Cryolite and fluorspar", "is_correct": true }, { "option_id": 3, "text": "Caustic soda", "is_correct": false }, { "option_id": 4, "text": "Coke", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 18, "question_type": "MCQ", "question": "What is the process called where a layer of zinc is applied on iron to prevent rusting?", "options": [{ "option_id": 1, "text": "Anodization", "is_correct": false }, { "option_id": 2, "text": "Galvanizing", "is_correct": true }, { "option_id": 3, "text": "Tinning", "is_correct": false }, { "option_id": 4, "text": "Alloying", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 19, "question_type": "MCQ", "question": "Bronze is an alloy of _____.", "options": [{ "option_id": 1, "text": "Copper and Zinc", "is_correct": false }, { "option_id": 2, "text": "Copper and Tin", "is_correct": true }, { "option_id": 3, "text": "Lead and Tin", "is_correct": false }, { "option_id": 4, "text": "Iron and Carbon", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 20, "question_type": "MCQ", "question": "Which of the following nonmetals is a liquid at room temperature?", "options": [{ "option_id": 1, "text": "Chlorine", "is_correct": false }, { "option_id": 2, "text": "Bromine", "is_correct": true }, { "option_id": 3, "text": "Iodine", "is_correct": false }, { "option_id": 4, "text": "Nitrogen", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 21, "question_type": "MCQ", "question": "Metals generally have _____ melting and boiling points.", "options": [{ "option_id": 1, "text": "Low", "is_correct": false }, { "option_id": 2, "text": "High", "is_correct": true }, { "option_id": 3, "text": "Zero", "is_correct": false }, { "option_id": 4, "text": "Negative", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 22, "question_type": "MCQ", "question": "The sound produced when a metal is struck is known as _____.", "options": [{ "option_id": 1, "text": "Resonance", "is_correct": false }, { "option_id": 2, "text": "Sonority", "is_correct": true }, { "option_id": 3, "text": "Echo", "is_correct": false }, { "option_id": 4, "text": "Malleability", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 23, "question_type": "MCQ", "question": "Which metal reacts only with steam to form its oxide and hydrogen gas?", "options": [{ "option_id": 1, "text": "Sodium", "is_correct": false }, { "option_id": 2, "text": "Iron", "is_correct": true }, { "option_id": 3, "text": "Calcium", "is_correct": false }, { "option_id": 4, "text": "Copper", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 24, "question_type": "MCQ", "question": "What happens when magnesium ribbon is burnt in air?", "options": [{ "option_id": 1, "text": "Magnesium carbonate is formed", "is_correct": false }, { "option_id": 2, "text": "Magnesium oxide is formed", "is_correct": true }, { "option_id": 3, "text": "Magnesium hydride is formed", "is_correct": false }, { "option_id": 4, "text": "No reaction occurs", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 25, "question_type": "MCQ", "question": "Ionic compounds are _____ in water.", "options": [{ "option_id": 1, "text": "Insoluble", "is_correct": false }, { "option_id": 2, "text": "Soluble", "is_correct": true }, { "option_id": 3, "text": "Volatile", "is_correct": false }, { "option_id": 4, "text": "Liquid", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 26, "question_type": "MCQ", "question": "Extraction of reactive metals like Sodium is done by _____.", "options": [{ "option_id": 1, "text": "Reduction with carbon", "is_correct": false }, { "option_id": 2, "text": "Electrolysis of molten chloride", "is_correct": true }, { "option_id": 3, "text": "Roasting", "is_correct": false }, { "option_id": 4, "text": "Calcination", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 27, "question_type": "MCQ", "question": "Thermite welding involves the reaction of iron oxide with _____.", "options": [{ "option_id": 1, "text": "Carbon", "is_correct": false }, { "option_id": 2, "text": "Aluminium", "is_correct": true }, { "option_id": 3, "text": "Zinc", "is_correct": false }, { "option_id": 4, "text": "Magnesium", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 28, "question_type": "MCQ", "question": "The process of coating a less reactive metal like tin on a more reactive metal like copper is _____.", "options": [{ "option_id": 1, "text": "Galvanizing", "is_correct": false }, { "option_id": 2, "text": "Tinning (Kalhai)", "is_correct": true }, { "option_id": 3, "text": "Electroplating", "is_correct": false }, { "option_id": 4, "text": "Anodizing", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 29, "question_type": "MCQ", "question": "Stainless steel is an alloy made of iron, carbon, and _____.", "options": [{ "option_id": 1, "text": "Zinc and Copper", "is_correct": false }, { "option_id": 2, "text": "Chromium and Nickel", "is_correct": true }, { "option_id": 3, "text": "Tin and Lead", "is_correct": false }, { "option_id": 4, "text": "Gold and Silver", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 30, "question_type": "MCQ", "question": "Amalgam is an alloy where one of the metals is always _____.", "options": [{ "option_id": 1, "text": "Sodium", "is_correct": false }, { "option_id": 2, "text": "Mercury", "is_correct": true }, { "option_id": 3, "text": "Aluminium", "is_correct": false }, { "option_id": 4, "text": "Iron", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 31, "question_type": "MCQ", "question": "During the extraction of aluminium by Hall's process, the bauxite is heated with _____.", "options": [{ "option_id": 1, "text": "Caustic soda", "is_correct": false }, { "option_id": 2, "text": "Sodium carbonate", "is_correct": true }, { "option_id": 3, "text": "Sulphuric acid", "is_correct": false }, { "option_id": 4, "text": "Coke", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 32, "question_type": "MCQ", "question": "Which of the following is a moderately reactive metal?", "options": [{ "option_id": 1, "text": "Potassium", "is_correct": false }, { "option_id": 2, "text": "Zinc", "is_correct": true }, { "option_id": 3, "text": "Gold", "is_correct": false }, { "option_id": 4, "text": "Sodium", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 33, "question_type": "MCQ", "question": "Ionic compounds have high melting points because of _____.", "options": [{ "option_id": 1, "text": "Weak intermolecular forces", "is_correct": false }, { "option_id": 2, "text": "Strong electrostatic forces of attraction", "is_correct": true }, { "option_id": 3, "text": "Covalent bonding", "is_correct": false }, { "option_id": 4, "text": "Gaseous state", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 34, "question_type": "MCQ", "question": "The Wilfley table method for separation depends on _____.", "options": [{ "option_id": 1, "text": "Magnetic properties", "is_correct": false }, { "option_id": 2, "text": "Specific gravity", "is_correct": true }, { "option_id": 3, "text": "Wetting properties", "is_correct": false }, { "option_id": 4, "text": "Solubility", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 35, "question_type": "MCQ", "question": "Which of the following minerals contains aluminium?", "options": [{ "option_id": 1, "text": "Haematite", "is_correct": false }, { "option_id": 2, "text": "Bauxite", "is_correct": true }, { "option_id": 3, "text": "Cuprite", "is_correct": false }, { "option_id": 4, "text": "Magnetite", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 36, "question_type": "MCQ", "question": "The chemical formula for Alumina is _____.", "options": [{ "option_id": 1, "text": "Al(OH)3", "is_correct": false }, { "option_id": 2, "text": "Al2O3", "is_correct": true }, { "option_id": 3, "text": "NaAlO2", "is_correct": false }, { "option_id": 4, "text": "AlCl3", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 37, "question_type": "MCQ", "question": "The greenish layer formed on copper vessels is due to the formation of _____.", "options": [{ "option_id": 1, "text": "Copper oxide", "is_correct": false }, { "option_id": 2, "text": "Copper carbonate", "is_correct": true }, { "option_id": 3, "text": "Copper sulphate", "is_correct": false }, { "option_id": 4, "text": "Copper nitrate", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 38, "question_type": "MCQ", "question": "Which of the following methods uses a collector like ethyl xanthate?", "options": [{ "option_id": 1, "text": "Hydraulic separation", "is_correct": false }, { "option_id": 2, "text": "Froth floatation", "is_correct": true }, { "option_id": 3, "text": "Magnetic separation", "is_correct": false }, { "option_id": 4, "text": "Leaching", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 39, "question_type": "MCQ", "question": "Alloying of gold with copper or silver is done to _____.", "options": [{ "option_id": 1, "text": "Increase its shine", "is_correct": false }, { "option_id": 2, "text": "Make it harder", "is_correct": true }, { "option_id": 3, "text": "Change its colour", "is_correct": false }, { "option_id": 4, "text": "Prevent it from melting", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 40, "question_type": "MCQ", "question": "The melting point of Sodium Chloride (NaCl) is _____.", "options": [{ "option_id": 1, "text": "100°C", "is_correct": false }, { "option_id": 2, "text": "801°C", "is_correct": true }, { "option_id": 3, "text": "1465°C", "is_correct": false }, { "option_id": 4, "text": "600°C", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 41, "question_type": "MCQ", "question": "Which of these is a magnetic ingredient in Cassiterite ore?", "options": [{ "option_id": 1, "text": "Stannic oxide", "is_correct": false }, { "option_id": 2, "text": "Ferrous tungstate", "is_correct": true }, { "option_id": 3, "text": "Alumina", "is_correct": false }, { "option_id": 4, "text": "Silica", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 42, "question_type": "MCQ", "question": "In the extraction of Zinc, the ore Zinc Blende (ZnS) is converted to oxide by _____.", "options": [{ "option_id": 1, "text": "Calcination", "is_correct": false }, { "option_id": 2, "text": "Roasting", "is_correct": true }, { "option_id": 3, "text": "Leaching", "is_correct": false }, { "option_id": 4, "text": "Electrolysis", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 43, "question_type": "MCQ", "question": "The carbon content in stainless steel is approximately _____.", "options": [{ "option_id": 1, "text": "0.1 to 1.5%", "is_correct": false }, { "option_id": 2, "text": "2%", "is_correct": false }, { "option_id": 3, "text": "0.05%", "is_correct": true }, { "option_id": 4, "text": "10%", "is_correct": false }], "answer": "Option 3" },
-    { "question_id": 44, "question_type": "MCQ", "question": "Which metal is used in the thermite reaction to reduce iron oxide?", "options": [{ "option_id": 1, "text": "Magnesium", "is_correct": false }, { "option_id": 2, "text": "Aluminium", "is_correct": true }, { "option_id": 3, "text": "Zinc", "is_correct": false }, { "option_id": 4, "text": "Copper", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 45, "question_type": "MCQ", "question": "Corrosion of silver leads to a _____ coloured layer of silver sulphide.", "options": [{ "option_id": 1, "text": "Green", "is_correct": false }, { "option_id": 2, "text": "Black", "is_correct": true }, { "option_id": 3, "text": "Red", "is_correct": false }, { "option_id": 4, "text": "White", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 46, "question_type": "MCQ", "question": "The anode used in the electrolytic reduction of alumina is made of _____.", "options": [{ "option_id": 1, "text": "Graphite", "is_correct": true }, { "option_id": 2, "text": "Iron", "is_correct": false }, { "option_id": 3, "text": "Copper", "is_correct": false }, { "option_id": 4, "text": "Zinc", "is_correct": false }], "answer": "Option 1" },
-    { "question_id": 47, "question_type": "MCQ", "question": "Which nonmetal exists in different forms called allotropes?", "options": [{ "option_id": 1, "text": "Nitrogen", "is_correct": false }, { "option_id": 2, "text": "Carbon", "is_correct": true }, { "option_id": 3, "text": "Hydrogen", "is_correct": false }, { "option_id": 4, "text": "Helium", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 48, "question_type": "MCQ", "question": "Purity of gold is measured in _____.", "options": [{ "option_id": 1, "text": "Gram", "is_correct": false }, { "option_id": 2, "text": "Carat", "is_correct": true }, { "option_id": 3, "text": "Dioptre", "is_correct": false }, { "option_id": 4, "text": "Percentage", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 49, "question_type": "MCQ", "question": "Solder is an alloy of _____.", "options": [{ "option_id": 1, "text": "Copper and Zinc", "is_correct": false }, { "option_id": 2, "text": "Lead and Tin", "is_correct": true }, { "option_id": 3, "text": "Copper and Tin", "is_correct": false }, { "option_id": 4, "text": "Iron and Carbon", "is_correct": false }], "answer": "Option 2" },
-    { "question_id": 50, "question_type": "MCQ", "question": "Which method is used for the concentration of bauxite ore?", "options": [{ "option_id": 1, "text": "Froth floatation", "is_correct": false }, { "option_id": 2, "text": "Leaching", "is_correct": true }, { "option_id": 3, "text": "Magnetic separation", "is_correct": false }, { "option_id": 4, "text": "Hydraulic separation", "is_correct": false }], "answer": "Option 2" },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Anodization is the process of developing a strong layer of oxide on which metal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Zinc",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aluminium",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silver",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aluminium"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "In the reactivity series, which of the following is the most reactive metal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Potassium",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Zinc",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lead",
+          "is_correct": false
+        }
+      ],
+      "answer": "Potassium"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Aqua regia is a mixture of concentrated HCl and concentrated HNO3 in the ratio _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1:3",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "3:1",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "2:1",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1:1",
+          "is_correct": false
+        }
+      ],
+      "answer": "3:1"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which of the following is an ionic compound?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "H2O",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "MgCl2",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "CO2",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "CH4",
+          "is_correct": false
+        }
+      ],
+      "answer": "MgCl2"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The science and technology regarding extraction of metals from ores is called _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Geology",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Metallurgy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ecology",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anodization",
+          "is_correct": false
+        }
+      ],
+      "answer": "Metallurgy"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Gangue is defined as _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pure metal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Impurities like sand and soil in ore",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A type of flux",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "An alloy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Impurities like sand and soil in ore"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which method is based on the difference in the gravitativities of the ore and gangue?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic separation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hydraulic separation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Froth floatation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Leaching",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hydraulic separation"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "In froth floatation, which oil is typically used to form froth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Coconut oil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pine oil",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Kerosene",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Olive oil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pine oil"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The process of heating carbonate ores strongly in limited air is called _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Roasting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Calcination",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Reduction",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Smelting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Calcination"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which of the following is the main ore of aluminium?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Haematite",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bauxite",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cinnabar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Galena",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bauxite"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "In the extraction of aluminium, the leaching of bauxite is done using _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "NaOH solution",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dilute HCl",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pine oil",
+          "is_correct": false
+        }
+      ],
+      "answer": "NaOH solution"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "During the electrolysis of alumina, what is added to lower the melting point to 900°C?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sodium chloride",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cryolite and fluorspar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Caustic soda",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Coke",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cryolite and fluorspar"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the process called where a layer of zinc is applied on iron to prevent rusting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anodization",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Galvanizing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tinning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Alloying",
+          "is_correct": false
+        }
+      ],
+      "answer": "Galvanizing"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Bronze is an alloy of _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Copper and Zinc",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Copper and Tin",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lead and Tin",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Iron and Carbon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Copper and Tin"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which of the following nonmetals is a liquid at room temperature?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chlorine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bromine",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Iodine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nitrogen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bromine"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Metals generally have _____ melting and boiling points.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Low",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "High",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Zero",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Negative",
+          "is_correct": false
+        }
+      ],
+      "answer": "High"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The sound produced when a metal is struck is known as _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Resonance",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sonority",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Echo",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Malleability",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sonority"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which metal reacts only with steam to form its oxide and hydrogen gas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sodium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Calcium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Copper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What happens when magnesium ribbon is burnt in air?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnesium carbonate is formed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magnesium oxide is formed",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Magnesium hydride is formed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No reaction occurs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Magnesium oxide"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Ionic compounds are _____ in water.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Insoluble",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Soluble",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Volatile",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Liquid",
+          "is_correct": false
+        }
+      ],
+      "answer": "Soluble"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Extraction of reactive metals like Sodium is done by _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reduction with carbon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electrolysis of molten chloride",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Roasting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Calcination",
+          "is_correct": false
+        }
+      ],
+      "answer": "Electrolysis of molten chloride"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Thermite welding involves the reaction of iron oxide with _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carbon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aluminium",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Zinc",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Magnesium",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aluminium"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The process of coating a less reactive metal like tin on a more reactive metal like copper is _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Galvanizing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tinning (Kalhai)",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Electroplating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anodizing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tinning (Kalhai)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Stainless steel is an alloy made of iron, carbon, and _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Zinc and Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chromium and Nickel",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tin and Lead",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gold and Silver",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chromium and Nickel"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Amalgam is an alloy where one of the metals is always _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sodium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mercury",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aluminium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Iron",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "During the extraction of aluminium by Hall's process, the bauxite is heated with _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Caustic soda",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sodium carbonate",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sulphuric acid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Coke",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sodium carbonate"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which of the following is a moderately reactive metal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Potassium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Zinc",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gold",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sodium",
+          "is_correct": false
+        }
+      ],
+      "answer": "Zinc"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Ionic compounds have high melting points because of _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Weak intermolecular forces",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Strong electrostatic forces of attraction",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Covalent bonding",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gaseous state",
+          "is_correct": false
+        }
+      ],
+      "answer": "Strong electrostatic forces of attraction"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The Wilfley table method for separation depends on _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic properties",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Specific gravity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wetting properties",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Solubility",
+          "is_correct": false
+        }
+      ],
+      "answer": "Specific gravity"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which of the following minerals contains aluminium?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Haematite",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bauxite",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cuprite",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Magnetite",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bauxite"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "The chemical formula for Alumina is _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Al(OH)3",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Al2O3",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "NaAlO2",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "AlCl3",
+          "is_correct": false
+        }
+      ],
+      "answer": "Al2O3"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The greenish layer formed on copper vessels is due to the formation of _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Copper oxide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Copper carbonate",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Copper sulphate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Copper nitrate",
+          "is_correct": false
+        }
+      ],
+      "answer": "Copper carbonate"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of the following methods uses a collector like ethyl xanthate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hydraulic separation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Froth floatation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Magnetic separation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Leaching",
+          "is_correct": false
+        }
+      ],
+      "answer": "Froth floatation"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Alloying of gold with copper or silver is done to _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Increase its shine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Make it harder",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Change its colour",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Prevent it from melting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Make it harder"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The melting point of Sodium Chloride (NaCl) is _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "100°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "801°C",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1465°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "600°C",
+          "is_correct": false
+        }
+      ],
+      "answer": "801°C"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which of these is a magnetic ingredient in Cassiterite ore?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stannic oxide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ferrous tungstate",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Alumina",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silica",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ferrous tungstate"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "In the extraction of Zinc, the ore Zinc Blende (ZnS) is converted to oxide by _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Calcination",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Roasting",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Leaching",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Electrolysis",
+          "is_correct": false
+        }
+      ],
+      "answer": "Roasting"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "The carbon content in stainless steel is approximately _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "0.1 to 1.5%",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "2%",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "0.05%",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "10%",
+          "is_correct": false
+        }
+      ],
+      "answer": "0.05%"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which metal is used in the thermite reaction to reduce iron oxide?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnesium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aluminium",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Zinc",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Copper",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aluminium"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Corrosion of silver leads to a _____ coloured layer of silver sulphide.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Green",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Black",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "White",
+          "is_correct": false
+        }
+      ],
+      "answer": "Black"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "The anode used in the electrolytic reduction of alumina is made of _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Graphite",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Iron",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Copper",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Zinc",
+          "is_correct": false
+        }
+      ],
+      "answer": "Graphite"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which nonmetal exists in different forms called allotropes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nitrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carbon",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hydrogen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Helium",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Purity of gold is measured in _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gram",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carat",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dioptre",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Percentage",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carat"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Solder is an alloy of _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Copper and Zinc",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lead and Tin",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Copper and Tin",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Iron and Carbon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lead and Tin"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which method is used for the concentration of bauxite ore?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Froth floatation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Leaching",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Magnetic separation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hydraulic separation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Leaching"
+    },
     {
       "question_id": 51,
       "question_type": "SHORT",
@@ -140,7 +1435,7 @@
       "question_id": 55,
       "question_type": "SHORT",
       "question": "Define malleability.",
-      "answer": "Malleability is the property of metals that allows them to be beaten into thin sheets."
+      "answer": "Malleability is the property of metals that allows them to be beaten into thin sheets. "
     },
     {
       "question_id": 56,
@@ -164,7 +1459,7 @@
       "question_id": 59,
       "question_type": "SHORT",
       "question": "Why is sodium kept in kerosene?",
-      "answer": "Sodium is highly reactive and reacts vigorously with oxygen and moisture in the air at room temperature; it is kept in kerosene to prevent this reaction."
+      "answer": "Sodium is highly reactive and reacts vigorously with oxygen and moisture in the air at room temperature; it is kept in kerosene to prevent this reaction. [Image of the reaction of sodium with water]"
     },
     {
       "question_id": 60,
@@ -182,7 +1477,7 @@
       "question_id": 62,
       "question_type": "SHORT",
       "question": "What is the reactivity series of metals?",
-      "answer": "The reactivity series is an arrangement of metals in the increasing or decreasing order of their reactivity."
+      "answer": "The reactivity series is an arrangement of metals in the increasing or decreasing order of their reactivity. "
     },
     {
       "question_id": 63,
@@ -200,7 +1495,7 @@
       "question_id": 65,
       "question_type": "SHORT",
       "question": "What are ionic compounds?",
-      "answer": "Compounds formed from two units, namely cations (positively charged) and anions (negatively charged), are called ionic compounds."
+      "answer": "Compounds formed from two units, namely cations (positively charged) and anions (negatively charged), are called ionic compounds. [Image of an ionic lattice structure]"
     },
     {
       "question_id": 66,
@@ -218,13 +1513,13 @@
       "question_id": 68,
       "question_type": "SHORT",
       "question": "How does magnetic separation work?",
-      "answer": "This method uses an electromagnetic machine to separate magnetic components of an ore from non-magnetic ones using a moving belt and magnetic rollers."
+      "answer": "This method uses an electromagnetic machine to separate magnetic components of an ore from non-magnetic ones using a moving belt and magnetic rollers. [Image of the magnetic separation method]"
     },
     {
       "question_id": 69,
       "question_type": "SHORT",
       "question": "Describe the froth floatation method briefly.",
-      "answer": "It is based on the opposite wetting properties of ore and gangue; ore particles are wetted by oil and float as froth, while gangue particles are wetted by water and sink."
+      "answer": "It is based on the opposite wetting properties of ore and gangue; ore particles are wetted by oil and float as froth, while gangue particles are wetted by water and sink. [Image of the froth floatation method]"
     },
     {
       "question_id": 70,
@@ -356,7 +1651,7 @@
       "question_id": 91,
       "question_type": "SHORT",
       "question": "Define hydraulic separation.",
-      "answer": "It is a method of ore concentration based on the difference in densities where lighter gangue is washed away by a stream of water."
+      "answer": "It is a method of ore concentration based on the difference in densities where lighter gangue is washed away by a stream of water. "
     },
     {
       "question_id": 92,
@@ -542,7 +1837,7 @@
       "question_id": 122,
       "question_type": "SHORT",
       "question": "What is the use of the thermite reaction in industries?",
-      "answer": "It is used for welding broken railway tracks or machine parts."
+      "answer": "It is used for welding broken railway tracks or machine parts. [Image of the thermite welding process]"
     },
     {
       "question_id": 123,
@@ -637,8 +1932,8 @@
     {
       "question_id": 138,
       "question_type": "SHORT",
-      "question": "How is silver hydroxide formed in bauxite leaching?",
-      "answer": "In Bayer's process, it is not silver but aluminium hydroxide that is precipitated by adding water or acid."
+      "question": "How is aluminium hydroxide formed in bauxite leaching?",
+      "answer": "In Bayer's process, aluminium hydroxide is precipitated by adding water or acid to the sodium aluminate solution."
     },
     {
       "question_id": 139,
@@ -674,7 +1969,7 @@
       "question_id": 144,
       "question_type": "SHORT",
       "question": "Define 'Wilfley Table'.",
-      "answer": "A Wilfley table is a machine with vibrating wooden strips used in hydraulic separation to concentrate ores."
+      "answer": "A Wilfley table is a machine with vibrating wooden strips used in hydraulic separation to concentrate ores. "
     },
     {
       "question_id": 145,
@@ -746,8 +2041,7 @@
       "question_id": 156,
       "question_type": "LONG",
       "question": "Explain the extraction of aluminium through the Bayer's and Hall's processes.",
-      "answer": "The extraction of aluminium from bauxite ore consists of two main stages. The first stage is the concentration of ore by leaching. In Bayer's process, ground bauxite is heated with concentrated NaOH to form soluble sodium aluminate. In Hall's process, it is heated with sodium carbonate. In both cases, impurities are filtered out, and the solution is treated to precipitate aluminium hydroxide, which is then calcined to obtain pure alumina (Al2O3). The second stage is the electrolytic reduction of molten alumina in a Hall-Heroult cell to produce pure aluminium metal at the cathode"
-
+      "answer": "The extraction of aluminium from bauxite ore consists of two main stages. The first stage is the concentration of ore by leaching. In Bayer's process, ground bauxite is heated with concentrated NaOH to form soluble sodium aluminate. In Hall's process, it is heated with sodium carbonate. In both cases, impurities are filtered out, and the solution is treated to precipitate aluminium hydroxide, which is then calcined to obtain pure alumina (Al2O3). The second stage is the electrolytic reduction of molten alumina in a Hall-Heroult cell to produce pure aluminium metal at the cathode. "
     },
     {
       "question_id": 157,
@@ -777,7 +2071,7 @@
       "question_id": 161,
       "question_type": "LONG",
       "question": "Explain the froth floatation process for concentrating sulphide ores with a diagram description.",
-      "answer": "Froth floatation is used mainly for concentrating sulphide ores. The finely ground ore is mixed with water and a collector like pine oil in a large tank. Compressed air is agitated through the mixture, creating a froth. Sulphide ore particles are wetted by the oil and rise to the surface with the froth, while gangue particles are wetted by water and settle at the bottom. The froth is then skimmed off and the ore is recovered. This method effectively separates the ore from rocky impurities based on their hydrophobic and hydrophilic nature. [Image of the froth floatation method]"
+      "answer": "Froth floatation is used mainly for concentrating sulphide ores. The finely ground ore is mixed with water and a collector like pine oil in a large tank. Compressed air is agitated through the mixture, creating a froth. Sulphide ore particles are wetted by the oil and rise to the surface with the froth, while gangue particles are wetted by water and settle at the bottom. The froth is then skimmed off and the ore is recovered. This method effectively separates the ore from rocky impurities based on their hydrophobic and hydrophilic nature."
     },
     {
       "question_id": 162,
@@ -795,7 +2089,7 @@
       "question_id": 164,
       "question_type": "LONG",
       "question": "Explain the process of anodization and its benefits for aluminium articles.",
-      "answer": "Anodization is an electrolytic process used to strengthen the natural protective oxide layer on aluminium. The aluminium article acts as the anode in an electrolytic cell containing dilute sulphuric acid. During electrolysis, oxygen gas is liberated at the anode and reacts with the aluminium surface to form a uniform and durable layer of aluminium oxide. This layer can be made even thicker by controlling the process. Anodized aluminium is highly resistant to further corrosion and can be easily dyed in various colours, making it useful for making decorative items and durable kitchenware."
+      "answer": "Anodization is an electrolytic process used to increase the thickness of the natural oxide layer on the surface of metal parts, especially aluminium. The aluminium article acts as the anode in an electrolytic cell containing dilute sulphuric acid. During electrolysis, oxygen gas is liberated at the anode and reacts with the aluminium surface to form a uniform and durable layer of aluminium oxide. This layer can be made even thicker by controlling the process. Anodized aluminium is highly resistant to further corrosion and can be easily dyed in various colours, making it useful for making decorative items and durable kitchenware."
     },
     {
       "question_id": 165,
@@ -825,14 +2119,13 @@
       "question_id": 169,
       "question_type": "LONG",
       "question": "Describe the magnetic separation method with a neat labelled diagram description.",
-      "answer": "The magnetic separation method is used when either the ore or the gangue has magnetic properties. The machine consists of two rollers, one of which is an electromagnet, and a moving leather or brass belt. Crushed ore is dropped onto the moving belt. As the belt passes over the magnetic roller, the magnetic particles are attracted and fall into a separate collector closer to the roller. The non-magnetic particles are not attracted and fall further away due to centrifugal force. This method is commonly used to separate magnetic ferrous tungstate from non-magnetic stannic oxide in cassiterite ore"
-
+      "answer": "The magnetic separation method is used when either the ore or the gangue has magnetic properties. The machine consists of two rollers, one of which is an electromagnet, and a moving leather or brass belt. Crushed ore is dropped onto the moving belt. As the belt passes over the magnetic roller, the magnetic particles are attracted and fall into a separate collector closer to the roller. The non-magnetic particles are not attracted and fall further away due to centrifugal force. This method is commonly used to separate magnetic ferrous tungstate from non-magnetic stannic oxide in cassiterite ore."
     },
     {
       "question_id": 170,
       "question_type": "LONG",
       "question": "Explain the thermite welding process with the relevant chemical equation.",
-      "answer": "Thermite welding is a process that utilizes the high heat produced in the reaction between a metal oxide and aluminium. A common example is the reaction between iron(III) oxide (Fe2O3) and aluminium powder. This reaction is highly exothermic and produces so much heat that the iron formed is in a molten state. The molten iron flows into the gaps of broken railway tracks or cracked machine parts, welding them together upon cooling. The chemical equation is: Fe2O3 + 2Al → 2Fe + Al2O3 + Heat. This method is essential for heavy industrial repairs where conventional welding is difficult."
+      "answer": "Thermite welding is a process that utilizes the high heat produced in the reaction between a metal oxide and aluminium. A common example is the reaction between iron(III) oxide (Fe2O3) and aluminium powder. This reaction is highly exothermic and produces so much heat that the iron formed is in a molten state. The molten iron flows into the gaps of broken railway tracks or cracked machine parts, welding them together upon cooling. The chemical equation is: Fe2O3 + 2Al → 2Fe + Al2O3 + Heat. [Image of the thermite welding process]"
     },
     {
       "question_id": 171,
@@ -976,7 +2269,7 @@
       "question_id": 194,
       "question_type": "LONG",
       "question": "Explain the step-by-step concentration of bauxite ore by the Bayer's process.",
-      "answer": "In the Bayer's process: 1. Bauxite is ground and heated with concentrated NaOH solution under high pressure to dissolve the aluminium oxide as sodium aluminate. 2. Insoluble impurities like iron oxide (red mud) and silica are filtered off. 3. The sodium aluminate solution is diluted and treated with a small amount of aluminium hydroxide 'seed' to promote precipitation. 4. The resulting aluminium hydroxide precipitate is filtered, washed, and heated to 1000°C to produce pure alumina (Al2O3). This chemical process is the standard industrial method for producing the high-purity alumina required for electrolysis."
+      "answer": "In the Bayer's process: 1. Bauxite is ground and heated with concentrated NaOH solution under high pressure to dissolve the aluminium oxide as sodium aluminate. 2. Insoluble impurities like iron oxide (red mud) and silica are filtered off. 3. The sodium aluminate solution is diluted and treated with a small amount of aluminium hydroxide 'seed' to promote precipitation. 4. The resulting aluminium hydroxide precipitate is filtered, washed, and heated to 1000°C to produce pure alumina (Al2O3). This chemical process is the standard industrial method for producing the high-purity alumina required for electrolysis. "
     },
     {
       "question_id": 195,
