@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.12",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Let's Speak"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who uses a stethoscope to check patients?",
+      "options": [
+        { "option_id": 1, "text": "Farmer", "is_correct": false },
+        { "option_id": 2, "text": "Doctor", "is_correct": true },
+        { "option_id": 3, "text": "Chef", "is_correct": false },
+        { "option_id": 4, "text": "Soldier", "is_correct": false }
+      ],
+      "answer": "Doctor"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who manages the traffic on the road?",
+      "options": [
+        { "option_id": 1, "text": "Policewoman", "is_correct": true },
+        { "option_id": 2, "text": "Conductor", "is_correct": false },
+        { "option_id": 3, "text": "Doctor", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Policewoman"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does a conductor do?",
+      "options": [
+        { "option_id": 1, "text": "Cooks food", "is_correct": false },
+        { "option_id": 2, "text": "Gives tickets", "is_correct": true },
+        { "option_id": 3, "text": "Treats patients", "is_correct": false },
+        { "option_id": 4, "text": "Fights enemies", "is_correct": false }
+      ],
+      "answer": "Gives tickets"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who works on a farm with animals?",
+      "options": [
+        { "option_id": 1, "text": "Chef", "is_correct": false },
+        { "option_id": 2, "text": "Soldier", "is_correct": false },
+        { "option_id": 3, "text": "Farmer", "is_correct": true },
+        { "option_id": 4, "text": "Policewoman", "is_correct": false }
+      ],
+      "answer": "Farmer"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who wears a uniform and carries a gun to protect the country?",
+      "options": [
+        { "option_id": 1, "text": "Soldier", "is_correct": true },
+        { "option_id": 2, "text": "Doctor", "is_correct": false },
+        { "option_id": 3, "text": "Conductor", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Soldier"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who cooks tasty food in a kitchen?",
+      "options": [
+        { "option_id": 1, "text": "Chef", "is_correct": true },
+        { "option_id": 2, "text": "Policewoman", "is_correct": false },
+        { "option_id": 3, "text": "Doctor", "is_correct": false },
+        { "option_id": 4, "text": "Soldier", "is_correct": false }
+      ],
+      "answer": "Chef"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What tool does the farmer in the picture hold?",
+      "options": [
+        { "option_id": 1, "text": "A gun", "is_correct": false },
+        { "option_id": 2, "text": "An axe", "is_correct": true },
+        { "option_id": 3, "text": "A ticket machine", "is_correct": false },
+        { "option_id": 4, "text": "A stethoscope", "is_correct": false }
+      ],
+      "answer": "An axe"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where does the conductor work?",
+      "options": [
+        { "option_id": 1, "text": "In a hospital", "is_correct": false },
+        { "option_id": 2, "text": "On a farm", "is_correct": false },
+        { "option_id": 3, "text": "In a bus", "is_correct": true },
+        { "option_id": 4, "text": "In a kitchen", "is_correct": false }
+      ],
+      "answer": "In a bus"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What colors are shown on the traffic light?",
+      "options": [
+        { "option_id": 1, "text": "Red, Blue, Green", "is_correct": false },
+        { "option_id": 2, "text": "Red, Yellow, Green", "is_correct": true },
+        { "option_id": 3, "text": "Black, White, Grey", "is_correct": false },
+        { "option_id": 4, "text": "Pink, Purple, Orange", "is_correct": false }
+      ],
+      "answer": "Red, Yellow, Green"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What animal is standing near the farmer?",
+      "options": [
+        { "option_id": 1, "text": "A dog", "is_correct": false },
+        { "option_id": 2, "text": "A goat", "is_correct": true },
+        { "option_id": 3, "text": "A cat", "is_correct": false },
+        { "option_id": 4, "text": "A cow", "is_correct": false }
+      ],
+      "answer": "A goat"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the doctor checking on the patient?",
+      "options": [
+        { "option_id": 1, "text": "Heartbeat/Chest", "is_correct": true },
+        { "option_id": 2, "text": "Foot", "is_correct": false },
+        { "option_id": 3, "text": "Hand", "is_correct": false },
+        { "option_id": 4, "text": "Hair", "is_correct": false }
+      ],
+      "answer": "Heartbeat/Chest"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the chef wearing on his head?",
+      "options": [
+        { "option_id": 1, "text": "A helmet", "is_correct": false },
+        { "option_id": 2, "text": "A tall white cap", "is_correct": true },
+        { "option_id": 3, "text": "A red hat", "is_correct": false },
+        { "option_id": 4, "text": "Nothing", "is_correct": false }
+      ],
+      "answer": "A tall white cap"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the conductor holding?",
+      "options": [
+        { "option_id": 1, "text": "A ticket tray/machine", "is_correct": true },
+        { "option_id": 2, "text": "A gun", "is_correct": false },
+        { "option_id": 3, "text": "A pot", "is_correct": false },
+        { "option_id": 4, "text": "A stick", "is_correct": false }
+      ],
+      "answer": "A ticket tray/machine"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who wears a white coat in the pictures?",
+      "options": [
+        { "option_id": 1, "text": "Soldier", "is_correct": false },
+        { "option_id": 2, "text": "Doctor", "is_correct": true },
+        { "option_id": 3, "text": "Policewoman", "is_correct": false },
+        { "option_id": 4, "text": "Farmer", "is_correct": false }
+      ],
+      "answer": "Doctor"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What activity does the chapter ask you to do?",
+      "options": [
+        { "option_id": 1, "text": "Draw the pictures", "is_correct": false },
+        { "option_id": 2, "text": "Say 2-3 lines about the pictures", "is_correct": true },
+        { "option_id": 3, "text": "Write a story", "is_correct": false },
+        { "option_id": 4, "text": "Sing a song", "is_correct": false }
+      ],
+      "answer": "Say 2-3 lines about the pictures"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is the job of a doctor?",
+      "answer": "To treat sick people."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "Where do we see a conductor?",
+      "answer": "In a bus."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What does a policewoman help with?",
+      "answer": "She helps to control traffic and keep safety."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What does a farmer grow?",
+      "answer": "Crops and food."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does a chef do?",
+      "answer": "A chef cooks food."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Why does a soldier carry a gun?",
+      "answer": "To protect the country from enemies."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Name the instrument used by the doctor.",
+      "answer": "Stethoscope."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What color is the light that tells vehicles to stop?",
+      "answer": "Red."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What is the soldier wearing?",
+      "answer": "A uniform and a helmet."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What is the patient lying on?",
+      "answer": "A bed in the hospital."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Who helps people get tickets in a bus?",
+      "answer": "The conductor."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Name two tools seen with the farmer.",
+      "answer": "An axe and a plough (or sickle)."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is the chef stirring in the bowl?",
+      "answer": "Food or soup."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is the title of Chapter 2.3?",
+      "answer": "Let's Speak."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Which person in the pictures works with animals?",
+      "answer": "The farmer."
+    }
+  ]
+}

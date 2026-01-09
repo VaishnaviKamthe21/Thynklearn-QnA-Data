@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.07",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Let's Speak"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who asks permission to go out to play?",
+      "options": [
+        { "option_id": 1, "text": "Mohini", "is_correct": false },
+        { "option_id": 2, "text": "Ashwini", "is_correct": true },
+        { "option_id": 3, "text": "Tina", "is_correct": false },
+        { "option_id": 4, "text": "Shyam", "is_correct": false }
+      ],
+      "answer": "Ashwini"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Whom does Ashwini ask for permission to play?",
+      "options": [
+        { "option_id": 1, "text": "Baba", "is_correct": false },
+        { "option_id": 2, "text": "Ticket Seller", "is_correct": false },
+        { "option_id": 3, "text": "Aai", "is_correct": true },
+        { "option_id": 4, "text": "Gardener", "is_correct": false }
+      ],
+      "answer": "Aai"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does Ashwini want to eat?",
+      "options": [
+        { "option_id": 1, "text": "An apple", "is_correct": false },
+        { "option_id": 2, "text": "A piece of cake", "is_correct": true },
+        { "option_id": 3, "text": "Chocolate", "is_correct": false },
+        { "option_id": 4, "text": "Ice cream", "is_correct": false }
+      ],
+      "answer": "A piece of cake"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who tells Ashwini to brush her teeth?",
+      "options": [
+        { "option_id": 1, "text": "Aai", "is_correct": false },
+        { "option_id": 2, "text": "Baba", "is_correct": true },
+        { "option_id": 3, "text": "Reena", "is_correct": false },
+        { "option_id": 4, "text": "Gardener", "is_correct": false }
+      ],
+      "answer": "Baba"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When is Ashwini allowed to eat the cake?",
+      "options": [
+        { "option_id": 1, "text": "Before dinner", "is_correct": false },
+        { "option_id": 2, "text": "After dinner", "is_correct": true },
+        { "option_id": 3, "text": "In the morning", "is_correct": false },
+        { "option_id": 4, "text": "At lunch", "is_correct": false }
+      ],
+      "answer": "After dinner"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who wants to buy tickets?",
+      "options": [
+        { "option_id": 1, "text": "Mohini", "is_correct": true },
+        { "option_id": 2, "text": "Tina", "is_correct": false },
+        { "option_id": 3, "text": "Shyam", "is_correct": false },
+        { "option_id": 4, "text": "Reena", "is_correct": false }
+      ],
+      "answer": "Mohini"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How many tickets does Mohini ask for?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Two", "is_correct": true },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does Tina want to borrow?",
+      "options": [
+        { "option_id": 1, "text": "A book", "is_correct": false },
+        { "option_id": 2, "text": "A pen", "is_correct": false },
+        { "option_id": 3, "text": "An eraser", "is_correct": false },
+        { "option_id": 4, "text": "A pencil", "is_correct": true }
+      ],
+      "answer": "A pencil"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who gives the pencil to Tina?",
+      "options": [
+        { "option_id": 1, "text": "Reena", "is_correct": true },
+        { "option_id": 2, "text": "Mohini", "is_correct": false },
+        { "option_id": 3, "text": "Ashwini", "is_correct": false },
+        { "option_id": 4, "text": "Shyam", "is_correct": false }
+      ],
+      "answer": "Reena"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does Shyam want to do?",
+      "options": [
+        { "option_id": 1, "text": "Play cricket", "is_correct": false },
+        { "option_id": 2, "text": "Pluck flowers", "is_correct": true },
+        { "option_id": 3, "text": "Buy tickets", "is_correct": false },
+        { "option_id": 4, "text": "Eat cake", "is_correct": false }
+      ],
+      "answer": "Pluck flowers"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who refuses permission to Shyam?",
+      "options": [
+        { "option_id": 1, "text": "Teacher", "is_correct": false },
+        { "option_id": 2, "text": "Police", "is_correct": false },
+        { "option_id": 3, "text": "Gardener", "is_correct": true },
+        { "option_id": 4, "text": "Doctor", "is_correct": false }
+      ],
+      "answer": "Gardener"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What polite phrase is used to ask for permission in this chapter?",
+      "options": [
+        { "option_id": 1, "text": "I want", "is_correct": false },
+        { "option_id": 2, "text": "Give me", "is_correct": false },
+        { "option_id": 3, "text": "May I", "is_correct": true },
+        { "option_id": 4, "text": "Can you", "is_correct": false }
+      ],
+      "answer": "May I"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does Reena say when she gives the pencil?",
+      "options": [
+        { "option_id": 1, "text": "No, sorry", "is_correct": false },
+        { "option_id": 2, "text": "Yes, sure", "is_correct": true },
+        { "option_id": 3, "text": "Ask someone else", "is_correct": false },
+        { "option_id": 4, "text": "Wait a minute", "is_correct": false }
+      ],
+      "answer": "Yes, sure"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How does Tina thank Reena?",
+      "options": [
+        { "option_id": 1, "text": "Good bye", "is_correct": false },
+        { "option_id": 2, "text": "See you", "is_correct": false },
+        { "option_id": 3, "text": "Thank you", "is_correct": true },
+        { "option_id": 4, "text": "Welcome", "is_correct": false }
+      ],
+      "answer": "Thank you"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Where does the text suggest Mohini is going?",
+      "options": [
+        { "option_id": 1, "text": "School", "is_correct": false },
+        { "option_id": 2, "text": "Market", "is_correct": false },
+        { "option_id": 3, "text": "Zoo", "is_correct": true },
+        { "option_id": 4, "text": "Hospital", "is_correct": false }
+      ],
+      "answer": "Zoo"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is the title of Chapter 1.7?",
+      "answer": "The title of the chapter is Let's Speak."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What does Ashwini call her mother?",
+      "answer": "Ashwini calls her mother 'Aai'."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What does Ashwini call her father?",
+      "answer": "Ashwini calls her father 'Baba'."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What is the exact question Ashwini asks her Baba?",
+      "answer": "Baba, I want to eat a piece of cake. May I?"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Who says, 'Yes, you may. Here they are'?",
+      "answer": "The Ticket Seller says this to Mohini."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Identify the two friends talking about a pencil.",
+      "answer": "Tina and Reena are talking about a pencil."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What does the Gardener say to Shyam?",
+      "answer": "The Gardener says, 'Sorry, you may not.'"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Why does the Gardener refuse Shyam's request?",
+      "answer": "He refuses because plucking flowers is not allowed."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What must Ashwini do after eating the cake?",
+      "answer": "She must brush her teeth."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "What polite word does Mohini use when asking for tickets?",
+      "answer": "She uses the word 'please'."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "List the names of all the children mentioned in this chapter.",
+      "answer": "Ashwini, Mohini, Tina, Reena, and Shyam."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What is the purpose of using 'May I' in these sentences?",
+      "answer": "It is used to ask for permission politely."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Translate the action 'pluck flowers' into simple words.",
+      "answer": "It means to pick or pull flowers off a plant."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is Aai's reply to Ashwini's first question?",
+      "answer": "Aai replies, 'Yes, you may.'"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Who expresses gratitude with 'Thank you' in the text?",
+      "answer": "Tina expresses gratitude to Reena."
+    }
+  ]
+}

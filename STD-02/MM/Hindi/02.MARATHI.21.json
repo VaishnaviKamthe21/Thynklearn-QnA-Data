@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.Marathi.21",
+    "standard": "2",
+    "subject": "Hindi",
+    "medium": "Marathi",
+    "chapter_name": "जल ही जीवन है"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "जल मनुष्य के लिए क्यों आवश्यक है?",
+      "options": [
+        { "option_id": 1, "text": "मनोरंजन के लिए", "is_correct": false },
+        { "option_id": 2, "text": "जीवन जीने के लिए", "is_correct": true },
+        { "option_id": 3, "text": "खेलने के लिए", "is_correct": false },
+        { "option_id": 4, "text": "आराम के लिए", "is_correct": false }
+      ],
+      "answer": "जीवन जीने के लिए"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पृथ्वी पर अधिक मात्रा में जल कहाँ पाया जाता है?",
+      "options": [
+        { "option_id": 1, "text": "नदियों में", "is_correct": false },
+        { "option_id": 2, "text": "समुद्रों में", "is_correct": true },
+        { "option_id": 3, "text": "कुओं में", "is_correct": false },
+        { "option_id": 4, "text": "तालाबों में", "is_correct": false }
+      ],
+      "answer": "समुद्रों में"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "किस प्रकार का जल पीने योग्य होता है?",
+      "options": [
+        { "option_id": 1, "text": "खारा पानी", "is_correct": false },
+        { "option_id": 2, "text": "गंदा पानी", "is_correct": false },
+        { "option_id": 3, "text": "मीठा और स्वच्छ पानी", "is_correct": true },
+        { "option_id": 4, "text": "समुद्री पानी", "is_correct": false }
+      ],
+      "answer": "मीठा और स्वच्छ पानी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "जल की बर्बादी किसे कहा जाता है?",
+      "options": [
+        { "option_id": 1, "text": "अनावश्यक रूप से पानी बहाना", "is_correct": true },
+        { "option_id": 2, "text": "पानी पीना", "is_correct": false },
+        { "option_id": 3, "text": "पेड़ लगाना", "is_correct": false },
+        { "option_id": 4, "text": "नदी का जल", "is_correct": false }
+      ],
+      "answer": "अनावश्यक रूप से पानी बहाना"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "किससे वर्षा होती है?",
+      "options": [
+        { "option_id": 1, "text": "धूप से", "is_correct": false },
+        { "option_id": 2, "text": "बादलों से", "is_correct": true },
+        { "option_id": 3, "text": "पेड़ों से", "is_correct": false },
+        { "option_id": 4, "text": "हवा से", "is_correct": false }
+      ],
+      "answer": "बादलों से"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "किस क्रिया से पानी का शुद्धिकरण किया जा सकता है?",
+      "options": [
+        { "option_id": 1, "text": "उबालकर", "is_correct": true },
+        { "option_id": 2, "text": "रंग मिलाकर", "is_correct": false },
+        { "option_id": 3, "text": "धूप में रखकर", "is_correct": false },
+        { "option_id": 4, "text": "तेल मिलाकर", "is_correct": false }
+      ],
+      "answer": "उबालकर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "किस क्षेत्र में जल की कमी अधिक होती है?",
+      "options": [
+        { "option_id": 1, "text": "पहाड़ी क्षेत्र", "is_correct": false },
+        { "option_id": 2, "text": "रेगिस्तानी क्षेत्र", "is_correct": true },
+        { "option_id": 3, "text": "समुद्री क्षेत्र", "is_correct": false },
+        { "option_id": 4, "text": "जंगल क्षेत्र", "is_correct": false }
+      ],
+      "answer": "रेगिस्तानी क्षेत्र"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पानी बचाने का सही तरीका कौन-सा है?",
+      "options": [
+        { "option_id": 1, "text": "नल खुला छोड़ देना", "is_correct": false },
+        { "option_id": 2, "text": "गाड़ी धोने में अधिक पानी बहाना", "is_correct": false },
+        { "option_id": 3, "text": "वर्षाजल संग्रह करना", "is_correct": true },
+        { "option_id": 4, "text": "पानी सड़कों पर बहाना", "is_correct": false }
+      ],
+      "answer": "वर्षाजल संग्रह करना"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "अशुद्ध पानी पीने से क्या होता है?",
+      "options": [
+        { "option_id": 1, "text": "ताकत बढ़ती है", "is_correct": false },
+        { "option_id": 2, "text": "बीमारियाँ फैलती हैं", "is_correct": true },
+        { "option_id": 3, "text": "नींद आती है", "is_correct": false },
+        { "option_id": 4, "text": "ऊर्जा बढ़ती है", "is_correct": false }
+      ],
+      "answer": "बीमारियाँ फैलती हैं"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "जल संरक्षण का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "जल का दुरुपयोग करना", "is_correct": false },
+        { "option_id": 2, "text": "पानी बचाना और समझदारी से उपयोग करना", "is_correct": true },
+        { "option_id": 3, "text": "पानी फेंक देना", "is_correct": false },
+        { "option_id": 4, "text": "पानी बर्बाद करना", "is_correct": false }
+      ],
+      "answer": "पानी बचाना और समझदारी से उपयोग करना"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "किस जीव के लिए जल आवश्यक है?",
+      "options": [
+        { "option_id": 1, "text": "केवल मनुष्य", "is_correct": false },
+        { "option_id": 2, "text": "केवल जानवर", "is_correct": false },
+        { "option_id": 3, "text": "केवल पौधे", "is_correct": false },
+        { "option_id": 4, "text": "सभी जीवों के लिए", "is_correct": true }
+      ],
+      "answer": "सभी जीवों के लिए"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "किस मौसम में जल का सबसे अधिक महत्व होता है?",
+      "options": [
+        { "option_id": 1, "text": "सर्दी", "is_correct": false },
+        { "option_id": 2, "text": "बरसात", "is_correct": false },
+        { "option_id": 3, "text": "गर्मी", "is_correct": true },
+        { "option_id": 4, "text": "बसंत", "is_correct": false }
+      ],
+      "answer": "गर्मी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "नल से टपकते पानी को क्या करना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "यूँ ही बहने देना", "is_correct": false },
+        { "option_id": 2, "text": "उसे बंद करना", "is_correct": true },
+        { "option_id": 3, "text": "बच्चों को खेलने देना", "is_correct": false },
+        { "option_id": 4, "text": "फोटो लेना", "is_correct": false }
+      ],
+      "answer": "उसे बंद करना"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पानी का महत्त्व किस पंक्ति में सही बताया गया है?",
+      "options": [
+        { "option_id": 1, "text": "जल के बिना जीवन संभव है", "is_correct": false },
+        { "option_id": 2, "text": "जल ही जीवन है", "is_correct": true },
+        { "option_id": 3, "text": "पानी व्यर्थ है", "is_correct": false },
+        { "option_id": 4, "text": "पानी केवल पौधों के लिए", "is_correct": false }
+      ],
+      "answer": "जल ही जीवन है"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "इस पाठ का मुख्य संदेश क्या है?",
+      "options": [
+        { "option_id": 1, "text": "पानी बर्बाद करो", "is_correct": false },
+        { "option_id": 2, "text": "जल का महत्व समझो और उसे बचाओ", "is_correct": true },
+        { "option_id": 3, "text": "अधिक पानी बहाओ", "is_correct": false },
+        { "option_id": 4, "text": "पानी की उपेक्षा करो", "is_correct": false }
+      ],
+      "answer": "जल का महत्व समझो और उसे बचाओ"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "जल को जीवनदायिनी क्यों कहा जाता है?",
+      "answer": "क्योंकि जल के बिना कोई भी जीवित प्राणी जीवित नहीं रह सकता।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "पीने योग्य पानी कहाँ से प्राप्त होता है?",
+      "answer": "नदी, कुएँ, तालाब और वर्षाजल से।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "अशुद्ध जल से क्या हानि होती है?",
+      "answer": "अशुद्ध जल से कई प्रकार की बीमारियाँ फैलती हैं।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "जल संरक्षण का एक उपाय लिखो।",
+      "answer": "नल खुला न छोड़ना और पानी सोच-समझकर उपयोग करना।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "वर्षाजल संग्रह क्यों करना चाहिए?",
+      "answer": "ताकि वर्षा का पानी बाद में उपयोग किया जा सके।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "किसे जल की सबसे अधिक आवश्यकता होती है?",
+      "answer": "मनुष्य, पशु-पक्षी और पौधों — सभी को।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "पानी बचाने का एक तरीका लिखो।",
+      "answer": "बाल्टी से नहाना और अनावश्यक रूप से पानी न बहाना।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "जल संकट क्या है?",
+      "answer": "जब किसी क्षेत्र में पानी की कमी हो जाती है, उसे जल संकट कहते हैं।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "पानी उबालने का लाभ क्या है?",
+      "answer": "उबालने से पानी के कीटाणु नष्ट हो जाते हैं।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "पानी के बिना खेती पर क्या असर पड़ता है?",
+      "answer": "फसल सूख जाती है और किसान को नुकसान होता है।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "हमें पानी का दुरुपयोग क्यों नहीं करना चाहिए?",
+      "answer": "क्योंकि जल सीमित है और जीवन के लिए अत्यंत आवश्यक है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "जल का एक स्रोत लिखो।",
+      "answer": "नदी / तालाब / कुआँ।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "कपड़े धोते समय पानी कैसे बचाएँ?",
+      "answer": "एक ही टब के पानी का उपयोग करें और अनावश्यक पानी न बहाएँ।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "‘जल ही जीवन है’ — इस कथन का अर्थ लिखो।",
+      "answer": "जल के बिना जीवन संभव नहीं है, इसलिए इसका संरक्षण आवश्यक है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "इस पाठ का मुख्य संदेश लिखो।",
+      "answer": "हमें जल का महत्व समझना चाहिए और इसे बचाने का प्रयास करना चाहिए।"
+    }
+  ]
+}
