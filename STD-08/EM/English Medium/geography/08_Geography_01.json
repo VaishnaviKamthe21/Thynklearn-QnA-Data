@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "08.Geography.01",
+    "standard": "08",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Local Time and Standard Time"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "How many hours does the Earth take to complete one full rotation?",
+      "options": [
+        { "option_id": 1, "text": "12 hours", "is_correct": false },
+        { "option_id": 2, "text": "24 hours", "is_correct": true },
+        { "option_id": 3, "text": "6 hours", "is_correct": false },
+        { "option_id": 4, "text": "48 hours", "is_correct": false }
+      ],
+      "answer": "24 hours"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the direction of the Earth's rotation?",
+      "options": [
+        { "option_id": 1, "text": "East to West", "is_correct": false },
+        { "option_id": 2, "text": "West to East", "is_correct": true },
+        { "option_id": 3, "text": "North to South", "is_correct": false },
+        { "option_id": 4, "text": "South to North", "is_correct": false }
+      ],
+      "answer": "West to East"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which ancient instrument was used to measure time using a bowl with a hole at its base?",
+      "options": [
+        { "option_id": 1, "text": "Sand timer", "is_correct": false },
+        { "option_id": 2, "text": "Sundial", "is_correct": false },
+        { "option_id": 3, "text": "Ghatikapadra", "is_correct": true },
+        { "option_id": 4, "text": "Hourglass", "is_correct": false }
+      ],
+      "answer": "Ghatikapadra"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why does the sun appear to move from east to west?",
+      "options": [
+        { "option_id": 1, "text": "The sun actually moves around the Earth", "is_correct": false },
+        { "option_id": 2, "text": "The Earth rotates from west to east", "is_correct": true },
+        { "option_id": 3, "text": "The Earth revolves around the sun", "is_correct": false },
+        { "option_id": 4, "text": "Because of the tilt of the Earth", "is_correct": false }
+      ],
+      "answer": "The Earth rotates from west to east"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When is the shadow of an object the shortest during the day?",
+      "options": [
+        { "option_id": 1, "text": "Sunrise", "is_correct": false },
+        { "option_id": 2, "text": "Noon", "is_correct": true },
+        { "option_id": 3, "text": "Sunset", "is_correct": false },
+        { "option_id": 4, "text": "Evening", "is_correct": false }
+      ],
+      "answer": "Noon"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How many degrees does the Earth rotate in one hour?",
+      "options": [
+        { "option_id": 1, "text": "1 degree", "is_correct": false },
+        { "option_id": 2, "text": "15 degrees", "is_correct": true },
+        { "option_id": 3, "text": "30 degrees", "is_correct": false },
+        { "option_id": 4, "text": "360 degrees", "is_correct": false }
+      ],
+      "answer": "15 degrees"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How many minutes does it take for the Earth to rotate by 1 degree?",
+      "options": [
+        { "option_id": 1, "text": "1 minute", "is_correct": false },
+        { "option_id": 2, "text": "4 minutes", "is_correct": true },
+        { "option_id": 3, "text": "15 minutes", "is_correct": false },
+        { "option_id": 4, "text": "60 minutes", "is_correct": false }
+      ],
+      "answer": "4 minutes"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is local time determined by?",
+      "options": [
+        { "option_id": 1, "text": "The location of the moon", "is_correct": false },
+        { "option_id": 2, "text": "The location of the sun in the sky", "is_correct": true },
+        { "option_id": 3, "text": "The Prime Meridian", "is_correct": false },
+        { "option_id": 4, "text": "The International Date Line", "is_correct": false }
+      ],
+      "answer": "The location of the sun in the sky"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "For how long does daytime last at the poles during certain seasons?",
+      "options": [
+        { "option_id": 1, "text": "12 hours", "is_correct": false },
+        { "option_id": 2, "text": "24 hours", "is_correct": false },
+        { "option_id": 3, "text": "6 months", "is_correct": true },
+        { "option_id": 4, "text": "1 month", "is_correct": false }
+      ],
+      "answer": "6 months"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "If two places are on the same longitude, what can be said about their local time?",
+      "options": [
+        { "option_id": 1, "text": "It is the same", "is_correct": true },
+        { "option_id": 2, "text": "It differs by 1 hour", "is_correct": false },
+        { "option_id": 3, "text": "It differs by 4 minutes", "is_correct": false },
+        { "option_id": 4, "text": "It is exactly opposite", "is_correct": false }
+      ],
+      "answer": "It is the same"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Mashad, Iran is at 60°E. When it is noon at Greenwich, what is the time at Mashad?",
+      "options": [
+        { "option_id": 1, "text": "8 AM", "is_correct": false },
+        { "option_id": 2, "text": "4 PM", "is_correct": true },
+        { "option_id": 3, "text": "8 PM", "is_correct": false },
+        { "option_id": 4, "text": "4 AM", "is_correct": false }
+      ],
+      "answer": "4 PM"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does 'a.m.' stand for?",
+      "options": [
+        { "option_id": 1, "text": "After Midnight", "is_correct": false },
+        { "option_id": 2, "text": "Ante Meridiem", "is_correct": true },
+        { "option_id": 3, "text": "After Meridian", "is_correct": false },
+        { "option_id": 4, "text": "At Midday", "is_correct": false }
+      ],
+      "answer": "Ante Meridiem"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the main reason for adopting a standard time in a country?",
+      "options": [
+        { "option_id": 1, "text": "To confuse people", "is_correct": false },
+        { "option_id": 2, "text": "To match time with the moon", "is_correct": false },
+        { "option_id": 3, "text": "To avoid chaos from different local times", "is_correct": true },
+        { "option_id": 4, "text": "To follow the sun exactly", "is_correct": false }
+      ],
+      "answer": "To avoid chaos from different local times"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Into how many time zones is the world divided?",
+      "options": [
+        { "option_id": 1, "text": "12", "is_correct": false },
+        { "option_id": 2, "text": "24", "is_correct": true },
+        { "option_id": 3, "text": "36", "is_correct": false },
+        { "option_id": 4, "text": "48", "is_correct": false }
+      ],
+      "answer": "24"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "On which longitude is the Indian Standard Time (IST) based?",
+      "options": [
+        { "option_id": 1, "text": "75° E", "is_correct": false },
+        { "option_id": 2, "text": "82° 30' E", "is_correct": true },
+        { "option_id": 3, "text": "90° E", "is_correct": false },
+        { "option_id": 4, "text": "68° E", "is_correct": false }
+      ],
+      "answer": "82° 30' E"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Where does the 82° 30' E longitude pass through in India?",
+      "options": [
+        { "option_id": 1, "text": "Delhi", "is_correct": false },
+        { "option_id": 2, "text": "Mumbai", "is_correct": false },
+        { "option_id": 3, "text": "Mirzapur", "is_correct": true },
+        { "option_id": 4, "text": "Kolkata", "is_correct": false }
+      ],
+      "answer": "Mirzapur"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "If it is 12 noon at 82° 30' E, what time is it in the rest of India?",
+      "options": [
+        { "option_id": 1, "text": "It varies across India", "is_correct": false },
+        { "option_id": 2, "text": "It is assumed to be 12 noon everywhere", "is_correct": true },
+        { "option_id": 3, "text": "It is 1 PM in the east", "is_correct": false },
+        { "option_id": 4, "text": "It is 11 AM in the west", "is_correct": false }
+      ],
+      "answer": "It is assumed to be 12 noon everywhere"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the international standard time called?",
+      "options": [
+        { "option_id": 1, "text": "IST", "is_correct": false },
+        { "option_id": 2, "text": "GMT", "is_correct": true },
+        { "option_id": 3, "text": "UTC", "is_correct": false },
+        { "option_id": 4, "text": "IDL", "is_correct": false }
+      ],
+      "answer": "GMT"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "How many hours ahead is IST from GMT?",
+      "options": [
+        { "option_id": 1, "text": "4 hours 30 minutes", "is_correct": false },
+        { "option_id": 2, "text": "5 hours", "is_correct": false },
+        { "option_id": 3, "text": "5 hours 30 minutes", "is_correct": true },
+        { "option_id": 4, "text": "6 hours", "is_correct": false }
+      ],
+      "answer": "5 hours 30 minutes"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which country has 6 different standard time zones?",
+      "options": [
+        { "option_id": 1, "text": "USA", "is_correct": false },
+        { "option_id": 2, "text": "Russia", "is_correct": false },
+        { "option_id": 3, "text": "Canada", "is_correct": true },
+        { "option_id": 4, "text": "Australia", "is_correct": false }
+      ],
+      "answer": "Canada"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "If the longitudinal extent of a country is small, how many standard times does it usually have?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": true },
+        { "option_id": 2, "text": "Two", "is_correct": false },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Multiple", "is_correct": false }
+      ],
+      "answer": "One"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which of these countries is likely to have only one standard time?",
+      "options": [
+        { "option_id": 1, "text": "Russia", "is_correct": false },
+        { "option_id": 2, "text": "Sri Lanka", "is_correct": true },
+        { "option_id": 3, "text": "USA", "is_correct": false },
+        { "option_id": 4, "text": "Canada", "is_correct": false }
+      ],
+      "answer": "Sri Lanka"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the time difference between two consecutive longitudes?",
+      "options": [
+        { "option_id": 1, "text": "1 minute", "is_correct": false },
+        { "option_id": 2, "text": "4 minutes", "is_correct": true },
+        { "option_id": 3, "text": "15 minutes", "is_correct": false },
+        { "option_id": 4, "text": "1 hour", "is_correct": false }
+      ],
+      "answer": "4 minutes"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "If it is 8 AM in India, what time is it in Greenwich?",
+      "options": [
+        { "option_id": 1, "text": "1:30 AM", "is_correct": false },
+        { "option_id": 2, "text": "2:30 AM", "is_correct": true },
+        { "option_id": 3, "text": "3:30 AM", "is_correct": false },
+        { "option_id": 4, "text": "12:30 PM", "is_correct": false }
+      ],
+      "answer": "2:30 AM"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which Indian organization is responsible for accurate timekeeping?",
+      "options": [
+        { "option_id": 1, "text": "ISRO", "is_correct": false },
+        { "option_id": 2, "text": "NPL", "is_correct": true },
+        { "option_id": 3, "text": "IMD", "is_correct": false },
+        { "option_id": 4, "text": "DRDO", "is_correct": false }
+      ],
+      "answer": "NPL"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What were the astronomical observatories built by Maharaja Sawai Jaisingh II called?",
+      "options": [
+        { "option_id": 1, "text": "Vedic Towers", "is_correct": false },
+        { "option_id": 2, "text": "Jantar Mantar", "is_correct": true },
+        { "option_id": 3, "text": "Surya Temple", "is_correct": false },
+        { "option_id": 4, "text": "Astro Labs", "is_correct": false }
+      ],
+      "answer": "Jantar Mantar"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "In which city is Jantar Mantar NOT located today?",
+      "options": [
+        { "option_id": 1, "text": "Delhi", "is_correct": false },
+        { "option_id": 2, "text": "Jaipur", "is_correct": false },
+        { "option_id": 3, "text": "Mathura", "is_correct": true },
+        { "option_id": 4, "text": "Ujjain", "is_correct": false }
+      ],
+      "answer": "Mathura"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "How many longitudes face the sun in one hour?",
+      "options": [
+        { "option_id": 1, "text": "1", "is_correct": false },
+        { "option_id": 2, "text": "15", "is_correct": true },
+        { "option_id": 3, "text": "30", "is_correct": false },
+        { "option_id": 4, "text": "60", "is_correct": false }
+      ],
+      "answer": "15"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What does 'p.m.' stand for?",
+      "options": [
+        { "option_id": 1, "text": "Post Meridiem", "is_correct": true },
+        { "option_id": 2, "text": "Past Midnight", "is_correct": false },
+        { "option_id": 3, "text": "Pre Meridian", "is_correct": false },
+        { "option_id": 4, "text": "Post Midnight", "is_correct": false }
+      ],
+      "answer": "Post Meridiem"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which line of longitude is used as the reference for world time zones?",
+      "options": [
+        { "option_id": 1, "text": "Equator", "is_correct": false },
+        { "option_id": 2, "text": "Tropic of Cancer", "is_correct": false },
+        { "option_id": 3, "text": "Prime Meridian", "is_correct": true },
+        { "option_id": 4, "text": "International Date Line", "is_correct": false }
+      ],
+      "answer": "Prime Meridian"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "If you travel eastward, how does the local time change?",
+      "options": [
+        { "option_id": 1, "text": "It decreases", "is_correct": false },
+        { "option_id": 2, "text": "It increases", "is_correct": true },
+        { "option_id": 3, "text": "It stays the same", "is_correct": false },
+        { "option_id": 4, "text": "It becomes opposite", "is_correct": false }
+      ],
+      "answer": "It increases"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Manaus, Brazil is at 60°W. When it is noon at Greenwich, what is the local time at Manaus?",
+      "options": [
+        { "option_id": 1, "text": "8 AM", "is_correct": true },
+        { "option_id": 2, "text": "4 PM", "is_correct": false },
+        { "option_id": 3, "text": "12 PM", "is_correct": false },
+        { "option_id": 4, "text": "8 PM", "is_correct": false }
+      ],
+      "answer": "8 AM"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What is the main reason for having multiple time zones in large countries?",
+      "options": [
+        { "option_id": 1, "text": "Political reasons", "is_correct": false },
+        { "option_id": 2, "text": "Large east-west extent", "is_correct": true },
+        { "option_id": 3, "text": "Different languages", "is_correct": false },
+        { "option_id": 4, "text": "Mountain ranges", "is_correct": false }
+      ],
+      "answer": "Large east-west extent"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which of the following is NOT used to calculate local time difference?",
+      "options": [
+        { "option_id": 1, "text": "Difference in longitudes", "is_correct": false },
+        { "option_id": 2, "text": "4 minutes per degree", "is_correct": false },
+        { "option_id": 3, "text": "Latitude of the place", "is_correct": true },
+        { "option_id": 4, "text": "Prime Meridian reference", "is_correct": false }
+      ],
+      "answer": "Latitude of the place"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "At the poles, why can't shadow length determine noon time?",
+      "options": [
+        { "option_id": 1, "text": "There is no sun", "is_correct": false },
+        { "option_id": 2, "text": "Sun moves around the horizon", "is_correct": true },
+        { "option_id": 3, "text": "Too cold for shadows", "is_correct": false },
+        { "option_id": 4, "text": "Shadows are always long", "is_correct": false }
+      ],
+      "answer": "Sun moves around the horizon"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What does NIST stand for?",
+      "options": [
+        { "option_id": 1, "text": "National Institute of Standard Time", "is_correct": false },
+        { "option_id": 2, "text": "National Institute of Standards and Technology", "is_correct": true },
+        { "option_id": 3, "text": "New International Standard Time", "is_correct": false },
+        { "option_id": 4, "text": "National Indian Standard Time", "is_correct": false }
+      ],
+      "answer": "National Institute of Standards and Technology"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "How accurate are the clocks at India's National Physical Laboratory?",
+      "options": [
+        { "option_id": 1, "text": "1 second per day", "is_correct": false },
+        { "option_id": 2, "text": "1 lakh part of a second", "is_correct": true },
+        { "option_id": 3, "text": "1 minute per year", "is_correct": false },
+        { "option_id": 4, "text": "1 second per year", "is_correct": false }
+      ],
+      "answer": "1 lakh part of a second"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What natural events were used to divide the day in ancient times?",
+      "options": [
+        { "option_id": 1, "text": "Moon phases", "is_correct": false },
+        { "option_id": 2, "text": "Sunrise and sunset", "is_correct": true },
+        { "option_id": 3, "text": "Star positions", "is_correct": false },
+        { "option_id": 4, "text": "Animal behavior", "is_correct": false }
+      ],
+      "answer": "Sunrise and sunset"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Why does a country with large latitudinal extent have only one standard time?",
+      "options": [
+        { "option_id": 1, "text": "Latitude does not affect time", "is_correct": true },
+        { "option_id": 2, "text": "Government decision", "is_correct": false },
+        { "option_id": 3, "text": "All countries have one time zone", "is_correct": false },
+        { "option_id": 4, "text": "Sun moves north-south", "is_correct": false }
+      ],
+      "answer": "Latitude does not affect time"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which activity requires highly accurate timekeeping?",
+      "options": [
+        { "option_id": 1, "text": "Cooking", "is_correct": false },
+        { "option_id": 2, "text": "Farming", "is_correct": false },
+        { "option_id": 3, "text": "Satellite launching", "is_correct": true },
+        { "option_id": 4, "text": "School timing", "is_correct": false }
+      ],
+      "answer": "Satellite launching"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is the time difference for each degree of longitude?",
+      "options": [
+        { "option_id": 1, "text": "1 minute", "is_correct": false },
+        { "option_id": 2, "text": "4 minutes", "is_correct": true },
+        { "option_id": 3, "text": "15 minutes", "is_correct": false },
+        { "option_id": 4, "text": "1 hour", "is_correct": false }
+      ],
+      "answer": "4 minutes"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Where is the Prime Meridian located?",
+      "options": [
+        { "option_id": 1, "text": "Greenwich, England", "is_correct": true },
+        { "option_id": 2, "text": "Paris, France", "is_correct": false },
+        { "option_id": 3, "text": "New York, USA", "is_correct": false },
+        { "option_id": 4, "text": "Tokyo, Japan", "is_correct": false }
+      ],
+      "answer": "Greenwich, England"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "If it is 6 PM at 90°E, what is the local time at 105°E?",
+      "options": [
+        { "option_id": 1, "text": "5 PM", "is_correct": false },
+        { "option_id": 2, "text": "6 PM", "is_correct": false },
+        { "option_id": 3, "text": "7 PM", "is_correct": true },
+        { "option_id": 4, "text": "8 PM", "is_correct": false }
+      ],
+      "answer": "7 PM"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What does IST stand for?",
+      "options": [
+        { "option_id": 1, "text": "Indian Solar Time", "is_correct": false },
+        { "option_id": 2, "text": "Indian Standard Time", "is_correct": true },
+        { "option_id": 3, "text": "International Standard Time", "is_correct": false },
+        { "option_id": 4, "text": "Indian Satellite Time", "is_correct": false }
+      ],
+      "answer": "Indian Standard Time"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which instrument was used historically to tell time using sand?",
+      "options": [
+        { "option_id": 1, "text": "Ghatikapadra", "is_correct": false },
+        { "option_id": 2, "text": "Sand timer", "is_correct": true },
+        { "option_id": 3, "text": "Sundial", "is_correct": false },
+        { "option_id": 4, "text": "Water clock", "is_correct": false }
+      ],
+      "answer": "Sand timer"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What happens to local time as you move westward?",
+      "options": [
+        { "option_id": 1, "text": "It increases", "is_correct": false },
+        { "option_id": 2, "text": "It decreases", "is_correct": true },
+        { "option_id": 3, "text": "It remains same", "is_correct": false },
+        { "option_id": 4, "text": "It becomes noon", "is_correct": false }
+      ],
+      "answer": "It decreases"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "How many longitudes are there in total?",
+      "options": [
+        { "option_id": 1, "text": "90", "is_correct": false },
+        { "option_id": 2, "text": "180", "is_correct": false },
+        { "option_id": 3, "text": "360", "is_correct": true },
+        { "option_id": 4, "text": "720", "is_correct": false }
+      ],
+      "answer": "360"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Why is local time inconvenient for large areas?",
+      "options": [
+        { "option_id": 1, "text": "It causes confusion and chaos", "is_correct": true },
+        { "option_id": 2, "text": "It is too accurate", "is_correct": false },
+        { "option_id": 3, "text": "It follows the sun too closely", "is_correct": false },
+        { "option_id": 4, "text": "It changes with seasons", "is_correct": false }
+      ],
+      "answer": "It causes confusion and chaos"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What is the maximum number of local times in the world?",
+      "options": [
+        { "option_id": 1, "text": "24", "is_correct": false },
+        { "option_id": 2, "text": "180", "is_correct": false },
+        { "option_id": 3, "text": "360", "is_correct": false },
+        { "option_id": 4, "text": "Infinite", "is_correct": true }
+      ],
+      "answer": "Infinite"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which of these is used to find local time difference?",
+      "options": [
+        { "option_id": 1, "text": "Longitude difference × 4 minutes", "is_correct": true },
+        { "option_id": 2, "text": "Latitude difference × 4 minutes", "is_correct": false },
+        { "option_id": 3, "text": "Longitude difference × 60 minutes", "is_correct": false },
+        { "option_id": 4, "text": "Altitude difference × 4 minutes", "is_correct": false }
+      ],
+      "answer": "Longitude difference × 4 minutes"
+    },
+  {
+    "question_id": 51,
+    "question_type": "SHORT",
+    "question": "What natural events were used to tell time in olden days?",
+    "answer": "Sunrise, sunset, and daytime/nighttime."
+  },
+  {
+    "question_id": 52,
+    "question_type": "SHORT",
+    "question": "In which direction does the Earth rotate?",
+    "answer": "From west to east."
+  },
+  {
+    "question_id": 53,
+    "question_type": "SHORT",
+    "question": "Why does the sun appear to move from east to west?",
+    "answer": "Due to the Earth's rotation from west to east."
+  },
+  {
+    "question_id": 54,
+    "question_type": "SHORT",
+    "question": "When are shadows the shortest during the day?",
+    "answer": "At noon."
+  },
+  {
+    "question_id": 55,
+    "question_type": "SHORT",
+    "question": "What is local time?",
+    "answer": "The time of a place as decided by the location of the sun in the sky."
+  },
+  {
+    "question_id": 56,
+    "question_type": "SHORT",
+    "question": "Where is noon time the same across the Earth?",
+    "answer": "At any given longitude, from the North Pole to the South Pole."
+  },
+  {
+    "question_id": 57,
+    "question_type": "SHORT",
+    "question": "How long can daytime last at the poles?",
+    "answer": "Around 6 months."
+  },
+  {
+    "question_id": 58,
+    "question_type": "SHORT",
+    "question": "What does the local time at a place depend on?",
+    "answer": "Its longitude."
+  },
+  {
+    "question_id": 59,
+    "question_type": "SHORT",
+    "question": "How many minutes of time difference does 1 degree of longitude make?",
+    "answer": "4 minutes."
+  },
+  {
+    "question_id": 60,
+    "question_type": "SHORT",
+    "question": "How many degrees does the Earth rotate in one hour?",
+    "answer": "15 degrees."
+  },
+  {
+    "question_id": 61,
+    "question_type": "SHORT",
+    "question": "Why can't local time be conveniently used over a large area?",
+    "answer": "It leads to chaos and confusion due to different times across longitudes."
+  },
+  {
+    "question_id": 62,
+    "question_type": "SHORT",
+    "question": "What is the Prime Meridian?",
+    "answer": "The 0° longitude passing through Greenwich, England."
+  },
+  {
+    "question_id": 63,
+    "question_type": "SHORT",
+    "question": "If it is noon at Greenwich, what is the time at 60° E?",
+    "answer": "4:00 PM."
+  },
+  {
+    "question_id": 64,
+    "question_type": "SHORT",
+    "question": "If it is noon at Greenwich, what is the time at 60° W?",
+    "answer": "8:00 AM."
+  },
+  {
+    "question_id": 65,
+    "question_type": "SHORT",
+    "question": "What does a.m. stand for?",
+    "answer": "Ante Meridiem (before midday)."
+  },
+  {
+    "question_id": 66,
+    "question_type": "SHORT",
+    "question": "What does p.m. stand for?",
+    "answer": "Post Meridiem (after midday)."
+  },
+  {
+    "question_id": 67,
+    "question_type": "SHORT",
+    "question": "How many time zones is the world divided into?",
+    "answer": "24."
+  },
+  {
+    "question_id": 68,
+    "question_type": "SHORT",
+    "question": "What is the reference for creating world time zones?",
+    "answer": "The Prime Meridian."
+  },
+  {
+    "question_id": 69,
+    "question_type": "SHORT",
+    "question": "What is the longitude for Indian Standard Time (IST)?",
+    "answer": "82° 30' E."
+  },
+  {
+    "question_id": 70,
+    "question_type": "SHORT",
+    "question": "Which city in India is located close to the 82°30' E longitude?",
+    "answer": "Mirzapur (near Allahabad, Uttar Pradesh)."
+  },
+  {
+    "question_id": 71,
+    "question_type": "SHORT",
+    "question": "Why was 82°30' E chosen for IST?",
+    "answer": "It passes roughly through the middle of India's longitudinal extent."
+  },
+  {
+    "question_id": 72,
+    "question_type": "SHORT",
+    "question": "How is Standard Time different from Local Time?",
+    "answer": "Standard Time is the uniform time adopted for a country/region, while Local Time varies with longitude."
+  },
+  {
+    "question_id": 73,
+    "question_type": "SHORT",
+    "question": "When it is 12 noon on 82°30' E, what time is it assumed across India?",
+    "answer": "12 noon (IST)."
+  },
+  {
+    "question_id": 74,
+    "question_type": "SHORT",
+    "question": "What is GMT?",
+    "answer": "Greenwich Mean Time, the local time at the Prime Meridian."
+  },
+  {
+    "question_id": 75,
+    "question_type": "SHORT",
+    "question": "How many hours ahead is IST of GMT?",
+    "answer": "5 hours and 30 minutes."
+  },
+  {
+    "question_id": 76,
+    "question_type": "SHORT",
+    "question": "If it is 5 p.m. at Greenwich, what is the time in India?",
+    "answer": "10:30 p.m."
+  },
+  {
+    "question_id": 77,
+    "question_type": "SHORT",
+    "question": "Which institute in India is responsible for accurate timekeeping?",
+    "answer": "The National Physical Laboratory (NPL), New Delhi."
+  },
+  {
+    "question_id": 78,
+    "question_type": "SHORT",
+    "question": "Who built the Jantar Mantar observatories?",
+    "answer": "Maharaja Sawai Jaisingh II of Jaipur."
+  },
+  {
+    "question_id": 79,
+    "question_type": "SHORT",
+    "question": "How many longitudes face the sun in one hour?",
+    "answer": "15 longitudes."
+  },
+  {
+    "question_id": 80,
+    "question_type": "SHORT",
+    "question": "What is the maximum number of local times possible in the world?",
+    "answer": "Theoretically 360 (one for each degree of longitude)."
+  },
+  {
+    "question_id": 81,
+    "question_type": "SHORT",
+    "question": "Which longitudes experience noon at the same time?",
+    "answer": "All points on the same meridian (line of longitude)."
+  },
+  {
+    "question_id": 82,
+    "question_type": "SHORT",
+    "question": "What causes the length of a shadow to change during the day?",
+    "answer": "The change in the apparent position of the sun in the sky."
+  },
+  {
+    "question_id": 83,
+    "question_type": "SHORT",
+    "question": "What is the 'apparent movement' of the sun?",
+    "answer": "The sun's seeming movement from east to west, caused by Earth's rotation."
+  },
+  {
+    "question_id": 84,
+    "question_type": "SHORT",
+    "question": "How many longitudes can be drawn on a world map with a 1° interval?",
+    "answer": "360."
+  },
+  {
+    "question_id": 85,
+    "question_type": "SHORT",
+    "question": "What does the term 'Ante Meridiem' mean?",
+    "answer": "Before noon."
+  },
+  {
+    "question_id": 86,
+    "question_type": "SHORT",
+    "question": "What does the term 'Post Meridiem' mean?",
+    "answer": "After noon."
+  },
+  {
+    "question_id": 87,
+    "question_type": "SHORT",
+    "question": "Why does Canada have 6 standard times?",
+    "answer": "Because of its very large east-west longitudinal extent."
+  },
+  {
+    "question_id": 88,
+    "question_type": "SHORT",
+    "question": "What is the time at a place 1° west of your longitude if your local time is 12:00?",
+    "answer": "11:56 a.m."
+  },
+  {
+    "question_id": 89,
+    "question_type": "SHORT",
+    "question": "What is the time at a place 1° east of your longitude if your local time is 12:00?",
+    "answer": "12:04 p.m."
+  },
+  {
+    "question_id": 90,
+    "question_type": "SHORT",
+    "question": "Where does the date change on Earth?",
+    "answer": "At the 180° longitude (International Date Line)."
+  },
+  {
+    "question_id": 91,
+    "question_type": "SHORT",
+    "question": "What instrument was used in ancient India for time measurement, mentioned in the text?",
+    "answer": "Ghatikapadra (a type of water clock)."
+  },
+  {
+    "question_id": 92,
+    "question_type": "SHORT",
+    "question": "What is the main purpose of having a Standard Time for a country?",
+    "answer": "To avoid confusion and synchronize routine activities across the country."
+  },
+  {
+    "question_id": 93,
+    "question_type": "SHORT",
+    "question": "What is the longitudinal extent of India (approximately)?",
+    "answer": "About 30° (from about 68°E to 97°E)."
+  },
+  {
+    "question_id": 94,
+    "question_type": "SHORT",
+    "question": "If it is 8 a.m. at 82°30' E, what is the time at 90° E?",
+    "answer": "It would be ahead by 30 minutes (8:30 a.m.)."
+  },
+  {
+    "question_id": 95,
+    "question_type": "SHORT",
+    "question": "If it is 8 a.m. at 82°30' E, what is the time at 75° E?",
+    "answer": "It would be behind by 30 minutes (7:30 a.m.)."
+  },
+  {
+    "question_id": 96,
+    "question_type": "SHORT",
+    "question": "Which country mentioned has only one standard time despite a large area?",
+    "answer": "China."
+  },
+  {
+    "question_id": 97,
+    "question_type": "SHORT",
+    "question": "What is the significance of the Jantar Mantar observatories today?",
+    "answer": "They are considered cultural heritage and historical astronomical sites."
+  },
+  {
+    "question_id": 98,
+    "question_type": "SHORT",
+    "question": "What activities require extremely accurate timekeeping?",
+    "answer": "Space research, artificial satellite launching, etc."
+  },
+  {
+    "question_id": 99,
+    "question_type": "SHORT",
+    "question": "What does NIST stand for?",
+    "answer": "National Institute of Standards and Technology (USA)."
+  },
+  {
+    "question_id": 100,
+    "question_type": "SHORT",
+    "question": "What does NPL stand for?",
+    "answer": "National Physical Laboratory (India)."
+  },
+  {
+    "question_id": 101,
+    "question_type": "SHORT",
+    "question": "Where are the Jantar Mantar observatories located?",
+    "answer": "Ujjain, Varanasi, Jaipur, Delhi, and (historically) Mathura."
+  },
+  {
+    "question_id": 102,
+    "question_type": "SHORT",
+    "question": "How is time measured using shadows at Jantar Mantar?",
+    "answer": "Through sundials and other shadow-based instruments."
+  },
+  {
+    "question_id": 103,
+    "question_type": "SHORT",
+    "question": "What is the time difference per degree of longitude?",
+    "answer": "4 minutes."
+  },
+  {
+    "question_id": 104,
+    "question_type": "SHORT",
+    "question": "What is the time difference for 15 degrees of longitude?",
+    "answer": "1 hour."
+  },
+  {
+    "question_id": 105,
+    "question_type": "SHORT",
+    "question": "What is the relationship between longitude and time?",
+    "answer": "Time increases towards the east and decreases towards the west relative to a reference longitude."
+  },
+  {
+    "question_id": 106,
+    "question_type": "SHORT",
+    "question": "What is the main disadvantage of every town using its own local time?",
+    "answer": "It would create confusion for transportation, communication, and administration."
+  },
+  {
+    "question_id": 107,
+    "question_type": "SHORT",
+    "question": "Why is the sun directly overhead at noon?",
+    "answer": "Because the longitude of that place is directly facing the sun at that moment in Earth's rotation."
+  },
+  {
+    "question_id": 108,
+    "question_type": "SHORT",
+    "question": "What is the local time at the Prime Meridian called?",
+    "answer": "Greenwich Mean Time (GMT) or Universal Time."
+  },
+  {
+    "question_id": 109,
+    "question_type": "SHORT",
+    "question": "How many hours does it take for the Earth to complete one rotation?",
+    "answer": "24 hours."
+  },
+  {
+    "question_id": 110,
+    "question_type": "SHORT",
+    "question": "What is the main cause of day and night?",
+    "answer": "The rotation of the Earth on its axis."
+  },
+  {
+    "question_id": 111,
+    "question_type": "SHORT",
+    "question": "What is the definition of one full day?",
+    "answer": "The duration from one sunrise to the next sunrise."
+  },
+  {
+    "question_id": 112,
+    "question_type": "SHORT",
+    "question": "Why does Kolkata experience noon before Mumbai?",
+    "answer": "Because Kolkata is located to the east of Mumbai."
+  },
+  {
+    "question_id": 113,
+    "question_type": "SHORT",
+    "question": "What is the approximate time difference between Mumbai (73°E) and Kolkata (88°E)?",
+    "answer": "1 hour (Kolkata is 1 hour ahead)."
+  },
+  {
+    "question_id": 114,
+    "question_type": "SHORT",
+    "question": "What are the two main factors that determine local time?",
+    "answer": "Longitude and the position of the sun."
+  },
+  {
+    "question_id": 115,
+    "question_type": "SHORT",
+    "question": "Why is GMT used as a global reference?",
+    "answer": "For international coordination and to avoid confusion in global communication and travel."
+  },
+  {
+    "question_id": 116,
+    "question_type": "SHORT",
+    "question": "How do time zones help?",
+    "answer": "They simplify timekeeping across large areas by grouping regions under the same standard time."
+  },
+  {
+    "question_id": 117,
+    "question_type": "SHORT",
+    "question": "What is the basis for the world's 24 time zones?",
+    "answer": "The Earth's 24-hour rotation period, dividing 360° by 24 hours = 15° per time zone."
+  },
+  {
+    "question_id": 118,
+    "question_type": "SHORT",
+    "question": "Why is accurate timekeeping important for modern technology?",
+    "answer": "It is crucial for GPS, internet synchronization, financial transactions, and scientific research."
+  },
+  {
+    "question_id": 119,
+    "question_type": "SHORT",
+    "question": "What does 'longitudinal extent' refer to?",
+    "answer": "The east-west span of a country or region measured in degrees of longitude."
+  },
+  {
+    "question_id": 120,
+    "question_type": "SHORT",
+    "question": "What is the main reason for having multiple standard times in large countries?",
+    "answer": "To ensure that clock time roughly matches solar time across different parts of the country."
+  },
+  {
+    "question_id": 121,
+    "question_type": "SHORT",
+    "question": "How can you calculate the local time difference between two places?",
+    "answer": "Multiply the difference in their longitudes (in degrees) by 4 minutes."
+  },
+  {
+    "question_id": 122,
+    "question_type": "SHORT",
+    "question": "What is the local time at 0° longitude when it is noon at 180° longitude?",
+    "answer": "Midnight (a difference of 12 hours)."
+  },
+  {
+    "question_id": 123,
+    "question_type": "SHORT",
+    "question": "What is the significance of the Tropic of Cancer in India?",
+    "answer": "It passes through the middle of India (23°30'N)."
+  },
+  {
+    "question_id": 124,
+    "question_type": "SHORT",
+    "question": "What is the approximate east-west distance of India?",
+    "answer": "About 3000 km."
+  },
+  {
+    "question_id": 125,
+    "question_type": "SHORT",
+    "question": "What is the approximate north-south distance of India?",
+    "answer": "About 3200 km."
+  },
+  {
+    "question_id": 126,
+    "question_type": "SHORT",
+    "question": "Why is it warmer in the afternoon than in the morning?",
+    "answer": "Because the sun is higher in the sky, providing more direct sunlight and heat."
+  },
+  {
+    "question_id": 127,
+    "question_type": "SHORT",
+    "question": "What is the reference point for calculating world time zones?",
+    "answer": "The Prime Meridian (0° longitude)."
+  },
+  {
+    "question_id": 128,
+    "question_type": "SHORT",
+    "question": "How many minutes does the Earth take to rotate 1 degree?",
+    "answer": "4 minutes."
+  },
+  {
+    "question_id": 129,
+    "question_type": "SHORT",
+    "question": "How many seconds does the Earth take to rotate 1 degree?",
+    "answer": "240 seconds (4 minutes * 60 seconds)."
+  },
+  {
+    "question_id": 130,
+    "question_type": "SHORT",
+    "question": "What is the main use of a sand timer?",
+    "answer": "To measure fixed intervals of time."
+  },
+  {
+    "question_id": 131,
+    "question_type": "SHORT",
+    "question": "Why is the time at the poles unique?",
+    "answer": "Because they experience continuous daylight or darkness for months, making sunrise/sunset occur only on specific dates."
+  },
+  {
+    "question_id": 132,
+    "question_type": "SHORT",
+    "question": "What happens at the poles during an equinox?",
+    "answer": "The sun rises on one equinox and sets on the next equinox."
+  },
+  {
+    "question_id": 133,
+    "question_type": "SHORT",
+    "question": "What is the main factor that causes seasons?",
+    "answer": "The tilt of Earth's axis and its revolution around the sun. (Implied in polar day/night context)"
+  },
+  {
+    "question_id": 134,
+    "question_type": "SHORT",
+    "question": "What is the direction of sunrise?",
+    "answer": "East."
+  },
+  {
+    "question_id": 135,
+    "question_type": "SHORT",
+    "question": "What is the direction of sunset?",
+    "answer": "West."
+  },
+  {
+    "question_id": 136,
+    "question_type": "SHORT",
+    "question": "What is the time called when the sun is at its highest point?",
+    "answer": "Noon."
+  },
+  {
+    "question_id": 137,
+    "question_type": "SHORT",
+    "question": "What is the time called 12 hours after noon?",
+    "answer": "Midnight."
+  },
+  {
+    "question_id": 138,
+    "question_type": "SHORT",
+    "question": "What is the simplest natural indicator of time?",
+    "answer": "The position of the sun in the sky."
+  },
+  {
+    "question_id": 139,
+    "question_type": "SHORT",
+    "question": "What is the purpose of the activity with a pole in the kho-kho ground?",
+    "answer": "To observe how the length and direction of a shadow change with the sun's position."
+  },
+  {
+    "question_id": 140,
+    "question_type": "SHORT",
+    "question": "What is the name of the poem mentioned about a 'granny's clock'?",
+    "answer": "“Aajiche Ghadyal” by Shri Acharya Atre."
+  },
+  {
+    "question_id": 141,
+    "question_type": "SHORT",
+    "question": "What should you find out as an activity related to Earth's rotation?",
+    "answer": "The velocity of Earth's rotation in km/hour."
+  },
+  {
+    "question_id": 142,
+    "question_type": "SHORT",
+    "question": "What is the main theme of Chapter 1?",
+    "answer": "Local Time and Standard Time."
+  },
+  {
+    "question_id": 143,
+    "question_type": "SHORT",
+    "question": "What is the key takeaway about time and longitude?",
+    "answer": "Time varies with longitude, and standard time systems are created to manage this variation for practical purposes."
+  },
+  {
+    "question_id": 144,
+    "question_type": "SHORT",
+    "question": "How does Earth's rotation affect our daily schedule?",
+    "answer": "It creates the cycle of day and night, which forms the basis for our 24-hour daily routine."
+  },
+  {
+    "question_id": 145,
+    "question_type": "SHORT",
+    "question": "What would happen if Earth stopped rotating?",
+    "answer": "One side would have perpetual day and the other perpetual night, disrupting all time-based cycles."
+  },
+  {
+    "question_id": 146,
+    "question_type": "SHORT",
+    "question": "What is the difference between a time zone and a standard time?",
+    "answer": "A time zone is a region that observes a uniform standard time. Standard time is the specific time set for that zone/country."
+  },
+  {
+    "question_id": 147,
+    "question_type": "SHORT",
+    "question": "Why is the International Date Line not a straight line?",
+    "answer": "It is zigzagged to avoid splitting countries or island groups into two different days."
+  },
+  {
+    "question_id": 148,
+    "question_type": "SHORT",
+    "question": "What is one example of an ancient time-telling instrument?",
+    "answer": "The sand timer or hourglass."
+  },
+  {
+    "question_id": 149,
+    "question_type": "SHORT",
+    "question": "How does the chapter suggest we can 'make friends with maps'?",
+    "answer": "By using maps to understand time zones, longitudes, and the spatial relationship of time."
+  },
+  {
+    "question_id": 150,
+    "question_type": "SHORT",
+    "question": "What is the final message of the chapter regarding time?",
+    "answer": "That time is a human construct based on Earth's motions, and standardized systems are essential for global coordination."
+  }
+]
+}
