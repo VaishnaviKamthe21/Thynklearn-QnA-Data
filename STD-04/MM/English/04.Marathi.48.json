@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.48",
+    "standard": "4",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Circles 4"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the title of the activity on page 70?",
+      "options": [
+        { "option_id": 1, "text": "Circles 1", "is_correct": false },
+        { "option_id": 2, "text": "Circles 2", "is_correct": false },
+        { "option_id": 3, "text": "Circles 3", "is_correct": false },
+        { "option_id": 4, "text": "Circles 4", "is_correct": true }
+      ],
+      "answer": "Circles 4"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What kind of activity is this?",
+      "options": [
+        { "option_id": 1, "text": "Reading only", "is_correct": false },
+        { "option_id": 2, "text": "Listen, speak and use", "is_correct": true },
+        { "option_id": 3, "text": "Writing only", "is_correct": false },
+        { "option_id": 4, "text": "Drawing", "is_correct": false }
+      ],
+      "answer": "Listen, speak and use"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The questions in the activity are called ______.",
+      "options": [
+        { "option_id": 1, "text": "Exam questions", "is_correct": false },
+        { "option_id": 2, "text": "Chit-chat", "is_correct": true },
+        { "option_id": 3, "text": "Hard questions", "is_correct": false },
+        { "option_id": 4, "text": "Story questions", "is_correct": false }
+      ],
+      "answer": "Chit-chat"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which question asks about food?",
+      "options": [
+        { "option_id": 1, "text": "Who is your favourite player?", "is_correct": false },
+        { "option_id": 2, "text": "What's your favourite dish?", "is_correct": true },
+        { "option_id": 3, "text": "Where do you play?", "is_correct": false },
+        { "option_id": 4, "text": "How do you come to school?", "is_correct": false }
+      ],
+      "answer": "What's your favourite dish?"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which question asks about a person?",
+      "options": [
+        { "option_id": 1, "text": "What's your favourite dish?", "is_correct": false },
+        { "option_id": 2, "text": "Who is your favourite player?", "is_correct": true },
+        { "option_id": 3, "text": "When do you reach home?", "is_correct": false },
+        { "option_id": 4, "text": "Where do you play?", "is_correct": false }
+      ],
+      "answer": "Who is your favourite player?"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which question asks about time?",
+      "options": [
+        { "option_id": 1, "text": "Where do you play?", "is_correct": false },
+        { "option_id": 2, "text": "How do you come to school?", "is_correct": false },
+        { "option_id": 3, "text": "When do you reach home after school?", "is_correct": true },
+        { "option_id": 4, "text": "What are you good at?", "is_correct": false }
+      ],
+      "answer": "When do you reach home after school?"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which question asks about a location/place?",
+      "options": [
+        { "option_id": 1, "text": "Where do you play?", "is_correct": true },
+        { "option_id": 2, "text": "Who is your favourite player?", "is_correct": false },
+        { "option_id": 3, "text": "Which song do you like?", "is_correct": false },
+        { "option_id": 4, "text": "What's your favourite dish?", "is_correct": false }
+      ],
+      "answer": "Where do you play?"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which question asks about travel method?",
+      "options": [
+        { "option_id": 1, "text": "How do you come to school?", "is_correct": true },
+        { "option_id": 2, "text": "When do you reach home?", "is_correct": false },
+        { "option_id": 3, "text": "Where do you play?", "is_correct": false },
+        { "option_id": 4, "text": "Who is your favourite player?", "is_correct": false }
+      ],
+      "answer": "How do you come to school?"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which question asks about ability/skill?",
+      "options": [
+        { "option_id": 1, "text": "What are you good at?", "is_correct": true },
+        { "option_id": 2, "text": "Where do you play?", "is_correct": false },
+        { "option_id": 3, "text": "When do you reach home?", "is_correct": false },
+        { "option_id": 4, "text": "What's your favourite dish?", "is_correct": false }
+      ],
+      "answer": "What are you good at?"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which question word is used for 'dish'?",
+      "options": [
+        { "option_id": 1, "text": "Who", "is_correct": false },
+        { "option_id": 2, "text": "What", "is_correct": true },
+        { "option_id": 3, "text": "Where", "is_correct": false },
+        { "option_id": 4, "text": "When", "is_correct": false }
+      ],
+      "answer": "What"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which question word is used for 'player'?",
+      "options": [
+        { "option_id": 1, "text": "What", "is_correct": false },
+        { "option_id": 2, "text": "Who", "is_correct": true },
+        { "option_id": 3, "text": "Where", "is_correct": false },
+        { "option_id": 4, "text": "How", "is_correct": false }
+      ],
+      "answer": "Who"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which question word is used for 'time'?",
+      "options": [
+        { "option_id": 1, "text": "When", "is_correct": true },
+        { "option_id": 2, "text": "Where", "is_correct": false },
+        { "option_id": 3, "text": "Who", "is_correct": false },
+        { "option_id": 4, "text": "Which", "is_correct": false }
+      ],
+      "answer": "When"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which question word is used for 'place'?",
+      "options": [
+        { "option_id": 1, "text": "Where", "is_correct": true },
+        { "option_id": 2, "text": "When", "is_correct": false },
+        { "option_id": 3, "text": "How", "is_correct": false },
+        { "option_id": 4, "text": "Who", "is_correct": false }
+      ],
+      "answer": "Where"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does 'favourite' mean?",
+      "options": [
+        { "option_id": 1, "text": "Disliked", "is_correct": false },
+        { "option_id": 2, "text": "Liked the most", "is_correct": true },
+        { "option_id": 3, "text": "Bad", "is_correct": false },
+        { "option_id": 4, "text": "Unknown", "is_correct": false }
+      ],
+      "answer": "Liked the most"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "If you like Puran Poli, you are answering: ",
+      "options": [
+        { "option_id": 1, "text": "What's your favourite dish?", "is_correct": true },
+        { "option_id": 2, "text": "Who is your favourite player?", "is_correct": false },
+        { "option_id": 3, "text": "Where do you play?", "is_correct": false },
+        { "option_id": 4, "text": "How do you come to school?", "is_correct": false }
+      ],
+      "answer": "What's your favourite dish?"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "If you say 'Sachin Tendulkar', you are answering: ",
+      "options": [
+        { "option_id": 1, "text": "What's your favourite dish?", "is_correct": false },
+        { "option_id": 2, "text": "Who is your favourite player?", "is_correct": true },
+        { "option_id": 3, "text": "Which song do you like?", "is_correct": false },
+        { "option_id": 4, "text": "What are you good at?", "is_correct": false }
+      ],
+      "answer": "Who is your favourite player?"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "If you say 'By bus', you are answering: ",
+      "options": [
+        { "option_id": 1, "text": "When do you reach home?", "is_correct": false },
+        { "option_id": 2, "text": "How do you come to school?", "is_correct": true },
+        { "option_id": 3, "text": "Where do you play?", "is_correct": false },
+        { "option_id": 4, "text": "Which song do you like?", "is_correct": false }
+      ],
+      "answer": "How do you come to school?"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "If you say 'At 5 o'clock', you are answering: ",
+      "options": [
+        { "option_id": 1, "text": "Where do you play?", "is_correct": false },
+        { "option_id": 2, "text": "When do you reach home after school?", "is_correct": true },
+        { "option_id": 3, "text": "How do you come to school?", "is_correct": false },
+        { "option_id": 4, "text": "Who is your favourite player?", "is_correct": false }
+      ],
+      "answer": "When do you reach home after school?"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "If you say 'In the park', you are answering: ",
+      "options": [
+        { "option_id": 1, "text": "Where do you play?", "is_correct": true },
+        { "option_id": 2, "text": "When do you play?", "is_correct": false },
+        { "option_id": 3, "text": "Who plays with you?", "is_correct": false },
+        { "option_id": 4, "text": "How do you play?", "is_correct": false }
+      ],
+      "answer": "Where do you play?"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "If you say 'Drawing', you are answering: ",
+      "options": [
+        { "option_id": 1, "text": "What's your favourite dish?", "is_correct": false },
+        { "option_id": 2, "text": "What are you good at?", "is_correct": true },
+        { "option_id": 3, "text": "Where do you play?", "is_correct": false },
+        { "option_id": 4, "text": "When do you reach home?", "is_correct": false }
+      ],
+      "answer": "What are you good at?"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the spelling of 'favourite' used in the book?",
+      "options": [
+        { "option_id": 1, "text": "Favorite", "is_correct": false },
+        { "option_id": 2, "text": "Favourite", "is_correct": true },
+        { "option_id": 3, "text": "Faivorite", "is_correct": false },
+        { "option_id": 4, "text": "Favrite", "is_correct": false }
+      ],
+      "answer": "Favourite"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How many main questions are listed in the 'Chit-chat' section?",
+      "options": [
+        { "option_id": 1, "text": "Five", "is_correct": false },
+        { "option_id": 2, "text": "Six", "is_correct": false },
+        { "option_id": 3, "text": "Seven", "is_correct": true },
+        { "option_id": 4, "text": "Eight", "is_correct": false }
+      ],
+      "answer": "Seven"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What activity should the students do after asking questions?",
+      "options": [
+        { "option_id": 1, "text": "Sleep", "is_correct": false },
+        { "option_id": 2, "text": "Take down the answers and present them", "is_correct": true },
+        { "option_id": 3, "text": "Run away", "is_correct": false },
+        { "option_id": 4, "text": "Draw a picture", "is_correct": false }
+      ],
+      "answer": "Take down the answers and present them"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who conducts this activity?",
+      "options": [
+        { "option_id": 1, "text": "The teacher (instruction given)", "is_correct": true },
+        { "option_id": 2, "text": "The principal", "is_correct": false },
+        { "option_id": 3, "text": "Parents", "is_correct": false },
+        { "option_id": 4, "text": "Police", "is_correct": false }
+      ],
+      "answer": "The teacher (instruction given)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'dish' in this context?",
+      "options": [
+        { "option_id": 1, "text": "A plate", "is_correct": false },
+        { "option_id": 2, "text": "A food item", "is_correct": true },
+        { "option_id": 3, "text": "A TV antenna", "is_correct": false },
+        { "option_id": 4, "text": "A bowl", "is_correct": false }
+      ],
+      "answer": "A food item"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of these is a song?",
+      "options": [
+        { "option_id": 1, "text": "Cricket", "is_correct": false },
+        { "option_id": 2, "text": "Jana Gana Mana", "is_correct": true },
+        { "option_id": 3, "text": "Pizza", "is_correct": false },
+        { "option_id": 4, "text": "School", "is_correct": false }
+      ],
+      "answer": "Jana Gana Mana"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What unit is this chapter from?",
+      "options": [
+        { "option_id": 1, "text": "Unit Four", "is_correct": false },
+        { "option_id": 2, "text": "Unit Five", "is_correct": true },
+        { "option_id": 3, "text": "Unit Six", "is_correct": false },
+        { "option_id": 4, "text": "Unit One", "is_correct": false }
+      ],
+      "answer": "Unit Five"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "How many circles should be formed according to previous 'Circles' activities?",
+      "options": [
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two (Inner and Outer)", "is_correct": true },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "Four", "is_correct": false }
+      ],
+      "answer": "Two (Inner and Outer)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'school' is:",
+      "options": [
+        { "option_id": 1, "text": "Scool", "is_correct": false },
+        { "option_id": 2, "text": "School", "is_correct": true },
+        { "option_id": 3, "text": "Skool", "is_correct": false },
+        { "option_id": 4, "text": "Schul", "is_correct": false }
+      ],
+      "answer": "School"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'reach' is:",
+      "options": [
+        { "option_id": 1, "text": "Reech", "is_correct": false },
+        { "option_id": 2, "text": "Reach", "is_correct": true },
+        { "option_id": 3, "text": "Rich", "is_correct": false },
+        { "option_id": 4, "text": "Retch", "is_correct": false }
+      ],
+      "answer": "Reach"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'song' is:",
+      "options": [
+        { "option_id": 1, "text": "Sang", "is_correct": false },
+        { "option_id": 2, "text": "Song", "is_correct": true },
+        { "option_id": 3, "text": "Sung", "is_correct": false },
+        { "option_id": 4, "text": "Seng", "is_correct": false }
+      ],
+      "answer": "Song"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "'How' is used to ask about ______.",
+      "options": [
+        { "option_id": 1, "text": "Time", "is_correct": false },
+        { "option_id": 2, "text": "Method / Way", "is_correct": true },
+        { "option_id": 3, "text": "Place", "is_correct": false },
+        { "option_id": 4, "text": "Person", "is_correct": false }
+      ],
+      "answer": "Method / Way"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "'Which' is used to ask about ______.",
+      "options": [
+        { "option_id": 1, "text": "Choice", "is_correct": true },
+        { "option_id": 2, "text": "Time", "is_correct": false },
+        { "option_id": 3, "text": "Reason", "is_correct": false },
+        { "option_id": 4, "text": "Place", "is_correct": false }
+      ],
+      "answer": "Choice"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What are you good at? means:",
+      "options": [
+        { "option_id": 1, "text": "What are you bad at?", "is_correct": false },
+        { "option_id": 2, "text": "What do you do well?", "is_correct": true },
+        { "option_id": 3, "text": "What do you like to eat?", "is_correct": false },
+        { "option_id": 4, "text": "Where do you go?", "is_correct": false }
+      ],
+      "answer": "What do you do well?"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "If you say 'Singing', you are good at:",
+      "options": [
+        { "option_id": 1, "text": "Playing", "is_correct": false },
+        { "option_id": 2, "text": "Singing", "is_correct": true },
+        { "option_id": 3, "text": "Dancing", "is_correct": false },
+        { "option_id": 4, "text": "Reading", "is_correct": false }
+      ],
+      "answer": "Singing"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "If you say 'On foot', you are answering how you come to:",
+      "options": [
+        { "option_id": 1, "text": "School", "is_correct": true },
+        { "option_id": 2, "text": "Sleep", "is_correct": false },
+        { "option_id": 3, "text": "Eat", "is_correct": false },
+        { "option_id": 4, "text": "Sing", "is_correct": false }
+      ],
+      "answer": "School"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "This activity helps students to:",
+      "options": [
+        { "option_id": 1, "text": "Fight", "is_correct": false },
+        { "option_id": 2, "text": "Sleep", "is_correct": false },
+        { "option_id": 3, "text": "Converse / Talk in English", "is_correct": true },
+        { "option_id": 4, "text": "Run", "is_correct": false }
+      ],
+      "answer": "Converse / Talk in English"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "The questions are about ______.",
+      "options": [
+        { "option_id": 1, "text": "Strangers", "is_correct": false },
+        { "option_id": 2, "text": "Yourself (The student)", "is_correct": true },
+        { "option_id": 3, "text": "Animals", "is_correct": false },
+        { "option_id": 4, "text": "History", "is_correct": false }
+      ],
+      "answer": "Yourself (The student)"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Can you have more than one favourite dish?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Only one allowed", "is_correct": false },
+        { "option_id": 4, "text": "None allowed", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Is 'Kabaddi' a player?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": false },
+        { "option_id": 2, "text": "No, it's a game", "is_correct": true },
+        { "option_id": 3, "text": "It's a dish", "is_correct": false },
+        { "option_id": 4, "text": "It's a song", "is_correct": false }
+      ],
+      "answer": "No, it's a game"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What comes after 'Listen' in the instruction?",
+      "options": [
+        { "option_id": 1, "text": "Read", "is_correct": false },
+        { "option_id": 2, "text": "Speak and use", "is_correct": true },
+        { "option_id": 3, "text": "Sleep", "is_correct": false },
+        { "option_id": 4, "text": "Write", "is_correct": false }
+      ],
+      "answer": "Speak and use"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "When presenting answers, you should speak to the ______.",
+      "options": [
+        { "option_id": 1, "text": "Classroom", "is_correct": true },
+        { "option_id": 2, "text": "Wall", "is_correct": false },
+        { "option_id": 3, "text": "Floor", "is_correct": false },
+        { "option_id": 4, "text": "Sky", "is_correct": false }
+      ],
+      "answer": "Classroom"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which of these is a player?",
+      "options": [
+        { "option_id": 1, "text": "Virat Kohli", "is_correct": true },
+        { "option_id": 2, "text": "Gulab Jamun", "is_correct": false },
+        { "option_id": 3, "text": "Bus", "is_correct": false },
+        { "option_id": 4, "text": "School", "is_correct": false }
+      ],
+      "answer": "Virat Kohli"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which of these is a dish?",
+      "options": [
+        { "option_id": 1, "text": "Football", "is_correct": false },
+        { "option_id": 2, "text": "Idli", "is_correct": true },
+        { "option_id": 3, "text": "Auto Rickshaw", "is_correct": false },
+        { "option_id": 4, "text": "Park", "is_correct": false }
+      ],
+      "answer": "Idli"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which of these is a place to play?",
+      "options": [
+        { "option_id": 1, "text": "Playground", "is_correct": true },
+        { "option_id": 2, "text": "Kitchen", "is_correct": false },
+        { "option_id": 3, "text": "Bathroom", "is_correct": false },
+        { "option_id": 4, "text": "Library", "is_correct": false }
+      ],
+      "answer": "Playground"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which of these is a mode of transport?",
+      "options": [
+        { "option_id": 1, "text": "Cycle", "is_correct": true },
+        { "option_id": 2, "text": "Ball", "is_correct": false },
+        { "option_id": 3, "text": "Pen", "is_correct": false },
+        { "option_id": 4, "text": "Book", "is_correct": false }
+      ],
+      "answer": "Cycle"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which of these is a skill?",
+      "options": [
+        { "option_id": 1, "text": "Dancing", "is_correct": true },
+        { "option_id": 2, "text": "Chair", "is_correct": false },
+        { "option_id": 3, "text": "Table", "is_correct": false },
+        { "option_id": 4, "text": "Fan", "is_correct": false }
+      ],
+      "answer": "Dancing"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the Marathi meaning of 'favourite'?",
+      "options": [
+        { "option_id": 1, "text": "नावडता", "is_correct": false },
+        { "option_id": 2, "text": "आवडता", "is_correct": true },
+        { "option_id": 3, "text": "वाईट", "is_correct": false },
+        { "option_id": 4, "text": "चांगला", "is_correct": false }
+      ],
+      "answer": "आवडता"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What is the Marathi meaning of 'player'?",
+      "options": [
+        { "option_id": 1, "text": "खेळाडू", "is_correct": true },
+        { "option_id": 2, "text": "गायक", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 4, "text": "शेतकरी", "is_correct": false }
+      ],
+      "answer": "खेळाडू"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the Marathi meaning of 'song'?",
+      "options": [
+        { "option_id": 1, "text": "गोष्ट", "is_correct": false },
+        { "option_id": 2, "text": "गाणे", "is_correct": true },
+        { "option_id": 3, "text": "कविता", "is_correct": false },
+        { "option_id": 4, "text": "धडा", "is_correct": false }
+      ],
+      "answer": "गाणे"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the first question in the chit-chat?",
+      "answer": "What's your favourite dish?"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the second question?",
+      "answer": "Who is your favourite player?"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the third question?",
+      "answer": "Which song do you like to sing?"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is the fourth question?",
+      "answer": "How do you come to school?"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the fifth question?",
+      "answer": "When do you reach home after school?"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the sixth question?",
+      "answer": "Where do you play?"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the seventh question?",
+      "answer": "What are you good at?"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Answer: What's your favourite dish?",
+      "answer": "My favourite dish is Puran Poli (Answer will vary)."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Answer: Who is your favourite player?",
+      "answer": "My favourite player is Sachin Tendulkar (Answer will vary)."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Answer: How do you come to school?",
+      "answer": "I come to school by bus (or walking/cycle)."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Answer: When do you reach home after school?",
+      "answer": "I reach home at 5:30 PM (Answer will vary)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Answer: Where do you play?",
+      "answer": "I play in the park (or on the ground)."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Answer: What are you good at?",
+      "answer": "I am good at drawing (or running/singing)."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Identify the question word for 'time'.",
+      "answer": "When."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Identify the question word for 'person'.",
+      "answer": "Who."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Identify the question word for 'place'.",
+      "answer": "Where."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Identify the question word for 'method/manner'.",
+      "answer": "How."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Identify the question word for 'choice'.",
+      "answer": "Which (or What)."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'favourite'.",
+      "answer": "F-A-V-O-U-R-I-T-E."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'player'.",
+      "answer": "P-L-A-Y-E-R."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'school'.",
+      "answer": "S-C-H-O-O-L."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'reach'.",
+      "answer": "R-E-A-C-H."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the purpose of this activity?",
+      "answer": "To practise English conversation/questions and answers."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What should be done with the answers?",
+      "answer": "Take them down and present them in the classroom."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Who is the 'favourite player' usually?",
+      "answer": "A sportsperson."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Name two ways to come to school.",
+      "answer": "Walking, By bus."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Name two places you can play.",
+      "answer": "Playground, Garden."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Name two things you can be good at.",
+      "answer": "Singing, Dancing."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Name two favourite dishes.",
+      "answer": "Pizza, Dosa."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What unit is this chapter in?",
+      "answer": "Unit Five."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Is this activity for one person or a group?",
+      "answer": "A group (circles)."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the title of the page?",
+      "answer": "Circles 4."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What punctuation mark is used at the end of these sentences?",
+      "answer": "Question mark (?)."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Make a question using 'Where'.",
+      "answer": "Where do you live?"
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Make a question using 'When'.",
+      "answer": "When do you wake up?"
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Make a question using 'Who'.",
+      "answer": "Who is your best friend?"
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Make a question using 'What'.",
+      "answer": "What is your name?"
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Make a question using 'How'.",
+      "answer": "How are you?"
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What does 'take down' mean?",
+      "answer": "To write down."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Who guides the students?",
+      "answer": "The Teacher."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "If you play cricket, where do you play it?",
+      "answer": "On the cricket ground."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "If you like 'Jana Gana Mana', what kind of song is it?",
+      "answer": "National Anthem."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the Marathi word for 'dish' (food)?",
+      "answer": "पदार्थ (Padartha) / जेवण (Jevan)."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the Marathi word for 'song'?",
+      "answer": "गाणे (Gane)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the Marathi word for 'school'?",
+      "answer": "शाळा (Shala)."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is the Marathi word for 'home'?",
+      "answer": "घर (Ghar)."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the Marathi word for 'player'?",
+      "answer": "खेळाडू (Kheladu)."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Can you ask these questions to your parents?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Can you ask these questions to your teacher?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the short form of 'What is'?",
+      "answer": "What's."
+    }
+  ]
+}

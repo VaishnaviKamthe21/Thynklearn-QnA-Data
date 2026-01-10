@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.22",
+    "standard": "4",
+    "subject": "परिसर अभ्यास (भाग १)",
+    "medium": "Marathi",
+    "chapter_name": "वाहतूक व संदेशवहन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "माणसाने सुरुवातीला ओझे वाहण्यासाठी कशाचा वापर केला?",
+      "options": [
+        { "option_id": 1, "text": "लाकडी ओंडके आणि गोलाकार दगड", "is_correct": true },
+        { "option_id": 2, "text": "लोखंडी चाके", "is_correct": false },
+        { "option_id": 3, "text": "प्लॅस्टिकच्या पिशव्या", "is_correct": false },
+        { "option_id": 4, "text": "गाड्या", "is_correct": false }
+      ],
+      "answer": "लाकडी ओंडके आणि गोलाकार दगड"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "जुन्या काळातील वाहतुकीच्या साधनांच्या तुलनेत आताची साधने कशी आहेत?",
+      "options": [
+        { "option_id": 1, "text": "संथ", "is_correct": false },
+        { "option_id": 2, "text": "जास्त वेगवान आणि सुरक्षित", "is_correct": true },
+        { "option_id": 3, "text": "कमी सुरक्षित", "is_correct": false },
+        { "option_id": 4, "text": "अस्वच्छ", "is_correct": false }
+      ],
+      "answer": "जास्त वेगवान आणि सुरक्षित"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वाहतुकीच्या सोयींमुळे कशाची बचत होते?",
+      "options": [
+        { "option_id": 1, "text": "वेळ आणि श्रम", "is_correct": true },
+        { "option_id": 2, "text": "फक्त पाण्याची", "is_correct": false },
+        { "option_id": 3, "text": "फक्त जागेची", "is_correct": false },
+        { "option_id": 4, "text": "अन्नाची", "is_correct": false }
+      ],
+      "answer": "वेळ आणि श्रम"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "जगातील विविध प्रदेश कशामुळे एकमेकांशी जोडले गेले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "नद्यांमुळे", "is_correct": false },
+        { "option_id": 2, "text": "वाहतुकीच्या सोयींमुळे", "is_correct": true },
+        { "option_id": 3, "text": "डोंगरांमुळे", "is_correct": false },
+        { "option_id": 4, "text": "झाडांमुळे", "is_correct": false }
+      ],
+      "answer": "वाहतुकीच्या सोयींमुळे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या इंधनाच्या ज्वलनातून काय बाहेर पडते?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "धूर आणि विषारी वायू", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "सुगंध", "is_correct": false }
+      ],
+      "answer": "धूर आणि विषारी वायू"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "धुरामुळे प्रामुख्याने कशाचे विकार होतात?",
+      "options": [
+        { "option_id": 1, "text": "पोटाचे", "is_correct": false },
+        { "option_id": 2, "text": "फुप्फुसाचे आणि डोळ्यांचे", "is_correct": true },
+        { "option_id": 3, "text": "पायाचे", "is_correct": false },
+        { "option_id": 4, "text": "हाताचे", "is_correct": false }
+      ],
+      "answer": "फुप्फुसाचे आणि डोळ्यांचे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "झाडांची पाने करपण्याचे कारण काय असू शकते?",
+      "options": [
+        { "option_id": 1, "text": "पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "प्रदूषण", "is_correct": true },
+        { "option_id": 3, "text": "खत", "is_correct": false },
+        { "option_id": 4, "text": "सूर्यप्रकाश", "is_correct": false }
+      ],
+      "answer": "प्रदूषण"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वाहतुकीमुळे हवेच्या प्रदूषणासोबत आणखी कोणते प्रदूषण होते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याचे", "is_correct": false },
+        { "option_id": 2, "text": "आवाजाचे (ध्वनी प्रदूषण)", "is_correct": true },
+        { "option_id": 3, "text": "मातीचे", "is_correct": false },
+        { "option_id": 4, "text": "अन्नाचे", "is_correct": false }
+      ],
+      "answer": "आवाजाचे (ध्वनी प्रदूषण)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "घराच्या जवळच्या अंतरावर जाण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "गाडी वापरावी", "is_correct": false },
+        { "option_id": 2, "text": "पायी जावे", "is_correct": true },
+        { "option_id": 3, "text": "विमानाने जावे", "is_correct": false },
+        { "option_id": 4, "text": "घोडागाडीने जावे", "is_correct": false }
+      ],
+      "answer": "पायी जावे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "थोडे दूर अंतरावर जाण्यासाठी कशाचा वापर करणे योग्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोटारकार", "is_correct": false },
+        { "option_id": 2, "text": "सायकल", "is_correct": true },
+        { "option_id": 3, "text": "ट्रक", "is_correct": false },
+        { "option_id": 4, "text": "हेलिकॉप्टर", "is_correct": false }
+      ],
+      "answer": "सायकल"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "प्रदूषण कमी करण्यासाठी कोणती झाडे लावावीत?",
+      "options": [
+        { "option_id": 1, "text": "वड, पिंपळ, कडुनिंब", "is_correct": true },
+        { "option_id": 2, "text": "फक्त शोभेची झाडे", "is_correct": false },
+        { "option_id": 3, "text": "लहान झुडपे", "is_correct": false },
+        { "option_id": 4, "text": "गवत", "is_correct": false }
+      ],
+      "answer": "वड, पिंपळ, कडुनिंब"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचे कोणते साधन प्रदूषण करत नाही?",
+      "options": [
+        { "option_id": 1, "text": "मोटारसायकल", "is_correct": false },
+        { "option_id": 2, "text": "सायकल", "is_correct": true },
+        { "option_id": 3, "text": "बस", "is_correct": false },
+        { "option_id": 4, "text": "रिक्षा", "is_correct": false }
+      ],
+      "answer": "सायकल"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सीएनजी (CNG) आणि एलपीजी (LPG) ही कशाची उदाहरणे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "प्रदूषण न करणाऱ्या इंधनांची", "is_correct": true },
+        { "option_id": 2, "text": "पाण्याची", "is_correct": false },
+        { "option_id": 3, "text": "धुराची", "is_correct": false },
+        { "option_id": 4, "text": "धातूंची", "is_correct": false }
+      ],
+      "answer": "प्रदूषण न करणाऱ्या इंधनांची"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "संदेशवहन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "वाहतूक करणे", "is_correct": false },
+        { "option_id": 2, "text": "माहितीची देवाणघेवाण करणे", "is_correct": true },
+        { "option_id": 3, "text": "जेवण बनवणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळ खेळणे", "is_correct": false }
+      ],
+      "answer": "माहितीची देवाणघेवाण करणे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पूर्वीच्या काळी संदेश पाठवण्यासाठी कोणाचा वापर केला जात असे?",
+      "options": [
+        { "option_id": 1, "text": "कबुतरे", "is_correct": true },
+        { "option_id": 2, "text": "कावळे", "is_correct": false },
+        { "option_id": 3, "text": "चिमण्या", "is_correct": false },
+        { "option_id": 4, "text": "पोपट", "is_correct": false }
+      ],
+      "answer": "कबुतरे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "आधुनिक काळात संदेशवहनासाठी कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "दगडांचा", "is_correct": false },
+        { "option_id": 2, "text": "इंटरनेट आणि मोबाईलचा", "is_correct": true },
+        { "option_id": 3, "text": "धुराचा", "is_correct": false },
+        { "option_id": 4, "text": "ढोलाचा", "is_correct": false }
+      ],
+      "answer": "इंटरनेट आणि मोबाईलचा"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मनोरंजनासाठी कोणते साधन वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "विमान", "is_correct": false },
+        { "option_id": 2, "text": "रेडिओ आणि टीव्ही", "is_correct": true },
+        { "option_id": 3, "text": "ट्रॅक्टर", "is_correct": false },
+        { "option_id": 4, "text": "सायकल", "is_correct": false }
+      ],
+      "answer": "रेडिओ आणि टीव्ही"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "मासे, कोळंबी, खेकडे हे कशातून मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "जमिनीतून", "is_correct": false },
+        { "option_id": 2, "text": "पाण्यातून (नदी/समुद्र)", "is_correct": true },
+        { "option_id": 3, "text": "हवेतून", "is_correct": false },
+        { "option_id": 4, "text": "झाडावरून", "is_correct": false }
+      ],
+      "answer": "पाण्यातून (नदी/समुद्र)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "अवकाशात सोडलेल्या उपग्रहांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "नैसर्गिक उपग्रह", "is_correct": false },
+        { "option_id": 2, "text": "कृत्रिम उपग्रह", "is_correct": true },
+        { "option_id": 3, "text": "ग्रह", "is_correct": false },
+        { "option_id": 4, "text": "तारे", "is_correct": false }
+      ],
+      "answer": "कृत्रिम उपग्रह"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कृत्रिम उपग्रहांचा उपयोग कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "संदेशवहनासाठी", "is_correct": true },
+        { "option_id": 2, "text": "पाऊस पाडण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "हवा करण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "प्रकाश देण्यासाठी", "is_correct": false }
+      ],
+      "answer": "संदेशवहनासाठी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते साधन संदेशवहनाचे नाही?",
+      "options": [
+        { "option_id": 1, "text": "दूरध्वनी (Telephone)", "is_correct": false },
+        { "option_id": 2, "text": "भ्रमणध्वनी (Mobile)", "is_correct": false },
+        { "option_id": 3, "text": "संगणक (Computer)", "is_correct": false },
+        { "option_id": 4, "text": "बैलगाडी", "is_correct": true }
+      ],
+      "answer": "बैलगाडी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "वाहतुकीमुळे काय सुलभ झाले आहे?",
+      "options": [
+        { "option_id": 1, "text": "व्यापार आणि दळणवळण", "is_correct": true },
+        { "option_id": 2, "text": "झोपणे", "is_correct": false },
+        { "option_id": 3, "text": "जेवणे", "is_correct": false },
+        { "option_id": 4, "text": "खेळणे", "is_correct": false }
+      ],
+      "answer": "व्यापार आणि दळणवळण"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "मोठ्या शहरांमध्ये प्रदूषणाची समस्या का वाढली आहे?",
+      "options": [
+        { "option_id": 1, "text": "झाडे जास्त असल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "वाहनांच्या वाढत्या संख्येमुळे", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस पडल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "शाळा असल्यामुळे", "is_correct": false }
+      ],
+      "answer": "वाहनांच्या वाढत्या संख्येमुळे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "खाजगी वाहनांचा वापर कमी केल्यास काय होईल?",
+      "options": [
+        { "option_id": 1, "text": "प्रदूषण वाढेल", "is_correct": false },
+        { "option_id": 2, "text": "इंधन आणि पैशांची बचत होईल", "is_correct": true },
+        { "option_id": 3, "text": "वेळ वाया जाईल", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होणार नाही", "is_correct": false }
+      ],
+      "answer": "इंधन आणि पैशांची बचत होईल"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कोणता प्राणी वाहतुकीसाठी वापरला जातो?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "उंट", "is_correct": true },
+        { "option_id": 3, "text": "माकड", "is_correct": false },
+        { "option_id": 4, "text": "सिंह", "is_correct": false }
+      ],
+      "answer": "उंट"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "जलवाहतुकीसाठी कोणते साधन वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "बस", "is_correct": false },
+        { "option_id": 2, "text": "जहाज किंवा नाव", "is_correct": true },
+        { "option_id": 3, "text": "रेल्वे", "is_correct": false },
+        { "option_id": 4, "text": "विमान", "is_correct": false }
+      ],
+      "answer": "जहाज किंवा नाव"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "हवाई वाहतुकीसाठी कोणते साधन वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "ट्रक", "is_correct": false },
+        { "option_id": 2, "text": "विमान", "is_correct": true },
+        { "option_id": 3, "text": "बैलगाडी", "is_correct": false },
+        { "option_id": 4, "text": "बोट", "is_correct": false }
+      ],
+      "answer": "विमान"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "भारतात सुरुवातीला संदेशवहनासाठी कोणाचा वापर केला गेला?",
+      "options": [
+        { "option_id": 1, "text": "हरकारा (दूत)", "is_correct": true },
+        { "option_id": 2, "text": "रोबो", "is_correct": false },
+        { "option_id": 3, "text": "संगणक", "is_correct": false },
+        { "option_id": 4, "text": "टॅबलेट", "is_correct": false }
+      ],
+      "answer": "हरकारा (दूत)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "वर्तमानपत्र हे कशाचे साधन आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाहतुकीचे", "is_correct": false },
+        { "option_id": 2, "text": "संदेशवहनाचे (माहिती प्रसारणाचे)", "is_correct": true },
+        { "option_id": 3, "text": "खेळाचे", "is_correct": false },
+        { "option_id": 4, "text": "शेतीचे", "is_correct": false }
+      ],
+      "answer": "संदेशवहनाचे (माहिती प्रसारणाचे)"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "वाहनांचे हॉर्न सतत वाजवल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "हवेचे प्रदूषण", "is_correct": false },
+        { "option_id": 2, "text": "ध्वनी प्रदूषण", "is_correct": true },
+        { "option_id": 3, "text": "पाण्याचे प्रदूषण", "is_correct": false },
+        { "option_id": 4, "text": "शांतता", "is_correct": false }
+      ],
+      "answer": "ध्वनी प्रदूषण"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "मोठ्या आवाजामुळे काय त्रास होतो?",
+      "options": [
+        { "option_id": 1, "text": "डोकेदुखी, चिडचिड आणि बहिरेपणा", "is_correct": true },
+        { "option_id": 2, "text": "भूक लागते", "is_correct": false },
+        { "option_id": 3, "text": "झोप येते", "is_correct": false },
+        { "option_id": 4, "text": "आनंद होतो", "is_correct": false }
+      ],
+      "answer": "डोकेदुखी, चिडचिड आणि बहिरेपणा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "सार्वजनिक वाहतुकीचा वापर केल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "गर्दी वाढते", "is_correct": false },
+        { "option_id": 2, "text": "इंधन व पैशांची बचत होते", "is_correct": true },
+        { "option_id": 3, "text": "प्रदूषण वाढते", "is_correct": false },
+        { "option_id": 4, "text": "रस्ते खराब होतात", "is_correct": false }
+      ],
+      "answer": "इंधन व पैशांची बचत होते"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "वाहनांची निगा राखल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "इंधन जास्त लागते", "is_correct": false },
+        { "option_id": 2, "text": "इंधन बचत होते आणि प्रदूषण कमी होते", "is_correct": true },
+        { "option_id": 3, "text": "गाडी खराब होते", "is_correct": false },
+        { "option_id": 4, "text": "आवाज वाढतो", "is_correct": false }
+      ],
+      "answer": "इंधन बचत होते आणि प्रदूषण कमी होते"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पालखी हे कशाचे साधन आहे?",
+      "options": [
+        { "option_id": 1, "text": "जुन्या काळातील वाहतुकीचे", "is_correct": true },
+        { "option_id": 2, "text": "आधुनिक वाहतुकीचे", "is_correct": false },
+        { "option_id": 3, "text": "पाण्यातील वाहतुकीचे", "is_correct": false },
+        { "option_id": 4, "text": "संदेशवहनाचे", "is_correct": false }
+      ],
+      "answer": "जुन्या काळातील वाहतुकीचे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते साधन सर्वात वेगवान आहे?",
+      "options": [
+        { "option_id": 1, "text": "बैलगाडी", "is_correct": false },
+        { "option_id": 2, "text": "सायकल", "is_correct": false },
+        { "option_id": 3, "text": "विमान", "is_correct": true },
+        { "option_id": 4, "text": "जहाज", "is_correct": false }
+      ],
+      "answer": "विमान"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "माहितीच्या देवाणघेवाणीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वाहतूक", "is_correct": false },
+        { "option_id": 2, "text": "संदेशवहन", "is_correct": true },
+        { "option_id": 3, "text": "पर्यटन", "is_correct": false },
+        { "option_id": 4, "text": "उद्योग", "is_correct": false }
+      ],
+      "answer": "संदेशवहन"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "दूरचित्रवाणी (Television) संच कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त गाणी ऐकण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "मनोरंजन आणि माहितीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "कपडे धुण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "जेवण बनवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "मनोरंजन आणि माहितीसाठी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "वाहतुकीच्या सोयीमुळे कशाचा विकास झाला आहे?",
+      "options": [
+        { "option_id": 1, "text": "पर्यावरणाचा", "is_correct": false },
+        { "option_id": 2, "text": "व्यापार आणि उद्योगांचा", "is_correct": true },
+        { "option_id": 3, "text": "फक्त शाळांचा", "is_correct": false },
+        { "option_id": 4, "text": "प्राण्यांचा", "is_correct": false }
+      ],
+      "answer": "व्यापार आणि उद्योगांचा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "रस्त्यावरील वाहतुकीची कोंडी झाल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "हवेचे आणि आवाजाचे प्रदूषण वाढते", "is_correct": true },
+        { "option_id": 2, "text": "हवा शुद्ध होते", "is_correct": false },
+        { "option_id": 3, "text": "शांतता मिळते", "is_correct": false },
+        { "option_id": 4, "text": "इंधन वाचते", "is_correct": false }
+      ],
+      "answer": "हवेचे आणि आवाजाचे प्रदूषण वाढते"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "जैवविविधता म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "फक्त माणसांची विविधता", "is_correct": false },
+        { "option_id": 2, "text": "परिसरातील विविध प्रकारचे सजीव (वनस्पती व प्राणी)", "is_correct": true },
+        { "option_id": 3, "text": "वाहनांची विविधता", "is_correct": false },
+        { "option_id": 4, "text": "इमारतींची विविधता", "is_correct": false }
+      ],
+      "answer": "परिसरातील विविध प्रकारचे सजीव (वनस्पती व प्राणी)"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "वाहतुकीच्या कोणत्या साधनामुळे जगातील कोपऱ्यातही पटकन पोहोचता येते?",
+      "options": [
+        { "option_id": 1, "text": "बैलगाडी", "is_correct": false },
+        { "option_id": 2, "text": "विमान", "is_correct": true },
+        { "option_id": 3, "text": "सायकल", "is_correct": false },
+        { "option_id": 4, "text": "घोडा", "is_correct": false }
+      ],
+      "answer": "विमान"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "कोणता उपाय प्रदूषण कमी करण्यास मदत करतो?",
+      "options": [
+        { "option_id": 1, "text": "जुनी वाहने वापरणे", "is_correct": false },
+        { "option_id": 2, "text": "वेळोवेळी वाहनांची दुरुस्ती करणे", "is_correct": true },
+        { "option_id": 3, "text": "खूप हॉर्न वाजवणे", "is_correct": false },
+        { "option_id": 4, "text": "झाडे तोडणे", "is_correct": false }
+      ],
+      "answer": "वेळोवेळी वाहनांची दुरुस्ती करणे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "आपल्या देशातून परदेशात माल पाठवण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "बैलगाडी", "is_correct": false },
+        { "option_id": 2, "text": "जहाज आणि विमान", "is_correct": true },
+        { "option_id": 3, "text": "रिक्षा", "is_correct": false },
+        { "option_id": 4, "text": "सायकल", "is_correct": false }
+      ],
+      "answer": "जहाज आणि विमान"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी नैसर्गिक संदेशवहन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "मोबाईलवर बोलणे", "is_correct": false },
+        { "option_id": 2, "text": "एकमेकांशी प्रत्यक्ष बोलणे", "is_correct": true },
+        { "option_id": 3, "text": "ई-मेल पाठवणे", "is_correct": false },
+        { "option_id": 4, "text": "टीव्ही पाहणे", "is_correct": false }
+      ],
+      "answer": "एकमेकांशी प्रत्यक्ष बोलणे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "वाहतुकीमुळे कोणता फायदा होतो?",
+      "options": [
+        { "option_id": 1, "text": "कामांची गती वाढते", "is_correct": true },
+        { "option_id": 2, "text": "प्रदूषण कमी होते", "is_correct": false },
+        { "option_id": 3, "text": "लोकसंख्या कमी होते", "is_correct": false },
+        { "option_id": 4, "text": "झाडे वाढतात", "is_correct": false }
+      ],
+      "answer": "कामांची गती वाढते"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते साधन इंधनावर चालत नाही?",
+      "options": [
+        { "option_id": 1, "text": "मोटारसायकल", "is_correct": false },
+        { "option_id": 2, "text": "सायकल", "is_correct": true },
+        { "option_id": 3, "text": "कार", "is_correct": false },
+        { "option_id": 4, "text": "बस", "is_correct": false }
+      ],
+      "answer": "सायकल"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "माणसाने चाकाचा शोध लावल्यामुळे काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "वाहतूक वेगवान झाली", "is_correct": true },
+        { "option_id": 2, "text": "वाहतूक थांबली", "is_correct": false },
+        { "option_id": 3, "text": "वाहतूक महाग झाली", "is_correct": false },
+        { "option_id": 4, "text": "काहीच फरक पडला नाही", "is_correct": false }
+      ],
+      "answer": "वाहतूक वेगवान झाली"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "संगणकाचा वापर कशासाठी केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त खेळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "माहितीची देवाणघेवाण आणि साठवणूक करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "जेवण बनवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "कपडे धुण्यासाठी", "is_correct": false }
+      ],
+      "answer": "माहितीची देवाणघेवाण आणि साठवणूक करण्यासाठी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "प्रदूषणाचे दुष्परिणाम कोणावर होतात?",
+      "options": [
+        { "option_id": 1, "text": "केवळ माणसांवर", "is_correct": false },
+        { "option_id": 2, "text": "माणसांवर, प्राण्यांवर आणि वनस्पतींवर", "is_correct": true },
+        { "option_id": 3, "text": "केवळ गाड्यांवर", "is_correct": false },
+        { "option_id": 4, "text": "केवळ इमारतींवर", "is_correct": false }
+      ],
+      "answer": "माणसांवर, प्राण्यांवर आणि वनस्पतींवर"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "वाहतुकीची साधने वापरताना आपण काय भान ठेवले पाहिजे?",
+      "options": [
+        { "option_id": 1, "text": "पर्यावरणाचे रक्षण करण्याचे", "is_correct": true },
+        { "option_id": 2, "text": "वेगात गाडी चालवण्याचे", "is_correct": false },
+        { "option_id": 3, "text": "फक्त स्वतःच्या सोयीचे", "is_correct": false },
+        { "option_id": 4, "text": "हॉर्न वाजवण्याचे", "is_correct": false }
+      ],
+      "answer": "पर्यावरणाचे रक्षण करण्याचे"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वाहतूक म्हणजे काय?",
+      "answer": "माणसे किंवा माल एका ठिकाणाहून दुसऱ्या ठिकाणी नेणे म्हणजे वाहतूक होय."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "संदेशवहन म्हणजे काय?",
+      "answer": "माहितीची किंवा निरोपाची देवाणघेवाण करणे म्हणजे संदेशवहन होय."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "जुन्या काळातील वाहतुकीची दोन साधने सांगा.",
+      "answer": "बैलगाडी, घोडागाडी, पालखी ही जुन्या काळातील वाहतुकीची साधने आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "आधुनिक काळातील संदेशवहनाची दोन साधने सांगा.",
+      "answer": "मोबाईल (भ्रमणध्वनी) आणि संगणक (इंटरनेट) ही आधुनिक काळातील संदेशवहनाची साधने आहेत."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या सोयीमुळे कोणता फायदा होतो?",
+      "answer": "वाहतुकीच्या सोयीमुळे कामाची गती वाढते आणि वेळ व श्रमाची बचत होते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "प्रदूषण म्हणजे काय?",
+      "answer": "हवा, पाणी किंवा जमीन यामध्ये घातक घटक मिसळल्यामुळे ते दूषित होणे म्हणजे प्रदूषण होय."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "हवेचे प्रदूषण कशामुळे होते?",
+      "answer": "वाहनांच्या इंधनाच्या ज्वलनातून बाहेर पडणाऱ्या धुरामुळे आणि विषारी वायूंमुळे हवेचे प्रदूषण होते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषण कशामुळे होते?",
+      "answer": "वाहनांच्या आवाजामुळे आणि हॉर्न वाजवल्यामुळे ध्वनी प्रदूषण होते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "प्रदूषण कमी करण्यासाठी कोणता इंधन वापरणे चांगले?",
+      "answer": "सीएनजी (CNG) किंवा एलपीजी (LPG) सारखी प्रदूषण न करणारी इंधने वापरणे चांगले."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सायकल वापरण्याचे फायदे काय?",
+      "answer": "सायकल वापरल्याने प्रदूषण होत नाही, व्यायाम होतो आणि पैशांची बचत होते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक वाहतुकीचा वापर का करावा?",
+      "answer": "सार्वजनिक वाहतुकीचा वापर केल्याने वाहनांची संख्या कमी होते, त्यामुळे इंधन बचत होते आणि प्रदूषण कमी होते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "झाडे लावल्याने प्रदूषणावर काय उपाय होतो?",
+      "answer": "झाडे हवेतील प्रदूषण शोषून घेतात आणि हवा शुद्ध ठेवण्यास मदत करतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कृत्रिम उपग्रहांचा उपयोग कशासाठी होतो?",
+      "answer": "कृत्रिम उपग्रहांचा उपयोग संदेशवहन, हवामानाचा अंदाज आणि नकाशे तयार करण्यासाठी होतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "आपल्याला माहिती कशी मिळते?",
+      "answer": "वृत्तपत्रे, टीव्ही, रेडिओ आणि इंटरनेट यांसारख्या माध्यमांतून आपल्याला माहिती मिळते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पाण्यातील वाहतुकीचे साधन कोणते?",
+      "answer": "जहाज, बोट, होडी ही पाण्यातील वाहतुकीची साधने आहेत."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "हवाई वाहतुकीचे साधन कोणते?",
+      "answer": "विमान आणि हेलिकॉप्टर ही हवाई वाहतुकीची साधने आहेत."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पायी चालण्याचे फायदे काय?",
+      "answer": "पायी चालल्याने आरोग्य सुधारते आणि प्रदूषण होत नाही."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या सोयींचा पर्यावरणावर काय परिणाम होतो?",
+      "answer": "वाहतुकीच्या सोयींमुळे प्रदूषण वाढते, ज्यामुळे पर्यावरणाची हानी होते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषणामुळे मानवी आरोग्यावर काय परिणाम होतो?",
+      "answer": "ध्वनी प्रदूषणामुळे चिडचिड होणे, डोकेदुखी, निद्रानाश आणि बहिरेपणा येणे असे त्रास होतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "हवेच्या प्रदूषणामुळे कोणती हानी होते?",
+      "answer": "हवेच्या प्रदूषणामुळे श्वसनाचे विकार, डोळ्यांचे विकार होतात आणि वनस्पतींची वाढ खुंटते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या सोयींचा वापर कसा करावा?",
+      "answer": "वाहतुकीच्या सोयींचा वापर काटकसरीने आणि गरजेनुसार करावा."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "जवळच्या अंतरासाठी कोणते साधन वापरावे?",
+      "answer": "जवळच्या अंतरासाठी पायी चालणे किंवा सायकल वापरणे योग्य आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "खाजगी वाहनांचा वापर कधी करावा?",
+      "answer": "जेव्हा अत्यंत आवश्यक असेल तेव्हाच खाजगी वाहनांचा वापर करावा."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वाहनांची वेळोवेळी दुरुस्ती का करावी?",
+      "answer": "वाहनांची वेळोवेळी दुरुस्ती केल्याने इंधनाची कार्यक्षमता वाढते आणि प्रदूषण कमी होते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "आधुनिक संदेशवहन साधनांचे दोन फायदे सांगा.",
+      "answer": "संदेश जलद पोहोचतो आणि जगातील कोणाशीही संपर्क साधता येतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "चाकाचा शोध लागल्यामुळे काय बदल झाला?",
+      "answer": "चाकाचा शोध लागल्यामुळे वाहने तयार झाली आणि वाहतूक वेगवान झाली."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "प्राण्यांचा वापर वाहतुकीसाठी कसा केला जातो?",
+      "answer": "बैल, घोडा, गाढव, उंट यांसारख्या प्राण्यांचा वापर ओझे वाहण्यासाठी किंवा गाडी ओढण्यासाठी केला जातो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "इंटरनेटमुळे काय शक्य झाले आहे?",
+      "answer": "इंटरनेटमुळे क्षणात माहिती मिळवणे आणि जगाशी जोडले जाणे शक्य झाले आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "आपल्याला निसर्गाची काळजी का घ्यावी लागते?",
+      "answer": "आपले जीवन निसर्गावर अवलंबून आहे, म्हणून निसर्गाचे रक्षण करणे आपले कर्तव्य आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "वृत्तपत्रातून आपल्याला काय समजते?",
+      "answer": "वृत्तपत्रातून आपल्याला देश-विदेशातील बातम्या, घडामोडी आणि माहिती समजते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "आपण प्रदूषण कमी करण्यासाठी काय करू शकतो?",
+      "answer": "झाडे लावणे, सायकलचा वापर करणे आणि सार्वजनिक वाहतूक वापरणे या गोष्टी आपण करू शकतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "वाहतुकीची कोंडी झाल्यास काय होते?",
+      "answer": "वाहतुकीची कोंडी झाल्यास वाहने एकाच जागी उभी राहतात, त्यामुळे इंधन वाया जाते आणि प्रदूषण वाढते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "मासेमारीसाठी कशाचा वापर करतात?",
+      "answer": "मासेमारीसाठी होड्या किंवा जहाजांचा वापर करतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "पोस्टाची सेवा कशासाठी आहे?",
+      "answer": "पत्रे, पार्सल आणि मनीऑर्डर एका ठिकाणाहून दुसऱ्या ठिकाणी पोहोचवण्यासाठी पोस्टाची सेवा आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "मोबाईलचा अतिवापर का टाळावा?",
+      "answer": "मोबाईलच्या अतिवापरामुळे डोळ्यांना त्रास होऊ शकतो आणि वेळ वाया जातो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "दूरचित्रवाणीचा शैक्षणिक उपयोग काय?",
+      "answer": "दूरचित्रवाणीवरील शैक्षणिक कार्यक्रमांतून आपल्याला नवीन गोष्टी शिकायला मिळतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या साधनांची निवड कशावर अवलंबून असते?",
+      "answer": "अंतर, वेळ आणि खर्च यांवर वाहतुकीच्या साधनांची निवड अवलंबून असते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "प्रदूषणामुळे प्राण्यांवर काय परिणाम होतो?",
+      "answer": "प्रदूषणामुळे प्राण्यांचे आरोग्य धोक्यात येते आणि त्यांचे नैसर्गिक अधिवास नष्ट होतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "आपल्या परिसरातील वाहतुकीच्या समस्या कोणत्या?",
+      "answer": "रस्त्यांवरील खड्डे, वाहतुकीची कोंडी आणि प्रदूषण या आपल्या परिसरातील वाहतुकीच्या समस्या आहेत."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पर्यावरणपूरक वाहतूक म्हणजे काय?",
+      "answer": "ज्या वाहतुकीमुळे पर्यावरणाला हानी पोहोचत नाही (उदा. सायकल, पायी चालणे) तिला पर्यावरणपूरक वाहतूक म्हणतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "जहाजाचा शोध लागल्यामुळे काय शक्य झाले?",
+      "answer": "जहाजाचा शोध लागल्यामुळे समुद्रमार्गे लांबचा प्रवास आणि व्यापार करणे शक्य झाले."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "आपण वाहतुकीचे नियम का पाळावेत?",
+      "answer": "स्वतःच्या आणि इतरांच्या सुरक्षेसाठी आपण वाहतुकीचे नियम पाळावेत."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचा सर्वात स्वस्त मार्ग कोणता असू शकतो?",
+      "answer": "जलवाहतूक हा लांब अंतरासाठी वाहतुकीचा स्वस्त मार्ग असू शकतो (मोठ्या मालवाहतुकीसाठी)."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "विमानाचा शोध कोणी लावला?",
+      "answer": "राईट बंधूंनी विमानाचा शोध लावला (हे अतिरिक्त ज्ञान असू शकते)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "वाहतुकीमुळे व्यापारात काय बदल झाला?",
+      "answer": "वाहतुकीमुळे माल जलदगतीने बाजारात पोहोचवणे शक्य झाले आणि व्यापार वाढला."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "ध्वनी प्रदूषण कमी करण्यासाठी आपण काय करू शकतो?",
+      "answer": "गरज नसताना हॉर्न वाजवू नये आणि वाहनांची इंजिने सुस्थितीत ठेवावीत."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "इंधनाची बचत करणे का गरजेचे आहे?",
+      "answer": "इंधनाचे साठे मर्यादित आहेत आणि ते संपल्यावर पुन्हा मिळवणे कठीण आहे, म्हणून बचत करणे गरजेचे आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "संदेशवहनाच्या साधनांचा दुरुपयोग कसा होऊ शकतो?",
+      "answer": "चुकीची माहिती पसरवणे किंवा अफवा पसरवणे हा संदेशवहनाच्या साधनांचा दुरुपयोग होऊ शकतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "आपण शाळेत कसे जातो?",
+      "answer": "(विद्यार्थ्याने स्वतःच्या पद्धतीनुसार उत्तर द्यावे, उदा. पायी, बसने, सायकलने)."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "वाहतूक आणि संदेशवहन यांचा देशाच्या विकासात काय वाटा आहे?",
+      "answer": "वाहतूक आणि संदेशवहन यामुळे देशाचा आर्थिक विकास वेगाने होतो आणि प्रगती होते."
+    }
+  ]
+}

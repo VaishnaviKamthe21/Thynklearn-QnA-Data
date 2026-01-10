@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.01",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "धरतीची आम्ही लेकरं"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "द. ना. गव्हाणकर", "is_correct": true },
+        { "option_id": 2, "text": "शांता शेळके", "is_correct": false },
+        { "option_id": 3, "text": "ना. धों. महानोर", "is_correct": false },
+        { "option_id": 4, "text": "ग. दि. माडगूळकर", "is_correct": false }
+      ],
+      "answer": "द. ना. गव्हाणकर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवितेत मुले स्वतःला कोणाची लेकरं म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "आभाळाची", "is_correct": false },
+        { "option_id": 2, "text": "सागराची", "is_correct": false },
+        { "option_id": 3, "text": "धरतीची", "is_correct": true },
+        { "option_id": 4, "text": "देशाची", "is_correct": false }
+      ],
+      "answer": "धरतीची"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "मुले स्वतःला काय मानतात?",
+      "options": [
+        { "option_id": 1, "text": "गरीब", "is_correct": false },
+        { "option_id": 2, "text": "श्रीमंत", "is_correct": false },
+        { "option_id": 3, "text": "भाग्यवान", "is_correct": true },
+        { "option_id": 4, "text": "शूर", "is_correct": false }
+      ],
+      "answer": "भाग्यवान"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मुले कोठे जाणार आहेत?",
+      "options": [
+        { "option_id": 1, "text": "शाळेवर", "is_correct": false },
+        { "option_id": 2, "text": "घरावर", "is_correct": false },
+        { "option_id": 3, "text": "शेतावर", "is_correct": true },
+        { "option_id": 4, "text": "गावावर", "is_correct": false }
+      ],
+      "answer": "शेतावर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "शेतावर जाऊन मुले काय करणार आहेत?",
+      "options": [
+        { "option_id": 1, "text": "खेळणार", "is_correct": false },
+        { "option_id": 2, "text": "गाणार (सांगाती गाऊया)", "is_correct": true },
+        { "option_id": 3, "text": "झोपणार", "is_correct": false },
+        { "option_id": 4, "text": "रडणार", "is_correct": false }
+      ],
+      "answer": "गाणार (सांगाती गाऊया)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "रानावनात कोण गात आहेत?",
+      "options": [
+        { "option_id": 1, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 2, "text": "रानपाखरं", "is_correct": true },
+        { "option_id": 3, "text": "गायीगु्रे", "is_correct": false },
+        { "option_id": 4, "text": "वारा", "is_correct": false }
+      ],
+      "answer": "रानपाखरं"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "मुलांनी मेहनत कोठे केली आहे?",
+      "options": [
+        { "option_id": 1, "text": "शाळेत", "is_correct": false },
+        { "option_id": 2, "text": "घरात", "is_correct": false },
+        { "option_id": 3, "text": "जिमनीवरी (जमिनीवर)", "is_correct": true },
+        { "option_id": 4, "text": "रस्त्यावर", "is_correct": false }
+      ],
+      "answer": "जिमनीवरी (जमिनीवर)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मुलांनी किती काळ मेहनत केली?",
+      "options": [
+        { "option_id": 1, "text": "एक महिना", "is_correct": false },
+        { "option_id": 2, "text": "वरीसभरी (वर्षभर)", "is_correct": true },
+        { "option_id": 3, "text": "एक दिवस", "is_correct": false },
+        { "option_id": 4, "text": "दोन तास", "is_correct": false }
+      ],
+      "answer": "वरीसभरी (वर्षभर)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मेहनतीचे काय आले आहे?",
+      "options": [
+        { "option_id": 1, "text": "संकट", "is_correct": false },
+        { "option_id": 2, "text": "पाऊस", "is_correct": false },
+        { "option_id": 3, "text": "फळ", "is_correct": true },
+        { "option_id": 4, "text": "पान", "is_correct": false }
+      ],
+      "answer": "फळ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आज शेतात काय डुलत आहे?",
+      "options": [
+        { "option_id": 1, "text": "शिवार", "is_correct": true },
+        { "option_id": 2, "text": "झाडे", "is_correct": false },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "गवत", "is_correct": false }
+      ],
+      "answer": "शिवार"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणत्या पिकांचा उल्लेख आला आहे?",
+      "options": [
+        { "option_id": 1, "text": "गहू, तांदूळ", "is_correct": false },
+        { "option_id": 2, "text": "बाजरी, मका", "is_correct": false },
+        { "option_id": 3, "text": "शाळु, जुंधळा", "is_correct": true },
+        { "option_id": 4, "text": "कापूस, ऊस", "is_correct": false }
+      ],
+      "answer": "शाळु, जुंधळा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "शाळु आणि जुंधळा कशासारखे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दगडासारखे", "is_correct": false },
+        { "option_id": 2, "text": "मोत्यासारखे", "is_correct": true },
+        { "option_id": 3, "text": "सोन्यासारखे", "is_correct": false },
+        { "option_id": 4, "text": "चांदीसारखे", "is_correct": false }
+      ],
+      "answer": "मोत्यासारखे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मोती कसे चमकतात?",
+      "options": [
+        { "option_id": 1, "text": "लुकलुक", "is_correct": false },
+        { "option_id": 2, "text": "चमचम", "is_correct": true },
+        { "option_id": 3, "text": "झगमग", "is_correct": false },
+        { "option_id": 4, "text": "मंद", "is_correct": false }
+      ],
+      "answer": "चमचम"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "मुले वर्षभर काय खाणार आहेत?",
+      "options": [
+        { "option_id": 1, "text": "मिठाई", "is_correct": false },
+        { "option_id": 2, "text": "फळे", "is_correct": false },
+        { "option_id": 3, "text": "भाकर", "is_correct": true },
+        { "option_id": 4, "text": "भाजी", "is_correct": false }
+      ],
+      "answer": "भाकर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मुले कशाची स्थापना करणार आहेत?",
+      "options": [
+        { "option_id": 1, "text": "शाळेची", "is_correct": false },
+        { "option_id": 2, "text": "मंदिराची", "is_correct": false },
+        { "option_id": 3, "text": "समानतेची", "is_correct": true },
+        { "option_id": 4, "text": "राज्याची", "is_correct": false }
+      ],
+      "answer": "समानतेची"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ऐक्यता कशी हवी असे कवी म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कमकुवत", "is_correct": false },
+        { "option_id": 2, "text": "पोलादी", "is_correct": true },
+        { "option_id": 3, "text": "तात्पुरती", "is_correct": false },
+        { "option_id": 4, "text": "कागदी", "is_correct": false }
+      ],
+      "answer": "पोलादी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "येथे कोण नाही?",
+      "options": [
+        { "option_id": 1, "text": "धनी आणि चाकर", "is_correct": true },
+        { "option_id": 2, "text": "आई आणि बाबा", "is_correct": false },
+        { "option_id": 3, "text": "भाऊ आणि बहीण", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षक आणि विद्यार्थी", "is_correct": false }
+      ],
+      "answer": "धनी आणि चाकर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "'लेकरं' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "झाडे", "is_correct": false },
+        { "option_id": 2, "text": "मुले", "is_correct": true },
+        { "option_id": 3, "text": "पक्षी", "is_correct": false },
+        { "option_id": 4, "text": "शेतकरी", "is_correct": false }
+      ],
+      "answer": "मुले"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "'जिमनीवरी' म्हणजे कोठे?",
+      "options": [
+        { "option_id": 1, "text": "आकाशावर", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीवर", "is_correct": true },
+        { "option_id": 3, "text": "झाडावर", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यावर", "is_correct": false }
+      ],
+      "answer": "जमिनीवर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "'वरीसभरी' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "दिवसभर", "is_correct": false },
+        { "option_id": 2, "text": "महिनाभर", "is_correct": false },
+        { "option_id": 3, "text": "वर्षभर", "is_correct": true },
+        { "option_id": 4, "text": "आयुष्यभर", "is_correct": false }
+      ],
+      "answer": "वर्षभर"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "'शिवार' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "शेत", "is_correct": true },
+        { "option_id": 2, "text": "घर", "is_correct": false },
+        { "option_id": 3, "text": "शाळा", "is_correct": false },
+        { "option_id": 4, "text": "गाव", "is_correct": false }
+      ],
+      "answer": "शेत"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "'धनी' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "मालक", "is_correct": false },
+        { "option_id": 2, "text": "श्रीमंत", "is_correct": false },
+        { "option_id": 3, "text": "चाकर", "is_correct": true },
+        { "option_id": 4, "text": "राजा", "is_correct": false }
+      ],
+      "answer": "चाकर"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "'ऐक्यता' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "एकजुटी", "is_correct": true },
+        { "option_id": 2, "text": "वेगळेपणा", "is_correct": false },
+        { "option_id": 3, "text": "भांडण", "is_correct": false },
+        { "option_id": 4, "text": "मैत्री", "is_correct": false }
+      ],
+      "answer": "एकजुटी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "'सांगाती' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "एकटे", "is_correct": false },
+        { "option_id": 2, "text": "सोबती/मित्र", "is_correct": true },
+        { "option_id": 3, "text": "शत्रू", "is_correct": false },
+        { "option_id": 4, "text": "शेजारी", "is_correct": false }
+      ],
+      "answer": "सोबती/मित्र"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवितेनुसार कोण भाग्यवान आहेत?",
+      "options": [
+        { "option_id": 1, "text": "धरतीची लेकरं", "is_correct": true },
+        { "option_id": 2, "text": "शहरातील लोक", "is_correct": false },
+        { "option_id": 3, "text": "राजे", "is_correct": false },
+        { "option_id": 4, "text": "व्यापारी", "is_correct": false }
+      ],
+      "answer": "धरतीची लेकरं"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "'रानावनात' या अर्थाचा कवितेत आलेला शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "रानात", "is_correct": false },
+        { "option_id": 2, "text": "वनात", "is_correct": false },
+        { "option_id": 3, "text": "रानीवनी", "is_correct": true },
+        { "option_id": 4, "text": "जंगलात", "is_correct": false }
+      ],
+      "answer": "रानीवनी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "'सालभरी' म्हणजे किती काळ?",
+      "options": [
+        { "option_id": 1, "text": "सहा महिने", "is_correct": false },
+        { "option_id": 2, "text": "वर्षभर", "is_correct": true },
+        { "option_id": 3, "text": "दोन वर्षे", "is_correct": false },
+        { "option_id": 4, "text": "जन्मभर", "is_correct": false }
+      ],
+      "answer": "वर्षभर"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणाबद्दल आहे?",
+      "options": [
+        { "option_id": 1, "text": "सैनिक", "is_correct": false },
+        { "option_id": 2, "text": "शेतकरी/कष्टकरी", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 4, "text": "डॉक्टर", "is_correct": false }
+      ],
+      "answer": "शेतकरी/कष्टकरी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "'मोती' हे विशेषण कोणासाठी वापरले आहे?",
+      "options": [
+        { "option_id": 1, "text": "मुलांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "धान्यासाठी (शाळु, जुंधळा)", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "मातीसाठी", "is_correct": false }
+      ],
+      "answer": "धान्यासाठी (शाळु, जुंधळा)"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "'चाकर' म्हणजे कोण?",
+      "options": [
+        { "option_id": 1, "text": "मालक", "is_correct": false },
+        { "option_id": 2, "text": "सेवक/नोकर", "is_correct": true },
+        { "option_id": 3, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "सेवक/नोकर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: 'धरतीची आम्ही लेकरं । _____ ।'",
+      "options": [
+        { "option_id": 1, "text": "बलवान", "is_correct": false },
+        { "option_id": 2, "text": "भाग्यवान", "is_correct": true },
+        { "option_id": 3, "text": "धनवान", "is_correct": false },
+        { "option_id": 4, "text": "गुणवान", "is_correct": false }
+      ],
+      "answer": "भाग्यवान"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: '_____ जाऊया । सांगाती गाऊया ।'",
+      "options": [
+        { "option_id": 1, "text": "घरावर", "is_correct": false },
+        { "option_id": 2, "text": "शेतावर", "is_correct": true },
+        { "option_id": 3, "text": "गावावर", "is_correct": false },
+        { "option_id": 4, "text": "रस्त्यावर", "is_correct": false }
+      ],
+      "answer": "शेतावर"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: 'मेहनत _____ । केली वरीसभरी ।'",
+      "options": [
+        { "option_id": 1, "text": "रानावरी", "is_correct": false },
+        { "option_id": 2, "text": "जिमनीवरी", "is_correct": true },
+        { "option_id": 3, "text": "घरावरी", "is_correct": false },
+        { "option_id": 4, "text": "गावावरी", "is_correct": false }
+      ],
+      "answer": "जिमनीवरी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: 'आज आलं _____ त्याचं डुले शिवार ।'",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "पीक", "is_correct": false },
+        { "option_id": 3, "text": "फळ", "is_correct": true },
+        { "option_id": 4, "text": "धन", "is_correct": false }
+      ],
+      "answer": "फळ"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: 'शाळु, जुंधळा _____ । चमचम चमकत्याती ।'",
+      "options": [
+        { "option_id": 1, "text": "हिरे", "is_correct": false },
+        { "option_id": 2, "text": "माणिक", "is_correct": false },
+        { "option_id": 3, "text": "सोने", "is_correct": false },
+        { "option_id": 4, "text": "मोती", "is_correct": true }
+      ],
+      "answer": "मोती"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: 'मोत्यांची सालभरी खाऊ _____ ।'",
+      "options": [
+        { "option_id": 1, "text": "चपाती", "is_correct": false },
+        { "option_id": 2, "text": "भाकर", "is_correct": true },
+        { "option_id": 3, "text": "भाजी", "is_correct": false },
+        { "option_id": 4, "text": "फळे", "is_correct": false }
+      ],
+      "answer": "भाकर"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: 'स्थापू समानता, _____ ऐक्यता ।'",
+      "options": [
+        { "option_id": 1, "text": "मजबूत", "is_correct": false },
+        { "option_id": 2, "text": "पोलादी", "is_correct": true },
+        { "option_id": 3, "text": "पक्की", "is_correct": false },
+        { "option_id": 4, "text": "मोठी", "is_correct": false }
+      ],
+      "answer": "पोलादी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "रिकामी जागा भरा: 'नाही _____ येथ कुणी, नाही चाकर ।'",
+      "options": [
+        { "option_id": 1, "text": "गरीब", "is_correct": false },
+        { "option_id": 2, "text": "धनी", "is_correct": true },
+        { "option_id": 3, "text": "माणूस", "is_correct": false },
+        { "option_id": 4, "text": "राजा", "is_correct": false }
+      ],
+      "answer": "धनी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "'लेकरं' या शब्दाचा समानार्थी शब्द ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "बाळे/मुले", "is_correct": true },
+        { "option_id": 2, "text": "माणसे", "is_correct": false },
+        { "option_id": 3, "text": "पक्षी", "is_correct": false },
+        { "option_id": 4, "text": "झाडे", "is_correct": false }
+      ],
+      "answer": "बाळे/मुले"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "'धरती' या शब्दाचा समानार्थी शब्द ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "आकाश", "is_correct": false },
+        { "option_id": 2, "text": "जमीन/भूमी", "is_correct": true },
+        { "option_id": 3, "text": "समुद्र", "is_correct": false },
+        { "option_id": 4, "text": "पर्वत", "is_correct": false }
+      ],
+      "answer": "जमीन/भूमी"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "कवितेत 'रानपाखरं' कोणाशी तुलना केली आहे?",
+      "options": [
+        { "option_id": 1, "text": "शेतकऱ्यांच्या मुलांशी (गाणाऱ्या मुलांशी)", "is_correct": true },
+        { "option_id": 2, "text": "प्राण्यांशी", "is_correct": false },
+        { "option_id": 3, "text": "पिकांशी", "is_correct": false },
+        { "option_id": 4, "text": "पावसाशी", "is_correct": false }
+      ],
+      "answer": "शेतकऱ्यांच्या मुलांशी (गाणाऱ्या मुलांशी)"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "कष्टकऱ्यांच्या जीवनात कोणाचा भेदभाव नाही?",
+      "options": [
+        { "option_id": 1, "text": "लहान-मोठा", "is_correct": false },
+        { "option_id": 2, "text": "धनी-चाकर", "is_correct": true },
+        { "option_id": 3, "text": "स्त्री-पुरुष", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "धनी-चाकर"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "'भाग्यवान' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "नशीबवान", "is_correct": false },
+        { "option_id": 2, "text": "दुर्भागी/अभागी", "is_correct": true },
+        { "option_id": 3, "text": "श्रीमंत", "is_correct": false },
+        { "option_id": 4, "text": "आनंदी", "is_correct": false }
+      ],
+      "answer": "दुर्भागी/अभागी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "'जाऊया' या शब्दाशी यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "गाऊया", "is_correct": true },
+        { "option_id": 2, "text": "खाऊया", "is_correct": false },
+        { "option_id": 3, "text": "पाहूया", "is_correct": false },
+        { "option_id": 4, "text": "नाचूया", "is_correct": false }
+      ],
+      "answer": "गाऊया"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "'लेकरं' या शब्दाशी यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "भाकर", "is_correct": false },
+        { "option_id": 2, "text": "शिवार", "is_correct": false },
+        { "option_id": 3, "text": "रानपाखरं", "is_correct": true },
+        { "option_id": 4, "text": "चाकर", "is_correct": false }
+      ],
+      "answer": "रानपाखरं"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "'शिवार' या शब्दाशी यमक जुळणारा शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "भाकर", "is_correct": true },
+        { "option_id": 2, "text": "लेकरं", "is_correct": false },
+        { "option_id": 3, "text": "मोती", "is_correct": false },
+        { "option_id": 4, "text": "ऐक्यता", "is_correct": false }
+      ],
+      "answer": "भाकर"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "'चमकत्याती' या शब्दाचा प्रमाण भाषेतील अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "चमकतात", "is_correct": true },
+        { "option_id": 2, "text": "चमकतील", "is_correct": false },
+        { "option_id": 3, "text": "चमकले", "is_correct": false },
+        { "option_id": 4, "text": "चमकेल", "is_correct": false }
+      ],
+      "answer": "चमकतात"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "कवितेतील मुले कशाचे गुणगान गात आहेत?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःच्या नशिबाचे", "is_correct": false },
+        { "option_id": 2, "text": "धरती आणि कष्टाचे", "is_correct": true },
+        { "option_id": 3, "text": "देवाची", "is_correct": false },
+        { "option_id": 4, "text": "शाळेचे", "is_correct": false }
+      ],
+      "answer": "धरती आणि कष्टाचे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कवितेच्या शेवटी काय संदेश दिला आहे?",
+      "options": [
+        { "option_id": 1, "text": "समानता आणि ऐक्याचा", "is_correct": true },
+        { "option_id": 2, "text": "संपत्ती जमवण्याचा", "is_correct": false },
+        { "option_id": 3, "text": "युद्ध करण्याचा", "is_correct": false },
+        { "option_id": 4, "text": "आळशीपणाचा", "is_correct": false }
+      ],
+      "answer": "समानता आणि ऐक्याचा"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या प्रकारची आहे?",
+      "options": [
+        { "option_id": 1, "text": "शौर्यगीत", "is_correct": false },
+        { "option_id": 2, "text": "कृषीगीत / शेतकरी गीत", "is_correct": true },
+        { "option_id": 3, "text": "भक्तीगीत", "is_correct": false },
+        { "option_id": 4, "text": "विनोदी कविता", "is_correct": false }
+      ],
+      "answer": "कृषीगीत / शेतकरी गीत"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवितेचे नाव काय आहे?",
+      "answer": "कवितेचे नाव 'धरतीची आम्ही लेकरं' आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कवितेचे कवी कोण आहेत?",
+      "answer": "कवितेचे कवी द. ना. गव्हाणकर आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मुले कोणाची लेकरं आहेत?",
+      "answer": "मुले धरतीची लेकरं आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मुले स्वतःला काय मानतात?",
+      "answer": "मुले स्वतःला भाग्यवान मानतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "मुले कोठे जाणार आहेत?",
+      "answer": "मुले शेतावर जाणार आहेत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शेतावर जाऊन मुले काय करणार आहेत?",
+      "answer": "शेतावर जाऊन मुले सोबतीने गाणी गाणार आहेत."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "रानावनात कोण गात आहेत?",
+      "answer": "रानावनात रानपाखरं गात आहेत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "मुले कोणासारखी गाणार आहेत?",
+      "answer": "मुले रानपाखरांसारखी गाणार आहेत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मुलांनी मेहनत कोठे केली?",
+      "answer": "मुलांनी जमिनीवर (शेतात) मेहनत केली."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "मुलांनी किती काळ मेहनत केली?",
+      "answer": "मुलांनी वर्षभर (वरीसभरी) मेहनत केली."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आज कशाचे फळ आले आहे?",
+      "answer": "वर्षभर केलेल्या मेहनतीचे आज फळ आले आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "शेतात काय डुलत आहे?",
+      "answer": "शेतात शिवार (पीक) डुलत आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कोणत्या पिकांचा उल्लेख कवितेत आला आहे?",
+      "answer": "कवितेत शाळु आणि जुंधळा या पिकांचा उल्लेख आला आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "धान्याला कशाची उपमा दिली आहे?",
+      "answer": "धान्याला मोत्यांची उपमा दिली आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "मोती कसे चमकतात?",
+      "answer": "मोती चमचम चमकतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "मुले वर्षभर काय खाणार आहेत?",
+      "answer": "मुले वर्षभर मोत्यांची (धान्याची) भाकर खाणार आहेत."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कवीला काय स्थापन करायचे आहे?",
+      "answer": "कवीला समानता स्थापन करायची आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "ऐक्यता कशी असावी असे कवी म्हणतात?",
+      "answer": "ऐक्यता पोलादी (मजबूत) असावी असे कवी म्हणतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कष्टकऱ्यांच्या राज्यात कोण नसणार?",
+      "answer": "कष्टकऱ्यांच्या राज्यात कोणीही धनी (मालक) किंवा चाकर (नोकर) नसणार."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "सर्वजण कसे राहतील?",
+      "answer": "सर्वजण समानतेने आणि एकजुटीने राहतील."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "'जिमनीवरी' या शब्दाचा प्रमाण भाषेतील शब्द लिहा.",
+      "answer": "'जिमनीवरी' म्हणजे 'जमिनीवर'."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "'वरीसभरी' म्हणजे काय?",
+      "answer": "'वरीसभरी' म्हणजे 'वर्षभर'."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "'शिवार' या शब्दाचा अर्थ सांगा.",
+      "answer": "'शिवार' म्हणजे 'शेत' किंवा 'वावर'."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "'धनी' या शब्दाचा अर्थ काय?",
+      "answer": "'धनी' म्हणजे 'मालक' किंवा 'श्रीमंत'."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "'चाकर' म्हणजे कोण?",
+      "answer": "'चाकर' म्हणजे 'नोकर' किंवा 'सेवक'."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "मुलांना कशाचा अभिमान आहे?",
+      "answer": "मुलांना ते धरतीची लेकरं असल्याचा आणि त्यांच्या कष्टाचा अभिमान आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कवितेत 'चमकत्याती' हा शब्द कोणत्या शब्दासाठी आला आहे?",
+      "answer": "'चमकत्याती' हा शब्द 'चमकतात' यासाठी आला आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "'भाग्यवान' असे कोणाला म्हटले आहे?",
+      "answer": "धरतीची सेवा करणाऱ्या लेकरांना (शेतकऱ्यांना) भाग्यवान म्हटले आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "'सांगाती' या शब्दाचा अर्थ काय?",
+      "answer": "'सांगाती' म्हणजे 'सोबती' किंवा 'मित्र'."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "कवितेत यमक जुळणाऱ्या शब्दांच्या जोड्या सांगा.",
+      "answer": "जाऊया-गाऊया, जिमनीवरी-वरीसभरी, चमकत्याती-मोती (किंवा शिवार-भाकर-चाकर) या यमक जुळणाऱ्या जोड्या आहेत."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "कष्टकरी जमिनीवर काय गाळतात?",
+      "answer": "कष्टकरी जमिनीवर घाम गाळतात (मेहनत करतात)."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "कवितेतील मुले कशावर प्रेम करतात?",
+      "answer": "कवितेतील मुले आपल्या धरतीवर (जमिनीवर) प्रेम करतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "पोलादी ऐक्यता म्हणजे काय?",
+      "answer": "पोलादी ऐक्यता म्हणजे कधीही न तुटणारी मजबूत एकजूट."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "'रानावनात' या अर्थाचा कोणता शब्द कवितेत आला आहे?",
+      "answer": "'रानावनात' या अर्थाचा 'रानीवनी' हा शब्द कवितेत आला आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "कवितेत 'लेकरं' हा शब्द किती वेळा आला आहे (ध्रुवपद धरून)?",
+      "answer": "कवितेत 'लेकरं' हा शब्द ध्रुवपद आणि शेवटी मिळून किमान तीन वेळा आला आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "मुलांचे गाणे ऐकून कोणाला आनंद होईल?",
+      "answer": "मुलांचे गाणे ऐकून धरतीला आणि निसर्गाला आनंद होईल."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "शेतातील पिके कशामुळे डुलत आहेत?",
+      "answer": "शेतातील पिके वाऱ्यामुळे आणि कष्टाचे फळ आल्यामुळे डुलत आहेत."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "मुले वर्षभर काय काम करतात?",
+      "answer": "मुले वर्षभर शेतात मेहनत करण्याचे काम करतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "'आज आलं फळ त्याचं' - 'त्याचं' म्हणजे कशाचं?",
+      "answer": "'त्याचं' म्हणजे वर्षभर केलेल्या मेहनतीचं."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य विषय काय आहे?",
+      "answer": "कवितेचा मुख्य विषय शेतकऱ्यांचे कष्ट, पिकांचा आनंद आणि सामाजिक समता हा आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "'मोत्यांची सालभरी खाऊ भाकर' या ओळीचा अर्थ काय?",
+      "answer": "याचा अर्थ असा की वर्षभर कष्ट करून पिकवलेले मोतीरुपी धान्य आम्ही वर्षभर सुखाने खाणार आहोत."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "'स्थापू समानता' म्हणजे काय?",
+      "answer": "सर्व माणसे समान आहेत, कोणी लहान-मोठा नाही, असा विचार रुजवणे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कवितेत 'जमिनीवर' या शब्दासाठी कोणता शब्द वापरला आहे?",
+      "answer": "कवितेत 'जिमनीवरी' हा शब्द वापरला आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कवितेत 'वर्षभर' या शब्दासाठी कोणता शब्द वापरला आहे?",
+      "answer": "कवितेत 'वरीसभरी' हा शब्द वापरला आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "या कवितेतून कोणता सामाजिक संदेश मिळतो?",
+      "answer": "कष्टकरी मुलांमध्ये भेदाभेद नसतो, सर्वजण समान असतात, हा संदेश मिळतो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "कवितेतील मुलांची संपत्ती कोणती?",
+      "answer": "धरती आणि पिके हीच मुलांची खरी संपत्ती आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "कवितेत कशाचा गौरव केला आहे?",
+      "answer": "कवितेत श्रमाचा आणि शेतीचा गौरव केला आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कवितेची चाल कशी असावी?",
+      "answer": "ही कविता तालासुरात आणि गाण्यासारखी म्हणायला हवी."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "रानपाखरं कोठे राहतात?",
+      "answer": "रानपाखरं रानीवनी (रानात आणि वनात) राहतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "कवितेतील 'ध्रुवपद' (Chorus) कोणते आहे?",
+      "answer": "'धरतीची आम्ही लेकरं । भाग्यवान । धरतीची आम्ही लेकरं ।।' हे ध्रुवपद आहे."
+    }
+  ]
+}

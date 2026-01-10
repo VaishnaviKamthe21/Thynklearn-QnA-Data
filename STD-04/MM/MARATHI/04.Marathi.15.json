@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.15",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "आनंदाचं झाड"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या पाठाच्या लेखिका कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "लीला शिंदे", "is_correct": true },
+        { "option_id": 2, "text": "शैलजा काळे", "is_correct": false },
+        { "option_id": 3, "text": "वसुधा पाटील", "is_correct": false },
+        { "option_id": 4, "text": "संजीवनी खेर", "is_correct": false }
+      ],
+      "answer": "लीला शिंदे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "लेखिकेच्या घरी कोणते झाड होते?",
+      "options": [
+        { "option_id": 1, "text": "आंब्याचे", "is_correct": false },
+        { "option_id": 2, "text": "शेवग्याचे", "is_correct": true },
+        { "option_id": 3, "text": "नारळाचे", "is_correct": false },
+        { "option_id": 4, "text": "पेरूचे", "is_correct": false }
+      ],
+      "answer": "शेवग्याचे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "शेवग्याला कशा रंगाची पालवी फुटली होती?",
+      "options": [
+        { "option_id": 1, "text": "गडद हिरवी", "is_correct": false },
+        { "option_id": 2, "text": "लालसर", "is_correct": false },
+        { "option_id": 3, "text": "हिरवट पोपटी", "is_correct": true },
+        { "option_id": 4, "text": "पिवळसर", "is_correct": false }
+      ],
+      "answer": "हिरवट पोपटी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शेवग्याच्या फुलांचा रंग कोणता होता?",
+      "options": [
+        { "option_id": 1, "text": "पिवळा", "is_correct": false },
+        { "option_id": 2, "text": "लाल", "is_correct": false },
+        { "option_id": 3, "text": "पांढराशुभ्र", "is_correct": true },
+        { "option_id": 4, "text": "गुलाबी", "is_correct": false }
+      ],
+      "answer": "पांढराशुभ्र"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "शेवग्याच्या शेंगा कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "खाण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पूजेसाठी", "is_correct": false },
+        { "option_id": 4, "text": "जाळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "खाण्यासाठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "शेजारच्या काकूंनी झाड तोडायला का सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "झाड मोठे झाले होते म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "त्यांना झाड आवडत नव्हते म्हणून", "is_correct": false },
+        { "option_id": 3, "text": "दारात शेवगा असल्यावर भांडणे होतात अशी समजूत होती म्हणून", "is_correct": true },
+        { "option_id": 4, "text": "झाडाला कीड लागली होती म्हणून", "is_correct": false }
+      ],
+      "answer": "दारात शेवगा असल्यावर भांडणे होतात अशी समजूत होती म्हणून"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "काकूंच्या बोलण्यावर लेखिकेला काय आले?",
+      "options": [
+        { "option_id": 1, "text": "हसू", "is_correct": false },
+        { "option_id": 2, "text": "राग", "is_correct": true },
+        { "option_id": 3, "text": "रडू", "is_correct": false },
+        { "option_id": 4, "text": "आश्चर्य", "is_correct": false }
+      ],
+      "answer": "राग"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "आईच्या मते झाडे कशी असतात?",
+      "options": [
+        { "option_id": 1, "text": "त्रासदायक", "is_correct": false },
+        { "option_id": 2, "text": "परोपकारी", "is_correct": true },
+        { "option_id": 3, "text": "स्वार्थी", "is_correct": false },
+        { "option_id": 4, "text": "अशुभ", "is_correct": false }
+      ],
+      "answer": "परोपकारी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "आईने झाड कशासाठी लावले होते?",
+      "options": [
+        { "option_id": 1, "text": "तोडण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "लाकडासाठी", "is_correct": false },
+        { "option_id": 3, "text": "जोपासण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "विकण्यासाठी", "is_correct": false }
+      ],
+      "answer": "जोपासण्यासाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "झाडावर कोणाचा मेळा भरत असे?",
+      "options": [
+        { "option_id": 1, "text": "मुलांचा", "is_correct": false },
+        { "option_id": 2, "text": "पशूंचा", "is_correct": false },
+        { "option_id": 3, "text": "पक्ष्यांचा", "is_correct": true },
+        { "option_id": 4, "text": "माकडांचा", "is_correct": false }
+      ],
+      "answer": "पक्ष्यांचा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "फुलांच्या घोसांवर रुंजी कोण घालत होते?",
+      "options": [
+        { "option_id": 1, "text": "फुलपाखरे", "is_correct": false },
+        { "option_id": 2, "text": "काळे भुंगे", "is_correct": true },
+        { "option_id": 3, "text": "चिमण्या", "is_correct": false },
+        { "option_id": 4, "text": "पोपट", "is_correct": false }
+      ],
+      "answer": "काळे भुंगे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मधमाश्या झाडावर काय करत होत्या?",
+      "options": [
+        { "option_id": 1, "text": "मध पीत होत्या", "is_correct": true },
+        { "option_id": 2, "text": "घरटे बांधत होत्या", "is_correct": false },
+        { "option_id": 3, "text": "झोपल्या होत्या", "is_correct": false },
+        { "option_id": 4, "text": "पानं खात होत्या", "is_correct": false }
+      ],
+      "answer": "मध पीत होत्या"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "फुलांतील मध चोखण्यात कोण पटाईत होते?",
+      "options": [
+        { "option_id": 1, "text": "कावळा", "is_correct": false },
+        { "option_id": 2, "text": "फुलचुख्या", "is_correct": true },
+        { "option_id": 3, "text": "साळुंकी", "is_correct": false },
+        { "option_id": 4, "text": "कोकीळ", "is_correct": false }
+      ],
+      "answer": "फुलचुख्या"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "तांबट पक्ष्याचा आवाज कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "कुहू-कुहू", "is_correct": false },
+        { "option_id": 2, "text": "काव-काव", "is_correct": false },
+        { "option_id": 3, "text": "तुक-तुक (टणत्कार)", "is_correct": true },
+        { "option_id": 4, "text": "चींव-चींव", "is_correct": false }
+      ],
+      "answer": "तुक-तुक (टणत्कार)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "उंच फांदीच्या शेंड्यावर कोण बसला होता?",
+      "options": [
+        { "option_id": 1, "text": "मोर", "is_correct": false },
+        { "option_id": 2, "text": "कोकीळ", "is_correct": true },
+        { "option_id": 3, "text": "बदक", "is_correct": false },
+        { "option_id": 4, "text": "कोंबडा", "is_correct": false }
+      ],
+      "answer": "कोकीळ"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "राघू पक्षी हवेत तरंगत काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "शिकार", "is_correct": true },
+        { "option_id": 2, "text": "झोपतात", "is_correct": false },
+        { "option_id": 3, "text": "पाणी पितात", "is_correct": false },
+        { "option_id": 4, "text": "गाणे म्हणतात", "is_correct": false }
+      ],
+      "answer": "शिकार"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पोपट कशासाठी येत असत?",
+      "options": [
+        { "option_id": 1, "text": "पाने खाण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "सावलीसाठी", "is_correct": false },
+        { "option_id": 3, "text": "वाळलेल्या शेंगांच्या बिया खाण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "फुले तोडण्यासाठी", "is_correct": false }
+      ],
+      "answer": "वाळलेल्या शेंगांच्या बिया खाण्यासाठी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "बुलबुल पक्ष्याच्या आवाजाला लेखिकेने काय म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "कर्कश", "is_correct": false },
+        { "option_id": 2, "text": "सुरेल ताना", "is_correct": true },
+        { "option_id": 3, "text": "बेसुरा", "is_correct": false },
+        { "option_id": 4, "text": "मोठा आवाज", "is_correct": false }
+      ],
+      "answer": "सुरेल ताना"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "हिवाळ्यात कोणता पक्षी हजेरी लावू लागला?",
+      "options": [
+        { "option_id": 1, "text": "गिधाड", "is_correct": false },
+        { "option_id": 2, "text": "खंड्या", "is_correct": true },
+        { "option_id": 3, "text": "गरुड", "is_correct": false },
+        { "option_id": 4, "text": "ससाणा", "is_correct": false }
+      ],
+      "answer": "खंड्या"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "खंड्याचा रंग कसा होता?",
+      "options": [
+        { "option_id": 1, "text": "लाल", "is_correct": false },
+        { "option_id": 2, "text": "पिवळा", "is_correct": false },
+        { "option_id": 3, "text": "मोरपंखी निळा", "is_correct": true },
+        { "option_id": 4, "text": "काळा", "is_correct": false }
+      ],
+      "answer": "मोरपंखी निळा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "लेखिकेला खंड्याची शिकार करण्याची कोणती कला दिसली?",
+      "options": [
+        { "option_id": 1, "text": "धावून पकडणे", "is_correct": false },
+        { "option_id": 2, "text": "सुळकी मारणे", "is_correct": true },
+        { "option_id": 3, "text": "जाळ्यात पकडणे", "is_correct": false },
+        { "option_id": 4, "text": "दगड मारणे", "is_correct": false }
+      ],
+      "answer": "सुळकी मारणे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "लेखिका झाडाला काय मानते?",
+      "options": [
+        { "option_id": 1, "text": "शत्रू", "is_correct": false },
+        { "option_id": 2, "text": "आवडता मित्र", "is_correct": true },
+        { "option_id": 3, "text": "फक्त एक झाड", "is_correct": false },
+        { "option_id": 4, "text": "लाकडे", "is_correct": false }
+      ],
+      "answer": "आवडता मित्र"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "झाडामुळे लेखिकेला कशाचा आनंद मिळाला?",
+      "options": [
+        { "option_id": 1, "text": "पैसे मिळण्याचा", "is_correct": false },
+        { "option_id": 2, "text": "निसर्गाच्या सान्निध्याचा आणि ज्ञानाचा", "is_correct": true },
+        { "option_id": 3, "text": "भांडणाचा", "is_correct": false },
+        { "option_id": 4, "text": "प्रवासाचा", "is_correct": false }
+      ],
+      "answer": "निसर्गाच्या सान्निध्याचा आणि ज्ञानाचा"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "झाडाला लेखिकेने काय म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "दवाखाना", "is_correct": false },
+        { "option_id": 2, "text": "अजबखाना", "is_correct": true },
+        { "option_id": 3, "text": "कारखाना", "is_correct": false },
+        { "option_id": 4, "text": "तुरुंग", "is_correct": false }
+      ],
+      "answer": "अजबखाना"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "झाडाचा हिरवा रंग लेखिकेला काय देतो?",
+      "options": [
+        { "option_id": 1, "text": "कंटाळा", "is_correct": false },
+        { "option_id": 2, "text": "नवीन उत्साह आणि प्रसन्नता", "is_correct": true },
+        { "option_id": 3, "text": "दुःख", "is_correct": false },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "नवीन उत्साह आणि प्रसन्नता"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "पोपटाची शेपूट कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "लांबसडक", "is_correct": true },
+        { "option_id": 3, "text": "गुंडाळलेली", "is_correct": false },
+        { "option_id": 4, "text": "कापलेली", "is_correct": false }
+      ],
+      "answer": "लांबसडक"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कोणाचा आवाज 'कान किट्ट करणारा' होता?",
+      "options": [
+        { "option_id": 1, "text": "चिमण्यांचा", "is_correct": false },
+        { "option_id": 2, "text": "साळुंक्यांचा", "is_correct": true },
+        { "option_id": 3, "text": "कोकीळाचा", "is_correct": false },
+        { "option_id": 4, "text": "पोपटाचा", "is_correct": false }
+      ],
+      "answer": "साळुंक्यांचा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "'रुंजी घालणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पळून जाणे", "is_correct": false },
+        { "option_id": 2, "text": "भोवती फिरणे", "is_correct": true },
+        { "option_id": 3, "text": "झोपणे", "is_correct": false },
+        { "option_id": 4, "text": "ओरडणे", "is_correct": false }
+      ],
+      "answer": "भोवती फिरणे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "'फन्ना उडवणे' या वाक्प्रचाराचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "उडून जाणे", "is_correct": false },
+        { "option_id": 2, "text": "खाऊन टाकणे / संपवणे", "is_correct": true },
+        { "option_id": 3, "text": "हरवणे", "is_correct": false },
+        { "option_id": 4, "text": "फेकून देणे", "is_correct": false }
+      ],
+      "answer": "खाऊन टाकणे / संपवणे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "झाडावर फुले कशी लोंबत होती?",
+      "options": [
+        { "option_id": 1, "text": "एक एक", "is_correct": false },
+        { "option_id": 2, "text": "घोसच्या घोस", "is_correct": true },
+        { "option_id": 3, "text": "सुकलेली", "is_correct": false },
+        { "option_id": 4, "text": "फांदीला चिकटून", "is_correct": false }
+      ],
+      "answer": "घोसच्या घोस"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "फुलचुख्या पक्षी आकाराने कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "खूप मोठा", "is_correct": false },
+        { "option_id": 2, "text": "इटुकला बोटभर", "is_correct": true },
+        { "option_id": 3, "text": "कावळ्याएवढा", "is_correct": false },
+        { "option_id": 4, "text": "हत्तीएवढा", "is_correct": false }
+      ],
+      "answer": "इटुकला बोटभर"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "राघूंचे थवे हवेत तरंगत काय खात असत?",
+      "options": [
+        { "option_id": 1, "text": "फळे", "is_correct": false },
+        { "option_id": 2, "text": "किडे आणि परागकेशर", "is_correct": true },
+        { "option_id": 3, "text": "पाने", "is_correct": false },
+        { "option_id": 4, "text": "शेंगा", "is_correct": false }
+      ],
+      "answer": "किडे आणि परागकेशर"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "लेखिका झाडाची काय राखते?",
+      "options": [
+        { "option_id": 1, "text": "काहीच नाही", "is_correct": false },
+        { "option_id": 2, "text": "निगा", "is_correct": true },
+        { "option_id": 3, "text": "राख", "is_correct": false },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "निगा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "झाड आनंदात डुलत कोणाला साद घालते?",
+      "options": [
+        { "option_id": 1, "text": "पक्ष्यांना", "is_correct": true },
+        { "option_id": 2, "text": "काकूंना", "is_correct": false },
+        { "option_id": 3, "text": "गाड्यांना", "is_correct": false },
+        { "option_id": 4, "text": "वाऱ्याला", "is_correct": false }
+      ],
+      "answer": "पक्ष्यांना"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "लेखिका आनंद उत्सवात काय करते?",
+      "options": [
+        { "option_id": 1, "text": "रडते", "is_correct": false },
+        { "option_id": 2, "text": "नाचते आणि गाते", "is_correct": true },
+        { "option_id": 3, "text": "झोपते", "is_correct": false },
+        { "option_id": 4, "text": "रागवते", "is_correct": false }
+      ],
+      "answer": "नाचते आणि गाते"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "'मनमुराद' शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "कमी", "is_correct": false },
+        { "option_id": 2, "text": "थोडेसे", "is_correct": false },
+        { "option_id": 3, "text": "मनसोक्तपणे", "is_correct": true },
+        { "option_id": 4, "text": "दुःखी होऊन", "is_correct": false }
+      ],
+      "answer": "मनसोक्तपणे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "भुंग्याचा रंग कसा होता?",
+      "options": [
+        { "option_id": 1, "text": "हिरवा", "is_correct": false },
+        { "option_id": 2, "text": "जांभळट-काळा", "is_correct": true },
+        { "option_id": 3, "text": "लाल", "is_correct": false },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "जांभळट-काळा"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "शेंगांच्या बियांची मेजवानी कोणाला मिळत असे?",
+      "options": [
+        { "option_id": 1, "text": "पोपटांना", "is_correct": true },
+        { "option_id": 2, "text": "कावळ्यांना", "is_correct": false },
+        { "option_id": 3, "text": "मांजरांना", "is_correct": false },
+        { "option_id": 4, "text": "कुत्र्यांना", "is_correct": false }
+      ],
+      "answer": "पोपटांना"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "झाड लेखिकेला काय देते?",
+      "options": [
+        { "option_id": 1, "text": "ज्ञान", "is_correct": false },
+        { "option_id": 2, "text": "मनोरंजन", "is_correct": false },
+        { "option_id": 3, "text": "आनंद", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "झाडे तोडण्याऐवजी काय केले पाहिजे?",
+      "options": [
+        { "option_id": 1, "text": "जाळली पाहिजेत", "is_correct": false },
+        { "option_id": 2, "text": "जोपासली पाहिजेत", "is_correct": true },
+        { "option_id": 3, "text": "दुर्लक्ष केले पाहिजे", "is_correct": false },
+        { "option_id": 4, "text": "कापली पाहिजेत", "is_correct": false }
+      ],
+      "answer": "जोपासली पाहिजेत"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "गीत गाणाऱ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "संगीतकार", "is_correct": false },
+        { "option_id": 2, "text": "गीतकार", "is_correct": true },
+        { "option_id": 3, "text": "नाटककार", "is_correct": false },
+        { "option_id": 4, "text": "चित्रकार", "is_correct": false }
+      ],
+      "answer": "गीतकार"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "संगीत देणाऱ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "संगीतकार", "is_correct": true },
+        { "option_id": 2, "text": "गायक", "is_correct": false },
+        { "option_id": 3, "text": "वादक", "is_correct": false },
+        { "option_id": 4, "text": "नर्तक", "is_correct": false }
+      ],
+      "answer": "संगीतकार"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "'आधार देणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मदत करणे / सहारा देणे", "is_correct": true },
+        { "option_id": 2, "text": "धक्का देणे", "is_correct": false },
+        { "option_id": 3, "text": "सोडून देणे", "is_correct": false },
+        { "option_id": 4, "text": "पैसे मागणे", "is_correct": false }
+      ],
+      "answer": "मदत करणे / सहारा देणे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "काकूंच्या मते लोक काय तोडून नेतील?",
+      "options": [
+        { "option_id": 1, "text": "पाने", "is_correct": false },
+        { "option_id": 2, "text": "फांद्या", "is_correct": false },
+        { "option_id": 3, "text": "शेंगा", "is_correct": true },
+        { "option_id": 4, "text": "फुले", "is_correct": false }
+      ],
+      "answer": "शेंगा"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "झाडे पक्ष्यांना काय देतात?",
+      "options": [
+        { "option_id": 1, "text": "घरं (आसरा)", "is_correct": true },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "कपडे", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "घरं (आसरा)"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "फुलचुख्या पक्ष्याला लेखिकेने काय म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "कसरतपटू", "is_correct": true },
+        { "option_id": 2, "text": "आळशी", "is_correct": false },
+        { "option_id": 3, "text": "घाबरट", "is_correct": false },
+        { "option_id": 4, "text": "बलाढ्य", "is_correct": false }
+      ],
+      "answer": "कसरतपटू"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "तांबट पक्षी काम करताना कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "बेसावध", "is_correct": false },
+        { "option_id": 2, "text": "एकाग्र", "is_correct": true },
+        { "option_id": 3, "text": "गोंधळलेला", "is_correct": false },
+        { "option_id": 4, "text": "शांत", "is_correct": false }
+      ],
+      "answer": "एकाग्र"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "शेवगा कोणाचे माहेर बनले होते?",
+      "options": [
+        { "option_id": 1, "text": "माणसांचे", "is_correct": false },
+        { "option_id": 2, "text": "विविध पशू-पक्षी आणि कीटक-किड्यांचे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त लेखिकेचे", "is_correct": false },
+        { "option_id": 4, "text": "शेजाऱ्यांचे", "is_correct": false }
+      ],
+      "answer": "विविध पशू-पक्षी आणि कीटक-किड्यांचे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "हा पाठ कशावर आधारित आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्रवासावर", "is_correct": false },
+        { "option_id": 2, "text": "झाडाच्या आणि निसर्गाच्या निरीक्षणावर", "is_correct": true },
+        { "option_id": 3, "text": "खेळावर", "is_correct": false },
+        { "option_id": 4, "text": "शाळेवर", "is_correct": false }
+      ],
+      "answer": "झाडाच्या आणि निसर्गाच्या निरीक्षणावर"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "'फुलोरा' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "फळांचा ढीग", "is_correct": false },
+        { "option_id": 2, "text": "फुलांचा बहर", "is_correct": true },
+        { "option_id": 3, "text": "फुलांचा वास", "is_correct": false },
+        { "option_id": 4, "text": "फुलांची माळ", "is_correct": false }
+      ],
+      "answer": "फुलांचा बहर"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "लेखिकेच्या घरी कोणते झाड होते?",
+      "answer": "लेखिकेच्या घरी शेवग्याचे झाड होते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "शेवग्याच्या झाडाला कशा प्रकारची पालवी फुटली होती?",
+      "answer": "शेवग्याच्या झाडाला सुंदर, हिरवट पोपटी आणि नाजूक पालवी फुटली होती."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "झाडावर फुलांचे घोस कसे दिसत होते?",
+      "answer": "पांढऱ्या रंगाच्या फुलांचे घोसच्या घोस झाडावर लोंबत होते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "शेजारच्या काकूंनी काय सल्ला दिला?",
+      "answer": "शेजारच्या काकूंनी दारात शेवगा लावू नये, त्याने भांडणे होतात, म्हणून तो तोडून टाकावा असा सल्ला दिला."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "आईने झाड तोडण्यास का नकार दिला?",
+      "answer": "आई म्हणाली की झाडे परोपकारी असतात, ती भांडणे लावत नाहीत, आणि तिने ते झाड जोपासण्यासाठी लावले आहे, तोडण्यासाठी नाही."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "झाडे आपल्याला काय काय देतात?",
+      "answer": "झाडे आपल्याला फळे, फुले, सावली, आधार देतात आणि पक्ष्यांना घरे देतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "काकूंच्या मते भांडणे कशामुळे होतील?",
+      "answer": "काकूंच्या मते लोक शेंगा तोडून नेतील तेव्हा भांडणे होतील."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "आई शेंगांबद्दल काय म्हणाली?",
+      "answer": "आई म्हणाली की शेंगा नेल्या तर नेऊ देत, त्या फक्त आपल्यासाठी लागल्या नाहीत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "लेखिकेसाठी शेवगा म्हणजे काय होते?",
+      "answer": "लेखिकेसाठी शेवगा म्हणजे निसर्गाचा अनमोल ठेवा होता."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "शेवग्यामुळे लेखिकेला कशाची ओळख झाली?",
+      "answer": "शेवग्यामुळे लेखिकेला विविध पक्ष्यांची अगदी जवळून ओळख झाली."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "झाडावर कोणता भुंगा येत असे?",
+      "answer": "झाडावर जांभळट-काळ्या रंगाचा टपोरा भुंगा येत असे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "मधमाश्या काय करत होत्या?",
+      "answer": "मधमाश्या फुलांमधला मध पिऊन फुलांभोवती नाचत होत्या."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "फुलचुख्या पक्षी कसा असतो?",
+      "answer": "फुलचुख्या पक्षी इटुकला, बोटभर आणि चपळ असतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "फुलचुख्या पक्षी काय करण्यात पटाईत आहे?",
+      "answer": "फुलचुख्या पक्षी हवेत तरंगत फुलांतील मध चोखण्यात पटाईत आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "तांबट पक्षी कसा आवाज करतो?",
+      "answer": "तांबट पक्षी 'तुकतुक' असा टणत्कार करणारा आवाज करतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कोकीळ पक्षी कुठे बसलेला दिसला?",
+      "answer": "कोकीळ पक्षी शेवग्याच्या उंच फांदीच्या शेंड्यावर बसलेला दिसला."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "राघू पक्षी काय शिकार करतात?",
+      "answer": "राघू पक्षी हवेत तरंगत किडे आणि परागकेशरांची शिकार करतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पोपटांचे वर्णन लेखिकेने कसे केले आहे?",
+      "answer": "पोपटांचा हिरवागार रंग, लांबसडक शेपूट आणि नखरेबाज हालचाल असे वर्णन केले आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "साळुंक्यांचा आवाज कसा असतो?",
+      "answer": "साळुंक्यांचा आवाज एकसारखा किलकिल आणि कान किट्ट करणारा असतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "खंड्या पक्षी कधी हजेरी लावत असे?",
+      "answer": "खंड्या पक्षी हिवाळ्यात नियमित हजेरी लावत असे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "खंड्या पक्ष्याचे रूप कसे असते?",
+      "answer": "खंड्या पक्ष्याचा मोरपंखी निळा रंग आणि बाकदार मोठी चोच असते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "लेखिकेने झाडाला 'अजबखाना' का म्हटले आहे?",
+      "answer": "कारण झाडाने तिला अनेक सुंदर पक्षी, किडे आणि कीटकांची ओळख करून दिली."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "झाडाने लेखिकेला काय काय दिले?",
+      "answer": "झाडाने लेखिकेला मनोरंजन, ज्ञान आणि आनंद दिला."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "शेवग्याची पाने कशी दिसतात?",
+      "answer": "शेवग्याची पाने सुरेख, झिरमिर आणि हिरवीगार दिसतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "झाडाचा कोणता रंग मन प्रसन्न करतो?",
+      "answer": "झाडाचा हिरवा रंग मन प्रसन्न करतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "झाडाच्या अंगाखांद्यावर काय बहरलेले असते?",
+      "answer": "झाडाच्या अंगाखांद्यावर पक्ष्यांचा उत्साह बहरलेला असतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "लेखिका आनंद उत्सवात काय करते?",
+      "answer": "लेखिका आनंद उत्सवात सहभागी होऊन नाचू आणि गाऊ लागते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "'रुंजी घालणे' म्हणजे काय?",
+      "answer": "'रुंजी घालणे' म्हणजे भोवती गोल गोल फिरणे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "'फन्ना उडवणे' म्हणजे काय?",
+      "answer": "'फन्ना उडवणे' म्हणजे सर्व खाऊन संपवणे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "'सुळकी मारणे' म्हणजे काय?",
+      "answer": "'सुळकी मारणे' म्हणजे वेगाने खाली झेप घेणे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "लेखिका कोणाची निगा राखते?",
+      "answer": "लेखिका तिच्या आवडत्या मित्ररुपी शेवग्याच्या झाडाची निगा राखते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "बुलबुल पक्ष्याच्या आवाजाचे वैशिष्ट्य काय?",
+      "answer": "बुलबुल पक्ष्याच्या आवाजात सुरेल ताना असतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "शेवग्याच्या झाडाला फुलांचा काय लोंबत होता?",
+      "answer": "शेवग्याच्या झाडाला फुलांचे घोस लोंबत होते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "पशू-पक्षी आणि कीटकांचे माहेर कोणते होते?",
+      "answer": "लेखिकेच्या घरी असलेला शेवगा हे पशू-पक्षी आणि कीटकांचे माहेर होते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "तांबट पक्षी काम करताना कसा दिसतो?",
+      "answer": "तांबट पक्षी मनमुरादपणे मान खाली-वर करत, अगदी एकाग्रतेने काम करताना दिसतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "लेखिकेला खंड्या पक्षी पाहून नवल का वाटले?",
+      "answer": "कारण एरवी तिने खंड्याला फक्त चित्रातच पाहिले होते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "शेवगा कोणाला साद घालत असतो?",
+      "answer": "शेवगा पक्ष्यांना साद घालत असतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "'आनंदाचं झाड' या पाठातून कोणता संदेश मिळतो?",
+      "answer": "झाडे लावावीत, जोपासावीत आणि निसर्गाच्या सहवासात आनंद घ्यावा हा संदेश मिळतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "'चित्र' या शब्दाला 'कार' प्रत्यय लावून कोणता शब्द तयार होतो?",
+      "answer": "'चित्रकार' हा शब्द तयार होतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "'गीत' या शब्दाला 'कार' प्रत्यय लावून कोणता शब्द तयार होतो?",
+      "answer": "'गीतकार' हा शब्द तयार होतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "'परोपकार करणे' या वाक्प्रचाराचा अर्थ काय?",
+      "answer": "दुसऱ्याचे भले करणे किंवा दुसऱ्यावर उपकार करणे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "लेखिकेला काकूंचा राग का आला?",
+      "answer": "इतके सुंदर झाड तोडून टाकायला सांगितल्यामुळे लेखिकेला काकूंचा राग आला."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "शेवग्याच्या शेंगा कशा असतात?",
+      "answer": "शेवग्याच्या शेंगा लांब आणि हिरव्या असतात (खाण्यासाठी वापरतात)."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "फुलांभोवती भुंगे काय करत होते?",
+      "answer": "फुलांभोवती भुंगे गुंजारव करत होते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "लेखिकेच्या मते झाड तोडणे योग्य आहे का?",
+      "answer": "नाही, लेखिकेच्या मते झाड तोडणे अयोग्य आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "कोकीळ पक्षी फांदीवर कसा बसला होता?",
+      "answer": "कोकीळ पक्षी फांदीवर शांतपणे बसला होता."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "या पाठात 'पठ्ठा' हा शब्द कोणासाठी वापरला आहे?",
+      "answer": "या पाठात 'पठ्ठा' हा शब्द शेवग्याच्या झाडासाठी (कौतुकाने) वापरला आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "शेवग्याची पाने कशी होती?",
+      "answer": "शेवग्याची पाने हिरवी आणि नक्षीदार जाळीसारखी होती."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "झाडावर कशाचा मेळा भरत असे?",
+      "answer": "झाडावर रंगीबेरंगी पक्ष्यांचा अखंड मेळा भरत असे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "लेखिका झाडाला काय मानते?",
+      "answer": "लेखिका झाडाला आपला आवडता मित्र मानते."
+    }
+  ]
+}

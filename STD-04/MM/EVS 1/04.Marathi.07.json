@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.07",
+    "standard": "4",
+    "subject": "परिसर अभ्यास (भाग १)",
+    "medium": "Marathi",
+    "chapter_name": "आहाराची पौष्टिकता"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आपल्याला अन्नाची गरज कशासाठी असते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त चवीसाठी", "is_correct": false },
+        { "option_id": 2, "text": "शरीराच्या कामासाठी व वाढीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "खेळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "शरीराच्या कामासाठी व वाढीसाठी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "रोजच्या जेवणात आपण कोणते पदार्थ जास्त प्रमाणात खातो?",
+      "options": [
+        { "option_id": 1, "text": "चपाती, भाकरी, भात", "is_correct": true },
+        { "option_id": 2, "text": "लोणचे, पापड", "is_correct": false },
+        { "option_id": 3, "text": "चटणी, मीठ", "is_correct": false },
+        { "option_id": 4, "text": "फळे, भाज्या", "is_correct": false }
+      ],
+      "answer": "चपाती, भाकरी, भात"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "आपले प्रमुख अन्नपदार्थ कोणते आहेत?",
+      "options": [
+        { "option_id": 1, "text": "मका आणि नाचणी", "is_correct": false },
+        { "option_id": 2, "text": "गहू, ज्वारी, बाजरी आणि तांदूळ", "is_correct": true },
+        { "option_id": 3, "text": "हरभरा आणि तूर", "is_correct": false },
+        { "option_id": 4, "text": "मटकी आणि मूग", "is_correct": false }
+      ],
+      "answer": "गहू, ज्वारी, बाजरी आणि तांदूळ"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "लोणी आणि तूप कशापासून मिळते?",
+      "options": [
+        { "option_id": 1, "text": "फळांपासून", "is_correct": false },
+        { "option_id": 2, "text": "दुधापासून", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यापासून", "is_correct": false },
+        { "option_id": 4, "text": "धान्यापासून", "is_correct": false }
+      ],
+      "answer": "दुधापासून"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "तेल मिळवण्यासाठी कोणते पदार्थ जास्त वापरले जातात?",
+      "options": [
+        { "option_id": 1, "text": "गहू आणि तांदूळ", "is_correct": false },
+        { "option_id": 2, "text": "शेंगदाणा, करडई, तीळ", "is_correct": true },
+        { "option_id": 3, "text": "बाजरी आणि ज्वारी", "is_correct": false },
+        { "option_id": 4, "text": "डाळी", "is_correct": false }
+      ],
+      "answer": "शेंगदाणा, करडई, तीळ"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "लिंबू, चिंच आणि कैरी हे पदार्थ चवीला कसे लागतात?",
+      "options": [
+        { "option_id": 1, "text": "गोड", "is_correct": false },
+        { "option_id": 2, "text": "तिखट", "is_correct": false },
+        { "option_id": 3, "text": "आंबट", "is_correct": true },
+        { "option_id": 4, "text": "कडू", "is_correct": false }
+      ],
+      "answer": "आंबट"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गोड पदार्थ बनवण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "मीठ", "is_correct": false },
+        { "option_id": 2, "text": "साखर किंवा गूळ", "is_correct": true },
+        { "option_id": 3, "text": "तेल", "is_correct": false },
+        { "option_id": 4, "text": "मसाले", "is_correct": false }
+      ],
+      "answer": "साखर किंवा गूळ"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शरीराची कामे होण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "ऊर्जेची", "is_correct": true },
+        { "option_id": 2, "text": "झोपेची", "is_correct": false },
+        { "option_id": 3, "text": "खेळाची", "is_correct": false },
+        { "option_id": 4, "text": "कपड्यांची", "is_correct": false }
+      ],
+      "answer": "ऊर्जेची"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कोणत्या अन्नामुळे शरीर धष्टपुष्ट बनते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त गोड पदार्थ", "is_correct": false },
+        { "option_id": 2, "text": "पौष्टिक अन्नघटक", "is_correct": true },
+        { "option_id": 3, "text": "फक्त पाणी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त भात", "is_correct": false }
+      ],
+      "answer": "पौष्टिक अन्नघटक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आजाराविरुद्ध लढण्याची ताकद शरीराला कोठून मिळते?",
+      "options": [
+        { "option_id": 1, "text": "औषधांतून", "is_correct": false },
+        { "option_id": 2, "text": "अन्नातील काही अन्नघटकांमुळे", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "हवेमुळे", "is_correct": false }
+      ],
+      "answer": "अन्नातील काही अन्नघटकांमुळे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "महाग पदार्थ नेहमी पौष्टिक असतात का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अन्न शिजवताना त्यात पाणी कसे घालावे?",
+      "options": [
+        { "option_id": 1, "text": "खूप जास्त", "is_correct": false },
+        { "option_id": 2, "text": "आवश्यक तेवढेच", "is_correct": true },
+        { "option_id": 3, "text": "अजिबात नाही", "is_correct": false },
+        { "option_id": 4, "text": "थंड पाणी", "is_correct": false }
+      ],
+      "answer": "आवश्यक तेवढेच"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "अन्न लवकर शिजवण्यासाठी कशाचा वापर करावा?",
+      "options": [
+        { "option_id": 1, "text": "प्रेशर कुकर", "is_correct": true },
+        { "option_id": 2, "text": "उघडे पातेले", "is_correct": false },
+        { "option_id": 3, "text": "मोठी कढई", "is_correct": false },
+        { "option_id": 4, "text": "मातीचे भांडे", "is_correct": false }
+      ],
+      "answer": "प्रेशर कुकर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कडधान्यांना काय आणून वापरावे म्हणजे ती पौष्टिक ठरतात?",
+      "options": [
+        { "option_id": 1, "text": "साखर", "is_correct": false },
+        { "option_id": 2, "text": "मीठ", "is_correct": false },
+        { "option_id": 3, "text": "मोड", "is_correct": true },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "मोड"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पिठातील कोंडा काढून टाकावा का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "भाकरी करताना", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "चिकू, अंजीरे, द्राक्षे ही फळे कशी खावीत?",
+      "options": [
+        { "option_id": 1, "text": "सोलून", "is_correct": false },
+        { "option_id": 2, "text": "सालांसकट", "is_correct": true },
+        { "option_id": 3, "text": "शिजवून", "is_correct": false },
+        { "option_id": 4, "text": "कापून", "is_correct": false }
+      ],
+      "answer": "सालांसकट"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कोणत्या भाज्या अधूनमधून न शिजवता खाव्या?",
+      "options": [
+        { "option_id": 1, "text": "वांगी, बटाटे", "is_correct": false },
+        { "option_id": 2, "text": "गाजर, मुळा, काकडी", "is_correct": true },
+        { "option_id": 3, "text": "भेंडी, गवार", "is_correct": false },
+        { "option_id": 4, "text": "कारले, दोडका", "is_correct": false }
+      ],
+      "answer": "गाजर, मुळा, काकडी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "उसळीत कशाच्या फोडी टाकल्याने पौष्टिकता वाढते?",
+      "options": [
+        { "option_id": 1, "text": "कांदा व बटाटा", "is_correct": true },
+        { "option_id": 2, "text": "खडे व माती", "is_correct": false },
+        { "option_id": 3, "text": "कागद", "is_correct": false },
+        { "option_id": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "कांदा व बटाटा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "जिभेमुळे आपल्याला कशाची जाणीव होते?",
+      "options": [
+        { "option_id": 1, "text": "रंगाची", "is_correct": false },
+        { "option_id": 2, "text": "आवाजाची", "is_correct": false },
+        { "option_id": 3, "text": "चवीची", "is_correct": true },
+        { "option_id": 4, "text": "वासाची", "is_correct": false }
+      ],
+      "answer": "चवीची"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "साखर न घालता पाणी गोड लागावे यासाठी काय खावे?",
+      "options": [
+        { "option_id": 1, "text": "मीठ", "is_correct": false },
+        { "option_id": 2, "text": "चिंच", "is_correct": false },
+        { "option_id": 3, "text": "आवळा", "is_correct": true },
+        { "option_id": 4, "text": "लिंबू", "is_correct": false }
+      ],
+      "answer": "आवळा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "खडीसाखर किंवा गुळाची चव कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "खारट", "is_correct": false },
+        { "option_id": 2, "text": "गोड", "is_correct": true },
+        { "option_id": 3, "text": "कडू", "is_correct": false },
+        { "option_id": 4, "text": "तुरट", "is_correct": false }
+      ],
+      "answer": "गोड"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "मिठाची चव कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "गोड", "is_correct": false },
+        { "option_id": 2, "text": "खारट", "is_correct": true },
+        { "option_id": 3, "text": "आंबट", "is_correct": false },
+        { "option_id": 4, "text": "तिखट", "is_correct": false }
+      ],
+      "answer": "खारट"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "चिंच किंवा लिंबू चवीला कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "कडू", "is_correct": false },
+        { "option_id": 2, "text": "तिखट", "is_correct": false },
+        { "option_id": 3, "text": "गोड", "is_correct": false },
+        { "option_id": 4, "text": "आंबट", "is_correct": true }
+      ],
+      "answer": "आंबट"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मेथीचे दाणे किंवा कारल्याची चव कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "कडू", "is_correct": true },
+        { "option_id": 2, "text": "गोड", "is_correct": false },
+        { "option_id": 3, "text": "खारट", "is_correct": false },
+        { "option_id": 4, "text": "तुरट", "is_correct": false }
+      ],
+      "answer": "कडू"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "आवळ्याची चव कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "तिखट", "is_correct": false },
+        { "option_id": 2, "text": "तुरट", "is_correct": true },
+        { "option_id": 3, "text": "खारट", "is_correct": false },
+        { "option_id": 4, "text": "कडू", "is_correct": false }
+      ],
+      "answer": "तुरट"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "जिभेवर छोटे छोटे उंचवटे असतात, त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "चव", "is_correct": false },
+        { "option_id": 2, "text": "रुचिकलिका", "is_correct": true },
+        { "option_id": 3, "text": "पुरळ", "is_correct": false },
+        { "option_id": 4, "text": "अन्ननलिका", "is_correct": false }
+      ],
+      "answer": "रुचिकलिका"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "आपल्या आहारात कोणते पदार्थ असावेत?",
+      "options": [
+        { "option_id": 1, "text": "फक्त आवडीचे", "is_correct": false },
+        { "option_id": 2, "text": "सर्व प्रकारचे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त गोड", "is_correct": false },
+        { "option_id": 4, "text": "फक्त तिखट", "is_correct": false }
+      ],
+      "answer": "सर्व प्रकारचे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "शरीराची झीज कशामुळे भरून निघते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "अन्नघटकांमुळे", "is_correct": true },
+        { "option_id": 3, "text": "हवेमुळे", "is_correct": false },
+        { "option_id": 4, "text": "खेळामुळे", "is_correct": false }
+      ],
+      "answer": "अन्नघटकांमुळे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कोणता पदार्थ आपण कच्चा खातो?",
+      "options": [
+        { "option_id": 1, "text": "भात", "is_correct": false },
+        { "option_id": 2, "text": "काकडी", "is_correct": true },
+        { "option_id": 3, "text": "बटाटा", "is_correct": false },
+        { "option_id": 4, "text": "वांगे", "is_correct": false }
+      ],
+      "answer": "काकडी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "प्राण्यांपासून मिळणारा पदार्थ कोणता?",
+      "options": [
+        { "option_id": 1, "text": "गाजर", "is_correct": false },
+        { "option_id": 2, "text": "अंडी", "is_correct": true },
+        { "option_id": 3, "text": "भाकरी", "is_correct": false },
+        { "option_id": 4, "text": "चपाती", "is_correct": false }
+      ],
+      "answer": "अंडी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "मिरचीची चव कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "गोड", "is_correct": false },
+        { "option_id": 2, "text": "कडू", "is_correct": false },
+        { "option_id": 3, "text": "तिखट", "is_correct": true },
+        { "option_id": 4, "text": "तुरट", "is_correct": false }
+      ],
+      "answer": "तिखट"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भाकरी करण्यासाठी कशाचे पीठ वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "गहू", "is_correct": false },
+        { "option_id": 2, "text": "ज्वारी किंवा बाजरी", "is_correct": true },
+        { "option_id": 3, "text": "तांदूळ", "is_correct": false },
+        { "option_id": 4, "text": "मका", "is_correct": false }
+      ],
+      "answer": "ज्वारी किंवा बाजरी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "तांदळापासून काय बनवतात?",
+      "options": [
+        { "option_id": 1, "text": "भाकरी", "is_correct": false },
+        { "option_id": 2, "text": "चपाती", "is_correct": false },
+        { "option_id": 3, "text": "भात", "is_correct": true },
+        { "option_id": 4, "text": "वडापाव", "is_correct": false }
+      ],
+      "answer": "भात"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "फळे गोड का लागतात?",
+      "options": [
+        { "option_id": 1, "text": "त्यात साखर असते", "is_correct": true },
+        { "option_id": 2, "text": "त्यात मीठ असते", "is_correct": false },
+        { "option_id": 3, "text": "त्यात पाणी असते", "is_correct": false },
+        { "option_id": 4, "text": "त्यात हवा असते", "is_correct": false }
+      ],
+      "answer": "त्यात साखर असते"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "आपण जेवणात लिंबू कशासाठी पिळतो?",
+      "options": [
+        { "option_id": 1, "text": "गोड चवीसाठी", "is_correct": false },
+        { "option_id": 2, "text": "आंबट चवीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "तिखट चवीसाठी", "is_correct": false },
+        { "option_id": 4, "text": "कडू चवीसाठी", "is_correct": false }
+      ],
+      "answer": "आंबट चवीसाठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "भाजणीचे थालीपीठ नुसत्या भाकरीपेक्षा पौष्टिक का असते?",
+      "options": [
+        { "option_id": 1, "text": "त्यात तेल असते", "is_correct": false },
+        { "option_id": 2, "text": "त्यात अनेक धान्ये व डाळी असतात", "is_correct": true },
+        { "option_id": 3, "text": "ते भाजलेले असते", "is_correct": false },
+        { "option_id": 4, "text": "ते महाग असते", "is_correct": false }
+      ],
+      "answer": "त्यात अनेक धान्ये व डाळी असतात"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "दाण्याचे कूट भाजीमध्ये घातल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "भाजी तिखट होते", "is_correct": false },
+        { "option_id": 2, "text": "भाजीची पौष्टिकता वाढते", "is_correct": true },
+        { "option_id": 3, "text": "भाजी खराब होते", "is_correct": false },
+        { "option_id": 4, "text": "भाजी काळी पडते", "is_correct": false }
+      ],
+      "answer": "भाजीची पौष्टिकता वाढते"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "शरीरातील हाडे मजबूत करण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याची", "is_correct": false },
+        { "option_id": 2, "text": "विशिष्ट अन्नघटकांची", "is_correct": true },
+        { "option_id": 3, "text": "साखरेची", "is_correct": false },
+        { "option_id": 4, "text": "मिठाची", "is_correct": false }
+      ],
+      "answer": "विशिष्ट अन्नघटकांची"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "शरीराची सर्व कामे नीट होण्यासाठी काय पिणे गरजेचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "चहा", "is_correct": false },
+        { "option_id": 2, "text": "कॉफी", "is_correct": false },
+        { "option_id": 3, "text": "भरपूर पाणी", "is_correct": true },
+        { "option_id": 4, "text": "शरबत", "is_correct": false }
+      ],
+      "answer": "भरपूर पाणी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "स्वस्त पदार्थ कमी पौष्टिक असतात का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही, तेही पौष्टिक असू शकतात", "is_correct": true },
+        { "option_id": 3, "text": "नेहमीच", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "नाही, तेही पौष्टिक असू शकतात"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "अन्न शिजवताना झाकण का ठेवावे?",
+      "options": [
+        { "option_id": 1, "text": "अन्न गरम राहण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "पौष्टिक घटक टिकवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पाणी वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "दिसण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पौष्टिक घटक टिकवण्यासाठी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "मोड आलेली कडधान्ये कशी वापरावीत?",
+      "options": [
+        { "option_id": 1, "text": "मोड लांब झाल्यावर", "is_correct": false },
+        { "option_id": 2, "text": "मोड लहान असतानाच", "is_correct": true },
+        { "option_id": 3, "text": "वाळवून", "is_correct": false },
+        { "option_id": 4, "text": "तळून", "is_correct": false }
+      ],
+      "answer": "मोड लहान असतानाच"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "फळे सालांसकट का खावीत?",
+      "options": [
+        { "option_id": 1, "text": "वेळ वाचतो म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "पैसे वाचतात म्हणून", "is_correct": false },
+        { "option_id": 3, "text": "त्यात पौष्टिक घटक असतात म्हणून", "is_correct": true },
+        { "option_id": 4, "text": "ती कडू लागतात म्हणून", "is_correct": false }
+      ],
+      "answer": "त्यात पौष्टिक घटक असतात म्हणून"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "कोशिंबीर कशाची करतात?",
+      "options": [
+        { "option_id": 1, "text": "तांदळाची", "is_correct": false },
+        { "option_id": 2, "text": "गव्हाची", "is_correct": false },
+        { "option_id": 3, "text": "भाज्यांची (गाजर, काकडी इ.)", "is_correct": true },
+        { "option_id": 4, "text": "दुधाची", "is_correct": false }
+      ],
+      "answer": "भाज्यांची (गाजर, काकडी इ.)"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "दही कशापासून बनते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यापासून", "is_correct": false },
+        { "option_id": 2, "text": "दुधापासून", "is_correct": true },
+        { "option_id": 3, "text": "फळांपासून", "is_correct": false },
+        { "option_id": 4, "text": "तेलापासून", "is_correct": false }
+      ],
+      "answer": "दुधापासून"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "चपाती कशापासून बनते?",
+      "options": [
+        { "option_id": 1, "text": "ज्वारीच्या पिठापासून", "is_correct": false },
+        { "option_id": 2, "text": "गव्हाच्या पिठापासून", "is_correct": true },
+        { "option_id": 3, "text": "बाजरीच्या पिठापासून", "is_correct": false },
+        { "option_id": 4, "text": "तांदळाच्या पिठापासून", "is_correct": false }
+      ],
+      "answer": "गव्हाच्या पिठापासून"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "तिखट चव कशामुळे येते?",
+      "options": [
+        { "option_id": 1, "text": "मीठ", "is_correct": false },
+        { "option_id": 2, "text": "साखर", "is_correct": false },
+        { "option_id": 3, "text": "मिरची", "is_correct": true },
+        { "option_id": 4, "text": "चिंच", "is_correct": false }
+      ],
+      "answer": "मिरची"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "शरीराची वाढ कशामुळे होते?",
+      "options": [
+        { "option_id": 1, "text": "खेळल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "अन्नघटकांमुळे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त झोपल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "टीव्ही बघितल्यामुळे", "is_correct": false }
+      ],
+      "answer": "अन्नघटकांमुळे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "रुचिकलिका कोठे असतात?",
+      "options": [
+        { "option_id": 1, "text": "दातांवर", "is_correct": false },
+        { "option_id": 2, "text": "ओठांवर", "is_correct": false },
+        { "option_id": 3, "text": "जिभेवर", "is_correct": true },
+        { "option_id": 4, "text": "टाळूवर", "is_correct": false }
+      ],
+      "answer": "जिभेवर"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "शेतात पिकणाऱ्या कोणत्या पिकात साखर जास्त असते?",
+      "options": [
+        { "option_id": 1, "text": "ऊस", "is_correct": true },
+        { "option_id": 2, "text": "कापूस", "is_correct": false },
+        { "option_id": 3, "text": "गहू", "is_correct": false },
+        { "option_id": 4, "text": "बाजरी", "is_correct": false }
+      ],
+      "answer": "ऊस"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "आहार म्हणजे काय?",
+      "answer": "रोजच्या जेवणात आपण जे अन्नपदार्थ खातो, त्या सर्वांना मिळून आहार म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "अन्नाची गरज का असते?",
+      "answer": "शरीराची वाढ होण्यासाठी, झीज भरून काढण्यासाठी आणि काम करण्यासाठी अन्नाची गरज असते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "आपले प्रमुख अन्नपदार्थ कोणते आहेत?",
+      "answer": "गहू, ज्वारी, बाजरी आणि तांदूळ हे आपले प्रमुख अन्नपदार्थ आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "चपाती, भाकरी, भात हे पदार्थ आपण जास्त का खातो?",
+      "answer": "कारण हे पदार्थ आपल्या आहारात नियमितपणे असतात आणि ते आपण इतर पदार्थांपेक्षा जास्त प्रमाणात खातो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "अन्नपदार्थात विविधता का असते?",
+      "answer": "वेगवेगळ्या कारणांसाठी (पिठे, तेल, चव) आपण वेगवेगळे अन्नपदार्थ वापरतो, म्हणून अन्नपदार्थात विविधता असते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शरीराला ऊर्जा कशासाठी लागते?",
+      "answer": "दिवसभर कामे करण्यासाठी, खेळण्यासाठी आणि शरीरातील श्वसन, पचन अशा क्रिया चालू राहण्यासाठी शरीराला ऊर्जा लागते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पौष्टिक आहारामुळे शरीराला काय फायदा होतो?",
+      "answer": "पौष्टिक आहारामुळे शरीराचे चांगले पोषण होते, शरीर धष्टपुष्ट बनते आणि आजाराविरुद्ध लढण्याची ताकद मिळते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अन्न शिजवताना कोणती काळजी घ्यावी?",
+      "answer": "अन्न शिजवताना आवश्यक तेवढेच पाणी घालावे आणि प्रेशर कुकरचा वापर करावा किंवा भांड्यावर झाकण ठेवावे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कडधान्यांना मोड का आणावेत?",
+      "answer": "कडधान्यांना मोड आणल्यामुळे त्यांतील पौष्टिक घटक वाढतात, म्हणून त्यांना मोड आणावेत."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पिठातील कोंडा का काढू नये?",
+      "answer": "कोंड्यामध्ये पौष्टिक घटक असतात, म्हणून पिठातील कोंडा चाळून काढून टाकू नये."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "फळे सालांसकट का खावीत?",
+      "answer": "फळांच्या सालांमध्ये विविध जीवनसत्त्वे आणि पौष्टिक घटक असतात, म्हणून ती सालांसकट खावीत."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कोशिंबीर कशाची करतात?",
+      "answer": "गाजर, मुळा, काकडी, बीट, टोमॅटो अशा भाज्यांपासून कोशिंबीर करतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "रुचिकलिका म्हणजे काय?",
+      "answer": "जिभेवर जे छोटे छोटे उंचवटे असतात, ज्यांच्या मदतीने आपल्याला चव कळते, त्यांना रुचिकलिका म्हणतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "आवळा खाल्ल्यावर पाणी गोड का लागते?",
+      "answer": "आवळा तुरट असतो, तो खाल्ल्यावर जिभेला वेगळी चव येते, त्यामुळे त्यानंतर पाणी प्यायल्यास ते गोड लागते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "साखर आणि गूळ कशापासून मिळतात?",
+      "answer": "साखर आणि गूळ उसापासून मिळतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "मिठाची चव कशी असते?",
+      "answer": "मिठाची चव खारट असते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "आंबट चव देणारे दोन पदार्थ सांगा.",
+      "answer": "चिंच, लिंबू, कैरी, कोकम हे आंबट चव देणारे पदार्थ आहेत."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कडू चव कोणत्या पदार्थांची असते?",
+      "answer": "कारले आणि मेथीचे दाणे यांची चव कडू असते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "तुरट चव कोणत्या फळाची असते?",
+      "answer": "आवळा या फळाची चव तुरट असते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पाणी भरपूर का प्यावे?",
+      "answer": "शरीराची सर्व कामे नीट होण्यासाठी शरीराला भरपूर पाण्याची गरज असते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "महागडे पदार्थ नेहमी पौष्टिक असतात का?",
+      "answer": "नाही, सर्वच महागडे पदार्थ पौष्टिक नसतात, स्वस्त पदार्थही पौष्टिक असू शकतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "तांदळापासून कोणकोणते पदार्थ बनवतात?",
+      "answer": "तांदळापासून भात, इडली, डोसा, मोदक, भाकरी इत्यादी पदार्थ बनवतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "गव्हापासून कोणकोणते पदार्थ बनवतात?",
+      "answer": "गव्हापासून चपाती, पुरी, पराठा, शिरा, लापशी इत्यादी पदार्थ बनवतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "ज्वारी-बाजरीपासून काय बनवतात?",
+      "answer": "ज्वारी-बाजरीपासून प्रामुख्याने भाकरी बनवतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "तेल कशापासून मिळते?",
+      "answer": "तेल शेंगदाणा, तीळ, करडई, मोहरी, सूर्यफूल इत्यादींपासून मिळते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "दही, ताक, लोणी कशापासून मिळते?",
+      "answer": "दही, ताक, लोणी, तूप हे पदार्थ दुधापासून मिळतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "अंडी आणि मांस कोठून मिळते?",
+      "answer": "अंडी आणि मांस प्राण्यांपासून (कोंबडी, बकरी इ.) मिळते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "आहारात विविधता का असावी?",
+      "answer": "शरीराच्या पोषणासाठी आवश्यक सर्व घटक मिळावेत म्हणून आहारात विविधता असावी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "दोन-तीन पदार्थ एकत्र करून शिजवल्याने काय होते?",
+      "answer": "दोन-तीन पदार्थ एकत्र केल्याने अन्नाची पौष्टिकता वाढते (उदा. उसळीत कांदा-बटाटा टाकणे)."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "उसळीत काय टाकल्यास ती अधिक पौष्टिक होते?",
+      "answer": "उसळीत कांदा, बटाटा किंवा शेवग्याच्या शेंगा टाकल्यास ती अधिक पौष्टिक होते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "वरणभातावर लिंबू का पिळतात?",
+      "answer": "वरणभातावर लिंबू पिळल्याने अन्नाला चांगली चव येते आणि पौष्टिकताही वाढते (जीवनसत्त्व 'क' मिळते)."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "पालेभाज्या खाणे का गरजेचे आहे?",
+      "answer": "पालेभाज्यांमध्ये जीवनसत्त्वे आणि खनिजे असतात, जी शरीरासाठी आवश्यक असतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "दुधाला विरजण लावून काय बनते?",
+      "answer": "दुधाला विरजण लावून दही बनते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "कोणत्या ऋतूत आमरस जास्त खाल्ला जातो?",
+      "answer": "उन्हाळ्यात (आंब्याच्या हंगामात) आमरस जास्त खाल्ला जातो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "जिभेची गंमत म्हणजे काय?",
+      "answer": "एखादा पदार्थ खाल्ल्यावर दुसऱ्या पदार्थाची चव बदलणे, उदा. आवळा खाल्ल्यावर पाणी गोड लागणे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "आपण कच्च्या भाज्या का खाव्यात?",
+      "answer": "काही भाज्या शिजवल्यावर त्यांतील जीवनसत्त्वे नष्ट होतात, म्हणून त्या कच्च्या (कोशिंबीर करून) खाव्यात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "अन्न शिजवताना झाकण ठेवल्याने काय फायदा होतो?",
+      "answer": "झाकण ठेवल्याने अन्न लवकर शिजते आणि त्यांतील पोषक घटक वाफेवाटे उडून जात नाहीत."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "मोड आलेली कडधान्ये कशी खावीत?",
+      "answer": "मोड आलेली कडधान्ये शिजवून किंवा कच्ची उसळ करून खावीत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "प्रेशर कुकरचा वापर का करावा?",
+      "answer": "प्रेशर कुकरमुळे अन्न लवकर शिजते आणि इंधनाची व वेळेची बचत होते, तसेच पौष्टिकता टिकते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "सर्वच अन्नपदार्थ आहारात का असावेत?",
+      "answer": "कारण प्रत्येक अन्नपदार्थातून शरीराला वेगवेगळे आणि आवश्यक असे पोषक घटक मिळतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "शरीराची वाढ आणि झीज भरून काढणारे घटक कशात असतात?",
+      "answer": "हे घटक प्रामुख्याने कडधान्ये, डाळी, दूध, अंडी यांसारख्या पदार्थांत असतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "ऊर्जा देणारे पदार्थ कोणते?",
+      "answer": "गहू, तांदूळ, ज्वारी, बाजरी, साखर, तेल, तूप हे ऊर्जा देणारे पदार्थ आहेत."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "मिरचीचा ठेचा कसा लागतो?",
+      "answer": "मिरचीचा ठेचा खूप तिखट लागतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कारल्याची भाजी कडू लागू नये म्हणून काय करतात?",
+      "answer": "कारल्याच्या फोडींना मीठ लावून ठेवतात आणि धुऊन घेतात किंवा गूळ/साखर व चिंच घालतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "कोणते पदार्थ आपण चमच्याने खातो?",
+      "answer": "वरण, आमटी, खीर, श्रीखंड, बासुंदी यांसारखे पातळ किंवा मऊ पदार्थ आपण चमच्याने खातो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "कोणते पदार्थ आपण हाताने खातो?",
+      "answer": "भाकरी, चपाती, लाडू, फळे यांसारखे पदार्थ आपण हाताने खातो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "डाळी कशापासून मिळतात?",
+      "answer": "डाळी कडधान्यांपासून (तूर, मूग, उडीद, मसूर इ.) मिळतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "पीठ कशापासून तयार होते?",
+      "answer": "धान्य दळून आणले की त्याचे पीठ तयार होते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "अन्नपचनासाठी कशाची गरज असते?",
+      "answer": "अन्नपचनासाठी पाण्याची आणि अन्नातील तंतुमय पदार्थांची (भाज्या, फळे) गरज असते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "आरोग्यासाठी काय महत्त्वाचे आहे?",
+      "answer": "आरोग्यासाठी संतुलित आणि पौष्टिक आहार घेणे तसेच भरपूर पाणी पिणे महत्त्वाचे आहे."
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.02",
+    "standard": "4",
+    "subject": "परिसर अभ्यास (भाग २)",
+    "medium": "Marathi",
+    "chapter_name": "संतांची कामगिरी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "श्रीचक्रधर स्वामी मूळ कोणत्या राज्यातील राजपुत्र होते?",
+      "options": [
+        { "option_id": 1, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_id": 2, "text": "गुजरात", "is_correct": true },
+        { "option_id": 3, "text": "कर्नाटक", "is_correct": false },
+        { "option_id": 4, "text": "मध्य प्रदेश", "is_correct": false }
+      ],
+      "answer": "गुजरात"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "श्रीचक्रधर स्वामींनी कोणत्या पंथाची स्थापना केली?",
+      "options": [
+        { "option_id": 1, "text": "वारकरी पंथ", "is_correct": false },
+        { "option_id": 2, "text": "महानुभाव पंथ", "is_correct": true },
+        { "option_id": 3, "text": "समर्थ संप्रदाय", "is_correct": false },
+        { "option_id": 4, "text": "दत्त संप्रदाय", "is_correct": false }
+      ],
+      "answer": "महानुभाव पंथ"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "श्रीचक्रधर स्वामींच्या आठवणींचा संग्रह कोणत्या ग्रंथात आहे?",
+      "options": [
+        { "option_id": 1, "text": "ज्ञानेश्वरी", "is_correct": false },
+        { "option_id": 2, "text": "लीळाचरित्र", "is_correct": true },
+        { "option_id": 3, "text": "दासबोध", "is_correct": false },
+        { "option_id": 4, "text": "गाथा", "is_correct": false }
+      ],
+      "answer": "लीळाचरित्र"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "संत नामदेव कोणत्या गावचे राहणारे होते?",
+      "options": [
+        { "option_id": 1, "text": "आपेगाव", "is_correct": false },
+        { "option_id": 2, "text": "पैठण", "is_correct": false },
+        { "option_id": 3, "text": "नरसी", "is_correct": true },
+        { "option_id": 4, "text": "देहू", "is_correct": false }
+      ],
+      "answer": "नरसी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "संत नामदेवांनी कोणत्या धर्माच्या प्रसारासाठी महाराष्ट्रभर संचार केला?",
+      "options": [
+        { "option_id": 1, "text": "जैन धर्म", "is_correct": false },
+        { "option_id": 2, "text": "भागवत धर्म", "is_correct": true },
+        { "option_id": 3, "text": "बौद्ध धर्म", "is_correct": false },
+        { "option_id": 4, "text": "शिख धर्म", "is_correct": false }
+      ],
+      "answer": "भागवत धर्म"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कोणाची पदे शिखांच्या 'गुरुग्रंथसाहिब' या ग्रंथात समाविष्ट आहेत?",
+      "options": [
+        { "option_id": 1, "text": "संत ज्ञानेश्वर", "is_correct": false },
+        { "option_id": 2, "text": "संत तुकाराम", "is_correct": false },
+        { "option_id": 3, "text": "संत नामदेव", "is_correct": true },
+        { "option_id": 4, "text": "संत एकनाथ", "is_correct": false }
+      ],
+      "answer": "संत नामदेव"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "संत ज्ञानेश्वर कोणत्या गावचे राहणारे होते?",
+      "options": [
+        { "option_id": 1, "text": "आपेगाव", "is_correct": true },
+        { "option_id": 2, "text": "आळंदी", "is_correct": false },
+        { "option_id": 3, "text": "पैठण", "is_correct": false },
+        { "option_id": 4, "text": "सासवड", "is_correct": false }
+      ],
+      "answer": "आपेगाव"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ज्ञानेश्वरांच्या बहिणीचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "जनाबाई", "is_correct": false },
+        { "option_id": 2, "text": "मुक्ताबाई", "is_correct": true },
+        { "option_id": 3, "text": "कान्होपात्रा", "is_correct": false },
+        { "option_id": 4, "text": "बहिणाबाई", "is_correct": false }
+      ],
+      "answer": "मुक्ताबाई"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "संत ज्ञानेश्वरांनी मराठी भाषेतून कोणता मोठा ग्रंथ लिहिला?",
+      "options": [
+        { "option_id": 1, "text": "ज्ञानेश्वरी", "is_correct": true },
+        { "option_id": 2, "text": "दासबोध", "is_correct": false },
+        { "option_id": 3, "text": "गाथा", "is_correct": false },
+        { "option_id": 4, "text": "भारूड", "is_correct": false }
+      ],
+      "answer": "ज्ञानेश्वरी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ज्ञानेश्वरांनी कोठे जिवंत समाधी घेतली?",
+      "options": [
+        { "option_id": 1, "text": "पंढरपूर", "is_correct": false },
+        { "option_id": 2, "text": "आळंदी", "is_correct": true },
+        { "option_id": 3, "text": "पैठण", "is_correct": false },
+        { "option_id": 4, "text": "देहू", "is_correct": false }
+      ],
+      "answer": "आळंदी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "संत एकनाथ कोणत्या गावचे राहणारे होते?",
+      "options": [
+        { "option_id": 1, "text": "आळंदी", "is_correct": false },
+        { "option_id": 2, "text": "पैठण", "is_correct": true },
+        { "option_id": 3, "text": "देहू", "is_correct": false },
+        { "option_id": 4, "text": "नरसी", "is_correct": false }
+      ],
+      "answer": "पैठण"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "संत एकनाथांनी कशाचा प्रसार केला?",
+      "options": [
+        { "option_id": 1, "text": "जातीभेदाचा", "is_correct": false },
+        { "option_id": 2, "text": "भक्तीमार्गाचा", "is_correct": true },
+        { "option_id": 3, "text": "चैनविलासाचा", "is_correct": false },
+        { "option_id": 4, "text": "युद्धाचा", "is_correct": false }
+      ],
+      "answer": "भक्तीमार्गाचा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मुक्या प्राण्यांवर दया करा असा उपदेश कोणी केला?",
+      "options": [
+        { "option_id": 1, "text": "सम्राट अकबर", "is_correct": false },
+        { "option_id": 2, "text": "संत एकनाथ", "is_correct": true },
+        { "option_id": 3, "text": "निजामशाहा", "is_correct": false },
+        { "option_id": 4, "text": "वतनदार", "is_correct": false }
+      ],
+      "answer": "संत एकनाथ"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "संत तुकाराम कोणत्या गावचे राहणारे होते?",
+      "options": [
+        { "option_id": 1, "text": "देहू", "is_correct": true },
+        { "option_id": 2, "text": "पैठण", "is_correct": false },
+        { "option_id": 3, "text": "आळंदी", "is_correct": false },
+        { "option_id": 4, "text": "नरसी", "is_correct": false }
+      ],
+      "answer": "देहू"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "संत तुकारामांनी आपली वाटणीची कर्जखते कोणत्या नदीत बुडवली?",
+      "options": [
+        { "option_id": 1, "text": "गंगा", "is_correct": false },
+        { "option_id": 2, "text": "इंद्रायणी", "is_correct": true },
+        { "option_id": 3, "text": "गोदावरी", "is_correct": false },
+        { "option_id": 4, "text": "कृष्णा", "is_correct": false }
+      ],
+      "answer": "इंद्रायणी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "समर्थ रामदासांचा जन्म कोणत्या दिवशी झाला?",
+      "options": [
+        { "option_id": 1, "text": "हनुमान जयंती", "is_correct": false },
+        { "option_id": 2, "text": "रामनवमी", "is_correct": true },
+        { "option_id": 3, "text": "शिवजयंती", "is_correct": false },
+        { "option_id": 4, "text": "दसरा", "is_correct": false }
+      ],
+      "answer": "रामनवमी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "समर्थ रामदासांनी कोणता ग्रंथ लिहिला?",
+      "options": [
+        { "option_id": 1, "text": "ज्ञानेश्वरी", "is_correct": false },
+        { "option_id": 2, "text": "दासबोध", "is_correct": true },
+        { "option_id": 3, "text": "लीळाचरित्र", "is_correct": false },
+        { "option_id": 4, "text": "भारूड", "is_correct": false }
+      ],
+      "answer": "दासबोध"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "रामदासांनी बलोपासनेसाठी ठिकठिकाणी कोणाची मंदिरे उभारली?",
+      "options": [
+        { "option_id": 1, "text": "गणपतीची", "is_correct": false },
+        { "option_id": 2, "text": "हनुमानाची", "is_correct": true },
+        { "option_id": 3, "text": "रामाची", "is_correct": false },
+        { "option_id": 4, "text": "शंकराची", "is_correct": false }
+      ],
+      "answer": "हनुमानाची"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रात कोणाच्या कार्यामुळे लोकजागृती झाली?",
+      "options": [
+        { "option_id": 1, "text": "सुलतानांच्या", "is_correct": false },
+        { "option_id": 2, "text": "साधुसंतांच्या", "is_correct": true },
+        { "option_id": 3, "text": "परकीयांच्या", "is_correct": false },
+        { "option_id": 4, "text": "वतनदारांच्या", "is_correct": false }
+      ],
+      "answer": "साधुसंतांच्या"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "संतांनी लोकांच्या मनात कोणती भावना निर्माण केली?",
+      "options": [
+        { "option_id": 1, "text": "विषमतेची", "is_correct": false },
+        { "option_id": 2, "text": "समतेची", "is_correct": true },
+        { "option_id": 3, "text": "भयाची", "is_correct": false },
+        { "option_id": 4, "text": "द्वेषाची", "is_correct": false }
+      ],
+      "answer": "समतेची"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "संत ज्ञानेश्वरांच्या मोठ्या भावाचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "सोपानदेव", "is_correct": false },
+        { "option_id": 2, "text": "निवृत्तिनाथ", "is_correct": true },
+        { "option_id": 3, "text": "नामदेव", "is_correct": false },
+        { "option_id": 4, "text": "एकनाथ", "is_correct": false }
+      ],
+      "answer": "निवृत्तिनाथ"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "संत तुकाराम लोकांना कशाची शिकवण देत?",
+      "options": [
+        { "option_id": 1, "text": "लढाईची", "is_correct": false },
+        { "option_id": 2, "text": "दया, क्षमा, शांती", "is_correct": true },
+        { "option_id": 3, "text": "व्यापाराची", "is_correct": false },
+        { "option_id": 4, "text": "राजकारणाची", "is_correct": false }
+      ],
+      "answer": "दया, क्षमा, शांती"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "समर्थ रामदासांचे मूळ नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "विठ्ठल", "is_correct": false },
+        { "option_id": 2, "text": "नारायण", "is_correct": true },
+        { "option_id": 3, "text": "ज्ञानेश्वर", "is_correct": false },
+        { "option_id": 4, "text": "तुकाराम", "is_correct": false }
+      ],
+      "answer": "नारायण"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "जगाचे कल्याण कोण करील? असे ज्ञानेश्वरांना कोणी विचारले?",
+      "options": [
+        { "option_id": 1, "text": "निवृत्तिनाथ", "is_correct": false },
+        { "option_id": 2, "text": "मुक्ताबाई", "is_correct": true },
+        { "option_id": 3, "text": "आई", "is_correct": false },
+        { "option_id": 4, "text": "गावकरी", "is_correct": false }
+      ],
+      "answer": "मुक्ताबाई"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "चित्रामध्ये संत नामदेव काय करत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "स्वयंपाक", "is_correct": false },
+        { "option_id": 2, "text": "कीर्तन/भजन", "is_correct": true },
+        { "option_id": 3, "text": "झोपले आहेत", "is_correct": false },
+        { "option_id": 4, "text": "शेतकाम", "is_correct": false }
+      ],
+      "answer": "कीर्तन/भजन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "संत नामदेवांनी कोणता संदेश दिला?",
+      "options": [
+        { "option_id": 1, "text": "लढाऊ", "is_correct": false },
+        { "option_id": 2, "text": "मानवधर्माचा", "is_correct": true },
+        { "option_id": 3, "text": "चैनविलासाचा", "is_correct": false },
+        { "option_id": 4, "text": "परकीयांच्या गुलामीचा", "is_correct": false }
+      ],
+      "answer": "मानवधर्माचा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "ज्ञानेश्वरांनी मराठी भाषेतून ज्ञानेश्वरी का लिहिली?",
+      "options": [
+        { "option_id": 1, "text": "कोणालाही कळू नये म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "लोकांना धर्माचे ज्ञान मिळावे म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "त्यांना संस्कृत येत नव्हती म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "सुलतानांच्या आज्ञेवरून", "is_correct": false }
+      ],
+      "answer": "लोकांना धर्माचे ज्ञान मिळावे म्हणून"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "संत एकनाथांनी कोणत्या नदीच्या वाळवंटावर रडणारे पोर उचलून घेतले?",
+      "options": [
+        { "option_id": 1, "text": "इंद्रायणी", "is_correct": false },
+        { "option_id": 2, "text": "गोदावरी", "is_correct": true },
+        { "option_id": 3, "text": "नर्मदा", "is_correct": false },
+        { "option_id": 4, "text": "यमुना", "is_correct": false }
+      ],
+      "answer": "गोदावरी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "ग्यानबा-तुकाराम या जयघोषात ग्यानबा म्हणजे कोण?",
+      "options": [
+        { "option_id": 1, "text": "संत एकनाथ", "is_correct": false },
+        { "option_id": 2, "text": "संत ज्ञानेश्वर", "is_correct": true },
+        { "option_id": 3, "text": "संत नामदेव", "is_correct": false },
+        { "option_id": 4, "text": "समर्थ रामदास", "is_correct": false }
+      ],
+      "answer": "संत ज्ञानेश्वर"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "रामदासांनी लोकांना कोणता मंत्र दिला?",
+      "options": [
+        { "option_id": 1, "text": "आळस करा", "is_correct": false },
+        { "option_id": 2, "text": "शक्तीची उपासना करा", "is_correct": true },
+        { "option_id": 3, "text": "गुलाम बना", "is_correct": false },
+        { "option_id": 4, "text": "वतन मिळवा", "is_correct": false }
+      ],
+      "answer": "शक्तीची उपासना करा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "चित्रामध्ये संत एकनाथ मुलाला कोठे घेऊन चालले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "शाळेत", "is_correct": false },
+        { "option_id": 2, "text": "त्याच्या घरी", "is_correct": true },
+        { "option_id": 3, "text": "किल्ल्यावर", "is_correct": false },
+        { "option_id": 4, "text": "जंगलात", "is_correct": false }
+      ],
+      "answer": "त्याच्या घरी"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "श्रीचक्रधर स्वामींनी कोणत्या गोष्टीचा उपदेश केला?",
+      "options": [
+        { "option_id": 1, "text": "जातीयवादाचा", "is_correct": false },
+        { "option_id": 2, "text": "समतेचा", "is_correct": true },
+        { "option_id": 3, "text": "युद्धाचा", "is_correct": false },
+        { "option_id": 4, "text": "चोरीचा", "is_correct": false }
+      ],
+      "answer": "समतेचा"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "संत नामदेव कोणाचे निस्सीम भक्त होते?",
+      "options": [
+        { "option_id": 1, "text": "गणपतीचे", "is_correct": false },
+        { "option_id": 2, "text": "विठ्ठलाचे", "is_correct": true },
+        { "option_id": 3, "text": "शंकराचे", "is_correct": false },
+        { "option_id": 4, "text": "देवीचे", "is_correct": false }
+      ],
+      "answer": "विठ्ठलाचे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "ज्ञानेश्वरांनी आळंदीला काय केले?",
+      "options": [
+        { "option_id": 1, "text": "घर बांधले", "is_correct": false },
+        { "option_id": 2, "text": "जिवंत समाधी घेतली", "is_correct": true },
+        { "option_id": 3, "text": "दुकान थाटले", "is_correct": false },
+        { "option_id": 4, "text": "किल्ला जिंकला", "is_correct": false }
+      ],
+      "answer": "जिवंत समाधी घेतली"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "संत एकनाथांनी कोणावर दया केली?",
+      "options": [
+        { "option_id": 1, "text": "सुलतानांवर", "is_correct": false },
+        { "option_id": 2, "text": "प्राणिमात्रांवर", "is_correct": true },
+        { "option_id": 3, "text": "शत्रूंवर", "is_correct": false },
+        { "option_id": 4, "text": "वतनदारांवर", "is_correct": false }
+      ],
+      "answer": "प्राणिमात्रांवर"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "संत तुकारामांच्या घरी कोणता व्यवसाय होता?",
+      "options": [
+        { "option_id": 1, "text": "लोहारकाम", "is_correct": false },
+        { "option_id": 2, "text": "शेती आणि किराणा दुकान", "is_correct": true },
+        { "option_id": 3, "text": "विणकाम", "is_correct": false },
+        { "option_id": 4, "text": "सैनिक", "is_correct": false }
+      ],
+      "answer": "शेती आणि किराणा दुकान"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "रामदासांनी कोणता संदेश दिला?",
+      "options": [
+        { "option_id": 1, "text": "शांत बसा", "is_correct": false },
+        { "option_id": 2, "text": "सामर्थ्य आहे चळवळीचे", "is_correct": true },
+        { "option_id": 3, "text": "शत्रूला शरण जा", "is_correct": false },
+        { "option_id": 4, "text": "पळून जा", "is_correct": false }
+      ],
+      "answer": "सामर्थ्य आहे चळवळीचे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "संतांच्या कार्याचा शिवाजी महाराजांना कशासाठी उपयोग झाला?",
+      "options": [
+        { "option_id": 1, "text": "व्यापारासाठी", "is_correct": false },
+        { "option_id": 2, "text": "स्वराज्यस्थापनेसाठी", "is_correct": true },
+        { "option_id": 3, "text": "चैनविलासासाठी", "is_correct": false },
+        { "option_id": 4, "text": "प्रवासासाठी", "is_correct": false }
+      ],
+      "answer": "स्वराज्यस्थापनेसाठी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "चित्रामध्ये संत ज्ञानेश्वर काय करत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "लढत आहेत", "is_correct": false },
+        { "option_id": 2, "text": "लिहित आहेत", "is_correct": true },
+        { "option_id": 3, "text": "पळत आहेत", "is_correct": false },
+        { "option_id": 4, "text": "जेवत आहेत", "is_correct": false }
+      ],
+      "answer": "लिहित आहेत"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "संत नामदेवांनी कोठपर्यंत प्रवास केला होता?",
+      "options": [
+        { "option_id": 1, "text": "फक्त नरसी गाव", "is_correct": false },
+        { "option_id": 2, "text": "पंजाब आणि भारतभर", "is_correct": true },
+        { "option_id": 3, "text": "फक्त अमेरिका", "is_correct": false },
+        { "option_id": 4, "text": "फक्त जपान", "is_correct": false }
+      ],
+      "answer": "पंजाब आणि भारतभर"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रात कोणापासून संतपरंपरा सुरू झाली?",
+      "options": [
+        { "option_id": 1, "text": "शहाजीराजे", "is_correct": false },
+        { "option_id": 2, "text": "चक्रधर, नामदेव, ज्ञानेश्वर, चोखामेळा", "is_correct": true },
+        { "option_id": 3, "text": "शिवाजी महाराज", "is_correct": false },
+        { "option_id": 4, "text": "निजामशाहा", "is_correct": false }
+      ],
+      "answer": "चक्रधर, नामदेव, ज्ञानेश्वर, चोखामेळा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "कोणी लहान नाही, कोणी मोठा नाही, सगळे सारखे ही भावना कोणी रुजवली?",
+      "options": [
+        { "option_id": 1, "text": "वतनदारांनी", "is_correct": false },
+        { "option_id": 2, "text": "संतांनी", "is_correct": true },
+        { "option_id": 3, "text": "मुघलांनी", "is_correct": false },
+        { "option_id": 4, "text": "सुलतानांनी", "is_correct": false }
+      ],
+      "answer": "संतांनी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "संत जनाबाई, सोयराबाई, मुक्ताबाई हे कोण होते?",
+      "options": [
+        { "option_id": 1, "text": "सैनिक", "is_correct": false },
+        { "option_id": 2, "text": "स्त्री संत", "is_correct": true },
+        { "option_id": 3, "text": "राणी", "is_correct": false },
+        { "option_id": 4, "text": "वतनदार", "is_correct": false }
+      ],
+      "answer": "स्त्री संत"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "संत ज्ञानेश्वरांनी लोकांना कशावर श्रद्धा ठेवण्यास सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "सुलतानावर", "is_correct": false },
+        { "option_id": 2, "text": "ईश्वरावर", "is_correct": true },
+        { "option_id": 3, "text": "वतनावर", "is_correct": false },
+        { "option_id": 4, "text": "पैशावर", "is_correct": false }
+      ],
+      "answer": "ईश्वरावर"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "संत ज्ञानेश्वरांचा उपदेश कोठपर्यंत घुमत आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त त्यांच्या गावात", "is_correct": false },
+        { "option_id": 2, "text": "महाराष्ट्राच्या कानाकोपऱ्यांत", "is_correct": true },
+        { "option_id": 3, "text": "फक्त आळंदीत", "is_correct": false },
+        { "option_id": 4, "text": "कोठेही नाही", "is_correct": false }
+      ],
+      "answer": "महाराष्ट्राच्या कानाकोपऱ्यांत"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "ज्ञानेश्वरांच्या काळात धर्माचे ज्ञान कोणत्या ग्रंथात बंदिस्त होते?",
+      "options": [
+        { "option_id": 1, "text": "इंग्रजी", "is_correct": false },
+        { "option_id": 2, "text": "संस्कृत", "is_correct": true },
+        { "option_id": 3, "text": "फार्सी", "is_correct": false },
+        { "option_id": 4, "text": "कन्नड", "is_correct": false }
+      ],
+      "answer": "संस्कृत"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "संत एकनाथांनी लोकांना कोणाला जवळ करण्यास सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "श्रीमंतांना", "is_correct": false },
+        { "option_id": 2, "text": "गोरगरिबांना व मागासलेल्यांना", "is_correct": true },
+        { "option_id": 3, "text": "फक्त वतनदारांना", "is_correct": false },
+        { "option_id": 4, "text": "सुलतानांना", "is_correct": false }
+      ],
+      "answer": "गोरगरिबांना व मागासलेल्यांना"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "संत तुकारामांच्या इंद्रायणी नदीच्या बुडवलेल्या वहीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "दासबोध", "is_correct": false },
+        { "option_id": 2, "text": "तुकारामगाथा", "is_correct": true },
+        { "option_id": 3, "text": "ज्ञानेश्वरी", "is_correct": false },
+        { "option_id": 4, "text": "लीळाचरित्र", "is_correct": false }
+      ],
+      "answer": "तुकारामगाथा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "चित्रामध्ये समर्थ रामदास कोणाची उपासना करण्यास शिकवत आहेत?",
+      "options": [
+        { "option_id": 1, "text": "श्रीमंतीची", "is_correct": false },
+        { "option_id": 2, "text": "शक्तीची", "is_correct": true },
+        { "option_id": 3, "text": "आळसाची", "is_correct": false },
+        { "option_id": 4, "text": "गुलामगिरीची", "is_correct": false }
+      ],
+      "answer": "शक्तीची"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "संतांच्या कार्यामुळे लोकांच्या मनात कोणता भाव निर्माण झाला?",
+      "options": [
+        { "option_id": 1, "text": "नैराश्य", "is_correct": false },
+        { "option_id": 2, "text": "आत्मविश्वास", "is_correct": true },
+        { "option_id": 3, "text": "भय", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्रात संतपरंपरा कोणी सुरू केली?",
+      "answer": "महाराष्ट्रात श्रीचक्रधर, संत नामदेव, संत ज्ञानेश्वर, संत चोखामेळा या संतांनी संतपरंपरा सुरू केली."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "संतांनी लोकांना कोणती शिकवण दिली?",
+      "answer": "संतांनी लोकांना दया, अहिंसा, परोपकार, सेवा, समता आणि बंधुभाव या गुणांची शिकवण दिली. "
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "श्रीचक्रधर स्वामी कोणत्या ठिकाणचे राजपुत्र होते?",
+      "answer": "श्रीचक्रधर स्वामी मूळ गुजरातमधील एक राजपुत्र होते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "महानुभाव पंथ कोणी स्थापन केला?",
+      "answer": "महानुभाव पंथ श्रीचक्रधर स्वामी यांनी स्थापन केला."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "लीळाचरित्र हा ग्रंथ कशावर आधारित आहे?",
+      "answer": "लीळाचरित्र हा ग्रंथ श्रीचक्रधर स्वामींच्या आठवणींचा संग्रह आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "संत नामदेव कोणत्या गावचे होते?",
+      "answer": "संत नामदेव नरसी गावचे राहणारे होते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "संत नामदेवांच्या कार्याचा परिणाम काय झाला?",
+      "answer": "संत नामदेवांनी जनतेत जागृती निर्माण केली आणि भागवत धर्माचा प्रसार केला."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "संत ज्ञानेश्वर कोठले राहणारे होते?",
+      "answer": "संत ज्ञानेश्वर आपेगावचे राहणारे होते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "लोक ज्ञानेश्वरांच्या कुटुंबाला का नावे ठेवत?",
+      "answer": "ज्ञानेश्वरांच्या वडिलांनी संन्यास घेतला होता आणि नंतर परत घरी येऊन संसार सुरू केला होता, म्हणून कर्मठ लोक त्यांना नावे ठेवत."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ज्ञानेश्वरी हा ग्रंथ कोणत्या भाषेत आहे?",
+      "answer": "ज्ञानेश्वरी हा ग्रंथ मराठी भाषेतून लिहिला आहे. [cite: 273]"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "संत ज्ञानेश्वरांनी काय खुले करून दिले?",
+      "answer": "संत ज्ञानेश्वरांनी धर्माच्या ज्ञानाचे भांडार लोकांना खुले करून दिले."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "संत एकनाथ कोठले राहणारे होते?",
+      "answer": "संत एकनाथ पैठणचे राहणारे होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "संत एकनाथांनी प्राण्यांविषयी काय सांगितले?",
+      "answer": "संत एकनाथांनी प्राणिमात्रांवर दया करा, असा लोकांना उपदेश केला."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "संत तुकाराम कोणत्या गावचे होते?",
+      "answer": "संत तुकाराम पुण्याजवळील देहू गावचे राहणारे होते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "तुकारामांनी कर्जखते कोठे बुडवली?",
+      "answer": "तुकारामांनी आपल्या वाटणीची कर्जखते इंद्रायणी नदीमध्ये बुडवली."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "समर्थ रामदासांचा जन्म कोठे झाला?",
+      "answer": "समर्थ रामदासांचा जन्म मराठवाड्यात गोदावरीच्या काठी जांब या गावी झाला."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "दासबोध हा ग्रंथ कोणी लिहिला?",
+      "answer": "दासबोध हा ग्रंथ समर्थ रामदास यांनी लिहिला."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "रामदासांनी बलोपासनेसाठी काय केले?",
+      "answer": "बलोपासनेसाठी रामदासांनी ठिकठिकाणी हनुमानाची मंदिरे उभारली."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "संतांच्या कार्याचा परिणाम लोकांच्या मनावर काय झाला?",
+      "answer": "संतांच्या कार्यामुळे लोकांच्या मनात धर्माबद्दल आदर वाढला आणि आत्मविश्वास निर्माण झाला."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "शिवाजी महाराजांनी संतांच्या कामगिरीचा उपयोग कशासाठी केला?",
+      "answer": "शिवाजी महाराजांनी स्वराज्यस्थापनेसाठी संतांच्या कामगिरीचा उपयोग करून घेतला."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "संत ज्ञानेश्वरांच्या झोपडीचे दार कोणी उघडायला सांगितले?",
+      "answer": "ज्ञानेश्वरांची बहीण मुक्ताबाई हिने त्यांना ताटी उघडायला सांगितले."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "संत नामदेवांची पदे कोठे समाविष्ट आहेत?",
+      "answer": "संत नामदेवांची काही पदे शीख लोकांच्या 'गुरुग्रंथसाहिब' मध्ये समाविष्ट आहेत."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "संत एकनाथांनी रडणाऱ्या मुलाला कोठे पोहोचवले?",
+      "answer": "संत एकनाथांनी रडणाऱ्या मुलाला उचलून त्याच्या घरी पोहोचते केले."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "समर्थ रामदास स्वतःला काय म्हणवून घेत असत?",
+      "answer": "समर्थ रामदास स्वतःला 'रामाचा दास' म्हणवून घेत असत."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "संतांनी कोणती महत्त्वाची शिकवण दिली?",
+      "answer": "संतांनी सगळ्यांशी समतेने वागा आणि दुःखी माणसांना मदत करा, अशी शिकवण दिली."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "चित्रामध्ये श्रीचक्रधर स्वामी कोठे बसलेले दिसत आहेत?",
+      "answer": "श्रीचक्रधर स्वामी झाडाखाली बसलेले दिसत आहेत. "
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "संत नामदेव काय वाजवत आहेत?",
+      "answer": "संत नामदेव हातात तंबोरा आणि चिपळ्या घेऊन कीर्तन करत आहेत. "
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "संत ज्ञानेश्वरांच्या हातात काय आहे?",
+      "answer": "संत ज्ञानेश्वरांच्या हातात लेखणी आणि समोर ग्रंथ दिसत आहे. "
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "संत तुकाराम कोणत्या देवाचे भजन करत असत?",
+      "answer": "संत तुकाराम विठ्ठलाचे भजन करत असत."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "रामदासांच्या गर्जनेचा आवाज कोठे घुमत होता?",
+      "answer": "महाराष्ट्राच्या कडेकपारीत 'जय जय रघुवीर समर्थ' असा रामदासांचा आवाज घुमत होता. [cite: 299]"
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "संतांनी कोणती मुख्य भावना लोकांच्या मनात निर्माण केली?",
+      "answer": "संतांनी समतेची भावना लोकांच्या मनांत निर्माण केली."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "संत ज्ञानेश्वरांच्या भावंडांची नावे सांगा.",
+      "answer": "निवृत्तिनाथ, सोपानदेव ही भावंडे आणि मुक्ताबाई ही त्यांची बहीण."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "ज्ञानेश्वरांना कोणी भिक्षा का घातली नाही?",
+      "answer": "ज्ञानेश्वर संन्याशाची मुले म्हणून कर्मठ लोक त्यांचा छळ करत, म्हणून कोणी भिक्षा घातली नाही."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "मुक्ताबाईने ज्ञानेश्वरांना कोणता उपदेश केला?",
+      "answer": "दुःखीकष्टी होऊन चालणार नाही, जगाचे कल्याण कोण करील? असा उपदेश तिने केला."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "संत ज्ञानेश्वरांचा उपदेश कोठपर्यंत घुमत आहे?",
+      "answer": "ज्ञानेश्वरांचा उपदेश गेली सातशे वर्षे महाराष्ट्राच्या कानाकोपऱ्यांत घुमत आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "संत एकनाथांनी कोणाकडे दुर्लक्ष केले नाही?",
+      "answer": "संत एकनाथांनी गोरगरिबांकडे आणि मागासलेल्या लोकांकडे दुर्लक्ष केले नाही."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "एकनाथांनी समतेची भावना कशी बिंबवली?",
+      "answer": "एकनाथांनी स्वतःच्या आचरणातून समतेची व ममतेची भावना लोकांच्या मनावर बिंबवली. "
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "तुकारामांच्या कीर्तनाला कोण जात असे?",
+      "answer": "तुकारामांच्या कीर्तनाला खुद्द शिवाजी महाराज सुद्धा जात असत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "ग्यानबा म्हणजे कोण?",
+      "answer": "ग्यानबा म्हणजे संत ज्ञानेश्वर होत."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "रामदासांच्या ग्रंथाचे नाव काय आहे?",
+      "answer": "रामदासांच्या ग्रंथाचे नाव 'दासबोध' आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "रामदासांनी कोणाला स्फूर्ती दिली?",
+      "answer": "रामदासांनी लोकांना संघटना करण्याची व अन्यायाविरुद्ध प्रतिकार करण्याची स्फूर्ती दिली. "
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "संत चोखामेळा हे कोण होते?",
+      "answer": "संत चोखामेळा हे महाराष्ट्रातील एक प्रसिद्ध संत होते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "स्त्री संतांची काही नावे सांगा.",
+      "answer": "संत जनाबाई, संत सोयराबाई, संत निर्मळाबाई, संत मुक्ताबाई इत्यादी."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "समर्थ रामदास कोणत्या गावचे होते?",
+      "answer": "समर्थ रामदास जांब या गावचे होते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "संत नामदेवांनी कोठला संदेश पंजाबमध्ये दिला?",
+      "answer": "संत नामदेवांनी पंजाबमध्ये समतेचा संदेश दिला."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "ज्ञानेश्वरांनी संस्कृत ज्ञान मराठीत का आणले?",
+      "answer": "सर्वसामान्य लोकांची भाषा मराठी होती आणि संस्कृत ज्ञान बंदिस्त होते, म्हणून त्यांनी ते मराठीत आणले."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "चित्रामध्ये संत ज्ञानेश्वर कोठे बसले आहेत?",
+      "answer": "संत ज्ञानेश्वर झोपडीत किंवा एका आसनावर बसलेले दिसत आहेत. "
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "तुकारामांचे अभंग आजही कोठे गायले जातात?",
+      "answer": "तुकारामांचे अभंग आजही घरोघरी मोठ्या भक्तीने वाचले आणि गायले जातात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "रामदासांनी लोकांना कशाची चळवळ करण्यास सांगितले?",
+      "answer": "सामर्थ्य आहे चळवळीचे, जो जो करील तयाचे, असा त्यांनी चळवळीचा संदेश दिला."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "संतांच्या कार्यामुळे लोकांच्या मनांत काय निर्माण झाले?",
+      "answer": "संतांच्या कार्यामुळे लोकांच्या मनात आत्मविश्वास आणि धर्माबद्दल आदर निर्माण झाला."
+    }
+  ]
+}

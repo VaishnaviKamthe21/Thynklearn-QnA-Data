@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.22",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "होय, मीसुद्धा !"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या पाठाचे लेखक कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "राजीव तांबे", "is_correct": true },
+        { "option_id": 2, "text": "बाबा भांड", "is_correct": false },
+        { "option_id": 3, "text": "यदुनाथ थत्ते", "is_correct": false },
+        { "option_id": 4, "text": "वसंत बापट", "is_correct": false }
+      ],
+      "answer": "राजीव तांबे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आईने कोणाला हाक मारली?",
+      "options": [
+        { "option_id": 1, "text": "सोहमला", "is_correct": false },
+        { "option_id": 2, "text": "रोहनला", "is_correct": false },
+        { "option_id": 3, "text": "मोहनला", "is_correct": true },
+        { "option_id": 4, "text": "राहुलला", "is_correct": false }
+      ],
+      "answer": "मोहनला"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "मोहनला कपाळावर आठ्या घालत घरात का यावे लागले?",
+      "options": [
+        { "option_id": 1, "text": "त्याला अभ्यास करायचा होता", "is_correct": false },
+        { "option_id": 2, "text": "त्याला खेळायला जायचे होते", "is_correct": true },
+        { "option_id": 3, "text": "त्याला भूक लागली होती", "is_correct": false },
+        { "option_id": 4, "text": "त्याला झोपायचे होते", "is_correct": false }
+      ],
+      "answer": "त्याला खेळायला जायचे होते"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आईने मोहनला कुठून वस्तू आणायला सांगितल्या?",
+      "options": [
+        { "option_id": 1, "text": "बाजारातून", "is_correct": false },
+        { "option_id": 2, "text": "शेजारून", "is_correct": false },
+        { "option_id": 3, "text": "दुकानातून", "is_correct": true },
+        { "option_id": 4, "text": "शाळेतून", "is_correct": false }
+      ],
+      "answer": "दुकानातून"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "आईने दुकानातून काय आणायला सांगितले नाही?",
+      "options": [
+        { "option_id": 1, "text": "डाळ", "is_correct": false },
+        { "option_id": 2, "text": "तांदूळ", "is_correct": false },
+        { "option_id": 3, "text": "साखर", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": true }
+      ],
+      "answer": "तेल"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "दुकानदाराने मोहनला किती रुपये जास्त दिले होते?",
+      "options": [
+        { "option_id": 1, "text": "दहा", "is_correct": false },
+        { "option_id": 2, "text": "वीस", "is_correct": false },
+        { "option_id": 3, "text": "पन्नास", "is_correct": true },
+        { "option_id": 4, "text": "शंभर", "is_correct": false }
+      ],
+      "answer": "पन्नास"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "मोहनने पन्नासची नोट कुठे ठेवली?",
+      "options": [
+        { "option_id": 1, "text": "कंपासमध्ये", "is_correct": false },
+        { "option_id": 2, "text": "पुस्तकात", "is_correct": false },
+        { "option_id": 3, "text": "आईच्या पर्समध्ये", "is_correct": false },
+        { "option_id": 4, "text": "पँटच्या खिशात", "is_correct": true }
+      ],
+      "answer": "पँटच्या खिशात"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "आईला हिशेब देताना मोहनचे हात कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "स्थिर", "is_correct": false },
+        { "option_id": 2, "text": "थरथरते", "is_correct": true },
+        { "option_id": 3, "text": "घामेघूम", "is_correct": false },
+        { "option_id": 4, "text": "मुठी वळलेले", "is_correct": false }
+      ],
+      "answer": "थरथरते"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खेळताना मोहनचे मन का रमत नव्हते?",
+      "options": [
+        { "option_id": 1, "text": "त्याला ताप आला होता", "is_correct": false },
+        { "option_id": 2, "text": "मित्र त्याला खेळू देत नव्हते", "is_correct": false },
+        { "option_id": 3, "text": "खिशातल्या नोटेमुळे अस्वस्थता होती", "is_correct": true },
+        { "option_id": 4, "text": "त्याला भूक लागली होती", "is_correct": false }
+      ],
+      "answer": "खिशातल्या नोटेमुळे अस्वस्थता होती"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मोहनने जेवताना घास कसा गिळला?",
+      "options": [
+        { "option_id": 1, "text": "आनंदाने", "is_correct": false },
+        { "option_id": 2, "text": "पटकन", "is_correct": false },
+        { "option_id": 3, "text": "बळेबळे", "is_correct": true },
+        { "option_id": 4, "text": "हळूहळू", "is_correct": false }
+      ],
+      "answer": "बळेबळे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "घरी कोण येऊन गेले असे आई म्हणाली?",
+      "options": [
+        { "option_id": 1, "text": "दुकानातला माणूस", "is_correct": true },
+        { "option_id": 2, "text": "पोलीस", "is_correct": false },
+        { "option_id": 3, "text": "शेजारी", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षक", "is_correct": false }
+      ],
+      "answer": "दुकानातला माणूस"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "दुकानातल्या माणसाने काय दिले नव्हते?",
+      "options": [
+        { "option_id": 1, "text": "साखर", "is_correct": false },
+        { "option_id": 2, "text": "डाळ", "is_correct": false },
+        { "option_id": 3, "text": "तांदूळ", "is_correct": true },
+        { "option_id": 4, "text": "पैसे", "is_correct": false }
+      ],
+      "answer": "तांदूळ"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "दुकानात काय झाला होता?",
+      "options": [
+        { "option_id": 1, "text": "भांडण", "is_correct": false },
+        { "option_id": 2, "text": "घोटाळा / गडबड", "is_correct": true },
+        { "option_id": 3, "text": "चोरी", "is_correct": false },
+        { "option_id": 4, "text": "अपघात", "is_correct": false }
+      ],
+      "answer": "घोटाळा / गडबड"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "मोहनच्या आईचे तांदूळ कोणाकडे गेले होते?",
+      "options": [
+        { "option_id": 1, "text": "शांताबाईंकडे", "is_correct": true },
+        { "option_id": 2, "text": "कमलाबाईंकडे", "is_correct": false },
+        { "option_id": 3, "text": "राधाबाईंकडे", "is_correct": false },
+        { "option_id": 4, "text": "विमलाबाईंकडे", "is_correct": false }
+      ],
+      "answer": "शांताबाईंकडे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "संध्याकाळी आई-बाबा आणि मोहन कोठे जाणार होते?",
+      "options": [
+        { "option_id": 1, "text": "सिनेमाला", "is_correct": false },
+        { "option_id": 2, "text": "बागेत", "is_correct": false },
+        { "option_id": 3, "text": "शर्टाचे कापड घ्यायला (बाहेर)", "is_correct": true },
+        { "option_id": 4, "text": "जेवायला", "is_correct": false }
+      ],
+      "answer": "शर्टाचे कापड घ्यायला (बाहेर)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "तो कोणता वार होता?",
+      "options": [
+        { "option_id": 1, "text": "रविवार", "is_correct": false },
+        { "option_id": 2, "text": "सोमवार", "is_correct": false },
+        { "option_id": 3, "text": "शनिवार", "is_correct": true },
+        { "option_id": 4, "text": "बुधवार", "is_correct": false }
+      ],
+      "answer": "शनिवार"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "आईच्या बालपणी त्यांची परिस्थिती कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "श्रीमंत", "is_correct": false },
+        { "option_id": 2, "text": "गरीबीची", "is_correct": true },
+        { "option_id": 3, "text": "साधारण", "is_correct": false },
+        { "option_id": 4, "text": "खूप चांगली", "is_correct": false }
+      ],
+      "answer": "गरीबीची"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "आईच्या मैत्रिणीच्या आईने तिला काय देऊ केले होते?",
+      "options": [
+        { "option_id": 1, "text": "खेळणी", "is_correct": false },
+        { "option_id": 2, "text": "पुस्तक", "is_correct": false },
+        { "option_id": 3, "text": "फ्रॉक", "is_correct": true },
+        { "option_id": 4, "text": "खाऊ", "is_correct": false }
+      ],
+      "answer": "फ्रॉक"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "आईने फ्रॉक घेण्यास का नकार दिला?",
+      "options": [
+        { "option_id": 1, "text": "तो आवडला नाही म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "स्वाभिमानामुळे", "is_correct": true },
+        { "option_id": 3, "text": "माप बरोबर नव्हते म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "जुना होता म्हणून", "is_correct": false }
+      ],
+      "answer": "स्वाभिमानामुळे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "आईच्या बाबांनी दिवाळीला काय घातले होते?",
+      "options": [
+        { "option_id": 1, "text": "नवीन कोट", "is_correct": false },
+        { "option_id": 2, "text": "ठिगळं लावलेला शर्ट", "is_correct": true },
+        { "option_id": 3, "text": "रेशमी कुर्ता", "is_correct": false },
+        { "option_id": 4, "text": "धोतर", "is_correct": false }
+      ],
+      "answer": "ठिगळं लावलेला शर्ट"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "आईच्या बाबांनी आईला काय आणले होते?",
+      "options": [
+        { "option_id": 1, "text": "नवीन फ्रॉक", "is_correct": true },
+        { "option_id": 2, "text": "साडी", "is_correct": false },
+        { "option_id": 3, "text": "रिबीन", "is_correct": false },
+        { "option_id": 4, "text": "चप्पल", "is_correct": false }
+      ],
+      "answer": "नवीन फ्रॉक"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "मोहन कसा रडू लागला?",
+      "options": [
+        { "option_id": 1, "text": "हळूहळू", "is_correct": false },
+        { "option_id": 2, "text": "ढसाढसा", "is_correct": true },
+        { "option_id": 3, "text": "फक्त हुंदके देऊन", "is_correct": false },
+        { "option_id": 4, "text": "ओरडून", "is_correct": false }
+      ],
+      "answer": "ढसाढसा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "मोहन दुकानाकडे कसा गेला?",
+      "options": [
+        { "option_id": 1, "text": "सायकलवरून", "is_correct": false },
+        { "option_id": 2, "text": "अनवाणी (चपला न घालता)", "is_correct": true },
+        { "option_id": 3, "text": "चालत", "is_correct": false },
+        { "option_id": 4, "text": "मित्रासोबत", "is_correct": false }
+      ],
+      "answer": "अनवाणी (चपला न घालता)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "दुकानदाराने मोहनला काय दिले?",
+      "options": [
+        { "option_id": 1, "text": "बिस्किट", "is_correct": false },
+        { "option_id": 2, "text": "शाबासकी आणि चॉकलेट", "is_correct": true },
+        { "option_id": 3, "text": "पैसे", "is_correct": false },
+        { "option_id": 4, "text": "वही", "is_correct": false }
+      ],
+      "answer": "शाबासकी आणि चॉकलेट"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "मोहनने चॉकलेट घेतले का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "अर्धे घेतले", "is_correct": false },
+        { "option_id": 4, "text": "घरी नेण्यासाठी घेतले", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "मोहनने दुकानदाराला काय म्हटले?",
+      "options": [
+        { "option_id": 1, "text": "थँक्यू", "is_correct": false },
+        { "option_id": 2, "text": "सॉरी", "is_correct": true },
+        { "option_id": 3, "text": "बाय", "is_correct": false },
+        { "option_id": 4, "text": "नमस्ते", "is_correct": false }
+      ],
+      "answer": "सॉरी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "घरी आल्यावर मोहनने कोणाचा हात हातात घेतला?",
+      "options": [
+        { "option_id": 1, "text": "बाबांचा", "is_correct": false },
+        { "option_id": 2, "text": "आईचा", "is_correct": true },
+        { "option_id": 3, "text": "बहिणीचा", "is_correct": false },
+        { "option_id": 4, "text": "मित्राचा", "is_correct": false }
+      ],
+      "answer": "आईचा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "मोहन स्वतःला कसा म्हणाला?",
+      "options": [
+        { "option_id": 1, "text": "हुशार", "is_correct": false },
+        { "option_id": 2, "text": "श्रीमंत", "is_correct": false },
+        { "option_id": 3, "text": "स्वाभिमानी आणि प्रामाणिक", "is_correct": true },
+        { "option_id": 4, "text": "कष्टाळू", "is_correct": false }
+      ],
+      "answer": "स्वाभिमानी आणि प्रामाणिक"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "'अनवाणी' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "अनपेक्षित", "is_correct": false },
+        { "option_id": 2, "text": "पायांत चपला न घालता", "is_correct": true },
+        { "option_id": 3, "text": "अनोळखी", "is_correct": false },
+        { "option_id": 4, "text": "नवीन", "is_correct": false }
+      ],
+      "answer": "पायांत चपला न घालता"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "'जीव भांड्यात पडणे' या वाक्प्रचाराचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "जीव जाणे", "is_correct": false },
+        { "option_id": 2, "text": "दिलासा मिळणे / काळजी मिटणे", "is_correct": true },
+        { "option_id": 3, "text": "भांड्यात पडणे", "is_correct": false },
+        { "option_id": 4, "text": "घाबरणे", "is_correct": false }
+      ],
+      "answer": "दिलासा मिळणे / काळजी मिटणे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "'पोटात बाकबूक होणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पोट दुखणे", "is_correct": false },
+        { "option_id": 2, "text": "खूप भूक लागणे", "is_correct": false },
+        { "option_id": 3, "text": "खूप घाबरणे", "is_correct": true },
+        { "option_id": 4, "text": "पोटात आवाज येणे", "is_correct": false }
+      ],
+      "answer": "खूप घाबरणे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "'चेहरा कसनुसा करणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "हसणे", "is_correct": false },
+        { "option_id": 2, "text": "नाराज होणे / ओशालगवाणे होणे", "is_correct": true },
+        { "option_id": 3, "text": "रागवणे", "is_correct": false },
+        { "option_id": 4, "text": "झोपणे", "is_correct": false }
+      ],
+      "answer": "नाराज होणे / ओशालगवाणे होणे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "आईने कोणाला ठणकावून सांगितले होते?",
+      "options": [
+        { "option_id": 1, "text": "मोहनला", "is_correct": false },
+        { "option_id": 2, "text": "काकूंना (मैत्रिणीच्या आईला)", "is_correct": true },
+        { "option_id": 3, "text": "दुकानदाराला", "is_correct": false },
+        { "option_id": 4, "text": "बाबांना", "is_correct": false }
+      ],
+      "answer": "काकूंना (मैत्रिणीच्या आईला)"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "दुकानदार काय करत बसला होता?",
+      "options": [
+        { "option_id": 1, "text": "झोपला होता", "is_correct": false },
+        { "option_id": 2, "text": "हिशेब करत होता", "is_correct": true },
+        { "option_id": 3, "text": "जेवत होता", "is_correct": false },
+        { "option_id": 4, "text": "बोलत होता", "is_correct": false }
+      ],
+      "answer": "हिशेब करत होता"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "मोहनने आईची नजर चुकवण्यासाठी काय केले?",
+      "options": [
+        { "option_id": 1, "text": "टीव्ही पाहिला", "is_correct": false },
+        { "option_id": 2, "text": "बाहेर पळाला", "is_correct": false },
+        { "option_id": 3, "text": "गोष्टीचे पुस्तक वाचायला घेतले", "is_correct": true },
+        { "option_id": 4, "text": "झोपला", "is_correct": false }
+      ],
+      "answer": "गोष्टीचे पुस्तक वाचायला घेतले"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "मोहनला घास गिळता येत नव्हता कारण?",
+      "options": [
+        { "option_id": 1, "text": "घसा दुखत होता", "is_correct": false },
+        { "option_id": 2, "text": "जेवण चविष्ट नव्हते", "is_correct": false },
+        { "option_id": 3, "text": "पोटात खड्डा पडला होता (भीती वाटत होती)", "is_correct": true },
+        { "option_id": 4, "text": "पोट भरले होते", "is_correct": false }
+      ],
+      "answer": "पोटात खड्डा पडला होता (भीती वाटत होती)"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "आईने मोहनला काय आणून दिले?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": true },
+        { "option_id": 2, "text": "दूध", "is_correct": false },
+        { "option_id": 3, "text": "ज्यूस", "is_correct": false },
+        { "option_id": 4, "text": "चहा", "is_correct": false }
+      ],
+      "answer": "पाणी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "मोहनने पैसे मोजताना कोणाचे लक्ष नाही हे पाहिले?",
+      "options": [
+        { "option_id": 1, "text": "मित्राचे", "is_correct": false },
+        { "option_id": 2, "text": "आईचे", "is_correct": true },
+        { "option_id": 3, "text": "बाबांचे", "is_correct": false },
+        { "option_id": 4, "text": "दुकानदाराचे", "is_correct": false }
+      ],
+      "answer": "आईचे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "मोहन दुकानात गेल्यावर दुकानदारासमोर काय केले?",
+      "options": [
+        { "option_id": 1, "text": "रडला", "is_correct": false },
+        { "option_id": 2, "text": "पैसे परत केले", "is_correct": true },
+        { "option_id": 3, "text": "चॉकलेट मागितले", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "पैसे परत केले"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "मोहनला आईचे बोलणे ऐकू आले नाही कारण?",
+      "options": [
+        { "option_id": 1, "text": "तो बहिरा होता", "is_correct": false },
+        { "option_id": 2, "text": "तो घरात नव्हताच (पळाला होता)", "is_correct": true },
+        { "option_id": 3, "text": "टीव्ही चालू होता", "is_correct": false },
+        { "option_id": 4, "text": "तो झोपला होता", "is_correct": false }
+      ],
+      "answer": "तो घरात नव्हताच (पळाला होता)"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "'आकडेमोड करणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "व्यायाम करणे", "is_correct": false },
+        { "option_id": 2, "text": "हिशेब करणे", "is_correct": true },
+        { "option_id": 3, "text": "खेळणे", "is_correct": false },
+        { "option_id": 4, "text": "कागद फाडणे", "is_correct": false }
+      ],
+      "answer": "हिशेब करणे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "मोहनने घराकडे 'धूम ठोकली' म्हणजे काय केले?",
+      "options": [
+        { "option_id": 1, "text": "हळू चालला", "is_correct": false },
+        { "option_id": 2, "text": "पळत सुटला / वेगाने गेला", "is_correct": true },
+        { "option_id": 3, "text": "थांबला", "is_correct": false },
+        { "option_id": 4, "text": "धक्का दिला", "is_correct": false }
+      ],
+      "answer": "पळत सुटला / वेगाने गेला"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "'चकित करणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "घाबरवणे", "is_correct": false },
+        { "option_id": 2, "text": "आश्चर्यचकित करणे / नवल वाटायला लावणे", "is_correct": true },
+        { "option_id": 3, "text": "हसवणे", "is_correct": false },
+        { "option_id": 4, "text": "रडवणे", "is_correct": false }
+      ],
+      "answer": "आश्चर्यचकित करणे / नवल वाटायला लावणे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "'ऐपत नसणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "क्षमता / शक्ती नसणे (आर्थिक)", "is_correct": true },
+        { "option_id": 2, "text": "वेळ नसणे", "is_correct": false },
+        { "option_id": 3, "text": "इच्छा नसणे", "is_correct": false },
+        { "option_id": 4, "text": "घर नसणे", "is_correct": false }
+      ],
+      "answer": "क्षमता / शक्ती नसणे (आर्थिक)"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "मोहनला सुरुवातीला कोणता प्रश्न पडला होता?",
+      "options": [
+        { "option_id": 1, "text": "खेळायला कसे जाऊ", "is_correct": false },
+        { "option_id": 2, "text": "पैसे परत करू की नको", "is_correct": true },
+        { "option_id": 3, "text": "अभ्यास कसा करू", "is_correct": false },
+        { "option_id": 4, "text": "जेवण कधी मिळणार", "is_correct": false }
+      ],
+      "answer": "पैसे परत करू की नको"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "मोहनच्या पोटातील खड्डा कधी भरला (जीव भांड्यात पडला)?",
+      "options": [
+        { "option_id": 1, "text": "जेवण केल्यावर", "is_correct": false },
+        { "option_id": 2, "text": "दुकानदाराने पैशांबद्दल काही विचारले नाही हे कळल्यावर", "is_correct": true },
+        { "option_id": 3, "text": "पैसे परत केल्यावर", "is_correct": false },
+        { "option_id": 4, "text": "खेळल्यावर", "is_correct": false }
+      ],
+      "answer": "दुकानदाराने पैशांबद्दल काही विचारले नाही हे कळल्यावर"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "मोहनने आईला शेवटी काय कबूल केले?",
+      "options": [
+        { "option_id": 1, "text": "मी अभ्यास केला नाही", "is_correct": false },
+        { "option_id": 2, "text": "मी खेळायला गेलो होतो", "is_correct": false },
+        { "option_id": 3, "text": "मी सुद्धा प्रामाणिक आहे (चूक सुधारली)", "is_correct": true },
+        { "option_id": 4, "text": "मी खोटे बोललो नाही", "is_correct": false }
+      ],
+      "answer": "मी सुद्धा प्रामाणिक आहे (चूक सुधारली)"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणता संदेश देतो?",
+      "options": [
+        { "option_id": 1, "text": "खोटे बोलावे", "is_correct": false },
+        { "option_id": 2, "text": "प्रामाणिकपणा आणि स्वाभिमान जपावा", "is_correct": true },
+        { "option_id": 3, "text": "पैसे लपवावे", "is_correct": false },
+        { "option_id": 4, "text": "दुकानात जाऊ नये", "is_correct": false }
+      ],
+      "answer": "प्रामाणिकपणा आणि स्वाभिमान जपावा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "आईने मोहनला 'राजा' म्हणून का संबोधले?",
+      "options": [
+        { "option_id": 1, "text": "तो राजा होता म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "प्रेमाने", "is_correct": true },
+        { "option_id": 3, "text": "रागाने", "is_correct": false },
+        { "option_id": 4, "text": "चिडून", "is_correct": false }
+      ],
+      "answer": "प्रेमाने"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "मोहनने आईला काय दिले?",
+      "options": [
+        { "option_id": 1, "text": "पन्नास रुपये", "is_correct": false },
+        { "option_id": 2, "text": "हिशेब आणि उरलेले पैसे (पन्नास सोडून)", "is_correct": true },
+        { "option_id": 3, "text": "चॉकलेट", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "हिशेब आणि उरलेले पैसे (पन्नास सोडून)"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "या पाठाचे लेखक कोण आहेत?",
+      "answer": "या पाठाचे लेखक राजीव तांबे आहेत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "आईची हाक ऐकताच मोहनला काय समजले?",
+      "answer": "आईची हाक ऐकताच मोहनला समजले की आईचे काहीतरी काम आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "आईने मोहनला दुकानातून काय काय आणायला सांगितले?",
+      "answer": "आईने मोहनला दुकानातून डाळ, तांदूळ आणि साखर आणायला सांगितले."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मोहनने पैसे आणि पिशवी कोणाकडून घेतली?",
+      "answer": "मोहनने पैसे आणि पिशवी आईकडून घेतली."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "दुकानदाराने मोहनला चुकून किती रुपये जास्त दिले?",
+      "answer": "दुकानदाराने मोहनला चुकून पन्नास रुपये जास्त दिले."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मोहनने जास्तीचे पैसे कुठे ठेवले?",
+      "answer": "मोहनने जास्तीचे पैसे (पन्नासची नोट) आपल्या पँटच्या खिशात ठेवले."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "मोहनचे मन खेळात का रमत नव्हते?",
+      "answer": "खिशातल्या पन्नास रुपयांच्या नोटेमुळे मोहन अस्वस्थ होता, म्हणून त्याचे मन खेळात रमत नव्हते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "आईने जेवायला बसल्यावर मोहनला काय विचारले?",
+      "answer": "आईने विचारले, \"अरे, तू सकाळी आणलेल्या तांदळाचा हा भात आहे! काय कसा आहे तांदूळ?\""
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मोहनला घास का गिळता येत नव्हता?",
+      "answer": "दुकानातल्या माणसाचा विषय निघाल्यावर भीतीमुळे (पोटात खड्डा पडल्यामुळे) त्याला घास गिळता येत नव्हता."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "दुकानातल्या माणसाने घरी येऊन काय सांगितले?",
+      "answer": "त्याने सांगितले की सकाळी दुकानात गर्दीमुळे घोटाळा झाला आणि त्याने मोहनला तांदूळ दिलेच नाहीत (त्याऐवजी डाळ किंवा साखर दिली)."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "दुकानात कोणता घोटाळा झाला होता?",
+      "answer": "शांताबाईंची डाळ मोहनकडे आणि मोहनचे तांदूळ शांताबाईंकडे गेले होते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "मोहनचा जीव भांड्यात का पडला?",
+      "answer": "कारण दुकानातल्या माणसाने पैशांबद्दल काहीच विचारले नाही, फक्त सामानाबद्दल सांगितले."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मोहनची चलबिचल का होत होती?",
+      "answer": "खिशातली पन्नासची नोट त्याला अस्वस्थ करत होती आणि त्याला आपली चूक जाणवत होती."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "आईने संध्याकाळी कुठे जायचा बेत आखला होता?",
+      "answer": "आईने संध्याकाळी मोहन आणि बाबांना शर्टाचे नवीन कापड घेण्यासाठी बाहेर जायचा बेत आखला होता."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "आईने मोहनला तिच्या लहानपणीची कोणती गोष्ट सांगितली?",
+      "answer": "आईने तिच्या गरिबीच्या दिवसांत मैत्रिणीचा फ्रॉक स्वाभिमानाने नाकारल्याची गोष्ट सांगितली."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "आईने काकूंना (मैत्रिणीच्या आईला) काय उत्तर दिले होते?",
+      "answer": "तिने सांगितले होते, \"आम्ही गरीब जरूर आहोत, पण स्वाभिमानी आहोत.\""
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "मोहन ढसाढसा का रडू लागला?",
+      "answer": "आईचा स्वाभिमान आणि स्वतःची अप्रामाणिक कृती (पैसे ठेवणे) यामुळे त्याला पश्चात्ताप होऊन तो रडू लागला."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "मोहन घरातून धावत का गेला?",
+      "answer": "पन्नास रुपये दुकानदाराला परत देण्यासाठी आणि आपली चूक सुधारण्यासाठी तो धावत गेला."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "'अनवाणी' शब्दाचा अर्थ काय?",
+      "answer": "पायांत चपला किंवा जोडे न घालता."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "दुकानदार दुकानात काय करत होता?",
+      "answer": "दुकानदार दुकानात एकटाच हिशेब करत बसला होता."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "मोहनने दुकानदाराला काय म्हटले?",
+      "answer": "मोहन म्हणाला, \"सॉरी! माझी चूक झाली. सकाळी मला तुमच्याकडून जास्ती पैसे आले. मला यायला उशीर झाला.\""
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "दुकानदाराने मोहनला काय देऊ केले?",
+      "answer": "दुकानदाराने मोहनला बरणीतले एक चॉकलेट देऊ केले."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "मोहनने चॉकलेट का घेतले नाही?",
+      "answer": "कारण त्याला स्वतःची चूक दुरुस्त करायची होती आणि फुकट काही घ्यायचे नव्हते (स्वाभिमान)."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "घरी आल्यावर मोहन आईला काय म्हणाला?",
+      "answer": "मोहन म्हणाला, \"होय, मीसुद्धा स्वाभिमानी आणि प्रामाणिक आहे तुझ्यासारखा! होय, मीसुद्धा!\""
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "'पोटात खड्डा पडणे' म्हणजे काय?",
+      "answer": "खूप भीती वाटणे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "'पाय लटलट कापणे' म्हणजे काय?",
+      "answer": "भीतीने पाय थरथर कापणे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "हा पाठ आपल्याला कोणते मूल्य शिकवतो?",
+      "answer": "हा पाठ प्रामाणिकपणा आणि स्वाभिमान या मूल्यांची शिकवण देतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "मोहनला कशाचा त्रास होऊ लागला?",
+      "answer": "मोहनला आवंढा गिळताना त्रास होऊ लागला (भीतीमुळे/गहिवरल्यामुळे)."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "आईने मोहनला कसला मुलगा म्हटले?",
+      "answer": "आईने मोहनला 'माझ्यासारखाच स्वाभिमानी आणि प्रामाणिक' मुलगा म्हटले."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "मोहनची चूक काय होती?",
+      "answer": "दुकानातून आलेले जास्तीचे पैसे त्याने लगेच परत न करता स्वतःकडे ठेवले होते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "मोहनने ती चूक कशी सुधारली?",
+      "answer": "पैसे परत देऊन आणि माफी मागून त्याने चूक सुधारली."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "सकाळी दुकानात गर्दी का होती?",
+      "answer": "सकाळची वेळ असल्याने किंवा ग्राहकांमुळे दुकानात गर्दी होती (विशिष्ट कारण दिले नाही)."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "आईने मोहनला टोपी घालायला का सांगितली?",
+      "answer": "कारण बाहेर कडक ऊन होते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "'चेहरा कसनुसा करणे' म्हणजे काय?",
+      "answer": "नाराज होणे किंवा तोंड वेडेवाकडे करणे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "आईला मोहनच्या कोणत्या कृतीचा अंदाज नव्हता?",
+      "answer": "मोहनने पन्नास रुपये ठेवले आहेत, याचा आईला अंदाज नव्हता."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "मोहनने गोष्टीचे पुस्तक का हातात घेतले?",
+      "answer": "आईची नजर चुकवण्यासाठी त्याने पुस्तक हातात घेतले."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "आईने मोहनच्या डोक्यावरून हात का फिरवला?",
+      "answer": "त्याला प्रेमाने समजावण्यासाठी किंवा त्याचे कौतुक करण्यासाठी."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "मोहनला 'खूप भरून आले' म्हणजे काय?",
+      "answer": "त्याच्या मनात भावनांचा कल्लोळ झाला किंवा त्याला रडू आले."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "आईने मोहनला 'राजा' असे का म्हटले?",
+      "answer": "लाडाने आणि प्रेमाने तिने त्याला 'राजा' म्हटले."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "मोहनचे मित्र त्याची वाट का पाहत होते?",
+      "answer": "खेळ खेळण्यासाठी मित्र त्याची वाट पाहत होते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "मोहनने आईला हिशेब कसा दिला?",
+      "answer": "कागदावर आकडेमोड करून आणि उरलेले पैसे मोजून त्याने हिशेब दिला."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "दुकानदाराने मोहनला शाबासकी का दिली?",
+      "answer": "त्याचा प्रामाणिकपणा पाहून दुकानदाराने त्याला शाबासकी दिली."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "'बाकबूक होणे' या वाक्प्रचाराचा वाक्यात उपयोग करा.",
+      "answer": "परीक्षेचा निकाल ऐकताना माझ्या पोटात बाकबूक झाले."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "'धूम ठोकणे' म्हणजे काय?",
+      "answer": "वेगाने पळून जाणे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "मोहनने पैसे परत केल्यावर काय केले?",
+      "answer": "मोहनने घराकडे धूम ठोकली (तो पळत घरी आला)."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "मोहनने प्रामाणिकपणा कोणाकडून शिकला असे म्हणता येईल?",
+      "answer": "मोहनने प्रामाणिकपणा आपल्या आईकडून (आणि आजीकडून) शिकला."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "दुकानातल्या माणसाने आईला 'वैनी' (वहिनी) म्हटले, यावरून काय समजते?",
+      "answer": "तो माणूस ओळखीचा किंवा गावाकडचा असावा."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "'चकित करणे' म्हणजे काय?",
+      "answer": "आश्चर्याचा धक्का देणे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "मोहनच्या वडिलांना (बाबांना) काय सांगायचे नाही असे आई म्हणाली?",
+      "answer": "आपण नवीन कपडे घेणार आहोत हे सांगायचे नाही."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "या कथेच्या शेवटी मोहनच्या मनात कोणती भावना होती?",
+      "answer": "स्वाभिमानाची आणि समाधानाची भावना होती."
+    }
+  ]
+}

@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.15",
+    "standard": "4",
+    "subject": "परिसर अभ्यास (भाग १)",
+    "medium": "Marathi",
+    "chapter_name": "माझा जिल्हा माझे राज्य"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "अनेक गावे मिळून काय तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "तालुका", "is_correct": true },
+        { "option_id": 2, "text": "जिल्हा", "is_correct": false },
+        { "option_id": 3, "text": "राज्य", "is_correct": false },
+        { "option_id": 4, "text": "देश", "is_correct": false }
+      ],
+      "answer": "तालुका"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "अनेक तालुके मिळून काय तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "गाव", "is_correct": false },
+        { "option_id": 2, "text": "जिल्हा", "is_correct": true },
+        { "option_id": 3, "text": "वस्ती", "is_correct": false },
+        { "option_id": 4, "text": "वाडा", "is_correct": false }
+      ],
+      "answer": "जिल्हा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "आपल्या राज्याचे नाव काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "गुजरात", "is_correct": false },
+        { "option_id": 2, "text": "कर्नाटक", "is_correct": false },
+        { "option_id": 3, "text": "महाराष्ट्र", "is_correct": true },
+        { "option_id": 4, "text": "गोवा", "is_correct": false }
+      ],
+      "answer": "महाराष्ट्र"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "झाडाच्या खोडाला काय जोडलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त पाने", "is_correct": false },
+        { "option_id": 2, "text": "मोठ्या फांद्या", "is_correct": true },
+        { "option_id": 3, "text": "फक्त मुळे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त फळे", "is_correct": false }
+      ],
+      "answer": "मोठ्या फांद्या"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "माणूस शेती करायला लागल्यावर कोठे राहू लागला?",
+      "options": [
+        { "option_id": 1, "text": "जंगलात", "is_correct": false },
+        { "option_id": 2, "text": "शेताजवळ वस्ती करून", "is_correct": true },
+        { "option_id": 3, "text": "डोंगरावर", "is_correct": false },
+        { "option_id": 4, "text": "गुहेत", "is_correct": false }
+      ],
+      "answer": "शेताजवळ वस्ती करून"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्र राज्याची राजधानी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "पुणे", "is_correct": false },
+        { "option_id": 2, "text": "नागपूर", "is_correct": false },
+        { "option_id": 3, "text": "मुंबई", "is_correct": true },
+        { "option_id": 4, "text": "नाशिक", "is_correct": false }
+      ],
+      "answer": "मुंबई"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्र राज्याची उपराजधानी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "कोल्हापूर", "is_correct": false },
+        { "option_id": 2, "text": "नागपूर", "is_correct": true },
+        { "option_id": 3, "text": "औरंगाबाद", "is_correct": false },
+        { "option_id": 4, "text": "अमरावती", "is_correct": false }
+      ],
+      "answer": "नागपूर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "प्राकृतिक रचनेवरून महाराष्ट्राचे किती प्रमुख विभाग पडतात?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रातील सर्वात लांब नदी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "कृष्णा", "is_correct": false },
+        { "option_id": 2, "text": "भीमा", "is_correct": false },
+        { "option_id": 3, "text": "गोदावरी", "is_correct": true },
+        { "option_id": 4, "text": "तापी", "is_correct": false }
+      ],
+      "answer": "गोदावरी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्राच्या उत्तर भागात कोणती पर्वतरांग आहे?",
+      "options": [
+        { "option_id": 1, "text": "सह्याद्री", "is_correct": false },
+        { "option_id": 2, "text": "सातपुडा", "is_correct": true },
+        { "option_id": 3, "text": "महादेव", "is_correct": false },
+        { "option_id": 4, "text": "हरिश्चंद्र", "is_correct": false }
+      ],
+      "answer": "सातपुडा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सातपुडा पर्वतातील सर्वात उंच शिखर कोणते?",
+      "options": [
+        { "option_id": 1, "text": "कळसूबाई", "is_correct": false },
+        { "option_id": 2, "text": "अस्तंभा", "is_correct": true },
+        { "option_id": 3, "text": "महाबळेश्वर", "is_correct": false },
+        { "option_id": 4, "text": "धूपगड", "is_correct": false }
+      ],
+      "answer": "अस्तंभा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सह्याद्री पर्वताला दुसरे नाव काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "पूर्व घाट", "is_correct": false },
+        { "option_id": 2, "text": "पश्चिम घाट", "is_correct": true },
+        { "option_id": 3, "text": "हिमालय", "is_correct": false },
+        { "option_id": 4, "text": "अरवली", "is_correct": false }
+      ],
+      "answer": "पश्चिम घाट"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्रातील सर्वात उंच शिखर कोणते?",
+      "options": [
+        { "option_id": 1, "text": "कळसूबाई", "is_correct": true },
+        { "option_id": 2, "text": "अस्तंभा", "is_correct": false },
+        { "option_id": 3, "text": "साल्हेर", "is_correct": false },
+        { "option_id": 4, "text": "तोरणा", "is_correct": false }
+      ],
+      "answer": "कळसूबाई"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्राच्या पश्चिमेस कोणता समुद्र आहे?",
+      "options": [
+        { "option_id": 1, "text": "बंगालचा उपसागर", "is_correct": false },
+        { "option_id": 2, "text": "अरबी समुद्र", "is_correct": true },
+        { "option_id": 3, "text": "हिंदी महासागर", "is_correct": false },
+        { "option_id": 4, "text": "लाल समुद्र", "is_correct": false }
+      ],
+      "answer": "अरबी समुद्र"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "जास्त पावसाच्या प्रदेशात कोणते प्रमुख पीक घेतले जाते?",
+      "options": [
+        { "option_id": 1, "text": "ज्वारी", "is_correct": false },
+        { "option_id": 2, "text": "भात (धान)", "is_correct": true },
+        { "option_id": 3, "text": "बाजरी", "is_correct": false },
+        { "option_id": 4, "text": "मटकी", "is_correct": false }
+      ],
+      "answer": "भात (धान)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "मध्यम पावसाच्या प्रदेशात कोणती पिके घेतली जातात?",
+      "options": [
+        { "option_id": 1, "text": "भात", "is_correct": false },
+        { "option_id": 2, "text": "ज्वारी, तूर, सोयाबीन", "is_correct": true },
+        { "option_id": 3, "text": "बाजरी, मटकी", "is_correct": false },
+        { "option_id": 4, "text": "नारळ", "is_correct": false }
+      ],
+      "answer": "ज्वारी, तूर, सोयाबीन"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कमी पावसाच्या प्रदेशात कोणती पिके घेतली जातात?",
+      "options": [
+        { "option_id": 1, "text": "भात", "is_correct": false },
+        { "option_id": 2, "text": "ज्वारी, बाजरी, मटकी", "is_correct": true },
+        { "option_id": 3, "text": "ऊस", "is_correct": false },
+        { "option_id": 4, "text": "हळद", "is_correct": false }
+      ],
+      "answer": "ज्वारी, बाजरी, मटकी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "शेतातील पिकांचे उत्पादन कशावर अवलंबून असते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त बियाणांवर", "is_correct": false },
+        { "option_id": 2, "text": "हवामान, मृदा व पाण्याची उपलब्धता", "is_correct": true },
+        { "option_id": 3, "text": "फक्त खतांवर", "is_correct": false },
+        { "option_id": 4, "text": "फक्त शेतकऱ्यावर", "is_correct": false }
+      ],
+      "answer": "हवामान, मृदा व पाण्याची उपलब्धता"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पावसाच्या पाण्यावर अवलंबून असलेल्या शेतीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बागायती शेती", "is_correct": false },
+        { "option_id": 2, "text": "जिरायती शेती", "is_correct": true },
+        { "option_id": 3, "text": "सेंद्रिय शेती", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "जिरायती शेती"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "जलसिंचनाद्वारे पाणीपुरवठा करून केलेल्या शेतीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जिरायती शेती", "is_correct": false },
+        { "option_id": 2, "text": "बागायती शेती", "is_correct": true },
+        { "option_id": 3, "text": "कोरडवाहू शेती", "is_correct": false },
+        { "option_id": 4, "text": "नैसर्गिक शेती", "is_correct": false }
+      ],
+      "answer": "बागायती शेती"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "पावसाळ्यात होणाऱ्या शेती हंगामाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "रब्बी हंगाम", "is_correct": false },
+        { "option_id": 2, "text": "खरीप हंगाम", "is_correct": true },
+        { "option_id": 3, "text": "उन्हाळी हंगाम", "is_correct": false },
+        { "option_id": 4, "text": "हिवाळी हंगाम", "is_correct": false }
+      ],
+      "answer": "खरीप हंगाम"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "हिवाळ्यात होणाऱ्या शेती हंगामाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "खरीप हंगाम", "is_correct": false },
+        { "option_id": 2, "text": "रब्बी हंगाम", "is_correct": true },
+        { "option_id": 3, "text": "पावसाळी हंगाम", "is_correct": false },
+        { "option_id": 4, "text": "वसंत हंगाम", "is_correct": false }
+      ],
+      "answer": "रब्बी हंगाम"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "नगदी पिके (व्यापारी पिके) कशासाठी घेतली जातात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त खाण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "पैसा मिळवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "जनावरांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "शोभेसाठी", "is_correct": false }
+      ],
+      "answer": "पैसा मिळवण्यासाठी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "रासायनिक खतांच्या अतिवापरामुळे कशाचे प्रदूषण वाढते?",
+      "options": [
+        { "option_id": 1, "text": "हवेचे", "is_correct": false },
+        { "option_id": 2, "text": "मृदेचे (मातीचे)", "is_correct": true },
+        { "option_id": 3, "text": "आकाशाचे", "is_correct": false },
+        { "option_id": 4, "text": "ध्वनीचे", "is_correct": false }
+      ],
+      "answer": "मृदेचे (मातीचे)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कोणत्या खतांचा वापर अधिक केला पाहिजे?",
+      "options": [
+        { "option_id": 1, "text": "रासायनिक", "is_correct": false },
+        { "option_id": 2, "text": "सेंद्रिय", "is_correct": true },
+        { "option_id": 3, "text": "कृत्रिम", "is_correct": false },
+        { "option_id": 4, "text": "महागड्या", "is_correct": false }
+      ],
+      "answer": "सेंद्रिय"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्र राज्याची निर्मिती कधी झाली?",
+      "options": [
+        { "option_id": 1, "text": "१५ ऑगस्ट १९४७", "is_correct": false },
+        { "option_id": 2, "text": "२६ जानेवारी १९५०", "is_correct": false },
+        { "option_id": 3, "text": "१ मे १९६०", "is_correct": true },
+        { "option_id": 4, "text": "१ मे १९५०", "is_correct": false }
+      ],
+      "answer": "१ मे १९६०"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "भारतातील राज्यांची निर्मिती कशाच्या आधारावर झाली आहे?",
+      "options": [
+        { "option_id": 1, "text": "धर्माच्या", "is_correct": false },
+        { "option_id": 2, "text": "भाषेच्या", "is_correct": true },
+        { "option_id": 3, "text": "जातीच्या", "is_correct": false },
+        { "option_id": 4, "text": "रंगाच्या", "is_correct": false }
+      ],
+      "answer": "भाषेच्या"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्राची राजभाषा कोणती आहे?",
+      "options": [
+        { "option_id": 1, "text": "हिंदी", "is_correct": false },
+        { "option_id": 2, "text": "इंग्रजी", "is_correct": false },
+        { "option_id": 3, "text": "मराठी", "is_correct": true },
+        { "option_id": 4, "text": "कोकणी", "is_correct": false }
+      ],
+      "answer": "मराठी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कोकणात मराठीची कोणती बोलीभाषा बोलली जाते?",
+      "options": [
+        { "option_id": 1, "text": "कोकणी / मालवणी", "is_correct": true },
+        { "option_id": 2, "text": "वऱ्हाडी", "is_correct": false },
+        { "option_id": 3, "text": "अहिराणी", "is_correct": false },
+        { "option_id": 4, "text": "कोलामी", "is_correct": false }
+      ],
+      "answer": "कोकणी / मालवणी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "विदर्भात मराठीची कोणती बोलीभाषा बोलली जाते?",
+      "options": [
+        { "option_id": 1, "text": "अहिराणी", "is_correct": false },
+        { "option_id": 2, "text": "वऱ्हाडी", "is_correct": true },
+        { "option_id": 3, "text": "कोकणी", "is_correct": false },
+        { "option_id": 4, "text": "मालवणी", "is_correct": false }
+      ],
+      "answer": "वऱ्हाडी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "खानदेशात मराठीची कोणती बोलीभाषा बोलली जाते?",
+      "options": [
+        { "option_id": 1, "text": "वऱ्हाडी", "is_correct": false },
+        { "option_id": 2, "text": "मालवणी", "is_correct": false },
+        { "option_id": 3, "text": "अहिराणी", "is_correct": true },
+        { "option_id": 4, "text": "कोलामी", "is_correct": false }
+      ],
+      "answer": "अहिराणी"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "गोरमाटी, कोलामी, कोरकू या कशाच्या बोलीभाषा आहेत?",
+      "options": [
+        { "option_id": 1, "text": "आदिवासी जमातींच्या", "is_correct": true },
+        { "option_id": 2, "text": "शहरी लोकांच्या", "is_correct": false },
+        { "option_id": 3, "text": "परदेशी लोकांच्या", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "आदिवासी जमातींच्या"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कोकणात कोणते सण प्रामुख्याने साजरे होतात?",
+      "options": [
+        { "option_id": 1, "text": "नारळी पौर्णिमा, होळी, गणेशोत्सव", "is_correct": true },
+        { "option_id": 2, "text": "बैलपोळा", "is_correct": false },
+        { "option_id": 3, "text": "दसरा", "is_correct": false },
+        { "option_id": 4, "text": "दिवाळी", "is_correct": false }
+      ],
+      "answer": "नारळी पौर्णिमा, होळी, गणेशोत्सव"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पठारी प्रदेशावर कोणते सण मोठ्या प्रमाणावर साजरे होतात?",
+      "options": [
+        { "option_id": 1, "text": "नारळी पौर्णिमा", "is_correct": false },
+        { "option_id": 2, "text": "दसरा, दिवाळी, बैलपोळा", "is_correct": true },
+        { "option_id": 3, "text": "गणेशोत्सव", "is_correct": false },
+        { "option_id": 4, "text": "होळी", "is_correct": false }
+      ],
+      "answer": "दसरा, दिवाळी, बैलपोळा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "१५ ऑगस्ट आणि २६ जानेवारी हे कोणते सण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "धार्मिक सण", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रीय सण", "is_correct": true },
+        { "option_id": 3, "text": "कौटुंबिक सण", "is_correct": false },
+        { "option_id": 4, "text": "प्रादेशिक सण", "is_correct": false }
+      ],
+      "answer": "राष्ट्रीय सण"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "संत्र्याचे पीक महाराष्ट्रात कोणत्या जिल्ह्यात जास्त होते?",
+      "options": [
+        { "option_id": 1, "text": "नाशिक", "is_correct": false },
+        { "option_id": 2, "text": "नागपूर", "is_correct": true },
+        { "option_id": 3, "text": "पुणे", "is_correct": false },
+        { "option_id": 4, "text": "रत्नागिरी", "is_correct": false }
+      ],
+      "answer": "नागपूर"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "नारळ, सुपारी व आंबा ही पिके कोठे घेतली जातात?",
+      "options": [
+        { "option_id": 1, "text": "कोकणात", "is_correct": true },
+        { "option_id": 2, "text": "विदर्भात", "is_correct": false },
+        { "option_id": 3, "text": "मराठवाड्यात", "is_correct": false },
+        { "option_id": 4, "text": "खानदेशात", "is_correct": false }
+      ],
+      "answer": "कोकणात"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "ज्वारीचे पीक कोणत्या पावसाच्या प्रदेशात घेतले जाते?",
+      "options": [
+        { "option_id": 1, "text": "जास्त", "is_correct": false },
+        { "option_id": 2, "text": "कमी आणि मध्यम", "is_correct": true },
+        { "option_id": 3, "text": "अति जास्त", "is_correct": false },
+        { "option_id": 4, "text": "बर्फाळ", "is_correct": false }
+      ],
+      "answer": "कमी आणि मध्यम"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्राच्या पूर्व भागातून पश्चिमेकडे वाहणारी नदी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "गोदावरी", "is_correct": false },
+        { "option_id": 2, "text": "तापी", "is_correct": true },
+        { "option_id": 3, "text": "कृष्णा", "is_correct": false },
+        { "option_id": 4, "text": "भीमा", "is_correct": false }
+      ],
+      "answer": "तापी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "‘१ मे’ हा दिवस काय म्हणून साजरा करतात?",
+      "options": [
+        { "option_id": 1, "text": "स्वातंत्र्य दिन", "is_correct": false },
+        { "option_id": 2, "text": "महाराष्ट्र दिन", "is_correct": true },
+        { "option_id": 3, "text": "प्रजासत्ताक दिन", "is_correct": false },
+        { "option_id": 4, "text": "बाल दिन", "is_correct": false }
+      ],
+      "answer": "महाराष्ट्र दिन"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "द्राक्षाचे पीक कोणत्या जिल्ह्यात प्रसिद्ध आहे?",
+      "options": [
+        { "option_id": 1, "text": "नाशिक", "is_correct": true },
+        { "option_id": 2, "text": "रत्नागिरी", "is_correct": false },
+        { "option_id": 3, "text": "गडचिरोली", "is_correct": false },
+        { "option_id": 4, "text": "सिंधुदुर्ग", "is_correct": false }
+      ],
+      "answer": "नाशिक"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "कापसाचे पीक कोणत्या प्रकारच्या जमिनीत चांगले येते?",
+      "options": [
+        { "option_id": 1, "text": "रेताड", "is_correct": false },
+        { "option_id": 2, "text": "काळी कसदार (रेगूर)", "is_correct": true },
+        { "option_id": 3, "text": "खडकाळ", "is_correct": false },
+        { "option_id": 4, "text": "दलदलीच्या", "is_correct": false }
+      ],
+      "answer": "काळी कसदार (रेगूर)"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "नकाशातील सूचीचा वापर कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा रंगवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "नकाशा समजून घेण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "नकाशा दुमडण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "नकाशा फाडण्यासाठी", "is_correct": false }
+      ],
+      "answer": "नकाशा समजून घेण्यासाठी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "‘गाव’ कसे तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "अनेक वाड्या-वस्त्या मिळून", "is_correct": true },
+        { "option_id": 2, "text": "फक्त एका घराचे", "is_correct": false },
+        { "option_id": 3, "text": "जंगलात", "is_correct": false },
+        { "option_id": 4, "text": "नदीमध्ये", "is_correct": false }
+      ],
+      "answer": "अनेक वाड्या-वस्त्या मिळून"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "शेतकऱ्यांनी रासायनिक खतांचा वापर कसा करावा?",
+      "options": [
+        { "option_id": 1, "text": "खूप जास्त", "is_correct": false },
+        { "option_id": 2, "text": "कमीत कमी", "is_correct": true },
+        { "option_id": 3, "text": "अजिबात नाही", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "कमीत कमी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "सेंद्रिय खतांचा वापर केल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पर्यावरणाची हानी होते", "is_correct": false },
+        { "option_id": 2, "text": "पर्यावरणाची हानी रोखता येते", "is_correct": true },
+        { "option_id": 3, "text": "पीक येत नाही", "is_correct": false },
+        { "option_id": 4, "text": "जमीन खराब होते", "is_correct": false }
+      ],
+      "answer": "पर्यावरणाची हानी रोखता येते"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "ठाणे जिल्ह्यात कोणते पीक जास्त होते?",
+      "options": [
+        { "option_id": 1, "text": "गहू", "is_correct": false },
+        { "option_id": 2, "text": "भात", "is_correct": true },
+        { "option_id": 3, "text": "ज्वारी", "is_correct": false },
+        { "option_id": 4, "text": "बाजरी", "is_correct": false }
+      ],
+      "answer": "भात"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "उत्तरेकडून दक्षिणेकडे वाहणारी महाराष्ट्राच्या पूर्व भागातील नदी कोणती?",
+      "options": [
+        { "option_id": 1, "text": "गोदावरी", "is_correct": false },
+        { "option_id": 2, "text": "वैनगंगा", "is_correct": true },
+        { "option_id": 3, "text": "तापी", "is_correct": false },
+        { "option_id": 4, "text": "नर्मदा", "is_correct": false }
+      ],
+      "answer": "वैनगंगा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "‘जिल्हा’ कशाचा बनलेला असतो?",
+      "options": [
+        { "option_id": 1, "text": "अनेक राज्यांचा", "is_correct": false },
+        { "option_id": 2, "text": "अनेक तालुक्यांचा", "is_correct": true },
+        { "option_id": 3, "text": "अनेक देशांचा", "is_correct": false },
+        { "option_id": 4, "text": "अनेक शहरांचा", "is_correct": false }
+      ],
+      "answer": "अनेक तालुक्यांचा"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "मानव शेती करण्यासाठी कोठे वस्ती करून राहू लागला?",
+      "options": [
+        { "option_id": 1, "text": "डोंगरावर", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याजवळ (शेताजवळ)", "is_correct": true },
+        { "option_id": 3, "text": "वाळवंटात", "is_correct": false },
+        { "option_id": 4, "text": "समुद्रात", "is_correct": false }
+      ],
+      "answer": "पाण्याजवळ (शेताजवळ)"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "राज्य कसे तयार होते?",
+      "answer": "अनेक जिल्हे मिळून राज्य तयार होते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "माणूस शेती करण्यासाठी कोठे राहू लागला?",
+      "answer": "माणूस शेती करण्यासाठी पाण्याजवळ शेताजवळ वस्ती करून राहू लागला."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वाड्या-वस्त्यांचे रूपांतर कशात झाले?",
+      "answer": "वाड्या-वस्त्यांचे रूपांतर गावांमध्ये झाले."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "गावांची वाढ होऊन काय निर्माण झाले?",
+      "answer": "गावांची वाढ होऊन शहरे निर्माण झाली."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्राची राजधानी कोणती आहे?",
+      "answer": "महाराष्ट्राची राजधानी मुंबई आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्राची उपराजधानी कोणती आहे?",
+      "answer": "महाराष्ट्राची उपराजधानी नागपूर आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "प्राकृतिक रचनेवरून महाराष्ट्राचे कोणते तीन विभाग पडतात?",
+      "answer": "किनारपट्टीचा प्रदेश, पर्वतीय प्रदेश आणि पठारी प्रदेश असे तीन विभाग पडतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "गोदावरी नदीचे वैशिष्ट्य काय आहे?",
+      "answer": "गोदावरी ही महाराष्ट्रातील सर्वात लांब नदी आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "सातपुडा पर्वतातील सर्वात उंच शिखर कोणते?",
+      "answer": "अस्तंभा हे सातपुडा पर्वतातील सर्वात उंच शिखर आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सह्याद्री पर्वतातील सर्वात उंच शिखर कोणते?",
+      "answer": "कळसूबाई हे सह्याद्री पर्वतातील आणि महाराष्ट्रातील सर्वात उंच शिखर आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "अरबी समुद्र महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "answer": "अरबी समुद्र महाराष्ट्राच्या पश्चिम दिशेला आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "जास्त पावसाच्या प्रदेशात कोणते पीक येते?",
+      "answer": "जास्त पावसाच्या प्रदेशात भात (धान) हे पीक येते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मध्यम पावसाच्या प्रदेशात कोणती पिके घेतली जातात?",
+      "answer": "मध्यम पावसाच्या प्रदेशात ज्वारी, तूर, सोयाबीन ही पिके घेतली जातात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कमी पावसाच्या प्रदेशात कोणती पिके घेतली जातात?",
+      "answer": "कमी पावसाच्या प्रदेशात ज्वारी, बाजरी, मटकी ही पिके घेतली जातात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "जिरायती शेती म्हणजे काय?",
+      "answer": "पावसाच्या पाण्यावर अवलंबून असलेल्या शेतीला जिरायती शेती म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "बागायती शेती म्हणजे काय?",
+      "answer": "जलसिंचनाद्वारे पाणीपुरवठा करून केलेल्या शेतीला बागायती शेती म्हणतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "खरीप हंगाम कोणता?",
+      "answer": "पावसाळ्यात होणारा शेतीचा हंगाम म्हणजे खरीप हंगाम होय."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "रब्बी हंगाम कोणता?",
+      "answer": "हिवाळ्यात होणारा शेतीचा हंगाम म्हणजे रब्बी हंगाम होय."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "नगदी पिके कशाला म्हणतात?",
+      "answer": "जी पिके बाजारात विकून पैसे मिळवण्यासाठी घेतली जातात, त्यांना व्यापारी किंवा नगदी पिके म्हणतात (उदा. कापूस, ऊस)."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "रासायनिक खतांचा वापर का कमी करावा?",
+      "answer": "रासायनिक खतांच्या अतिवापरामुळे मृदेचे प्रदूषण वाढते, म्हणून त्यांचा वापर कमी करावा."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कोणत्या खतांचा वापर अधिक केला पाहिजे?",
+      "answer": "सेंद्रिय खतांचा वापर अधिक केला पाहिजे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्र राज्याची स्थापना कधी झाली?",
+      "answer": "महाराष्ट्र राज्याची स्थापना १ मे १९६० रोजी झाली."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "भारतातील राज्यांची निर्मिती कशाच्या आधारावर झाली?",
+      "answer": "भारतातील राज्यांची निर्मिती भाषेच्या आधारावर झाली आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्राची राजभाषा कोणती?",
+      "answer": "महाराष्ट्राची राजभाषा मराठी आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कोकणात मराठीची कोणती बोलीभाषा बोलली जाते?",
+      "answer": "कोकणात कोकणी आणि मालवणी या मराठीच्या बोलीभाषा बोलल्या जातात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "विदर्भात मराठीची कोणती बोलीभाषा बोलली जाते?",
+      "answer": "विदर्भात वऱ्हाडी ही मराठीची बोलीभाषा बोलली जाते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "खानदेशात कोणती बोलीभाषा बोलली जाते?",
+      "answer": "खानदेशात अहिराणी (खानदेशी) ही बोलीभाषा बोलली जाते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "आदिवासी जमातींच्या बोलीभाषा कोणत्या?",
+      "answer": "गोरमाटी, कोलामी, कोरकू इत्यादी आदिवासी जमातींच्या बोलीभाषा आहेत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कोकणात कोणते सण साजरे होतात?",
+      "answer": "कोकणात नारळी पौर्णिमा, होळी, गणेशोत्सव हे सण प्रामुख्याने साजरे होतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पठारी प्रदेशावर कोणते सण साजरे होतात?",
+      "answer": "पठारी प्रदेशावर दसरा, दिवाळी, बैलपोळा हे सण मोठ्या प्रमाणावर साजरे होतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय सण कोणते?",
+      "answer": "१५ ऑगस्ट (स्वातंत्र्य दिन) आणि २६ जानेवारी (प्रजासत्ताक दिन) हे राष्ट्रीय सण आहेत."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "संत्र्याचे पीक कोठे जास्त होते?",
+      "answer": "संत्र्याचे पीक नागपूर जिल्ह्यात जास्त होते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "नारळ, सुपारी आणि आंबा कोठे पिकतात?",
+      "answer": "नारळ, सुपारी आणि आंबा कोकणात (राज्याच्या पश्चिम भागात) पिकतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "ज्वारीचे पीक कोणत्या जिल्ह्यांमध्ये घेतले जाते?",
+      "answer": "ज्वारीचे पीक सोलापूर, अहमदनगर, पुणे यांसारख्या कमी पावसाच्या जिल्ह्यांमध्ये घेतले जाते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "१ मे हा दिवस कशासाठी साजरा करतात?",
+      "answer": "१ मे हा दिवस 'महाराष्ट्र दिन' म्हणून साजरा करतात, कारण या दिवशी महाराष्ट्र राज्याची निर्मिती झाली."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "सह्याद्री पर्वताच्या पूर्वेकडील भागाला काय म्हणतात?",
+      "answer": "सह्याद्री पर्वताच्या पूर्वेकडील भागाला 'महाराष्ट्र पठार' किंवा 'पठारी प्रदेश' म्हणतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "तापी नदी कोणत्या दिशेला वाहते?",
+      "answer": "तापी नदी पूर्वेकडून पश्चिमेकडे वाहते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "वैनगंगा नदी कोणत्या दिशेला वाहते?",
+      "answer": "वैनगंगा नदी उत्तरेकडून दक्षिणेकडे वाहते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "सह्याद्री पर्वतातील काही घाटांची नावे सांगा.",
+      "answer": "बोरघाट, थळघाट, कुंभारली घाट, आंबा घाट ही सह्याद्री पर्वतातील काही घाटांची नावे आहेत."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पिकांचे वितरण कशावर अवलंबून असते?",
+      "answer": "पिकांचे वितरण हवामान, मृदा आणि पाण्याच्या उपलब्धतेवर अवलंबून असते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "सेंद्रिय खते वापरल्याने काय फायदा होतो?",
+      "answer": "सेंद्रिय खते वापरल्याने जमिनीचा पोत सुधारतो आणि पर्यावरणाची हानी होत नाही."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "प्रशासकीय विभाग नकाशात कसे ओळखाल?",
+      "answer": "नकाशातील विविध रंगांच्या आधारे प्रशासकीय विभाग ओळखता येतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "तुमच्या जिल्ह्याचे हवामान कसे आहे?",
+      "answer": "(विद्यार्थ्याने स्वतःच्या जिल्ह्यानुसार उत्तर द्यावे, उदा. उष्ण व कोरडे, सम व दमट)."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "नकाशात सूचीचा वापर कसा करावा?",
+      "answer": "सूचीमध्ये दिलेल्या खुणा आणि चिन्हे पाहून नकाशातील माहिती समजून घ्यावी."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्राच्या उत्तरेला कोणता पर्वत आहे?",
+      "answer": "महाराष्ट्राच्या उत्तरेला सातपुडा पर्वत आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "कोकण किनारपट्टीचा भाग कोणत्या समुद्राला लागून आहे?",
+      "answer": "कोकण किनारपट्टीचा भाग अरबी समुद्राला लागून आहे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "द्राक्षे कोणत्या जिल्ह्यात जास्त पिकतात?",
+      "answer": "द्राक्षे नाशिक आणि सांगली जिल्ह्यात जास्त पिकतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कापूस कोणत्या जिल्ह्यात जास्त पिकतो?",
+      "answer": "कापूस जळगाव, यवतमाळ, अकोला यांसारख्या जिल्ह्यांत जास्त पिकतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "सोयाबीनचे पीक कोणत्या पावसाच्या प्रदेशात येते?",
+      "answer": "सोयाबीनचे पीक मध्यम पावसाच्या प्रदेशात येते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "उस तोडणी कामगार कोठे स्थलांतर करतात?",
+      "answer": "उस तोडणी कामगार जिथे उसाचे पीक आणि साखर कारखाने आहेत, तिथे स्थलांतर करतात."
+    }
+  ]
+}

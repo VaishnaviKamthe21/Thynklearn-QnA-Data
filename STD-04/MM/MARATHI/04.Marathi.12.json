@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.12",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "वाटाड्या"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या पाठाच्या लेखिका कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "शैलजा काळे", "is_correct": true },
+        { "option_id": 2, "text": "वसुधा पाटील", "is_correct": false },
+        { "option_id": 3, "text": "संजीवनी खेर", "is_correct": false },
+        { "option_id": 4, "text": "लीला शिंदे", "is_correct": false }
+      ],
+      "answer": "शैलजा काळे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मुलीने काकांना काय म्हणून हाक मारली?",
+      "options": [
+        { "option_id": 1, "text": "बाबा", "is_correct": false },
+        { "option_id": 2, "text": "दादा", "is_correct": false },
+        { "option_id": 3, "text": "काका", "is_correct": true },
+        { "option_id": 4, "text": "मामा", "is_correct": false }
+      ],
+      "answer": "काका"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "मुलीचा स्पर्श कसा होता?",
+      "options": [
+        { "option_id": 1, "text": "खरखरीत", "is_correct": false },
+        { "option_id": 2, "text": "कोवळा आणि नाजूक", "is_correct": true },
+        { "option_id": 3, "text": "गार", "is_correct": false },
+        { "option_id": 4, "text": "कठोर", "is_correct": false }
+      ],
+      "answer": "कोवळा आणि नाजूक"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मुलीला कशाची भीती वाटत होती?",
+      "options": [
+        { "option_id": 1, "text": "कुत्र्याची", "is_correct": false },
+        { "option_id": 2, "text": "अंधाराची", "is_correct": false },
+        { "option_id": 3, "text": "रस्त्याची", "is_correct": true },
+        { "option_id": 4, "text": "शाळेची", "is_correct": false }
+      ],
+      "answer": "रस्त्याची"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "काकांनी रस्त्याची तुलना कोणाशी केली?",
+      "options": [
+        { "option_id": 1, "text": "वाघ-सिंहाशी", "is_correct": true },
+        { "option_id": 2, "text": "सापाशी", "is_correct": false },
+        { "option_id": 3, "text": "राक्षसाशी", "is_correct": false },
+        { "option_id": 4, "text": "समुद्राशी", "is_correct": false }
+      ],
+      "answer": "वाघ-सिंहाशी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर काय असते?",
+      "options": [
+        { "option_id": 1, "text": "शांतता", "is_correct": false },
+        { "option_id": 2, "text": "रहदारी", "is_correct": true },
+        { "option_id": 3, "text": "खेळणी", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "रहदारी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रस्त्यावर शिट्टी कोण वाजवत असतो?",
+      "options": [
+        { "option_id": 1, "text": "कंडक्टर", "is_correct": false },
+        { "option_id": 2, "text": "पोलीस", "is_correct": true },
+        { "option_id": 3, "text": "ड्रायव्हर", "is_correct": false },
+        { "option_id": 4, "text": "मुले", "is_correct": false }
+      ],
+      "answer": "पोलीस"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मुलगी कोणाच्या चाकात जाता जाता वाचली?",
+      "options": [
+        { "option_id": 1, "text": "मोटारीच्या", "is_correct": false },
+        { "option_id": 2, "text": "स्कूटरच्या", "is_correct": false },
+        { "option_id": 3, "text": "सायकलच्या", "is_correct": true },
+        { "option_id": 4, "text": "बसच्या", "is_correct": false }
+      ],
+      "answer": "सायकलच्या"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कोणाचे बोट धरल्यावर मुलीला भीती वाटत नाही?",
+      "options": [
+        { "option_id": 1, "text": "काकांचे", "is_correct": false },
+        { "option_id": 2, "text": "मैत्रिणीचे", "is_correct": false },
+        { "option_id": 3, "text": "आई किंवा बाबांचे", "is_correct": true },
+        { "option_id": 4, "text": "शिक्षकांचे", "is_correct": false }
+      ],
+      "answer": "आई किंवा बाबांचे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मुलीला रोज शाळेत कोण पोहोचवत असे?",
+      "options": [
+        { "option_id": 1, "text": "आई", "is_correct": false },
+        { "option_id": 2, "text": "बाबा", "is_correct": true },
+        { "option_id": 3, "text": "गडी", "is_correct": false },
+        { "option_id": 4, "text": "रिक्षावाला", "is_correct": false }
+      ],
+      "answer": "बाबा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "मुलीला शाळेतून घरी न्यायला दुपारी कोण येत असे?",
+      "options": [
+        { "option_id": 1, "text": "बाबा", "is_correct": false },
+        { "option_id": 2, "text": "आई", "is_correct": false },
+        { "option_id": 3, "text": "गडी सखाराम", "is_correct": true },
+        { "option_id": 4, "text": "आजोबा", "is_correct": false }
+      ],
+      "answer": "गडी सखाराम"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सखाराम त्या दिवशी का आला नाही?",
+      "options": [
+        { "option_id": 1, "text": "तो आजारी होता", "is_correct": false },
+        { "option_id": 2, "text": "तो गावाला गेला होता", "is_correct": false },
+        { "option_id": 3, "text": "तो सुट्टीवर होता", "is_correct": true },
+        { "option_id": 4, "text": "त्याला उशीर झाला होता", "is_correct": false }
+      ],
+      "answer": "तो सुट्टीवर होता"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मुलीच्या घराच्या मार्गावर कोणती खूण होती?",
+      "options": [
+        { "option_id": 1, "text": "एक शाळा", "is_correct": false },
+        { "option_id": 2, "text": "मोठ्या इमारतीवर टीव्हीचे चित्र", "is_correct": true },
+        { "option_id": 3, "text": "मोठे झाड", "is_correct": false },
+        { "option_id": 4, "text": "पोस्ट ऑफिस", "is_correct": false }
+      ],
+      "answer": "मोठ्या इमारतीवर टीव्हीचे चित्र"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "मुलीच्या घराजवळ काय होते?",
+      "options": [
+        { "option_id": 1, "text": "बगीचा", "is_correct": false },
+        { "option_id": 2, "text": "हॉटेल", "is_correct": false },
+        { "option_id": 3, "text": "बेकरी", "is_correct": true },
+        { "option_id": 4, "text": "शाळा", "is_correct": false }
+      ],
+      "answer": "बेकरी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मुलीचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "सोनल", "is_correct": false },
+        { "option_id": 2, "text": "मृणालिनी (मिनू)", "is_correct": true },
+        { "option_id": 3, "text": "प्रिया", "is_correct": false },
+        { "option_id": 4, "text": "सुमन", "is_correct": false }
+      ],
+      "answer": "मृणालिनी (मिनू)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "आईने मिनूला कोणाबरोबर यायला सांगितले होते?",
+      "options": [
+        { "option_id": 1, "text": "सखारामबरोबर", "is_correct": false },
+        { "option_id": 2, "text": "सोनलबरोबर", "is_correct": true },
+        { "option_id": 3, "text": "काकांबरोबर", "is_correct": false },
+        { "option_id": 4, "text": "एकटीला", "is_correct": false }
+      ],
+      "answer": "सोनलबरोबर"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मिनूने सोनलबरोबर येण्यास का नकार दिला?",
+      "options": [
+        { "option_id": 1, "text": "सोनलने तिची टिंगल केली", "is_correct": true },
+        { "option_id": 2, "text": "सोनल पळून गेली", "is_correct": false },
+        { "option_id": 3, "text": "सोनलला रस्ता माहीत नव्हता", "is_correct": false },
+        { "option_id": 4, "text": "सोनल रडत होती", "is_correct": false }
+      ],
+      "answer": "सोनलने तिची टिंगल केली"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "सोनल कशी होती असे मिनू म्हणते?",
+      "options": [
+        { "option_id": 1, "text": "हुशार", "is_correct": false },
+        { "option_id": 2, "text": "चांगली", "is_correct": false },
+        { "option_id": 3, "text": "भारी शिष्ट", "is_correct": true },
+        { "option_id": 4, "text": "भित्री", "is_correct": false }
+      ],
+      "answer": "भारी शिष्ट"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "मिनूला कशाची भीती वाटत होती?",
+      "options": [
+        { "option_id": 1, "text": "घरी जाण्याची", "is_correct": false },
+        { "option_id": 2, "text": "रस्ता ओलांडण्याची", "is_correct": true },
+        { "option_id": 3, "text": "पोलिसांची", "is_correct": false },
+        { "option_id": 4, "text": "कुत्र्याची", "is_correct": false }
+      ],
+      "answer": "रस्ता ओलांडण्याची"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "मिनूच्या विनंतीमुळे काकांची छाती का धडधडू लागली?",
+      "options": [
+        { "option_id": 1, "text": "त्यांना भीती वाटत होती", "is_correct": false },
+        { "option_id": 2, "text": "त्यांना दिसत नव्हते", "is_correct": true },
+        { "option_id": 3, "text": "ते आजारी होते", "is_correct": false },
+        { "option_id": 4, "text": "त्यांना उशीर होत होता", "is_correct": false }
+      ],
+      "answer": "त्यांना दिसत नव्हते"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "काकांना नवे बळ कशामुळे मिळाले?",
+      "options": [
+        { "option_id": 1, "text": "मिनूच्या स्पर्शातल्या भोळ्या विश्वासामुळे", "is_correct": true },
+        { "option_id": 2, "text": "काठीमुळे", "is_correct": false },
+        { "option_id": 3, "text": "पोलिसामुळे", "is_correct": false },
+        { "option_id": 4, "text": "चष्म्यामुळे", "is_correct": false }
+      ],
+      "answer": "मिनूच्या स्पर्शातल्या भोळ्या विश्वासामुळे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "काकांनी रस्ता क्रॉस करण्यासाठी काय बघायला सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "सिग्नल", "is_correct": false },
+        { "option_id": 2, "text": "झेब्रा क्रॉसिंग", "is_correct": true },
+        { "option_id": 3, "text": "पोलिस", "is_correct": false },
+        { "option_id": 4, "text": "गर्दी", "is_correct": false }
+      ],
+      "answer": "झेब्रा क्रॉसिंग"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "झेब्रा क्रॉसिंग म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "रस्त्यावरचे काळे पट्टे", "is_correct": false },
+        { "option_id": 2, "text": "रस्त्यावरचे पांढरे पट्टे", "is_correct": true },
+        { "option_id": 3, "text": "फुटपाथ", "is_correct": false },
+        { "option_id": 4, "text": "डिव्हायडर", "is_correct": false }
+      ],
+      "answer": "रस्त्यावरचे पांढरे पट्टे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "काकांच्या डोळ्यांवर काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पांढरा चष्मा", "is_correct": false },
+        { "option_id": 2, "text": "काळा चष्मा", "is_correct": true },
+        { "option_id": 3, "text": "नंबरचा चष्मा", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "काळा चष्मा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "रस्ता ओलांडताना आधी कोणती बाजू पाहायची?",
+      "options": [
+        { "option_id": 1, "text": "डावी", "is_correct": false },
+        { "option_id": 2, "text": "उजवी", "is_correct": true },
+        { "option_id": 3, "text": "मागची", "is_correct": false },
+        { "option_id": 4, "text": "समोरची", "is_correct": false }
+      ],
+      "answer": "उजवी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "अर्ध्या रस्त्यातून कोणती बाजू पाहायची?",
+      "options": [
+        { "option_id": 1, "text": "उजवी", "is_correct": false },
+        { "option_id": 2, "text": "डावी/दुसऱ्या बाजूनं येणारी वाहने", "is_correct": true },
+        { "option_id": 3, "text": "मागची", "is_correct": false },
+        { "option_id": 4, "text": "वरची", "is_correct": false }
+      ],
+      "answer": "डावी/दुसऱ्या बाजूनं येणारी वाहने"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "रस्त्यातून कसे जायचे नाही?",
+      "options": [
+        { "option_id": 1, "text": "चालत", "is_correct": false },
+        { "option_id": 2, "text": "धावत", "is_correct": true },
+        { "option_id": 3, "text": "हळू", "is_correct": false },
+        { "option_id": 4, "text": "सावकाश", "is_correct": false }
+      ],
+      "answer": "धावत"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "उजव्या हाताला कोणती वाहने येत होती?",
+      "options": [
+        { "option_id": 1, "text": "बस आणि ट्रक", "is_correct": false },
+        { "option_id": 2, "text": "दोन कार आणि एक स्कूटर", "is_correct": true },
+        { "option_id": 3, "text": "फक्त सायकल", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "दोन कार आणि एक स्कूटर"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पलीकडे गेल्यावर मिनूने काय केले?",
+      "options": [
+        { "option_id": 1, "text": "रडली", "is_correct": false },
+        { "option_id": 2, "text": "जोरात टाळ्या वाजवल्या", "is_correct": true },
+        { "option_id": 3, "text": "पळून गेली", "is_correct": false },
+        { "option_id": 4, "text": "काकांना रागावली", "is_correct": false }
+      ],
+      "answer": "जोरात टाळ्या वाजवल्या"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "मिनूने काकांना आपले घर कसे दाखवले?",
+      "options": [
+        { "option_id": 1, "text": "बोट दाखवून", "is_correct": false },
+        { "option_id": 2, "text": "हाताला धरून तिरपे वळवून", "is_correct": true },
+        { "option_id": 3, "text": "ओरडून", "is_correct": false },
+        { "option_id": 4, "text": "दगड फेकून", "is_correct": false }
+      ],
+      "answer": "हाताला धरून तिरपे वळवून"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "काकांनी मिनूला काय शिकवले?",
+      "options": [
+        { "option_id": 1, "text": "अभ्यास करायला", "is_correct": false },
+        { "option_id": 2, "text": "गाणे म्हणायला", "is_correct": false },
+        { "option_id": 3, "text": "नीट घरी जायला/रस्ता ओलांडायला", "is_correct": true },
+        { "option_id": 4, "text": "सायकल चालवायला", "is_correct": false }
+      ],
+      "answer": "नीट घरी जायला/रस्ता ओलांडायला"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "मिनू गेल्यानंतर काकांनी काय केले?",
+      "options": [
+        { "option_id": 1, "text": "काळा चष्मा काढला आणि डोळे टिपले", "is_correct": true },
+        { "option_id": 2, "text": "चहा प्यायला", "is_correct": false },
+        { "option_id": 3, "text": "बस पकडली", "is_correct": false },
+        { "option_id": 4, "text": "दुकानात गेले", "is_correct": false }
+      ],
+      "answer": "काळा चष्मा काढला आणि डोळे टिपले"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "काकांना रस्ता ओलांडण्यासाठी कोणी मदत केली?",
+      "options": [
+        { "option_id": 1, "text": "मिनूने", "is_correct": false },
+        { "option_id": 2, "text": "पोलिसाने", "is_correct": false },
+        { "option_id": 3, "text": "समोरून येणाऱ्या माणसाने", "is_correct": true },
+        { "option_id": 4, "text": "कोणीच नाही", "is_correct": false }
+      ],
+      "answer": "समोरून येणाऱ्या माणसाने"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "काका कशाच्या आधारे रस्ता ओलांडत होते?",
+      "options": [
+        { "option_id": 1, "text": "डोळ्यांनी पाहून", "is_correct": false },
+        { "option_id": 2, "text": "मिनूच्या मदतीने (तिला शिकवत)", "is_correct": true },
+        { "option_id": 3, "text": "काठीच्या साहाय्याने", "is_correct": false },
+        { "option_id": 4, "text": "अंदाज घेत", "is_correct": false }
+      ],
+      "answer": "मिनूच्या मदतीने (तिला शिकवत)"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "काका निमूटपणे कोणाच्या मागे चालले?",
+      "options": [
+        { "option_id": 1, "text": "मिनूच्या", "is_correct": false },
+        { "option_id": 2, "text": "माणसाच्या", "is_correct": true },
+        { "option_id": 3, "text": "गाडीच्या", "is_correct": false },
+        { "option_id": 4, "text": "कुत्र्याच्या", "is_correct": false }
+      ],
+      "answer": "माणसाच्या"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "'वाटाड्या' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "वाट दाखवणारा / मार्गदर्शक", "is_correct": true },
+        { "option_id": 2, "text": "वाट अडवणारा", "is_correct": false },
+        { "option_id": 3, "text": "प्रवासी", "is_correct": false },
+        { "option_id": 4, "text": "वाट बघणारा", "is_correct": false }
+      ],
+      "answer": "वाट दाखवणारा / मार्गदर्शक"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "'धिटुकली' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "धीट / बरीचशी मोठी झालेली मुलगी", "is_correct": true },
+        { "option_id": 3, "text": "जाड", "is_correct": false },
+        { "option_id": 4, "text": "बारीक", "is_correct": false }
+      ],
+      "answer": "धीट / बरीचशी मोठी झालेली मुलगी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "'आर्जव' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "आज्ञा", "is_correct": false },
+        { "option_id": 2, "text": "विनंती", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "आनंद", "is_correct": false }
+      ],
+      "answer": "विनंती"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "'गलबलून येणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "राग येणे", "is_correct": false },
+        { "option_id": 2, "text": "मन भरून येणे / गहिवरून येणे", "is_correct": true },
+        { "option_id": 3, "text": "भीती वाटणे", "is_correct": false },
+        { "option_id": 4, "text": "चक्कर येणे", "is_correct": false }
+      ],
+      "answer": "मन भरून येणे / गहिवरून येणे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "'चाहूल लागणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "कुणीतरी येण्याची जाणीव होणे", "is_correct": true },
+        { "option_id": 2, "text": "पाय वाजणे", "is_correct": false },
+        { "option_id": 3, "text": "आवाज येणे", "is_correct": false },
+        { "option_id": 4, "text": "वारा सुटणे", "is_correct": false }
+      ],
+      "answer": "कुणीतरी येण्याची जाणीव होणे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "'निमूटपणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "ओरडत", "is_correct": false },
+        { "option_id": 2, "text": "गुपचूप / काहीही न बोलता", "is_correct": true },
+        { "option_id": 3, "text": "हळूहळू", "is_correct": false },
+        { "option_id": 4, "text": "वेगाने", "is_correct": false }
+      ],
+      "answer": "गुपचूप / काहीही न बोलता"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "काकांनी मिनूला मदत का केली?",
+      "options": [
+        { "option_id": 1, "text": "तिच्या विनंतीमुळे आणि विश्वासाने", "is_correct": true },
+        { "option_id": 2, "text": "तिच्या आईने सांगितले होते म्हणून", "is_correct": false },
+        { "option_id": 3, "text": "तिला रस्ता माहीत नव्हता म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "त्यांना पैसे हवे होते म्हणून", "is_correct": false }
+      ],
+      "answer": "तिच्या विनंतीमुळे आणि विश्वासाने"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "मिनूला काकांविषयी काय माहीत नव्हते?",
+      "options": [
+        { "option_id": 1, "text": "ते अनोळखी आहेत", "is_correct": false },
+        { "option_id": 2, "text": "ते अंध आहेत", "is_correct": true },
+        { "option_id": 3, "text": "ते वयस्कर आहेत", "is_correct": false },
+        { "option_id": 4, "text": "ते चांगले आहेत", "is_correct": false }
+      ],
+      "answer": "ते अंध आहेत"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मिनूला कोणी टिंगल केली होती?",
+      "options": [
+        { "option_id": 1, "text": "काकांनी", "is_correct": false },
+        { "option_id": 2, "text": "सोनलने", "is_correct": true },
+        { "option_id": 3, "text": "सखारामने", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षकांनी", "is_correct": false }
+      ],
+      "answer": "सोनलने"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "मिनूच्या बोलण्यात काय होते?",
+      "options": [
+        { "option_id": 1, "text": "गर्व", "is_correct": false },
+        { "option_id": 2, "text": "राग", "is_correct": false },
+        { "option_id": 3, "text": "आर्जव", "is_correct": true },
+        { "option_id": 4, "text": "खोटेपण", "is_correct": false }
+      ],
+      "answer": "आर्जव"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "काकांनी मिनूला रस्ता ओलांडताना काय विचारले?",
+      "options": [
+        { "option_id": 1, "text": "गाडी येते का ते सांग", "is_correct": true },
+        { "option_id": 2, "text": "तू कितवीत आहेस", "is_correct": false },
+        { "option_id": 3, "text": "तुला भूक लागली का", "is_correct": false },
+        { "option_id": 4, "text": "तुझे बाबा काय करतात", "is_correct": false }
+      ],
+      "answer": "गाडी येते का ते सांग"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "मिनू घरी सुरक्षित पोहोचेल याची खात्री काकांना कशामुळे झाली?",
+      "options": [
+        { "option_id": 1, "text": "तिने स्वतः रस्ता ओलांडला", "is_correct": false },
+        { "option_id": 2, "text": "तिने काकांना रस्ता दाखवला", "is_correct": false },
+        { "option_id": 3, "text": "तिने आत्मविश्वासाने 'हो' म्हटले", "is_correct": true },
+        { "option_id": 4, "text": "तिची आई आली होती", "is_correct": false }
+      ],
+      "answer": "तिने आत्मविश्वासाने 'हो' म्हटले"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणता संदेश मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "रस्त्यावर खेळू नये", "is_correct": false },
+        { "option_id": 2, "text": "दुसऱ्यांना मदत करावी आणि स्वतःवर विश्वास ठेवावा", "is_correct": true },
+        { "option_id": 3, "text": "अनोळखी लोकांशी बोलू नये", "is_correct": false },
+        { "option_id": 4, "text": "शाळेत जाऊ नये", "is_correct": false }
+      ],
+      "answer": "दुसऱ्यांना मदत करावी आणि स्वतःवर विश्वास ठेवावा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "काकांनी हाताचा रुमाल कशासाठी वापरला?",
+      "options": [
+        { "option_id": 1, "text": "हात पुसण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "घाम पुसण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "डोळे टिपण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "तोंड पुसण्यासाठी", "is_correct": false }
+      ],
+      "answer": "डोळे टिपण्यासाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "'प्लीज' या इंग्रजी शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "कृपया", "is_correct": true },
+        { "option_id": 2, "text": "धन्यवाद", "is_correct": false },
+        { "option_id": 3, "text": "माफ करा", "is_correct": false },
+        { "option_id": 4, "text": "जाऊ दे", "is_correct": false }
+      ],
+      "answer": "कृपया"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "काकांना कोणी हाक मारली?",
+      "answer": "काकांना एका छोट्या मुलीने (मिनूने) हाक मारली."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "मुलीला कशाची भीती वाटत होती?",
+      "answer": "मुलीला रस्त्याची आणि तिथल्या रहदारीची भीती वाटत होती."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मुलीचे नाव काय होते?",
+      "answer": "मुलीचे नाव मृणालिनी होते, पण तिला सगळे मिनू म्हणत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मिनूला शाळेत कोण सोडत असे?",
+      "answer": "मिनूला सकाळी बाबा शाळेत सोडत असत."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "मिनूला शाळेतून घ्यायला कोण येत असे?",
+      "answer": "मिनूला शाळेतून घ्यायला त्यांचा गडी सखाराम येत असे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "सखाराम त्या दिवशी का आला नाही?",
+      "answer": "सखाराम त्या दिवशी सुट्टीवर होता, म्हणून तो आला नाही."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "आईने मिनूला कोणासोबत यायला सांगितले होते?",
+      "answer": "आईने मिनूला घराजवळ राहणाऱ्या सोनलसोबत यायला सांगितले होते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "सोनलने मिनूची काय केली?",
+      "answer": "सोनलने मिनूची टिंगल केली."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मिनूला रस्त्याची भीती का वाटत होती?",
+      "answer": "रस्ता ओलांडताना सगळ्या गाड्या आपल्याच अंगावर येत आहेत असे तिला वाटत होते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "मिनूने काकांना काय मदत मागितली?",
+      "answer": "मिनूने काकांना रस्ता ओलांडण्यासाठी बोट धरण्याची मदत मागितली."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "काकांची छाती का धडधडू लागली?",
+      "answer": "कारण काकांना दिसत नव्हते (ते अंध होते) आणि त्यांना एका लहान मुलीला रस्ता ओलांडून द्यायचा होता."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "काकांनी रस्ता ओलांडण्यासाठी प्रथम काय शोधायला सांगितले?",
+      "answer": "काकांनी रस्ता ओलांडण्यासाठी प्रथम झेब्रा क्रॉसिंग (पांढरे पट्टे) शोधायला सांगितले."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "रस्ता ओलांडताना आधी कोणती बाजू पाहावी?",
+      "answer": "रस्ता ओलांडताना आधी उजवी बाजू पाहावी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "रस्ता ओलांडताना अर्ध्या रस्त्यातून कोणती बाजू पाहावी?",
+      "answer": "अर्ध्या रस्त्यातून दुसऱ्या बाजूने (डाव्या बाजूने) येणारी वाहने पाहावीत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "रस्त्यातून कसे जाऊ नये?",
+      "answer": "रस्त्यातून कधीही धावत सुटू नये."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "काकांनी मिनूला कशाबद्दल प्रश्न विचारले?",
+      "answer": "काकांनी मिनूला गाड्या येत आहेत का याबद्दल प्रश्न विचारले."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "रस्ता ओलांडल्यावर मिनूने काय केले?",
+      "answer": "रस्ता ओलांडल्यावर मिनूने खुशीत जोरात टाळ्या वाजवल्या."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "मिनूने काकांचे आभार कसे मानले?",
+      "answer": "मिनू म्हणाली, 'तुम्ही किती चांगले आहात काका! किती छान शिकवलं तुम्ही मला!'"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "काकांना मिनूचे घर कसे दिसले?",
+      "answer": "काकांना मिनूचे घर दिसले नाही, त्यांनी फक्त मिनूच्या सांगण्यावरून मान हलवली."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "मिनू गेल्यावर काकांनी काय केले?",
+      "answer": "मिनू गेल्यावर काकांनी डोळ्यांवरचा काळा चश्मा काढला आणि डोळे पुसले."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "काकांनी समोरून येणाऱ्या माणसाला काय विनंती केली?",
+      "answer": "काकांनी विनंती केली की, \"मला दिसत नाही, पलीकडे पोहोचवता का?\""
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "काका अंध होते हे मिनूला समजले का?",
+      "answer": "नाही, मिनूला शेवटपर्यंत समजले नाही की काका अंध आहेत."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "खरे वाटाड्या कोण ठरले?",
+      "answer": "मिनूला रस्ता ओलांडायला शिकवणारे अंध काका खरे 'वाटाड्या' ठरले."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "'वाटाड्या' या पाठातून काय शिकवण मिळते?",
+      "answer": "संकटात न डगमगता एकमेकांना मदत करावी आणि स्वावलंबी बनावे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "काकांनी मिनूला स्वतः अंध असूनही मदत का केली?",
+      "answer": "मिनूचा भोळा विश्वास आणि तिची विनंती यामुळे काकांना मदत करण्याचे बळ मिळाले."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "झेब्रा क्रॉसिंग कशासाठी असते?",
+      "answer": "झेब्रा क्रॉसिंग पादचाऱ्यांना रस्ता ओलांडण्यासाठी सुरक्षित जागा असते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "मिनूचे घर ओळखण्याची खूण काय होती?",
+      "answer": "समोरच्या उंच इमारतीवर काढलेला मोठा टीव्ही ही खूण होती."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "काकांनी काळा चश्मा का लावला होता?",
+      "answer": "कारण त्यांना दिसत नव्हते (ते अंध होते)."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "'आर्जव' या शब्दाचा अर्थ सांगा.",
+      "answer": "'आर्जव' म्हणजे विनंती किंवा लाडीवाळपणे केलेले सांगणे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "काका 'निमूटपणे' का चालले?",
+      "answer": "त्यांचे काम झाले होते आणि आता त्यांना स्वतःला मदतीची गरज होती, म्हणून ते निमूटपणे दुसऱ्याच्या मदतीने चालले."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "मिनूच्या स्पर्शाने काकांना काय दिले?",
+      "answer": "मिनूच्या स्पर्शाने काकांना 'नवे बळ' दिले."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "मिनूने काकांना झेब्रा क्रॉसिंगकडे कसे नेले?",
+      "answer": "मिनूने काकांना ओढतच झेब्रा क्रॉसिंगजवळ नेले."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "रस्ता ओलांडताना मिनूच्या मनात काय विचार येत होते?",
+      "answer": "तिला वाटत होते की सगळ्या गाड्या तिच्या अंगावर येत आहेत."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "सोनल मिनूला काय म्हणाली होती?",
+      "answer": "सोनल म्हणाली होती, \"जा. रस्त्यात घाबरशील. मग येईल तुझी आई मला विचारायला.\""
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "काकांनी मिनूला 'नीट जाशील ना?' असे का विचारले?",
+      "answer": "कारण आता ती एकटी जाणार होती आणि त्यांना तिची काळजी वाटत होती."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "मिनूने काकांना तिरपे का वळवले?",
+      "answer": "कारण काका चुकीच्या दिशेला मान वळवून बघत होते (त्यांना दिसत नव्हते)."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "काकांनी डोळे का टिपले?",
+      "answer": "कदाचित त्यांना मिनूच्या निरागसपणामुळे आणि स्वतःच्या अंधत्वामुळे भरून आले असावे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "या पाठात 'इवलीशी' हा शब्द कशासाठी वापरला आहे?",
+      "answer": "'इवलीशी' हा शब्द मिनूच्या लहानशा हातांच्या बोटांसाठी वापरला आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "रस्त्यावरील पांढऱ्या पट्ट्यांना काय म्हणतात?",
+      "answer": "रस्त्यावरील पांढऱ्या पट्ट्यांना 'झेब्रा क्रॉसिंग' म्हणतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "मिनू कोणाचे बोट धरून ऐटीत चालते?",
+      "answer": "मिनू आई किंवा बाबांचे बोट धरून ऐटीत चालते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "काकांनी मिनूला काय आश्वासन दिले?",
+      "answer": "काकांनी तिला मदत करण्याचे आणि रस्ता ओलांडण्यासाठी सोबत करण्याचे आश्वासन दिले."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "पाठाच्या शेवटी काका कोणासोबत गेले?",
+      "answer": "पाठाच्या शेवटी काका एका अनोळखी माणसाचा हात धरून गेले."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "काकांनी मिनूला रस्ता ओलांडण्याचे शिक्षण कसे दिले?",
+      "answer": "त्यांनी तिला स्वतः वाहने पहायला लावून आणि सुरक्षित असल्याची खात्री करायला लावून शिक्षण दिले."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "मिनूला आता कशाची भीती वाटणार नाही?",
+      "answer": "मिनूला आता रस्ता क्रॉस करण्याची भीती वाटणार नाही."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "हाताला धरून काकांना कोणी वळवले?",
+      "answer": "हाताला धरून काकांना मिनूने वळवले."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "काकांनी डोळ्यावरचा चश्मा का काढला?",
+      "answer": "डोळे पुसण्यासाठी किंवा भानावर आल्यावर त्यांनी चश्मा काढला."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "काकांची छाती धडधडत असतानाही त्यांनी काय केले?",
+      "answer": "त्यांनी धैर्य दाखवून मिनूला रस्ता ओलांडण्यास मदत केली."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "मिनू कोणाला जाऊन सांगणार होती?",
+      "answer": "मिनू आईला जाऊन सांगणार होती की काकांनी तिला रस्ता ओलांडायला शिकवले."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "'धिटुकली' कोणाला म्हटले आहे?",
+      "answer": "'धिटुकली' मिनूला म्हटले आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "हा पाठ कशावर आधारित आहे?",
+      "answer": "हा पाठ रस्ता सुरक्षा आणि माणुसकीवर आधारित आहे."
+    }
+  ]
+}

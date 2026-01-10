@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.13",
+    "standard": "4",
+    "subject": "खेळू, करू, शिकू (कला शिक्षण)",
+    "medium": "Marathi",
+    "chapter_name": "गायन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भारतीय संगीतात मुख्य स्वर किती आहेत?",
+      "options": [
+        { "option_id": 1, "text": "पाच", "is_correct": false },
+        { "option_id": 2, "text": "सात", "is_correct": true },
+        { "option_id": 3, "text": "नऊ", "is_correct": false },
+        { "option_id": 4, "text": "बारा", "is_correct": false }
+      ],
+      "answer": "सात"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सप्तस्वरांमधील पहिला स्वर कोणता?",
+      "options": [
+        { "option_id": 1, "text": "रे", "is_correct": false },
+        { "option_id": 2, "text": "ग", "is_correct": false },
+        { "option_id": 3, "text": "सा", "is_correct": true },
+        { "option_id": 4, "text": "म", "is_correct": false }
+      ],
+      "answer": "सा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "स्वरांच्या चढत्या क्रमाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अवरोह", "is_correct": false },
+        { "option_id": 2, "text": "आरोह", "is_correct": true },
+        { "option_id": 3, "text": "पकड", "is_correct": false },
+        { "option_id": 4, "text": "ताला", "is_correct": false }
+      ],
+      "answer": "आरोह"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "स्वरांच्या उतरत्या क्रमाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "आरोह", "is_correct": false },
+        { "option_id": 2, "text": "अवरोह", "is_correct": true },
+        { "option_id": 3, "text": "सरगम", "is_correct": false },
+        { "option_id": 4, "text": "लय", "is_correct": false }
+      ],
+      "answer": "अवरोह"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "गाताना कसे बसावे?",
+      "options": [
+        { "option_id": 1, "text": "वाकून", "is_correct": false },
+        { "option_id": 2, "text": "पाठीचा कणा ताठ ठेवून", "is_correct": true },
+        { "option_id": 3, "text": "झोपून", "is_correct": false },
+        { "option_id": 4, "text": "मान खाली घालून", "is_correct": false }
+      ],
+      "answer": "पाठीचा कणा ताठ ठेवून"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "राष्ट्रगीत कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "वंदे मातरम्", "is_correct": false },
+        { "option_id": 2, "text": "जन गण मन", "is_correct": true },
+        { "option_id": 3, "text": "सारे जहाँ से अच्छा", "is_correct": false },
+        { "option_id": 4, "text": "जयोस्तुते", "is_correct": false }
+      ],
+      "answer": "जन गण मन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "राष्ट्रगीत गाण्यासाठी किती वेळ लागतो?",
+      "options": [
+        { "option_id": 1, "text": "५२ सेकंद", "is_correct": true },
+        { "option_id": 2, "text": "६० सेकंद", "is_correct": false },
+        { "option_id": 3, "text": "४५ सेकंद", "is_correct": false },
+        { "option_id": 4, "text": "९० सेकंद", "is_correct": false }
+      ],
+      "answer": "५२ सेकंद"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "समूहगीत म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "एकट्याने गाणे", "is_correct": false },
+        { "option_id": 2, "text": "अनेकांनी मिळून एका सुरात व तालात गाणे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त वाद्य वाजवणे", "is_correct": false },
+        { "option_id": 4, "text": "मनातल्या मनात गाणे", "is_correct": false }
+      ],
+      "answer": "अनेकांनी मिळून एका सुरात व तालात गाणे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "लहान मुलांसाठी असलेल्या गाण्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "भक्तीगीत", "is_correct": false },
+        { "option_id": 2, "text": "बालगीत", "is_correct": true },
+        { "option_id": 3, "text": "भावगीत", "is_correct": false },
+        { "option_id": 4, "text": "लावणी", "is_correct": false }
+      ],
+      "answer": "बालगीत"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'वंदे मातरम्' हे काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "राष्ट्रगीत", "is_correct": false },
+        { "option_id": 2, "text": "राष्ट्रीय गीत", "is_correct": true },
+        { "option_id": 3, "text": "भजन", "is_correct": false },
+        { "option_id": 4, "text": "पोवाडा", "is_correct": false }
+      ],
+      "answer": "राष्ट्रीय गीत"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "स्वरांची विशिष्ट रचना करून गाणे सजवणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "आलाप", "is_correct": false },
+        { "option_id": 2, "text": "अलंकार", "is_correct": true },
+        { "option_id": 3, "text": "तान", "is_correct": false },
+        { "option_id": 4, "text": "ठुमरी", "is_correct": false }
+      ],
+      "answer": "अलंकार"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सकाळच्या वेळी कोणती गीते गायली जातात?",
+      "options": [
+        { "option_id": 1, "text": "अंगाई गीत", "is_correct": false },
+        { "option_id": 2, "text": "भूपाळी / रामप्रहर", "is_correct": true },
+        { "option_id": 3, "text": "पोवाडा", "is_correct": false },
+        { "option_id": 4, "text": "लावणी", "is_correct": false }
+      ],
+      "answer": "भूपाळी / रामप्रहर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शेतकरी कामाच्या वेळी कोणती गाणी गातात?",
+      "options": [
+        { "option_id": 1, "text": "चित्रपट गीते", "is_correct": false },
+        { "option_id": 2, "text": "लोकगीते (उदा. भालरी)", "is_correct": true },
+        { "option_id": 3, "text": "गझल", "is_correct": false },
+        { "option_id": 4, "text": "कव्वाली", "is_correct": false }
+      ],
+      "answer": "लोकगीते (उदा. भालरी)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "तालासाठी कोणते वाद्य वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "बासरी", "is_correct": false },
+        { "option_id": 2, "text": "तबला / ढोलक", "is_correct": true },
+        { "option_id": 3, "text": "सनई", "is_correct": false },
+        { "option_id": 4, "text": "व्हायोलिन", "is_correct": false }
+      ],
+      "answer": "तबला / ढोलक"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सुरुवातीला गाण्याचा सराव करताना कशाचा आधार घ्यावा?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्या आवाजाचा", "is_correct": false },
+        { "option_id": 2, "text": "वाद्यांच्या स्वरांचा (पेटी/हार्मोनियम)", "is_correct": true },
+        { "option_id": 3, "text": "टीव्हीचा", "is_correct": false },
+        { "option_id": 4, "text": "नृत्याचा", "is_correct": false }
+      ],
+      "answer": "वाद्यांच्या स्वरांचा (पेटी/हार्मोनियम)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "गाणे गाताना आवाज कसा असावा?",
+      "options": [
+        { "option_id": 1, "text": "अतिशय मोठा", "is_correct": false },
+        { "option_id": 2, "text": "कानाला गोड वाटणारा (सुरीला)", "is_correct": true },
+        { "option_id": 3, "text": "कर्कश", "is_correct": false },
+        { "option_id": 4, "text": "अस्पष्ट", "is_correct": false }
+      ],
+      "answer": "कानाला गोड वाटणारा (सुरीला)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "निसर्गावर आधारित गाण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "निसर्गगीत", "is_correct": true },
+        { "option_id": 2, "text": "भक्तीगीत", "is_correct": false },
+        { "option_id": 3, "text": "देशभक्तीपर गीत", "is_correct": false },
+        { "option_id": 4, "text": "पोवाडा", "is_correct": false }
+      ],
+      "answer": "निसर्गगीत"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "'जन गण मन' हे गीत कोणी लिहिले?",
+      "options": [
+        { "option_id": 1, "text": "बंकिमचंद्र चॅटर्जी", "is_correct": false },
+        { "option_id": 2, "text": "रवींद्रनाथ टागोर", "is_correct": true },
+        { "option_id": 3, "text": "साने गुरुजी", "is_correct": false },
+        { "option_id": 4, "text": "कुसुमाग्रज", "is_correct": false }
+      ],
+      "answer": "रवींद्रनाथ टागोर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "'वंदे मातरम्' हे गीत कोणी लिहिले?",
+      "options": [
+        { "option_id": 1, "text": "रवींद्रनाथ टागोर", "is_correct": false },
+        { "option_id": 2, "text": "बंकिमचंद्र चॅटर्जी", "is_correct": true },
+        { "option_id": 3, "text": "विंदा करंदीकर", "is_correct": false },
+        { "option_id": 4, "text": "ग. दि. माडगूळकर", "is_correct": false }
+      ],
+      "answer": "बंकिमचंद्र चॅटर्जी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कोकिळा पक्ष्याचा आवाज कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "कर्कश", "is_correct": false },
+        { "option_id": 2, "text": "मंजुळ / गोड", "is_correct": true },
+        { "option_id": 3, "text": "भीतिदायक", "is_correct": false },
+        { "option_id": 4, "text": "मोठा", "is_correct": false }
+      ],
+      "answer": "मंजुळ / गोड"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "गाताना कशाचे भान ठेवावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "वेळेचे", "is_correct": false },
+        { "option_id": 2, "text": "सूर आणि ताल", "is_correct": true },
+        { "option_id": 3, "text": "कपड्यांचे", "is_correct": false },
+        { "option_id": 4, "text": "अन्नाचे", "is_correct": false }
+      ],
+      "answer": "सूर आणि ताल"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते तंतुवाद्य (तारांचे वाद्य) आहे?",
+      "options": [
+        { "option_id": 1, "text": "तबला", "is_correct": false },
+        { "option_id": 2, "text": "तंबोरा / वीणा", "is_correct": true },
+        { "option_id": 3, "text": "बासरी", "is_correct": false },
+        { "option_id": 4, "text": "ढोल", "is_correct": false }
+      ],
+      "answer": "तंबोरा / वीणा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते सुषिर वाद्य (हवेने वाजणारे) आहे?",
+      "options": [
+        { "option_id": 1, "text": "मृदुंग", "is_correct": false },
+        { "option_id": 2, "text": "बासरी / पेटी", "is_correct": true },
+        { "option_id": 3, "text": "सतार", "is_correct": false },
+        { "option_id": 4, "text": "टाळ", "is_correct": false }
+      ],
+      "answer": "बासरी / पेटी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "बालगीतांचा विषय सहसा काय असतो?",
+      "options": [
+        { "option_id": 1, "text": "राजकारण", "is_correct": false },
+        { "option_id": 2, "text": "निसर्ग, प्राणी, पक्षी, गंमत", "is_correct": true },
+        { "option_id": 3, "text": "दुःख", "is_correct": false },
+        { "option_id": 4, "text": "युद्ध", "is_correct": false }
+      ],
+      "answer": "निसर्ग, प्राणी, पक्षी, गंमत"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "गाणे ऐकल्याने मनाला काय वाटते?",
+      "options": [
+        { "option_id": 1, "text": "कंटाळा", "is_correct": false },
+        { "option_id": 2, "text": "प्रसन्नता आणि आनंद", "is_correct": true },
+        { "option_id": 3, "text": "राग", "is_correct": false },
+        { "option_id": 4, "text": "भीती", "is_correct": false }
+      ],
+      "answer": "प्रसन्नता आणि आनंद"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "आरोह म्हणजे 'सा' पासून कोणत्या स्वराकडे जाणे?",
+      "options": [
+        { "option_id": 1, "text": "खालच्या", "is_correct": false },
+        { "option_id": 2, "text": "वरच्या (नी)", "is_correct": true },
+        { "option_id": 3, "text": "मध्येच थांबणे", "is_correct": false },
+        { "option_id": 4, "text": "मागे येणे", "is_correct": false }
+      ],
+      "answer": "वरच्या (नी)"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "अवरोह म्हणजे 'नी' किंवा वरच्या 'सा' पासून कोणत्या स्वराकडे येणे?",
+      "options": [
+        { "option_id": 1, "text": "अजून वर", "is_correct": false },
+        { "option_id": 2, "text": "खालच्या (मुळच्या सा कडे)", "is_correct": true },
+        { "option_id": 3, "text": "कुठेही", "is_correct": false },
+        { "option_id": 4, "text": "बाजूला", "is_correct": false }
+      ],
+      "answer": "खालच्या (मुळच्या सा कडे)"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "गाणे गाताना काय करू नये?",
+      "options": [
+        { "option_id": 1, "text": "हसावे", "is_correct": false },
+        { "option_id": 2, "text": "ओरडावे / किंचाळावे", "is_correct": true },
+        { "option_id": 3, "text": "तालात मान हलवावी", "is_correct": false },
+        { "option_id": 4, "text": "शांत बसावे", "is_correct": false }
+      ],
+      "answer": "ओरडावे / किंचाळावे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "प्रार्थना केव्हा म्हटली जाते?",
+      "options": [
+        { "option_id": 1, "text": "शाळेच्या सुरुवातीला / देवासमोर", "is_correct": true },
+        { "option_id": 2, "text": "खेळताना", "is_correct": false },
+        { "option_id": 3, "text": "जेवताना", "is_correct": false },
+        { "option_id": 4, "text": "झोपताना", "is_correct": false }
+      ],
+      "answer": "शाळेच्या सुरुवातीला / देवासमोर"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "स्वातंत्र्यदिनी कोणते गीत आवर्जून गायले जाते?",
+      "options": [
+        { "option_id": 1, "text": "लावणी", "is_correct": false },
+        { "option_id": 2, "text": "देशभक्तीपर गीत", "is_correct": true },
+        { "option_id": 3, "text": "बालगीत", "is_correct": false },
+        { "option_id": 4, "text": "विरहगीत", "is_correct": false }
+      ],
+      "answer": "देशभक्तीपर गीत"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "'सा रे ग म प ध नी' याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "काव्य", "is_correct": false },
+        { "option_id": 2, "text": "सरगम / सप्तस्वर", "is_correct": true },
+        { "option_id": 3, "text": "ताल", "is_correct": false },
+        { "option_id": 4, "text": "ठेका", "is_correct": false }
+      ],
+      "answer": "सरगम / सप्तस्वर"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "संगीतात 'लय' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "आवाज", "is_correct": false },
+        { "option_id": 2, "text": "गाण्याचा वेग (Tempo)", "is_correct": true },
+        { "option_id": 3, "text": "शब्द", "is_correct": false },
+        { "option_id": 4, "text": "वाद्य", "is_correct": false }
+      ],
+      "answer": "गाण्याचा वेग (Tempo)"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "गाण्यातील शब्दांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "स्वर", "is_correct": false },
+        { "option_id": 2, "text": "बोल / गीत", "is_correct": true },
+        { "option_id": 3, "text": "ताल", "is_correct": false },
+        { "option_id": 4, "text": "लय", "is_correct": false }
+      ],
+      "answer": "बोल / गीत"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कोळीगीत हे कोणत्या प्रकारचे गीत आहे?",
+      "options": [
+        { "option_id": 1, "text": "शास्त्रीय गीत", "is_correct": false },
+        { "option_id": 2, "text": "लोकगीत", "is_correct": true },
+        { "option_id": 3, "text": "चित्रपट गीत", "is_correct": false },
+        { "option_id": 4, "text": "भक्तीगीत", "is_correct": false }
+      ],
+      "answer": "लोकगीत"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "गाण्यासाठी श्वास कसा असावा?",
+      "options": [
+        { "option_id": 1, "text": "अपुरा", "is_correct": false },
+        { "option_id": 2, "text": "दीर्घ आणि नियंत्रित", "is_correct": true },
+        { "option_id": 3, "text": "जलद", "is_correct": false },
+        { "option_id": 4, "text": "कसाही", "is_correct": false }
+      ],
+      "answer": "दीर्घ आणि नियंत्रित"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "पसायदान कोणी लिहिले आहे?",
+      "options": [
+        { "option_id": 1, "text": "संत तुकाराम", "is_correct": false },
+        { "option_id": 2, "text": "संत ज्ञानेश्वर", "is_correct": true },
+        { "option_id": 3, "text": "संत नामदेव", "is_correct": false },
+        { "option_id": 4, "text": "संत एकनाथ", "is_correct": false }
+      ],
+      "answer": "संत ज्ञानेश्वर"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "शास्त्रीय संगीतात किती मुख्य राग असतात (साधारणपणे)?",
+      "options": [
+        { "option_id": 1, "text": "अनेक", "is_correct": true },
+        { "option_id": 2, "text": "एक", "is_correct": false },
+        { "option_id": 3, "text": "दोन", "is_correct": false },
+        { "option_id": 4, "text": "तीन", "is_correct": false }
+      ],
+      "answer": "अनेक"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते वाद्य चर्मवाद्य (कातड्याचे) आहे?",
+      "options": [
+        { "option_id": 1, "text": "बासरी", "is_correct": false },
+        { "option_id": 2, "text": "पेटी", "is_correct": false },
+        { "option_id": 3, "text": "ढोलकी", "is_correct": true },
+        { "option_id": 4, "text": "सतार", "is_correct": false }
+      ],
+      "answer": "ढोलकी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "स्फूर्तीगीत म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "झोप येणारे गाणे", "is_correct": false },
+        { "option_id": 2, "text": "उत्साह आणि प्रेरणा देणारे गाणे", "is_correct": true },
+        { "option_id": 3, "text": "दुःखी गाणे", "is_correct": false },
+        { "option_id": 4, "text": "हळू गाणे", "is_correct": false }
+      ],
+      "answer": "उत्साह आणि प्रेरणा देणारे गाणे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "संगीताची सुरुवात कशाने होते?",
+      "options": [
+        { "option_id": 1, "text": "नाचण्याने", "is_correct": false },
+        { "option_id": 2, "text": "स्वरांच्या सरावाने (ॐकार/सा)", "is_correct": true },
+        { "option_id": 3, "text": "जेवणाने", "is_correct": false },
+        { "option_id": 4, "text": "खेळाने", "is_correct": false }
+      ],
+      "answer": "स्वरांच्या सरावाने (ॐकार/सा)"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "गाणे म्हणताना उच्चार कसे असावेत?",
+      "options": [
+        { "option_id": 1, "text": "अस्पष्ट", "is_correct": false },
+        { "option_id": 2, "text": "स्पष्ट आणि शुद्ध", "is_correct": true },
+        { "option_id": 3, "text": "चुकीचे", "is_correct": false },
+        { "option_id": 4, "text": "वेडेवाकडे", "is_correct": false }
+      ],
+      "answer": "स्पष्ट आणि शुद्ध"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "भजन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "देवाची स्तुती करणारे गाणे", "is_correct": true },
+        { "option_id": 2, "text": "चित्रपटाचे गाणे", "is_correct": false },
+        { "option_id": 3, "text": "लग्नाचे गाणे", "is_correct": false },
+        { "option_id": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "देवाची स्तुती करणारे गाणे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "भारुड हा प्रकार कोणत्या संतांनी लोकप्रिय केला?",
+      "options": [
+        { "option_id": 1, "text": "संत एकनाथ", "is_correct": true },
+        { "option_id": 2, "text": "संत तुकाराम", "is_correct": false },
+        { "option_id": 3, "text": "संत ज्ञानेश्वर", "is_correct": false },
+        { "option_id": 4, "text": "संत नामदेव", "is_correct": false }
+      ],
+      "answer": "संत एकनाथ"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "पोवाडा कशासाठी गायला जातो?",
+      "options": [
+        { "option_id": 1, "text": "वीरांच्या पराक्रमाचे वर्णन करण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "झोपवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "हसवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "रडवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "वीरांच्या पराक्रमाचे वर्णन करण्यासाठी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "गाणे शिकणाऱ्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 2, "text": "शिष्य / विद्यार्थी", "is_correct": true },
+        { "option_id": 3, "text": "श्रोता", "is_correct": false },
+        { "option_id": 4, "text": "कवी", "is_correct": false }
+      ],
+      "answer": "शिष्य / विद्यार्थी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "पेटी (हार्मोनियम) कशाने वाजवली जाते?",
+      "options": [
+        { "option_id": 1, "text": "पायाने", "is_correct": false },
+        { "option_id": 2, "text": "हाताने आणि हवेच्या दाबाने", "is_correct": true },
+        { "option_id": 3, "text": "तोंडाने फुंकून", "is_correct": false },
+        { "option_id": 4, "text": "काठीने", "is_correct": false }
+      ],
+      "answer": "हाताने आणि हवेच्या दाबाने"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते लोकगीत नाही?",
+      "options": [
+        { "option_id": 1, "text": "ओवी", "is_correct": false },
+        { "option_id": 2, "text": "वासुदेवाची गाणी", "is_correct": false },
+        { "option_id": 3, "text": "शास्त्रीय ख्याल", "is_correct": true },
+        { "option_id": 4, "text": "जात्यावरच्या ओव्या", "is_correct": false }
+      ],
+      "answer": "शास्त्रीय ख्याल"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "गायन करताना काय महत्त्वाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकाग्रता", "is_correct": true },
+        { "option_id": 2, "text": "गप्पा मारणे", "is_correct": false },
+        { "option_id": 3, "text": "खाणे", "is_correct": false },
+        { "option_id": 4, "text": "फिरणे", "is_correct": false }
+      ],
+      "answer": "एकाग्रता"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "समूहगीतात काय आवश्यक असते?",
+      "options": [
+        { "option_id": 1, "text": "ताळमेळ (Co-ordination)", "is_correct": true },
+        { "option_id": 2, "text": "स्पर्धा", "is_correct": false },
+        { "option_id": 3, "text": "भांडण", "is_correct": false },
+        { "option_id": 4, "text": "वेगवेगळे सूर", "is_correct": false }
+      ],
+      "answer": "ताळमेळ (Co-ordination)"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कोणता सण गाण्या-बजावण्याशी जास्त संबंधित आहे?",
+      "options": [
+        { "option_id": 1, "text": "दिवाळी (पहाटेची गाणी)", "is_correct": true },
+        { "option_id": 2, "text": "परीक्षा", "is_correct": false },
+        { "option_id": 3, "text": "निवडणूक", "is_correct": false },
+        { "option_id": 4, "text": "पाऊस", "is_correct": false }
+      ],
+      "answer": "दिवाळी (पहाटेची गाणी)"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सप्तस्वरांची नावे लिहा.",
+      "answer": "सा, रे, ग, म, प, ध, नी."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "आरोह म्हणजे काय?",
+      "answer": "स्वरांच्या चढत्या क्रमाला (खालून वर जाणाऱ्या) आरोह म्हणतात. (उदा. सा रे ग म...)"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "अवरोह म्हणजे काय?",
+      "answer": "स्वरांच्या उतरत्या क्रमाला (वरून खाली येणाऱ्या) अवरोह म्हणतात. (उदा. सा नी ध प...)"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "बालगीत म्हणजे काय?",
+      "answer": "लहान मुलांच्या भावविश्वावर, निसर्गावर किंवा गमतीजमतींवर आधारित गाणी म्हणजे बालगीत."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "समूहगीत म्हणजे काय?",
+      "answer": "अनेक जणांनी एकत्र येऊन एका सुरात आणि तालात गायलेले गाणे म्हणजे समूहगीत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "तबल्याचा उपयोग काय?",
+      "answer": "गाण्याला ताल किंवा ठेका देण्यासाठी तबल्याचा उपयोग होतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "हार्मोनियम (पेटी) कशासाठी वापरतात?",
+      "answer": "गाण्याला स्वरांचा आधार देण्यासाठी आणि सुरांची ओळख होण्यासाठी हार्मोनियम वापरतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "गाताना कशी बैठक असावी?",
+      "answer": "गाताना मांडी घालून, पाठीचा कणा ताठ ठेवून आणि शांत चित्ताने बसावे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "अलंकार म्हणजे काय?",
+      "answer": "स्वरांची विशिष्ट क्रमाने केलेली रचना ज्यामुळे गायन अधिक सुंदर होते, त्याला अलंकार म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "एखाद्या सणाचे नाव सांगा ज्यामध्ये गाणी गायली जातात.",
+      "answer": "गणेशोत्सव, नवरात्री, दिवाळी, होळी इत्यादी."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "लोकगीत म्हणजे काय?",
+      "answer": "परंपरेने चालत आलेली आणि जनसामान्यांच्या जीवनावर आधारित गाणी म्हणजे लोकगीत."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "भारुड हा प्रकार कोणत्या विषयावर असतो?",
+      "answer": "भारुड हे समाजप्रबोधन आणि अध्यात्मिक शिकवण देणारे लोकगीत आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "भजन कशासाठी गायले जाते?",
+      "answer": "भजन हे ईश्वराची भक्ती आणि आराधना करण्यासाठी गायले जाते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पोवाडा कोणाबद्दल माहिती देतो?",
+      "answer": "पोवाडा शूर वीरांच्या पराक्रमाची आणि ऐतिहासिक घटनांची माहिती देतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "राष्ट्रगीत गाताना काय नियम पाळावा?",
+      "answer": "राष्ट्रगीत गाताना स्तब्ध आणि ताठ उभे राहावे, हालचाल करू नये."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "'वंदे मातरम्' कोणी लिहिले?",
+      "answer": "वंदे मातरम् बंकिमचंद्र चॅटर्जी (चटोपाध्याय) यांनी लिहिले."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "जन गण मन कोणी लिहिले?",
+      "answer": "जन गण मन रवींद्रनाथ टागोर यांनी लिहिले."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "बासरी हे कोणते वाद्य आहे?",
+      "answer": "बासरी हे सुषिर वाद्य (हवेने वाजणारे) आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "तंबोरा किंवा वीणा हे कोणते वाद्य आहे?",
+      "answer": "हे तंतुवाद्य (तारांचे वाद्य) आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "गाताना ओरडल्यास काय होईल?",
+      "answer": "गाताना ओरडल्यास घसा दुखेल आणि गाणे बेसूर होईल."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "सकाळच्या वेळी कोणते गीत गाणे चांगले असते?",
+      "answer": "सकाळच्या वेळी भूपाळी किंवा भक्तीगीत गाणे चांगले असते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "निसर्गगीतात कशाचे वर्णन असते?",
+      "answer": "निसर्गगीतात झाडे, फुले, पाऊस, पक्षी, डोंगर, नदी यांचे वर्णन असते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "ताल आणि लय यात काय फरक आहे?",
+      "answer": "ताल म्हणजे वेळेचे मोजमाप (ठेका) आणि लय म्हणजे गाण्याचा वेग (Tempo)."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "सरगम म्हणजे काय?",
+      "answer": "सा रे ग म प ध नी या सात स्वरांच्या समूहाला सरगम म्हणतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "गायन शिकल्याने काय फायदा होतो?",
+      "answer": "गायन शिकल्याने मन एकाग्र होते, आनंद मिळतो आणि आवाज सुधारतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कोणता पक्षी गोड गातो?",
+      "answer": "कोकिळा हा पक्षी गोड गातो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "समूहगीत गाताना कशाची गरज असते?",
+      "answer": "समूहगीत गाताना सहकार्य आणि एकमेकांचा सूर जुळवण्याची गरज असते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "स्फूर्तीगीत म्हणजे काय?",
+      "answer": "मनात उत्साह, देशभक्ती आणि प्रेरणा निर्माण करणारे गीत म्हणजे स्फूर्तीगीत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "गाताना उच्चार कसे असावेत?",
+      "answer": "गाताना उच्चार स्पष्ट, शुद्ध आणि समजण्यासारखे असावेत."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "ओवी कशावर गायली जाते?",
+      "answer": "ओवी पूर्वी जात्यावर दळण दळताना गायली जात असे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "कोळीगीत कोण गातात?",
+      "answer": "कोळी बांधव (मच्छिमार) कोळीगीत गातात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "वासुदेवाची गाणी काय संदेश देतात?",
+      "answer": "वासुदेवाची गाणी पहाटेच्या वेळी लोकांना जागे करतात आणि चांगल्या विचारांचा संदेश देतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "गाण्यातील 'सम' म्हणजे काय?",
+      "answer": "गाण्यातील तालाची पहिली मात्रा किंवा सुरुवात म्हणजे सम."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "स्वातंत्र्यदिनाला आपण कोणते गाणे गातो?",
+      "answer": "स्वातंत्र्यदिनाला आपण राष्ट्रगीत, झेंडा गीत आणि देशभक्तीपर गाणी गातो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "तुम्हाला आवडणाऱ्या एका बालगीताचे नाव सांगा.",
+      "answer": "येरे येरे पावसा (किंवा दुसरे कोणतेही आवडते बालगीत)."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "गाणे गाण्यापूर्वी काय करावे?",
+      "answer": "गाणे गाण्यापूर्वी स्वरांचा सराव (रियाज) करावा."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पेटी वाजवताना काय वापरावे लागते?",
+      "answer": "पेटी वाजवताना बोटांनी कळ दाबावी लागते आणि भात्याने हवा द्यावी लागते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "तबल्यावर काय वाजवतात?",
+      "answer": "तबल्यावर हाताच्या बोटांनी आणि तळव्याने ताल वाजवतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "गायन ही कोणती कला आहे?",
+      "answer": "गायन ही एक ललित कला (Performing Art) आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पसायदान कशासाठी मागितले आहे?",
+      "answer": "पसायदान विश्वाच्या कल्याणासाठी आणि शांतीसाठी मागितले आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "प्रार्थना म्हणल्याने काय होते?",
+      "answer": "प्रार्थना म्हणल्याने मन शांत होते आणि सकारात्मक विचार येतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "शाळेत परिपाठाला काय काय होते?",
+      "answer": "शाळेत परिपाठाला प्रार्थना, राष्ट्रगीत, प्रतिज्ञा आणि सुविचार म्हटले जातात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "तुमच्या आवडत्या गायकाचे नाव सांगा.",
+      "answer": "(विद्यार्थी त्यांच्या आवडत्या गायकाचे नाव सांगू शकतात, उदा. लता मंगेशकर, आशा भोसले)."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "सुगम संगीत म्हणजे काय?",
+      "answer": "सहज, सोपे आणि कानाला गोड वाटणारे संगीत (उदा. भावगीत, भक्तीगीत)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "शास्त्रीय संगीताचा पाया काय आहे?",
+      "answer": "शास्त्रीय संगीताचा पाया राग आणि ताल हा आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "गाताना चेहऱ्यावर भाव असावेत का?",
+      "answer": "हो, गाताना गाण्याच्या शब्दांनुसार चेहऱ्यावर भाव असावेत."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "कोणत्याही कार्यक्रमाची सुरुवात कशाने होते?",
+      "answer": "कोणत्याही कार्यक्रमाची सुरुवात ईशस्तवन किंवा स्वागतगीताने होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "संगीत म्हणजे काय?",
+      "answer": "गायन, वादन आणि नृत्य यांचा संगम म्हणजे संगीत."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "गाणे पाठ करण्यासाठी काय करावे?",
+      "answer": "गाणे वारंवार एकावे आणि म्हणून सराव करावा."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "तुम्ही गाणे कधी गाता?",
+      "answer": "मी आनंदी असताना, सणासुदीला किंवा शाळेच्या कार्यक्रमात गाणे गातो."
+    }
+  ]
+}

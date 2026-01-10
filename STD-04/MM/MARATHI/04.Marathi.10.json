@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.10",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "धाडसी हाली"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "हाली बरफला कोणता पुरस्कार मिळाला?",
+      "options": [
+        { "option_id": 1, "text": "पद्मश्री", "is_correct": false },
+        { "option_id": 2, "text": "वीर बापूराव गायधनी राष्ट्रीय शौर्य पुरस्कार", "is_correct": true },
+        { "option_id": 3, "text": "बालशक्ती पुरस्कार", "is_correct": false },
+        { "option_id": 4, "text": "साहित्य अकादमी पुरस्कार", "is_correct": false }
+      ],
+      "answer": "वीर बापूराव गायधनी राष्ट्रीय शौर्य पुरस्कार"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "हालीला हा पुरस्कार कोणत्या वर्षी मिळाला?",
+      "options": [
+        { "option_id": 1, "text": "२०१०", "is_correct": false },
+        { "option_id": 2, "text": "२०१२", "is_correct": false },
+        { "option_id": 3, "text": "२०१३", "is_correct": true },
+        { "option_id": 4, "text": "२०१५", "is_correct": false }
+      ],
+      "answer": "२०१३"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "हालीला पुरस्कार कोणाच्या हस्ते देण्यात आला?",
+      "options": [
+        { "option_id": 1, "text": "राष्ट्रपतींच्या", "is_correct": false },
+        { "option_id": 2, "text": "प्रधानमंत्र्यांच्या", "is_correct": true },
+        { "option_id": 3, "text": "मुख्यमंत्र्यांच्या", "is_correct": false },
+        { "option_id": 4, "text": "राज्यपालांच्या", "is_correct": false }
+      ],
+      "answer": "प्रधानमंत्र्यांच्या"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "हाली बरफ कोणत्या जिल्ह्यातील आहे?",
+      "options": [
+        { "option_id": 1, "text": "पालघर", "is_correct": false },
+        { "option_id": 2, "text": "रायगड", "is_correct": false },
+        { "option_id": 3, "text": "ठाणे", "is_correct": true },
+        { "option_id": 4, "text": "नाशिक", "is_correct": false }
+      ],
+      "answer": "ठाणे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "हाली कोणत्या तालुक्यातील आहे?",
+      "options": [
+        { "option_id": 1, "text": "शहापूर", "is_correct": true },
+        { "option_id": 2, "text": "मुरबाड", "is_correct": false },
+        { "option_id": 3, "text": "कल्याण", "is_correct": false },
+        { "option_id": 4, "text": "भिवंडी", "is_correct": false }
+      ],
+      "answer": "शहापूर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "हालीच्या गावाजवळ कोणते धरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "भाटसा", "is_correct": false },
+        { "option_id": 2, "text": "वैतरणा", "is_correct": false },
+        { "option_id": 3, "text": "तानसा", "is_correct": true },
+        { "option_id": 4, "text": "बारवी", "is_correct": false }
+      ],
+      "answer": "तानसा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "हाली कोणत्या पाड्यावर राहत होती?",
+      "options": [
+        { "option_id": 1, "text": "रातांधळे पाडा", "is_correct": false },
+        { "option_id": 2, "text": "जमनाचा पाडा", "is_correct": true },
+        { "option_id": 3, "text": "नांदगाव पाडा", "is_correct": false },
+        { "option_id": 4, "text": "आटगाव पाडा", "is_correct": false }
+      ],
+      "answer": "जमनाचा पाडा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "हाली कोणत्या समाजाची आहे?",
+      "options": [
+        { "option_id": 1, "text": "कातकरी", "is_correct": false },
+        { "option_id": 2, "text": "वारली", "is_correct": true },
+        { "option_id": 3, "text": "गोंड", "is_correct": false },
+        { "option_id": 4, "text": "भिल्ल", "is_correct": false }
+      ],
+      "answer": "वारली"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हालीच्या वडिलांचे नाव काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "पांडू", "is_correct": false },
+        { "option_id": 2, "text": "रघुनाथ", "is_correct": true },
+        { "option_id": 3, "text": "सोमा", "is_correct": false },
+        { "option_id": 4, "text": "रामू", "is_correct": false }
+      ],
+      "answer": "रघुनाथ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "हालीचे वडील कोठे कामाला होते?",
+      "options": [
+        { "option_id": 1, "text": "शेतात", "is_correct": false },
+        { "option_id": 2, "text": "कारखान्यात", "is_correct": false },
+        { "option_id": 3, "text": "रेल्वेत", "is_correct": true },
+        { "option_id": 4, "text": "शाळेत", "is_correct": false }
+      ],
+      "answer": "रेल्वेत"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "हालीच्या वडिलांना काय झाले होते?",
+      "options": [
+        { "option_id": 1, "text": "त्यांचा मृत्यू झाला होता", "is_correct": false },
+        { "option_id": 2, "text": "त्यांचा पाय मोडला होता", "is_correct": false },
+        { "option_id": 3, "text": "त्यांचा एक हात निकामी झाला होता", "is_correct": true },
+        { "option_id": 4, "text": "ते आंधळे झाले होते", "is_correct": false }
+      ],
+      "answer": "त्यांचा एक हात निकामी झाला होता"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "हालीची मुलाखत कोणी घेतली?",
+      "options": [
+        { "option_id": 1, "text": "प्रा. जयवंत पाटील", "is_correct": true },
+        { "option_id": 2, "text": "बाबा भांड", "is_correct": false },
+        { "option_id": 3, "text": "द. ना. गव्हाणकर", "is_correct": false },
+        { "option_id": 4, "text": "वसुधा पाटील", "is_correct": false }
+      ],
+      "answer": "प्रा. जयवंत पाटील"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "हाली जंगलात कशासाठी गेली होती?",
+      "options": [
+        { "option_id": 1, "text": "फळे आणायला", "is_correct": false },
+        { "option_id": 2, "text": "लाकडे आणायला", "is_correct": true },
+        { "option_id": 3, "text": "पाणी आणायला", "is_correct": false },
+        { "option_id": 4, "text": "शिकारीसाठी", "is_correct": false }
+      ],
+      "answer": "लाकडे आणायला"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "जंगलात हालीसोबत कोण होते?",
+      "options": [
+        { "option_id": 1, "text": "तिची आई", "is_correct": false },
+        { "option_id": 2, "text": "तिचे वडील", "is_correct": false },
+        { "option_id": 3, "text": "तिची मोठी बहीण", "is_correct": true },
+        { "option_id": 4, "text": "तिचा भाऊ", "is_correct": false }
+      ],
+      "answer": "तिची मोठी बहीण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हालीच्या मोठ्या बहिणीचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "शकुंतला", "is_correct": true },
+        { "option_id": 2, "text": "मंदा", "is_correct": false },
+        { "option_id": 3, "text": "राधा", "is_correct": false },
+        { "option_id": 4, "text": "सीता", "is_correct": false }
+      ],
+      "answer": "शकुंतला"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "हालीच्या बहिणीवर कोणी हल्ला केला?",
+      "options": [
+        { "option_id": 1, "text": "अस्वलाने", "is_correct": false },
+        { "option_id": 2, "text": "लांडग्याने", "is_correct": false },
+        { "option_id": 3, "text": "वाघाने (बिबट्याने)", "is_correct": true },
+        { "option_id": 4, "text": "हत्तीने", "is_correct": false }
+      ],
+      "answer": "वाघाने (बिबट्याने)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "वाघाने कोठून हल्ला केला?",
+      "options": [
+        { "option_id": 1, "text": "समोरून", "is_correct": false },
+        { "option_id": 2, "text": "झाडावरून", "is_correct": false },
+        { "option_id": 3, "text": "पाठीमागून", "is_correct": true },
+        { "option_id": 4, "text": "खड्ड्यातून", "is_correct": false }
+      ],
+      "answer": "पाठीमागून"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "वाघाने बहिणीचा लचका कोठून तोडला?",
+      "options": [
+        { "option_id": 1, "text": "हाताचा", "is_correct": false },
+        { "option_id": 2, "text": "पायाचा आणि पाठीचा", "is_correct": true },
+        { "option_id": 3, "text": "गळ्याचा", "is_correct": false },
+        { "option_id": 4, "text": "डोक्याचा", "is_correct": false }
+      ],
+      "answer": "पायाचा आणि पाठीचा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "बहिणीला वाचवण्यासाठी हालीने काय केले?",
+      "options": [
+        { "option_id": 1, "text": "बंदूक चालवली", "is_correct": false },
+        { "option_id": 2, "text": "काठीने मारले", "is_correct": false },
+        { "option_id": 3, "text": "मोठी दगडं आपटली (मारली)", "is_correct": true },
+        { "option_id": 4, "text": "झाडावर चढली", "is_correct": false }
+      ],
+      "answer": "मोठी दगडं आपटली (मारली)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "आरडाओरडा केल्यावर कोण धावत आले?",
+      "options": [
+        { "option_id": 1, "text": "पोलीस", "is_correct": false },
+        { "option_id": 2, "text": "लाकडे गोळा करणारे लोक", "is_correct": true },
+        { "option_id": 3, "text": "वन अधिकारी", "is_correct": false },
+        { "option_id": 4, "text": "तिचे वडील", "is_correct": false }
+      ],
+      "answer": "लाकडे गोळा करणारे लोक"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "जखमी बहिणीला पहिल्यांदा कोणत्या दवाखान्यात नेले?",
+      "options": [
+        { "option_id": 1, "text": "मुंबईच्या", "is_correct": false },
+        { "option_id": 2, "text": "शहापूरच्या", "is_correct": true },
+        { "option_id": 3, "text": "ठाण्याच्या", "is_correct": false },
+        { "option_id": 4, "text": "नाशिकच्या", "is_correct": false }
+      ],
+      "answer": "शहापूरच्या"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "शहापूरनंतर बहिणीला कोठे हलवण्यात आले?",
+      "options": [
+        { "option_id": 1, "text": "पुण्याच्या दवाखान्यात", "is_correct": false },
+        { "option_id": 2, "text": "गावाकडच्या वैद्याकडे", "is_correct": false },
+        { "option_id": 3, "text": "ठाण्याच्या सिव्हिल हॉस्पिटलमध्ये", "is_correct": true },
+        { "option_id": 4, "text": "घरी", "is_correct": false }
+      ],
+      "answer": "ठाण्याच्या सिव्हिल हॉस्पिटलमध्ये"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "हालीला सर्वात जास्त मदत कोणी केली?",
+      "options": [
+        { "option_id": 1, "text": "सरपंचांनी", "is_correct": false },
+        { "option_id": 2, "text": "मामा पांडू किरकिरे यांनी", "is_correct": true },
+        { "option_id": 3, "text": "आमदारांनी", "is_correct": false },
+        { "option_id": 4, "text": "शेजाऱ्यांनी", "is_correct": false }
+      ],
+      "answer": "मामा पांडू किरकिरे यांनी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "हाली दिल्लीला कोणासोबत गेली होती?",
+      "options": [
+        { "option_id": 1, "text": "फक्त वडिलांसोबत", "is_correct": false },
+        { "option_id": 2, "text": "बहिणीसोबत", "is_correct": false },
+        { "option_id": 3, "text": "आई आणि मामासोबत", "is_correct": true },
+        { "option_id": 4, "text": "शिक्षकांसोबत", "is_correct": false }
+      ],
+      "answer": "आई आणि मामासोबत"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "दिल्लीत हाली कशातून फिरली?",
+      "options": [
+        { "option_id": 1, "text": "हत्तीवरून", "is_correct": false },
+        { "option_id": 2, "text": "मोटारीतून", "is_correct": true },
+        { "option_id": 3, "text": "रेल्वेतून", "is_correct": false },
+        { "option_id": 4, "text": "विमानाने", "is_correct": false }
+      ],
+      "answer": "मोटारीतून"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "काही मुलांची दिल्लीत कशावरून मिरवणूक काढली?",
+      "options": [
+        { "option_id": 1, "text": "मोटारीवरून", "is_correct": false },
+        { "option_id": 2, "text": "घोड्यावरून", "is_correct": false },
+        { "option_id": 3, "text": "हत्तीवरून", "is_correct": true },
+        { "option_id": 4, "text": "बैलगाडीतून", "is_correct": false }
+      ],
+      "answer": "हत्तीवरून"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "हाली दिल्लीत किती दिवस होती?",
+      "options": [
+        { "option_id": 1, "text": "दहा दिवस", "is_correct": false },
+        { "option_id": 2, "text": "पाच दिवस", "is_correct": false },
+        { "option_id": 3, "text": "पंधरा दिवस", "is_correct": true },
+        { "option_id": 4, "text": "एक महिना", "is_correct": false }
+      ],
+      "answer": "पंधरा दिवस"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "हाली शाळेत का गेली नाही?",
+      "options": [
+        { "option_id": 1, "text": "तिला कंटाळा यायचा", "is_correct": false },
+        { "option_id": 2, "text": "गरिबीमुळे आणि कुटुंब मोठे असल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "शाळा खूप लांब होती", "is_correct": false },
+        { "option_id": 4, "text": "तिला भीती वाटायची", "is_correct": false }
+      ],
+      "answer": "गरिबीमुळे आणि कुटुंब मोठे असल्यामुळे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "हालीने मुलांना कोणता संदेश दिला?",
+      "options": [
+        { "option_id": 1, "text": "अभ्यास करा", "is_correct": false },
+        { "option_id": 2, "text": "जंगलात जाऊ नका", "is_correct": false },
+        { "option_id": 3, "text": "घाबरले नाही पाहिजे, लोकांना वाचवले पाहिजे", "is_correct": true },
+        { "option_id": 4, "text": "पुरस्कार मिळवा", "is_correct": false }
+      ],
+      "answer": "घाबरले नाही पाहिजे, लोकांना वाचवले पाहिजे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "सध्या हाली काय करते?",
+      "options": [
+        { "option_id": 1, "text": "शाळेत शिकते", "is_correct": false },
+        { "option_id": 2, "text": "नोकरी करते", "is_correct": false },
+        { "option_id": 3, "text": "मोलमजुरी करते", "is_correct": true },
+        { "option_id": 4, "text": "समाजसेवा करते", "is_correct": false }
+      ],
+      "answer": "मोलमजुरी करते"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "सध्या हाली कोठे राहते?",
+      "options": [
+        { "option_id": 1, "text": "जमनाचा पाडा", "is_correct": false },
+        { "option_id": 2, "text": "रातांधळे पाडा", "is_correct": true },
+        { "option_id": 3, "text": "नांदगाव", "is_correct": false },
+        { "option_id": 4, "text": "शहापूर", "is_correct": false }
+      ],
+      "answer": "रातांधळे पाडा"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "हालीला आणखी काय मिळाले असते तर जास्त चांगले वाटले असते?",
+      "options": [
+        { "option_id": 1, "text": "पैसे", "is_correct": false },
+        { "option_id": 2, "text": "काम (नोकरी)", "is_correct": true },
+        { "option_id": 3, "text": "घर", "is_correct": false },
+        { "option_id": 4, "text": "जमीन", "is_correct": false }
+      ],
+      "answer": "काम (नोकरी)"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "'अभयारण्य' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "प्राण्यांसाठी राखून ठेवलेला जंगलाचा भाग", "is_correct": true },
+        { "option_id": 2, "text": "शहरातील बाग", "is_correct": false },
+        { "option_id": 3, "text": "शेतीचा भाग", "is_correct": false },
+        { "option_id": 4, "text": "खेळाचे मैदान", "is_correct": false }
+      ],
+      "answer": "प्राण्यांसाठी राखून ठेवलेला जंगलाचा भाग"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणत्या स्वरूपाचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "कथा", "is_correct": false },
+        { "option_id": 2, "text": "कविता", "is_correct": false },
+        { "option_id": 3, "text": "मुलाखत", "is_correct": true },
+        { "option_id": 4, "text": "निबंध", "is_correct": false }
+      ],
+      "answer": "मुलाखत"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "'लचका' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मोठा दगड", "is_correct": false },
+        { "option_id": 2, "text": "शरीराचा तोडलेला मांसल भाग", "is_correct": true },
+        { "option_id": 3, "text": "झाडाची फांदी", "is_correct": false },
+        { "option_id": 4, "text": "कापडाचा तुकडा", "is_correct": false }
+      ],
+      "answer": "शरीराचा तोडलेला मांसल भाग"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "हालीच्या मामाचे नाव काय?",
+      "options": [
+        { "option_id": 1, "text": "पांडू किरकिरे", "is_correct": true },
+        { "option_id": 2, "text": "रघुनाथ बरफ", "is_correct": false },
+        { "option_id": 3, "text": "जयवंत पाटील", "is_correct": false },
+        { "option_id": 4, "text": "बापू गायधनी", "is_correct": false }
+      ],
+      "answer": "पांडू किरकिरे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "हालीला पुरस्कार मिळाला तेव्हा ती कोठे गेली?",
+      "options": [
+        { "option_id": 1, "text": "मुंबई", "is_correct": false },
+        { "option_id": 2, "text": "पुणे", "is_correct": false },
+        { "option_id": 3, "text": "दिल्ली", "is_correct": true },
+        { "option_id": 4, "text": "नाशिक", "is_correct": false }
+      ],
+      "answer": "दिल्ली"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "हालीच्या बोलीभाषेत 'लाकरा' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "लाकडी खेळणी", "is_correct": false },
+        { "option_id": 2, "text": "लाकडे / लाकूडफाटा", "is_correct": true },
+        { "option_id": 3, "text": "लोकर", "is_correct": false },
+        { "option_id": 4, "text": "लवकर", "is_correct": false }
+      ],
+      "answer": "लाकडे / लाकूडफाटा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "'गेलतू' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "गेले होते", "is_correct": true },
+        { "option_id": 2, "text": "येणार आहे", "is_correct": false },
+        { "option_id": 3, "text": "जाणार आहे", "is_correct": false },
+        { "option_id": 4, "text": "गेलो नाही", "is_correct": false }
+      ],
+      "answer": "गेले होते"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "हालीचे डोळे कसे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "निळे", "is_correct": false },
+        { "option_id": 2, "text": "पाणीदार", "is_correct": true },
+        { "option_id": 3, "text": "बारीक", "is_correct": false },
+        { "option_id": 4, "text": "काळेभोर", "is_correct": false }
+      ],
+      "answer": "पाणीदार"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "हालीचे गाव (पाडा) कोणत्या गावाजवळ आहे?",
+      "options": [
+        { "option_id": 1, "text": "आटगाव / नांदगाव", "is_correct": true },
+        { "option_id": 2, "text": "बदलापूर", "is_correct": false },
+        { "option_id": 3, "text": "कसारा", "is_correct": false },
+        { "option_id": 4, "text": "वाशिंद", "is_correct": false }
+      ],
+      "answer": "आटगाव / नांदगाव"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "बापू गायधनी कोठले होते?",
+      "options": [
+        { "option_id": 1, "text": "पुणे", "is_correct": false },
+        { "option_id": 2, "text": "नाशिक", "is_correct": true },
+        { "option_id": 3, "text": "नागपूर", "is_correct": false },
+        { "option_id": 4, "text": "मुंबई", "is_correct": false }
+      ],
+      "answer": "नाशिक"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "शौर्य पुरस्कारासाठी शिफारस कोण करतात?",
+      "options": [
+        { "option_id": 1, "text": "पोलीस", "is_correct": false },
+        { "option_id": 2, "text": "जिल्हाधिकारी", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 4, "text": "सरपंच", "is_correct": false }
+      ],
+      "answer": "जिल्हाधिकारी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "शौर्य पुरस्कार कोणत्या दिवशी प्रदान केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "स्वातंत्र्य दिनी", "is_correct": false },
+        { "option_id": 2, "text": "बालदिनी", "is_correct": false },
+        { "option_id": 3, "text": "प्रजासत्ताक दिनी", "is_correct": true },
+        { "option_id": 4, "text": "गांधी जयंतीला", "is_correct": false }
+      ],
+      "answer": "प्रजासत्ताक दिनी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "हालीच्या बोलीत 'व्हतू' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "होते", "is_correct": true },
+        { "option_id": 2, "text": "नाही", "is_correct": false },
+        { "option_id": 3, "text": "पाहिले", "is_correct": false },
+        { "option_id": 4, "text": "गेले", "is_correct": false }
+      ],
+      "answer": "होते"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "हालीच्या बहिणीचे प्राण कोणी वाचवले?",
+      "options": [
+        { "option_id": 1, "text": "गावकऱ्यांनी", "is_correct": false },
+        { "option_id": 2, "text": "हालीने", "is_correct": true },
+        { "option_id": 3, "text": "मामाने", "is_correct": false },
+        { "option_id": 4, "text": "वनरक्षकांनी", "is_correct": false }
+      ],
+      "answer": "हालीने"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "हाली कोणत्या रंगाची आहे?",
+      "options": [
+        { "option_id": 1, "text": "गोऱ्या", "is_correct": false },
+        { "option_id": 2, "text": "सावळ्या", "is_correct": true },
+        { "option_id": 3, "text": "काळ्या", "is_correct": false },
+        { "option_id": 4, "text": "गव्हाळ", "is_correct": false }
+      ],
+      "answer": "सावळ्या"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "हालीच्या बोलीत 'लई' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "थोडे", "is_correct": false },
+        { "option_id": 2, "text": "खूप", "is_correct": true },
+        { "option_id": 3, "text": "वाईट", "is_correct": false },
+        { "option_id": 4, "text": "लहान", "is_correct": false }
+      ],
+      "answer": "खूप"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "हालीच्या बोलीत 'सुदिक' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "सुई", "is_correct": false },
+        { "option_id": 2, "text": "सुद्धा", "is_correct": true },
+        { "option_id": 3, "text": "सरळ", "is_correct": false },
+        { "option_id": 4, "text": "सकाळ", "is_correct": false }
+      ],
+      "answer": "सुद्धा"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "हालीने वाघाला काय मारले?",
+      "options": [
+        { "option_id": 1, "text": "दगडं", "is_correct": true },
+        { "option_id": 2, "text": "काठी", "is_correct": false },
+        { "option_id": 3, "text": "कुऱ्हाड", "is_correct": false },
+        { "option_id": 4, "text": "भाला", "is_correct": false }
+      ],
+      "answer": "दगडं"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "हालीला कोणता पुरस्कार मिळाला?",
+      "answer": "हालीला 'वीर बापूराव गायधनी राष्ट्रीय शौर्य पुरस्कार' मिळाला."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "हाली कोणत्या जिल्ह्यात राहते?",
+      "answer": "हाली ठाणे जिल्ह्यात राहते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "तानसा धरणाच्या परिसरात कोणते जंगल आहे?",
+      "answer": "तानसा धरणाच्या परिसरात अभयारण्य आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "हालीचे कुटुंब कोणत्या समाजाचे आहे?",
+      "answer": "हालीचे कुटुंब वारली या आदिवासी समाजाचे आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हालीच्या वडिलांना काय झाले होते?",
+      "answer": "हालीच्या वडिलांचा एका अपघातात एक हात निकामी झाला होता."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "हाली जंगलात कोणासोबत गेली होती?",
+      "answer": "हाली जंगलात तिची मोठी बहीण शकुंतला हिच्यासोबत गेली होती."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "हालीच्या बहिणीवर कोणी हल्ला केला?",
+      "answer": "हालीच्या बहिणीवर वाघाने (बिबट्याने) हल्ला केला."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "वाघाने हल्ला केल्यावर हालीने काय केले?",
+      "answer": "हालीने आरडाओरडा केला आणि वाघावर मोठी दगडं आपटली (मारली)."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "हालीच्या बहिणीला कोठून जखम झाली?",
+      "answer": "वाघाने पाठीचा आणि पायाचा लचका तोडल्यामुळे बहिणीला जखम झाली."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "लोक धावत का आले?",
+      "answer": "हालीने आरडाओरडा केल्यावर लाकडे गोळा करणारे लोक धावत आले."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "जखमी बहिणीला कोणत्या दवाखान्यात नेले?",
+      "answer": "पहिल्यांदा शहापूरच्या दवाखान्यात आणि मग ठाण्याच्या सिव्हिल हॉस्पिटलमध्ये नेले."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "हालीला सर्वात जास्त मदत कोणी केली?",
+      "answer": "हालीला तिचा मामा पांडू किरकिरे याने खूप मदत केली."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "हाली दिल्लीला कोणासोबत गेली?",
+      "answer": "हाली दिल्लीला तिची आई आणि मामा यांच्यासोबत गेली."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "दिल्लीत हालीला काय अनुभवायला मिळाले?",
+      "answer": "दिल्लीत तिला मोटारीतून फिरायला मिळाले, चांगले खायला-खेळायला मिळाले."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हालीला पुरस्कार कोणाच्या हस्ते मिळाला?",
+      "answer": "हालीला पुरस्कार प्रधानमंत्र्यांच्या हस्ते मिळाला."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "हाली शाळेत का गेली नाही?",
+      "answer": "घराची गरिबी आणि कुटुंब मोठे असल्यामुळे हाली शाळेत जाऊ शकली नाही."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "हालीने मुलांना कोणता संदेश दिला?",
+      "answer": "हालीने संदेश दिला की घाबरले नाही पाहिजे आणि लोकांना वाचवले पाहिजे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "सध्या हाली काय काम करते?",
+      "answer": "सध्या हाली मोलमजुरी करते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "हालीला काम मिळाले असते तर काय झाले असते?",
+      "answer": "हालीला काम मिळाले असते तर तिला जास्त चांगले वाटले असते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "ही मुलाखत कोणी घेतली आहे?",
+      "answer": "ही मुलाखत प्रा. जयवंत पाटील यांनी घेतली आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "हालीचे दिसणे कसे आहे?",
+      "answer": "हाली सावळ्या रंगाची, पाणीदार डोळ्यांची आणि काटक आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "हालीच्या वडिलांचे नाव काय आहे?",
+      "answer": "हालीच्या वडिलांचे नाव रघुनाथ आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "हाली कोणत्या बोलीभाषेत बोलत होती?",
+      "answer": "हाली तिच्या वारली/आदिवासी बोलीभाषेत बोलत होती."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "'लाकरा आनाला गेलतू' याचा अर्थ काय?",
+      "answer": "लाकडे आणायला गेले होते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "'मंग वाघ पलून गेला' याचा अर्थ काय?",
+      "answer": "मग वाघ पळून गेला."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "'सिविल हासपिटला नेली' म्हणजे कोठे नेली?",
+      "answer": "सरकारी रुग्णालयात (सिव्हिल हॉस्पिटल) नेली."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "हालीच्या गावकऱ्यांनी तिला कशी मदत केली?",
+      "answer": "गावकऱ्यांनी तिला दवाखान्यात नेण्यासाठी आणि इतर कामांत मदत केली."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "हालीला बातमी छापून आल्यावर कसे वाटले?",
+      "answer": "हालीला बातमी छापून आल्यावर चांगले वाटले."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "दिल्लीत हाली किती दिवस होती?",
+      "answer": "दिल्लीत हाली पंधरा दिवस होती."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "इतर मुलांची मिरवणूक कशावरून काढली?",
+      "answer": "काही मुलांची मिरवणूक हत्तीवरून काढली."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "'घाबर-घाबरशी झालू' म्हणजे काय?",
+      "answer": "मी खूप घाबरले (घाबरीघुबरी झाले)."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "हालीने दगड मारल्यावर वाघाला काय झाले?",
+      "answer": "हालीने मारलेली दगडं वाघाला लागली आणि तो पळून गेला."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "हाली आता कोठे राहते?",
+      "answer": "हाली आता लग्न करून रातांधळे पाड्यावर राहते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "वीर बापूराव गायधनी पुरस्कार कोणाच्या स्मरणार्थ दिला जातो?",
+      "answer": "नाशिकमधील बापू गायधनी यांनी आगीतून मुलांना वाचवताना प्राण गमावले, त्यांच्या स्मरणार्थ हा पुरस्कार दिला जातो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "शौर्य पुरस्कारासाठी नावे कधी पाठवावी लागतात?",
+      "answer": "कोणत्याही वर्षी ३० सप्टेंबरपर्यंत नावे पाठवावी लागतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "शौर्य पुरस्कार कोणत्या दिवशी दिला जातो?",
+      "answer": "प्रजासत्ताक दिनाच्या दिवशी (२६ जानेवारी) हा पुरस्कार दिला जातो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "हा पुरस्कार कोण देते?",
+      "answer": "राष्ट्रीय बालकल्याण परिषद हा पुरस्कार देते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "हालीच्या बहिणीचे नाव काय?",
+      "answer": "हालीच्या बहिणीचे नाव शकुंतला आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "हालीचे डोळे कसे आहेत?",
+      "answer": "हालीचे डोळे पाणीदार आहेत."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "हालीने वाघापासून कोणाला वाचवले?",
+      "answer": "हालीने वाघापासून तिच्या मोठ्या बहिणीला वाचवले."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "हालीच्या गावात शिक्षकांनी काय मदत केली?",
+      "answer": "गावाच्या शिक्षकांनी तिला मदत केली (तपशील दिला नाही, पण 'सुदिक मदत केली' म्हटले आहे)."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "'लचका तोडला' म्हणजे काय?",
+      "answer": "शरीराचा मांसाचा भाग वाघाने दातांनी तोडला."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "आदिवासी लोक जंगलात निर्भय का असतात?",
+      "answer": "कारण त्यांचा जंगलात सतत वावर असतो आणि त्यांना जंगलाची खडान्खडा माहिती असते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हाली जंगलात लाकडे कशासाठी आणायला गेली होती?",
+      "answer": "इंधनासाठी (जळण्यासाठी) लाकडे आणायला गेली होती."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "पुरस्कार मिळवणाऱ्या मुलांना कशात सहभागी करून घेतले जाते?",
+      "answer": "प्रजासत्ताक दिनाच्या संचलनात (परेडमध्ये) सहभागी करून घेतले जाते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "हालीला कशाची खंत वाटते?",
+      "answer": "आपण शिकलो नाही आणि आपल्याला नोकरी/काम मिळाले नाही, याची तिला खंत वाटते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "हालीची राहणी कशी आहे?",
+      "answer": "हाली अत्यंत साध्या आणि गरीब परिस्थितीत राहते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "हालीच्या धाडसाचे कौतुक कोणी केले?",
+      "answer": "गावकऱ्यांनी, शिक्षकांनी आणि देशाच्या पंतप्रधानांनी तिच्या धाडसाचे कौतुक केले."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "हालीच्या मुलाखतीवरून तिचा स्वभाव कसा वाटतो?",
+      "answer": "ती साधी, भोळी पण अत्यंत धाडसी आणि कष्टाळू आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "शौर्य पुरस्काराचे स्वरूप काय असते?",
+      "answer": "रोख रक्कम, पदक आणि प्रमाणपत्र असे पुरस्काराचे स्वरूप असते."
+    }
+  ]
+}

@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.46",
+    "standard": "4",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "A Garden of Words"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which word means 'to do something again'?",
+      "options": [
+        { "option_id": 1, "text": "angry", "is_correct": false },
+        { "option_id": 2, "text": "again", "is_correct": true },
+        { "option_id": 3, "text": "back", "is_correct": false },
+        { "option_id": 4, "text": "around", "is_correct": false }
+      ],
+      "answer": "again"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word describes a strong feeling of displeasure?",
+      "options": [
+        { "option_id": 1, "text": "happy", "is_correct": false },
+        { "option_id": 2, "text": "angry", "is_correct": true },
+        { "option_id": 3, "text": "kind", "is_correct": false },
+        { "option_id": 4, "text": "blue", "is_correct": false }
+      ],
+      "answer": "angry"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which word means 'pretty' or 'pleasing to the eye'?",
+      "options": [
+        { "option_id": 1, "text": "strange", "is_correct": false },
+        { "option_id": 2, "text": "beautiful", "is_correct": true },
+        { "option_id": 3, "text": "cross", "is_correct": false },
+        { "option_id": 4, "text": "angry", "is_correct": false }
+      ],
+      "answer": "beautiful"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which word is the color of the sky?",
+      "options": [
+        { "option_id": 1, "text": "red", "is_correct": false },
+        { "option_id": 2, "text": "blue", "is_correct": true },
+        { "option_id": 3, "text": "green", "is_correct": false },
+        { "option_id": 4, "text": "yellow", "is_correct": false }
+      ],
+      "answer": "blue"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word refers to 'structures like houses or offices'?",
+      "options": [
+        { "option_id": 1, "text": "buildings", "is_correct": true },
+        { "option_id": 2, "text": "gardens", "is_correct": false },
+        { "option_id": 3, "text": "waves", "is_correct": false },
+        { "option_id": 4, "text": "throne", "is_correct": false }
+      ],
+      "answer": "buildings"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is a large fortified building called?",
+      "options": [
+        { "option_id": 1, "text": "hut", "is_correct": false },
+        { "option_id": 2, "text": "castle", "is_correct": true },
+        { "option_id": 3, "text": "house", "is_correct": false },
+        { "option_id": 4, "text": "garden", "is_correct": false }
+      ],
+      "answer": "castle"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word means 'to capture'?",
+      "options": [
+        { "option_id": 1, "text": "catch", "is_correct": true },
+        { "option_id": 2, "text": "speak", "is_correct": false },
+        { "option_id": 3, "text": "pass", "is_correct": false },
+        { "option_id": 4, "text": "wish", "is_correct": false }
+      ],
+      "answer": "catch"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which word means 'annoyed' or 'go from one side to another'?",
+      "options": [
+        { "option_id": 1, "text": "happy", "is_correct": false },
+        { "option_id": 2, "text": "cross", "is_correct": true },
+        { "option_id": 3, "text": "kind", "is_correct": false },
+        { "option_id": 4, "text": "surprised", "is_correct": false }
+      ],
+      "answer": "cross"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does a king or queen wear on their head?",
+      "options": [
+        { "option_id": 1, "text": "hat", "is_correct": false },
+        { "option_id": 2, "text": "crown", "is_correct": true },
+        { "option_id": 3, "text": "cap", "is_correct": false },
+        { "option_id": 4, "text": "helmet", "is_correct": false }
+      ],
+      "answer": "crown"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which are precious stones?",
+      "options": [
+        { "option_id": 1, "text": "stones", "is_correct": false },
+        { "option_id": 2, "text": "diamonds", "is_correct": true },
+        { "option_id": 3, "text": "rocks", "is_correct": false },
+        { "option_id": 4, "text": "bricks", "is_correct": false }
+      ],
+      "answer": "diamonds"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word is the opposite of 'up'?",
+      "options": [
+        { "option_id": 1, "text": "high", "is_correct": false },
+        { "option_id": 2, "text": "down", "is_correct": true },
+        { "option_id": 3, "text": "near", "is_correct": false },
+        { "option_id": 4, "text": "far", "is_correct": false }
+      ],
+      "answer": "down"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word means 'sufficient'?",
+      "options": [
+        { "option_id": 1, "text": "more", "is_correct": false },
+        { "option_id": 2, "text": "enough", "is_correct": true },
+        { "option_id": 3, "text": "less", "is_correct": false },
+        { "option_id": 4, "text": "few", "is_correct": false }
+      ],
+      "answer": "enough"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word means 'each one'?",
+      "options": [
+        { "option_id": 1, "text": "some", "is_correct": false },
+        { "option_id": 2, "text": "every", "is_correct": true },
+        { "option_id": 3, "text": "none", "is_correct": false },
+        { "option_id": 4, "text": "any", "is_correct": false }
+      ],
+      "answer": "every"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who catches fish for a living?",
+      "options": [
+        { "option_id": 1, "text": "driver", "is_correct": false },
+        { "option_id": 2, "text": "fisherman", "is_correct": true },
+        { "option_id": 3, "text": "farmer", "is_correct": false },
+        { "option_id": 4, "text": "doctor", "is_correct": false }
+      ],
+      "answer": "fisherman"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Where do flowers grow?",
+      "options": [
+        { "option_id": 1, "text": "sea", "is_correct": false },
+        { "option_id": 2, "text": "garden", "is_correct": true },
+        { "option_id": 3, "text": "sky", "is_correct": false },
+        { "option_id": 4, "text": "room", "is_correct": false }
+      ],
+      "answer": "garden"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which word is the past tense of 'happen'?",
+      "options": [
+        { "option_id": 1, "text": "happen", "is_correct": false },
+        { "option_id": 2, "text": "happened", "is_correct": true },
+        { "option_id": 3, "text": "happens", "is_correct": false },
+        { "option_id": 4, "text": "happening", "is_correct": false }
+      ],
+      "answer": "happened"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which word describes a feeling of joy?",
+      "options": [
+        { "option_id": 1, "text": "sad", "is_correct": false },
+        { "option_id": 2, "text": "happy", "is_correct": true },
+        { "option_id": 3, "text": "angry", "is_correct": false },
+        { "option_id": 4, "text": "scared", "is_correct": false }
+      ],
+      "answer": "happy"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which word refers to a male person mentioned before?",
+      "options": [
+        { "option_id": 1, "text": "her", "is_correct": false },
+        { "option_id": 2, "text": "him", "is_correct": true },
+        { "option_id": 3, "text": "it", "is_correct": false },
+        { "option_id": 4, "text": "them", "is_correct": false }
+      ],
+      "answer": "him"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Where do you live?",
+      "options": [
+        { "option_id": 1, "text": "school", "is_correct": false },
+        { "option_id": 2, "text": "home", "is_correct": true },
+        { "option_id": 3, "text": "market", "is_correct": false },
+        { "option_id": 4, "text": "office", "is_correct": false }
+      ],
+      "answer": "home"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is another word for a dwelling?",
+      "options": [
+        { "option_id": 1, "text": "house", "is_correct": true },
+        { "option_id": 2, "text": "mouse", "is_correct": false },
+        { "option_id": 3, "text": "box", "is_correct": false },
+        { "option_id": 4, "text": "car", "is_correct": false }
+      ],
+      "answer": "house"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which word indicates possession by 'it'?",
+      "options": [
+        { "option_id": 1, "text": "it's", "is_correct": false },
+        { "option_id": 2, "text": "its", "is_correct": true },
+        { "option_id": 3, "text": "is", "is_correct": false },
+        { "option_id": 4, "text": "it", "is_correct": false }
+      ],
+      "answer": "its"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which word means 'caring' or 'gentle'?",
+      "options": [
+        { "option_id": 1, "text": "kind", "is_correct": true },
+        { "option_id": 2, "text": "cruel", "is_correct": false },
+        { "option_id": 3, "text": "angry", "is_correct": false },
+        { "option_id": 4, "text": "hard", "is_correct": false }
+      ],
+      "answer": "kind"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which word relates to supernatural powers?",
+      "options": [
+        { "option_id": 1, "text": "logic", "is_correct": false },
+        { "option_id": 2, "text": "magic", "is_correct": true },
+        { "option_id": 3, "text": "science", "is_correct": false },
+        { "option_id": 4, "text": "math", "is_correct": false }
+      ],
+      "answer": "magic"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which word means 'necessary'?",
+      "options": [
+        { "option_id": 1, "text": "may", "is_correct": false },
+        { "option_id": 2, "text": "must", "is_correct": true },
+        { "option_id": 3, "text": "might", "is_correct": false },
+        { "option_id": 4, "text": "can", "is_correct": false }
+      ],
+      "answer": "must"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which word is the opposite of 'far'?",
+      "options": [
+        { "option_id": 1, "text": "away", "is_correct": false },
+        { "option_id": 2, "text": "near", "is_correct": true },
+        { "option_id": 3, "text": "distant", "is_correct": false },
+        { "option_id": 4, "text": "long", "is_correct": false }
+      ],
+      "answer": "near"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which word is the past tense of 'order'?",
+      "options": [
+        { "option_id": 1, "text": "order", "is_correct": false },
+        { "option_id": 2, "text": "ordered", "is_correct": true },
+        { "option_id": 3, "text": "orders", "is_correct": false },
+        { "option_id": 4, "text": "ordering", "is_correct": false }
+      ],
+      "answer": "ordered"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which word means 'went by'?",
+      "options": [
+        { "option_id": 1, "text": "past", "is_correct": false },
+        { "option_id": 2, "text": "passed", "is_correct": true },
+        { "option_id": 3, "text": "pass", "is_correct": false },
+        { "option_id": 4, "text": "path", "is_correct": false }
+      ],
+      "answer": "passed"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which is a polite word used when asking for something?",
+      "options": [
+        { "option_id": 1, "text": "please", "is_correct": true },
+        { "option_id": 2, "text": "now", "is_correct": false },
+        { "option_id": 3, "text": "fast", "is_correct": false },
+        { "option_id": 4, "text": "give", "is_correct": false }
+      ],
+      "answer": "please"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which word means 'appeared suddenly'?",
+      "options": [
+        { "option_id": 1, "text": "popped", "is_correct": true },
+        { "option_id": 2, "text": "stopped", "is_correct": false },
+        { "option_id": 3, "text": "hopped", "is_correct": false },
+        { "option_id": 4, "text": "dropped", "is_correct": false }
+      ],
+      "answer": "popped"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who is the wife of a king?",
+      "options": [
+        { "option_id": 1, "text": "princess", "is_correct": false },
+        { "option_id": 2, "text": "queen", "is_correct": true },
+        { "option_id": 3, "text": "lady", "is_correct": false },
+        { "option_id": 4, "text": "woman", "is_correct": false }
+      ],
+      "answer": "queen"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which word is the past tense of 'see'?",
+      "options": [
+        { "option_id": 1, "text": "see", "is_correct": false },
+        { "option_id": 2, "text": "saw", "is_correct": true },
+        { "option_id": 3, "text": "seen", "is_correct": false },
+        { "option_id": 4, "text": "seeing", "is_correct": false }
+      ],
+      "answer": "saw"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is the large body of salt water called?",
+      "options": [
+        { "option_id": 1, "text": "river", "is_correct": false },
+        { "option_id": 2, "text": "sea", "is_correct": true },
+        { "option_id": 3, "text": "pond", "is_correct": false },
+        { "option_id": 4, "text": "lake", "is_correct": false }
+      ],
+      "answer": "sea"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which word means 'to talk'?",
+      "options": [
+        { "option_id": 1, "text": "hear", "is_correct": false },
+        { "option_id": 2, "text": "speak", "is_correct": true },
+        { "option_id": 3, "text": "listen", "is_correct": false },
+        { "option_id": 4, "text": "watch", "is_correct": false }
+      ],
+      "answer": "speak"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which word means 'a violent weather condition'?",
+      "options": [
+        { "option_id": 1, "text": "breeze", "is_correct": false },
+        { "option_id": 2, "text": "storm", "is_correct": true },
+        { "option_id": 3, "text": "rain", "is_correct": false },
+        { "option_id": 4, "text": "calm", "is_correct": false }
+      ],
+      "answer": "storm"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which word means 'unusual' or 'weird'?",
+      "options": [
+        { "option_id": 1, "text": "normal", "is_correct": false },
+        { "option_id": 2, "text": "strange", "is_correct": true },
+        { "option_id": 3, "text": "common", "is_correct": false },
+        { "option_id": 4, "text": "simple", "is_correct": false }
+      ],
+      "answer": "strange"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which word means 'amazed'?",
+      "options": [
+        { "option_id": 1, "text": "bored", "is_correct": false },
+        { "option_id": 2, "text": "surprised", "is_correct": true },
+        { "option_id": 3, "text": "tired", "is_correct": false },
+        { "option_id": 4, "text": "calm", "is_correct": false }
+      ],
+      "answer": "surprised"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which word refers to an object?",
+      "options": [
+        { "option_id": 1, "text": "person", "is_correct": false },
+        { "option_id": 2, "text": "thing", "is_correct": true },
+        { "option_id": 3, "text": "place", "is_correct": false },
+        { "option_id": 4, "text": "time", "is_correct": false }
+      ],
+      "answer": "thing"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is a royal seat called?",
+      "options": [
+        { "option_id": 1, "text": "chair", "is_correct": false },
+        { "option_id": 2, "text": "throne", "is_correct": true },
+        { "option_id": 3, "text": "bench", "is_correct": false },
+        { "option_id": 4, "text": "stool", "is_correct": false }
+      ],
+      "answer": "throne"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the loud sound during a storm?",
+      "options": [
+        { "option_id": 1, "text": "whisper", "is_correct": false },
+        { "option_id": 2, "text": "thunder", "is_correct": true },
+        { "option_id": 3, "text": "rain", "is_correct": false },
+        { "option_id": 4, "text": "wind", "is_correct": false }
+      ],
+      "answer": "thunder"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What are tall structures on a castle?",
+      "options": [
+        { "option_id": 1, "text": "walls", "is_correct": false },
+        { "option_id": 2, "text": "towers", "is_correct": true },
+        { "option_id": 3, "text": "gates", "is_correct": false },
+        { "option_id": 4, "text": "roofs", "is_correct": false }
+      ],
+      "answer": "towers"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What sound do humans produce to speak?",
+      "options": [
+        { "option_id": 1, "text": "noise", "is_correct": false },
+        { "option_id": 2, "text": "voice", "is_correct": true },
+        { "option_id": 3, "text": "music", "is_correct": false },
+        { "option_id": 4, "text": "tone", "is_correct": false }
+      ],
+      "answer": "voice"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What is the liquid essential for life?",
+      "options": [
+        { "option_id": 1, "text": "oil", "is_correct": false },
+        { "option_id": 2, "text": "water", "is_correct": true },
+        { "option_id": 3, "text": "milk", "is_correct": false },
+        { "option_id": 4, "text": "juice", "is_correct": false }
+      ],
+      "answer": "water"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What are the moving ridges on the surface of the sea?",
+      "options": [
+        { "option_id": 1, "text": "tides", "is_correct": false },
+        { "option_id": 2, "text": "waves", "is_correct": true },
+        { "option_id": 3, "text": "currents", "is_correct": false },
+        { "option_id": 4, "text": "ripples", "is_correct": false }
+      ],
+      "answer": "waves"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which word is the past tense of 'are'?",
+      "options": [
+        { "option_id": 1, "text": "was", "is_correct": false },
+        { "option_id": 2, "text": "were", "is_correct": true },
+        { "option_id": 3, "text": "is", "is_correct": false },
+        { "option_id": 4, "text": "am", "is_correct": false }
+      ],
+      "answer": "were"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who is a married woman?",
+      "options": [
+        { "option_id": 1, "text": "girl", "is_correct": false },
+        { "option_id": 2, "text": "wife", "is_correct": true },
+        { "option_id": 3, "text": "sister", "is_correct": false },
+        { "option_id": 4, "text": "mother", "is_correct": false }
+      ],
+      "answer": "wife"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which word means 'a strong desire'?",
+      "options": [
+        { "option_id": 1, "text": "wish", "is_correct": true },
+        { "option_id": 2, "text": "hate", "is_correct": false },
+        { "option_id": 3, "text": "fear", "is_correct": false },
+        { "option_id": 4, "text": "pain", "is_correct": false }
+      ],
+      "answer": "wish"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which word is the past tense of 'wear'?",
+      "options": [
+        { "option_id": 1, "text": "wear", "is_correct": false },
+        { "option_id": 2, "text": "wore", "is_correct": true },
+        { "option_id": 3, "text": "worn", "is_correct": false },
+        { "option_id": 4, "text": "wears", "is_correct": false }
+      ],
+      "answer": "wore"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which word means 'surrounding'?",
+      "options": [
+        { "option_id": 1, "text": "inside", "is_correct": false },
+        { "option_id": 2, "text": "around", "is_correct": true },
+        { "option_id": 3, "text": "above", "is_correct": false },
+        { "option_id": 4, "text": "under", "is_correct": false }
+      ],
+      "answer": "around"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which word is the past tense of 'become'?",
+      "options": [
+        { "option_id": 1, "text": "become", "is_correct": false },
+        { "option_id": 2, "text": "became", "is_correct": true },
+        { "option_id": 3, "text": "becoming", "is_correct": false },
+        { "option_id": 4, "text": "becomes", "is_correct": false }
+      ],
+      "answer": "became"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which word means 'behind' or 'in reverse'?",
+      "options": [
+        { "option_id": 1, "text": "front", "is_correct": false },
+        { "option_id": 2, "text": "back", "is_correct": true },
+        { "option_id": 3, "text": "next", "is_correct": false },
+        { "option_id": 4, "text": "top", "is_correct": false }
+      ],
+      "answer": "back"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Find a word that means a large body of water.",
+      "answer": "sea"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Find the past tense of 'see' in the list.",
+      "answer": "saw"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'wish'.",
+      "answer": "fish"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Find a word that describes a feeling.",
+      "answer": "happy / angry / surprised"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Find a word that means 'a home'.",
+      "answer": "house / home / castle"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Find a word that is a color.",
+      "answer": "blue"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Find a word related to royalty.",
+      "answer": "queen / crown / throne / castle"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Find a word that means 'unusual'.",
+      "answer": "strange"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'ring'.",
+      "answer": "thing"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'round'.",
+      "answer": "around"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Find the word for 'wife of a king'.",
+      "answer": "queen"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Find a word starting with 'G' that means a place with flowers.",
+      "answer": "garden"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Find a word starting with 'T' that means a loud noise in a storm.",
+      "answer": "thunder"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Find a word that means 'to catch'.",
+      "answer": "catch"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Find a word that means 'pleasing'.",
+      "answer": "beautiful / happy"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Find a word that means 'to command'.",
+      "answer": "ordered"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Make a sentence using the word 'fish'.",
+      "answer": "The fish swims in the water."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Make a sentence using the word 'beautiful'.",
+      "answer": "The garden is beautiful."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Make a sentence using the word 'happy'.",
+      "answer": "I am very happy today."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Make a sentence using the word 'water'.",
+      "answer": "We drink water every day."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'happy'?",
+      "answer": "sad / angry"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'near'?",
+      "answer": "far"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'up'?",
+      "answer": "down"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'kind'?",
+      "answer": "cruel"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Identify the word that describes 'diamonds'.",
+      "answer": "beautiful / hard / shiny (based on context, usually implied)"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Identify the word that describes 'storm'.",
+      "answer": "angry / big / scary (implied)"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Identify the action word: 'He caught a fish.'",
+      "answer": "caught"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Identify the action word: 'She wore a crown.'",
+      "answer": "wore"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Identify the action word: 'The fish popped up.'",
+      "answer": "popped"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Identify the action word: 'He ordered him.'",
+      "answer": "ordered"
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Find a word that starts with 'B'.",
+      "answer": "back / beautiful / became / blue / buildings"
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Find a word that starts with 'C'.",
+      "answer": "castle / catch / cross / crown"
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Find a word that starts with 'S'.",
+      "answer": "saw / sea / speak / storm / strange / surprised"
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Find a word that starts with 'W'.",
+      "answer": "water / waves / were / wife / wish / wore"
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'crown'.",
+      "answer": "down"
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'near'.",
+      "answer": "fear / hear"
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'blue'.",
+      "answer": "true / glue"
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'kind'.",
+      "answer": "find / mind"
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'pass'?",
+      "answer": "passed"
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'is'?",
+      "answer": "was"
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'building'?",
+      "answer": "buildings"
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'wave'?",
+      "answer": "waves"
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'tower'?",
+      "answer": "towers"
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'diamond'?",
+      "answer": "diamonds"
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'fisherman'.",
+      "answer": "f-i-s-h-e-r-m-a-n"
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'surprised'.",
+      "answer": "s-u-r-p-r-i-s-e-d"
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'beautiful'.",
+      "answer": "b-e-a-u-t-i-f-u-l"
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'happened'.",
+      "answer": "h-a-p-p-e-n-e-d"
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Make a meaningful sentence with 'queen' and 'happy'.",
+      "answer": "The queen was very happy."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Make a meaningful sentence with 'fish' and 'net'.",
+      "answer": "The fisherman caught a fish in his net."
+    }
+  ]
+}

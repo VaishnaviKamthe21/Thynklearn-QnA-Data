@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.06",
+    "standard": "4",
+    "subject": "खेळू, करू, शिकू (कार्यानुभव)",
+    "medium": "Marathi",
+    "chapter_name": "गरजाधिष्ठित उपक्रम"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी माहितीचे स्रोत कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "वृत्तपत्र", "is_correct": true },
+        { "option_id": 3, "text": "झाड", "is_correct": false },
+        { "option_id": 4, "text": "खुर्ची", "is_correct": false }
+      ],
+      "answer": "वृत्तपत्र"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आकाशवाणीवरून बातम्या कशा मिळतात?",
+      "options": [
+        { "option_id": 1, "text": "वाचून", "is_correct": false },
+        { "option_id": 2, "text": "ऐकून", "is_correct": true },
+        { "option_id": 3, "text": "पाहून", "is_correct": false },
+        { "option_id": 4, "text": "लिहून", "is_correct": false }
+      ],
+      "answer": "ऐकून"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "दूरदर्शनवर बातम्या कोणत्या स्वरूपात असतात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त श्राव्य", "is_correct": false },
+        { "option_id": 2, "text": "फक्त मुद्रित", "is_correct": false },
+        { "option_id": 3, "text": "दृकश्राव्य (पाहणे व ऐकणे)", "is_correct": true },
+        { "option_id": 4, "text": "फक्त चित्रे", "is_correct": false }
+      ],
+      "answer": "दृकश्राव्य (पाहणे व ऐकणे)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "इंटरनेटचा वापर कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त जेवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "माहिती मिळवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "कपडे धुण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "माहिती मिळवण्यासाठी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पाण्याला काय म्हटले जाते?",
+      "options": [
+        { "option_id": 1, "text": "जीवन", "is_correct": true },
+        { "option_id": 2, "text": "अन्न", "is_correct": false },
+        { "option_id": 3, "text": "हवा", "is_correct": false },
+        { "option_id": 4, "text": "जमीन", "is_correct": false }
+      ],
+      "answer": "जीवन"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पावसाचे पाणी वर्षातून किती महिने मिळते?",
+      "options": [
+        { "option_id": 1, "text": "बारा महिने", "is_correct": false },
+        { "option_id": 2, "text": "सहा महिने", "is_correct": false },
+        { "option_id": 3, "text": "चार महिने", "is_correct": true },
+        { "option_id": 4, "text": "दोन महिने", "is_correct": false }
+      ],
+      "answer": "चार महिने"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'जागतिक जलदिन' कधी साजरा केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "२२ एप्रिल", "is_correct": false },
+        { "option_id": 2, "text": "२२ मार्च", "is_correct": true },
+        { "option_id": 3, "text": "५ जून", "is_correct": false },
+        { "option_id": 4, "text": "१४ नोव्हेंबर", "is_correct": false }
+      ],
+      "answer": "२२ मार्च"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शुद्ध पाण्याचे लक्षण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "रंगीत असणे", "is_correct": false },
+        { "option_id": 2, "text": "वास येणे", "is_correct": false },
+        { "option_id": 3, "text": "वास व रंग नसणे", "is_correct": true },
+        { "option_id": 4, "text": "गढूळ असणे", "is_correct": false }
+      ],
+      "answer": "वास व रंग नसणे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "अशुद्ध पाण्यामुळे कोणते आजार होतात?",
+      "options": [
+        { "option_id": 1, "text": "हाडांचे आजार", "is_correct": false },
+        { "option_id": 2, "text": "डोळ्यांचे विकार", "is_correct": false },
+        { "option_id": 3, "text": "पोटाचे विकार व कावीळ", "is_correct": true },
+        { "option_id": 4, "text": "हृदयविकार", "is_correct": false }
+      ],
+      "answer": "पोटाचे विकार व कावीळ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पाणी शुद्ध करण्याची एक पद्धत कोणती?",
+      "options": [
+        { "option_id": 1, "text": "उकळणे", "is_correct": true },
+        { "option_id": 2, "text": "हसवणे", "is_correct": false },
+        { "option_id": 3, "text": "रंगवणे", "is_correct": false },
+        { "option_id": 4, "text": "गोठवणे", "is_correct": false }
+      ],
+      "answer": "उकळणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "गढूळ पाण्यात काय फिरवल्यास गाळ खाली बसतो?",
+      "options": [
+        { "option_id": 1, "text": "साखर", "is_correct": false },
+        { "option_id": 2, "text": "मीठ", "is_correct": false },
+        { "option_id": 3, "text": "तुरटी", "is_correct": true },
+        { "option_id": 4, "text": "चमचा", "is_correct": false }
+      ],
+      "answer": "तुरटी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाणी गाळण्यासाठी कसे कापड वापरावे?",
+      "options": [
+        { "option_id": 1, "text": "स्वच्छ चौपदरी", "is_correct": true },
+        { "option_id": 2, "text": "रंगीत", "is_correct": false },
+        { "option_id": 3, "text": "जाड", "is_correct": false },
+        { "option_id": 4, "text": "फाटलेले", "is_correct": false }
+      ],
+      "answer": "स्वच्छ चौपदरी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पाण्यातील रोगजंतू मरण्यासाठी पाणी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "गाळावे", "is_correct": false },
+        { "option_id": 2, "text": "उकळावे", "is_correct": true },
+        { "option_id": 3, "text": "झाकून ठेवावे", "is_correct": false },
+        { "option_id": 4, "text": "तुरटी फिरवावी", "is_correct": false }
+      ],
+      "answer": "उकळावे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "आपत्ती म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "सण", "is_correct": false },
+        { "option_id": 2, "text": "संकट", "is_correct": true },
+        { "option_id": 3, "text": "सहली", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "संकट"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "आपत्तीचे मुख्य प्रकार किती आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन (निसर्गनिर्मित व मानवनिर्मित)", "is_correct": true },
+        { "option_id": 2, "text": "तीन", "is_correct": false },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "दोन (निसर्गनिर्मित व मानवनिर्मित)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "भूकंप ही कोणती आपत्ती आहे?",
+      "options": [
+        { "option_id": 1, "text": "मानवनिर्मित", "is_correct": false },
+        { "option_id": 2, "text": "निसर्गनिर्मित", "is_correct": true },
+        { "option_id": 3, "text": "दोन्ही", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "निसर्गनिर्मित"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचे नियम न पाळल्यामुळे होणारे अपघात ही कोणती आपत्ती आहे?",
+      "options": [
+        { "option_id": 1, "text": "निसर्गनिर्मित", "is_correct": false },
+        { "option_id": 2, "text": "मानवनिर्मित", "is_correct": true },
+        { "option_id": 3, "text": "नैसर्गिक", "is_correct": false },
+        { "option_id": 4, "text": "दैवी", "is_correct": false }
+      ],
+      "answer": "मानवनिर्मित"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "वणवा म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "जंगलाला लागलेली आग", "is_correct": true },
+        { "option_id": 3, "text": "वादळ", "is_correct": false },
+        { "option_id": 4, "text": "पूर", "is_correct": false }
+      ],
+      "answer": "जंगलाला लागलेली आग"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पाणी वाया घालवणे ही कोणती कृती आहे?",
+      "options": [
+        { "option_id": 1, "text": "चांगली", "is_correct": false },
+        { "option_id": 2, "text": "मानवनिर्मित आपत्तीला आमंत्रण देणारी", "is_correct": true },
+        { "option_id": 3, "text": "पर्यावरणपूरक", "is_correct": false },
+        { "option_id": 4, "text": "उपयोगी", "is_correct": false }
+      ],
+      "answer": "मानवनिर्मित आपत्तीला आमंत्रण देणारी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "आपत्ती व्यवस्थापन कशासाठी करतात?",
+      "options": [
+        { "option_id": 1, "text": "आपत्तीचा परिणाम कमी करण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "आपत्ती वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "मनोरंजनासाठी", "is_correct": false },
+        { "option_id": 4, "text": "भीती वाढवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "आपत्तीचा परिणाम कमी करण्यासाठी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "वृत्तपत्रातील बातम्यांचे काय करता येते?",
+      "options": [
+        { "option_id": 1, "text": "संग्रह", "is_correct": true },
+        { "option_id": 2, "text": "काहीच नाही", "is_correct": false },
+        { "option_id": 3, "text": "विमान", "is_correct": false },
+        { "option_id": 4, "text": "चेंडू", "is_correct": false }
+      ],
+      "answer": "संग्रह"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "बातम्यांचे प्रकार कोणते?",
+      "options": [
+        { "option_id": 1, "text": "सांस्कृतिक", "is_correct": false },
+        { "option_id": 2, "text": "क्रीडाविषयक", "is_correct": false },
+        { "option_id": 3, "text": "शैक्षणिक", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "पाण्याचे नियोजन का करावे?",
+      "options": [
+        { "option_id": 1, "text": "पाणी कमी आहे म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "पाणी वर्षभर पुरण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पाणी खराब होते म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "पाणी साठवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पाणी वर्षभर पुरण्यासाठी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "शाळेच्या फलकावर काय लिहिलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "महत्त्वाची सूचना व माहिती", "is_correct": true },
+        { "option_id": 2, "text": "गाणी", "is_correct": false },
+        { "option_id": 3, "text": "गोष्टी", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "महत्त्वाची सूचना व माहिती"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कोणत्या आजाराची साथ असल्यास पाणी उकळून प्यावे?",
+      "options": [
+        { "option_id": 1, "text": "कावीळ", "is_correct": true },
+        { "option_id": 2, "text": "हाड मोडणे", "is_correct": false },
+        { "option_id": 3, "text": "डोकेदुखी", "is_correct": false },
+        { "option_id": 4, "text": "रातांधळेपणा", "is_correct": false }
+      ],
+      "answer": "कावीळ"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "वीज कोसळणे ही कोणती आपत्ती आहे?",
+      "options": [
+        { "option_id": 1, "text": "मानवनिर्मित", "is_correct": false },
+        { "option_id": 2, "text": "निसर्गनिर्मित", "is_correct": true },
+        { "option_id": 3, "text": "कृत्रिम", "is_correct": false },
+        { "option_id": 4, "text": "तांत्रिक", "is_correct": false }
+      ],
+      "answer": "निसर्गनिर्मित"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "महापूर कशामुळे येतो?",
+      "options": [
+        { "option_id": 1, "text": "कमी पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "अतिवृष्टी", "is_correct": true },
+        { "option_id": 3, "text": "ऊन", "is_correct": false },
+        { "option_id": 4, "text": "थंडी", "is_correct": false }
+      ],
+      "answer": "अतिवृष्टी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पंखे आणि दिवे गरज नसताना चालू ठेवणे हे कशाचे लक्षण आहे?",
+      "options": [
+        { "option_id": 1, "text": "बचतीचे", "is_correct": false },
+        { "option_id": 2, "text": "निष्काळजीपणाचे", "is_correct": true },
+        { "option_id": 3, "text": "हुशारीचे", "is_correct": false },
+        { "option_id": 4, "text": "श्रीमंतीचे", "is_correct": false }
+      ],
+      "answer": "निष्काळजीपणाचे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पाणी निवळणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पाणी उकळणे", "is_correct": false },
+        { "option_id": 2, "text": "पाण्यातील गाळ खाली बसवणे", "is_correct": true },
+        { "option_id": 3, "text": "पाणी गाळणे", "is_correct": false },
+        { "option_id": 4, "text": "पाणी साठवणे", "is_correct": false }
+      ],
+      "answer": "पाण्यातील गाळ खाली बसवणे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "आपत्तीच्या वेळी कोणाची मदत घ्यावी?",
+      "options": [
+        { "option_id": 1, "text": "प्रशासनाची व मदतगटांची", "is_correct": true },
+        { "option_id": 2, "text": "कोणाचीच नाही", "is_correct": false },
+        { "option_id": 3, "text": "लहान मुलांची", "is_correct": false },
+        { "option_id": 4, "text": "फक्त स्वतःची", "is_correct": false }
+      ],
+      "answer": "प्रशासनाची व मदतगटांची"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "दुष्काळात काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याची टंचाई", "is_correct": true },
+        { "option_id": 2, "text": "पाण्याची रेलचेल", "is_correct": false },
+        { "option_id": 3, "text": "पूर येतो", "is_correct": false },
+        { "option_id": 4, "text": "झाडे वाढतात", "is_correct": false }
+      ],
+      "answer": "पाण्याची टंचाई"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "त्सुनामी म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "समुद्रातील भूकंपामुळे येणाऱ्या लाटा", "is_correct": true },
+        { "option_id": 2, "text": "नदीतील पूर", "is_correct": false },
+        { "option_id": 3, "text": "विजेचा कडकडाट", "is_correct": false },
+        { "option_id": 4, "text": "जंगलातील आग", "is_correct": false }
+      ],
+      "answer": "समुद्रातील भूकंपामुळे येणाऱ्या लाटा"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "पाणी काटकसरीने वापरण्यासाठी काय सुरू करावे?",
+      "options": [
+        { "option_id": 1, "text": "पाणी बचत बँक", "is_correct": true },
+        { "option_id": 2, "text": "पाणी फेको अभियान", "is_correct": false },
+        { "option_id": 3, "text": "नळ चालू ठेवा", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "पाणी बचत बँक"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "बातमीमध्ये माहिती कशी असावी?",
+      "options": [
+        { "option_id": 1, "text": "खोटी", "is_correct": false },
+        { "option_id": 2, "text": "खरी आणि अचूक", "is_correct": true },
+        { "option_id": 3, "text": "अर्धवट", "is_correct": false },
+        { "option_id": 4, "text": "जुनी", "is_correct": false }
+      ],
+      "answer": "खरी आणि अचूक"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "गढूळ पाण्यात तुरटी फिरवल्याने काय होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी घाण होते", "is_correct": false },
+        { "option_id": 2, "text": "गाळ खाली बसतो", "is_correct": true },
+        { "option_id": 3, "text": "पाणी उकळते", "is_correct": false },
+        { "option_id": 4, "text": "पाणी गोठते", "is_correct": false }
+      ],
+      "answer": "गाळ खाली बसतो"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कोणत्या ऋतूत पाणी गढूळ येण्याची शक्यता असते?",
+      "options": [
+        { "option_id": 1, "text": "उन्हाळ्यात", "is_correct": false },
+        { "option_id": 2, "text": "हिवाळ्यात", "is_correct": false },
+        { "option_id": 3, "text": "पावसाळ्यात", "is_correct": true },
+        { "option_id": 4, "text": "नेहमीच", "is_correct": false }
+      ],
+      "answer": "पावसाळ्यात"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "सांस्कृतिक बातमी कशाशी संबंधित असते?",
+      "options": [
+        { "option_id": 1, "text": "कला आणि संस्कृती", "is_correct": true },
+        { "option_id": 2, "text": "खेळ", "is_correct": false },
+        { "option_id": 3, "text": "हवामान", "is_correct": false },
+        { "option_id": 4, "text": "राजकारण", "is_correct": false }
+      ],
+      "answer": "कला आणि संस्कृती"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "जलसाक्षरता म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात वाचणे", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याचा योग्य वापर व महत्त्व जाणणे", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यात खेळणे", "is_correct": false },
+        { "option_id": 4, "text": "पाऊस पाडणे", "is_correct": false }
+      ],
+      "answer": "पाण्याचा योग्य वापर व महत्त्व जाणणे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "अशुद्ध पाण्यात कशाचे प्रमाण अधिक असू शकते?",
+      "options": [
+        { "option_id": 1, "text": "रोगजंतू व रसायने", "is_correct": true },
+        { "option_id": 2, "text": "साखर", "is_correct": false },
+        { "option_id": 3, "text": "मीठ", "is_correct": false },
+        { "option_id": 4, "text": "जीवनसत्त्वे", "is_correct": false }
+      ],
+      "answer": "रोगजंतू व रसायने"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "गर्दीच्या ठिकाणी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "धक्काधक्की", "is_correct": false },
+        { "option_id": 2, "text": "स्वतःची काळजी घ्यावी", "is_correct": true },
+        { "option_id": 3, "text": "ओरडावे", "is_correct": false },
+        { "option_id": 4, "text": "पळून जावे", "is_correct": false }
+      ],
+      "answer": "स्वतःची काळजी घ्यावी"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "पाणी उकळल्यानंतर काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "लगेच फेकून द्यावे", "is_correct": false },
+        { "option_id": 2, "text": "थंड करून प्यावे", "is_correct": true },
+        { "option_id": 3, "text": "पुन्हा अशुद्ध करावे", "is_correct": false },
+        { "option_id": 4, "text": "गरमच प्यावे", "is_correct": false }
+      ],
+      "answer": "थंड करून प्यावे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "आपत्ती व्यवस्थापनामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "जीवन सुलभ होते", "is_correct": true },
+        { "option_id": 2, "text": "संकट वाढते", "is_correct": false },
+        { "option_id": 3, "text": "नुकसान वाढते", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होत नाही", "is_correct": false }
+      ],
+      "answer": "जीवन सुलभ होते"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "इंटरनेट हे कशाचे माध्यम आहे?",
+      "options": [
+        { "option_id": 1, "text": "माहिती व संवादाचे", "is_correct": true },
+        { "option_id": 2, "text": "प्रवासाचे", "is_correct": false },
+        { "option_id": 3, "text": "पाण्याचे", "is_correct": false },
+        { "option_id": 4, "text": "अन्नाचे", "is_correct": false }
+      ],
+      "answer": "माहिती व संवादाचे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "वृत्तपत्र हे कशाचे साधन आहे?",
+      "options": [
+        { "option_id": 1, "text": "मनोरंजनाचे", "is_correct": false },
+        { "option_id": 2, "text": "माहितीचे (स्रोत)", "is_correct": true },
+        { "option_id": 3, "text": "खेळाचे", "is_correct": false },
+        { "option_id": 4, "text": "गाण्याचे", "is_correct": false }
+      ],
+      "answer": "माहितीचे (स्रोत)"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कोणत्या दिवशी 'जलदिन' असतो?",
+      "options": [
+        { "option_id": 1, "text": "२२ मार्च", "is_correct": true },
+        { "option_id": 2, "text": "२२ एप्रिल", "is_correct": false },
+        { "option_id": 3, "text": "५ जून", "is_correct": false },
+        { "option_id": 4, "text": "१ जानेवारी", "is_correct": false }
+      ],
+      "answer": "२२ मार्च"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "पाणी शुद्धीकरणाची पद्धत कोणती नाही?",
+      "options": [
+        { "option_id": 1, "text": "गाळणे", "is_correct": false },
+        { "option_id": 2, "text": "उकळणे", "is_correct": false },
+        { "option_id": 3, "text": "निवळणे", "is_correct": false },
+        { "option_id": 4, "text": "हळद टाकणे", "is_correct": true }
+      ],
+      "answer": "हळद टाकणे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "मानवनिर्मित आपत्ती टाळण्यासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "नियम पाळणे व जबाबदारीने वागणे", "is_correct": true },
+        { "option_id": 2, "text": "निष्काळजीपणा", "is_correct": false },
+        { "option_id": 3, "text": "धावणे", "is_correct": false },
+        { "option_id": 4, "text": "झोपणे", "is_correct": false }
+      ],
+      "answer": "नियम पाळणे व जबाबदारीने वागणे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "बातम्या कोणत्या विषयांशी संबंधित असू शकतात?",
+      "options": [
+        { "option_id": 1, "text": "पर्यावरण", "is_correct": false },
+        { "option_id": 2, "text": "विज्ञान", "is_correct": false },
+        { "option_id": 3, "text": "शिक्षण", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "पाणी काटकसरीने वापरणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पाणी न वापरणे", "is_correct": false },
+        { "option_id": 2, "text": "आवश्यक तेवढेच पाणी वापरणे", "is_correct": true },
+        { "option_id": 3, "text": "खूप पाणी वापरणे", "is_correct": false },
+        { "option_id": 4, "text": "पाणी फेकून देणे", "is_correct": false }
+      ],
+      "answer": "आवश्यक तेवढेच पाणी वापरणे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "घरात पाणी कसे साठवावे?",
+      "options": [
+        { "option_id": 1, "text": "उघड्या भांड्यात", "is_correct": false },
+        { "option_id": 2, "text": "झाकण असलेल्या स्वच्छ भांड्यात", "is_correct": true },
+        { "option_id": 3, "text": "जमिनीवर", "is_correct": false },
+        { "option_id": 4, "text": "प्लॅस्टिकच्या पिशवीत", "is_correct": false }
+      ],
+      "answer": "झाकण असलेल्या स्वच्छ भांड्यात"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "माहिती मिळवण्याचे दोन स्रोत लिहा.",
+      "answer": "वृत्तपत्र, आकाशवाणी, दूरदर्शन, इंटरनेट."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "बातम्यांचे कोणतेही दोन प्रकार सांगा.",
+      "answer": "सांस्कृतिक, माहितीपर, शैक्षणिक, विज्ञानविषयक."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पाण्याला काय म्हटले जाते?",
+      "answer": "पाण्याला 'जीवन' असे म्हटले जाते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पावसाचे पाणी किती महिने मिळते?",
+      "answer": "पावसाचे पाणी वर्षातून साधारणपणे चार महिने मिळते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पाण्याचा वापर कसा करावा?",
+      "answer": "पाण्याचा वापर योग्य रितीने, काटकसरीने व नियोजनबद्ध करावा."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "जागतिक जलदिन कधी साजरा करतात?",
+      "answer": "जागतिक जलदिन २२ मार्च रोजी साजरा करतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "शुद्ध पाणी कसे ओळखावे?",
+      "answer": "शुद्ध पाण्याला वास व रंग नसतो आणि ते स्वच्छ दिसते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अशुद्ध पाण्यात काय असते?",
+      "answer": "अशुद्ध पाण्यात रोगजंतू, रसायने, पालापाचोळा व क्षार असतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "अशुद्ध पाण्यामुळे कोणते आजार होतात?",
+      "answer": "अशुद्ध पाण्यामुळे पोटाचे विकार, कावीळ व साथीचे आजार होतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पाणी शुद्ध करण्याच्या पद्धती सांगा.",
+      "answer": "गाळणे, निवळणे आणि उकळणे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पाणी गाळण्यासाठी काय वापरावे?",
+      "answer": "पाणी गाळण्यासाठी स्वच्छ चौपदरी कापड वापरावे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "निवळणे म्हणजे काय?",
+      "answer": "गढूळ पाण्यात तुरटी फिरवून पाणी स्थिर ठेवणे, ज्यामुळे गाळ खाली बसतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पाणी उकळल्याने काय होते?",
+      "answer": "पाणी उकळल्याने त्यातील रोगजंतू मरतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "आपत्ती म्हणजे काय?",
+      "answer": "आपत्ती म्हणजे अचानक आलेले संकट."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "निसर्गनिर्मित आपत्तींची दोन उदाहरणे द्या.",
+      "answer": "भूकंप, महापूर, वणवा, वादळ."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "मानवनिर्मित आपत्ती म्हणजे काय?",
+      "answer": "मानवाच्या चुकांमुळे किंवा निष्काळजीपणामुळे ओढवणाऱ्या आपत्ती."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "मानवनिर्मित आपत्तींची दोन उदाहरणे द्या.",
+      "answer": "अपघात, आग लागणे (चुकीमुळे)."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "आपत्ती व्यवस्थापन कशासाठी करतात?",
+      "answer": "आपत्ती रोखण्यासाठी किंवा तिचे परिणाम कमी करण्यासाठी."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "गर्दीच्या ठिकाणी काय काळजी घ्यावी?",
+      "answer": "शिस्त पाळावी आणि स्वतःची काळजी घ्यावी."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पाणी बचत बँक म्हणजे काय?",
+      "answer": "पाण्याचा अपव्यय टाळून ते काटकसरीने वापरण्याची सवय."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "घरातील पाणी शुद्ध करण्यासाठी तुम्ही काय कराल?",
+      "answer": "आम्ही पाणी गाळून आणि उकळून पिऊ."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "वणवा म्हणजे काय?",
+      "answer": "जंगलात लागलेली मोठी आग म्हणजे वणवा."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "वीज कोसळणे या आपत्तीत काय करावे?",
+      "answer": "सुरक्षित ठिकाणी आसरा घ्यावा."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे नियम पाळणे का गरजेचे आहे?",
+      "answer": "अपघात टाळण्यासाठी आणि सुरक्षिततेसाठी."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "अफवा आणि बातमी यात काय फरक आहे?",
+      "answer": "बातमी खरी असते, तर अफवा खोटी असू शकते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "माहिती स्रोत म्हणजे काय?",
+      "answer": "ज्या माध्यमांतून माहिती मिळते (उदा. टीव्ही, रेडिओ) ते माहिती स्रोत."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "मनोरंजक बातमी म्हणजे काय?",
+      "answer": "जी बातमी वाचून आनंद मिळतो ती मनोरंजक बातमी."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पाणी काटकसरीने का वापरावे?",
+      "answer": "कारण पाणी जीवन आहे आणि ते मर्यादित आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "तुरटीचा वापर कशासाठी करतात?",
+      "answer": "पाण्यातील गाळ खाली बसवण्यासाठी."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "भूकंप म्हणजे काय?",
+      "answer": "जमिनीचा थर हलणे म्हणजे भूकंप."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "महापूर आल्यावर काय होते?",
+      "answer": "नदीचे पाणी पात्राबाहेर पडून नुकसान होते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "मानवनिर्मित आपत्ती कशा टाळता येतील?",
+      "answer": "नियम पाळून आणि जबाबदारीने वागून."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "शाळेच्या फलकावर काय असते?",
+      "answer": "महत्त्वाची सूचना, सुविचार आणि बातम्या."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "वृत्तपत्रातील बातम्यांचा संग्रह कसा करावा?",
+      "answer": "कात्रणे कापून वहीत चिकटवून संग्रह करावा."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "पाणी अशुद्ध आहे हे कसे ओळखावे?",
+      "answer": "पाण्याला वास येत असल्यास किंवा रंग बदलला असल्यास."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "पाणी शुद्ध करण्याच्या प्रक्रियेत 'निवळणे' नंतर काय करतात?",
+      "answer": "वरचे स्वच्छ पाणी दुसऱ्या भांड्यात ओततात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "आपत्ती व्यवस्थापनाचा उद्देश काय आहे?",
+      "answer": "जीवहानी आणि नुकसान टाळणे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "त्सुनामी म्हणजे काय?",
+      "answer": "समुद्रातील भूकंपामुळे निर्माण होणाऱ्या लाटा."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "दुष्काळात काय होते?",
+      "answer": "पाणी आणि अन्नाची कमतरता भासते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पाणी वाया घालवणे कसे थांबवता येईल?",
+      "answer": "नळ बंद करून आणि आवश्यक तेवढेच पाणी वापरून."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "गरजाधिष्ठित उपक्रम म्हणजे काय?",
+      "answer": "गरजांवर आधारित आणि उपयुक्त उपक्रम."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "बातम्यांचे वाचन कसे करावे?",
+      "answer": "स्पष्ट आवाजात आणि योग्य लयीत."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "पाणी गाळताना कापड कसे असावे?",
+      "answer": "स्वच्छ आणि धुतलेले."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "आपत्तीच्या वेळी घाबरून जावे का?",
+      "answer": "नाही, धैर्याने तोंड द्यावे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "घरात पाणी कसे साठवावे?",
+      "answer": "स्वच्छ आणि झाकण असलेल्या भांड्यात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "पर्यावरणपूरक बातमी म्हणजे काय?",
+      "answer": "पर्यावरणाचे रक्षण करण्याविषयीची बातमी."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "जलशुद्धीकरण केंद्राला भेट दिल्यावर काय करावे?",
+      "answer": "तिथल्या प्रक्रियेची माहिती घ्यावी."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "निसर्गनिर्मित आणि मानवनिर्मित आपत्तीमधील फरक सांगा.",
+      "answer": "निसर्गामुळे होणाऱ्या आपत्ती निसर्गनिर्मित आणि मानवाच्या चुकीमुळे होणाऱ्या मानवनिर्मित."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "बातमीमध्ये काय महत्त्वाचे असते?",
+      "answer": "खरी आणि अचूक माहिती."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "पाण्याचे स्रोत कोणते आहेत?",
+      "answer": "पाऊस, नदी, विहीर, तलाव, धरण इत्यादी."
+    }
+  ]
+}

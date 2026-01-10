@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.11",
+    "standard": "4",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Row your boat"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the title of the poem?",
+      "options": [
+        { "option_id": 1, "text": "Row your boat", "is_correct": true },
+        { "option_id": 2, "text": "Sail your ship", "is_correct": false },
+        { "option_id": 3, "text": "Drive your car", "is_correct": false },
+        { "option_id": 4, "text": "Fly your plane", "is_correct": false }
+      ],
+      "answer": "Row your boat"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which unit is this chapter from?",
+      "options": [
+        { "option_id": 1, "text": "Unit One", "is_correct": false },
+        { "option_id": 2, "text": "Unit Two", "is_correct": true },
+        { "option_id": 3, "text": "Unit Three", "is_correct": false },
+        { "option_id": 4, "text": "Unit Four", "is_correct": false }
+      ],
+      "answer": "Unit Two"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What vehicle is mentioned in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Car", "is_correct": false },
+        { "option_id": 2, "text": "Boat", "is_correct": true },
+        { "option_id": 3, "text": "Bus", "is_correct": false },
+        { "option_id": 4, "text": "Train", "is_correct": false }
+      ],
+      "answer": "Boat"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How should you row the boat?",
+      "options": [
+        { "option_id": 1, "text": "Fast", "is_correct": false },
+        { "option_id": 2, "text": "Hard", "is_correct": false },
+        { "option_id": 3, "text": "Gently", "is_correct": true },
+        { "option_id": 4, "text": "Slowly", "is_correct": false }
+      ],
+      "answer": "Gently"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Where do you row the boat?",
+      "options": [
+        { "option_id": 1, "text": "Down the road", "is_correct": false },
+        { "option_id": 2, "text": "Up the hill", "is_correct": false },
+        { "option_id": 3, "text": "Down the stream", "is_correct": true },
+        { "option_id": 4, "text": "Across the sea", "is_correct": false }
+      ],
+      "answer": "Down the stream"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What word is repeated three times in the first line?",
+      "options": [
+        { "option_id": 1, "text": "Boat", "is_correct": false },
+        { "option_id": 2, "text": "Row", "is_correct": true },
+        { "option_id": 3, "text": "Your", "is_correct": false },
+        { "option_id": 4, "text": "Down", "is_correct": false }
+      ],
+      "answer": "Row"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How should you sing this song?",
+      "options": [
+        { "option_id": 1, "text": "Sadly", "is_correct": false },
+        { "option_id": 2, "text": "Merrily", "is_correct": true },
+        { "option_id": 3, "text": "Angrily", "is_correct": false },
+        { "option_id": 4, "text": "Quietly", "is_correct": false }
+      ],
+      "answer": "Merrily"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is life compared to?",
+      "options": [
+        { "option_id": 1, "text": "A race", "is_correct": false },
+        { "option_id": 2, "text": "A dream", "is_correct": true },
+        { "option_id": 3, "text": "A game", "is_correct": false },
+        { "option_id": 4, "text": "A stream", "is_correct": false }
+      ],
+      "answer": "A dream"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'stream'?",
+      "options": [
+        { "option_id": 1, "text": "Boat", "is_correct": false },
+        { "option_id": 2, "text": "Row", "is_correct": false },
+        { "option_id": 3, "text": "Dream", "is_correct": true },
+        { "option_id": 4, "text": "Life", "is_correct": false }
+      ],
+      "answer": "Dream"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'boat'?",
+      "options": [
+        { "option_id": 1, "text": "Coat", "is_correct": true },
+        { "option_id": 2, "text": "Stream", "is_correct": false },
+        { "option_id": 3, "text": "Down", "is_correct": false },
+        { "option_id": 4, "text": "Row", "is_correct": false }
+      ],
+      "answer": "Coat"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'row'?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": false },
+        { "option_id": 2, "text": "Grow", "is_correct": true },
+        { "option_id": 3, "text": "Down", "is_correct": false },
+        { "option_id": 4, "text": "But", "is_correct": false }
+      ],
+      "answer": "Grow"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'down'?",
+      "options": [
+        { "option_id": 1, "text": "Town", "is_correct": true },
+        { "option_id": 2, "text": "Done", "is_correct": false },
+        { "option_id": 3, "text": "Don", "is_correct": false },
+        { "option_id": 4, "text": "Den", "is_correct": false }
+      ],
+      "answer": "Town"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'life'?",
+      "options": [
+        { "option_id": 1, "text": "Live", "is_correct": false },
+        { "option_id": 2, "text": "Leaf", "is_correct": false },
+        { "option_id": 3, "text": "Wife", "is_correct": true },
+        { "option_id": 4, "text": "Love", "is_correct": false }
+      ],
+      "answer": "Wife"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'but'?",
+      "options": [
+        { "option_id": 1, "text": "Put", "is_correct": false },
+        { "option_id": 2, "text": "Cut", "is_correct": true },
+        { "option_id": 3, "text": "Bet", "is_correct": false },
+        { "option_id": 4, "text": "Bat", "is_correct": false }
+      ],
+      "answer": "Cut"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "How many times is 'merrily' repeated?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Four", "is_correct": true },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Four"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'Gently'?",
+      "options": [
+        { "option_id": 1, "text": "Softly and carefully", "is_correct": true },
+        { "option_id": 2, "text": "Harshly", "is_correct": false },
+        { "option_id": 3, "text": "Quickly", "is_correct": false },
+        { "option_id": 4, "text": "Loudly", "is_correct": false }
+      ],
+      "answer": "Softly and carefully"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'Stream'?",
+      "options": [
+        { "option_id": 1, "text": "A small river", "is_correct": true },
+        { "option_id": 2, "text": "A road", "is_correct": false },
+        { "option_id": 3, "text": "A mountain", "is_correct": false },
+        { "option_id": 4, "text": "A field", "is_correct": false }
+      ],
+      "answer": "A small river"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the meaning of 'Merrily'?",
+      "options": [
+        { "option_id": 1, "text": "Sadly", "is_correct": false },
+        { "option_id": 2, "text": "Happily", "is_correct": true },
+        { "option_id": 3, "text": "Angrily", "is_correct": false },
+        { "option_id": 4, "text": "Sleepily", "is_correct": false }
+      ],
+      "answer": "Happily"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "How many groups should the class be divided into?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Three", "is_correct": false },
+        { "option_id": 3, "text": "Four", "is_correct": true },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Four"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "When does the second group start singing?",
+      "options": [
+        { "option_id": 1, "text": "After the first line of Group 1", "is_correct": true },
+        { "option_id": 2, "text": "After Group 1 finishes", "is_correct": false },
+        { "option_id": 3, "text": "With Group 1", "is_correct": false },
+        { "option_id": 4, "text": "Before Group 1", "is_correct": false }
+      ],
+      "answer": "After the first line of Group 1"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'stream' is:",
+      "options": [
+        { "option_id": 1, "text": "Streem", "is_correct": false },
+        { "option_id": 2, "text": "Strem", "is_correct": false },
+        { "option_id": 3, "text": "Stream", "is_correct": true },
+        { "option_id": 4, "text": "Straem", "is_correct": false }
+      ],
+      "answer": "Stream"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'dream' is:",
+      "options": [
+        { "option_id": 1, "text": "Drem", "is_correct": false },
+        { "option_id": 2, "text": "Dreem", "is_correct": false },
+        { "option_id": 3, "text": "Dream", "is_correct": true },
+        { "option_id": 4, "text": "Draem", "is_correct": false }
+      ],
+      "answer": "Dream"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'merrily' is:",
+      "options": [
+        { "option_id": 1, "text": "Merily", "is_correct": false },
+        { "option_id": 2, "text": "Merrily", "is_correct": true },
+        { "option_id": 3, "text": "Maryly", "is_correct": false },
+        { "option_id": 4, "text": "Meraly", "is_correct": false }
+      ],
+      "answer": "Merrily"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What page number is this chapter?",
+      "options": [
+        { "option_id": 1, "text": "14", "is_correct": false },
+        { "option_id": 2, "text": "15", "is_correct": true },
+        { "option_id": 3, "text": "16", "is_correct": false },
+        { "option_id": 4, "text": "13", "is_correct": false }
+      ],
+      "answer": "15"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What activity asks for rhyming words?",
+      "options": [
+        { "option_id": 1, "text": "Activity 1", "is_correct": false },
+        { "option_id": 2, "text": "Activity 2", "is_correct": true },
+        { "option_id": 3, "text": "Activity 3", "is_correct": false },
+        { "option_id": 4, "text": "Activity 4", "is_correct": false }
+      ],
+      "answer": "Activity 2"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the code on the page?",
+      "options": [
+        { "option_id": 1, "text": "T90XYL", "is_correct": true },
+        { "option_id": 2, "text": "A1B2C3", "is_correct": false },
+        { "option_id": 3, "text": "XYZ789", "is_correct": false },
+        { "option_id": 4, "text": "ROW123", "is_correct": false }
+      ],
+      "answer": "T90XYL"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Stream", "is_correct": false },
+        { "option_id": 2, "text": "Sea", "is_correct": true },
+        { "option_id": 3, "text": "Boat", "is_correct": false },
+        { "option_id": 4, "text": "Dream", "is_correct": false }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What kind of song is 'Row your boat'?",
+      "options": [
+        { "option_id": 1, "text": "A sad song", "is_correct": false },
+        { "option_id": 2, "text": "A popular song", "is_correct": true },
+        { "option_id": 3, "text": "A boring song", "is_correct": false },
+        { "option_id": 4, "text": "A difficult song", "is_correct": false }
+      ],
+      "answer": "A popular song"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'down'?",
+      "options": [
+        { "option_id": 1, "text": "Under", "is_correct": false },
+        { "option_id": 2, "text": "Up", "is_correct": true },
+        { "option_id": 3, "text": "Left", "is_correct": false },
+        { "option_id": 4, "text": "Right", "is_correct": false }
+      ],
+      "answer": "Up"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'gently'?",
+      "options": [
+        { "option_id": 1, "text": "Roughly", "is_correct": true },
+        { "option_id": 2, "text": "Softly", "is_correct": false },
+        { "option_id": 3, "text": "Slowly", "is_correct": false },
+        { "option_id": 4, "text": "Quietly", "is_correct": false }
+      ],
+      "answer": "Roughly"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What does 'Life is but a dream' mean?",
+      "options": [
+        { "option_id": 1, "text": "Life is fake", "is_correct": false },
+        { "option_id": 2, "text": "Life is pleasant and short like a dream", "is_correct": true },
+        { "option_id": 3, "text": "You are sleeping", "is_correct": false },
+        { "option_id": 4, "text": "You are tired", "is_correct": false }
+      ],
+      "answer": "Life is pleasant and short like a dream"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which word starts with 'S'?",
+      "options": [
+        { "option_id": 1, "text": "Row", "is_correct": false },
+        { "option_id": 2, "text": "Stream", "is_correct": true },
+        { "option_id": 3, "text": "Dream", "is_correct": false },
+        { "option_id": 4, "text": "Boat", "is_correct": false }
+      ],
+      "answer": "Stream"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which word starts with 'G'?",
+      "options": [
+        { "option_id": 1, "text": "Gently", "is_correct": true },
+        { "option_id": 2, "text": "Go", "is_correct": false },
+        { "option_id": 3, "text": "Get", "is_correct": false },
+        { "option_id": 4, "text": "Give", "is_correct": false }
+      ],
+      "answer": "Gently"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which word starts with 'M'?",
+      "options": [
+        { "option_id": 1, "text": "Merrily", "is_correct": true },
+        { "option_id": 2, "text": "Man", "is_correct": false },
+        { "option_id": 3, "text": "Moon", "is_correct": false },
+        { "option_id": 4, "text": "Me", "is_correct": false }
+      ],
+      "answer": "Merrily"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Identify the verb in the sentence: 'Row your boat.'",
+      "options": [
+        { "option_id": 1, "text": "Row", "is_correct": true },
+        { "option_id": 2, "text": "Your", "is_correct": false },
+        { "option_id": 3, "text": "Boat", "is_correct": false },
+        { "option_id": 4, "text": "Stream", "is_correct": false }
+      ],
+      "answer": "Row"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Identify the noun in 'Life is but a dream.'",
+      "options": [
+        { "option_id": 1, "text": "Is", "is_correct": false },
+        { "option_id": 2, "text": "But", "is_correct": false },
+        { "option_id": 3, "text": "Dream", "is_correct": true },
+        { "option_id": 4, "text": "A", "is_correct": false }
+      ],
+      "answer": "Dream"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The children are asked to ______ the song.",
+      "options": [
+        { "option_id": 1, "text": "Write", "is_correct": false },
+        { "option_id": 2, "text": "Sing", "is_correct": true },
+        { "option_id": 3, "text": "Draw", "is_correct": false },
+        { "option_id": 4, "text": "Dance", "is_correct": false }
+      ],
+      "answer": "Sing"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which action should be done 'aloud'?",
+      "options": [
+        { "option_id": 1, "text": "Reading", "is_correct": true },
+        { "option_id": 2, "text": "Sleeping", "is_correct": false },
+        { "option_id": 3, "text": "Sitting", "is_correct": false },
+        { "option_id": 4, "text": "Listening", "is_correct": false }
+      ],
+      "answer": "Reading"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What language is the pronunciation guide in?",
+      "options": [
+        { "option_id": 1, "text": "Hindi", "is_correct": false },
+        { "option_id": 2, "text": "Marathi", "is_correct": true },
+        { "option_id": 3, "text": "Gujarati", "is_correct": false },
+        { "option_id": 4, "text": "Kannada", "is_correct": false }
+      ],
+      "answer": "Marathi"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'life'?",
+      "options": [
+        { "option_id": 1, "text": "Birth", "is_correct": false },
+        { "option_id": 2, "text": "Death", "is_correct": true },
+        { "option_id": 3, "text": "Live", "is_correct": false },
+        { "option_id": 4, "text": "Grow", "is_correct": false }
+      ],
+      "answer": "Death"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "The activity suggests singing in a ______ manner.",
+      "options": [
+        { "option_id": 1, "text": "Round / Canon", "is_correct": true },
+        { "option_id": 2, "text": "Solo", "is_correct": false },
+        { "option_id": 3, "text": "Silent", "is_correct": false },
+        { "option_id": 4, "text": "Whisper", "is_correct": false }
+      ],
+      "answer": "Round / Canon"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which word means 'happily'?",
+      "options": [
+        { "option_id": 1, "text": "Gently", "is_correct": false },
+        { "option_id": 2, "text": "Merrily", "is_correct": true },
+        { "option_id": 3, "text": "Sadly", "is_correct": false },
+        { "option_id": 4, "text": "Angrily", "is_correct": false }
+      ],
+      "answer": "Merrily"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which word is a pronoun?",
+      "options": [
+        { "option_id": 1, "text": "Row", "is_correct": false },
+        { "option_id": 2, "text": "Your", "is_correct": true },
+        { "option_id": 3, "text": "Boat", "is_correct": false },
+        { "option_id": 4, "text": "Stream", "is_correct": false }
+      ],
+      "answer": "Your"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which word is a preposition?",
+      "options": [
+        { "option_id": 1, "text": "Boat", "is_correct": false },
+        { "option_id": 2, "text": "Down", "is_correct": true },
+        { "option_id": 3, "text": "Stream", "is_correct": false },
+        { "option_id": 4, "text": "Dream", "is_correct": false }
+      ],
+      "answer": "Down"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "How many lines are in the poem?",
+      "options": [
+        { "option_id": 1, "text": "Two", "is_correct": false },
+        { "option_id": 2, "text": "Four", "is_correct": true },
+        { "option_id": 3, "text": "Six", "is_correct": false },
+        { "option_id": 4, "text": "Eight", "is_correct": false }
+      ],
+      "answer": "Four"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What should the fourth group do after the third group starts?",
+      "options": [
+        { "option_id": 1, "text": "Start singing", "is_correct": true },
+        { "option_id": 2, "text": "Stop singing", "is_correct": false },
+        { "option_id": 3, "text": "Sit down", "is_correct": false },
+        { "option_id": 4, "text": "Leave", "is_correct": false }
+      ],
+      "answer": "Start singing"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What is 'stream' in Marathi?",
+      "options": [
+        { "option_id": 1, "text": "नदी / प्रवाह", "is_correct": true },
+        { "option_id": 2, "text": "डोंगर", "is_correct": false },
+        { "option_id": 3, "text": "घर", "is_correct": false },
+        { "option_id": 4, "text": "झाड", "is_correct": false }
+      ],
+      "answer": "नदी / प्रवाह"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is 'dream' in Marathi?",
+      "options": [
+        { "option_id": 1, "text": "स्वप्न", "is_correct": true },
+        { "option_id": 2, "text": "सत्य", "is_correct": false },
+        { "option_id": 3, "text": "झोप", "is_correct": false },
+        { "option_id": 4, "text": "जागे", "is_correct": false }
+      ],
+      "answer": "स्वप्न"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What is 'boat' in Marathi?",
+      "options": [
+        { "option_id": 1, "text": "होडी", "is_correct": true },
+        { "option_id": 2, "text": "गाडी", "is_correct": false },
+        { "option_id": 3, "text": "विमान", "is_correct": false },
+        { "option_id": 4, "text": "सायकल", "is_correct": false }
+      ],
+      "answer": "होडी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is 'life' in Marathi?",
+      "options": [
+        { "option_id": 1, "text": "जीवन / आयुष्य", "is_correct": true },
+        { "option_id": 2, "text": "मरण", "is_correct": false },
+        { "option_id": 3, "text": "खेळ", "is_correct": false },
+        { "option_id": 4, "text": "काम", "is_correct": false }
+      ],
+      "answer": "जीवन / आयुष्य"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What rhymes with 'Row'?",
+      "answer": "Grow / Low / Slow."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What rhymes with 'Boat'?",
+      "answer": "Coat / Goat / Float."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What rhymes with 'Down'?",
+      "answer": "Town / Clown / Gown."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What rhymes with 'Stream'?",
+      "answer": "Dream / Team / Beam."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What rhymes with 'Life'?",
+      "answer": "Wife / Knife."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What rhymes with 'But'?",
+      "answer": "Cut / Hut / Nut."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'Gently'.",
+      "answer": "G-E-N-T-L-Y."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'Merrily'.",
+      "answer": "M-E-R-R-I-L-Y."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'Stream'.",
+      "answer": "S-T-R-E-A-M."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'Dream'.",
+      "answer": "D-R-E-A-M."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'Merrily'?",
+      "answer": "Sadly."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'Gently'?",
+      "answer": "Roughly."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'Life'?",
+      "answer": "Death."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'Down'?",
+      "answer": "Up."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the Marathi meaning of 'Sing'?",
+      "answer": "गाणे (Gane)."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What action are you asked to do besides reading?",
+      "answer": "Listen, repeat, and sing."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How many groups should the class form?",
+      "answer": "Four groups."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What kind of boat is it?",
+      "answer": "Row boat (Your boat)."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Is the song happy or sad?",
+      "answer": "Happy (Merrily)."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What unit is this song in?",
+      "answer": "Unit Two."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What page is this song on?",
+      "answer": "Page 15."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the code on the page?",
+      "answer": "T90XYL."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Complete the line: Row, row, row your ______.",
+      "answer": "Boat."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Complete the line: Gently down the ______.",
+      "answer": "Stream."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Complete the line: Merrily, merrily, merrily, ______.",
+      "answer": "Merrily."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Complete the line: Life is but a ______.",
+      "answer": "Dream."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What comes after the second line?",
+      "answer": "Merrily, merrily, merrily, merrily."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What comes after the third line?",
+      "answer": "Life is but a dream."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What activity involves creating groups?",
+      "answer": "Singing in rounds."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What must you do first?",
+      "answer": "Listen."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'Row'?",
+      "answer": "Rowed."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'Dream'?",
+      "answer": "Dreamt / Dreamed."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Identify the adverb in 'Gently down the stream'.",
+      "answer": "Gently."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Identify the adverb in 'Merrily...'.",
+      "answer": "Merrily."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the first group doing while the second group starts?",
+      "answer": "Singing the second line."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is 'stream' similar to?",
+      "answer": "River / Brook."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What implies that the water is moving?",
+      "answer": "Down the stream."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Can you use this song for a game?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What instrument might accompany this song?",
+      "answer": "Any (or none, just voice)."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Is 'but' a conjunction here?",
+      "answer": "Yes (or preposition meaning 'only')."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What does 'read aloud' mean?",
+      "answer": "To speak the words so others can hear."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the purpose of the activity?",
+      "answer": "To learn the song and rhymes."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How many lines in the poem?",
+      "answer": "Four."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the Marathi instruction for 'Tell other words that rhyme'?",
+      "answer": "खालील शब्दांशी यमक जुळणारे इतर शब्द सांगा."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which word describes the movement of the boat?",
+      "answer": "Gently."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which word describes the mood?",
+      "answer": "Merrily."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Is 'dream' real?",
+      "answer": "No."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What should the first group do when finished?",
+      "answer": "Stop singing."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What sequence do the groups stop in?",
+      "answer": "In order (1, 2, 3, 4)."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is this song called in Marathi instruction?",
+      "answer": "एक लोकप्रिय गाणे (A popular song)."
+    }
+  ]
+}

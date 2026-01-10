@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.06",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "मायेची पाखर"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या पाठाचे लेखक कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "द. ना. गव्हाणकर", "is_correct": false },
+        { "option_id": 2, "text": "पां. चिं. पाटील", "is_correct": true },
+        { "option_id": 3, "text": "साने गुरुजी", "is_correct": false },
+        { "option_id": 4, "text": "पु. ल. देशपांडे", "is_correct": false }
+      ],
+      "answer": "पां. चिं. पाटील"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "लेखकाला कोणाबद्दल अत्यंत आदर आहे?",
+      "options": [
+        { "option_id": 1, "text": "कर्मवीर भाऊराव पाटील", "is_correct": true },
+        { "option_id": 2, "text": "लोकमान्य टिळक", "is_correct": false },
+        { "option_id": 3, "text": "महात्मा गांधी", "is_correct": false },
+        { "option_id": 4, "text": "सावित्रीबाई फुले", "is_correct": false }
+      ],
+      "answer": "कर्मवीर भाऊराव पाटील"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "लेखक पुण्याला जाताना वाटेत कुठे थांबले?",
+      "options": [
+        { "option_id": 1, "text": "कोल्हापूरला", "is_correct": false },
+        { "option_id": 2, "text": "सातारला", "is_correct": true },
+        { "option_id": 3, "text": "कराडला", "is_correct": false },
+        { "option_id": 4, "text": "महाबळेश्वरला", "is_correct": false }
+      ],
+      "answer": "सातारला"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सर्वजण भाऊरावांना काय म्हणत असत?",
+      "options": [
+        { "option_id": 1, "text": "दादा", "is_correct": false },
+        { "option_id": 2, "text": "तात्या", "is_correct": false },
+        { "option_id": 3, "text": "अण्णा", "is_correct": true },
+        { "option_id": 4, "text": "बाबा", "is_correct": false }
+      ],
+      "answer": "अण्णा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अण्णांनी लेखकाला काय दाखवण्यासाठी नेले?",
+      "options": [
+        { "option_id": 1, "text": "घर", "is_correct": false },
+        { "option_id": 2, "text": "संस्था", "is_correct": true },
+        { "option_id": 3, "text": "बाजार", "is_correct": false },
+        { "option_id": 4, "text": "मंदिर", "is_correct": false }
+      ],
+      "answer": "संस्था"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अण्णांनी लेखकाला कशाचा आग्रह केला?",
+      "options": [
+        { "option_id": 1, "text": "जेवणाचा", "is_correct": false },
+        { "option_id": 2, "text": "जाण्याचा", "is_correct": false },
+        { "option_id": 3, "text": "इथंच मुक्काम करण्याचा", "is_correct": true },
+        { "option_id": 4, "text": "गाणे म्हणण्याचा", "is_correct": false }
+      ],
+      "answer": "इथंच मुक्काम करण्याचा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "संस्थेच्या आवारात कोणते मोठे झाड होते?",
+      "options": [
+        { "option_id": 1, "text": "पिंपळाचे", "is_correct": false },
+        { "option_id": 2, "text": "वडाचे", "is_correct": true },
+        { "option_id": 3, "text": "आंब्याचे", "is_correct": false },
+        { "option_id": 4, "text": "लिंबाचे", "is_correct": false }
+      ],
+      "answer": "वडाचे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ते दिवस कसले होते?",
+      "options": [
+        { "option_id": 1, "text": "पावसाचे", "is_correct": false },
+        { "option_id": 2, "text": "उन्हाळ्याचे", "is_correct": false },
+        { "option_id": 3, "text": "थंडीचे", "is_correct": true },
+        { "option_id": 4, "text": "सणाचे", "is_correct": false }
+      ],
+      "answer": "थंडीचे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मुले कशाच्या खोल्यांतून राहत होती?",
+      "options": [
+        { "option_id": 1, "text": "सिमेंटच्या", "is_correct": false },
+        { "option_id": 2, "text": "मातीच्या", "is_correct": false },
+        { "option_id": 3, "text": "पत्र्याच्या", "is_correct": true },
+        { "option_id": 4, "text": "विटांच्या", "is_correct": false }
+      ],
+      "answer": "पत्र्याच्या"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "लेखकांनी जेवणाची टाळाटाळ का केली?",
+      "options": [
+        { "option_id": 1, "text": "त्यांचे पोट भरले होते", "is_correct": false },
+        { "option_id": 2, "text": "त्यांना भूक नव्हती", "is_correct": false },
+        { "option_id": 3, "text": "वसतिगृहाच्या मुलांनी केलेले जेवण कसे असणार या विचाराने", "is_correct": true },
+        { "option_id": 4, "text": "त्यांना उपवास होता", "is_correct": false }
+      ],
+      "answer": "वसतिगृहाच्या मुलांनी केलेले जेवण कसे असणार या विचाराने"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'पोटात कावळे ओरडणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पोट दुखणे", "is_correct": false },
+        { "option_id": 2, "text": "खूप तहान लागणे", "is_correct": false },
+        { "option_id": 3, "text": "खूप भूक लागणे", "is_correct": true },
+        { "option_id": 4, "text": "पोटात आवाज येणे", "is_correct": false }
+      ],
+      "answer": "खूप भूक लागणे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अण्णांनी मुलाला कोठून जेवण आणायला सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "हॉटेलमधून", "is_correct": false },
+        { "option_id": 2, "text": "बाजारातून", "is_correct": false },
+        { "option_id": 3, "text": "शेजाऱ्यांकडून", "is_correct": false },
+        { "option_id": 4, "text": "स्वयंपाकघरातून", "is_correct": true }
+      ],
+      "answer": "स्वयंपाकघरातून"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मुलाने ताटात काय काय आणले?",
+      "options": [
+        { "option_id": 1, "text": "पोळी-भाजी", "is_correct": false },
+        { "option_id": 2, "text": "पिठले, भाकरी, कांदा, तेल", "is_correct": true },
+        { "option_id": 3, "text": "वरण-भात", "is_correct": false },
+        { "option_id": 4, "text": "मिठाई", "is_correct": false }
+      ],
+      "answer": "पिठले, भाकरी, कांदा, तेल"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "लेखकाला ते जेवण कशापेक्षा रुचकर लागले?",
+      "options": [
+        { "option_id": 1, "text": "हॉटेलच्या जेवणापेक्षा", "is_correct": false },
+        { "option_id": 2, "text": "घरच्या जेवणापेक्षा", "is_correct": false },
+        { "option_id": 3, "text": "पंचपक्वान्नांपेक्षाही", "is_correct": true },
+        { "option_id": 4, "text": "लाडू-करंजीपेक्षा", "is_correct": false }
+      ],
+      "answer": "पंचपक्वान्नांपेक्षाही"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मध्यरात्री लेखकाला जाग का आली?",
+      "options": [
+        { "option_id": 1, "text": "कशाची तरी चाहूल लागून", "is_correct": true },
+        { "option_id": 2, "text": "थंडी वाजल्यामुळे", "is_correct": false },
+        { "option_id": 3, "text": "आवाज झाल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "भूक लागल्यामुळे", "is_correct": false }
+      ],
+      "answer": "कशाची तरी चाहूल लागून"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "अण्णांच्या हातात काय होते?",
+      "options": [
+        { "option_id": 1, "text": "काठी", "is_correct": false },
+        { "option_id": 2, "text": "टॉर्च", "is_correct": false },
+        { "option_id": 3, "text": "पुस्तक", "is_correct": false },
+        { "option_id": 4, "text": "कंदील", "is_correct": true }
+      ],
+      "answer": "कंदील"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "अण्णा मुलांकडे काय पाहत होते?",
+      "options": [
+        { "option_id": 1, "text": "ते अभ्यास करत आहेत की नाही", "is_correct": false },
+        { "option_id": 2, "text": "त्यांना झोप लागली आहे की नाही, अंगावर पांघरूण आहे की नाही", "is_correct": true },
+        { "option_id": 3, "text": "ते गप्पा मारत आहेत का", "is_correct": false },
+        { "option_id": 4, "text": "खिडक्या उघड्या आहेत का", "is_correct": false }
+      ],
+      "answer": "त्यांना झोप लागली आहे की नाही, अंगावर पांघरूण आहे की नाही"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "एक मुलगा कशामुळे कुडकुडत होता?",
+      "options": [
+        { "option_id": 1, "text": "भीतीने", "is_correct": false },
+        { "option_id": 2, "text": "तापाने", "is_correct": false },
+        { "option_id": 3, "text": "थंडीने", "is_correct": true },
+        { "option_id": 4, "text": "भुकेंने", "is_correct": false }
+      ],
+      "answer": "थंडीने"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "अण्णांनी थंडीने कुडकुडणाऱ्या मुलाला कोठे नेले?",
+      "options": [
+        { "option_id": 1, "text": "दवाखान्यात", "is_correct": false },
+        { "option_id": 2, "text": "दुसऱ्या खोलीत", "is_correct": false },
+        { "option_id": 3, "text": "स्वतःच्या बिछान्यावर", "is_correct": true },
+        { "option_id": 4, "text": "घरी", "is_correct": false }
+      ],
+      "answer": "स्वतःच्या बिछान्यावर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "अण्णांनी मुलाच्या अंगावर काय घातले?",
+      "options": [
+        { "option_id": 1, "text": "चादर", "is_correct": false },
+        { "option_id": 2, "text": "गोधडी", "is_correct": false },
+        { "option_id": 3, "text": "स्वतःची कांबळी", "is_correct": true },
+        { "option_id": 4, "text": "कोट", "is_correct": false }
+      ],
+      "answer": "स्वतःची कांबळी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अण्णांनी मुलाला पोटाशी का धरले?",
+      "options": [
+        { "option_id": 1, "text": "त्याला मारण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "त्याला ऊब मिळण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "त्याला रागवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "त्याला झोपवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "त्याला ऊब मिळण्यासाठी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "अण्णांनी मुलांवर कसला वर्षाव केला होता?",
+      "options": [
+        { "option_id": 1, "text": "पैशाचा", "is_correct": false },
+        { "option_id": 2, "text": "फुलांचा", "is_correct": false },
+        { "option_id": 3, "text": "पित्याच्या प्रेमाचा आणि मातेच्या मायेचा", "is_correct": true },
+        { "option_id": 4, "text": "बक्षिसांचा", "is_correct": false }
+      ],
+      "answer": "पित्याच्या प्रेमाचा आणि मातेच्या मायेचा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "'मायेची पाखर' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पक्षाचे पंख", "is_correct": false },
+        { "option_id": 2, "text": "खूप प्रेम करणे/माया करणे", "is_correct": true },
+        { "option_id": 3, "text": "एक प्रकारचे झाड", "is_correct": false },
+        { "option_id": 4, "text": "पावसाची सर", "is_correct": false }
+      ],
+      "answer": "खूप प्रेम करणे/माया करणे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सकाळी उठल्यावर लेखक अण्णांना कसे भेटले?",
+      "options": [
+        { "option_id": 1, "text": "हात जोडून", "is_correct": false },
+        { "option_id": 2, "text": "नमस्कार करून", "is_correct": false },
+        { "option_id": 3, "text": "कडकडून", "is_correct": true },
+        { "option_id": 4, "text": "दूरूनच", "is_correct": false }
+      ],
+      "answer": "कडकडून"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "लेखकाने अण्णांना कोणाचे पालक म्हटले?",
+      "options": [
+        { "option_id": 1, "text": "फक्त संस्थेच्या मुलांचे", "is_correct": false },
+        { "option_id": 2, "text": "महाराष्ट्रातील गोरगरिबांच्या मुलांचे", "is_correct": true },
+        { "option_id": 3, "text": "स्वतःच्या मुलांचे", "is_correct": false },
+        { "option_id": 4, "text": "गावातील मुलांचे", "is_correct": false }
+      ],
+      "answer": "महाराष्ट्रातील गोरगरिबांच्या मुलांचे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "अण्णांनी कोणत्या संस्थेच्या माध्यमातून शाळा सुरू केल्या?",
+      "options": [
+        { "option_id": 1, "text": "रयत शिक्षण संस्था", "is_correct": true },
+        { "option_id": 2, "text": "डेक्कन एज्युकेशन सोसायटी", "is_correct": false },
+        { "option_id": 3, "text": "भारत शिक्षण संस्था", "is_correct": false },
+        { "option_id": 4, "text": "पुणे विद्यापीठ", "is_correct": false }
+      ],
+      "answer": "रयत शिक्षण संस्था"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "अण्णांना सर्वजण कोणत्या नावाने ओळखतात?",
+      "options": [
+        { "option_id": 1, "text": "समाजसुधारक", "is_correct": false },
+        { "option_id": 2, "text": "कर्मवीर", "is_correct": true },
+        { "option_id": 3, "text": "लोकमान्य", "is_correct": false },
+        { "option_id": 4, "text": "स्वातंत्र्यवीर", "is_correct": false }
+      ],
+      "answer": "कर्मवीर"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "'अधाशी' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "अर्धा", "is_correct": false },
+        { "option_id": 2, "text": "हावरा / खादाड", "is_correct": true },
+        { "option_id": 3, "text": "हुशार", "is_correct": false },
+        { "option_id": 4, "text": "गरीब", "is_correct": false }
+      ],
+      "answer": "हावरा / खादाड"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "'डोळा लागणे' या वाक्प्रचाराचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "डोळा दुखणे", "is_correct": false },
+        { "option_id": 2, "text": "डोळ्यात कचरा जाणे", "is_correct": false },
+        { "option_id": 3, "text": "झोप लागणे", "is_correct": true },
+        { "option_id": 4, "text": "जाग येणे", "is_correct": false }
+      ],
+      "answer": "झोप लागणे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "'टाळाटाळ करणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "टाळ्या वाजवणे", "is_correct": false },
+        { "option_id": 2, "text": "एखादी गोष्ट करायचे टाळणे", "is_correct": true },
+        { "option_id": 3, "text": "कुलूप लावणे", "is_correct": false },
+        { "option_id": 4, "text": "वेळेवर करणे", "is_correct": false }
+      ],
+      "answer": "एखादी गोष्ट करायचे टाळणे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "'रुचकर' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "कडू", "is_correct": false },
+        { "option_id": 2, "text": "चवदार", "is_correct": true },
+        { "option_id": 3, "text": "तिखट", "is_correct": false },
+        { "option_id": 4, "text": "पाचट", "is_correct": false }
+      ],
+      "answer": "चवदार"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "'उदंड' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "कमी", "is_correct": false },
+        { "option_id": 2, "text": "थोडे", "is_correct": false },
+        { "option_id": 3, "text": "खूप / पुष्कळ", "is_correct": true },
+        { "option_id": 4, "text": "दंड करणे", "is_correct": false }
+      ],
+      "answer": "खूप / पुष्कळ"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "लेखकाने अण्णांना काय मिळावे अशी इच्छा व्यक्त केली?",
+      "options": [
+        { "option_id": 1, "text": "पैसे", "is_correct": false },
+        { "option_id": 2, "text": "प्रसिद्धी", "is_correct": false },
+        { "option_id": 3, "text": "उदंड आयुष्य", "is_correct": true },
+        { "option_id": 4, "text": "शक्ती", "is_correct": false }
+      ],
+      "answer": "उदंड आयुष्य"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "हे सर्व लेखकाने कसे पाहिले?",
+      "options": [
+        { "option_id": 1, "text": "स्वप्नात", "is_correct": false },
+        { "option_id": 2, "text": "उघड्या डोळ्यांनी", "is_correct": true },
+        { "option_id": 3, "text": "खिडकीतून", "is_correct": false },
+        { "option_id": 4, "text": "टीव्हीवर", "is_correct": false }
+      ],
+      "answer": "उघड्या डोळ्यांनी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कर्मवीर भाऊराव पाटील यांनी उच्च शिक्षणासाठी काय सुरू केले?",
+      "options": [
+        { "option_id": 1, "text": "शाळा", "is_correct": false },
+        { "option_id": 2, "text": "महाविद्यालये", "is_correct": true },
+        { "option_id": 3, "text": "दवाखाने", "is_correct": false },
+        { "option_id": 4, "text": "कंपन्या", "is_correct": false }
+      ],
+      "answer": "महाविद्यालये"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "'बिछाना' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "अंथरूण", "is_correct": true },
+        { "option_id": 2, "text": "पांघरूण", "is_correct": false },
+        { "option_id": 3, "text": "उशी", "is_correct": false },
+        { "option_id": 4, "text": "सतरंजी", "is_correct": false }
+      ],
+      "answer": "अंथरूण"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "मुलांना कोणी नव्हते?",
+      "options": [
+        { "option_id": 1, "text": "मित्र", "is_correct": false },
+        { "option_id": 2, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 3, "text": "आई-वडील (अनेक मुलांना)", "is_correct": true },
+        { "option_id": 4, "text": "शेजारी", "is_correct": false }
+      ],
+      "answer": "आई-वडील (अनेक मुलांना)"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "लेखकांनी कोणाच्या शब्दांचा अर्थ समजून घेण्यास सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "कावळा", "is_correct": false },
+        { "option_id": 2, "text": "पुस्तक", "is_correct": true },
+        { "option_id": 3, "text": "झाड", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "पुस्तक"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "'पुस्तक' शब्दाचे 'पुस्तकावर' हे कोणते रूप आहे?",
+      "options": [
+        { "option_id": 1, "text": "सामान्यरूप / विभक्ति रूप", "is_correct": true },
+        { "option_id": 2, "text": "मूळ रूप", "is_correct": false },
+        { "option_id": 3, "text": "क्रियापद", "is_correct": false },
+        { "option_id": 4, "text": "विशेषण", "is_correct": false }
+      ],
+      "answer": "सामान्यरूप / विभक्ति रूप"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "स्वाध्यायात 'डुक्कर' या शब्दाचे योग्य रूप वापरून वाक्य पूर्ण करायचे आहे: '_____ आपल्याला चामडे मिळते.'",
+      "options": [
+        { "option_id": 1, "text": "डुकरापासून", "is_correct": true },
+        { "option_id": 2, "text": "डुक्कर", "is_correct": false },
+        { "option_id": 3, "text": "डुकरांना", "is_correct": false },
+        { "option_id": 4, "text": "डुकरे", "is_correct": false }
+      ],
+      "answer": "डुकरापासून"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "अण्णांनी मुलाला पोटाशी का धरले?",
+      "options": [
+        { "option_id": 1, "text": "त्याला भीती वाटत होती म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "त्याला थंडी वाजत होती म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "तो रडत होता म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "त्याला भूक लागली होती म्हणून", "is_correct": false }
+      ],
+      "answer": "त्याला थंडी वाजत होती म्हणून"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "अण्णा कोठे बसले होते?",
+      "options": [
+        { "option_id": 1, "text": "खुर्चीत", "is_correct": false },
+        { "option_id": 2, "text": "झाडाखाली", "is_correct": false },
+        { "option_id": 3, "text": "पत्र्याच्या खोलीत", "is_correct": true },
+        { "option_id": 4, "text": "गाडीत", "is_correct": false }
+      ],
+      "answer": "पत्र्याच्या खोलीत"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "लेखक कशासारखे अन्नावर तुटून पडले?",
+      "options": [
+        { "option_id": 1, "text": "भुकेल्यासारखे", "is_correct": false },
+        { "option_id": 2, "text": "अधाश्यासारखे", "is_correct": true },
+        { "option_id": 3, "text": "रागावून", "is_correct": false },
+        { "option_id": 4, "text": "हळूहळू", "is_correct": false }
+      ],
+      "answer": "अधाश्यासारखे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "संस्थेच्या परिसरातील झाडी कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "विरळ", "is_correct": false },
+        { "option_id": 2, "text": "गर्द", "is_correct": true },
+        { "option_id": 3, "text": "सुकलेली", "is_correct": false },
+        { "option_id": 4, "text": "काटेरी", "is_correct": false }
+      ],
+      "answer": "गर्द"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "लेखकाने अण्णांना 'नुकतंच जेवण झालंय' असे का सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "कारण त्यांना खरेच भूक नव्हती", "is_correct": false },
+        { "option_id": 2, "text": "कारण त्यांनी डबा आणला होता", "is_correct": false },
+        { "option_id": 3, "text": "कारण वसतिगृहाचे जेवण चांगले नसेल असे त्यांना वाटले", "is_correct": true },
+        { "option_id": 4, "text": "कारण त्यांना हॉटेलमध्ये जायचे होते", "is_correct": false }
+      ],
+      "answer": "कारण वसतिगृहाचे जेवण चांगले नसेल असे त्यांना वाटले"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "मुलाची झोप कशी झाली?",
+      "options": [
+        { "option_id": 1, "text": "मोडकी", "is_correct": false },
+        { "option_id": 2, "text": "गाढ", "is_correct": true },
+        { "option_id": 3, "text": "बेचैन", "is_correct": false },
+        { "option_id": 4, "text": "अपूर्ण", "is_correct": false }
+      ],
+      "answer": "गाढ"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "'अलगत' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "जोरात", "is_correct": false },
+        { "option_id": 2, "text": "हळूच", "is_correct": true },
+        { "option_id": 3, "text": "धक्क्याने", "is_correct": false },
+        { "option_id": 4, "text": "पट्कन", "is_correct": false }
+      ],
+      "answer": "हळूच"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "अण्णांच्या कार्यामुळे त्यांना काय ओळखले जाते?",
+      "options": [
+        { "option_id": 1, "text": "समाजसेवक", "is_correct": false },
+        { "option_id": 2, "text": "कर्मवीर", "is_correct": true },
+        { "option_id": 3, "text": "देशभक्त", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षक", "is_correct": false }
+      ],
+      "answer": "कर्मवीर"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "अण्णांनी कोणत्या क्षेत्रातील उत्तुंग कार्य केले?",
+      "options": [
+        { "option_id": 1, "text": "राजकीय", "is_correct": false },
+        { "option_id": 2, "text": "क्रीडा", "is_correct": false },
+        { "option_id": 3, "text": "शैक्षणिक", "is_correct": true },
+        { "option_id": 4, "text": "सांस्कृतिक", "is_correct": false }
+      ],
+      "answer": "शैक्षणिक"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणता संदेश मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "खोटे बोलावे", "is_correct": false },
+        { "option_id": 2, "text": "दुसऱ्यांची मदत करावी व प्रेम करावे", "is_correct": true },
+        { "option_id": 3, "text": "जेवण टाळावे", "is_correct": false },
+        { "option_id": 4, "text": "आळशी असावे", "is_correct": false }
+      ],
+      "answer": "दुसऱ्यांची मदत करावी व प्रेम करावे"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "लेखकाला कोणाबद्दल आदर आहे?",
+      "answer": "लेखकाला कर्मवीर भाऊराव पाटील यांच्याबद्दल अत्यंत आदर आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "लेखक सातारला का थांबले?",
+      "answer": "लेखक पुण्याला जाताना वाटेत भाऊरावांना भेटावे म्हणून सातारला थांबले."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "अण्णांनी लेखकाला काय आग्रह केला?",
+      "answer": "अण्णांनी लेखकाला तिथेच मुक्काम करण्याचा आग्रह केला."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "संस्थेच्या आवारात कोणते झाड होते?",
+      "answer": "संस्थेच्या आवारात एक मोठे वडाचे झाड होते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "मुले कोठे राहत होती?",
+      "answer": "मुले पत्र्याच्या खोल्यांतून राहत होती."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "लेखकाने जेवणाची टाळाटाळ का केली?",
+      "answer": "वसतिगृहाच्या मुलांनी केलेले जेवण कसे असणार या संकोचाने लेखकाने जेवणाची टाळाटाळ केली."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "लेखकाच्या पोटात काय ओरडत होते?",
+      "answer": "लेखकाच्या पोटात कावळे ओरडत होते (त्यांना खूप भूक लागली होती)."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अण्णांनी मुलाला काय आज्ञा केली?",
+      "answer": "अण्णांनी मुलाला स्वयंपाकघरात काही शिल्लक असेल ते घेऊन येण्याची आज्ञा केली."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मुलाने लेखकासाठी काय आणले?",
+      "answer": "मुलाने लेखकासाठी पिठले, भाकरी, कांदा आणि तेल आणले."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "लेखकाला जेवण कसे लागले?",
+      "answer": "लेखकाला ते जेवण पंचपक्वान्नांपेक्षाही रुचकर लागले."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "मध्यरात्री अण्णा काय करत होते?",
+      "answer": "मध्यरात्री अण्णा हातात कंदील घेऊन प्रत्येक मुलाला झोप लागली की नाही आणि अंगावर पांघरूण आहे की नाही ते पाहत होते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "अण्णांनी थंडीने कुडकुडणाऱ्या मुलाला पाहून काय केले?",
+      "answer": "अण्णांनी त्याला उचलून स्वतःच्या बिछान्यावर झोपवले आणि स्वतःची कांबळी त्याच्या अंगावर घातली."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "अण्णांनी मुलाला ऊब कशी दिली?",
+      "answer": "अण्णांनी मुलाला अगदी आपल्या पोटाशी धरून ऊब दिली."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "अण्णांची माया कोणासारखी होती?",
+      "answer": "अण्णांची माया माता-पित्यासारखी होती."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "लेखकाने सकाळी उठून अण्णांना काय म्हटले?",
+      "answer": "लेखक म्हणाले, \"अण्णा, आपण खरेखुरे या मुलांचे आईबाप आहात. महाराष्ट्रातील गोरगरिबांच्या मुलांचे आपण पालक आहात.\""
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "लेखकाने अण्णांना कोणता आशीर्वाद दिला?",
+      "answer": "लेखकाने अण्णांना \"आपणांस उदंड आयुष्य मिळो!\" असे म्हटले."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "अण्णा आयुष्यभर कशासाठी झटले?",
+      "answer": "अण्णा आयुष्यभर गोरगरिबांच्या मुलामुलींच्या शिक्षणासाठी झटले."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कर्मवीर भाऊराव पाटील यांनी कोणती संस्था स्थापन केली?",
+      "answer": "कर्मवीर भाऊराव पाटील यांनी 'रयत शिक्षण संस्था' स्थापन केली."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "'मायेची पाखर' या शीर्षकाचा अर्थ काय?",
+      "answer": "पक्षी जसे आपल्या पिल्लांना पंखाखाली घेतात, तसे अण्णांनी मुलांवर मायेची छाया धरली."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "'पोटात कावळे ओरडणे' या वाक्प्रचाराचा अर्थ सांगा.",
+      "answer": "पोटात कावळे ओरडणे म्हणजे खूप भूक लागणे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "'डोळा लागणे' म्हणजे काय?",
+      "answer": "डोळा लागणे म्हणजे झोप लागणे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "अधाशी म्हणजे कोण?",
+      "answer": "अधाशी म्हणजे खूप हावरा किंवा खादाड माणूस."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "लेखक उपाशी आहेत हे अण्णांनी कसे ओळखले?",
+      "answer": "लेखक झोप येत नसल्यामुळे पडल्या पडल्या जागेच होते, त्यावरून अण्णांनी ओळखले की लेखक उपाशी आहेत."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "अण्णांनी मुलाला आपल्या बिछान्यावर का आणले?",
+      "answer": "तो मुलगा थंडीने खूप कुडकुडत होता, म्हणून त्याला उबदार ठिकाणी झोपवण्यासाठी अण्णांनी त्याला आपल्या बिछान्यावर आणले."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "हा प्रसंग लेखकाने कसा पाहिला?",
+      "answer": "हा प्रसंग लेखकाने मध्यरात्री जाग आल्यावर उघड्या डोळ्यांनी पाहिला."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "रयत शिक्षण संस्थेच्या माध्यमातून अण्णांनी काय सुरू केले?",
+      "answer": "रयत शिक्षण संस्थेच्या माध्यमातून अण्णांनी महाराष्ट्रभर शाळा आणि उच्च शिक्षणासाठी महाविद्यालये सुरू केली."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "'टाळाटाळ करणे' या वाक्प्रचाराचा वाक्यात उपयोग करा.",
+      "answer": "रमेशने अभ्यासाची टाळाटाळ केली."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "अण्णांना 'कर्मवीर' का म्हणतात?",
+      "answer": "शैक्षणिक क्षेत्रातील त्यांच्या उत्तुंग आणि महान कार्यामुळे त्यांना 'कर्मवीर' म्हणतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "अण्णांच्या संस्थेत कोणती मुले राहत होती?",
+      "answer": "अण्णांच्या संस्थेत गोरगरिबांची, ज्यांना आई-वडील नाहीत अशी मुले राहत होती."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "लेखकाने अण्णांचे वर्णन कोणत्या शब्दांत केले?",
+      "answer": "लेखकाने अण्णांना 'खरेखुरे आईबाप' आणि 'मायेची पाखर' घालणारे असे म्हटले."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "थंडीचे दिवस असल्यामुळे काय पडले होते?",
+      "answer": "थंडीचे दिवस असल्यामुळे कडाक्याची थंडी पडली होती."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "अण्णांनी हातात कंदील का घेतला होता?",
+      "answer": "अंधारात मुलांना पाहण्यासाठी अण्णांनी हातात कंदील घेतला होता."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कांबळी म्हणजे काय?",
+      "answer": "कांबळी म्हणजे लोकरीचे उबदार पांघरूण (घोंगडी)."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "या पाठाचे लेखक पां. चिं. पाटील यांनी कोणता अनुभव सांगितला आहे?",
+      "answer": "त्यांनी कर्मवीर भाऊराव पाटील यांच्या सहवासातील आणि त्यांच्या मायेचा अनुभव सांगितला आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "लेखकाला जेवण रुचकर का लागले?",
+      "answer": "लेखकाला खूप कडकडून भूक लागली होती, त्यामुळे साधे पिठले-भाकरीचे जेवणही त्यांना रुचकर लागले."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "अण्णांनी मुलाला पोटाशी धरल्यावर काय झाले?",
+      "answer": "त्या उबेत तो मुलगा गाढ झोपी गेला."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "'झटत राहणे' म्हणजे काय?",
+      "answer": "'झटत राहणे' म्हणजे सतत प्रयत्न करणे किंवा कष्ट करणे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "अण्णांनी मुलाला कसे उचलले?",
+      "answer": "अण्णांनी मुलाला आपल्या दोन्ही हातांनी अलगत उचलले."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "वसतिगृहाच्या मुलांनी केलेले जेवण लेखकाला सुरुवातीला का नको होते?",
+      "answer": "त्यांना वाटले की मुलांनी केलेले जेवण चांगले नसेल, म्हणून त्यांना ते नको होते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "हा पाठ कोणत्या पुस्तकातून घेतला आहे?",
+      "answer": "हा पाठ बालभारती इयत्ता चौथीच्या पाठ्यपुस्तकातून घेतला आहे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "अण्णा कोठे बसले होते?",
+      "answer": "अण्णा पत्र्यांनी बनवलेल्या एका खोलीत बसले होते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "अण्णांनी लेखकाला कशाचा आग्रह केला?",
+      "answer": "अण्णांनी लेखकाला जेवणाचा आग्रह केला."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "लेखकाचे नाव काय?",
+      "answer": "लेखकाचे नाव पां. चिं. पाटील आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "लेखक कशासाठी सातारला थांबले होते?",
+      "answer": "लेखक कर्मवीर भाऊराव पाटील (अण्णा) यांना भेटण्यासाठी सातारला थांबले होते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "मुलाला पोटाशी धरल्यामुळे काय मिळाले?",
+      "answer": "मुलाला पोटाशी धरल्यामुळे ऊब मिळाली."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "कर्मवीर भाऊरावांनी शिक्षणाची सोय कोणासाठी केली?",
+      "answer": "त्यांनी गोरगरिबांच्या मुलामुलींसाठी शिक्षणाची सोय केली."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "अण्णांनी मुलाला दिलेल्या कांबळीचा उपयोग काय झाला?",
+      "answer": "कांबळीमुळे मुलाची थंडी वाजायची थांबली आणि त्याला ऊब मिळाली."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "लेखकाने अण्णांचे आभार कसे मानले?",
+      "answer": "लेखकाने सकाळी उठून अण्णांना कडकडून भेटून आणि त्यांच्या कार्याचा गौरव करून आभार मानले."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "या पाठातून अण्णांचा कोणता गुण दिसून येतो?",
+      "answer": "या पाठातून अण्णांचा कनवाळूपणा, प्रेमळ स्वभाव आणि मुलांबद्दलची तळमळ दिसून येते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "अण्णांनी रात्री कोणाची पाहणी केली?",
+      "answer": "अण्णांनी रात्री वसतिगृहातील झोपलेल्या मुलांची पाहणी केली."
+    }
+  ]
+}
