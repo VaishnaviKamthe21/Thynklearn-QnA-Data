@@ -1,49 +1,48 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03-Marathi-25",
-    "standard": "3",
+    "chapter_id": "01.Marathi.25",
+    "standard": "1",
     "subject": "Marathi",
     "medium": "Marathi",
-    "chapter_name": "चित्रे",
-    "chapter_type": "कथा / भाषा-अभ्यास"
+    "chapter_name": "चित्रे"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "‘चित्रे’ या पाठात मुख्य पात्र कोण आहे?",
+      "question": "'चित्रे' हा धडा कोणत्या प्रकारचा आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
+          "text": "कविता",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "निबंध",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "संवाद",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "कथा"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "बिम काय काढत होता?",
+      "question": "या धड्याचा मुख्य विषय काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "कला",
           "is_correct": true
         },
         {
@@ -53,7 +52,7 @@
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "प्रवास",
           "is_correct": false
         },
         {
@@ -62,436 +61,436 @@
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "कला"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "आईला बिमची चित्रे कुठे दिसली?",
+      "question": "कथेत चित्रे कशासाठी वापरली जातात?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "भावना व्यक्त करण्यासाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीतीसाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळसासाठी",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "भावना व्यक्त करण्यासाठी"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "आईने बिमला प्रथम काय विचारले?",
+      "question": "चित्रांमुळे काय समजते?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "विचार",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "विचार"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "बिम चित्रे कशाने काढत होता?",
+      "question": "धड्यात चित्रांचे महत्त्व कसे सांगितले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "उदाहरणांद्वारे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "रागाने",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीतीने",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळसाने",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "उदाहरणांद्वारे"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "आईला सुरुवातीला चित्रे कशी वाटली?",
+      "question": "चित्रे कोणती भावना व्यक्त करतात?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "आनंद",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "दुःख",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "आनंद"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "बिम चित्रे कुठे काढत होता?",
+      "question": "कथेत चित्रांचे वर्णन कसे आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "सुंदर",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "भयाण",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "निरस",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "उदास",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "सुंदर"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "आईने बिमला काय समजावले?",
+      "question": "चित्रे कशाचे प्रतीक असतात?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "कलेचे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "रागाचे",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीतीचे",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळसाचे",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "कलेचे"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "बिमने चित्रांबद्दल काय सांगितले?",
+      "question": "धड्यात चित्रे पाहून काय वाटते?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "आनंद",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "दुःख",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "आनंद"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "आईने चित्रांकडे नीट पाहिल्यावर काय लक्षात आले?",
+      "question": "चित्रांमुळे कल्पनाशक्ती कशी होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "वाढते",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "कमी होते",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "बदलत नाही",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "नष्ट होते",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "वाढते"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "चित्रांमधील माणसे कशी होती?",
+      "question": "चित्रे कोणासाठी महत्त्वाची आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "सर्वांसाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "कोणासाठीही नाही",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "फक्त कलाकारांसाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "फक्त मुलांसाठी",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "सर्वांसाठी"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
-      "question": "चित्रांमधील प्राणी कसे दाखवले होते?",
+      "question": "धड्यात चित्रे कशी पाहावीत असे सांगितले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "समजून",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "रागाने",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीतीने",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळसाने",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "समजून"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
-      "question": "बिमची कल्पनाशक्ती कशी होती?",
+      "question": "चित्रांमधून काय शिकायला मिळते?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "भावना ओळखणे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "भावना ओळखणे"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
-      "question": "आईला बिमची चित्रे कधी समजली?",
+      "question": "चित्रे पाहिल्यावर मनावर काय परिणाम होतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "शांतता",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "शांतता"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
-      "question": "आईने बिमला कोणती दाद दिली?",
+      "question": "धड्यात चित्रांचे सौंदर्य कसे दाखवले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "वर्णनाद्वारे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "रागाने",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीतीने",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळसाने",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "वर्णनाद्वारे"
     },
     {
       "question_id": 16,
       "question_type": "MCQ",
-      "question": "बिम चित्रे काढताना कसा होता?",
+      "question": "चित्रे कशासाठी प्रेरणा देतात?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "सर्जनशीलतेसाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीतीसाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळसासाठी",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "सर्जनशीलतेसाठी"
     },
     {
       "question_id": 17,
       "question_type": "MCQ",
-      "question": "आईने बिमला काय प्रोत्साहन दिले?",
+      "question": "चित्रांमुळे कोणता गुण वाढतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "कल्पकता",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "कल्पकता"
     },
     {
       "question_id": 18,
       "question_type": "MCQ",
-      "question": "चित्रे काढणे म्हणजे काय दाखवते?",
+      "question": "धड्यात चित्रे कोणाशी संबंधित आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "कला",
           "is_correct": true
         },
         {
@@ -501,1184 +500,532 @@
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "प्रवास",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "कला"
     },
     {
       "question_id": 19,
       "question_type": "MCQ",
-      "question": "या पाठात कल्पनाशक्तीचे महत्त्व कसे दाखवले आहे?",
+      "question": "चित्रे पाहण्याची सवय कशासाठी चांगली आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "मनासाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीतीसाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळसासाठी",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "मनासाठी"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
-      "question": "आई-बाळातील नाते कसे दाखवले आहे?",
+      "question": "चित्रांमुळे कोणती भावना निर्माण होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "आनंद",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "दुःख",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "आनंद"
     },
     {
       "question_id": 21,
       "question_type": "MCQ",
-      "question": "आई सुरुवातीला नाराज का झाली?",
+      "question": "धड्यात चित्रांचा संदेश काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "भावना समजून घ्या",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "राग करा",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीती बाळगा",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळस करा",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "भावना समजून घ्या"
     },
     {
       "question_id": 22,
       "question_type": "MCQ",
-      "question": "आई नंतर आनंदी का झाली?",
+      "question": "चित्रे कशामुळे प्रभावी ठरतात?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "भावनांमुळे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "रागामुळे",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीतीमुळे",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळसामुळे",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "भावनांमुळे"
     },
     {
       "question_id": 23,
       "question_type": "MCQ",
-      "question": "बिमच्या चित्रांमध्ये काय विशेष होते?",
+      "question": "धड्यात चित्रे कशी पाहावीत असे सुचवले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "एकाग्रतेने",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "रागाने",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीतीने",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळसाने",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "एकाग्रतेने"
     },
     {
       "question_id": 24,
       "question_type": "MCQ",
-      "question": "चित्रांमुळे आईचा दृष्टिकोन कसा बदलला?",
+      "question": "चित्रांमुळे मनात काय तयार होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "कल्पना",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "कल्पना"
     },
     {
       "question_id": 25,
       "question_type": "MCQ",
-      "question": "बिमचे चित्र काढण्याचे कारण काय होते?",
+      "question": "चित्रे कशासाठी उपयुक्त आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "अभिव्यक्तीसाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीतीसाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळसासाठी",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "अभिव्यक्तीसाठी"
     },
     {
       "question_id": 26,
       "question_type": "MCQ",
-      "question": "या कथेतून कोणता गुण शिकायला मिळतो?",
+      "question": "धड्यात चित्रांचे वर्णन कशाशी जोडले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "भावनांशी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "रागाशी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीतीशी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळसाशी",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "भावनांशी"
     },
     {
       "question_id": 27,
       "question_type": "MCQ",
-      "question": "आईने बिमला चुकीचे समजले का?",
+      "question": "चित्रे पाहण्याचा मुख्य उद्देश काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "आनंद घेणे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "आनंद घेणे"
     },
     {
       "question_id": 28,
       "question_type": "MCQ",
-      "question": "आईने नंतर काय चूक मान्य केली?",
+      "question": "ही कथा वाचल्यावर काय वाटते?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "आनंद",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "दुःख",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "आनंद"
     },
     {
       "question_id": 29,
       "question_type": "MCQ",
-      "question": "बिमची हुशारी कशातून दिसते?",
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "कलेचे महत्त्व",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "कलेचे महत्त्व"
     },
     {
       "question_id": 30,
       "question_type": "MCQ",
-      "question": "चित्रे काढताना बिम आनंदी का होता?",
+      "question": "चित्रे जीवनात कशी उपयुक्त आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
+          "text": "भावना व्यक्त करण्यासाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ",
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण",
+          "text": "भीतीसाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीती",
+          "text": "आळसासाठी",
           "is_correct": false
         }
       ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "answer": "भावना व्यक्त करण्यासाठी"
     },
     {
       "question_id": 31,
-      "question_type": "MCQ",
-      "question": "आईने बिमला काय बक्षीस दिले?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "'चित्रे' हा धडा कोणत्या प्रकारचा आहे?",
+      "answer": "हा धडा कथा प्रकारचा आहे."
     },
     {
       "question_id": 32,
-      "question_type": "MCQ",
-      "question": "या कथेत संवाद कसा आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "या धड्याचा मुख्य विषय काय आहे?",
+      "answer": "या धड्याचा मुख्य विषय कला आहे."
     },
     {
       "question_id": 33,
-      "question_type": "MCQ",
-      "question": "चित्रे काढण्याची सवय कशामुळे लागते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "कथेत चित्रे कशासाठी वापरली जातात?",
+      "answer": "चित्रे भावना व्यक्त करण्यासाठी वापरली जातात."
     },
     {
       "question_id": 34,
-      "question_type": "MCQ",
-      "question": "बिमच्या चित्रांत कोणते दृश्य होते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "चित्रांमुळे काय समजते?",
+      "answer": "चित्रांमुळे विचार आणि भावना समजतात."
     },
     {
       "question_id": 35,
-      "question_type": "MCQ",
-      "question": "आईने चित्रांकडे पाहण्याची पद्धत कशी बदलली?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "धड्यात चित्रांचे महत्त्व कसे सांगितले आहे?",
+      "answer": "उदाहरणांद्वारे महत्त्व सांगितले आहे."
     },
     {
       "question_id": 36,
-      "question_type": "MCQ",
-      "question": "बिमने आईला काय दाखवले?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "चित्रे कोणती भावना व्यक्त करतात?",
+      "answer": "चित्रे आनंदाची भावना व्यक्त करतात."
     },
     {
       "question_id": 37,
-      "question_type": "MCQ",
-      "question": "या कथेत कल्पना आणि वास्तव कसे जोडले आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "कथेत चित्रांचे वर्णन कसे आहे?",
+      "answer": "चित्रांचे वर्णन सुंदर आहे."
     },
     {
       "question_id": 38,
-      "question_type": "MCQ",
-      "question": "आईने बिमला समजून घेणे का गरजेचे होते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "चित्रे कशाचे प्रतीक असतात?",
+      "answer": "चित्रे कलेचे प्रतीक असतात."
     },
     {
       "question_id": 39,
-      "question_type": "MCQ",
-      "question": "बिमची चित्रे का वेगळी होती?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "धड्यात चित्रे पाहून काय वाटते?",
+      "answer": "चित्रे पाहून आनंद वाटतो."
     },
     {
       "question_id": 40,
-      "question_type": "MCQ",
-      "question": "आईला बिमचा अभिमान का वाटला?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "चित्रांमुळे कल्पनाशक्ती कशी होते?",
+      "answer": "चित्रांमुळे कल्पनाशक्ती वाढते."
     },
     {
       "question_id": 41,
-      "question_type": "MCQ",
-      "question": "या कथेतून मुलांना काय शिकायला मिळते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "चित्रे कोणासाठी महत्त्वाची आहेत?",
+      "answer": "चित्रे सर्वांसाठी महत्त्वाची आहेत."
     },
     {
       "question_id": 42,
-      "question_type": "MCQ",
-      "question": "चित्रे काढण्याचे महत्त्व काय आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "धड्यात चित्रे कशी पाहावीत असे सांगितले आहे?",
+      "answer": "चित्रे समजून पाहावीत असे सांगितले आहे."
     },
     {
       "question_id": 43,
-      "question_type": "MCQ",
-      "question": "आई-बाळ संवादातून काय समजते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "चित्रांमधून काय शिकायला मिळते?",
+      "answer": "भावना ओळखायला शिकायला मिळते."
     },
     {
       "question_id": 44,
-      "question_type": "MCQ",
-      "question": "बिमची कला कशी होती?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "चित्रे पाहिल्यावर मनावर काय परिणाम होतो?",
+      "answer": "चित्रे पाहिल्यावर मन शांत होते."
     },
     {
       "question_id": 45,
-      "question_type": "MCQ",
-      "question": "आईने बिमला काय शिकवले?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "धड्यात चित्रांचे सौंदर्य कसे दाखवले आहे?",
+      "answer": "वर्णनाच्या माध्यमातून दाखवले आहे."
     },
     {
       "question_id": 46,
-      "question_type": "MCQ",
-      "question": "बिमने आईला काय शिकवले?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "चित्रे कशासाठी प्रेरणा देतात?",
+      "answer": "चित्रे सर्जनशीलतेसाठी प्रेरणा देतात."
     },
     {
       "question_id": 47,
-      "question_type": "MCQ",
-      "question": "या कथेत मुख्य भावना कोणती आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "चित्रांमुळे कोणता गुण वाढतो?",
+      "answer": "चित्रांमुळे कल्पकता वाढते."
     },
     {
       "question_id": 48,
-      "question_type": "MCQ",
-      "question": "‘चित्रे’ हे शीर्षक योग्य का आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "धड्यात चित्रे कोणाशी संबंधित आहेत?",
+      "answer": "चित्रे कलेशी संबंधित आहेत."
     },
     {
       "question_id": 49,
-      "question_type": "MCQ",
-      "question": "या कथेतून मुख्य संदेश काय आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "बिमची कल्पनाशक्ती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खेळ",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "बिमची कल्पनाशक्ती"
+      "question_type": "SHORT",
+      "question": "चित्रे पाहण्याची सवय कशासाठी चांगली आहे?",
+      "answer": "ही सवय मनासाठी चांगली आहे."
     },
     {
       "question_id": 50,
       "question_type": "SHORT",
-      "question": "बिम कोण आहे?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+      "question": "चित्रांमुळे कोणती भावना निर्माण होते?",
+      "answer": "चित्रांमुळे आनंदाची भावना निर्माण होते."
     },
     {
       "question_id": 51,
       "question_type": "SHORT",
-      "question": "बिम काय काढत होता?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+      "question": "धड्यात चित्रांचा संदेश काय आहे?",
+      "answer": "भावना समजून घ्याव्यात हा संदेश आहे."
     },
     {
       "question_id": 52,
       "question_type": "SHORT",
-      "question": "आईला चित्रे कुठे दिसली?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+      "question": "चित्रे कशामुळे प्रभावी ठरतात?",
+      "answer": "भावनांमुळे चित्रे प्रभावी ठरतात."
     },
     {
       "question_id": 53,
       "question_type": "SHORT",
-      "question": "आईने बिमला प्रथम काय विचारले?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+      "question": "धड्यात चित्रे कशी पाहावीत असे सुचवले आहे?",
+      "answer": "चित्रे एकाग्रतेने पाहावीत असे सुचवले आहे."
     },
     {
       "question_id": 54,
       "question_type": "SHORT",
-      "question": "बिम चित्रे कशाने काढत होता?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+      "question": "चित्रांमुळे मनात काय तयार होते?",
+      "answer": "चित्रांमुळे मनात कल्पना तयार होतात."
     },
     {
       "question_id": 55,
       "question_type": "SHORT",
-      "question": "आईला सुरुवातीला चित्रे कशी वाटली?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+      "question": "चित्रे कशासाठी उपयुक्त आहेत?",
+      "answer": "चित्रे अभिव्यक्तीसाठी उपयुक्त आहेत."
     },
     {
       "question_id": 56,
       "question_type": "SHORT",
-      "question": "बिम चित्रे कुठे काढत होता?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+      "question": "धड्यात चित्रांचे वर्णन कशाशी जोडले आहे?",
+      "answer": "चित्रांचे वर्णन भावनांशी जोडले आहे."
     },
     {
       "question_id": 57,
       "question_type": "SHORT",
-      "question": "आईने बिमला काय समजावले?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+      "question": "चित्रे पाहण्याचा मुख्य उद्देश काय आहे?",
+      "answer": "चित्रे पाहण्याचा मुख्य उद्देश आनंद घेणे आहे."
     },
     {
       "question_id": 58,
       "question_type": "SHORT",
-      "question": "बिमने चित्रांबद्दल काय सांगितले?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+      "question": "ही कथा वाचल्यावर काय वाटते?",
+      "answer": "ही कथा वाचल्यावर आनंद वाटतो."
     },
     {
       "question_id": 59,
       "question_type": "SHORT",
-      "question": "आईला चित्रांचा अर्थ कधी समजला?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
+      "answer": "कलेचे महत्त्व शिकायला मिळते."
     },
     {
       "question_id": 60,
       "question_type": "SHORT",
-      "question": "चित्रांमधील माणसे कशी होती?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 61,
-      "question_type": "SHORT",
-      "question": "चित्रांमधील प्राणी कसे होते?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 62,
-      "question_type": "SHORT",
-      "question": "बिमची कल्पनाशक्ती कशी दिसते?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 63,
-      "question_type": "SHORT",
-      "question": "आईचा दृष्टिकोन कसा बदलला?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 64,
-      "question_type": "SHORT",
-      "question": "आईने बिमला कोणती दाद दिली?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 65,
-      "question_type": "SHORT",
-      "question": "बिम चित्रे काढताना कसा वाटत होता?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 66,
-      "question_type": "SHORT",
-      "question": "आईने बिमला काय प्रोत्साहन दिले?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 67,
-      "question_type": "SHORT",
-      "question": "चित्रे काढण्याचे महत्त्व काय आहे?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 68,
-      "question_type": "SHORT",
-      "question": "या कथेतून कोणता गुण शिकायला मिळतो?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 69,
-      "question_type": "SHORT",
-      "question": "आई-बाळातील नाते कसे दाखवले आहे?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 70,
-      "question_type": "SHORT",
-      "question": "आई सुरुवातीला नाराज का झाली?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 71,
-      "question_type": "SHORT",
-      "question": "आई नंतर आनंदी का झाली?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 72,
-      "question_type": "SHORT",
-      "question": "बिमच्या चित्रांमध्ये काय विशेष होते?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 73,
-      "question_type": "SHORT",
-      "question": "चित्रांमुळे आईचा विचार कसा बदलला?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 74,
-      "question_type": "SHORT",
-      "question": "बिमचे चित्र काढण्याचे कारण काय होते?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 75,
-      "question_type": "SHORT",
-      "question": "या कथेतून काय शिकायला मिळते?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 76,
-      "question_type": "SHORT",
-      "question": "आईने बिमला चुकीचे का समजले?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 77,
-      "question_type": "SHORT",
-      "question": "आईने नंतर काय चूक मान्य केली?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 78,
-      "question_type": "SHORT",
-      "question": "बिमची हुशारी कशातून दिसते?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 79,
-      "question_type": "SHORT",
-      "question": "बिम चित्रे काढताना आनंदी का होता?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 80,
-      "question_type": "SHORT",
-      "question": "आईने बिमला काय बक्षीस दिले?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 81,
-      "question_type": "SHORT",
-      "question": "चित्रे काढण्याची सवय कशी लागते?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 82,
-      "question_type": "SHORT",
-      "question": "बिमच्या चित्रांत कोणते दृश्य होते?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 83,
-      "question_type": "SHORT",
-      "question": "आईने चित्रांकडे पाहण्याची पद्धत कशी बदलली?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 84,
-      "question_type": "SHORT",
-      "question": "बिमने आईला काय दाखवले?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 85,
-      "question_type": "SHORT",
-      "question": "या कथेत कल्पना आणि वास्तव कसे जोडले आहे?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 86,
-      "question_type": "SHORT",
-      "question": "आईने बिमला समजून घेणे का गरजेचे होते?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 87,
-      "question_type": "SHORT",
-      "question": "बिमची चित्रे का वेगळी होती?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 88,
-      "question_type": "SHORT",
-      "question": "आईला बिमचा अभिमान का वाटला?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 89,
-      "question_type": "SHORT",
-      "question": "या कथेतून मुलांना काय शिकायला मिळते?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 90,
-      "question_type": "SHORT",
-      "question": "चित्रे काढण्याचे महत्त्व लिहा.",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 91,
-      "question_type": "SHORT",
-      "question": "आई-बाळ संवादातून काय समजते?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 92,
-      "question_type": "SHORT",
-      "question": "बिमची कला कशी होती?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 93,
-      "question_type": "SHORT",
-      "question": "आईने बिमला काय शिकवले?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 94,
-      "question_type": "SHORT",
-      "question": "बिमने आईला काय शिकवले?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 95,
-      "question_type": "SHORT",
-      "question": "या कथेत मुख्य भावना कोणती आहे?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 96,
-      "question_type": "SHORT",
-      "question": "‘चित्रे’ हे शीर्षक योग्य का आहे?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 97,
-      "question_type": "SHORT",
-      "question": "या कथेतून मुख्य संदेश काय आहे?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 98,
-      "question_type": "SHORT",
-      "question": "तुम्हाला बिमचे कोणते गुण आवडले?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
-    },
-    {
-      "question_id": 99,
-      "question_type": "SHORT",
-      "question": "का ते गुण आवडले?",
-      "answer": "हे उत्तर कथेत दिलेल्या घटनांवर आधारित आहे."
+      "question": "चित्रे जीवनात कशी उपयुक्त आहेत?",
+      "answer": "चित्रे भावना व्यक्त करण्यासाठी उपयुक्त आहेत."
     }
   ]
 }

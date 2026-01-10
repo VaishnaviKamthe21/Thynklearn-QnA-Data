@@ -1,7 +1,7 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03-Marathi-06",
-    "standard": "3",
+    "chapter_id": "01.Marathi.06",
+    "standard": "1",
     "subject": "Marathi",
     "medium": "Marathi",
     "chapter_name": "हिक्के होक्के मरांग उरस्काट"
@@ -10,682 +10,1022 @@
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 1",
+      "question": "'हिक्के होक्के मरांग उरस्काट' ही कोणत्या प्रकारची रचना आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "कथा",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "निबंध",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "संवाद",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "कविता"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 2",
+      "question": "या कवितेचा मुख्य विषय काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "निसर्ग",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "ताल-लय",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "प्रवास",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "शाळा",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "ताल-लय"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 3",
+      "question": "कवितेत कोणत्या शब्दांची पुनरावृत्ती आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "साधे शब्द",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "तालात्मक शब्द",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "इंग्रजी शब्द",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "अवघड शब्द",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "तालात्मक शब्द"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 4",
+      "question": "कवितेतील शब्द कसे आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "गंभीर",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "तालबद्ध",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "दुःखद",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "भयाण",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "तालबद्ध"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 5",
+      "question": "कवितेत ताल कशामुळे तयार होतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "चित्रांमुळे",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "शब्दांमुळे",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "कथेमुळे",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "रंगांमुळे",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "शब्दांमुळे"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 6",
+      "question": "या कवितेत कोणती भावना व्यक्त होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "दुःख",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "आनंद"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 7",
+      "question": "कवितेत वाचन करताना काय वाटते?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "कंटाळा",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "ताण",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "आनंद"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 8",
+      "question": "कवितेतील शब्द कोणत्या प्रकारचे आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "अर्थपूर्ण",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "लयबद्ध",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "गंभीर",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "शांत",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "लयबद्ध"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 9",
+      "question": "कवितेत मुलांना काय करावेसे वाटते?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "झोप",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "नाच",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "रडणे",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "भांडण",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "नाच"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 10",
+      "question": "कवितेत लय कशी जाणवते?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
+          "text": "वाचताना",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "चित्रात",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "रंगात",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "शांततेत",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "वाचताना"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 11",
+      "question": "कवितेत कोणत्या गोष्टीवर भर आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "अर्थ",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "ताल",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "कथा",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "निसर्ग",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "ताल"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 12",
+      "question": "कवितेतील शब्द वाचताना काय होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "झोप येते",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "आनंद होतो",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "भीती वाटते",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "राग येतो",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "आनंद होतो"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 13",
+      "question": "कवितेत तालामुळे काय तयार होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "शांतता",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "आनंदी वातावरण",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "दुःख",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "आनंदी वातावरण"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 14",
+      "question": "या कवितेचा उपयोग कशासाठी होतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
+          "text": "मनोरंजन",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "भय",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "ताण",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "मनोरंजन"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 15",
+      "question": "कवितेत कोणते वातावरण निर्माण होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "दुःखी",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "भयाण",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "ताणलेले",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "आनंदी"
     },
     {
       "question_id": 16,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 16",
+      "question": "कवितेत शब्दांचे उच्चार कसे आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "कठीण",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "सोपे",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "अवघड",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "गंभीर",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "सोपे"
     },
     {
       "question_id": 17,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 17",
+      "question": "कवितेत शब्दांची लय कशी आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "तुटक",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "सलग",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "अव्यवस्थित",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "मंद",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "सलग"
     },
     {
       "question_id": 18,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 18",
+      "question": "कवितेत कोणती कृती सुचवली आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "वाचन",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "गायन-नृत्य",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "लेखन",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "चित्र",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "गायन-नृत्य"
     },
     {
       "question_id": 19,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 19",
+      "question": "कवितेतील ताल कशासाठी आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
+          "text": "मनोरंजन",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "दुःख",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "मनोरंजन"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील बहुपर्यायी प्रश्न 20",
+      "question": "कवितेत मुलांचा प्रतिसाद कसा आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "घाबरलेला",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "रागावलेला",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "दुःखी",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "आनंदी"
     },
     {
       "question_id": 21,
-      "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 1",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "कवितेचा शेवट कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुःखद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भयाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गंभीर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंदी"
     },
     {
       "question_id": 22,
-      "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 2",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "कवितेत शब्दांची पुनरावृत्ती का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंधळासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तालासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "तालासाठी"
     },
     {
       "question_id": 23,
-      "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 3",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "कवितेतील लय मुलांना कशी वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कंटाळवाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंददायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीदायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखद",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंददायी"
     },
     {
       "question_id": 24,
-      "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 4",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "या कवितेचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तालाचा आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "तालाचा आनंद"
     },
     {
       "question_id": 25,
-      "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 5",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "कवितेत शब्द कशासाठी वापरले आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा सांगण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लय निर्माण करण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भय निर्माण करण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख व्यक्त करण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "लय निर्माण करण्यासाठी"
     },
     {
       "question_id": 26,
-      "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 6",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "कवितेत उच्चार करताना काय जाणवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीणपणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोपेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोपेपणा"
     },
     {
       "question_id": 27,
-      "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 7",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "कवितेत तालामुळे मनावर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
     },
     {
       "question_id": 28,
-      "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 8",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "कविता वाचल्यावर काय वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कंटाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
     },
     {
       "question_id": 29,
-      "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 9",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "कवितेतील शब्द कोणासाठी आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोठ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्वांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
     },
     {
       "question_id": 30,
-      "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 10",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "ही कविता कशासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनोरंजन"
     },
     {
       "question_id": 31,
       "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 11",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "'हिक्के होक्के मरांग उरस्काट' ही कोणत्या प्रकारची रचना आहे?",
+      "answer": "ही रचना कविता आहे."
     },
     {
       "question_id": 32,
       "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 12",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "या कवितेचा मुख्य विषय काय आहे?",
+      "answer": "या कवितेचा मुख्य विषय ताल आणि लय आहे."
     },
     {
       "question_id": 33,
       "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 13",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "कवितेत कोणत्या प्रकारचे शब्द आहेत?",
+      "answer": "कवितेत तालबद्ध शब्द आहेत."
     },
     {
       "question_id": 34,
       "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 14",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "answer": "कवितेतील शब्द लयबद्ध आणि आनंददायी आहेत."
     },
     {
       "question_id": 35,
       "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 15",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "कवितेत ताल कसा तयार होतो?",
+      "answer": "शब्दांच्या पुनरावृत्तीमुळे ताल तयार होतो."
     },
     {
       "question_id": 36,
       "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 16",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "कवितेत कोणती भावना व्यक्त होते?",
+      "answer": "कवितेत आनंदाची भावना व्यक्त होते."
     },
     {
       "question_id": 37,
       "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 17",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "कविता वाचताना कसे वाटते?",
+      "answer": "कविता वाचताना आनंद वाटतो."
     },
     {
       "question_id": 38,
       "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 18",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "कवितेत मुलांना काय करावेसे वाटते?",
+      "answer": "कवितेत मुलांना नाचावेसे वाटते."
     },
     {
       "question_id": 39,
       "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 19",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "कवितेत लय कशी जाणवते?",
+      "answer": "कविता वाचताना लय जाणवते."
     },
     {
       "question_id": 40,
       "question_type": "SHORT",
-      "question": "‘हिक्के होक्के मरांग उरस्काट’ या धड्यावरील लघुउत्तर प्रश्न 20",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "कवितेत कोणत्या गोष्टीवर भर आहे?",
+      "answer": "कवितेत तालावर भर आहे."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द वाचताना काय होते?",
+      "answer": "शब्द वाचताना आनंद होतो."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कवितेत तालामुळे काय तयार होते?",
+      "answer": "तालामुळे आनंदी वातावरण तयार होते."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "या कवितेचा उपयोग कशासाठी होतो?",
+      "answer": "ही कविता मनोरंजनासाठी उपयोगी आहे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणते वातावरण निर्माण होते?",
+      "answer": "कवितेत आनंदी वातावरण निर्माण होते."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "कवितेत शब्दांचे उच्चार कसे आहेत?",
+      "answer": "शब्दांचे उच्चार सोपे आहेत."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कवितेत शब्दांची लय कशी आहे?",
+      "answer": "शब्दांची लय सलग आहे."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती कृती सुचवली आहे?",
+      "answer": "कवितेत गायन आणि नृत्य सुचवले आहे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कवितेतील ताल कशासाठी आहे?",
+      "answer": "ताल मनोरंजनासाठी आहे."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "कवितेत मुलांचा प्रतिसाद कसा आहे?",
+      "answer": "मुलांचा प्रतिसाद आनंदी आहे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कवितेचा शेवट कसा आहे?",
+      "answer": "कवितेचा शेवट आनंदी आहे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवितेत शब्दांची पुनरावृत्ती का आहे?",
+      "answer": "ताल निर्माण करण्यासाठी पुनरावृत्ती आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कवितेतील लय मुलांना कशी वाटते?",
+      "answer": "लय मुलांना आनंददायी वाटते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "या कवितेचा मुख्य संदेश काय आहे?",
+      "answer": "ताल आणि लयीचा आनंद घ्यावा हा संदेश आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कवितेत शब्द कशासाठी वापरले आहेत?",
+      "answer": "लय निर्माण करण्यासाठी शब्द वापरले आहेत."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कवितेत उच्चार करताना काय जाणवते?",
+      "answer": "उच्चार करताना सोपेपणा जाणवतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कवितेत तालामुळे मनावर काय परिणाम होतो?",
+      "answer": "तालामुळे मन आनंदी होते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कविता वाचल्यावर काय वाटते?",
+      "answer": "कविता वाचल्यावर आनंद वाटतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द कोणासाठी आहेत?",
+      "answer": "कवितेतील शब्द मुलांसाठी आहेत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ही कविता कशासाठी उपयुक्त आहे?",
+      "answer": "ही कविता मनोरंजनासाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कवितेमुळे कोणती सवय लागते?",
+      "answer": "तालाची जाणीव होण्याची सवय लागते."
     }
   ]
 }

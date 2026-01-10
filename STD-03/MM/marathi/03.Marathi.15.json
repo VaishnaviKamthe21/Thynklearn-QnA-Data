@@ -1,64 +1,63 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03-Marathi-15",
-    "standard": "3",
+    "chapter_id": "01.Marathi.15",
+    "standard": "1",
     "subject": "Marathi",
     "medium": "Marathi",
-    "chapter_name": "सुट्टीच्या दिवसांत",
-    "chapter_type": "कविता"
+    "chapter_name": "सुट्टीच्या दिवसांत"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "‘सुट्टीच्या दिवसांत’ ही कोणत्या प्रकारची रचना आहे?",
+      "question": "'सुट्टीच्या दिवसांत' ही रचना कोणत्या प्रकारची आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "कविता",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "कथा",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "निबंध",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "संवाद",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "कविता"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "कवितेत कोणत्या दिवसांचे वर्णन केले आहे?",
+      "question": "या कवितेचा मुख्य विषय काय आहे?",
       "options": [
         {
           "option_id": 1,
+          "text": "शाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
           "text": "सुट्टीतील आनंद",
           "is_correct": true
         },
         {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "राग",
           "is_correct": false
         }
       ],
@@ -67,749 +66,749 @@
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुले कुठे उड्या मारतात?",
+      "question": "कवितेत सुट्टीचे दिवस कसे वर्णन केले आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "कंटाळवाणे",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीतीदायक",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "दुःखद",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "आनंदी"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "कवितेत इंद्रधनुष्याचा उल्लेख कशासाठी आहे?",
+      "question": "सुट्टीत मुलांना काय करायला आवडते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "अभ्यास",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "खेळ"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "मुलांना सुट्टीत कसे वाटते?",
+      "question": "कवितेत सुट्टीतील कोणत्या कृतींचा उल्लेख आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
+          "text": "खेळ",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "फिरणे",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
+          "text": "दोन्ही",
+          "is_correct": true
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "काहीच नाही",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "दोन्ही"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "कवितेत मुलांचे वागणे कसे दाखवले आहे?",
+      "question": "सुट्टीमुळे मुलांच्या मनावर काय परिणाम होतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "ताण",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "आनंद"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत आकाश कसे दिसते?",
+      "question": "कवितेत कोणती भावना ठळक आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "दुःख",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "आनंद"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "कवितेत कोणते नैसर्गिक दृश्य आले आहे?",
+      "question": "सुट्टीच्या दिवसांत मुलांचे जीवन कसे असते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "आनंदी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "ताणलेले",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीतीदायक",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "गंभीर",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "आनंदी"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "मुलांना खेळायला का वेळ मिळतो?",
+      "question": "कवितेत सुट्टीत वेळ कसा घालवला जातो?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "खेळून",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "रडून",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "राग करून",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "घाबरून",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "खेळून"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "कवितेत मुलांचा उत्साह कसा व्यक्त झाला आहे?",
+      "question": "कवितेत सुट्टीचा उपयोग कशासाठी होतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "मनोरंजन",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "ताण",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "मनोरंजन"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुले काय करतात?",
+      "question": "सुट्टीत कोणते नाते अधिक घट्ट होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
+          "text": "मित्र",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "कुटुंब",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
+          "text": "दोन्ही",
+          "is_correct": true
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "कोणतेही नाही",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "दोन्ही"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
-      "question": "कवितेत कोणते रंग आले आहेत?",
+      "question": "कवितेत मुलांची मनःस्थिती कशी आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "उत्साही",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "दुःखी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भयभीत",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "रागीट",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "उत्साही"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
-      "question": "इंद्रधनुष्य कशानंतर दिसते?",
+      "question": "सुट्टीतील दिवस मुलांना का आवडतात?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "मोकळेपणा",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "मोकळेपणा"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
-      "question": "कवितेत मुलांची तुलना कशाशी केली आहे?",
+      "question": "कवितेत सुट्टीचा आनंद कसा दाखवला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "चित्रांद्वारे",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "भावनांद्वारे",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "संवादाने",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "उदाहरणांशिवाय",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "भावनांद्वारे"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत वेळ कसा जातो?",
+      "question": "सुट्टीत मुलांना काय शिकायला मिळते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "अनुभव",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "अनुभव"
     },
     {
       "question_id": 16,
       "question_type": "MCQ",
-      "question": "कवितेतील वातावरण कसे आहे?",
+      "question": "कवितेत सुट्टीत वेळ कसा वाटतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "लवकर",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "मजेत",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "कंटाळवाणा",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "भीतीदायक",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "मजेत"
     },
     {
       "question_id": 17,
       "question_type": "MCQ",
-      "question": "कवितेत कोणती भावना दिसते?",
+      "question": "सुट्टीतील खेळामुळे काय वाढते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "मैत्री",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "मैत्री"
     },
     {
       "question_id": 18,
       "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुले का आनंदी असतात?",
+      "question": "कवितेत कोणत्या ऋतूचा उल्लेख आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "उन्हाळा",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "हिवाळा",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "पावसाळा",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "सर्व",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "उन्हाळा"
     },
     {
       "question_id": 19,
       "question_type": "MCQ",
-      "question": "कवितेत कोणते शब्द आनंद दर्शवतात?",
+      "question": "सुट्टीच्या दिवसांत मुलांची दिनचर्या कशी बदलते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "मोकळी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "कठीण",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "ताणलेली",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "भीतीदायक",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "मोकळी"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुले अभ्यास करतात का?",
+      "question": "कवितेत सुट्टीचा शेवट कसा वाटतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "दुःखद",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "आनंददायी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भयाण",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "गंभीर",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "दुःखद"
     },
     {
       "question_id": 21,
       "question_type": "MCQ",
-      "question": "कवितेत मुलांचे स्वातंत्र्य कसे दिसते?",
+      "question": "सुट्टीत मुलांना कोणती सवय लागते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "खेळण्याची",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "खेळण्याची"
     },
     {
       "question_id": 22,
       "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुलांना काय आवडते?",
+      "question": "कवितेत सुट्टीत कुटुंबाचे महत्त्व कसे दाखवले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "एकत्र वेळ",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "एकत्र वेळ"
     },
     {
       "question_id": 23,
       "question_type": "MCQ",
-      "question": "कवितेत निसर्गाचा सहभाग कसा आहे?",
+      "question": "सुट्टीत मुलांचे आरोग्य कसे राहते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "चांगले",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "वाईट",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीतीदायक",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "रागीट",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "चांगले"
     },
     {
       "question_id": 24,
       "question_type": "MCQ",
-      "question": "मुलांना खेळताना कसे वाटते?",
+      "question": "कवितेत सुट्टीचा काळ कसा आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "आनंदाचा",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "ताणाचा",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीतीचा",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "रागाचा",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "आनंदाचा"
     },
     {
       "question_id": 25,
       "question_type": "MCQ",
-      "question": "कवितेचा मुख्य विषय काय आहे?",
+      "question": "सुट्टीत मुलांना कोणता आनंद मिळतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "स्वातंत्र्य",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "स्वातंत्र्य"
     },
     {
       "question_id": 26,
       "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुले कोणते खेळ खेळतात?",
+      "question": "कवितेत सुट्टीत वेळ कोणासोबत घालवला जातो?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "मित्र-कुटुंब",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "एकटे",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "शत्रू",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "कोणीच नाही",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "मित्र-कुटुंब"
     },
     {
       "question_id": 27,
       "question_type": "MCQ",
-      "question": "कवितेत मुलांचा आनंद कसा वाढतो?",
+      "question": "सुट्टीच्या दिवसांत मुलांना काय आठवते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "शाळा",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "खेळ"
     },
     {
       "question_id": 28,
       "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुले कुठे जातात?",
+      "question": "कवितेत सुट्टीचा आनंद कशामुळे आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "मोकळेपणा",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "मोकळेपणा"
     },
     {
       "question_id": 29,
       "question_type": "MCQ",
-      "question": "कवितेत आनंदाचे वर्णन कसे केले आहे?",
+      "question": "ही कविता वाचल्यावर काय वाटते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "आनंद",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "राग",
           "is_correct": false
         },
         {
@@ -818,833 +817,215 @@
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "आनंद"
     },
     {
       "question_id": 30,
       "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत वेळ का लवकर जातो?",
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सुट्टीतील आनंद",
+          "text": "आनंद घेणे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेचा अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "दुःख",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सुट्टीतील आनंद"
+      "answer": "आनंद घेणे"
     },
     {
       "question_id": 31,
-      "question_type": "MCQ",
-      "question": "कवितेत मुलांचे मन कसे आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "'सुट्टीच्या दिवसांत' ही रचना कोणत्या प्रकारची आहे?",
+      "answer": "ही रचना कविता आहे."
     },
     {
       "question_id": 32,
-      "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुले कोणासोबत असतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "या कवितेचा मुख्य विषय काय आहे?",
+      "answer": "या कवितेचा मुख्य विषय सुट्टीतील आनंद आहे."
     },
     {
       "question_id": 33,
-      "question_type": "MCQ",
-      "question": "कवितेत कोणते दृश्य मनाला भावते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "कवितेत सुट्टीचे दिवस कसे वर्णन केले आहेत?",
+      "answer": "कवितेत सुट्टीचे दिवस आनंदी वर्णन केले आहेत."
     },
     {
       "question_id": 34,
-      "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुले मोकळी का असतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "सुट्टीत मुलांना काय करायला आवडते?",
+      "answer": "सुट्टीत मुलांना खेळायला आवडते."
     },
     {
       "question_id": 35,
-      "question_type": "MCQ",
-      "question": "कवितेत कोणते शब्द गोड वाटतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "कवितेत सुट्टीतील कोणत्या कृतींचा उल्लेख आहे?",
+      "answer": "खेळ आणि फिरणे यांचा उल्लेख आहे."
     },
     {
       "question_id": 36,
-      "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुलांचा दिवस कसा जातो?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "सुट्टीमुळे मुलांच्या मनावर काय परिणाम होतो?",
+      "answer": "सुट्टीमुळे मुलांच्या मनावर आनंदाचा परिणाम होतो."
     },
     {
       "question_id": 37,
-      "question_type": "MCQ",
-      "question": "कवितेत खेळाचे महत्त्व कसे दिसते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती भावना ठळक आहे?",
+      "answer": "कवितेत आनंदाची भावना ठळक आहे."
     },
     {
       "question_id": 38,
-      "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुलांचे चेहरे कसे असतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "सुट्टीच्या दिवसांत मुलांचे जीवन कसे असते?",
+      "answer": "सुट्टीच्या दिवसांत मुलांचे जीवन आनंदी असते."
     },
     {
       "question_id": 39,
-      "question_type": "MCQ",
-      "question": "कवितेतील आनंदाचे कारण काय आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "कवितेत सुट्टीत वेळ कसा घालवला जातो?",
+      "answer": "सुट्टीत वेळ खेळून घालवला जातो."
     },
     {
       "question_id": 40,
-      "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुले काय विसरतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "कवितेत सुट्टीचा उपयोग कशासाठी होतो?",
+      "answer": "सुट्टीचा उपयोग मनोरंजनासाठी होतो."
     },
     {
       "question_id": 41,
-      "question_type": "MCQ",
-      "question": "कवितेत कोणती तुलना आली आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "सुट्टीत कोणते नाते अधिक घट्ट होते?",
+      "answer": "सुट्टीत मित्र आणि कुटुंबाशी नाते घट्ट होते."
     },
     {
       "question_id": 42,
-      "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुले कशाची मजा घेतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "कवितेत मुलांची मनःस्थिती कशी आहे?",
+      "answer": "कवितेत मुलांची मनःस्थिती उत्साही आहे."
     },
     {
       "question_id": 43,
-      "question_type": "MCQ",
-      "question": "कवितेचा शेवट कसा आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "सुट्टीतील दिवस मुलांना का आवडतात?",
+      "answer": "सुट्टीतील दिवस मोकळेपणामुळे आवडतात."
     },
     {
       "question_id": 44,
-      "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुले कशामुळे खुश असतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "कवितेत सुट्टीचा आनंद कसा दाखवला आहे?",
+      "answer": "भावनांच्या माध्यमातून दाखवला आहे."
     },
     {
       "question_id": 45,
-      "question_type": "MCQ",
-      "question": "कवितेत मुलांचे जीवन कसे दाखवले आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "सुट्टीत मुलांना काय शिकायला मिळते?",
+      "answer": "सुट्टीत विविध अनुभव शिकायला मिळतात."
     },
     {
       "question_id": 46,
-      "question_type": "MCQ",
-      "question": "सुट्टीच्या दिवसांत मुले का उड्या मारतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "कवितेत सुट्टीत वेळ कसा वाटतो?",
+      "answer": "सुट्टीत वेळ मजेत जातो."
     },
     {
       "question_id": 47,
-      "question_type": "MCQ",
-      "question": "कवितेत आनंदी वातावरण कसे तयार झाले आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "सुट्टीतील खेळामुळे काय वाढते?",
+      "answer": "सुट्टीतील खेळामुळे मैत्री वाढते."
     },
     {
       "question_id": 48,
-      "question_type": "MCQ",
-      "question": "‘सुट्टीच्या दिवसांत’ या कवितेचा संदेश काय आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सुट्टीतील आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेचा अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुःख",
-          "is_correct": false
-        }
-      ],
-      "answer": "सुट्टीतील आनंद"
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या ऋतूचा उल्लेख आहे?",
+      "answer": "कवितेत उन्हाळ्याचा उल्लेख आहे."
     },
     {
       "question_id": 49,
       "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुलांना कसे वाटते?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
+      "question": "सुट्टीच्या दिवसांत मुलांची दिनचर्या कशी बदलते?",
+      "answer": "सुट्टीत दिनचर्या मोकळी होते."
     },
     {
       "question_id": 50,
       "question_type": "SHORT",
-      "question": "या कवितेत कोणते दृश्य वर्णन केले आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
+      "question": "कवितेत सुट्टीचा शेवट कसा वाटतो?",
+      "answer": "सुट्टीचा शेवट आनंददायी वाटतो."
     },
     {
       "question_id": 51,
       "question_type": "SHORT",
-      "question": "इंद्रधनुष्याचा उल्लेख का केला आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
+      "question": "सुट्टीत मुलांना कोणती सवय लागते?",
+      "answer": "सुट्टीत खेळण्याची सवय लागते."
     },
     {
       "question_id": 52,
       "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले काय करतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
+      "question": "कवितेत सुट्टीत कुटुंबाचे महत्त्व कसे दाखवले आहे?",
+      "answer": "एकत्र वेळ घालवून महत्त्व दाखवले आहे."
     },
     {
       "question_id": 53,
       "question_type": "SHORT",
-      "question": "कवितेतील वातावरण कसे आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
+      "question": "सुट्टीत मुलांचे आरोग्य कसे राहते?",
+      "answer": "सुट्टीत मुलांचे आरोग्य चांगले राहते."
     },
     {
       "question_id": 54,
       "question_type": "SHORT",
-      "question": "कवितेत कोणती भावना दिसते?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
+      "question": "कवितेत सुट्टीचा काळ कसा आहे?",
+      "answer": "सुट्टीचा काळ आनंदाचा आहे."
     },
     {
       "question_id": 55,
       "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले आनंदी का असतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
+      "question": "सुट्टीत मुलांना कोणता आनंद मिळतो?",
+      "answer": "सुट्टीत मुलांना स्वातंत्र्याचा आनंद मिळतो."
     },
     {
       "question_id": 56,
       "question_type": "SHORT",
-      "question": "कवितेत निसर्गाची भूमिका काय आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
+      "question": "कवितेत सुट्टीत वेळ कोणासोबत घालवला जातो?",
+      "answer": "मित्र आणि कुटुंबासोबत वेळ घालवला जातो."
     },
     {
       "question_id": 57,
       "question_type": "SHORT",
-      "question": "मुलांच्या आनंदाचे कारण काय आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
+      "question": "सुट्टीच्या दिवसांत मुलांना काय आठवते?",
+      "answer": "सुट्टीच्या दिवसांत मुलांना खेळ आठवतात."
     },
     {
       "question_id": 58,
       "question_type": "SHORT",
-      "question": "कवितेत कोणते रंग आले आहेत?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
+      "question": "कवितेत सुट्टीचा आनंद कशामुळे आहे?",
+      "answer": "मोकळेपणामुळे सुट्टीचा आनंद आहे."
     },
     {
       "question_id": 59,
       "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत वेळ कसा जातो?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
+      "question": "ही कविता वाचल्यावर काय वाटते?",
+      "answer": "ही कविता वाचल्यावर आनंद वाटतो."
     },
     {
       "question_id": 60,
       "question_type": "SHORT",
-      "question": "कवितेत मुलांचे मन कसे दाखवले आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 61,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले कोणते खेळ खेळतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 62,
-      "question_type": "SHORT",
-      "question": "कवितेचा मुख्य विषय काय आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 63,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुलांचे स्वातंत्र्य कसे दिसते?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 64,
-      "question_type": "SHORT",
-      "question": "कवितेत आनंदाचे वर्णन कसे केले आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 65,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले कशाची मजा घेतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 66,
-      "question_type": "SHORT",
-      "question": "कवितेत कोणती तुलना वापरली आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 67,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुलांचे चेहरे कसे असतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 68,
-      "question_type": "SHORT",
-      "question": "कवितेत खेळाचे महत्त्व कसे दिसते?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 69,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले मोकळी का असतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 70,
-      "question_type": "SHORT",
-      "question": "कवितेत कोणते शब्द आनंद दर्शवतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 71,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले अभ्यासापासून कशी दूर असतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 72,
-      "question_type": "SHORT",
-      "question": "कवितेतील आनंदाचे कारण काय आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 73,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले का उड्या मारतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 74,
-      "question_type": "SHORT",
-      "question": "कवितेत निसर्ग व मुले यांचे नाते कसे आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 75,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुलांचा दिवस कसा जातो?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 76,
-      "question_type": "SHORT",
-      "question": "कवितेत आनंदी वातावरण कसे तयार झाले आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 77,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले कोणासोबत असतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 78,
-      "question_type": "SHORT",
-      "question": "कवितेत कोणते दृश्य मनाला भावते?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 79,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुलांना काय आवडते?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 80,
-      "question_type": "SHORT",
-      "question": "कवितेचा शेवट कसा आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 81,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले काय विसरतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 82,
-      "question_type": "SHORT",
-      "question": "कवितेत मुलांचे जीवन कसे दाखवले आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 83,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले कशामुळे खुश असतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 84,
-      "question_type": "SHORT",
-      "question": "कवितेत आनंद कसा वाढतो?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 85,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुलांची ऊर्जा कशी असते?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 86,
-      "question_type": "SHORT",
-      "question": "कवितेत कोणती गोड भावना आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 87,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले कशाचा आनंद घेतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 88,
-      "question_type": "SHORT",
-      "question": "कवितेत निसर्गाचे कोणते घटक आले आहेत?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 89,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुलांचा उत्साह कसा दिसतो?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 90,
-      "question_type": "SHORT",
-      "question": "कवितेत खेळाचे चित्रण कसे आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 91,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुलांचे मन का प्रसन्न असते?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 92,
-      "question_type": "SHORT",
-      "question": "कवितेत कोणती आनंददायी कल्पना आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 93,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले कशाला महत्त्व देतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 94,
-      "question_type": "SHORT",
-      "question": "कवितेचा मुख्य संदेश काय आहे?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 95,
-      "question_type": "SHORT",
-      "question": "सुट्टीच्या दिवसांत मुले आनंद कसा व्यक्त करतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 96,
-      "question_type": "SHORT",
-      "question": "कवितेत कोणते शब्द लक्षात राहतात?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 97,
-      "question_type": "SHORT",
-      "question": "या कवितेतून आपल्याला काय शिकायला मिळते?",
-      "answer": "हे उत्तर कवितेतील ओळी व आशयावर आधारित आहे."
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
+      "answer": "आनंद घेण्याचे महत्त्व शिकायला मिळते."
     }
   ]
 }

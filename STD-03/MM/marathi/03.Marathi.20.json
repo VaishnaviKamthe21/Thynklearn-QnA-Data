@@ -1,715 +1,1031 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03.ENG.MAR.20",
-    "standard": "3",
-    "subject": "Marathi Sulabhbharati",
-    "medium": "English",
+    "chapter_id": "01.Marathi.20",
+    "standard": "1",
+    "subject": "Marathi",
+    "medium": "Marathi",
     "chapter_name": "एक भारतीय संशोधक"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "डॉ. शंकर आबाजी मुळे यांचा जन्म कधी झाला?",
+      "question": "'एक भारतीय संशोधक' हा धडा कोणत्या प्रकारचा आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "२८ एप्रिल १९१६",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "१५ ऑगस्ट १९४७",
+          "text": "कविता",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "चरित्र",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "२६ जानेवारी १९५०",
+          "text": "कथा",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "१ मे १९६०",
+          "text": "संवाद",
           "is_correct": false
         }
       ],
-      "answer": "२८ एप्रिल १९१६"
+      "answer": "चरित्र"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "लहानपणी शंकरांना कोणत्या गोष्टीची गोडी लागली होती?",
+      "question": "या धड्याचा मुख्य विषय काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "वजन मोजण्याची",
+          "text": "संशोधन",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चित्र काढण्याची",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "गाण्याची",
+          "text": "प्रवास",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "खेळण्याची",
+          "text": "सण",
           "is_correct": false
         }
       ],
-      "answer": "वजन मोजण्याची"
+      "answer": "संशोधन"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "दुकानदाराने कमी वजन दिल्यामुळे शंकरांनी काय ठरवले?",
+      "question": "धड्यात कोणाबद्दल माहिती दिली आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "अचूक वजन मोजणारे यंत्र बनवायचे",
+          "text": "संशोधकाबद्दल",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दुकान उघडायचे",
+          "text": "खेळाडूबद्दल",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "तक्रार करायची",
+          "text": "शेतकऱ्याबद्दल",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "खेळ सोडायचा",
+          "text": "कलाकाराबद्दल",
           "is_correct": false
         }
       ],
-      "answer": "अचूक वजन मोजणारे यंत्र बनवायचे"
+      "answer": "संशोधकाबद्दल"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "डॉ. मुळे कोणत्या क्षेत्रात संशोधनासाठी प्रसिद्ध झाले?",
+      "question": "संशोधकाचे मुख्य गुण कोणते आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "वजन मापन",
+          "text": "जिज्ञासा आणि मेहनत",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "औषधनिर्माण",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खगोलशास्त्र",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "वनस्पतीशास्त्र",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "वजन मापन"
+      "answer": "जिज्ञासा आणि मेहनत"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "इंग्लंडमध्ये मुळे यांनी काय केले?",
+      "question": "संशोधकाने कशासाठी प्रयत्न केले?",
       "options": [
         {
           "option_id": 1,
-          "text": "संशोधन केले",
+          "text": "नवीन शोधासाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ खेळले",
+          "text": "खेळासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "शेती केली",
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "चित्रकला शिकली",
+          "text": "भीतीसाठी",
           "is_correct": false
         }
       ],
-      "answer": "संशोधन केले"
+      "answer": "नवीन शोधासाठी"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "डॉ. शंकर आबाजी मुळे यांचा जन्म कधी झाला?",
+      "question": "धड्यात संशोधन कशामुळे यशस्वी होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "२८ एप्रिल १९१६",
+          "text": "मेहनत",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "१५ ऑगस्ट १९४७",
+          "text": "नशीब",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "२६ जानेवारी १९५०",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "१ मे १९६०",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "२८ एप्रिल १९१६"
+      "answer": "मेहनत"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "लहानपणी शंकरांना कोणत्या गोष्टीची गोडी लागली होती?",
+      "question": "संशोधकाचे कार्य कशासाठी महत्त्वाचे आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "वजन मोजण्याची",
+          "text": "समाजासाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चित्र काढण्याची",
+          "text": "खेळासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "गाण्याची",
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "खेळण्याची",
+          "text": "भीतीसाठी",
           "is_correct": false
         }
       ],
-      "answer": "वजन मोजण्याची"
+      "answer": "समाजासाठी"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "दुकानदाराने कमी वजन दिल्यामुळे शंकरांनी काय ठरवले?",
+      "question": "संशोधकाने कोणत्या अडचणींचा सामना केला?",
       "options": [
         {
           "option_id": 1,
-          "text": "अचूक वजन मोजणारे यंत्र बनवायचे",
+          "text": "अनेक अडचणी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दुकान उघडायचे",
+          "text": "काहीच नाही",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "तक्रार करायची",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "खेळ सोडायचा",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "अचूक वजन मोजणारे यंत्र बनवायचे"
+      "answer": "अनेक अडचणी"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "डॉ. मुळे कोणत्या क्षेत्रात संशोधनासाठी प्रसिद्ध झाले?",
+      "question": "संशोधकाच्या जीवनात कोणती भावना ठळक आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "वजन मापन",
+          "text": "जिज्ञासा",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "औषधनिर्माण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खगोलशास्त्र",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "वनस्पतीशास्त्र",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "वजन मापन"
+      "answer": "जिज्ञासा"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "इंग्लंडमध्ये मुळे यांनी काय केले?",
+      "question": "धड्यात संशोधकाचे जीवन कसे दाखवले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "संशोधन केले",
+          "text": "प्रेरणादायी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ खेळले",
+          "text": "आळशी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "शेती केली",
+          "text": "भयभीत",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "चित्रकला शिकली",
+          "text": "रागीट",
           "is_correct": false
         }
       ],
-      "answer": "संशोधन केले"
+      "answer": "प्रेरणादायी"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "डॉ. शंकर आबाजी मुळे यांचा जन्म कधी झाला?",
+      "question": "संशोधकाने कोणते मूल्य शिकवले?",
       "options": [
         {
           "option_id": 1,
-          "text": "२८ एप्रिल १९१६",
+          "text": "मेहनत",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "१५ ऑगस्ट १९४७",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "२६ जानेवारी १९५०",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "१ मे १९६०",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "२८ एप्रिल १९१६"
+      "answer": "मेहनत"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
-      "question": "लहानपणी शंकरांना कोणत्या गोष्टीची गोडी लागली होती?",
+      "question": "धड्यात संशोधकाचा उद्देश काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "वजन मोजण्याची",
+          "text": "ज्ञानवृद्धी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चित्र काढण्याची",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "गाण्याची",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "खेळण्याची",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "वजन मोजण्याची"
+      "answer": "ज्ञानवृद्धी"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
-      "question": "दुकानदाराने कमी वजन दिल्यामुळे शंकरांनी काय ठरवले?",
+      "question": "संशोधकाचे कार्य कशामुळे ओळखले जाते?",
       "options": [
         {
           "option_id": 1,
-          "text": "अचूक वजन मोजणारे यंत्र बनवायचे",
+          "text": "नवीन शोध",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दुकान उघडायचे",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "तक्रार करायची",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "खेळ सोडायचा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "अचूक वजन मोजणारे यंत्र बनवायचे"
+      "answer": "नवीन शोध"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
-      "question": "डॉ. मुळे कोणत्या क्षेत्रात संशोधनासाठी प्रसिद्ध झाले?",
+      "question": "संशोधकाने समाजाला काय दिले?",
       "options": [
         {
           "option_id": 1,
-          "text": "वजन मापन",
+          "text": "ज्ञान",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "औषधनिर्माण",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खगोलशास्त्र",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "वनस्पतीशास्त्र",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "वजन मापन"
+      "answer": "ज्ञान"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
-      "question": "इंग्लंडमध्ये मुळे यांनी काय केले?",
+      "question": "धड्यात संशोधकाचा संघर्ष कशाशी आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "संशोधन केले",
+          "text": "अडचणींशी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ खेळले",
+          "text": "निसर्गाशी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "शेती केली",
+          "text": "रागाशी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "चित्रकला शिकली",
+          "text": "भीतीशी",
           "is_correct": false
         }
       ],
-      "answer": "संशोधन केले"
+      "answer": "अडचणींशी"
     },
     {
       "question_id": 16,
       "question_type": "MCQ",
-      "question": "डॉ. शंकर आबाजी मुळे यांचा जन्म कधी झाला?",
+      "question": "संशोधकाचे यश कशामुळे मिळते?",
       "options": [
         {
           "option_id": 1,
-          "text": "२८ एप्रिल १९१६",
+          "text": "धैर्य",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "१५ ऑगस्ट १९४७",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "२६ जानेवारी १९५०",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "१ मे १९६०",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "२८ एप्रिल १९१६"
+      "answer": "धैर्य"
     },
     {
       "question_id": 17,
       "question_type": "MCQ",
-      "question": "लहानपणी शंकरांना कोणत्या गोष्टीची गोडी लागली होती?",
+      "question": "धड्यात कोणती शिकवण मिळते?",
       "options": [
         {
           "option_id": 1,
-          "text": "वजन मोजण्याची",
+          "text": "कष्टाचे महत्त्व",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चित्र काढण्याची",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "गाण्याची",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "खेळण्याची",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "वजन मोजण्याची"
+      "answer": "कष्टाचे महत्त्व"
     },
     {
       "question_id": 18,
       "question_type": "MCQ",
-      "question": "दुकानदाराने कमी वजन दिल्यामुळे शंकरांनी काय ठरवले?",
+      "question": "संशोधकाचे जीवन कोणासाठी प्रेरणादायी आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "अचूक वजन मोजणारे यंत्र बनवायचे",
+          "text": "विद्यार्थ्यांसाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दुकान उघडायचे",
+          "text": "कोणासाठीही नाही",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "तक्रार करायची",
+          "text": "फक्त मोठ्यांसाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "खेळ सोडायचा",
+          "text": "फक्त लहानांसाठी",
           "is_correct": false
         }
       ],
-      "answer": "अचूक वजन मोजणारे यंत्र बनवायचे"
+      "answer": "विद्यार्थ्यांसाठी"
     },
     {
       "question_id": 19,
       "question_type": "MCQ",
-      "question": "डॉ. मुळे कोणत्या क्षेत्रात संशोधनासाठी प्रसिद्ध झाले?",
+      "question": "संशोधकाने कोणत्या गुणांवर भर दिला?",
       "options": [
         {
           "option_id": 1,
-          "text": "वजन मापन",
+          "text": "संयम",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "औषधनिर्माण",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खगोलशास्त्र",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "वनस्पतीशास्त्र",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "वजन मापन"
+      "answer": "संयम"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
-      "question": "इंग्लंडमध्ये मुळे यांनी काय केले?",
+      "question": "धड्यात संशोधन कशासाठी गरजेचे आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "संशोधन केले",
+          "text": "प्रगतीसाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "खेळ खेळले",
+          "text": "खेळासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "शेती केली",
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "चित्रकला शिकली",
+          "text": "भीतीसाठी",
           "is_correct": false
         }
       ],
-      "answer": "संशोधन केले"
+      "answer": "प्रगतीसाठी"
     },
     {
       "question_id": 21,
-      "question_type": "SHORT",
-      "question": "डॉ. शंकर आबाजी मुळे कोण होते?",
-      "answer": "ते एक प्रसिद्ध भारतीय संशोधक होते."
+      "question_type": "MCQ",
+      "question": "संशोधकाचे कार्य कोणत्या क्षेत्रात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कला",
+          "is_correct": false
+        }
+      ],
+      "answer": "विज्ञान"
     },
     {
       "question_id": 22,
-      "question_type": "SHORT",
-      "question": "शंकरांच्या मनात संशोधनाची इच्छा कशी निर्माण झाली?",
-      "answer": "कमी वजन दिल्याच्या अनुभवामुळे संशोधनाची इच्छा निर्माण झाली."
+      "question_type": "MCQ",
+      "question": "संशोधकाच्या जीवनात कोणता टप्पा महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शोधाचा टप्पा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "शोधाचा टप्पा"
     },
     {
       "question_id": 23,
-      "question_type": "SHORT",
-      "question": "मुळे यांनी कोणते यंत्र बनवले?",
-      "answer": "अचूक वजन मोजणारे यंत्र बनवले."
+      "question_type": "MCQ",
+      "question": "धड्यात संशोधकाचे विचार कसे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वैज्ञानिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भयभीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "वैज्ञानिक"
     },
     {
       "question_id": 24,
-      "question_type": "SHORT",
-      "question": "डॉ. मुळे यांच्या कार्याचे महत्त्व काय आहे?",
-      "answer": "त्यांच्या कार्यामुळे अचूक मापन शक्य झाले."
+      "question_type": "MCQ",
+      "question": "संशोधकाच्या यशामागे काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेहनत आणि चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेहनत आणि चिकाटी"
     },
     {
       "question_id": 25,
-      "question_type": "SHORT",
-      "question": "डॉ. शंकर आबाजी मुळे कोण होते?",
-      "answer": "ते एक प्रसिद्ध भारतीय संशोधक होते."
+      "question_type": "MCQ",
+      "question": "धड्यात संशोधकाचा आदर्श काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञानसेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञानसेवा"
     },
     {
       "question_id": 26,
-      "question_type": "SHORT",
-      "question": "शंकरांच्या मनात संशोधनाची इच्छा कशी निर्माण झाली?",
-      "answer": "कमी वजन दिल्याच्या अनुभवामुळे संशोधनाची इच्छा निर्माण झाली."
+      "question_type": "MCQ",
+      "question": "संशोधकाचे जीवन कसे शिकवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रयत्नाचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रयत्नाचे महत्त्व"
     },
     {
       "question_id": 27,
-      "question_type": "SHORT",
-      "question": "मुळे यांनी कोणते यंत्र बनवले?",
-      "answer": "अचूक वजन मोजणारे यंत्र बनवले."
+      "question_type": "MCQ",
+      "question": "धड्यात संशोधकाचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शोध करत रहा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती बाळगा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "शोध करत रहा"
     },
     {
       "question_id": 28,
-      "question_type": "SHORT",
-      "question": "डॉ. मुळे यांच्या कार्याचे महत्त्व काय आहे?",
-      "answer": "त्यांच्या कार्यामुळे अचूक मापन शक्य झाले."
+      "question_type": "MCQ",
+      "question": "ही रचना वाचल्यावर काय वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणा"
     },
     {
       "question_id": 29,
-      "question_type": "SHORT",
-      "question": "डॉ. शंकर आबाजी मुळे कोण होते?",
-      "answer": "ते एक प्रसिद्ध भारतीय संशोधक होते."
+      "question_type": "MCQ",
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संशोधनाचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "संशोधनाचे महत्त्व"
     },
     {
       "question_id": 30,
-      "question_type": "SHORT",
-      "question": "शंकरांच्या मनात संशोधनाची इच्छा कशी निर्माण झाली?",
-      "answer": "कमी वजन दिल्याच्या अनुभवामुळे संशोधनाची इच्छा निर्माण झाली."
+      "question_type": "MCQ",
+      "question": "संशोधकाचे कार्य देशासाठी कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गौरवपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "निरर्थक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भयाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखद",
+          "is_correct": false
+        }
+      ],
+      "answer": "गौरवपूर्ण"
     },
     {
       "question_id": 31,
       "question_type": "SHORT",
-      "question": "मुळे यांनी कोणते यंत्र बनवले?",
-      "answer": "अचूक वजन मोजणारे यंत्र बनवले."
+      "question": "'एक भारतीय संशोधक' हा धडा कोणत्या प्रकारचा आहे?",
+      "answer": "हा धडा चरित्र प्रकारचा आहे."
     },
     {
       "question_id": 32,
       "question_type": "SHORT",
-      "question": "डॉ. मुळे यांच्या कार्याचे महत्त्व काय आहे?",
-      "answer": "त्यांच्या कार्यामुळे अचूक मापन शक्य झाले."
+      "question": "या धड्याचा मुख्य विषय काय आहे?",
+      "answer": "या धड्याचा मुख्य विषय संशोधन आहे."
     },
     {
       "question_id": 33,
       "question_type": "SHORT",
-      "question": "डॉ. शंकर आबाजी मुळे कोण होते?",
-      "answer": "ते एक प्रसिद्ध भारतीय संशोधक होते."
+      "question": "धड्यात कोणाबद्दल माहिती दिली आहे?",
+      "answer": "धड्यात एका भारतीय संशोधकाबद्दल माहिती दिली आहे."
     },
     {
       "question_id": 34,
       "question_type": "SHORT",
-      "question": "शंकरांच्या मनात संशोधनाची इच्छा कशी निर्माण झाली?",
-      "answer": "कमी वजन दिल्याच्या अनुभवामुळे संशोधनाची इच्छा निर्माण झाली."
+      "question": "संशोधकाचे मुख्य गुण कोणते आहेत?",
+      "answer": "संशोधकाचे मुख्य गुण जिज्ञासा आणि मेहनत आहेत."
     },
     {
       "question_id": 35,
       "question_type": "SHORT",
-      "question": "मुळे यांनी कोणते यंत्र बनवले?",
-      "answer": "अचूक वजन मोजणारे यंत्र बनवले."
+      "question": "संशोधकाने कशासाठी प्रयत्न केले?",
+      "answer": "संशोधकाने नवीन शोधासाठी प्रयत्न केले."
     },
     {
       "question_id": 36,
       "question_type": "SHORT",
-      "question": "डॉ. मुळे यांच्या कार्याचे महत्त्व काय आहे?",
-      "answer": "त्यांच्या कार्यामुळे अचूक मापन शक्य झाले."
+      "question": "धड्यात संशोधन कशामुळे यशस्वी होते?",
+      "answer": "मेहनत आणि चिकाटीमुळे संशोधन यशस्वी होते."
     },
     {
       "question_id": 37,
       "question_type": "SHORT",
-      "question": "डॉ. शंकर आबाजी मुळे कोण होते?",
-      "answer": "ते एक प्रसिद्ध भारतीय संशोधक होते."
+      "question": "संशोधकाचे कार्य कशासाठी महत्त्वाचे आहे?",
+      "answer": "संशोधकाचे कार्य समाजासाठी महत्त्वाचे आहे."
     },
     {
       "question_id": 38,
       "question_type": "SHORT",
-      "question": "शंकरांच्या मनात संशोधनाची इच्छा कशी निर्माण झाली?",
-      "answer": "कमी वजन दिल्याच्या अनुभवामुळे संशोधनाची इच्छा निर्माण झाली."
+      "question": "संशोधकाने कोणत्या अडचणींचा सामना केला?",
+      "answer": "संशोधकाने अनेक अडचणींचा सामना केला."
     },
     {
       "question_id": 39,
       "question_type": "SHORT",
-      "question": "मुळे यांनी कोणते यंत्र बनवले?",
-      "answer": "अचूक वजन मोजणारे यंत्र बनवले."
+      "question": "संशोधकाच्या जीवनात कोणती भावना ठळक आहे?",
+      "answer": "संशोधकाच्या जीवनात जिज्ञासेची भावना ठळक आहे."
     },
     {
       "question_id": 40,
       "question_type": "SHORT",
-      "question": "डॉ. मुळे यांच्या कार्याचे महत्त्व काय आहे?",
-      "answer": "त्यांच्या कार्यामुळे अचूक मापन शक्य झाले."
+      "question": "धड्यात संशोधकाचे जीवन कसे दाखवले आहे?",
+      "answer": "धड्यात संशोधकाचे जीवन प्रेरणादायी दाखवले आहे."
     },
     {
       "question_id": 41,
       "question_type": "SHORT",
-      "question": "डॉ. शंकर आबाजी मुळे कोण होते?",
-      "answer": "ते एक प्रसिद्ध भारतीय संशोधक होते."
+      "question": "संशोधकाने कोणते मूल्य शिकवले?",
+      "answer": "संशोधकाने मेहनतीचे मूल्य शिकवले."
     },
     {
       "question_id": 42,
       "question_type": "SHORT",
-      "question": "शंकरांच्या मनात संशोधनाची इच्छा कशी निर्माण झाली?",
-      "answer": "कमी वजन दिल्याच्या अनुभवामुळे संशोधनाची इच्छा निर्माण झाली."
+      "question": "धड्यात संशोधकाचा उद्देश काय आहे?",
+      "answer": "संशोधकाचा उद्देश ज्ञानवृद्धी करणे आहे."
     },
     {
       "question_id": 43,
       "question_type": "SHORT",
-      "question": "मुळे यांनी कोणते यंत्र बनवले?",
-      "answer": "अचूक वजन मोजणारे यंत्र बनवले."
+      "question": "संशोधकाचे कार्य कशामुळे ओळखले जाते?",
+      "answer": "संशोधकाचे कार्य नवीन शोधांमुळे ओळखले जाते."
     },
     {
       "question_id": 44,
       "question_type": "SHORT",
-      "question": "डॉ. मुळे यांच्या कार्याचे महत्त्व काय आहे?",
-      "answer": "त्यांच्या कार्यामुळे अचूक मापन शक्य झाले."
+      "question": "संशोधकाने समाजाला काय दिले?",
+      "answer": "संशोधकाने समाजाला ज्ञान दिले."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "धड्यात संशोधकाचा संघर्ष कशाशी आहे?",
+      "answer": "धड्यात संशोधकाचा संघर्ष अडचणींशी आहे."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "संशोधकाचे यश कशामुळे मिळते?",
+      "answer": "संशोधकाचे यश धैर्य आणि मेहनतीमुळे मिळते."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "धड्यात कोणती शिकवण मिळते?",
+      "answer": "कष्टाचे महत्त्व ही शिकवण मिळते."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "संशोधकाचे जीवन कोणासाठी प्रेरणादायी आहे?",
+      "answer": "संशोधकाचे जीवन विद्यार्थ्यांसाठी प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "संशोधकाने कोणत्या गुणांवर भर दिला?",
+      "answer": "संयम आणि चिकाटीवर भर दिला."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "धड्यात संशोधन कशासाठी गरजेचे आहे?",
+      "answer": "प्रगतीसाठी संशोधन गरजेचे आहे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "संशोधकाचे कार्य कोणत्या क्षेत्रात आहे?",
+      "answer": "संशोधकाचे कार्य विज्ञान क्षेत्रात आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "संशोधकाच्या जीवनात कोणता टप्पा महत्त्वाचा आहे?",
+      "answer": "शोधाचा टप्पा महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "धड्यात संशोधकाचे विचार कसे आहेत?",
+      "answer": "धड्यात संशोधकाचे विचार वैज्ञानिक आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "संशोधकाच्या यशामागे काय आहे?",
+      "answer": "मेहनत आणि चिकाटी आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "धड्यात संशोधकाचा आदर्श काय आहे?",
+      "answer": "ज्ञानसेवा हा संशोधकाचा आदर्श आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "संशोधकाचे जीवन कसे शिकवते?",
+      "answer": "प्रयत्नाचे महत्त्व शिकवते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "धड्यात संशोधकाचा संदेश काय आहे?",
+      "answer": "सतत शोध करत राहण्याचा संदेश आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "ही रचना वाचल्यावर काय वाटते?",
+      "answer": "ही रचना वाचल्यावर प्रेरणा वाटते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
+      "answer": "संशोधनाचे महत्त्व शिकायला मिळते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "संशोधकाचे कार्य देशासाठी कसे आहे?",
+      "answer": "संशोधकाचे कार्य देशासाठी गौरवपूर्ण आहे."
     }
   ]
 }

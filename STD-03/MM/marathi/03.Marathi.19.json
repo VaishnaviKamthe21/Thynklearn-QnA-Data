@@ -1,100 +1,100 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03.ENG.MAR.19",
-    "standard": "3",
-    "subject": "Marathi Sulabhbharati",
-    "medium": "English",
-    "chapter_name": "सुगी (कविता)"
+    "chapter_id": "01.Marathi.19",
+    "standard": "1",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "सुगी"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "'सुगी' या कवितेत कोणत्या ऋतूबद्दल सांगितले आहे?",
+      "question": "'सुगी' हा धडा कोणत्या विषयाशी संबंधित आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "हिवाळा",
+          "text": "शेती",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "उन्हाळा",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "पावसाळा",
+          "text": "प्रवास",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "वसंत",
+          "text": "संगीत",
           "is_correct": false
         }
       ],
-      "answer": "हिवाळा"
+      "answer": "शेती"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "सुगी आल्यावर शेतात काय दिसते?",
+      "question": "या धड्याचा मुख्य विषय काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "पीक",
+          "text": "पीक कापणी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "पाणी",
+          "text": "शाळा",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "बर्फ",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "फुले",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "पीक"
+      "answer": "पीक कापणी"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "कवितेत शेतकरी काय करताना दाखवले आहेत?",
+      "question": "सुगी म्हणजे काय?",
       "options": [
         {
           "option_id": 1,
-          "text": "पीक कापताना",
+          "text": "पीक कापणीचा काळ",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "झोपताना",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "प्रवास करताना",
+          "text": "सण",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "खेळताना",
+          "text": "प्रवास",
           "is_correct": false
         }
       ],
-      "answer": "पीक कापताना"
+      "answer": "पीक कापणीचा काळ"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "सुगीमुळे लोकांना कसे वाटते?",
+      "question": "सुगीच्या काळात शेतकऱ्यांच्या जीवनात काय बदल होतो?",
       "options": [
         {
           "option_id": 1,
@@ -103,17 +103,17 @@
         },
         {
           "option_id": 2,
-          "text": "दु:ख",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
           "text": "भीती",
           "is_correct": false
         },
         {
-          "option_id": 4,
+          "option_id": 3,
           "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
           "is_correct": false
         }
       ],
@@ -122,128 +122,72 @@
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "ही कविता कशावर आधारित आहे?",
+      "question": "धड्यात सुगी कशासाठी महत्त्वाची आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "शेती आणि निसर्ग",
+          "text": "शेतीसाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शहरजीवन",
+          "text": "खेळासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खेळ",
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "शाळा",
+          "text": "भीतीसाठी",
           "is_correct": false
         }
       ],
-      "answer": "शेती आणि निसर्ग"
+      "answer": "शेतीसाठी"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "'सुगी' या कवितेत कोणत्या ऋतूबद्दल सांगितले आहे?",
+      "question": "सुगीच्या वेळी कोणते काम केले जाते?",
       "options": [
         {
           "option_id": 1,
-          "text": "हिवाळा",
+          "text": "पीक कापणी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "उन्हाळा",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "पावसाळा",
+          "text": "प्रवास",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "वसंत",
+          "text": "विश्रांती",
           "is_correct": false
         }
       ],
-      "answer": "हिवाळा"
+      "answer": "पीक कापणी"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "सुगी आल्यावर शेतात काय दिसते?",
+      "question": "सुगीमुळे शेतकऱ्यांना काय मिळते?",
       "options": [
         {
           "option_id": 1,
-          "text": "पीक",
+          "text": "अन्नधान्य",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "पाणी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "बर्फ",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "फुले",
-          "is_correct": false
-        }
-      ],
-      "answer": "पीक"
-    },
-    {
-      "question_id": 8,
-      "question_type": "MCQ",
-      "question": "कवितेत शेतकरी काय करताना दाखवले आहेत?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "पीक कापताना",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "झोपताना",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "प्रवास करताना",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "खेळताना",
-          "is_correct": false
-        }
-      ],
-      "answer": "पीक कापताना"
-    },
-    {
-      "question_id": 9,
-      "question_type": "MCQ",
-      "question": "सुगीमुळे लोकांना कसे वाटते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दु:ख",
+          "text": "राग",
           "is_correct": false
         },
         {
@@ -253,7 +197,63 @@
         },
         {
           "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "अन्नधान्य"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "धड्यात सुगीचा आनंद कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकत्र काम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
           "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकत्र काम"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सुगीच्या काळात कोणती भावना ठळक असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
           "is_correct": false
         }
       ],
@@ -262,268 +262,184 @@
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "ही कविता कशावर आधारित आहे?",
+      "question": "धड्यात शेतकऱ्यांचे जीवन कसे दाखवले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "शेती आणि निसर्ग",
+          "text": "मेहनती",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शहरजीवन",
+          "text": "आळशी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खेळ",
+          "text": "रागीट",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "शाळा",
+          "text": "भयभीत",
           "is_correct": false
         }
       ],
-      "answer": "शेती आणि निसर्ग"
+      "answer": "मेहनती"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "'सुगी' या कवितेत कोणत्या ऋतूबद्दल सांगितले आहे?",
+      "question": "सुगीच्या वेळी कोणते नाते घट्ट होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "हिवाळा",
+          "text": "कुटुंब",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "उन्हाळा",
+          "text": "शत्रू",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "पावसाळा",
+          "text": "कोणतेही नाही",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "वसंत",
+          "text": "एकटे",
           "is_correct": false
         }
       ],
-      "answer": "हिवाळा"
+      "answer": "कुटुंब"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
-      "question": "सुगी आल्यावर शेतात काय दिसते?",
+      "question": "धड्यात सुगीमुळे समाजात काय निर्माण होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "पीक",
+          "text": "समृद्धी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "पाणी",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "बर्फ",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "फुले",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "पीक"
+      "answer": "समृद्धी"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
-      "question": "कवितेत शेतकरी काय करताना दाखवले आहेत?",
+      "question": "सुगीच्या काळात कोणते मूल्य दिसते?",
       "options": [
         {
           "option_id": 1,
-          "text": "पीक कापताना",
+          "text": "मेहनत",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "झोपताना",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "प्रवास करताना",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "खेळताना",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "पीक कापताना"
+      "answer": "मेहनत"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
-      "question": "सुगीमुळे लोकांना कसे वाटते?",
+      "question": "धड्यात सुगीचे वर्णन कसे आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद",
+          "text": "आनंददायी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दु:ख",
+          "text": "दुःखद",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भीती",
+          "text": "भयाण",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "राग",
+          "text": "निरस",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "आनंददायी"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
-      "question": "ही कविता कशावर आधारित आहे?",
+      "question": "सुगीच्या वेळी शेतकऱ्यांचे काम कसे असते?",
       "options": [
         {
           "option_id": 1,
-          "text": "शेती आणि निसर्ग",
+          "text": "कठीण पण आनंदी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शहरजीवन",
+          "text": "सोपे",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खेळ",
+          "text": "कंटाळवाणे",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "शाळा",
+          "text": "भीतीदायक",
           "is_correct": false
         }
       ],
-      "answer": "शेती आणि निसर्ग"
+      "answer": "कठीण पण आनंदी"
     },
     {
       "question_id": 16,
       "question_type": "MCQ",
-      "question": "'सुगी' या कवितेत कोणत्या ऋतूबद्दल सांगितले आहे?",
+      "question": "धड्यात सुगीमुळे कोणती सवय लागते?",
       "options": [
         {
           "option_id": 1,
-          "text": "हिवाळा",
+          "text": "एकत्र काम",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "उन्हाळा",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "पावसाळा",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "वसंत",
-          "is_correct": false
-        }
-      ],
-      "answer": "हिवाळा"
-    },
-    {
-      "question_id": 17,
-      "question_type": "MCQ",
-      "question": "सुगी आल्यावर शेतात काय दिसते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "पीक",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "पाणी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "बर्फ",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "फुले",
-          "is_correct": false
-        }
-      ],
-      "answer": "पीक"
-    },
-    {
-      "question_id": 18,
-      "question_type": "MCQ",
-      "question": "कवितेत शेतकरी काय करताना दाखवले आहेत?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "पीक कापताना",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "झोपताना",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "प्रवास करताना",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "खेळताना",
-          "is_correct": false
-        }
-      ],
-      "answer": "पीक कापताना"
-    },
-    {
-      "question_id": 19,
-      "question_type": "MCQ",
-      "question": "सुगीमुळे लोकांना कसे वाटते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंद",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दु:ख",
+          "text": "राग",
           "is_correct": false
         },
         {
@@ -533,183 +449,583 @@
         },
         {
           "option_id": 4,
-          "text": "राग",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "आनंद"
+      "answer": "एकत्र काम"
     },
     {
-      "question_id": 20,
+      "question_id": 17,
       "question_type": "MCQ",
-      "question": "ही कविता कशावर आधारित आहे?",
+      "question": "सुगीच्या वेळी कोणती साधने वापरली जातात?",
       "options": [
         {
           "option_id": 1,
-          "text": "शेती आणि निसर्ग",
+          "text": "शेतीची साधने",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शहरजीवन",
+          "text": "खेळणी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खेळ",
+          "text": "वाद्ये",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "शाळा",
+          "text": "पुस्तके",
           "is_correct": false
         }
       ],
-      "answer": "शेती आणि निसर्ग"
+      "answer": "शेतीची साधने"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "धड्यात सुगीचा परिणाम कशावर होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अन्नपुरवठा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "अन्नपुरवठा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "सुगीच्या काळात कोणती शिकवण मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेहनतीचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेहनतीचे महत्त्व"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "धड्यात सुगीचा शेवट कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समाधानकारक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दुःखद",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भयाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गंभीर",
+          "is_correct": false
+        }
+      ],
+      "answer": "समाधानकारक"
     },
     {
       "question_id": 21,
-      "question_type": "SHORT",
-      "question": "'सुगी' ही कविता कशाबद्दल आहे?",
-      "answer": "ही कविता सुगीचा काळ आणि शेतकऱ्यांच्या आनंदाबद्दल आहे."
+      "question_type": "MCQ",
+      "question": "सुगीमुळे कोणता सण साजरा केला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पीक उत्सव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "पीक उत्सव"
     },
     {
       "question_id": 22,
-      "question_type": "SHORT",
-      "question": "सुगी म्हणजे काय?",
-      "answer": "पीक तयार होऊन कापणीचा काळ म्हणजे सुगी."
+      "question_type": "MCQ",
+      "question": "धड्यात सुगीचा आनंद कशामुळे वाढतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यशस्वी कापणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "यशस्वी कापणी"
     },
     {
       "question_id": 23,
-      "question_type": "SHORT",
-      "question": "कवितेत कोणते दृश्य दिसते?",
-      "answer": "शेतात पीक, शेतकरी आणि आनंदी वातावरण दिसते."
+      "question_type": "MCQ",
+      "question": "सुगीच्या काळात शेतकऱ्यांचे आरोग्य कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेहनती पण तंदुरुस्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आजारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भयभीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेहनती पण तंदुरुस्त"
     },
     {
       "question_id": 24,
-      "question_type": "SHORT",
-      "question": "या कवितेचा मुख्य संदेश काय आहे?",
-      "answer": "मेहनतीचे फळ आनंद देतं हा संदेश आहे."
+      "question_type": "MCQ",
+      "question": "धड्यात सुगी कशाशी जोडलेली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग"
     },
     {
       "question_id": 25,
-      "question_type": "SHORT",
-      "question": "'सुगी' ही कविता कशाबद्दल आहे?",
-      "answer": "ही कविता सुगीचा काळ आणि शेतकऱ्यांच्या आनंदाबद्दल आहे."
+      "question_type": "MCQ",
+      "question": "सुगीच्या वेळी कोणती जबाबदारी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पीक साठवण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "पीक साठवण"
     },
     {
       "question_id": 26,
-      "question_type": "SHORT",
-      "question": "सुगी म्हणजे काय?",
-      "answer": "पीक तयार होऊन कापणीचा काळ म्हणजे सुगी."
+      "question_type": "MCQ",
+      "question": "धड्यात सुगीमुळे कोणते नाते मजबूत होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेतकरी समाज",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शत्रू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कोणीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एकटे",
+          "is_correct": false
+        }
+      ],
+      "answer": "शेतकरी समाज"
     },
     {
       "question_id": 27,
-      "question_type": "SHORT",
-      "question": "कवितेत कोणते दृश्य दिसते?",
-      "answer": "शेतात पीक, शेतकरी आणि आनंदी वातावरण दिसते."
+      "question_type": "MCQ",
+      "question": "सुगीच्या काळात कोणती सवय लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेहनत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेहनत"
     },
     {
       "question_id": 28,
-      "question_type": "SHORT",
-      "question": "या कवितेचा मुख्य संदेश काय आहे?",
-      "answer": "मेहनतीचे फळ आनंद देतं हा संदेश आहे."
+      "question_type": "MCQ",
+      "question": "धड्यात सुगीचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेहनतीचे फळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती बाळगा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेहनतीचे फळ"
     },
     {
       "question_id": 29,
-      "question_type": "SHORT",
-      "question": "'सुगी' ही कविता कशाबद्दल आहे?",
-      "answer": "ही कविता सुगीचा काळ आणि शेतकऱ्यांच्या आनंदाबद्दल आहे."
+      "question_type": "MCQ",
+      "question": "ही रचना वाचल्यावर काय वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आदर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आदर"
     },
     {
       "question_id": 30,
-      "question_type": "SHORT",
-      "question": "सुगी म्हणजे काय?",
-      "answer": "पीक तयार होऊन कापणीचा काळ म्हणजे सुगी."
+      "question_type": "MCQ",
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेतीचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "शेतीचे महत्त्व"
     },
     {
       "question_id": 31,
       "question_type": "SHORT",
-      "question": "कवितेत कोणते दृश्य दिसते?",
-      "answer": "शेतात पीक, शेतकरी आणि आनंदी वातावरण दिसते."
+      "question": "'सुगी' हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा पीक कापणीबद्दल आहे."
     },
     {
       "question_id": 32,
       "question_type": "SHORT",
-      "question": "या कवितेचा मुख्य संदेश काय आहे?",
-      "answer": "मेहनतीचे फळ आनंद देतं हा संदेश आहे."
+      "question": "या धड्याचा मुख्य विषय काय आहे?",
+      "answer": "या धड्याचा मुख्य विषय सुगी आहे."
     },
     {
       "question_id": 33,
       "question_type": "SHORT",
-      "question": "'सुगी' ही कविता कशाबद्दल आहे?",
-      "answer": "ही कविता सुगीचा काळ आणि शेतकऱ्यांच्या आनंदाबद्दल आहे."
+      "question": "सुगी म्हणजे काय?",
+      "answer": "सुगी म्हणजे पीक कापणीचा काळ होय."
     },
     {
       "question_id": 34,
       "question_type": "SHORT",
-      "question": "सुगी म्हणजे काय?",
-      "answer": "पीक तयार होऊन कापणीचा काळ म्हणजे सुगी."
+      "question": "सुगीच्या काळात शेतकऱ्यांच्या जीवनात काय बदल होतो?",
+      "answer": "आनंद आणि समाधान मिळते."
     },
     {
       "question_id": 35,
       "question_type": "SHORT",
-      "question": "कवितेत कोणते दृश्य दिसते?",
-      "answer": "शेतात पीक, शेतकरी आणि आनंदी वातावरण दिसते."
+      "question": "धड्यात सुगी कशासाठी महत्त्वाची आहे?",
+      "answer": "शेती आणि अन्नपुरवठ्यासाठी महत्त्वाची आहे."
     },
     {
       "question_id": 36,
       "question_type": "SHORT",
-      "question": "या कवितेचा मुख्य संदेश काय आहे?",
-      "answer": "मेहनतीचे फळ आनंद देतं हा संदेश आहे."
+      "question": "सुगीच्या वेळी कोणते काम केले जाते?",
+      "answer": "पीक कापणीचे काम केले जाते."
     },
     {
       "question_id": 37,
       "question_type": "SHORT",
-      "question": "'सुगी' ही कविता कशाबद्दल आहे?",
-      "answer": "ही कविता सुगीचा काळ आणि शेतकऱ्यांच्या आनंदाबद्दल आहे."
+      "question": "सुगीमुळे शेतकऱ्यांना काय मिळते?",
+      "answer": "अन्नधान्य आणि उत्पन्न मिळते."
     },
     {
       "question_id": 38,
       "question_type": "SHORT",
-      "question": "सुगी म्हणजे काय?",
-      "answer": "पीक तयार होऊन कापणीचा काळ म्हणजे सुगी."
+      "question": "धड्यात सुगीचा आनंद कसा दाखवला आहे?",
+      "answer": "एकत्र काम करून आनंद दाखवला आहे."
     },
     {
       "question_id": 39,
       "question_type": "SHORT",
-      "question": "कवितेत कोणते दृश्य दिसते?",
-      "answer": "शेतात पीक, शेतकरी आणि आनंदी वातावरण दिसते."
+      "question": "सुगीच्या काळात कोणती भावना ठळक असते?",
+      "answer": "आनंदाची भावना ठळक असते."
     },
     {
       "question_id": 40,
       "question_type": "SHORT",
-      "question": "या कवितेचा मुख्य संदेश काय आहे?",
-      "answer": "मेहनतीचे फळ आनंद देतं हा संदेश आहे."
+      "question": "धड्यात शेतकऱ्यांचे जीवन कसे दाखवले आहे?",
+      "answer": "मेहनती आणि साधे दाखवले आहे."
     },
     {
       "question_id": 41,
       "question_type": "SHORT",
-      "question": "'सुगी' ही कविता कशाबद्दल आहे?",
-      "answer": "ही कविता सुगीचा काळ आणि शेतकऱ्यांच्या आनंदाबद्दल आहे."
+      "question": "सुगीच्या वेळी कोणते नाते घट्ट होते?",
+      "answer": "कुटुंब आणि समाजाचे नाते घट्ट होते."
     },
     {
       "question_id": 42,
       "question_type": "SHORT",
-      "question": "सुगी म्हणजे काय?",
-      "answer": "पीक तयार होऊन कापणीचा काळ म्हणजे सुगी."
+      "question": "धड्यात सुगीमुळे समाजात काय निर्माण होते?",
+      "answer": "समृद्धी निर्माण होते."
     },
     {
       "question_id": 43,
       "question_type": "SHORT",
-      "question": "कवितेत कोणते दृश्य दिसते?",
-      "answer": "शेतात पीक, शेतकरी आणि आनंदी वातावरण दिसते."
+      "question": "सुगीच्या काळात कोणते मूल्य दिसते?",
+      "answer": "मेहनतीचे मूल्य दिसते."
     },
     {
       "question_id": 44,
       "question_type": "SHORT",
-      "question": "या कवितेचा मुख्य संदेश काय आहे?",
-      "answer": "मेहनतीचे फळ आनंद देतं हा संदेश आहे."
+      "question": "धड्यात सुगीचे वर्णन कसे आहे?",
+      "answer": "धड्यात सुगी आनंददायी वर्णन केली आहे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "सुगीच्या वेळी शेतकऱ्यांचे काम कसे असते?",
+      "answer": "कठीण पण आनंदी असते."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "धड्यात सुगीमुळे कोणती सवय लागते?",
+      "answer": "एकत्र काम करण्याची सवय लागते."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "सुगीच्या वेळी कोणती साधने वापरली जातात?",
+      "answer": "शेतीची साधने वापरली जातात."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "धड्यात सुगीचा परिणाम कशावर होतो?",
+      "answer": "अन्नपुरवठ्यावर परिणाम होतो."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "सुगीच्या काळात कोणती शिकवण मिळते?",
+      "answer": "मेहनतीचे महत्त्व शिकायला मिळते."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "धड्यात सुगीचा शेवट कसा आहे?",
+      "answer": "समाधानकारक शेवट आहे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सुगीमुळे कोणता सण साजरा केला जातो?",
+      "answer": "पीक उत्सव साजरा केला जातो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "धड्यात सुगीचा आनंद कशामुळे वाढतो?",
+      "answer": "यशस्वी कापणीमुळे आनंद वाढतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "सुगीच्या काळात शेतकऱ्यांचे आरोग्य कसे असते?",
+      "answer": "मेहनती पण तंदुरुस्त असते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "धड्यात सुगी कशाशी जोडलेली आहे?",
+      "answer": "निसर्गाशी जोडलेली आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सुगीच्या वेळी कोणती जबाबदारी असते?",
+      "answer": "पीक साठवण आणि काळजीची जबाबदारी असते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "धड्यात सुगीमुळे कोणते नाते मजबूत होते?",
+      "answer": "शेतकरी समाजाचे नाते मजबूत होते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सुगीच्या काळात कोणती सवय लागते?",
+      "answer": "मेहनतीची सवय लागते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "धड्यात सुगीचा संदेश काय आहे?",
+      "answer": "मेहनतीचे फळ मिळते हा संदेश आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ही रचना वाचल्यावर काय वाटते?",
+      "answer": "शेतकऱ्यांविषयी आदर वाटतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
+      "answer": "शेतीचे महत्त्व शिकायला मिळते."
     }
   ]
 }

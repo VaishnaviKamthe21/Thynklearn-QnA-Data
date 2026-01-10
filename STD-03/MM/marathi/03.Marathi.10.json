@@ -1,1650 +1,1031 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03-Marathi-10",
-    "standard": "3",
+    "chapter_id": "01.Marathi.10",
+    "standard": "1",
     "subject": "Marathi",
     "medium": "Marathi",
-    "chapter_name": "आमचा शब्दकोश",
-    "chapter_type": "भाषा-अभ्यास"
+    "chapter_name": "आमचा शब्दकोश"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "‘आमचा शब्दकोश’ या पाठात मुले काय करत आहेत?",
+      "question": "'आमचा शब्दकोश' हा धडा कोणत्या प्रकारचा आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
+          "text": "कविता",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "कथा",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
+          "text": "उपक्रम",
+          "is_correct": true
         },
         {
           "option_id": 4,
-          "text": "गाणी म्हणणे",
+          "text": "निबंध",
           "is_correct": false
         }
       ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "answer": "उपक्रम"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "मुले शब्द कोणत्या अक्षरापासून शोधत आहेत?",
+      "question": "या धड्याचा मुख्य उद्देश काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "गाणी शिकवणे",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "शब्दसंग्रह वाढवणे",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "खेळ खेळणे",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गाणी म्हणणे",
+          "text": "चित्रकला",
           "is_correct": false
         }
       ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "answer": "शब्दसंग्रह वाढवणे"
     },
     {
       "question_id": 3,
-      "question_type": "MCQ",
-      "question": "बाईंनी शब्दांचा क्रम कसा लावला?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 4,
-      "question_type": "MCQ",
-      "question": "मुळाक्षरांचा क्रम म्हणजे काय?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 5,
       "question_type": "MCQ",
       "question": "शब्दकोशाचा उपयोग कशासाठी होतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "खेळण्यासाठी",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "शब्दांचे अर्थ जाणून घेण्यासाठी",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "खेळ खेळणे",
+          "text": "चित्र काढण्यासाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गाणी म्हणणे",
+          "text": "गाणे म्हणण्यासाठी",
           "is_correct": false
         }
       ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "answer": "शब्दांचे अर्थ जाणून घेण्यासाठी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "धड्यात शब्दकोश कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मजेशीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपयोगी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भयानक",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपयोगी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "शब्दकोशामुळे काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शब्दसंपदा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दसंपदा"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "फळ्यावर शब्द का लिहिले होते?",
+      "question": "धड्यात कोणती सवय लावण्याचा संदेश आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
+          "text": "शब्द शोधण्याची",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "राग करण्याची",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खेळ खेळणे",
+          "text": "आळस करण्याची",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गाणी म्हणणे",
+          "text": "दुर्लक्ष",
           "is_correct": false
         }
       ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "answer": "शब्द शोधण्याची"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "‘कप’ हा शब्द कोणत्या अक्षराने सुरू होतो?",
+      "question": "शब्दकोशात शब्द कसे मांडलेले असतात?",
       "options": [
         {
           "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
+          "text": "अक्षरक्रमाने",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "मनमानी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खेळ खेळणे",
+          "text": "कथेत",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गाणी म्हणणे",
+          "text": "चित्रात",
           "is_correct": false
         }
       ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "answer": "अक्षरक्रमाने"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "‘किल्ला’ या शब्दाचा पहिला अक्षर कोणता?",
+      "question": "नवीन शब्द कसे शिकता येतात?",
       "options": [
         {
           "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "दुर्लक्ष करून",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "शब्दकोश वापरून",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "खेळ खेळणे",
+          "text": "राग करून",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गाणी म्हणणे",
+          "text": "आळस करून",
           "is_correct": false
         }
       ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "answer": "शब्दकोश वापरून"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "शब्द ऐकल्यावर काय करता येते असे बाई म्हणाल्या?",
+      "question": "शब्दकोशाचा वापर केल्याने काय सुधारते?",
       "options": [
         {
           "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
+          "text": "लेखन",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "वाचन",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
+          "text": "दोन्ही",
+          "is_correct": true
         },
         {
           "option_id": 4,
-          "text": "गाणी म्हणणे",
+          "text": "खेळ",
           "is_correct": false
         }
       ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "answer": "दोन्ही"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "मुले शब्दांचा क्रम का शिकत आहेत?",
+      "question": "धड्यात कोणत्या गोष्टीवर भर दिला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
+          "text": "शब्दांचा अर्थ",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खेळ खेळणे",
+          "text": "रंग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गाणी म्हणणे",
+          "text": "संगीत",
           "is_correct": false
         }
       ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "answer": "शब्दांचा अर्थ"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "शब्दकोशात शब्द कसे सापडतात?",
+      "question": "शब्दकोशामुळे कोणती सवय लागते?",
       "options": [
         {
           "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
+          "text": "शोध घेण्याची",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खेळ खेळणे",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गाणी म्हणणे",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "answer": "शोध घेण्याची"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
-      "question": "बाईंनी अर्थासहित शब्द का लिहिले?",
+      "question": "धड्यात शब्द कसे निवडले आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
+          "text": "ओळखीचे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "कठीण",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खेळ खेळणे",
+          "text": "इंग्रजी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गाणी म्हणणे",
+          "text": "परदेशी",
           "is_correct": false
         }
       ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "answer": "ओळखीचे"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
-      "question": "‘कोकरू’ या शब्दाचा अर्थ काय आहे?",
+      "question": "शब्दकोश वापरणे का महत्त्वाचे आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "वेळ वाया जातो",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "अर्थ समजतो",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "खेळ खेळणे",
+          "text": "खेळ मिळतो",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गाणी म्हणणे",
+          "text": "भीती वाटते",
           "is_correct": false
         }
       ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "answer": "अर्थ समजतो"
     },
     {
       "question_id": 14,
-      "question_type": "MCQ",
-      "question": "‘गर्द’ या शब्दाचा अर्थ काय?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 15,
-      "question_type": "MCQ",
-      "question": "शब्दकोशात शब्द कोणत्या क्रमाने असतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 16,
-      "question_type": "MCQ",
-      "question": "‘वाट’ या शब्दाचा अर्थ काय?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 17,
-      "question_type": "MCQ",
-      "question": "मुले शब्द वहीत का लिहित आहेत?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 18,
-      "question_type": "MCQ",
-      "question": "‘शहारा येणे’ याचा अर्थ काय?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 19,
-      "question_type": "MCQ",
-      "question": "बाईंनी नवीन शब्द का लिहिले?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 20,
-      "question_type": "MCQ",
-      "question": "शब्दांचा क्रम लावण्याचा फायदा काय?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 21,
-      "question_type": "MCQ",
-      "question": "‘सृष्टी’ या शब्दाचा अर्थ काय?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 22,
-      "question_type": "MCQ",
-      "question": "‘काळोख’ या शब्दाचा अर्थ काय?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 23,
-      "question_type": "MCQ",
-      "question": "‘परतणे’ या शब्दाचा अर्थ काय?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 24,
-      "question_type": "MCQ",
-      "question": "‘गुराखी’ म्हणजे कोण?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 25,
-      "question_type": "MCQ",
-      "question": "शब्दकोशामुळे शब्दसंग्रह कसा वाढतो?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 26,
-      "question_type": "MCQ",
-      "question": "शब्दकोशात समान शब्द एकत्र का असतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 27,
-      "question_type": "MCQ",
-      "question": "मुले कोणत्या खेळातून शब्द शिकत आहेत?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 28,
-      "question_type": "MCQ",
-      "question": "शब्दकोशाचा वापर केव्हा करतो?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 29,
-      "question_type": "MCQ",
-      "question": "बाईंनी उदाहरणे का दिली?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 30,
-      "question_type": "MCQ",
-      "question": "शब्दांचा क्रम बदलल्यास काय होते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 31,
-      "question_type": "MCQ",
-      "question": "‘कैरी’ हा शब्द कोणत्या अक्षराने सुरू होतो?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 32,
-      "question_type": "MCQ",
-      "question": "‘कोट’ हा शब्द कोणत्या अक्षराने सुरू होतो?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 33,
-      "question_type": "MCQ",
-      "question": "‘कंद’ या शब्दाचा अर्थ काय?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 34,
-      "question_type": "MCQ",
-      "question": "शब्दकोश वाचनाची सवय का लावावी?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 35,
-      "question_type": "MCQ",
-      "question": "शब्दकोशामुळे लेखन कसे सुधारते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 36,
-      "question_type": "MCQ",
-      "question": "शब्दकोशात एकाच अर्थाचे शब्द असतात का?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 37,
-      "question_type": "MCQ",
-      "question": "शब्दकोशात शब्द शोधणे सोपे का होते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 38,
-      "question_type": "MCQ",
-      "question": "मुले शब्दांचा उच्चार का करतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 39,
-      "question_type": "MCQ",
-      "question": "शब्दकोशात शब्द वेगळ्या पानांवर का असतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 40,
-      "question_type": "MCQ",
-      "question": "बाईंनी शब्द फळ्यावर का लावले?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 41,
-      "question_type": "MCQ",
-      "question": "शब्दकोशामुळे वाचन कसे सुधारते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 42,
-      "question_type": "MCQ",
-      "question": "शब्दकोश वापरण्याची सवय का आवश्यक आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 43,
-      "question_type": "MCQ",
-      "question": "शब्दकोशात शब्द कोणत्या क्रमाने मांडलेले असतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 44,
-      "question_type": "MCQ",
-      "question": "शब्दांचा योग्य अर्थ कसा कळतो?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 45,
-      "question_type": "MCQ",
-      "question": "शब्दकोशामुळे भाषेचे ज्ञान कसे वाढते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
-    },
-    {
-      "question_id": 46,
       "question_type": "MCQ",
       "question": "शब्दकोशाचा उपयोग कोण करू शकतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
+          "text": "फक्त शिक्षक",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "फक्त विद्यार्थी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "खेळ खेळणे",
+          "text": "सर्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोणीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "धड्यात शब्दकोश कशासाठी वापरायला सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अर्थ शोधण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गाणी म्हणणे",
+          "text": "आळसासाठी",
           "is_correct": false
         }
       ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "answer": "अर्थ शोधण्यासाठी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "शब्दकोशामुळे भाषा कशी सुधारते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अर्थ समजून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "अर्थ समजून"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "शब्दकोशातील शब्द कसे असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अर्थासह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विनाअर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त चित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त आवाज",
+          "is_correct": false
+        }
+      ],
+      "answer": "अर्थासह"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "शब्दकोश वापरताना काय करावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अक्षर ओळखावे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घाई करावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस करावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अक्षर ओळखावे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "धड्यात कोणती चांगली सवय शिकवली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्द शोध",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्द शोध"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "शब्दकोशामुळे आत्मविश्वास कसा वाढतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्द समजल्याने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्द समजल्याने"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "नवीन शब्द वापरल्याने काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंधळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाषा समृद्ध",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाषा समृद्ध"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "धड्यात शब्दसंग्रह वाढवण्याचे महत्त्व कसे सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उदाहरणांनी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "उदाहरणांनी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "शब्दकोशाचा वापर कोणत्या कामात होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेखन-वाचन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्रकला",
+          "is_correct": false
+        }
+      ],
+      "answer": "लेखन-वाचन"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "शब्दकोश वापरल्याने काय सोपे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अर्थ समजणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "अर्थ समजणे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "शब्दकोशामुळे कोणता गुण वाढतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जिज्ञासा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिज्ञासा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दकोश वापरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दकोश वापरा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "शब्दकोशामुळे कोणती सवय लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिकण्याची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसाची",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिकण्याची"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "धडा वाचल्यावर काय करावेसे वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्द शोधावे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस करावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्द शोधावे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "शब्दकोश वापरल्याने भाषा कशी होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समृद्ध",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कमकुवत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीदायक",
+          "is_correct": false
+        }
+      ],
+      "answer": "समृद्ध"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दकोश वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दकोश वापर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "'आमचा शब्दकोश' हा धडा कोणत्या प्रकारचा आहे?",
+      "answer": "हा धडा उपक्रम प्रकारचा आहे."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "या धड्याचा मुख्य उद्देश काय आहे?",
+      "answer": "या धड्याचा मुख्य उद्देश शब्दसंग्रह वाढवणे आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "शब्दकोशाचा उपयोग कशासाठी होतो?",
+      "answer": "शब्दकोशाचा उपयोग शब्दांचे अर्थ जाणून घेण्यासाठी होतो."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "धड्यात शब्दकोश कसा दाखवला आहे?",
+      "answer": "धड्यात शब्दकोश उपयोगी म्हणून दाखवला आहे."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "शब्दकोशामुळे काय वाढते?",
+      "answer": "शब्दकोशामुळे शब्दसंपदा वाढते."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "धड्यात कोणती सवय लावण्याचा संदेश आहे?",
+      "answer": "शब्द शोधण्याची सवय लावण्याचा संदेश आहे."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "शब्दकोशात शब्द कसे मांडलेले असतात?",
+      "answer": "शब्दकोशात शब्द अक्षरक्रमाने मांडलेले असतात."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "नवीन शब्द कसे शिकता येतात?",
+      "answer": "शब्दकोश वापरून नवीन शब्द शिकता येतात."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "शब्दकोशाचा वापर केल्याने काय सुधारते?",
+      "answer": "शब्दकोश वापरल्याने वाचन आणि लेखन सुधारते."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "धड्यात कोणत्या गोष्टीवर भर दिला आहे?",
+      "answer": "धड्यात शब्दांच्या अर्थावर भर दिला आहे."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "शब्दकोशामुळे कोणती सवय लागते?",
+      "answer": "शोध घेण्याची सवय लागते."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "धड्यात शब्द कसे निवडले आहेत?",
+      "answer": "धड्यात शब्द ओळखीचे निवडले आहेत."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "शब्दकोश वापरणे का महत्त्वाचे आहे?",
+      "answer": "शब्दांचे अर्थ समजण्यासाठी शब्दकोश महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "शब्दकोशाचा उपयोग कोण करू शकतो?",
+      "answer": "शब्दकोशाचा उपयोग सर्व करू शकतात."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "धड्यात शब्दकोश कशासाठी वापरायला सांगितले आहे?",
+      "answer": "अर्थ शोधण्यासाठी शब्दकोश वापरायला सांगितले आहे."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "शब्दकोशामुळे भाषा कशी सुधारते?",
+      "answer": "शब्दांचे अर्थ समजल्यामुळे भाषा सुधारते."
     },
     {
       "question_id": 47,
-      "question_type": "MCQ",
-      "question": "‘आमचा शब्दकोश’ या पाठाचा मुख्य उद्देश काय?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "question_type": "SHORT",
+      "question": "शब्दकोशातील शब्द कसे असतात?",
+      "answer": "शब्दकोशातील शब्द अर्थासह असतात."
     },
     {
       "question_id": 48,
-      "question_type": "MCQ",
-      "question": "शब्दकोश शिकताना मुले आनंदी का असतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शब्दांचा क्रम लावणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चित्र काढणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खेळ खेळणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "गाणी म्हणणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "शब्दांचा क्रम लावणे"
+      "question_type": "SHORT",
+      "question": "शब्दकोश वापरताना काय करावे?",
+      "answer": "शब्दकोश वापरताना अक्षर ओळखावे."
     },
     {
       "question_id": 49,
       "question_type": "SHORT",
-      "question": "शब्दकोश म्हणजे काय?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+      "question": "धड्यात कोणती चांगली सवय शिकवली आहे?",
+      "answer": "शब्द शोधण्याची चांगली सवय शिकवली आहे."
     },
     {
       "question_id": 50,
       "question_type": "SHORT",
-      "question": "शब्दकोशाचा उपयोग काय आहे?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+      "question": "शब्दकोशामुळे आत्मविश्वास कसा वाढतो?",
+      "answer": "शब्दांचे अर्थ समजल्याने आत्मविश्वास वाढतो."
     },
     {
       "question_id": 51,
       "question_type": "SHORT",
-      "question": "मुले शब्दकोश कसा तयार करत आहेत?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+      "question": "नवीन शब्द वापरल्याने काय होते?",
+      "answer": "नवीन शब्द वापरल्याने भाषा समृद्ध होते."
     },
     {
       "question_id": 52,
       "question_type": "SHORT",
-      "question": "मुळाक्षरांचा क्रम म्हणजे काय?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+      "question": "धड्यात शब्दसंग्रह वाढवण्याचे महत्त्व कसे सांगितले आहे?",
+      "answer": "उदाहरणांच्या मदतीने महत्त्व सांगितले आहे."
     },
     {
       "question_id": 53,
       "question_type": "SHORT",
-      "question": "शब्दांचा क्रम लावणे का महत्त्वाचे आहे?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+      "question": "शब्दकोशाचा वापर कोणत्या कामात होतो?",
+      "answer": "शब्दकोशाचा वापर लेखन आणि वाचनात होतो."
     },
     {
       "question_id": 54,
       "question_type": "SHORT",
-      "question": "बाईंनी फळ्यावर शब्द का लिहिले?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+      "question": "शब्दकोश वापरल्याने काय सोपे होते?",
+      "answer": "शब्दांचे अर्थ समजणे सोपे होते."
     },
     {
       "question_id": 55,
       "question_type": "SHORT",
-      "question": "शब्दकोशामुळे शब्दसंग्रह कसा वाढतो?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+      "question": "शब्दकोशामुळे कोणता गुण वाढतो?",
+      "answer": "शब्दकोशामुळे जिज्ञासा वाढते."
     },
     {
       "question_id": 56,
       "question_type": "SHORT",
-      "question": "‘कोकरू’ या शब्दाचा अर्थ लिहा.",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "answer": "नेहमी शब्दकोश वापरावा हा मुख्य संदेश आहे."
     },
     {
       "question_id": 57,
       "question_type": "SHORT",
-      "question": "‘गर्द’ या शब्दाचा अर्थ लिहा.",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+      "question": "शब्दकोशामुळे कोणती सवय लागते?",
+      "answer": "शिकण्याची सवय लागते."
     },
     {
       "question_id": 58,
       "question_type": "SHORT",
-      "question": "‘वाट’ या शब्दाचा अर्थ लिहा.",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+      "question": "धडा वाचल्यावर काय करावेसे वाटते?",
+      "answer": "धडा वाचल्यावर शब्द शोधावेसे वाटते."
     },
     {
       "question_id": 59,
       "question_type": "SHORT",
-      "question": "‘शहारा येणे’ या शब्दसमूहाचा अर्थ लिहा.",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+      "question": "शब्दकोश वापरल्याने भाषा कशी होते?",
+      "answer": "शब्दकोश वापरल्याने भाषा समृद्ध होते."
     },
     {
       "question_id": 60,
       "question_type": "SHORT",
-      "question": "‘गुराखी’ म्हणजे कोण?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 61,
-      "question_type": "SHORT",
-      "question": "शब्दकोशात शब्द शोधणे सोपे का असते?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 62,
-      "question_type": "SHORT",
-      "question": "शब्दकोश वाचनाची सवय का लावावी?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 63,
-      "question_type": "SHORT",
-      "question": "शब्दकोशामुळे लेखन कसे सुधारते?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 64,
-      "question_type": "SHORT",
-      "question": "शब्दकोशामुळे वाचन कसे सुधारते?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 65,
-      "question_type": "SHORT",
-      "question": "शब्दकोशात शब्द कसे मांडलेले असतात?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 66,
-      "question_type": "SHORT",
-      "question": "शब्दकोशात अर्थ का दिलेला असतो?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 67,
-      "question_type": "SHORT",
-      "question": "शब्दांचा उच्चार का महत्त्वाचा आहे?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 68,
-      "question_type": "SHORT",
-      "question": "मुले शब्द मोठ्याने का वाचतात?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 69,
-      "question_type": "SHORT",
-      "question": "बाईंनी उदाहरणे का दिली?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 70,
-      "question_type": "SHORT",
-      "question": "शब्दकोश वापरण्याचा फायदा काय?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 71,
-      "question_type": "SHORT",
-      "question": "शब्दकोशामुळे भाषा कशी समृद्ध होते?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 72,
-      "question_type": "SHORT",
-      "question": "शब्दकोशात समान शब्द कसे सापडतात?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 73,
-      "question_type": "SHORT",
-      "question": "शब्दकोशाचा वापर कोण करू शकतो?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 74,
-      "question_type": "SHORT",
-      "question": "शब्दकोश शिकताना मुले काय शिकतात?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 75,
-      "question_type": "SHORT",
-      "question": "‘आमचा शब्दकोश’ या पाठातून काय शिकायला मिळते?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 76,
-      "question_type": "SHORT",
-      "question": "शब्दकोशामुळे आत्मविश्वास कसा वाढतो?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 77,
-      "question_type": "SHORT",
-      "question": "शब्दकोश शिकणे मजेशीर का आहे?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 78,
-      "question_type": "SHORT",
-      "question": "शब्दकोशाचा उपयोग शाळेत कसा होतो?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 79,
-      "question_type": "SHORT",
-      "question": "शब्दकोशामुळे नवीन शब्द कसे कळतात?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 80,
-      "question_type": "SHORT",
-      "question": "शब्दकोशात शब्द वेगळ्या पानांवर का असतात?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 81,
-      "question_type": "SHORT",
-      "question": "शब्दकोशाचा वापर लेखनात कसा होतो?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 82,
-      "question_type": "SHORT",
-      "question": "शब्दकोशाचा वापर बोलण्यात कसा होतो?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 83,
-      "question_type": "SHORT",
-      "question": "शब्दकोशामुळे चुका कशा कमी होतात?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 84,
-      "question_type": "SHORT",
-      "question": "शब्दकोश शिकताना कोणती सवय लागते?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 85,
-      "question_type": "SHORT",
-      "question": "शब्दकोशामुळे भाषेची गोडी कशी लागते?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 86,
-      "question_type": "SHORT",
-      "question": "शब्दकोशाचा उपयोग आयुष्यात कसा होतो?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 87,
-      "question_type": "SHORT",
-      "question": "शब्दकोशामुळे ज्ञान कसे वाढते?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 88,
-      "question_type": "SHORT",
-      "question": "शब्दकोश वापरणे का आवश्यक आहे?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 89,
-      "question_type": "SHORT",
-      "question": "शब्दकोशामुळे शब्दांची ओळख कशी होते?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 90,
-      "question_type": "SHORT",
-      "question": "शब्दकोशाचा उपयोग परीक्षेत कसा होतो?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 91,
-      "question_type": "SHORT",
-      "question": "शब्दकोशामुळे अर्थ समजायला कशी मदत होते?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 92,
-      "question_type": "SHORT",
-      "question": "शब्दकोश शिकताना कोणते गुण वाढतात?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 93,
-      "question_type": "SHORT",
-      "question": "शब्दकोशाचा उपयोग कथा लिहिताना कसा होतो?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 94,
-      "question_type": "SHORT",
-      "question": "शब्दकोशामुळे वाक्यरचना कशी सुधारते?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 95,
-      "question_type": "SHORT",
-      "question": "शब्दकोश शिकण्याचा मुख्य उद्देश काय आहे?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 96,
-      "question_type": "SHORT",
-      "question": "शब्दकोशामुळे मराठी भाषा कशी समृद्ध होते?",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
-    },
-    {
-      "question_id": 97,
-      "question_type": "SHORT",
-      "question": "‘आमचा शब्दकोश’ या पाठाचे महत्त्व लिहा.",
-      "answer": "हे उत्तर पाठातील माहितीवर आधारित आहे."
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
+      "answer": "हा धडा वाचल्यावर शब्दकोश वापरणे शिकायला मिळते."
     }
   ]
 }

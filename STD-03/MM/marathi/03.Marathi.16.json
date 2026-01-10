@@ -1,1650 +1,1031 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03-Marathi-16",
-    "standard": "3",
+    "chapter_id": "01.Marathi.16",
+    "standard": "1",
     "subject": "Marathi",
     "medium": "Marathi",
-    "chapter_name": "सण – आनंदाचा क्षण",
-    "chapter_type": "भाषा-अभ्यास / संवाद"
+    "chapter_name": "सण : आनंदाचा क्षण"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "‘सण – आनंदाचा क्षण’ या पाठाचा मुख्य विषय काय आहे?",
+      "question": "'सण : आनंदाचा क्षण' हा धडा कोणत्या प्रकारचा आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "कविता",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "निबंध",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "संवाद",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "कथा"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "या पाठात कोणते सण साजरे करताना दाखवले आहेत?",
+      "question": "या धड्याचा मुख्य विषय काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "खेळ",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "सणांचा आनंद",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "सणांचा आनंद"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "सण साजरे करताना घरात कोणते वातावरण असते?",
+      "question": "सण साजरे केल्याने कोणती भावना निर्माण होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "दुःख",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "आनंद"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "सणाच्या दिवशी घरात काय सजावट केली जाते?",
+      "question": "धड्यात सण कशासाठी महत्त्वाचे सांगितले आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "एकत्र येण्यासाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "भांडण्यासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "आळसासाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "भीतीसाठी",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "एकत्र येण्यासाठी"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "सणाच्या वेळी कुटुंबातील लोक काय करतात?",
+      "question": "सणांमुळे कोणते नाते घट्ट होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
+          "text": "मित्र",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "कुटुंब",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
+          "text": "दोन्ही",
+          "is_correct": true
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "कोणतेही नाही",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "दोन्ही"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "या पाठात मुलं कशामुळे आनंदी आहेत?",
+      "question": "धड्यात सण साजरे करताना काय महत्त्वाचे आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "सौहार्द",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "सौहार्द"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "सणाच्या दिवशी पाहुण्यांचे स्वागत कसे केले जाते?",
+      "question": "सणांच्या वेळी घरात काय वातावरण असते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "आनंदी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "तणावपूर्ण",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीतीदायक",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "गंभीर",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "आनंदी"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "सण साजरा करताना दिवे का लावले जातात?",
+      "question": "धड्यात कोणत्या सवयीचा संदेश आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "एकत्र साजरे करणे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "एकत्र साजरे करणे"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "या पाठात कोणते खेळ खेळताना दाखवले आहेत?",
+      "question": "सण साजरे केल्याने समाजात काय वाढते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "एकता",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "द्वेष",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "एकता"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "सणाच्या दिवशी खाण्यापिण्याचे काय विशेष असते?",
+      "question": "धड्यात सणांशी संबंधित कोणती मूल्ये आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "संस्कृती",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "संस्कृती"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "सण साजरे करताना सर्वजण एकत्र का येतात?",
+      "question": "सणांच्या वेळी कोणत्या गोष्टींचा आनंद घेतला जातो?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "परंपरा",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "परंपरा"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
-      "question": "या पाठात मुलांचे वागणे कसे दाखवले आहे?",
+      "question": "धड्यात सण साजरे करताना काय टाळायला सांगितले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "फाजील खर्च",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "आनंद",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "एकत्र येणे",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "सौहार्द",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "फाजील खर्च"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
-      "question": "सण साजरा करताना घर स्वच्छ का केले जाते?",
+      "question": "सणांमुळे मुलांना काय शिकायला मिळते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "संस्कृती",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "संस्कृती"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
-      "question": "या पाठात आनंद कसा व्यक्त केला आहे?",
+      "question": "धड्यात सणांचा आनंद कसा दाखवला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "अनुभवांद्वारे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "रागाने",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीतीने",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळसाने",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "अनुभवांद्वारे"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
-      "question": "सणाच्या वेळी नातेवाईक का भेटतात?",
+      "question": "सण साजरे करताना कोणते गुण आवश्यक आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "सहकार्य",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "सहकार्य"
     },
     {
       "question_id": 16,
       "question_type": "MCQ",
-      "question": "या पाठात कुटुंबाचे महत्त्व कसे दिसते?",
+      "question": "धड्यात सणांचा काळ कसा वर्णन केला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "आनंदाचा",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "तणावाचा",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीतीचा",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "रागाचा",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "आनंदाचा"
     },
     {
       "question_id": 17,
       "question_type": "MCQ",
-      "question": "सण साजरा करताना कोणते रंग दिसतात?",
+      "question": "सणांमुळे जीवनात काय बदल होतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "उत्साह",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "उत्साह"
     },
     {
       "question_id": 18,
       "question_type": "MCQ",
-      "question": "सणाच्या दिवशी मुलांना काय आवडते?",
+      "question": "धड्यात सण साजरे करण्याचा उद्देश काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "आनंद वाटणे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "आनंद वाटणे"
     },
     {
       "question_id": 19,
       "question_type": "MCQ",
-      "question": "या पाठात सण साजरा करण्याची पद्धत कशी आहे?",
+      "question": "सण साजरे करताना कोणती जबाबदारी आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "सौहार्द राखणे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "सौहार्द राखणे"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
-      "question": "सण साजरे करताना परंपरेचे महत्त्व काय आहे?",
+      "question": "धड्यात सणांचे महत्त्व कशासाठी सांगितले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "सामाजिक एकता",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "सामाजिक एकता"
     },
     {
       "question_id": 21,
       "question_type": "MCQ",
-      "question": "या पाठात कोणते सणाचे पदार्थ उल्लेखले आहेत?",
+      "question": "सणांमुळे कोणती सवय लागते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "एकत्र राहण्याची",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "एकत्र राहण्याची"
     },
     {
       "question_id": 22,
       "question_type": "MCQ",
-      "question": "सणाच्या दिवशी घरात कोणती कामे केली जातात?",
+      "question": "धड्यात सण साजरे करताना काय शिकवले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "संयम",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "संयम"
     },
     {
       "question_id": 23,
       "question_type": "MCQ",
-      "question": "या पाठात आनंदाचा क्षण कधी येतो?",
+      "question": "सणांमुळे मुलांच्या मनावर काय परिणाम होतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "आनंद",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "दुःख",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "आनंद"
     },
     {
       "question_id": 24,
       "question_type": "MCQ",
-      "question": "सण साजरा करताना सगळे का हसत असतात?",
+      "question": "धड्यात सणांचा आनंद कशामुळे वाढतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "सहभागामुळे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "रागामुळे",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीतीमुळे",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळसामुळे",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "सहभागामुळे"
     },
     {
       "question_id": 25,
       "question_type": "MCQ",
-      "question": "या पाठात सण साजरा करण्याचा संदेश काय आहे?",
+      "question": "सण साजरे करताना कोणती परंपरा जपली जाते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "संस्कृती",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "संस्कृती"
     },
     {
       "question_id": 26,
       "question_type": "MCQ",
-      "question": "सणाच्या दिवशी मुले कोणते खेळ खेळतात?",
+      "question": "धड्यात सण साजरे करताना काय महत्त्वाचे आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "एकमेकांचा आदर",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "एकमेकांचा आदर"
     },
     {
       "question_id": 27,
       "question_type": "MCQ",
-      "question": "या पाठात एकत्र येण्याचे महत्त्व कसे दिसते?",
+      "question": "सणांमुळे समाजात काय निर्माण होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "सौहार्द",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "द्वेष",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "सौहार्द"
     },
     {
       "question_id": 28,
       "question_type": "MCQ",
-      "question": "सण साजरे करताना मोठे व लहान कसे एकत्र येतात?",
+      "question": "धड्यात सणांचा संदेश काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "आनंद वाटा",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग करा",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती बाळगा",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस करा",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "आनंद वाटा"
     },
     {
       "question_id": 29,
       "question_type": "MCQ",
-      "question": "या पाठात सणाचा आनंद कशामुळे वाढतो?",
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "सणांचे महत्त्व",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "सणांचे महत्त्व"
     },
     {
       "question_id": 30,
       "question_type": "MCQ",
-      "question": "सणाच्या दिवशी घरात कोणते आवाज ऐकू येतात?",
+      "question": "सण साजरे केल्याने जीवन कसे होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
+          "text": "आनंदी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
+          "text": "तणावपूर्ण",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "कामाचा ताण",
+          "text": "भीतीदायक",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "एकटेपणा",
+          "text": "रागीट",
           "is_correct": false
         }
       ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "answer": "आनंदी"
     },
     {
       "question_id": 31,
-      "question_type": "MCQ",
-      "question": "या पाठात सण साजरा करताना शिस्त कशी दिसते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "'सण : आनंदाचा क्षण' हा धडा कोणत्या प्रकारचा आहे?",
+      "answer": "हा धडा कथा प्रकारचा आहे."
     },
     {
       "question_id": 32,
-      "question_type": "MCQ",
-      "question": "सणाच्या दिवशी दिव्यांचे महत्त्व काय आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "या धड्याचा मुख्य विषय काय आहे?",
+      "answer": "या धड्याचा मुख्य विषय सणांचा आनंद आहे."
     },
     {
       "question_id": 33,
-      "question_type": "MCQ",
-      "question": "या पाठात आनंदी वातावरण कसे तयार झाले आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "सण साजरे केल्याने कोणती भावना निर्माण होते?",
+      "answer": "सण साजरे केल्याने आनंदाची भावना निर्माण होते."
     },
     {
       "question_id": 34,
-      "question_type": "MCQ",
-      "question": "सण साजरा करताना घर का उजळते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "धड्यात सण कशासाठी महत्त्वाचे सांगितले आहेत?",
+      "answer": "लोक एकत्र येण्यासाठी सण महत्त्वाचे सांगितले आहेत."
     },
     {
       "question_id": 35,
-      "question_type": "MCQ",
-      "question": "या पाठात सण साजरा करण्यामागील भावना कोणती आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "सणांमुळे कोणते नाते घट्ट होते?",
+      "answer": "सणांमुळे मित्र आणि कुटुंबाची नाती घट्ट होतात."
     },
     {
       "question_id": 36,
-      "question_type": "MCQ",
-      "question": "सणाच्या दिवशी मुलांचे चेहरे कसे दिसतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "धड्यात सण साजरे करताना काय महत्त्वाचे आहे?",
+      "answer": "सौहार्द आणि सहकार्य महत्त्वाचे आहे."
     },
     {
       "question_id": 37,
-      "question_type": "MCQ",
-      "question": "या पाठात सण साजरा करताना निसर्गाचा सहभाग आहे का?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "सणांच्या वेळी घरात काय वातावरण असते?",
+      "answer": "सणांच्या वेळी घरात आनंदी वातावरण असते."
     },
     {
       "question_id": 38,
-      "question_type": "MCQ",
-      "question": "सण साजरे करताना एकमेकांना शुभेच्छा का दिल्या जातात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "धड्यात कोणत्या सवयीचा संदेश आहे?",
+      "answer": "एकत्र साजरे करण्याची सवय लावण्याचा संदेश आहे."
     },
     {
       "question_id": 39,
-      "question_type": "MCQ",
-      "question": "या पाठात सण साजरा करताना कोणते शब्द वापरले आहेत?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "सण साजरे केल्याने समाजात काय वाढते?",
+      "answer": "सण साजरे केल्याने समाजात एकता वाढते."
     },
     {
       "question_id": 40,
-      "question_type": "MCQ",
-      "question": "सणाच्या दिवशी घरात कशाचा सुगंध येतो?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "धड्यात सणांशी संबंधित कोणती मूल्ये आहेत?",
+      "answer": "संस्कृती आणि परंपरा ही मूल्ये आहेत."
     },
     {
       "question_id": 41,
-      "question_type": "MCQ",
-      "question": "या पाठात सण साजरा करण्याचा आनंद कसा दाखवला आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "सणांच्या वेळी कोणत्या गोष्टींचा आनंद घेतला जातो?",
+      "answer": "परंपरा आणि एकत्र वेळ यांचा आनंद घेतला जातो."
     },
     {
       "question_id": 42,
-      "question_type": "MCQ",
-      "question": "सण साजरे करताना परस्पर मदत कशी दिसते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "धड्यात सण साजरे करताना काय टाळायला सांगितले आहे?",
+      "answer": "फाजील खर्च टाळायला सांगितले आहे."
     },
     {
       "question_id": 43,
-      "question_type": "MCQ",
-      "question": "या पाठात कुटुंबातील प्रेम कसे दिसते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "सणांमुळे मुलांना काय शिकायला मिळते?",
+      "answer": "सणांमुळे संस्कृतीचे महत्त्व शिकायला मिळते."
     },
     {
       "question_id": 44,
-      "question_type": "MCQ",
-      "question": "सण साजरा करताना परंपरा का जपल्या जातात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "धड्यात सणांचा आनंद कसा दाखवला आहे?",
+      "answer": "अनुभवांच्या माध्यमातून दाखवला आहे."
     },
     {
       "question_id": 45,
-      "question_type": "MCQ",
-      "question": "या पाठात सणाचा सामाजिक संदेश काय आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "सण साजरे करताना कोणते गुण आवश्यक आहेत?",
+      "answer": "सहकार्य आणि संयम आवश्यक आहेत."
     },
     {
       "question_id": 46,
-      "question_type": "MCQ",
-      "question": "सण साजरे करताना मुलांना काय शिकायला मिळते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "धड्यात सणांचा काळ कसा वर्णन केला आहे?",
+      "answer": "धड्यात सणांचा काळ आनंदाचा वर्णन केला आहे."
     },
     {
       "question_id": 47,
-      "question_type": "MCQ",
-      "question": "या पाठात सण साजरा करण्याचा उद्देश काय आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "सणांमुळे जीवनात काय बदल होतो?",
+      "answer": "सणांमुळे जीवनात उत्साह वाढतो."
     },
     {
       "question_id": 48,
-      "question_type": "MCQ",
-      "question": "‘सण – आनंदाचा क्षण’ या शीर्षकाचा अर्थ काय आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "सणाचा आनंद आणि एकत्र येणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "दैनंदिन अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाचा ताण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "एकटेपणा",
-          "is_correct": false
-        }
-      ],
-      "answer": "सणाचा आनंद आणि एकत्र येणे"
+      "question_type": "SHORT",
+      "question": "धड्यात सण साजरे करण्याचा उद्देश काय आहे?",
+      "answer": "आनंद वाटणे हा उद्देश आहे."
     },
     {
       "question_id": 49,
       "question_type": "SHORT",
-      "question": "सण म्हणजे काय?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
+      "question": "सण साजरे करताना कोणती जबाबदारी आहे?",
+      "answer": "सौहार्द राखण्याची जबाबदारी आहे."
     },
     {
       "question_id": 50,
       "question_type": "SHORT",
-      "question": "‘सण – आनंदाचा क्षण’ या पाठात काय दाखवले आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
+      "question": "धड्यात सणांचे महत्त्व कशासाठी सांगितले आहे?",
+      "answer": "सामाजिक एकतेसाठी सांगितले आहे."
     },
     {
       "question_id": 51,
       "question_type": "SHORT",
-      "question": "सण साजरे करताना घरात कसे वातावरण असते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
+      "question": "सणांमुळे कोणती सवय लागते?",
+      "answer": "एकत्र राहण्याची सवय लागते."
     },
     {
       "question_id": 52,
       "question_type": "SHORT",
-      "question": "सणाच्या दिवशी घर का सजवले जाते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
+      "question": "धड्यात सण साजरे करताना काय शिकवले आहे?",
+      "answer": "संयम आणि सहकार्य शिकवले आहे."
     },
     {
       "question_id": 53,
       "question_type": "SHORT",
-      "question": "सण साजरे करताना कुटुंब एकत्र का येते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
+      "question": "सणांमुळे मुलांच्या मनावर काय परिणाम होतो?",
+      "answer": "सणांमुळे मुलांच्या मनावर आनंदाचा परिणाम होतो."
     },
     {
       "question_id": 54,
       "question_type": "SHORT",
-      "question": "या पाठात मुलांचा आनंद कसा दिसतो?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
+      "question": "धड्यात सणांचा आनंद कशामुळे वाढतो?",
+      "answer": "सर्वांच्या सहभागामुळे आनंद वाढतो."
     },
     {
       "question_id": 55,
       "question_type": "SHORT",
-      "question": "सणाच्या दिवशी पाहुण्यांचे स्वागत कसे केले जाते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
+      "question": "सण साजरे करताना कोणती परंपरा जपली जाते?",
+      "answer": "संस्कृती आणि परंपरा जपली जाते."
     },
     {
       "question_id": 56,
       "question_type": "SHORT",
-      "question": "दिवे लावण्यामागील कारण काय आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
+      "question": "धड्यात सण साजरे करताना काय महत्त्वाचे आहे?",
+      "answer": "एकमेकांचा आदर महत्त्वाचा आहे."
     },
     {
       "question_id": 57,
       "question_type": "SHORT",
-      "question": "या पाठात कोणते खेळ खेळताना दाखवले आहेत?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
+      "question": "सणांमुळे समाजात काय निर्माण होते?",
+      "answer": "सणांमुळे समाजात सौहार्द निर्माण होते."
     },
     {
       "question_id": 58,
       "question_type": "SHORT",
-      "question": "सणाच्या दिवशी खाण्याचे महत्त्व काय आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
+      "question": "धड्यात सणांचा संदेश काय आहे?",
+      "answer": "आनंद वाटा आणि एकत्र रहा हा संदेश आहे."
     },
     {
       "question_id": 59,
       "question_type": "SHORT",
-      "question": "सण साजरे करताना स्वच्छतेचे महत्त्व काय आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
+      "answer": "सणांचे सामाजिक महत्त्व शिकायला मिळते."
     },
     {
       "question_id": 60,
       "question_type": "SHORT",
-      "question": "या पाठात आनंद कसा व्यक्त केला आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 61,
-      "question_type": "SHORT",
-      "question": "सणाच्या दिवशी नातेवाईक का भेटतात?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 62,
-      "question_type": "SHORT",
-      "question": "या पाठात कुटुंबाचे महत्त्व कसे दाखवले आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 63,
-      "question_type": "SHORT",
-      "question": "सण साजरे करताना कोणते रंग दिसतात?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 64,
-      "question_type": "SHORT",
-      "question": "सणाच्या दिवशी मुलांना काय आवडते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 65,
-      "question_type": "SHORT",
-      "question": "या पाठात सण साजरा करण्याची पद्धत कशी आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 66,
-      "question_type": "SHORT",
-      "question": "सण साजरे करताना परंपरा का पाळल्या जातात?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 67,
-      "question_type": "SHORT",
-      "question": "या पाठात सणाचा आनंद कशामुळे वाढतो?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 68,
-      "question_type": "SHORT",
-      "question": "सणाच्या दिवशी घरात कोणते काम केले जाते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 69,
-      "question_type": "SHORT",
-      "question": "या पाठात आनंदाचा क्षण कधी येतो?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 70,
-      "question_type": "SHORT",
-      "question": "सण साजरे करताना सगळे आनंदी का असतात?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 71,
-      "question_type": "SHORT",
-      "question": "या पाठाचा मुख्य संदेश काय आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 72,
-      "question_type": "SHORT",
-      "question": "सणाच्या दिवशी मुले काय शिकतात?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 73,
-      "question_type": "SHORT",
-      "question": "या पाठात एकत्र येण्याचे महत्त्व काय आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 74,
-      "question_type": "SHORT",
-      "question": "सण साजरे करताना मोठे व लहान कसे एकत्र येतात?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 75,
-      "question_type": "SHORT",
-      "question": "या पाठात सण साजरा करताना कोणती भावना दिसते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 76,
-      "question_type": "SHORT",
-      "question": "सणाच्या दिवशी घरात कोणते आवाज ऐकू येतात?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 77,
-      "question_type": "SHORT",
-      "question": "या पाठात सण साजरा करताना शिस्त कशी दिसते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 78,
-      "question_type": "SHORT",
-      "question": "सण साजरे करताना दिव्यांचे महत्त्व काय आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 79,
-      "question_type": "SHORT",
-      "question": "या पाठात आनंदी वातावरण कसे तयार झाले आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 80,
-      "question_type": "SHORT",
-      "question": "सणाच्या दिवशी घर का उजळते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 81,
-      "question_type": "SHORT",
-      "question": "या पाठात सण साजरा करण्यामागील भावना काय आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 82,
-      "question_type": "SHORT",
-      "question": "सणाच्या दिवशी मुलांचे चेहरे कसे दिसतात?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 83,
-      "question_type": "SHORT",
-      "question": "या पाठात सण साजरा करताना निसर्गाचा सहभाग आहे का?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 84,
-      "question_type": "SHORT",
-      "question": "सण साजरे करताना एकमेकांना शुभेच्छा का दिल्या जातात?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 85,
-      "question_type": "SHORT",
-      "question": "या पाठात सण साजरा करताना कोणते शब्द वापरले आहेत?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 86,
-      "question_type": "SHORT",
-      "question": "सणाच्या दिवशी घरात कशाचा सुगंध येतो?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 87,
-      "question_type": "SHORT",
-      "question": "या पाठात सण साजरा करण्याचा आनंद कसा दाखवला आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 88,
-      "question_type": "SHORT",
-      "question": "सण साजरे करताना परस्पर मदत कशी दिसते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 89,
-      "question_type": "SHORT",
-      "question": "या पाठात कुटुंबातील प्रेम कसे दिसते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 90,
-      "question_type": "SHORT",
-      "question": "सण साजरा करताना परंपरा जपण्याचे महत्त्व काय आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 91,
-      "question_type": "SHORT",
-      "question": "या पाठात सणाचा सामाजिक संदेश काय आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 92,
-      "question_type": "SHORT",
-      "question": "सण साजरे करताना मुलांना काय शिकायला मिळते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 93,
-      "question_type": "SHORT",
-      "question": "या पाठात सण साजरा करण्याचा उद्देश काय आहे?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 94,
-      "question_type": "SHORT",
-      "question": "‘सण – आनंदाचा क्षण’ या शीर्षकाचा अर्थ लिहा.",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 95,
-      "question_type": "SHORT",
-      "question": "या पाठातून आपल्याला काय शिकायला मिळते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 96,
-      "question_type": "SHORT",
-      "question": "सण साजरे करताना आनंद कसा वाढतो?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
-    },
-    {
-      "question_id": 97,
-      "question_type": "SHORT",
-      "question": "सणाच्या दिवशी घरात प्रेम कसे दिसते?",
-      "answer": "हे उत्तर पाठातील प्रसंग व आशयावर आधारित आहे."
+      "question": "सण साजरे केल्याने जीवन कसे होते?",
+      "answer": "सण साजरे केल्याने जीवन आनंदी होते."
     }
   ]
 }

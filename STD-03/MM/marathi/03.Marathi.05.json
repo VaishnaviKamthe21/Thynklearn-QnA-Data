@@ -1,181 +1,1031 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03.MarathiMedium.English.05",
-    "standard": "3",
-    "subject": "English",
-    "medium": "Marathi Medium",
-    "chapter_name": "More or Less"
+    "chapter_id": "01.Marathi.05",
+    "standard": "1",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "एकदा गंमत झाली"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "Which word is used when the number is bigger?",
+      "question": "'एकदा गंमत झाली' हा धडा कोणत्या प्रकारचा आहे?",
       "options": [
-        { "option_id": 1, "text": "Less", "is_correct": false },
-        { "option_id": 2, "text": "More", "is_correct": true },
-        { "option_id": 3, "text": "Same", "is_correct": false },
-        { "option_id": 4, "text": "Few", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
       ],
-      "answer": "More"
+      "answer": "कथा"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "Which word is used when the number is smaller?",
+      "question": "या धड्याचा मुख्य विषय काय आहे?",
       "options": [
-        { "option_id": 1, "text": "More", "is_correct": false },
-        { "option_id": 2, "text": "Less", "is_correct": true },
-        { "option_id": 3, "text": "Many", "is_correct": false },
-        { "option_id": 4, "text": "All", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गंमत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
       ],
-      "answer": "Less"
+      "answer": "गंमत"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "If there are more apples than bananas, apples are ________.",
+      "question": "कथेत कोणत्या प्रसंगाचे वर्णन आहे?",
       "options": [
-        { "option_id": 1, "text": "less", "is_correct": false },
-        { "option_id": 2, "text": "more", "is_correct": true },
-        { "option_id": 3, "text": "same", "is_correct": false },
-        { "option_id": 4, "text": "few", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "भीतीचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गमतीचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रागाचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखाचा",
+          "is_correct": false
+        }
       ],
-      "answer": "more"
+      "answer": "गमतीचा"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "If there are fewer pencils, we say pencils are ________.",
+      "question": "कथेतील घटना कशी आहे?",
       "options": [
-        { "option_id": 1, "text": "more", "is_correct": false },
-        { "option_id": 2, "text": "less", "is_correct": true },
-        { "option_id": 3, "text": "many", "is_correct": false },
-        { "option_id": 4, "text": "all", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "गंभीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मजेशीर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भयानक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखद",
+          "is_correct": false
+        }
       ],
-      "answer": "less"
+      "answer": "मजेशीर"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "Which word means a small number?",
+      "question": "कथेतील मुलांना काय अनुभव येतो?",
       "options": [
-        { "option_id": 1, "text": "Many", "is_correct": false },
-        { "option_id": 2, "text": "Few", "is_correct": true },
-        { "option_id": 3, "text": "More", "is_correct": false },
-        { "option_id": 4, "text": "All", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
       ],
-      "answer": "Few"
+      "answer": "आनंद"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "Which word means a large number?",
+      "question": "कथेतील गंमत कशामुळे झाली?",
       "options": [
-        { "option_id": 1, "text": "Few", "is_correct": false },
-        { "option_id": 2, "text": "Many", "is_correct": true },
-        { "option_id": 3, "text": "Less", "is_correct": false },
-        { "option_id": 4, "text": "Little", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "चूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अचानक घटना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
       ],
-      "answer": "Many"
+      "answer": "अचानक घटना"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "If two groups have the same number, they are ________.",
+      "question": "कथेतील प्रसंग मुलांना कसा वाटतो?",
       "options": [
-        { "option_id": 1, "text": "more", "is_correct": false },
-        { "option_id": 2, "text": "less", "is_correct": false },
-        { "option_id": 3, "text": "equal", "is_correct": true },
-        { "option_id": 4, "text": "few", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "भीतीदायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हास्यकारक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुःखद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गंभीर",
+          "is_correct": false
+        }
       ],
-      "answer": "equal"
+      "answer": "हास्यकारक"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "We use 'more' and 'less' to ________.",
+      "question": "कथेतील वातावरण कसे आहे?",
       "options": [
-        { "option_id": 1, "text": "compare numbers", "is_correct": true },
-        { "option_id": 2, "text": "draw pictures", "is_correct": false },
-        { "option_id": 3, "text": "sing songs", "is_correct": false },
-        { "option_id": 4, "text": "play games", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "ताणलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भयाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखी",
+          "is_correct": false
+        }
       ],
-      "answer": "compare numbers"
+      "answer": "आनंदी"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "Which group has more objects?",
+      "question": "कथेतील प्रसंगामुळे काय होते?",
       "options": [
-        { "option_id": 1, "text": "The bigger group", "is_correct": true },
-        { "option_id": 2, "text": "The smaller group", "is_correct": false },
-        { "option_id": 3, "text": "The empty group", "is_correct": false },
-        { "option_id": 4, "text": "The same group", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हसू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
       ],
-      "answer": "The bigger group"
+      "answer": "हसू"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "Which group has less objects?",
+      "question": "कथेचा शेवट कसा आहे?",
       "options": [
-        { "option_id": 1, "text": "The smaller group", "is_correct": true },
-        { "option_id": 2, "text": "The bigger group", "is_correct": false },
-        { "option_id": 3, "text": "The equal group", "is_correct": false },
-        { "option_id": 4, "text": "The full group", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "दुःखद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भयाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गंभीर",
+          "is_correct": false
+        }
       ],
-      "answer": "The smaller group"
+      "answer": "आनंदी"
     },
-
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कथेतील मुलांचा स्वभाव कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गंभीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खेळकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखी",
+          "is_correct": false
+        }
+      ],
+      "answer": "खेळकर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कथेतील गंमत कशातून निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंधळातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीतून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रागातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीतून",
+          "is_correct": false
+        }
+      ],
+      "answer": "चुकीतून"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कथेतील प्रसंग कोणत्या ठिकाणी घडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शाळेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मैदानात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बागेत",
+          "is_correct": false
+        }
+      ],
+      "answer": "शाळेत"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कथेतील वातावरण मुलांना कसे वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंददायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीतीदायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुःखद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताणलेले",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंददायी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कथेत कोणती भावना जास्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कथेतील गंमत मुलांना काय शिकवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कथेतील प्रसंगातून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हसण्याचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "हसण्याचे महत्त्व"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कथेतील घटना अचानक कशी वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गंभीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मजेशीर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भयाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखद",
+          "is_correct": false
+        }
+      ],
+      "answer": "मजेशीर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कथेतील मुलांचा प्रतिसाद कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हसरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घाबरलेला",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागावलेला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखी",
+          "is_correct": false
+        }
+      ],
+      "answer": "हसरा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कथेतील गंमत कशामुळे लक्षात राहते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हसण्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीतीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "हसण्यामुळे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कथेचा मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद घ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भय ठेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद घ्या"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कथेतील वातावरण कशामुळे हलके होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हसण्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "हसण्यामुळे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कथेतील प्रसंग वाचताना कसे वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कंटाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हसू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "हसू"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कथेतील गंमत मुलांना कशी वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंददायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भयाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुःखद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गंभीर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंददायी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कथेतील प्रसंगातून कोणती सवय लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हसण्याची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखाची",
+          "is_correct": false
+        }
+      ],
+      "answer": "हसण्याची"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कथेतील मुलांचे वागणे कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुःखी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घाबरलेले",
+          "is_correct": false
+        }
+      ],
+      "answer": "खेळकर"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कथेतील गंमत कशी संपते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हसून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रडून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीने",
+          "is_correct": false
+        }
+      ],
+      "answer": "हसून"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कथेतील प्रसंग का लक्षात राहतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मजेशीर असल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भयामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुःखामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "मजेशीर असल्यामुळे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कथेतील भावना कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "हा धडा वाचल्यावर काय वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "'एकदा गंमत झाली' हा धडा कोणत्या प्रकारचा आहे?",
+      "answer": "हा धडा कथा प्रकारचा आहे."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "या धड्याचा मुख्य विषय काय आहे?",
+      "answer": "या धड्याचा मुख्य विषय गंमत आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "कथेत कोणत्या प्रसंगाचे वर्णन आहे?",
+      "answer": "कथेत एका मजेशीर प्रसंगाचे वर्णन आहे."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "कथेतील घटना कशी आहे?",
+      "answer": "कथेतील घटना मजेशीर आहे."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "कथेतील मुलांना काय अनुभव येतो?",
+      "answer": "कथेतील मुलांना आनंद अनुभव येतो."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "कथेतील गंमत कशामुळे झाली?",
+      "answer": "अचानक घडलेल्या घटनेमुळे गंमत झाली."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "कथेतील प्रसंग मुलांना कसा वाटतो?",
+      "answer": "कथेतील प्रसंग मुलांना हास्यकारक वाटतो."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "कथेतील वातावरण कसे आहे?",
+      "answer": "कथेतील वातावरण आनंदी आहे."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "कथेतील प्रसंगामुळे काय होते?",
+      "answer": "कथेतील प्रसंगामुळे हसू येते."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "कथेचा शेवट कसा आहे?",
+      "answer": "कथेचा शेवट आनंदी आहे."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "कथेतील मुलांचा स्वभाव कसा आहे?",
+      "answer": "कथेतील मुलांचा स्वभाव खेळकर आहे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कथेतील गंमत कशातून निर्माण होते?",
+      "answer": "कथेतील गंमत चुकीतून निर्माण होते."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "कथेतील प्रसंग कुठे घडतो?",
+      "answer": "कथेतील प्रसंग शाळेत घडतो."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "कथेतील वातावरण मुलांना कसे वाटते?",
+      "answer": "कथेतील वातावरण मुलांना आनंददायी वाटते."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "कथेत कोणती भावना जास्त आहे?",
+      "answer": "कथेत आनंदाची भावना जास्त आहे."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कथेतील गंमत मुलांना काय शिकवते?",
+      "answer": "गंमत आनंद घेण्याचे शिकवते."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "कथेतील प्रसंगातून काय शिकायला मिळते?",
+      "answer": "हसण्याचे महत्त्व शिकायला मिळते."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कथेतील घटना अचानक कशी वाटते?",
+      "answer": "कथेतील घटना मजेशीर वाटते."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "कथेतील मुलांचा प्रतिसाद कसा आहे?",
+      "answer": "कथेतील मुलांचा प्रतिसाद हसरा आहे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कथेतील गंमत कशामुळे लक्षात राहते?",
+      "answer": "हसण्यामुळे गंमत लक्षात राहते."
+    },
     {
       "question_id": 51,
       "question_type": "SHORT",
-      "question": "What does 'more' mean?",
-      "answer": "'More' means a bigger number."
+      "question": "कथेचा मुख्य संदेश कोणता आहे?",
+      "answer": "आयुष्यात आनंद घ्यावा हा संदेश आहे."
     },
     {
       "question_id": 52,
       "question_type": "SHORT",
-      "question": "What does 'less' mean?",
-      "answer": "'Less' means a smaller number."
+      "question": "कथेतील वातावरण कशामुळे हलके होते?",
+      "answer": "हसण्यामुळे वातावरण हलके होते."
     },
     {
       "question_id": 53,
       "question_type": "SHORT",
-      "question": "When do we use the word 'few'?",
-      "answer": "We use 'few' for a small number."
+      "question": "कथेतील प्रसंग वाचताना कसे वाटते?",
+      "answer": "कथेतील प्रसंग वाचताना हसू येते."
     },
     {
       "question_id": 54,
       "question_type": "SHORT",
-      "question": "When do we use the word 'many'?",
-      "answer": "We use 'many' for a large number."
+      "question": "कथेतील गंमत मुलांना कशी वाटते?",
+      "answer": "कथेतील गंमत आनंददायी वाटते."
     },
     {
       "question_id": 55,
       "question_type": "SHORT",
-      "question": "What does equal mean?",
-      "answer": "Equal means the same number."
+      "question": "कथेतील प्रसंगातून कोणती सवय लागते?",
+      "answer": "हसण्याची सवय लागते."
     },
     {
       "question_id": 56,
       "question_type": "SHORT",
-      "question": "Why do we use more and less?",
-      "answer": "We use more and less to compare numbers."
+      "question": "कथेतील मुलांचे वागणे कसे आहे?",
+      "answer": "कथेतील मुलांचे वागणे खेळकर आहे."
     },
     {
       "question_id": 57,
       "question_type": "SHORT",
-      "question": "Which group is bigger?",
-      "answer": "The group with more objects is bigger."
+      "question": "कथेतील गंमत कशी संपते?",
+      "answer": "कथेतील गंमत हसून संपते."
     },
     {
       "question_id": 58,
       "question_type": "SHORT",
-      "question": "Which group is smaller?",
-      "answer": "The group with less objects is smaller."
+      "question": "कथेतील प्रसंग का लक्षात राहतो?",
+      "answer": "मजेशीर असल्यामुळे लक्षात राहतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कथेतील भावना कोणती आहे?",
+      "answer": "कथेतील भावना आनंदाची आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "हा धडा वाचल्यावर काय वाटते?",
+      "answer": "हा धडा वाचल्यावर आनंद वाटतो."
     }
   ]
 }
-

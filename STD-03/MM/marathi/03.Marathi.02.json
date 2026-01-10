@@ -1,7 +1,7 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03-Marathi-02",
-    "standard": "3",
+    "chapter_id": "01.Marathi.02",
+    "standard": "1",
     "subject": "Marathi",
     "medium": "Marathi",
     "chapter_name": "वासाची किंमत"
@@ -10,682 +10,1022 @@
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 1",
+      "question": "'वासाची किंमत' ही कोणत्या प्रकारची रचना आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "कविता",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "चित्रकथा",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "निबंध",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "कथा",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "चित्रकथा"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 2",
+      "question": "या धड्यात कशाचे महत्त्व सांगितले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "पैशाचे",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "वासाचे",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "खेळाचे",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "वेळेचे",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "वासाचे"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 3",
+      "question": "कथेतील मुख्य विषय कोणता आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "लोभ",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "मूल्य",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "भय",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "मूल्य"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 4",
+      "question": "कथेत वास कशामुळे ओळखला जातो?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "डोळ्यांनी",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "नाकाने",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "कानांनी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "हातांनी",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "नाकाने"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 5",
+      "question": "कथेत वासामुळे काय समजते?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "रंग",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "गुणधर्म",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "आकार",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "आवाज",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "गुणधर्म"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 6",
+      "question": "या धड्यात कोणत्या इंद्रियाचा वापर दाखवला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
+          "text": "डोळे",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "कान",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "अयोग्य",
-          "is_correct": false
+          "text": "नाक",
+          "is_correct": true
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "त्वचा",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "नाक"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 7",
+      "question": "वासामुळे वस्तू कशा ओळखता येतात?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
+          "text": "दिसून",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "स्पर्शाने",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "ओळखीने",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
-          "is_correct": false
+          "text": "सुगंधाने",
+          "is_correct": true
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "सुगंधाने"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 8",
+      "question": "कथेत चांगल्या वासाचा अर्थ काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "वाईट",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "स्वच्छता",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "धोका",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "स्वच्छता"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 9",
+      "question": "वाईट वास कशाची सूचना देतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
+          "text": "आनंद",
+          "is_correct": false
         },
         {
           "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "स्वच्छता",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "अयोग्य",
-          "is_correct": false
+          "text": "घाण",
+          "is_correct": true
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "खेळ",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "घाण"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 10",
+      "question": "चित्रकथेत वासाचा उपयोग कशासाठी दाखवला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
+          "text": "ओळख",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "रंग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "आवाज",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "ओळख"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 11",
+      "question": "या धड्यात कोणती सवय लावण्याचा संदेश आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "आळस",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "स्वच्छता",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "गोंधळ",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "स्वच्छता"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 12",
+      "question": "वास ओळखल्याने काय फायदा होतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
+          "text": "धोका कळतो",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "झोप येते",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "भूक लागते",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "खेळ मिळतो",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "धोका कळतो"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 13",
+      "question": "चित्रकथेत स्वच्छतेचा संबंध कशाशी जोडला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "रंग",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "वास",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "आवाज",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "चव",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "वास"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 14",
+      "question": "वासामुळे आरोग्य कसे कळते?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "दिसून",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "सुगंधाने",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "तापाने",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "वजनाने",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "सुगंधाने"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 15",
+      "question": "या धड्यातील चित्रे कशासाठी आहेत?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "मनोरंजन",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "समज",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "रंग",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "समज"
     },
     {
       "question_id": 16,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 16",
+      "question": "कथेत स्वच्छतेचे महत्त्व कसे सांगितले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
+          "text": "चित्रांद्वारे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "गाण्याद्वारे",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "संवादाने",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "निबंधाने",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "चित्रांद्वारे"
     },
     {
       "question_id": 17,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 17",
+      "question": "चांगला वास कशाची खूण आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "घाण",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "आरोग्य",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "आरोग्य"
     },
     {
       "question_id": 18,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 18",
+      "question": "वाईट वास आल्यावर काय करावे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "दुर्लक्ष",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "स्वच्छता",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "झोप",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "स्वच्छता"
     },
     {
       "question_id": 19,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 19",
+      "question": "चित्रकथेतील संदेश कोणासाठी आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
+          "text": "मुलांसाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "शिक्षकांसाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "पालकांसाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "सर्वांसाठी",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "मुलांसाठी"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
-      "question": "‘वासाची किंमत’ या धड्यावरील बहुपर्यायी प्रश्न 20",
+      "question": "वासामुळे कोणती जाणीव होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "योग्य पर्याय",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "चुकीचा पर्याय",
+          "text": "दृष्टी",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "स्वच्छता",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "अयोग्य",
+          "text": "आवाज",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "माहित नाही",
+          "text": "रंग",
           "is_correct": false
         }
       ],
-      "answer": "योग्य पर्याय"
+      "answer": "स्वच्छता"
     },
     {
       "question_id": 21,
-      "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 1",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "धड्यातील वास कशाशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आरोग्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्य"
     },
     {
       "question_id": 22,
-      "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 2",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "चित्रकथेमुळे काय समजायला सोपे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विचार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संदेश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गणित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "संदेश"
     },
     {
       "question_id": 23,
-      "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 3",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "वासाची किंमत म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वासाचे मूल्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पैसे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "वासाचे मूल्य"
     },
     {
       "question_id": 24,
-      "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 4",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "या धड्यात कोणती चांगली सवय शिकवली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वच्छता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोंधळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वच्छता"
     },
     {
       "question_id": 25,
-      "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 5",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "वास ओळखण्याची सवय कशामुळे लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सराव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "सराव"
     },
     {
       "question_id": 26,
-      "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 6",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "चित्रकथेचा शेवट काय सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वच्छतेचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वच्छतेचे महत्त्व"
     },
     {
       "question_id": 27,
-      "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 7",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "वासामुळे कोणता धोका टाळता येतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आजारी पडणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ हरवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झोप",
+          "is_correct": false
+        }
+      ],
+      "answer": "आजारी पडणे"
     },
     {
       "question_id": 28,
-      "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 8",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वच्छ रहा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वच्छ रहा"
     },
     {
       "question_id": 29,
-      "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 9",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "वास आणि स्वच्छता यांचा संबंध कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थेट",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नसलेला",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळाचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "थेट"
     },
     {
       "question_id": 30,
-      "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 10",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question_type": "MCQ",
+      "question": "चित्रकथा वाचल्यावर काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वच्छतेची सवय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वच्छतेची सवय"
     },
     {
       "question_id": 31,
       "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 11",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "'वासाची किंमत' हा धडा कोणत्या प्रकारचा आहे?",
+      "answer": "‘वासाची किंमत’ हा चित्रकथेचा धडा आहे."
     },
     {
       "question_id": 32,
       "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 12",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "या धड्यात कशाचे महत्त्व सांगितले आहे?",
+      "answer": "या धड्यात वासाचे महत्त्व सांगितले आहे."
     },
     {
       "question_id": 33,
       "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 13",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "कथेचा मुख्य विषय काय आहे?",
+      "answer": "कथेचा मुख्य विषय स्वच्छता आणि वासाचे मूल्य आहे."
     },
     {
       "question_id": 34,
       "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 14",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "वास ओळखण्यासाठी कोणते इंद्रिय वापरतो?",
+      "answer": "वास ओळखण्यासाठी नाक वापरतो."
     },
     {
       "question_id": 35,
       "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 15",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "वासामुळे काय ओळखता येते?",
+      "answer": "वासामुळे वस्तू स्वच्छ आहेत की नाही हे ओळखता येते."
     },
     {
       "question_id": 36,
       "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 16",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "या धड्यात कोणती चांगली सवय लावण्याचा संदेश आहे?",
+      "answer": "स्वच्छ राहण्याची सवय लावण्याचा संदेश आहे."
     },
     {
       "question_id": 37,
       "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 17",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "चांगला वास कशाची खूण आहे?",
+      "answer": "चांगला वास स्वच्छतेची खूण आहे."
     },
     {
       "question_id": 38,
       "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 18",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "वाईट वास कशाची सूचना देतो?",
+      "answer": "वाईट वास घाणीची सूचना देतो."
     },
     {
       "question_id": 39,
       "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 19",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "चित्रकथेतील चित्रे कशासाठी उपयोगी आहेत?",
+      "answer": "चित्रे संदेश समजण्यासाठी उपयोगी आहेत."
     },
     {
       "question_id": 40,
       "question_type": "SHORT",
-      "question": "‘वासाची किंमत’ या धड्यावरील लघुउत्तर प्रश्न 20",
-      "answer": "हे उत्तर धड्याच्या आशयावर आधारित आहे."
+      "question": "वास ओळखल्याने कोणता फायदा होतो?",
+      "answer": "वास ओळखल्याने धोका टाळता येतो."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "या धड्यात स्वच्छतेचा संबंध कशाशी जोडला आहे?",
+      "answer": "स्वच्छतेचा संबंध वासाशी जोडला आहे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "वासामुळे आरोग्याची माहिती कशी मिळते?",
+      "answer": "वासामुळे आरोग्य चांगले आहे की नाही हे कळते."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "चित्रकथेतील संदेश कोणासाठी आहे?",
+      "answer": "चित्रकथेतील संदेश मुलांसाठी आहे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "धड्यात वासाचा उपयोग कशासाठी दाखवला आहे?",
+      "answer": "वासाचा उपयोग ओळख करण्यासाठी दाखवला आहे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "वाईट वास आल्यावर काय करावे?",
+      "answer": "वाईट वास आल्यावर स्वच्छता करावी."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "चांगला वास मिळवण्यासाठी काय करावे?",
+      "answer": "स्वच्छता ठेवावी."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "वासाची किंमत म्हणजे काय?",
+      "answer": "वासाचे महत्त्व म्हणजे वासाची किंमत."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "चित्रकथा असल्यामुळे काय सोपे होते?",
+      "answer": "संदेश समजणे सोपे होते."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "या धड्यातील मुख्य संदेश काय आहे?",
+      "answer": "नेहमी स्वच्छ राहावे हा मुख्य संदेश आहे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "वास आणि आरोग्य यांचा संबंध काय आहे?",
+      "answer": "वास आणि आरोग्य यांचा थेट संबंध आहे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "स्वच्छता न ठेवल्यास काय होते?",
+      "answer": "स्वच्छता न ठेवल्यास वाईट वास येतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "वासामुळे कोणता धोका टाळता येतो?",
+      "answer": "आजारी पडण्याचा धोका टाळता येतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "चित्रकथा मुलांना कशी मदत करते?",
+      "answer": "चित्रकथा मुलांना शिकायला मदत करते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "वास ओळखण्याची सवय कशी लागते?",
+      "answer": "नियमित सरावामुळे सवय लागते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "या धड्यातील चित्रे का महत्त्वाची आहेत?",
+      "answer": "चित्रे विषय समजायला मदत करतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "स्वच्छतेमुळे काय फायदा होतो?",
+      "answer": "स्वच्छतेमुळे आरोग्य चांगले राहते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "धड्याचा शेवट काय सांगतो?",
+      "answer": "धड्याचा शेवट स्वच्छतेचे महत्त्व सांगतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "वासामुळे कोणती जाणीव होते?",
+      "answer": "वासामुळे स्वच्छतेची जाणीव होते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
+      "answer": "स्वच्छ राहण्याची सवय शिकायला मिळते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "या धड्याचा रोजच्या जीवनात उपयोग काय?",
+      "answer": "रोजच्या जीवनात स्वच्छ राहण्यासाठी उपयोग होतो."
     }
   ]
 }

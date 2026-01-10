@@ -1,715 +1,1031 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03.ENG.MAR.18",
-    "standard": "3",
-    "subject": "Marathi Sulabhbharati",
-    "medium": "English",
+    "chapter_id": "01.Marathi.18",
+    "standard": "1",
+    "subject": "Marathi",
+    "medium": "Marathi",
     "chapter_name": "मजेशीर होड्या"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "'मजेशीर होड्या' या धड्यात मुलांना नदी कशी पार करायची होती?",
+      "question": "'मजेशीर होड्या' हा धडा कोणत्या प्रकारचा आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "होड्यांनी",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "उडून",
+          "text": "कविता",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "पोहून",
+          "text": "निबंध",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "पुलावरून",
+          "text": "संवाद",
           "is_correct": false
         }
       ],
-      "answer": "होड्यांनी"
+      "answer": "कथा"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "होड्या कशापासून तयार केल्या?",
+      "question": "या धड्याचा मुख्य विषय काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "अक्रोडाच्या टरफलांपासून",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "कागदापासून",
+          "text": "खेळ",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "होड्यांचा प्रवास",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "लाकडापासून",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "प्लास्टिकपासून",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "अक्रोडाच्या टरफलांपासून"
+      "answer": "होड्यांचा प्रवास"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "होड्या कोणी तयार केल्या?",
+      "question": "कथेत होड्या कशासाठी वापरल्या जातात?",
       "options": [
         {
           "option_id": 1,
-          "text": "बंडूने",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "सशाने",
+          "text": "खेळासाठी",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "प्रवासासाठी",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "मुलांनी",
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "शिक्षकांनी",
+          "text": "भीतीसाठी",
           "is_correct": false
         }
       ],
-      "answer": "बंडूने"
+      "answer": "प्रवासासाठी"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "होड्यांवर काय लावले होते?",
+      "question": "कथेत होड्यांचा प्रवास कसा आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "शिडे",
+          "text": "मजेशीर",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चाक",
+          "text": "भयाण",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "दोरी",
+          "text": "दुःखद",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "पंख",
+          "text": "कंटाळवाणा",
           "is_correct": false
         }
       ],
-      "answer": "शिडे"
+      "answer": "मजेशीर"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "होड्या पाण्यात कशा होत्या?",
+      "question": "होड्यांच्या प्रवासात कोणती भावना आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "तरंगणाऱ्या",
+          "text": "आनंद",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "बुडणाऱ्या",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "जड",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "तुटलेल्या",
+          "text": "दुःख",
           "is_correct": false
         }
       ],
-      "answer": "तरंगणाऱ्या"
+      "answer": "आनंद"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "'मजेशीर होड्या' या धड्यात मुलांना नदी कशी पार करायची होती?",
+      "question": "कथेत होड्यांचे वर्णन कसे आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "होड्यांनी",
+          "text": "रंगीत",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "उडून",
+          "text": "उदास",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "पोहून",
+          "text": "भयाण",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "पुलावरून",
+          "text": "निरस",
           "is_correct": false
         }
       ],
-      "answer": "होड्यांनी"
+      "answer": "रंगीत"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "होड्या कशापासून तयार केल्या?",
+      "question": "होड्यांच्या प्रवासात कोणते अनुभव मिळतात?",
       "options": [
         {
           "option_id": 1,
-          "text": "अक्रोडाच्या टरफलांपासून",
+          "text": "नवे अनुभव",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "कागदापासून",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "लाकडापासून",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "प्लास्टिकपासून",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "अक्रोडाच्या टरफलांपासून"
+      "answer": "नवे अनुभव"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "होड्या कोणी तयार केल्या?",
+      "question": "कथेत होड्यांचा उपयोग कशासाठी दाखवला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बंडूने",
+          "text": "मनोरंजन",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "सशाने",
+          "text": "भय",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "मुलांनी",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "शिक्षकांनी",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "बंडूने"
+      "answer": "मनोरंजन"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "होड्यांवर काय लावले होते?",
+      "question": "होड्यांमुळे कोणती सवय लागते?",
       "options": [
         {
           "option_id": 1,
-          "text": "शिडे",
+          "text": "साहस",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चाक",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "दोरी",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "पंख",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "शिडे"
+      "answer": "साहस"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "होड्या पाण्यात कशा होत्या?",
+      "question": "कथेत प्रवास कुठे होतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "तरंगणाऱ्या",
+          "text": "नदीवर",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "बुडणाऱ्या",
+          "text": "रस्त्यावर",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "जड",
+          "text": "आकाशात",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "तुटलेल्या",
+          "text": "घरात",
           "is_correct": false
         }
       ],
-      "answer": "तरंगणाऱ्या"
+      "answer": "नदीवर"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "'मजेशीर होड्या' या धड्यात मुलांना नदी कशी पार करायची होती?",
+      "question": "होड्यांच्या प्रवासात कोणते कौशल्य आवश्यक आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "होड्यांनी",
+          "text": "संतुलन",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "उडून",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "पोहून",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "पुलावरून",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "होड्यांनी"
+      "answer": "संतुलन"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
-      "question": "होड्या कशापासून तयार केल्या?",
+      "question": "कथेत होड्यांचा प्रवास कशामुळे सुरक्षित होतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "अक्रोडाच्या टरफलांपासून",
+          "text": "काळजी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "कागदापासून",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "लाकडापासून",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "प्लास्टिकपासून",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "अक्रोडाच्या टरफलांपासून"
+      "answer": "काळजी"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
-      "question": "होड्या कोणी तयार केल्या?",
+      "question": "होड्यांच्या प्रवासात कोणती मजा आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बंडूने",
+          "text": "हलचाल",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "सशाने",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "मुलांनी",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "शिक्षकांनी",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "बंडूने"
+      "answer": "हलचाल"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
-      "question": "होड्यांवर काय लावले होते?",
+      "question": "कथेत प्रवासाचा शेवट कसा आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "शिडे",
+          "text": "आनंदी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चाक",
+          "text": "दुःखद",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "दोरी",
+          "text": "भयाण",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "पंख",
+          "text": "गंभीर",
           "is_correct": false
         }
       ],
-      "answer": "शिडे"
+      "answer": "आनंदी"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
-      "question": "होड्या पाण्यात कशा होत्या?",
+      "question": "होड्यांच्या प्रवासात कोणते नाते घट्ट होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "तरंगणाऱ्या",
+          "text": "मित्रांचे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "बुडणाऱ्या",
+          "text": "शत्रूंचे",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "जड",
+          "text": "कोणतेही नाही",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "तुटलेल्या",
+          "text": "एकट्याचे",
           "is_correct": false
         }
       ],
-      "answer": "तरंगणाऱ्या"
+      "answer": "मित्रांचे"
     },
     {
       "question_id": 16,
       "question_type": "MCQ",
-      "question": "'मजेशीर होड्या' या धड्यात मुलांना नदी कशी पार करायची होती?",
+      "question": "कथेत होड्यांचा अनुभव कसा आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "होड्यांनी",
+          "text": "रोमांचक",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "उडून",
+          "text": "कंटाळवाणा",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "पोहून",
+          "text": "भयाण",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "पुलावरून",
+          "text": "दुःखद",
           "is_correct": false
         }
       ],
-      "answer": "होड्यांनी"
+      "answer": "रोमांचक"
     },
     {
       "question_id": 17,
       "question_type": "MCQ",
-      "question": "होड्या कशापासून तयार केल्या?",
+      "question": "होड्यांच्या प्रवासात कोणता गुण वाढतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "अक्रोडाच्या टरफलांपासून",
+          "text": "धैर्य",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "कागदापासून",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "लाकडापासून",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "प्लास्टिकपासून",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "अक्रोडाच्या टरफलांपासून"
+      "answer": "धैर्य"
     },
     {
       "question_id": 18,
       "question_type": "MCQ",
-      "question": "होड्या कोणी तयार केल्या?",
+      "question": "कथेत कोणती भावना ठळक आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "बंडूने",
+          "text": "आनंद",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "सशाने",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "मुलांनी",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "शिक्षकांनी",
+          "text": "दुःख",
           "is_correct": false
         }
       ],
-      "answer": "बंडूने"
+      "answer": "आनंद"
     },
     {
       "question_id": 19,
       "question_type": "MCQ",
-      "question": "होड्यांवर काय लावले होते?",
+      "question": "होड्यांच्या प्रवासात कोणते दृश्य दिसते?",
       "options": [
         {
           "option_id": 1,
-          "text": "शिडे",
+          "text": "निसर्ग",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चाक",
+          "text": "घर",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "दोरी",
+          "text": "शहर",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "पंख",
+          "text": "कार्यालय",
           "is_correct": false
         }
       ],
-      "answer": "शिडे"
+      "answer": "निसर्ग"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
-      "question": "होड्या पाण्यात कशा होत्या?",
+      "question": "कथेत होड्यांचा उपयोग कशासाठी केला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "तरंगणाऱ्या",
+          "text": "शिकण्यासाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "बुडणाऱ्या",
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "जड",
+          "text": "भीतीसाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "तुटलेल्या",
+          "text": "आळसासाठी",
           "is_correct": false
         }
       ],
-      "answer": "तरंगणाऱ्या"
+      "answer": "शिकण्यासाठी"
     },
     {
       "question_id": 21,
-      "question_type": "SHORT",
-      "question": "'मजेशीर होड्या' या धड्यातील मुख्य कल्पना काय आहे?",
-      "answer": "या धड्यात कल्पकतेने समस्या सोडवण्याची कल्पना आहे."
+      "question_type": "MCQ",
+      "question": "होड्यांच्या प्रवासात कोणती शिकवण मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहकार्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहकार्य"
     },
     {
       "question_id": 22,
-      "question_type": "SHORT",
-      "question": "बंडूने ठेंगूंना कशी मदत केली?",
-      "answer": "त्याने अक्रोडाच्या टरफलांपासून होड्या बनवल्या."
+      "question_type": "MCQ",
+      "question": "कथेत प्रवासात कोणते अडथळे येतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लाटा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "लाटा"
     },
     {
       "question_id": 23,
-      "question_type": "SHORT",
-      "question": "होड्यांवर शिडे का लावली होती?",
-      "answer": "वाऱ्याच्या मदतीने होड्या पुढे जाव्यात म्हणून."
+      "question_type": "MCQ",
+      "question": "होड्यांच्या प्रवासात अडथळे कसे पार होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकत्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकत्र"
     },
     {
       "question_id": 24,
-      "question_type": "SHORT",
-      "question": "या धड्यातून काय शिकायला मिळते?",
-      "answer": "समस्या आल्यास शहाणपणाने उपाय शोधायला शिकायला मिळते."
+      "question_type": "MCQ",
+      "question": "कथेत होड्यांचा प्रवास कशामुळे मजेशीर होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभवामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभवामुळे"
     },
     {
       "question_id": 25,
-      "question_type": "SHORT",
-      "question": "'मजेशीर होड्या' या धड्यातील मुख्य कल्पना काय आहे?",
-      "answer": "या धड्यात कल्पकतेने समस्या सोडवण्याची कल्पना आहे."
+      "question_type": "MCQ",
+      "question": "होड्यांच्या प्रवासात कोणते मूल्य दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साहस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "साहस"
     },
     {
       "question_id": 26,
-      "question_type": "SHORT",
-      "question": "बंडूने ठेंगूंना कशी मदत केली?",
-      "answer": "त्याने अक्रोडाच्या टरफलांपासून होड्या बनवल्या."
+      "question_type": "MCQ",
+      "question": "कथेत होड्यांचा प्रवास कशाशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग"
     },
     {
       "question_id": 27,
-      "question_type": "SHORT",
-      "question": "होड्यांवर शिडे का लावली होती?",
-      "answer": "वाऱ्याच्या मदतीने होड्या पुढे जाव्यात म्हणून."
+      "question_type": "MCQ",
+      "question": "होड्यांच्या प्रवासात कोणती सवय लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहकार्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहकार्य"
     },
     {
       "question_id": 28,
-      "question_type": "SHORT",
-      "question": "या धड्यातून काय शिकायला मिळते?",
-      "answer": "समस्या आल्यास शहाणपणाने उपाय शोधायला शिकायला मिळते."
+      "question_type": "MCQ",
+      "question": "कथेत प्रवासाचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद घ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती बाळगा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद घ्या"
     },
     {
       "question_id": 29,
-      "question_type": "SHORT",
-      "question": "'मजेशीर होड्या' या धड्यातील मुख्य कल्पना काय आहे?",
-      "answer": "या धड्यात कल्पकतेने समस्या सोडवण्याची कल्पना आहे."
+      "question_type": "MCQ",
+      "question": "ही कथा वाचल्यावर काय वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
     },
     {
       "question_id": 30,
-      "question_type": "SHORT",
-      "question": "बंडूने ठेंगूंना कशी मदत केली?",
-      "answer": "त्याने अक्रोडाच्या टरफलांपासून होड्या बनवल्या."
+      "question_type": "MCQ",
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साहसाचा आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "साहसाचा आनंद"
     },
     {
       "question_id": 31,
       "question_type": "SHORT",
-      "question": "होड्यांवर शिडे का लावली होती?",
-      "answer": "वाऱ्याच्या मदतीने होड्या पुढे जाव्यात म्हणून."
+      "question": "'मजेशीर होड्या' हा धडा कोणत्या प्रकारचा आहे?",
+      "answer": "हा धडा कथा प्रकारचा आहे."
     },
     {
       "question_id": 32,
       "question_type": "SHORT",
-      "question": "या धड्यातून काय शिकायला मिळते?",
-      "answer": "समस्या आल्यास शहाणपणाने उपाय शोधायला शिकायला मिळते."
+      "question": "या धड्याचा मुख्य विषय काय आहे?",
+      "answer": "या धड्याचा मुख्य विषय होड्यांचा मजेशीर प्रवास आहे."
     },
     {
       "question_id": 33,
       "question_type": "SHORT",
-      "question": "'मजेशीर होड्या' या धड्यातील मुख्य कल्पना काय आहे?",
-      "answer": "या धड्यात कल्पकतेने समस्या सोडवण्याची कल्पना आहे."
+      "question": "कथेत होड्या कशासाठी वापरल्या जातात?",
+      "answer": "होड्या प्रवासासाठी वापरल्या जातात."
     },
     {
       "question_id": 34,
       "question_type": "SHORT",
-      "question": "बंडूने ठेंगूंना कशी मदत केली?",
-      "answer": "त्याने अक्रोडाच्या टरफलांपासून होड्या बनवल्या."
+      "question": "कथेत होड्यांचा प्रवास कसा आहे?",
+      "answer": "होड्यांचा प्रवास मजेशीर आहे."
     },
     {
       "question_id": 35,
       "question_type": "SHORT",
-      "question": "होड्यांवर शिडे का लावली होती?",
-      "answer": "वाऱ्याच्या मदतीने होड्या पुढे जाव्यात म्हणून."
+      "question": "होड्यांच्या प्रवासात कोणती भावना आहे?",
+      "answer": "होड्यांच्या प्रवासात आनंदाची भावना आहे."
     },
     {
       "question_id": 36,
       "question_type": "SHORT",
-      "question": "या धड्यातून काय शिकायला मिळते?",
-      "answer": "समस्या आल्यास शहाणपणाने उपाय शोधायला शिकायला मिळते."
+      "question": "कथेत होड्यांचे वर्णन कसे आहे?",
+      "answer": "होड्यांचे वर्णन रंगीत आणि आकर्षक आहे."
     },
     {
       "question_id": 37,
       "question_type": "SHORT",
-      "question": "'मजेशीर होड्या' या धड्यातील मुख्य कल्पना काय आहे?",
-      "answer": "या धड्यात कल्पकतेने समस्या सोडवण्याची कल्पना आहे."
+      "question": "होड्यांच्या प्रवासात कोणते अनुभव मिळतात?",
+      "answer": "नवे आणि रोमांचक अनुभव मिळतात."
     },
     {
       "question_id": 38,
       "question_type": "SHORT",
-      "question": "बंडूने ठेंगूंना कशी मदत केली?",
-      "answer": "त्याने अक्रोडाच्या टरफलांपासून होड्या बनवल्या."
+      "question": "कथेत होड्यांचा उपयोग कशासाठी दाखवला आहे?",
+      "answer": "मनोरंजन आणि शिकण्यासाठी दाखवला आहे."
     },
     {
       "question_id": 39,
       "question_type": "SHORT",
-      "question": "होड्यांवर शिडे का लावली होती?",
-      "answer": "वाऱ्याच्या मदतीने होड्या पुढे जाव्यात म्हणून."
+      "question": "होड्यांमुळे कोणती सवय लागते?",
+      "answer": "साहसाची सवय लागते."
     },
     {
       "question_id": 40,
       "question_type": "SHORT",
-      "question": "या धड्यातून काय शिकायला मिळते?",
-      "answer": "समस्या आल्यास शहाणपणाने उपाय शोधायला शिकायला मिळते."
+      "question": "कथेत प्रवास कुठे होतो?",
+      "answer": "कथेत प्रवास नदीवर होतो."
     },
     {
       "question_id": 41,
       "question_type": "SHORT",
-      "question": "'मजेशीर होड्या' या धड्यातील मुख्य कल्पना काय आहे?",
-      "answer": "या धड्यात कल्पकतेने समस्या सोडवण्याची कल्पना आहे."
+      "question": "होड्यांच्या प्रवासात कोणते कौशल्य आवश्यक आहे?",
+      "answer": "संतुलनाचे कौशल्य आवश्यक आहे."
     },
     {
       "question_id": 42,
       "question_type": "SHORT",
-      "question": "बंडूने ठेंगूंना कशी मदत केली?",
-      "answer": "त्याने अक्रोडाच्या टरफलांपासून होड्या बनवल्या."
+      "question": "कथेत होड्यांचा प्रवास कशामुळे सुरक्षित होतो?",
+      "answer": "काळजी आणि सहकार्यामुळे सुरक्षित होतो."
     },
     {
       "question_id": 43,
       "question_type": "SHORT",
-      "question": "होड्यांवर शिडे का लावली होती?",
-      "answer": "वाऱ्याच्या मदतीने होड्या पुढे जाव्यात म्हणून."
+      "question": "होड्यांच्या प्रवासात कोणती मजा आहे?",
+      "answer": "हलचालीत आणि निसर्गात मजा आहे."
     },
     {
       "question_id": 44,
       "question_type": "SHORT",
-      "question": "या धड्यातून काय शिकायला मिळते?",
-      "answer": "समस्या आल्यास शहाणपणाने उपाय शोधायला शिकायला मिळते."
+      "question": "कथेत प्रवासाचा शेवट कसा आहे?",
+      "answer": "प्रवासाचा शेवट आनंदी आहे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "होड्यांच्या प्रवासात कोणते नाते घट्ट होते?",
+      "answer": "मित्रांचे नाते घट्ट होते."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कथेत होड्यांचा अनुभव कसा आहे?",
+      "answer": "होड्यांचा अनुभव रोमांचक आहे."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "होड्यांच्या प्रवासात कोणता गुण वाढतो?",
+      "answer": "धैर्याचा गुण वाढतो."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कथेत कोणती भावना ठळक आहे?",
+      "answer": "आनंदाची भावना ठळक आहे."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "होड्यांच्या प्रवासात कोणते दृश्य दिसते?",
+      "answer": "निसर्गाचे सुंदर दृश्य दिसते."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कथेत होड्यांचा उपयोग कशासाठी केला आहे?",
+      "answer": "शिकण्यासाठी आणि आनंदासाठी केला आहे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "होड्यांच्या प्रवासात कोणती शिकवण मिळते?",
+      "answer": "सहकार्याची शिकवण मिळते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कथेत प्रवासात कोणते अडथळे येतात?",
+      "answer": "लाटांचे अडथळे येतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "होड्यांच्या प्रवासात अडथळे कसे पार होतात?",
+      "answer": "एकत्र प्रयत्न करून पार होतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कथेत होड्यांचा प्रवास कशामुळे मजेशीर होतो?",
+      "answer": "नव्या अनुभवांमुळे मजेशीर होतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "होड्यांच्या प्रवासात कोणते मूल्य दिसते?",
+      "answer": "साहसाचे मूल्य दिसते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कथेत होड्यांचा प्रवास कशाशी संबंधित आहे?",
+      "answer": "निसर्गाशी संबंधित आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "होड्यांच्या प्रवासात कोणती सवय लागते?",
+      "answer": "सहकार्याची सवय लागते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कथेत प्रवासाचा मुख्य संदेश काय आहे?",
+      "answer": "प्रवासाचा आनंद घ्या हा संदेश आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ही कथा वाचल्यावर काय वाटते?",
+      "answer": "ही कथा वाचल्यावर आनंद वाटतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "हा धडा वाचल्यावर काय शिकायला मिळते?",
+      "answer": "साहसाचा आनंद आणि सहकार्य शिकायला मिळते."
     }
   ]
 }

@@ -1,115 +1,114 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03-Marathi-08",
-    "standard": "3",
+    "chapter_id": "01.Marathi.08",
+    "standard": "1",
     "subject": "Marathi",
     "medium": "Marathi",
-    "chapter_name": "ते अमर हुतात्मे झाले !",
-    "chapter_type": "कविता"
+    "chapter_name": "ते अमर हुतात्मे झाले!"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 1",
+      "question": "'ते अमर हुतात्मे झाले!' ही कोणत्या प्रकारची रचना आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "कथा",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "निबंध",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "संवाद",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "कविता"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 2",
+      "question": "या कवितेचा मुख्य विषय काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "निसर्ग",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "देशप्रेम आणि बलिदान",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "संगीत",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "देशप्रेम आणि बलिदान"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 3",
+      "question": "कवितेत कोणांचे वर्णन आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
           "text": "शेतकरी",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "हुतात्मे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        },
+        {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "कलाकार",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "हुतात्मे"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 4",
+      "question": "'हुतात्मे' म्हणजे कोण?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "खेळाडू",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "देशासाठी बलिदान देणारे",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "शिक्षक",
           "is_correct": false
         },
         {
@@ -118,1425 +117,915 @@
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "देशासाठी बलिदान देणारे"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 5",
+      "question": "कवितेत हुतात्म्यांना कसे संबोधले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "सामान्य",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "अमर",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "कमकुवत",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "भीतीदायक",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "अमर"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 6",
+      "question": "कवितेत कोणती भावना ठळक आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "राग",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "देशप्रेम",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "दुःख",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "देशप्रेम"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 7",
+      "question": "हुतात्म्यांचे बलिदान कशासाठी आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "स्वतःसाठी",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "देशासाठी",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "खेळासाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "संगीतासाठी",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "देशासाठी"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 8",
+      "question": "कवितेत हुतात्म्यांचा आदर कसा व्यक्त केला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "उपेक्षेने",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "गौरवाने",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "भीतीने",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "रागाने",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "गौरवाने"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 9",
+      "question": "कवितेत हुतात्म्यांचे स्मरण कशासाठी केले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "मनोरंजन",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "प्रेरणा",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "प्रेरणा"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 10",
+      "question": "या कवितेत कोणता संदेश दिला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "स्वार्थ",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "देशसेवा",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "देशसेवा"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 11",
+      "question": "कवितेत देशासाठी मरण पावलेल्यांना काय म्हटले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "सामान्य",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "अमर",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "भ्याड",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "कमकुवत",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "अमर"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 12",
+      "question": "कवितेत हुतात्म्यांमुळे काय मिळाले?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
+          "text": "स्वातंत्र्य",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "संगीत",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "स्वातंत्र्य"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 13",
+      "question": "हुतात्म्यांचे बलिदान कसे मानले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "वाया",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "महान",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "साधे",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "अल्प",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "महान"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 14",
+      "question": "कवितेत देशप्रेम कसे दाखवले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "उदाहरणांनी",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "भावनांनी",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "चित्रांनी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "खेळाने",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "भावनांनी"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 15",
+      "question": "कवितेत कोणत्या मूल्यांवर भर आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "स्वार्थ",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "त्याग",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "त्याग"
     },
     {
       "question_id": 16,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 16",
+      "question": "कवितेत हुतात्म्यांची आठवण कशासाठी आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "मनोरंजन",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "प्रेरणा",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "प्रेरणा"
     },
     {
       "question_id": 17,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 17",
+      "question": "कवितेत हुतात्म्यांचे जीवन कसे वर्णन केले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "निरर्थक",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "त्यागमय",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "आळशी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "स्वार्थी",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "त्यागमय"
     },
     {
       "question_id": 18,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 18",
+      "question": "कवितेत देशाचे महत्त्व कसे दाखवले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "दुय्यम",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "सर्वोच्च",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "कमी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "अस्पष्ट",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "सर्वोच्च"
     },
     {
       "question_id": 19,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 19",
+      "question": "कवितेत हुतात्म्यांना कोणता मान दिला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "सामान्य",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "अमरत्व",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "उपेक्षा",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "भय",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "अमरत्व"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 20",
+      "question": "कवितेचा शेवट कशाची जाणीव करून देतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "राग",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "कर्तव्य",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "कर्तव्य"
     },
     {
       "question_id": 21,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 21",
+      "question": "हुतात्म्यांचे स्मरण का करावे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "विसरण्यासाठी",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "प्रेरणेसाठी",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "खेळासाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "रागासाठी",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "प्रेरणेसाठी"
     },
     {
       "question_id": 22,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 22",
+      "question": "कवितेत कोणती भावना वाचकात निर्माण होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
+          "text": "देशप्रेम",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "देशप्रेम"
     },
     {
       "question_id": 23,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 23",
+      "question": "हुतात्म्यांचे बलिदान कोणासाठी प्रेरणादायी आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "विद्यार्थ्यांसाठी",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "सर्वांसाठी",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "फक्त सैनिकांसाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "कोणासाठीही नाही",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "सर्वांसाठी"
     },
     {
       "question_id": 24,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 24",
+      "question": "कवितेत हुतात्म्यांचे नाव अमर का आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
+          "text": "त्यागामुळे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "खेळामुळे",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "रागामुळे",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "भीतीमुळे",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "त्यागामुळे"
     },
     {
       "question_id": 25,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 25",
+      "question": "कवितेत देशासाठी काम करण्याचा संदेश काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "टाळा",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "कर्तव्य समजा",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "दुर्लक्ष करा",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "भीती बाळगा",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "कर्तव्य समजा"
     },
     {
       "question_id": 26,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 26",
+      "question": "कवितेत हुतात्म्यांचे कार्य कसे आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "स्वार्थी",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "देशहिताचे",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "आळशी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "निरुपयोगी",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "देशहिताचे"
     },
     {
       "question_id": 27,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 27",
+      "question": "कवितेत देशप्रेम कशामुळे वाढते?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
+          "text": "त्याग पाहून",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "खेळ पाहून",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "राग पाहून",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "भीती पाहून",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "त्याग पाहून"
     },
     {
       "question_id": 28,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 28",
+      "question": "कवितेत हुतात्म्यांचा सन्मान कसा करायला सांगितला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "विसरून",
           "is_correct": false
         },
         {
+          "option_id": 2,
+          "text": "आदर ठेवून",
+          "is_correct": true
+        },
+        {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "दुर्लक्ष करून",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "राग करून",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "आदर ठेवून"
     },
     {
       "question_id": 29,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 29",
+      "question": "कवितेचा मुख्य संदेश काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
+          "text": "देशप्रेम आणि त्याग",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "देशप्रेम आणि त्याग"
     },
     {
       "question_id": 30,
       "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 30",
+      "question": "ही कविता वाचल्यावर काय वाटते?",
       "options": [
         {
           "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
+          "text": "देशप्रेम",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "शेतकरी",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "व्यापारी",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "answer": "देशप्रेम"
     },
     {
       "question_id": 31,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 31",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "'ते अमर हुतात्मे झाले!' ही रचना कोणत्या प्रकारची आहे?",
+      "answer": "ही रचना कविता आहे."
     },
     {
       "question_id": 32,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 32",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "या कवितेचा मुख्य विषय काय आहे?",
+      "answer": "या कवितेचा मुख्य विषय देशप्रेम आणि बलिदान आहे."
     },
     {
       "question_id": 33,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 33",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "कवितेत कोणांचे वर्णन आहे?",
+      "answer": "कवितेत हुतात्म्यांचे वर्णन आहे."
     },
     {
       "question_id": 34,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 34",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "हुतात्मे म्हणजे कोण?",
+      "answer": "देशासाठी प्राण अर्पण करणाऱ्यांना हुतात्मे म्हणतात."
     },
     {
       "question_id": 35,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 35",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "कवितेत हुतात्म्यांना कसे संबोधले आहे?",
+      "answer": "कवितेत हुतात्म्यांना अमर संबोधले आहे."
     },
     {
       "question_id": 36,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 36",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती भावना व्यक्त होते?",
+      "answer": "कवितेत देशप्रेमाची भावना व्यक्त होते."
     },
     {
       "question_id": 37,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 37",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "हुतात्म्यांचे बलिदान कशासाठी आहे?",
+      "answer": "हुतात्म्यांचे बलिदान देशासाठी आहे."
     },
     {
       "question_id": 38,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 38",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "कवितेत हुतात्म्यांचा आदर कसा व्यक्त केला आहे?",
+      "answer": "गौरवपूर्ण शब्दांत आदर व्यक्त केला आहे."
     },
     {
       "question_id": 39,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 39",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "हुतात्म्यांचे स्मरण कशासाठी केले आहे?",
+      "answer": "प्रेरणा मिळावी म्हणून स्मरण केले आहे."
     },
     {
       "question_id": 40,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 40",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "कवितेतील मुख्य संदेश काय आहे?",
+      "answer": "देशासाठी त्याग करावा हा मुख्य संदेश आहे."
     },
     {
       "question_id": 41,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 41",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "कवितेत देशासाठी मरण पावलेल्यांना काय म्हटले आहे?",
+      "answer": "देशासाठी मरण पावलेल्यांना अमर म्हटले आहे."
     },
     {
       "question_id": 42,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 42",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "हुतात्म्यांमुळे देशाला काय मिळाले?",
+      "answer": "हुतात्म्यांमुळे देशाला स्वातंत्र्य मिळाले."
     },
     {
       "question_id": 43,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 43",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "हुतात्म्यांचे बलिदान कसे मानले आहे?",
+      "answer": "हुतात्म्यांचे बलिदान महान मानले आहे."
     },
     {
       "question_id": 44,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 44",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "कवितेत देशप्रेम कसे दाखवले आहे?",
+      "answer": "भावनात्मक शब्दांद्वारे देशप्रेम दाखवले आहे."
     },
     {
       "question_id": 45,
-      "question_type": "MCQ",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील बहुपर्यायी प्रश्न क्रमांक 45",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "देशासाठी बलिदान देणारे वीर",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शाळेतील विद्यार्थी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "शेतकरी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "व्यापारी",
-          "is_correct": false
-        }
-      ],
-      "answer": "देशासाठी बलिदान देणारे वीर"
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या मूल्यांवर भर आहे?",
+      "answer": "त्याग आणि कर्तव्य या मूल्यांवर भर आहे."
     },
     {
       "question_id": 46,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 1",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "हुतात्म्यांची आठवण का ठेवावी?",
+      "answer": "त्यांच्या त्यागातून प्रेरणा मिळते म्हणून."
     },
     {
       "question_id": 47,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 2",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "कवितेत हुतात्म्यांचे जीवन कसे वर्णन केले आहे?",
+      "answer": "त्यागमय जीवन म्हणून वर्णन केले आहे."
     },
     {
       "question_id": 48,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 3",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "कवितेत देशाचे महत्त्व कसे दाखवले आहे?",
+      "answer": "देशाचे महत्त्व सर्वोच्च दाखवले आहे."
     },
     {
       "question_id": 49,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 4",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "हुतात्म्यांना कोणता मान दिला आहे?",
+      "answer": "हुतात्म्यांना अमरत्वाचा मान दिला आहे."
     },
     {
       "question_id": 50,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 5",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "कवितेचा शेवट काय सांगतो?",
+      "answer": "कर्तव्याची जाणीव करून देतो."
     },
     {
       "question_id": 51,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 6",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "हुतात्म्यांचे स्मरण का करावे?",
+      "answer": "देशप्रेम वाढावे म्हणून स्मरण करावे."
     },
     {
       "question_id": 52,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 7",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "कवितेत वाचकात कोणती भावना निर्माण होते?",
+      "answer": "वाचकात देशप्रेमाची भावना निर्माण होते."
     },
     {
       "question_id": 53,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 8",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "हुतात्म्यांचे बलिदान कोणासाठी प्रेरणादायी आहे?",
+      "answer": "हुतात्म्यांचे बलिदान सर्वांसाठी प्रेरणादायी आहे."
     },
     {
       "question_id": 54,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 9",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "हुतात्म्यांचे नाव अमर का आहे?",
+      "answer": "त्यांच्या त्यागामुळे नाव अमर आहे."
     },
     {
       "question_id": 55,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 10",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "कवितेत देशासाठी काम करण्याचा संदेश काय आहे?",
+      "answer": "देशसेवा कर्तव्य समजावे हा संदेश आहे."
     },
     {
       "question_id": 56,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 11",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "कवितेत हुतात्म्यांचे कार्य कसे आहे?",
+      "answer": "हुतात्म्यांचे कार्य देशहिताचे आहे."
     },
     {
       "question_id": 57,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 12",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "कवितेत देशप्रेम कशामुळे वाढते?",
+      "answer": "हुतात्म्यांचा त्याग पाहून देशप्रेम वाढते."
     },
     {
       "question_id": 58,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 13",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "हुतात्म्यांचा सन्मान कसा करावा?",
+      "answer": "त्यांचा आदर ठेवून सन्मान करावा."
     },
     {
       "question_id": 59,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 14",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "कवितेचा मुख्य संदेश काय आहे?",
+      "answer": "देशप्रेम आणि त्याग हा मुख्य संदेश आहे."
     },
     {
       "question_id": 60,
       "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 15",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 61,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 16",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 62,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 17",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 63,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 18",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 64,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 19",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 65,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 20",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 66,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 21",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 67,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 22",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 68,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 23",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 69,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 24",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 70,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 25",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 71,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 26",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 72,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 27",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 73,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 28",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 74,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 29",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 75,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 30",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 76,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 31",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 77,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 32",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 78,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 33",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 79,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 34",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 80,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 35",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 81,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 36",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 82,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 37",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 83,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 38",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 84,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 39",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 85,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 40",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 86,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 41",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 87,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 42",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 88,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 43",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 89,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 44",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
-    },
-    {
-      "question_id": 90,
-      "question_type": "SHORT",
-      "question": "‘ते अमर हुतात्मे झाले !’ या कवितेवरील लघुउत्तर प्रश्न क्रमांक 45",
-      "answer": "हे उत्तर कवितेतील आशय व संदेशावर आधारित आहे."
+      "question": "ही कविता वाचल्यावर काय वाटते?",
+      "answer": "ही कविता वाचल्यावर देशप्रेम वाटते."
     }
   ]
 }
