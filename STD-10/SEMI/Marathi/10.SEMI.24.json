@@ -1,0 +1,311 @@
+﻿{
+  "chapter_metadata": {
+    "chapter_id": "10.SEMI.24",
+    "standard": "10",
+    "subject": "Marathi",
+    "medium": "Semi-English",
+    "chapter_name": "शब्दार्थ आणि पारिभाषिक शब्द"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी शुद्ध शब्द ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "हाार्दिक", "is_correct": false },
+        { "option_id": 2, "text": "हार्दीक", "is_correct": false },
+        { "option_id": 3, "text": "हार्दिक", "is_correct": true },
+        { "option_id": 4, "text": "हरदिक", "is_correct": false }
+      ],
+      "answer": "हार्दिक"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी अशुद्ध शब्द ओळखा.",
+      "options": [
+        { "option_id": 1, "text": "वैशिष्ट्य", "is_correct": false },
+        { "option_id": 2, "text": "साहाय्यक", "is_correct": false },
+        { "option_id": 3, "text": "शिर्षक", "is_correct": true },
+        { "option_id": 4, "text": "शीर्षक", "is_correct": false }
+      ],
+      "answer": "शिर्षक (शुद्ध शब्द: शीर्षक)"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "'Affidavit' या इंग्रजी शब्दासाठी मराठी पारिभाषिक शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "प्रतिज्ञापत्र", "is_correct": false },
+        { "option_id": 2, "text": "शपथपत्र", "is_correct": true },
+        { "option_id": 3, "text": "हमीपत्र", "is_correct": false },
+        { "option_id": 4, "text": "करारपत्र", "is_correct": false }
+      ],
+      "answer": "शपथपत्र"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "'Census' या शब्दाचा मराठी अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "जनगणना", "is_correct": true },
+        { "option_id": 2, "text": "लोकसंख्या", "is_correct": false },
+        { "option_id": 3, "text": "नागरिकशास्त्र", "is_correct": false },
+        { "option_id": 4, "text": "मतदान", "is_correct": false }
+      ],
+      "answer": "जनगणना"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'Bio-data' साठी योग्य पारिभाषिक शब्द निवडा.",
+      "options": [
+        { "option_id": 1, "text": "जीवनचरित्र", "is_correct": false },
+        { "option_id": 2, "text": "स्व-परिचय", "is_correct": true },
+        { "option_id": 3, "text": "ओळखपत्र", "is_correct": false },
+        { "option_id": 4, "text": "माहितीपत्रक", "is_correct": false }
+      ],
+      "answer": "स्व-परिचय"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "'Dismiss' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "बडतर्फ", "is_correct": true },
+        { "option_id": 2, "text": "निलंबित", "is_correct": false },
+        { "option_id": 3, "text": "बदली", "is_correct": false },
+        { "option_id": 4, "text": "राजीनामा", "is_correct": false }
+      ],
+      "answer": "बडतर्फ"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "'Zero Hour' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मध्यरात्र", "is_correct": false },
+        { "option_id": 2, "text": "विश्रांतीची वेळ", "is_correct": false },
+        { "option_id": 3, "text": "शून्य तास", "is_correct": true },
+        { "option_id": 4, "text": "कामाची वेळ", "is_correct": false }
+      ],
+      "answer": "शून्य तास"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'कंठस्नान घालणे' या वाक्प्रचाराचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "अंघोळ घालणे", "is_correct": false },
+        { "option_id": 2, "text": "ठार मारणे", "is_correct": true },
+        { "option_id": 3, "text": "पूजा करणे", "is_correct": false },
+        { "option_id": 4, "text": "हार घालणे", "is_correct": false }
+      ],
+      "answer": "ठार मारणे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "'खस्ता खाणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "कष्ट करणे / श्रम करणे", "is_correct": true },
+        { "option_id": 2, "text": "पदार्थ खाणे", "is_correct": false },
+        { "option_id": 3, "text": "मार खाणे", "is_correct": false },
+        { "option_id": 4, "text": "पैसे खर्च करणे", "is_correct": false }
+      ],
+      "answer": "कष्ट करणे / श्रम करणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'असिधाराव्रत' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "तलवार बाळगणे", "is_correct": false },
+        { "option_id": 2, "text": "उपवास करणे", "is_correct": false },
+        { "option_id": 3, "text": "अतिशय खडतर व्रत", "is_correct": true },
+        { "option_id": 4, "text": "सोपे काम", "is_correct": false }
+      ],
+      "answer": "अतिशय खडतर व्रत"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "संदर्भ ग्रंथ कशासाठी वापरले जातात?",
+      "options": [
+        { "option_id": 1, "text": "मनोरंजनासाठी", "is_correct": false },
+        { "option_id": 2, "text": "विशिष्ट माहितीसाठी/संदर्भासाठी", "is_correct": true },
+        { "option_id": 3, "text": "वेळ घालवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "कथा वाचण्यासाठी", "is_correct": false }
+      ],
+      "answer": "विशिष्ट माहितीसाठी/संदर्भासाठी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कोणत्या कोशात विशिष्ट विषयाशी संबंधित माहिती असते?",
+      "options": [
+        { "option_id": 1, "text": "शब्दकोश", "is_correct": false },
+        { "option_id": 2, "text": "विशिष्ट ज्ञानकोश", "is_correct": true },
+        { "option_id": 3, "text": "चरित्रकोश", "is_correct": false },
+        { "option_id": 4, "text": "वार्षिके", "is_correct": false }
+      ],
+      "answer": "विशिष्ट ज्ञानकोश"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "ग्रंथ आणि संदर्भ ग्रंथ यात मुख्य फरक काय?",
+      "options": [
+        { "option_id": 1, "text": "ग्रंथ पूर्ण वाचले जातात, संदर्भ ग्रंथ विशिष्ट माहितीसाठी वापरले जातात", "is_correct": true },
+        { "option_id": 2, "text": "संदर्भ ग्रंथ पूर्ण वाचले जातात", "is_correct": false },
+        { "option_id": 3, "text": "दोन्हीत काहीच फरक नाही", "is_correct": false },
+        { "option_id": 4, "text": "संदर्भ ग्रंथ छोटे असतात", "is_correct": false }
+      ],
+      "answer": "ग्रंथ पूर्ण वाचले जातात, संदर्भ ग्रंथ विशिष्ट माहितीसाठी वापरले जातात"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'मराठी व्युत्पत्ति कोश' चे लेखक कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "मो. रा. वाळंबे", "is_correct": false },
+        { "option_id": 2, "text": "कृ. पां. कुलकर्णी", "is_correct": true },
+        { "option_id": 3, "text": "पु. ल. देशपांडे", "is_correct": false },
+        { "option_id": 4, "text": "वि. स. खांडेकर", "is_correct": false }
+      ],
+      "answer": "कृ. पां. कुलकर्णी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'रणशिंग फुंकणे' या वाक्प्रचाराचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "वाद्य वाजवणे", "is_correct": false },
+        { "option_id": 2, "text": "अन्यायाविरुद्ध बंड पुकारणे/सुरुवात करणे", "is_correct": true },
+        { "option_id": 3, "text": "युद्ध थांबवणे", "is_correct": false },
+        { "option_id": 4, "text": "गाणे गाणे", "is_correct": false }
+      ],
+      "answer": "अन्यायाविरुद्ध बंड पुकारणे/सुरुवात करणे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "पारिभाषिक संज्ञा म्हणजे काय?",
+      "answer": "विशिष्ट ज्ञानक्षेत्रातील माहिती किंवा संकल्पना व्यक्त करण्यासाठी जे विशिष्ट शब्द वापरले जातात, त्यांना 'पारिभाषिक संज्ञा' म्हणतात [cite: 420-422]."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "पारिभाषिक संज्ञांचा मुख्य उद्देश काय असतो?",
+      "answer": "पारिभाषिक संज्ञांचा मूळ उद्देश 'व्यवहारसापेक्ष भाषेचे उपयोजन' हा आहे, ज्यामुळे ज्ञानव्यवहार अधिक प्रभावी आणि सुस्पष्ट होतो [cite: 424-425]."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "'Casual Leave' आणि 'Earned Leave' यांसाठी मराठी शब्द लिहा.",
+      "answer": "Casual Leave: नैमित्तिक रजा, Earned Leave: अर्जित रजा[cite: 426]."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "'Exhibition' आणि 'Workshop' यांसाठी मराठी शब्द लिहा.",
+      "answer": "Exhibition: प्रदर्शन, Workshop: कार्यशाळा[cite: 426, 487]."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "'Registered Letter' आणि 'Mobile' यांसाठी मराठी शब्द सांगा.",
+      "answer": "Registered Letter: नोंदणीकृत पत्र, Mobile: भ्रमणध्वनी[cite: 459, 530]."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "खालील शब्दांचे शुद्ध रूप लिहा: 'हार्दीक', 'शिरोधार्य'.",
+      "answer": "हार्दिक, शिरोधार्य (शिरोधार्य हा शब्द आधीच शुद्ध आहे)[cite: 415]."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "खालील शब्दांचे शुद्ध रूप लिहा: 'कुटूंबिक', 'निर्जीव'.",
+      "answer": "कौटुंबिक, निर्जीव[cite: 415]."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "'सटकी मारणे' आणि 'आर्जव' या शब्दांचे अर्थ लिहा.",
+      "answer": "सटकी मारणे: निघून जाणे / हळूच सटकणे; आर्जव: विनंती[cite: 556, 561]."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "'निकराने लढणे' म्हणजे काय?",
+      "answer": "प्राण पणाला लावून लढणे[cite: 623]."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "संदर्भ ग्रंथ म्हणजे काय?",
+      "answer": "ज्या ग्रंथांचा वापर सलग वाचण्यासाठी न करता विशिष्ट माहितीसाठी किंवा संदर्भासाठी केला जातो, त्यांना संदर्भ ग्रंथ म्हणतात[cite: 651]."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "काही निवडक संदर्भ ग्रंथांची नावे सांगा.",
+      "answer": "शब्दकोश, ज्ञानकोश (विश्वकोश), विशिष्ट ज्ञानकोश, चरित्रकोश इत्यादी [cite: 665-669]."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "शब्दकोशाचा उपयोग कशासाठी होतो?",
+      "answer": "अडलेल्या शब्दांचे अर्थ समजून घेण्यासाठी आणि नवीन शब्द माहिती करून घेण्यासाठी शब्दकोशाचा उपयोग होतो[cite: 666]."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "चरित्रकोशामध्ये कशाची माहिती असते?",
+      "answer": "चरित्रकोशामध्ये थोर व्यक्तींची, शास्त्रज्ञांची चरित्रात्मक माहिती संकलित केलेली असते[cite: 669]."
+    },
+    {
+      "question_id": 29,
+      "question_tye": "SHORT",
+      "question": "सुधा मूर्ती यांच्या पुस्तकाचे नाव काय?",
+     "answer": "गोष्टी माणसांच्या[cite: 686]."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "मो. रा. वाळंबे यांचे कोणते पुस्तक प्रसिद्ध आहे?",
+      "answer": "सुगम मराठी व्याकरण व लेखन[cite: 694]."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "पारिभाषिक संज्ञांचे महत्त्व तुमच्या शब्दांत लिहा.",
+      "answer": "ज्ञानप्रसार आणि मानवी व्यवहार सतत बदलत असतात. प्रत्येक क्षेत्राची (उदा. प्रशासन, विज्ञान, कायदा) स्वतःची अशी एक भाषा असते. या विशिष्ट क्षेत्रातील संकल्पना अचूकपणे मांडण्यासाठी रोजच्या वापरातील शब्द पुरेसे पडत नाहीत. अशा वेळी 'पारिभाषिक संज्ञा' वापरल्या जातात. यामुळे विचारांमध्ये आणि लेखनात 'विशिष्टता' आणि 'निर्दोषता' येते. [cite_start]गोंधळ टाळण्यासाठी आणि ज्ञानव्यवहार प्रभावी करण्यासाठी पारिभाषिक संज्ञांना अनन्यसाधारण महत्त्व आहे [cite: 418-425]."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "संदर्भ ग्रंथांचे विद्यार्थ्यांच्या जीवनातील स्थान स्पष्ट करा.",
+      "answer": "विद्यार्थ्यांसाठी संदर्भ ग्रंथ अत्यंत उपयुक्त असतात. शालेय वयापासूनच संदर्भ ग्रंथ हाताळण्याची सवय लागल्यास अभ्यासात मदत होते. उदाहरणार्थ, एखाद्या कवीची कविता अभ्यासताना, संदर्भ ग्रंथातून त्या कवीची इतर माहिती किंवा कविता शोधता येतात. यामुळे अभ्यासाचा आवाका वाढतो. प्रकल्प (Project) करताना विषयाची सखोल माहिती मिळवण्यासाठी संदर्भ ग्रंथ मार्गदर्शक ठरतात. [cite_start]कोणत्याही विषयाचे सखोल ज्ञान मिळवण्यासाठी संदर्भ ग्रंथ हे एक उत्तम साधन आहे [cite: 660-663]."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "खालील इंग्रजी शब्दांसाठी मराठी पारिभाषिक शब्द लिहा: \n1. Affidavit\n2. Census\n3. Correspondence\n4. Fellowship\n5. Mortgage",
+      "answer": "1. Affidavit: शपथपत्र\n2. Census: जनगणना\n3. Correspondence: पत्रव्यवहार\n4. Fellowship: अधिछात्रवृत्ती\n5. [cite_start]Mortgage: गहाण / तारण[cite: 426, 429, 437]."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "खालील वाक्प्रचारांचे अर्थ सांगून वाक्यात उपयोग करा: \n1. मुहूर्तमेढ रोवणे\n2. डोळे पाणावणे (टिचणे)\n3. कान देऊन ऐकणे",
+      "answer": "1. [cite_start]**मुहूर्तमेढ रोवणे** - अर्थ: एखाद्या गोष्टीचा आरंभ/सुरुवात करणे. [cite: 615] \nवाक्य: गावकऱ्यांनी श्रमदानातून नवीन शाळेची मुहूर्तमेढ रोवली.\n\n2. [cite_start]**टिचणे (डोळे पाणावणे)** - अर्थ: डोळे भरून येणे / रडू येणे. [cite: 610] \nवाक्य: लेकीच्या सासरी जाण्याच्या वेळी आईचे डोळे टचकन टिचले.\n\n3. [cite_start]**कान देऊन ऐकणे** - अर्थ: लक्षपूर्वक ऐकणे. [cite: 590] \nवाक्य: गुरुजींची शिकवण विद्यार्थ्यांनी कान देऊन ऐकली."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "शुद्धलेखनाच्या दृष्टीने खालील शब्दांचे महत्त्व काय? (आशीर्वाद, हार्दिक, परिस्थिती, दीपावली)",
+      "answer": "शुद्धलेखनात रऱ्हस्व आणि दीर्घ वेलांटी/उकार यांना खूप महत्त्व असते. एक मात्रा चुकल्यास अर्थ बदलू शकतो किंवा शब्द अशुद्ध होतो. [cite_start]\n- **आशीर्वाद**: यात 'शी' दीर्घ असते आणि रफार 'वा' वर असतो.\n- **हार्दिक**: यात 'र्दि' रऱ्हस्व असते.\n- **परिस्थिती**: यात 'रि' रऱ्हस्व आणि 'थीत' दीर्घ असते.\n- **दीपावली**: यात 'दी' दीर्घ असते.\nहे शब्द वारंवार वापरले जातात, त्यामुळे त्यांचे शुद्ध रूप लक्षात ठेवणे आवश्यक आहे[cite: 415]."
+    }
+  ]
+}

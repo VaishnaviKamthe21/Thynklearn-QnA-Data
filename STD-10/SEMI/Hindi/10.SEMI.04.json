@@ -1,0 +1,193 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.SEMI.04",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Semi-English",
+    "chapter_name": "मन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘मन’ कविता के रचनाकार कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "घनश्याम अग्रवाल", "is_correct": false },
+        { "option_id": 2, "text": "विकास परिहार", "is_correct": true },
+        { "option_id": 3, "text": "जयशंकर प्रसाद", "is_correct": false },
+        { "option_id": 4, "text": "रामधारी सिंह दिनकर", "is_correct": false }
+      ],
+      "answer": "विकास परिहार"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "‘मन’ रचना किस काव्य-विधा में लिखी गई है?",
+      "options": [
+        { "option_id": 1, "text": "गीत", "is_correct": false },
+        { "option_id": 2, "text": "ग़ज़ल", "is_correct": false },
+        { "option_id": 3, "text": "हाइकु", "is_correct": true },
+        { "option_id": 4, "text": "सॉनेट", "is_correct": false }
+      ],
+      "answer": "हाइकु"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "हाइकु कविता में कुल कितने वर्ण होते हैं?",
+      "options": [
+        { "option_id": 1, "text": "12", "is_correct": false },
+        { "option_id": 2, "text": "15", "is_correct": false },
+        { "option_id": 3, "text": "17", "is_correct": true },
+        { "option_id": 4, "text": "19", "is_correct": false }
+      ],
+      "answer": "17"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "हाइकु की वर्ण-रचना का सही क्रम कौन-सा है?",
+      "options": [
+        { "option_id": 1, "text": "7+5+7", "is_correct": false },
+        { "option_id": 2, "text": "5+5+5", "is_correct": false },
+        { "option_id": 3, "text": "5+7+5", "is_correct": true },
+        { "option_id": 4, "text": "6+5+6", "is_correct": false }
+      ],
+      "answer": "5+7+5"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "‘जीवन नैया मँझधार में डोले’ पंक्ति में ‘नैया’ किसका प्रतीक है?",
+      "options": [
+        { "option_id": 1, "text": "नदी का", "is_correct": false },
+        { "option_id": 2, "text": "समय का", "is_correct": false },
+        { "option_id": 3, "text": "जीवन का", "is_correct": true },
+        { "option_id": 4, "text": "संघर्ष का", "is_correct": false }
+      ],
+      "answer": "जीवन का"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "काँटों के बीच खिलखिलाता फूल क्या दर्शाता है?",
+      "options": [
+        { "option_id": 1, "text": "दुख", "is_correct": false },
+        { "option_id": 2, "text": "असफलता", "is_correct": false },
+        { "option_id": 3, "text": "प्रेरणा", "is_correct": true },
+        { "option_id": 4, "text": "क्रोध", "is_correct": false }
+      ],
+      "answer": "प्रेरणा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "‘भीतरी कुंठा आँखों के द्वार से आई बाहर’ पंक्ति का भाव क्या है?",
+      "options": [
+        { "option_id": 1, "text": "आँसू के रूप में पीड़ा प्रकट होना", "is_correct": true },
+        { "option_id": 2, "text": "क्रोध प्रकट होना", "is_correct": false },
+        { "option_id": 3, "text": "आनंद व्यक्त होना", "is_correct": false },
+        { "option_id": 4, "text": "आशा जागना", "is_correct": false }
+      ],
+      "answer": "आँसू के रूप में पीड़ा प्रकट होना"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "‘मन पावन’ किससे हो जाता है?",
+      "options": [
+        { "option_id": 1, "text": "आँसुओं से", "is_correct": false },
+        { "option_id": 2, "text": "खारे जल से", "is_correct": true },
+        { "option_id": 3, "text": "संगीत से", "is_correct": false },
+        { "option_id": 4, "text": "प्रकाश से", "is_correct": false }
+      ],
+      "answer": "खारे जल से"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "‘मृत्यु को जीना’ से क्या अभिप्राय है?",
+      "options": [
+        { "option_id": 1, "text": "मृत्यु से डरना", "is_correct": false },
+        { "option_id": 2, "text": "जीवन से हार मान लेना", "is_correct": false },
+        { "option_id": 3, "text": "कठिन परिस्थितियों में भी जीना", "is_correct": true },
+        { "option_id": 4, "text": "मृत्यु की कामना करना", "is_correct": false }
+      ],
+      "answer": "कठिन परिस्थितियों में भी जीना"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कविता में ‘फागुन’ किसका प्रतीक है?",
+      "options": [
+        { "option_id": 1, "text": "दुख का", "is_correct": false },
+        { "option_id": 2, "text": "निराशा का", "is_correct": false },
+        { "option_id": 3, "text": "उत्साह और रंगों का", "is_correct": true },
+        { "option_id": 4, "text": "एकांत का", "is_correct": false }
+      ],
+      "answer": "उत्साह और रंगों का"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "‘मन’ कविता में जीवन को किस रूप में प्रस्तुत किया गया है?",
+      "answer": "कविता में जीवन को संघर्षों से भरी नैया के रूप में प्रस्तुत किया गया है।"
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "कविता में आँसू किस भावना के प्रतीक हैं?",
+      "answer": "आँसू भीतर की पीड़ा और कुंठा के प्रतीक हैं।"
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "हाइकु कविता की मुख्य विशेषता क्या है?",
+      "answer": "कम शब्दों में गहन भाव व्यक्त करना हाइकु की मुख्य विशेषता है।"
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "कविता में प्रेरणा का स्रोत क्या बताया गया है?",
+      "answer": "कठिन परिस्थितियों में भी खिलता फूल प्रेरणा का स्रोत है।"
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "‘जिजीविषा’ शब्द का अर्थ क्या है?",
+      "answer": "जीने की प्रबल इच्छा को जिजीविषा कहते हैं।"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "LONG",
+      "question": "‘मन’ कविता का केंद्रीय भाव स्पष्ट कीजिए।",
+      "answer": "‘मन’ कविता जीवन के संघर्ष, पीड़ा और आशा को संक्षिप्त रूप में प्रस्तुत करती है। कवि बताता है कि कठिनाइयों और निराशा के बीच भी जीवन जीने की इच्छा बनी रहती है। आँसू और कष्ट मन को शुद्ध करते हैं और मनुष्य को आगे बढ़ने की प्रेरणा देते हैं।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "LONG",
+      "question": "कविता में प्रयुक्त प्रतीकों का महत्व स्पष्ट कीजिए।",
+      "answer": "कविता में नैया, मँझधार, काँटे और फूल जैसे प्रतीकों का प्रयोग जीवन के संघर्ष और आशा को दर्शाने के लिए किया गया है। ये प्रतीक कविता को गहन अर्थ प्रदान करते हैं।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "LONG",
+      "question": "हाइकु विधा की विशेषताओं पर प्रकाश डालिए।",
+      "answer": "हाइकु जापान की काव्य विधा है जिसमें 5-7-5 वर्णों में भाव व्यक्त किए जाते हैं। यह संक्षिप्त, भावपूर्ण और प्रतीकात्मक होती है। कम शब्दों में गहन अनुभूति इसकी विशेषता है।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "LONG",
+      "question": "‘काँटों के बीच खिलखिलाता फूल’ पंक्ति का भावार्थ लिखिए।",
+      "answer": "यह पंक्ति बताती है कि कठिनाइयों और दुखों के बीच भी आशा और सकारात्मकता बनी रहती है। संघर्ष के बीच सफलता और आनंद संभव है।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "LONG",
+      "question": "कविता ‘मन’ से हमें कौन-सा जीवन संदेश मिलता है?",
+      "answer": "कविता हमें सिखाती है कि जीवन में कठिनाइयाँ आती रहती हैं, लेकिन निराश न होकर निरंतर कर्म करते रहना चाहिए। संघर्ष, पीड़ा और आँसू भी मनुष्य को मजबूत बनाते हैं।"
+    }
+  ]
+}
