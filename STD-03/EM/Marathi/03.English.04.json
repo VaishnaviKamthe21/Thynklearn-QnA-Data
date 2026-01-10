@@ -1,212 +1,324 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03.ENG.MAR.04",
+    "chapter_id": "03.English.04",
     "standard": "3",
-    "subject": "Marathi Sulabhbharati",
+    "subject": "Marathi",
     "medium": "English",
-    "chapter_name": "वाराचे गाणे (गाणे)"
+    "chapter_name": "वारांचे गाणे"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "'वाराचे गाणे' या कवितेत वारा कसा आहे?",
+      "question": "कवितेत किती वारांचा उल्लेख आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "हलका आणि गार",
+          "text": "सात",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "जोरदार आणि उष्ण",
+          "text": "पाच",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "स्थिर आणि शांत",
+          "text": "दहा",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भयानक",
+          "text": "चार",
           "is_correct": false
         }
       ],
-      "answer": "हलका आणि गार"
+      "answer": "सात"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "कवितेत वारा काय करतो?",
+      "question": "सोमवार कोणासाठी ओळखला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "वाहतो",
+          "text": "कामासाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "थांबतो",
+          "text": "खेळासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "झोपतो",
+          "text": "विश्रांतीसाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "लपतो",
+          "text": "झोपेसाठी",
           "is_correct": false
         }
       ],
-      "answer": "वाहतो"
+      "answer": "कामासाठी"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "वाऱ्यामुळे काय हालते?",
+      "question": "मंगळवार कोणत्या भावाशी जोडलेला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "झाडे",
+          "text": "उत्साह",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "दगड",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "घर",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "रस्ते",
+          "text": "दुःख",
           "is_correct": false
         }
       ],
-      "answer": "झाडे"
+      "answer": "उत्साह"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
-      "question": "कवितेत वाऱ्याचा आवाज कसा वर्णन केला आहे?",
+      "question": "बुधवार कशासाठी ओळखला आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "गाण्यासारखा",
+          "text": "अभ्यासासाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "भांडणासारखा",
+          "text": "खेळासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "ओरड्यासारखा",
+          "text": "झोपेसाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "शांत",
+          "text": "रागासाठी",
           "is_correct": false
         }
       ],
-      "answer": "गाण्यासारखा"
+      "answer": "अभ्यासासाठी"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
-      "question": "'वाराचे गाणे' ही कविता कशाबद्दल आहे?",
+      "question": "गुरुवार कोणत्या कार्यासाठी?",
       "options": [
         {
           "option_id": 1,
-          "text": "निसर्ग",
+          "text": "पूजा/ज्ञान",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्राणी",
+          "text": "खेळ",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "शहर",
+          "text": "झोप",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "खेळ",
+          "text": "राग",
           "is_correct": false
         }
       ],
-      "answer": "निसर्ग"
+      "answer": "पूजा/ज्ञान"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "वाऱ्यामुळे वातावरण कसे होते?",
+      "question": "शुक्रवार कशाचा संकेत देतो?",
       "options": [
         {
           "option_id": 1,
-          "text": "ताजे",
+          "text": "आनंद",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "घाणेरडे",
+          "text": "भीती",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "अंधारलेले",
+          "text": "दुःख",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "उष्ण",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "ताजे"
+      "answer": "आनंद"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "कवितेत वारा कोणत्या वेळेस येतो?",
+      "question": "शनिवार कशासाठी ओळखला जातो?",
       "options": [
         {
           "option_id": 1,
-          "text": "सतत",
+          "text": "विश्रांती",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "कधीच नाही",
+          "text": "अभ्यास",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "फक्त रात्री",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "फक्त सकाळी",
+          "text": "धावपळ",
           "is_correct": false
         }
       ],
-      "answer": "सतत"
+      "answer": "विश्रांती"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "कवितेतील भावना कशी आहे?",
+      "question": "रविवार कसा दिवस आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुट्टीचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कामाचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अभ्यासाचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागाचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुट्टीचा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवितेचा प्रकार कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गाणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "गाणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कवितेत काय शिकवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वारांची ओळख",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त झोप",
+          "is_correct": false
+        }
+      ],
+      "answer": "वारांची ओळख"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सप्ताहात किती दिवस असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सात",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाच",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दहा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "सात"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवितेचा भाव कसा आहे?",
       "options": [
         {
           "option_id": 1,
@@ -215,167 +327,195 @@
         },
         {
           "option_id": 2,
-          "text": "दु:खी",
+          "text": "दुःखी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "रागीट",
+          "text": "भीतीदायक",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भितीदायक",
+          "text": "रागीट",
           "is_correct": false
         }
       ],
       "answer": "आनंदी"
     },
     {
-      "question_id": 9,
-      "question_type": "MCQ",
-      "question": "वारा कशाशी तुलना केला आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "गाण्याशी",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "आगीशी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "पाण्याशी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दगडाशी",
-          "is_correct": false
-        }
-      ],
-      "answer": "गाण्याशी"
-    },
-    {
-      "question_id": 10,
-      "question_type": "MCQ",
-      "question": "ही कविता कोणासाठी आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "मुलांसाठी",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "फक्त मोठ्यांसाठी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "फक्त शेतकऱ्यांसाठी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "कोणासाठीही नाही",
-          "is_correct": false
-        }
-      ],
-      "answer": "मुलांसाठी"
-    },
-    {
-      "question_id": 11,
-      "question_type": "SHORT",
-      "question": "'वाराचे गाणे' या कवितेत वारा कसा आहे?",
-      "answer": "कवितेत वारा हलका आणि गार आहे."
-    },
-    {
-      "question_id": 12,
-      "question_type": "SHORT",
-      "question": "वाऱ्यामुळे झाडांचे काय होते?",
-      "answer": "वाऱ्यामुळे झाडे हलतात."
-    },
-    {
       "question_id": 13,
-      "question_type": "SHORT",
-      "question": "कवितेत वाऱ्याचा आवाज कसा आहे?",
-      "answer": "कवितेत वाऱ्याचा आवाज गाण्यासारखा आहे."
+      "question_type": "MCQ",
+      "question": "वारांचे गाणे कशासाठी उपयुक्त?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आठवण ठेवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळसासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेळ घालवण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आठवण ठेवण्यासाठी"
     },
     {
       "question_id": 14,
-      "question_type": "SHORT",
-      "question": "ही कविता कशाबद्दल आहे?",
-      "answer": "ही कविता निसर्गाबद्दल आहे."
+      "question_type": "MCQ",
+      "question": "कवितेत वार कशाप्रकारे मांडले आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गाण्यातून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथेतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चित्रातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादातून",
+          "is_correct": false
+        }
+      ],
+      "answer": "गाण्यातून"
     },
     {
       "question_id": 15,
-      "question_type": "SHORT",
-      "question": "वाऱ्यामुळे वातावरण कसे वाटते?",
-      "answer": "वाऱ्यामुळे वातावरण ताजे वाटते."
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य उद्देश काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान देणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घाबरवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग वाढवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस वाढवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान देणे"
     },
     {
       "question_id": 16,
       "question_type": "SHORT",
-      "question": "कवितेतील भावना कोणती आहे?",
-      "answer": "कवितेतील भावना आनंदी आहे."
+      "question": "कवितेत किती वारांचा उल्लेख आहे?",
+      "answer": "सात वारांचा."
     },
     {
       "question_id": 17,
       "question_type": "SHORT",
-      "question": "वाऱ्याची तुलना कशाशी केली आहे?",
-      "answer": "वाऱ्याची तुलना गाण्याशी केली आहे."
+      "question": "सोमवार कशासाठी ओळखला आहे?",
+      "answer": "कामासाठी."
     },
     {
       "question_id": 18,
       "question_type": "SHORT",
-      "question": "वारा काय करतो?",
-      "answer": "वारा सतत वाहतो."
+      "question": "बुधवार कशासाठी ओळखला आहे?",
+      "answer": "अभ्यासासाठी."
     },
     {
       "question_id": 19,
       "question_type": "SHORT",
-      "question": "ही कविता वाचल्यावर काय वाटते?",
-      "answer": "ही कविता वाचल्यावर आनंद वाटतो."
+      "question": "गुरुवार कशासाठी असतो?",
+      "answer": "पूजा व ज्ञानासाठी."
     },
     {
       "question_id": 20,
       "question_type": "SHORT",
-      "question": "वारा कशामुळे महत्त्वाचा आहे?",
-      "answer": "वारा निसर्गाचा भाग आहे म्हणून महत्त्वाचा आहे."
+      "question": "शुक्रवार कशाचा संकेत देतो?",
+      "answer": "आनंदाचा."
     },
     {
       "question_id": 21,
       "question_type": "SHORT",
-      "question": "कवितेत निसर्ग कसा दाखवला आहे?",
-      "answer": "कवितेत निसर्ग सुंदर दाखवला आहे."
+      "question": "शनिवार कशासाठी ओळखला जातो?",
+      "answer": "विश्रांतीसाठी."
     },
     {
       "question_id": 22,
       "question_type": "SHORT",
-      "question": "वाऱ्यामुळे कोणते बदल दिसतात?",
-      "answer": "वाऱ्यामुळे झाडे आणि पाने हलतात."
+      "question": "रविवार कसा दिवस आहे?",
+      "answer": "सुट्टीचा."
     },
     {
       "question_id": 23,
       "question_type": "SHORT",
-      "question": "ही कविता मुलांना काय शिकवते?",
-      "answer": "निसर्गाचे सौंदर्य ओळखायला शिकवते."
+      "question": "कवितेचा प्रकार कोणता आहे?",
+      "answer": "गाणे."
     },
     {
       "question_id": 24,
       "question_type": "SHORT",
-      "question": "वाऱ्याचा अनुभव कसा असतो?",
-      "answer": "वाऱ्याचा अनुभव गार आणि सुखद असतो."
+      "question": "सप्ताहात किती दिवस असतात?",
+      "answer": "सात दिवस."
     },
     {
       "question_id": 25,
       "question_type": "SHORT",
-      "question": "तुम्हाला वारा कसा वाटतो?",
-      "answer": "मला वारा गार आणि आनंददायी वाटतो."
+      "question": "कवितेचा भाव कसा आहे?",
+      "answer": "आनंदी."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "वारांचे गाणे कशासाठी उपयुक्त?",
+      "answer": "वार लक्षात ठेवण्यासाठी."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "कवितेत काय शिकवले आहे?",
+      "answer": "वारांची ओळख."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "वार कशाप्रकारे मांडले आहेत?",
+      "answer": "गाण्यातून."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "कवितेचा उद्देश काय आहे?",
+      "answer": "ज्ञान देणे."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "रविवार का आवडतो?",
+      "answer": "सुट्टी असल्यामुळे."
     }
   ]
 }

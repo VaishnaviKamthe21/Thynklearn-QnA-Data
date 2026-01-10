@@ -2,7 +2,7 @@
   "chapter_metadata": {
     "chapter_id": "03.English.21",
     "standard": "3",
-    "subject": "Environmental Studies",
+    "subject": "EVS",
     "medium": "English",
     "chapter_name": "Public Services for Community Life"
   },
@@ -12,10 +12,26 @@
       "question_type": "MCQ",
       "question": "Public services are services provided for the ________.",
       "options": [
-        { "option_id": 1, "text": "one family", "is_correct": false },
-        { "option_id": 2, "text": "community", "is_correct": true },
-        { "option_id": 3, "text": "school only", "is_correct": false },
-        { "option_id": 4, "text": "teachers", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "one family",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "community",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "school only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "teachers",
+          "is_correct": false
+        }
       ],
       "answer": "community"
     },
@@ -24,10 +40,26 @@
       "question_type": "MCQ",
       "question": "Which of these is a public service?",
       "options": [
-        { "option_id": 1, "text": "Hospital", "is_correct": true },
-        { "option_id": 2, "text": "Bedroom", "is_correct": false },
-        { "option_id": 3, "text": "Kitchen", "is_correct": false },
-        { "option_id": 4, "text": "Garden at home", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Hospital",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Bedroom",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Garden at home",
+          "is_correct": false
+        }
       ],
       "answer": "Hospital"
     },
@@ -36,10 +68,26 @@
       "question_type": "MCQ",
       "question": "Which public service helps sick people?",
       "options": [
-        { "option_id": 1, "text": "School", "is_correct": false },
-        { "option_id": 2, "text": "Hospital", "is_correct": true },
-        { "option_id": 3, "text": "Park", "is_correct": false },
-        { "option_id": 4, "text": "Library", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hospital",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Park",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Library",
+          "is_correct": false
+        }
       ],
       "answer": "Hospital"
     },
@@ -48,10 +96,26 @@
       "question_type": "MCQ",
       "question": "Which public service helps children learn?",
       "options": [
-        { "option_id": 1, "text": "Market", "is_correct": false },
-        { "option_id": 2, "text": "School", "is_correct": true },
-        { "option_id": 3, "text": "Fire station", "is_correct": false },
-        { "option_id": 4, "text": "Post office", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "School",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fire station",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Post office",
+          "is_correct": false
+        }
       ],
       "answer": "School"
     },
@@ -60,10 +124,26 @@
       "question_type": "MCQ",
       "question": "Which place helps in sending letters?",
       "options": [
-        { "option_id": 1, "text": "Hospital", "is_correct": false },
-        { "option_id": 2, "text": "Post office", "is_correct": true },
-        { "option_id": 3, "text": "Police station", "is_correct": false },
-        { "option_id": 4, "text": "School", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Post office",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Police station",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "School",
+          "is_correct": false
+        }
       ],
       "answer": "Post office"
     },
@@ -72,10 +152,26 @@
       "question_type": "MCQ",
       "question": "Which public service helps during fire accidents?",
       "options": [
-        { "option_id": 1, "text": "Police station", "is_correct": false },
-        { "option_id": 2, "text": "Fire station", "is_correct": true },
-        { "option_id": 3, "text": "Hospital", "is_correct": false },
-        { "option_id": 4, "text": "Market", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Police station",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fire station",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Market",
+          "is_correct": false
+        }
       ],
       "answer": "Fire station"
     },
@@ -84,10 +180,26 @@
       "question_type": "MCQ",
       "question": "Which public service helps maintain law and order?",
       "options": [
-        { "option_id": 1, "text": "Police station", "is_correct": true },
-        { "option_id": 2, "text": "School", "is_correct": false },
-        { "option_id": 3, "text": "Hospital", "is_correct": false },
-        { "option_id": 4, "text": "Post office", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Police station",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Post office",
+          "is_correct": false
+        }
       ],
       "answer": "Police station"
     },
@@ -96,10 +208,26 @@
       "question_type": "MCQ",
       "question": "Which public service provides books for reading?",
       "options": [
-        { "option_id": 1, "text": "Library", "is_correct": true },
-        { "option_id": 2, "text": "Market", "is_correct": false },
-        { "option_id": 3, "text": "Hospital", "is_correct": false },
-        { "option_id": 4, "text": "Fire station", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Library",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Market",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fire station",
+          "is_correct": false
+        }
       ],
       "answer": "Library"
     },
@@ -108,10 +236,26 @@
       "question_type": "MCQ",
       "question": "Which service supplies water to our homes?",
       "options": [
-        { "option_id": 1, "text": "Water supply", "is_correct": true },
-        { "option_id": 2, "text": "Post office", "is_correct": false },
-        { "option_id": 3, "text": "Library", "is_correct": false },
-        { "option_id": 4, "text": "School", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Water supply",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Post office",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "School",
+          "is_correct": false
+        }
       ],
       "answer": "Water supply"
     },
@@ -120,10 +264,26 @@
       "question_type": "MCQ",
       "question": "Which public service helps keep streets clean?",
       "options": [
-        { "option_id": 1, "text": "Cleaning service", "is_correct": true },
-        { "option_id": 2, "text": "Hospital", "is_correct": false },
-        { "option_id": 3, "text": "School", "is_correct": false },
-        { "option_id": 4, "text": "Post office", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Cleaning service",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Post office",
+          "is_correct": false
+        }
       ],
       "answer": "Cleaning service"
     },
@@ -132,10 +292,26 @@
       "question_type": "MCQ",
       "question": "Which public service helps us travel from one place to another?",
       "options": [
-        { "option_id": 1, "text": "Public transport", "is_correct": true },
-        { "option_id": 2, "text": "Library", "is_correct": false },
-        { "option_id": 3, "text": "Hospital", "is_correct": false },
-        { "option_id": 4, "text": "School", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Public transport",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "School",
+          "is_correct": false
+        }
       ],
       "answer": "Public transport"
     },
@@ -144,10 +320,26 @@
       "question_type": "MCQ",
       "question": "Which service provides electricity to homes?",
       "options": [
-        { "option_id": 1, "text": "Electricity supply", "is_correct": true },
-        { "option_id": 2, "text": "Post office", "is_correct": false },
-        { "option_id": 3, "text": "Library", "is_correct": false },
-        { "option_id": 4, "text": "Hospital", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Electricity supply",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Post office",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hospital",
+          "is_correct": false
+        }
       ],
       "answer": "Electricity supply"
     },
@@ -156,10 +348,26 @@
       "question_type": "MCQ",
       "question": "Which public service helps keep records of births and deaths?",
       "options": [
-        { "option_id": 1, "text": "Municipal office", "is_correct": true },
-        { "option_id": 2, "text": "School", "is_correct": false },
-        { "option_id": 3, "text": "Library", "is_correct": false },
-        { "option_id": 4, "text": "Market", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Municipal office",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Market",
+          "is_correct": false
+        }
       ],
       "answer": "Municipal office"
     },
@@ -168,10 +376,26 @@
       "question_type": "MCQ",
       "question": "Why are public services important?",
       "options": [
-        { "option_id": 1, "text": "They help community life run smoothly", "is_correct": true },
-        { "option_id": 2, "text": "They waste money", "is_correct": false },
-        { "option_id": 3, "text": "They are for fun", "is_correct": false },
-        { "option_id": 4, "text": "They disturb people", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "They help community life run smoothly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They waste money",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They are for fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They disturb people",
+          "is_correct": false
+        }
       ],
       "answer": "They help community life run smoothly"
     },
@@ -180,104 +404,118 @@
       "question_type": "MCQ",
       "question": "Which of these should we do to support public services?",
       "options": [
-        { "option_id": 1, "text": "Use them responsibly", "is_correct": true },
-        { "option_id": 2, "text": "Damage property", "is_correct": false },
-        { "option_id": 3, "text": "Ignore rules", "is_correct": false },
-        { "option_id": 4, "text": "Waste resources", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Use them responsibly",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Damage property",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ignore rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Waste resources",
+          "is_correct": false
+        }
       ],
       "answer": "Use them responsibly"
     },
-
     {
-      "question_id": 51,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "What are public services?",
       "answer": "Public services are services provided for the benefit of the community."
     },
     {
-      "question_id": 52,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "Name any two public services.",
       "answer": "Hospital and school are public services."
     },
     {
-      "question_id": 53,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "Which public service helps sick people?",
       "answer": "Hospital helps sick people."
     },
     {
-      "question_id": 54,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "Which public service helps maintain law and order?",
       "answer": "Police station helps maintain law and order."
     },
     {
-      "question_id": 55,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "Which service helps during fire accidents?",
       "answer": "Fire station helps during fire accidents."
     },
     {
-      "question_id": 56,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "Which public service helps us send letters?",
       "answer": "Post office helps us send letters."
     },
     {
-      "question_id": 57,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "Why are schools important public services?",
       "answer": "Schools help children learn and grow."
     },
     {
-      "question_id": 58,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "Which service provides clean water?",
       "answer": "Water supply service provides clean water."
     },
     {
-      "question_id": 59,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "Which service provides electricity?",
       "answer": "Electricity supply provides electricity."
     },
     {
-      "question_id": 60,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "Which public service helps us travel?",
       "answer": "Public transport helps us travel."
     },
     {
-      "question_id": 61,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "Why should we not damage public property?",
       "answer": "Public property is used by everyone."
     },
     {
-      "question_id": 62,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "Who keeps public places clean?",
       "answer": "Cleaning workers keep public places clean."
     },
     {
-      "question_id": 63,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "Which office keeps records of the city?",
       "answer": "Municipal office keeps city records."
     },
     {
-      "question_id": 64,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "How can we help public services?",
       "answer": "We can help by following rules and using services properly."
     },
     {
-      "question_id": 65,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "Why are public services important for community life?",
       "answer": "They make community life safe, healthy and comfortable."
     }
   ]
 }
-

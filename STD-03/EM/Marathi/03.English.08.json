@@ -1,8 +1,8 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03.ENG.MAR.08",
+    "chapter_id": "03.English.08",
     "standard": "3",
-    "subject": "Marathi Sulabhbharati",
+    "subject": "Marathi",
     "medium": "English",
     "chapter_name": "चित्रकथा"
   },
@@ -10,63 +10,63 @@
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "'चित्रकथा' या धड्यात कशावर आधारित कथा असते?",
+      "question": "चित्रकथा म्हणजे काय?",
       "options": [
         {
           "option_id": 1,
-          "text": "चित्रांवर",
+          "text": "चित्रांमधून सांगितलेली कथा",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "कवितेवर",
+          "text": "लिखित कथा",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "गाण्यावर",
+          "text": "कविता",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "संवादावर",
+          "text": "गाणे",
           "is_correct": false
         }
       ],
-      "answer": "चित्रांवर"
+      "answer": "चित्रांमधून सांगितलेली कथा"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "चित्रकथा समजून घेण्यासाठी प्रथम काय करावे?",
+      "question": "चित्रकथेत कथा कशी समजते?",
       "options": [
         {
           "option_id": 1,
-          "text": "चित्र नीट पाहावे",
+          "text": "चित्रांमधून",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "थेट कथा सांगावी",
+          "text": "फक्त शब्दांतून",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "चित्र रंगवावे",
+          "text": "आवाजातून",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "चित्र झाकावे",
+          "text": "संकेतांतून",
           "is_correct": false
         }
       ],
-      "answer": "चित्र नीट पाहावे"
+      "answer": "चित्रांमधून"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "चित्रकथेत चित्रांचा क्रम का महत्त्वाचा आहे?",
+      "question": "चित्रकथेत चित्रांचे महत्त्व काय?",
       "options": [
         {
           "option_id": 1,
@@ -75,68 +75,12 @@
         },
         {
           "option_id": 2,
+          "text": "फक्त सजावट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
           "text": "वेळ घालवण्यासाठी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "चित्र सुंदर दिसण्यासाठी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "फक्त मजेसाठी",
-          "is_correct": false
-        }
-      ],
-      "answer": "कथा समजण्यासाठी"
-    },
-    {
-      "question_id": 4,
-      "question_type": "MCQ",
-      "question": "चित्रकथेत काय दिसते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "घटना आणि कृती",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "फक्त रंग",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "फक्त आकार",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "फक्त अक्षरे",
-          "is_correct": false
-        }
-      ],
-      "answer": "घटना आणि कृती"
-    },
-    {
-      "question_id": 5,
-      "question_type": "MCQ",
-      "question": "चित्रकथा वाचताना/पाहताना काय ओळखता येते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "कथेचा क्रम",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "फक्त चित्रकार",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "फक्त रंगसंगती",
           "is_correct": false
         },
         {
@@ -145,96 +89,376 @@
           "is_correct": false
         }
       ],
-      "answer": "कथेचा क्रम"
+      "answer": "कथा समजण्यासाठी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "चित्रकथा वाचताना काय करावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चित्रे पाहावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त वाचावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त ऐकावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घाई करावी",
+          "is_correct": false
+        }
+      ],
+      "answer": "चित्रे पाहावी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "चित्रकथेत पात्र कशातून ओळखतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चित्रांतून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नावातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रंगातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चौकटीतून",
+          "is_correct": false
+        }
+      ],
+      "answer": "चित्रांतून"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
-      "question": "चित्रकथेत पात्रे कशी ओळखता येतात?",
+      "question": "चित्रकथेतील घटना कशातून समजतात?",
       "options": [
         {
           "option_id": 1,
-          "text": "चित्र पाहून",
+          "text": "चित्रांच्या क्रमातून",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "नाव वाचून",
+          "text": "रंगातून",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "ऐकून",
+          "text": "आकारातून",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "अंदाजाने",
+          "text": "शब्दातून",
           "is_correct": false
         }
       ],
-      "answer": "चित्र पाहून"
+      "answer": "चित्रांच्या क्रमातून"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "चित्रकथेत भावना कशा दाखवल्या जातात?",
+      "question": "चित्रकथा मुलांसाठी का उपयुक्त?",
       "options": [
         {
           "option_id": 1,
-          "text": "चेहऱ्यावरील भावांनी",
+          "text": "समज वाढवते",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "फक्त शब्दांनी",
+          "text": "राग वाढवते",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "फक्त रंगांनी",
+          "text": "आळस वाढवते",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "संख्यांनी",
+          "text": "भीती देते",
           "is_correct": false
         }
       ],
-      "answer": "चेहऱ्यावरील भावांनी"
+      "answer": "समज वाढवते"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "चित्रकथेत संवाद कसा दाखवला जातो?",
+      "question": "चित्रकथेत भाव कसे दाखवले जातात?",
       "options": [
         {
           "option_id": 1,
-          "text": "कृतीतून",
+          "text": "भावभंगिमेतून",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "फक्त लिहून",
+          "text": "शब्दातून",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "ओरडून",
+          "text": "आवाजातून",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "संकेतांनी नाही",
+          "text": "चिन्हांतून",
           "is_correct": false
         }
       ],
-      "answer": "कृतीतून"
+      "answer": "भावभंगिमेतून"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "चित्रकथा पाहिल्याने कोणता गुण वाढतो?",
+      "question": "चित्रकथा पाहताना काय टाळावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाई",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "निरीक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विचार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लक्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "घाई"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "चित्रकथा कशामुळे रोचक होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चित्रांमुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंगामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चौकटीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कागदामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "चित्रांमुळे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "चित्रकथेतील क्रम का महत्त्वाचा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा समजण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळसासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "कथा समजण्यासाठी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "चित्रकथा पाहून काय करता येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा सांगता येते",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त वाचता येते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त पाहता येते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "कथा सांगता येते"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "चित्रकथेतून काय शिकता येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घटना व बोध",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "घटना व बोध"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "चित्रकथेत पात्रांची संख्या कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादित",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खूप",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निश्चित नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एकही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मर्यादित"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "चित्रकथेचा शेवट कसा ओळखतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेवटच्या चित्रातून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पहिल्या चित्रातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रंगातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चौकटीतून",
+          "is_correct": false
+        }
+      ],
+      "answer": "शेवटच्या चित्रातून"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "चित्रकथा कशासाठी वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा सांगण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गाण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लेखनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कथा सांगण्यासाठी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "चित्रकथा वाचताना कोणती कला वाढते?",
       "options": [
         {
           "option_id": 1,
@@ -243,12 +467,12 @@
         },
         {
           "option_id": 2,
-          "text": "आळस",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग",
+          "text": "आळस",
           "is_correct": false
         },
         {
@@ -260,462 +484,208 @@
       "answer": "निरीक्षण"
     },
     {
-      "question_id": 10,
-      "question_type": "MCQ",
-      "question": "चित्रकथा मुलांसाठी का उपयुक्त आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "समजायला सोपी असते",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "खूप कठीण असते",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कंटाळवाणी असते",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "निरुपयोगी असते",
-          "is_correct": false
-        }
-      ],
-      "answer": "समजायला सोपी असते"
-    },
-    {
-      "question_id": 11,
-      "question_type": "MCQ",
-      "question": "चित्रकथेत सुरुवात कशी असते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "पहिल्या चित्रातून",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शेवटच्या चित्रातून",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "मध्येच",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "कधीच नाही",
-          "is_correct": false
-        }
-      ],
-      "answer": "पहिल्या चित्रातून"
-    },
-    {
-      "question_id": 12,
-      "question_type": "MCQ",
-      "question": "चित्रकथेचा शेवट कसा ओळखता येतो?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "शेवटच्या चित्रातून",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "पहिल्या चित्रातून",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "रंगावरून",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "आवाजावरून",
-          "is_correct": false
-        }
-      ],
-      "answer": "शेवटच्या चित्रातून"
-    },
-    {
-      "question_id": 13,
-      "question_type": "MCQ",
-      "question": "चित्रकथा पाहताना काय लक्षात ठेवावे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "चित्रांचा क्रम",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "फक्त रंग",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "फक्त आकार",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "फक्त नावे",
-          "is_correct": false
-        }
-      ],
-      "answer": "चित्रांचा क्रम"
-    },
-    {
-      "question_id": 14,
-      "question_type": "MCQ",
-      "question": "चित्रकथेतून काय समजते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "कथा",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "गाणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कोडे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "नियम",
-          "is_correct": false
-        }
-      ],
-      "answer": "कथा"
-    },
-    {
-      "question_id": 15,
-      "question_type": "MCQ",
-      "question": "चित्रकथेत वेळेचा क्रम कसा दाखवला जातो?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "चित्रांच्या क्रमाने",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "शब्दांनी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "संख्यांनी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "आवाजाने",
-          "is_correct": false
-        }
-      ],
-      "answer": "चित्रांच्या क्रमाने"
-    },
-    {
-      "question_id": 16,
-      "question_type": "MCQ",
-      "question": "चित्रकथा पाहिल्याने कोणते कौशल्य वाढते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "विचार मांडणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "धावणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "गाणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "मोजणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "विचार मांडणे"
-    },
-    {
-      "question_id": 17,
-      "question_type": "MCQ",
-      "question": "चित्रकथेतील कृती कशातून समजतात?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "चित्रांतून",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "फक्त शब्दांतून",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "फक्त आवाजातून",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "अंदाजाने",
-          "is_correct": false
-        }
-      ],
-      "answer": "चित्रांतून"
-    },
-    {
       "question_id": 18,
       "question_type": "MCQ",
-      "question": "चित्रकथा पाहताना घाई का करू नये?",
+      "question": "चित्रकथेतून काय वाढते?",
       "options": [
         {
           "option_id": 1,
-          "text": "कथा नीट समजत नाही",
+          "text": "कल्पनाशक्ती",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "वेळ जातो",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "चित्र खराब होते",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "मजा येते",
+          "text": "भीती",
           "is_correct": false
         }
       ],
-      "answer": "कथा नीट समजत नाही"
+      "answer": "कल्पनाशक्ती"
     },
     {
       "question_id": 19,
       "question_type": "MCQ",
-      "question": "चित्रकथा कोणत्या प्रकारचा धडा आहे?",
+      "question": "चित्रकथा पाहून प्रश्न विचारता येतात का?",
       "options": [
         {
           "option_id": 1,
-          "text": "कथा आधारित",
+          "text": "होय",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "गाणे आधारित",
+          "text": "नाही",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "व्याकरण",
+          "text": "कधीच नाही",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गणित",
+          "text": "फक्त शिक्षक",
           "is_correct": false
         }
       ],
-      "answer": "कथा आधारित"
+      "answer": "होय"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
-      "question": "चित्रकथेचा मुख्य उद्देश काय आहे?",
+      "question": "चित्रकथा समजण्यासाठी काय आवश्यक?",
       "options": [
         {
           "option_id": 1,
-          "text": "कथा समजून सांगणे",
+          "text": "लक्ष",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "चित्र काढणे",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "रंग भरणे",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "लिहिणे टाळणे",
+          "text": "गोंधळ",
           "is_correct": false
         }
       ],
-      "answer": "कथा समजून सांगणे"
+      "answer": "लक्ष"
     },
     {
       "question_id": 21,
       "question_type": "SHORT",
-      "question": "'चित्रकथा' म्हणजे काय?",
-      "answer": "चित्रांच्या आधारे सांगितलेली कथा म्हणजे चित्रकथा."
+      "question": "चित्रकथा म्हणजे काय?",
+      "answer": "चित्रांमधून सांगितलेली कथा."
     },
     {
       "question_id": 22,
       "question_type": "SHORT",
-      "question": "चित्रकथा समजण्यासाठी काय करावे?",
-      "answer": "चित्र नीट आणि क्रमाने पाहावे."
+      "question": "चित्रकथेत कथा कशी समजते?",
+      "answer": "चित्रांमधून."
     },
     {
       "question_id": 23,
       "question_type": "SHORT",
-      "question": "चित्रांचा क्रम का महत्त्वाचा आहे?",
-      "answer": "क्रमामुळे कथा नीट समजते."
+      "question": "चित्रांचे महत्त्व काय?",
+      "answer": "कथा समजण्यासाठी."
     },
     {
       "question_id": 24,
       "question_type": "SHORT",
-      "question": "चित्रकथेत काय दाखवले जाते?",
-      "answer": "चित्रकथेत घटना आणि कृती दाखवतात."
+      "question": "चित्रकथा वाचताना काय करावे?",
+      "answer": "चित्रे नीट पाहावी."
     },
     {
       "question_id": 25,
       "question_type": "SHORT",
-      "question": "चित्रकथेत पात्रे कशी ओळखता येतात?",
-      "answer": "चित्र पाहून पात्रे ओळखता येतात."
+      "question": "चित्रकथेत पात्र कसे ओळखतात?",
+      "answer": "चित्रांतून."
     },
     {
       "question_id": 26,
       "question_type": "SHORT",
-      "question": "चित्रकथेत भावना कशा दिसतात?",
-      "answer": "चेहऱ्यावरील भावांतून भावना दिसतात."
+      "question": "चित्रकथेतील घटना कशातून समजतात?",
+      "answer": "चित्रांच्या क्रमातून."
     },
     {
       "question_id": 27,
       "question_type": "SHORT",
-      "question": "चित्रकथेत संवाद कसा समजतो?",
-      "answer": "पात्रांच्या कृतीतून संवाद समजतो."
+      "question": "चित्रकथा मुलांसाठी का उपयुक्त?",
+      "answer": "समज वाढवते."
     },
     {
       "question_id": 28,
       "question_type": "SHORT",
-      "question": "चित्रकथा पाहिल्याने कोणता गुण वाढतो?",
-      "answer": "चित्रकथा पाहिल्याने निरीक्षण वाढते."
+      "question": "भाव कसे दाखवले जातात?",
+      "answer": "भावभंगिमेतून."
     },
     {
       "question_id": 29,
       "question_type": "SHORT",
-      "question": "चित्रकथा मुलांसाठी का उपयुक्त आहे?",
-      "answer": "ती सोपी आणि समजायला सोपी असते."
+      "question": "चित्रकथा पाहताना काय टाळावे?",
+      "answer": "घाई."
     },
     {
       "question_id": 30,
       "question_type": "SHORT",
-      "question": "चित्रकथेची सुरुवात कशी ओळखता येते?",
-      "answer": "पहिल्या चित्रावरून सुरुवात ओळखता येते."
+      "question": "चित्रकथा कशामुळे रोचक होते?",
+      "answer": "चित्रांमुळे."
     },
     {
       "question_id": 31,
       "question_type": "SHORT",
-      "question": "चित्रकथेचा शेवट कसा ओळखता येतो?",
-      "answer": "शेवटच्या चित्रावरून शेवट ओळखता येतो."
+      "question": "चित्रकथेतील क्रम का महत्त्वाचा?",
+      "answer": "कथा समजण्यासाठी."
     },
     {
       "question_id": 32,
       "question_type": "SHORT",
-      "question": "चित्रकथा पाहताना काय लक्षात ठेवावे?",
-      "answer": "चित्रांचा क्रम लक्षात ठेवावा."
+      "question": "चित्रकथा पाहून काय करता येते?",
+      "answer": "कथा सांगता येते."
     },
     {
       "question_id": 33,
       "question_type": "SHORT",
-      "question": "चित्रकथेतून काय शिकायला मिळते?",
-      "answer": "कथा समजून सांगायला शिकायला मिळते."
+      "question": "चित्रकथेतून काय शिकता येते?",
+      "answer": "घटना व बोध."
     },
     {
       "question_id": 34,
       "question_type": "SHORT",
-      "question": "चित्रकथेत वेळेचा क्रम कसा दिसतो?",
-      "answer": "चित्रांच्या क्रमातून वेळेचा क्रम दिसतो."
+      "question": "चित्रकथा कशासाठी वापरतात?",
+      "answer": "कथा सांगण्यासाठी."
     },
     {
       "question_id": 35,
       "question_type": "SHORT",
-      "question": "चित्रकथा पाहिल्याने कोणते कौशल्य वाढते?",
-      "answer": "विचार मांडण्याचे कौशल्य वाढते."
+      "question": "चित्रकथेमुळे कोणती कला वाढते?",
+      "answer": "निरीक्षण कला."
     },
     {
       "question_id": 36,
       "question_type": "SHORT",
-      "question": "चित्रकथेतील कृती कशातून समजतात?",
-      "answer": "चित्रांमधून कृती समजतात."
+      "question": "चित्रकथेतून काय वाढते?",
+      "answer": "कल्पनाशक्ती."
     },
     {
       "question_id": 37,
       "question_type": "SHORT",
-      "question": "चित्रकथा पाहताना घाई का करू नये?",
-      "answer": "घाई केल्यास कथा नीट समजत नाही."
+      "question": "चित्रकथा पाहून प्रश्न विचारता येतात का?",
+      "answer": "होय."
     },
     {
       "question_id": 38,
       "question_type": "SHORT",
-      "question": "चित्रकथा कोणत्या प्रकारचा धडा आहे?",
-      "answer": "चित्रकथा हा कथा आधारित धडा आहे."
+      "question": "चित्रकथा समजण्यासाठी काय आवश्यक?",
+      "answer": "लक्ष."
     },
     {
       "question_id": 39,
       "question_type": "SHORT",
-      "question": "चित्रकथेचा मुख्य उद्देश काय आहे?",
-      "answer": "कथा समजून सांगणे हा मुख्य उद्देश आहे."
+      "question": "चित्रकथेचा शेवट कसा ओळखतो?",
+      "answer": "शेवटच्या चित्रातून."
     },
     {
       "question_id": 40,
       "question_type": "SHORT",
-      "question": "चित्रकथा पाहून बोलताना कसे बोलावे?",
-      "answer": "शांतपणे आणि स्पष्ट बोलावे."
-    },
-    {
-      "question_id": 41,
-      "question_type": "SHORT",
-      "question": "चित्रकथा पाहताना काय टाळावे?",
-      "answer": "घाई आणि गोंधळ टाळावा."
-    },
-    {
-      "question_id": 42,
-      "question_type": "SHORT",
-      "question": "चित्रकथा पाहिल्याने आत्मविश्वास कसा वाढतो?",
-      "answer": "बोलण्याचा सराव झाल्याने आत्मविश्वास वाढतो."
-    },
-    {
-      "question_id": 43,
-      "question_type": "SHORT",
-      "question": "चित्रकथा पाहताना सर्व चित्रे का महत्त्वाची आहेत?",
-      "answer": "सर्व चित्रांमुळे पूर्ण कथा समजते."
-    },
-    {
-      "question_id": 44,
-      "question_type": "SHORT",
-      "question": "चित्रकथा पाहून कथा सांगताना काय लक्षात ठेवावे?",
-      "answer": "कथेचा क्रम लक्षात ठेवावा."
-    },
-    {
-      "question_id": 45,
-      "question_type": "SHORT",
-      "question": "तुम्हाला चित्रकथा का आवडते?",
-      "answer": "ती पाहायला आणि समजायला सोपी असते म्हणून आवडते."
+      "question": "चित्रकथा का महत्त्वाची आहे?",
+      "answer": "समज व कल्पनाशक्तीसाठी."
     }
   ]
 }

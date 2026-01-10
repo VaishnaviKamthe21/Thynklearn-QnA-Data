@@ -1,9 +1,9 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03.MarathiMedium.English.04",
+    "chapter_id": "03.Marathi.04",
     "standard": "3",
     "subject": "English",
-    "medium": "Marathi Medium",
+    "medium": "Marathi",
     "chapter_name": "Riya in the City"
   },
   "questions": [
@@ -12,10 +12,26 @@
       "question_type": "MCQ",
       "question": "Who is the main character in the lesson?",
       "options": [
-        { "option_id": 1, "text": "Priya", "is_correct": false },
-        { "option_id": 2, "text": "Riya", "is_correct": true },
-        { "option_id": 3, "text": "Meena", "is_correct": false },
-        { "option_id": 4, "text": "Sita", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Priya",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Riya",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Meena",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sita",
+          "is_correct": false
+        }
       ],
       "answer": "Riya"
     },
@@ -24,10 +40,26 @@
       "question_type": "MCQ",
       "question": "Where does Riya live?",
       "options": [
-        { "option_id": 1, "text": "In a village", "is_correct": false },
-        { "option_id": 2, "text": "In a city", "is_correct": true },
-        { "option_id": 3, "text": "In a forest", "is_correct": false },
-        { "option_id": 4, "text": "In a town", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "In a village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a city",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "In a forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In a town",
+          "is_correct": false
+        }
       ],
       "answer": "In a city"
     },
@@ -36,10 +68,26 @@
       "question_type": "MCQ",
       "question": "What shop is near Riya’s house?",
       "options": [
-        { "option_id": 1, "text": "Toy shop", "is_correct": false },
-        { "option_id": 2, "text": "Grocery shop", "is_correct": true },
-        { "option_id": 3, "text": "Cloth shop", "is_correct": false },
-        { "option_id": 4, "text": "Book shop", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Toy shop",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Grocery shop",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cloth shop",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Book shop",
+          "is_correct": false
+        }
       ],
       "answer": "Grocery shop"
     },
@@ -48,10 +96,26 @@
       "question_type": "MCQ",
       "question": "What do they buy from the grocery shop?",
       "options": [
-        { "option_id": 1, "text": "Books", "is_correct": false },
-        { "option_id": 2, "text": "Grains, oil and sugar", "is_correct": true },
-        { "option_id": 3, "text": "Clothes", "is_correct": false },
-        { "option_id": 4, "text": "Toys", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Grains, oil and sugar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Toys",
+          "is_correct": false
+        }
       ],
       "answer": "Grains, oil and sugar"
     },
@@ -60,10 +124,26 @@
       "question_type": "MCQ",
       "question": "Which of these is bought from the grocery shop?",
       "options": [
-        { "option_id": 1, "text": "Biscuits", "is_correct": true },
-        { "option_id": 2, "text": "Shoes", "is_correct": false },
-        { "option_id": 3, "text": "Pencils", "is_correct": false },
-        { "option_id": 4, "text": "Shirts", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Biscuits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shoes",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pencils",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shirts",
+          "is_correct": false
+        }
       ],
       "answer": "Biscuits"
     },
@@ -72,10 +152,26 @@
       "question_type": "MCQ",
       "question": "Riya studies in which standard?",
       "options": [
-        { "option_id": 1, "text": "Standard Two", "is_correct": false },
-        { "option_id": 2, "text": "Standard Three", "is_correct": true },
-        { "option_id": 3, "text": "Standard Four", "is_correct": false },
-        { "option_id": 4, "text": "Standard One", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Standard Two",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Standard Three",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Standard Four",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Standard One",
+          "is_correct": false
+        }
       ],
       "answer": "Standard Three"
     },
@@ -84,10 +180,26 @@
       "question_type": "MCQ",
       "question": "How does Riya go to school?",
       "options": [
-        { "option_id": 1, "text": "By bicycle", "is_correct": false },
-        { "option_id": 2, "text": "By bus", "is_correct": true },
-        { "option_id": 3, "text": "By car", "is_correct": false },
-        { "option_id": 4, "text": "By walking", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "By bicycle",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "By bus",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "By car",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "By walking",
+          "is_correct": false
+        }
       ],
       "answer": "By bus"
     },
@@ -96,10 +208,26 @@
       "question_type": "MCQ",
       "question": "Which subjects does Riya learn in school?",
       "options": [
-        { "option_id": 1, "text": "Only English", "is_correct": false },
-        { "option_id": 2, "text": "Marathi, English and Mathematics", "is_correct": true },
-        { "option_id": 3, "text": "Science only", "is_correct": false },
-        { "option_id": 4, "text": "History only", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Only English",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marathi, English and Mathematics",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Science only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "History only",
+          "is_correct": false
+        }
       ],
       "answer": "Marathi, English and Mathematics"
     },
@@ -108,10 +236,26 @@
       "question_type": "MCQ",
       "question": "What is the name of Riya’s English textbook?",
       "options": [
-        { "option_id": 1, "text": "My English Book Three", "is_correct": true },
-        { "option_id": 2, "text": "English Reader", "is_correct": false },
-        { "option_id": 3, "text": "Easy English", "is_correct": false },
-        { "option_id": 4, "text": "English World", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "My English Book Three",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "English Reader",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Easy English",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "English World",
+          "is_correct": false
+        }
       ],
       "answer": "My English Book Three"
     },
@@ -120,62 +264,76 @@
       "question_type": "MCQ",
       "question": "Where is the grocery shop?",
       "options": [
-        { "option_id": 1, "text": "Far from the house", "is_correct": false },
-        { "option_id": 2, "text": "Near the house", "is_correct": true },
-        { "option_id": 3, "text": "Near the school", "is_correct": false },
-        { "option_id": 4, "text": "Near the park", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Far from the house",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Near the house",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Near the school",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Near the park",
+          "is_correct": false
+        }
       ],
       "answer": "Near the house"
     },
-
     {
-      "question_id": 51,
+      "question_id": 11,
       "question_type": "SHORT",
       "question": "Who is Riya?",
       "answer": "Riya is a girl who lives in a city."
     },
     {
-      "question_id": 52,
+      "question_id": 12,
       "question_type": "SHORT",
       "question": "Where does Riya live?",
       "answer": "Riya lives in a city."
     },
     {
-      "question_id": 53,
+      "question_id": 13,
       "question_type": "SHORT",
       "question": "Which shop is near Riya’s house?",
       "answer": "A grocery shop is near Riya’s house."
     },
     {
-      "question_id": 54,
+      "question_id": 14,
       "question_type": "SHORT",
       "question": "What do they buy from the grocery shop?",
       "answer": "They buy grains, oil, sugar and biscuits."
     },
     {
-      "question_id": 55,
+      "question_id": 15,
       "question_type": "SHORT",
       "question": "Which standard does Riya study in?",
       "answer": "Riya studies in Standard Three."
     },
     {
-      "question_id": 56,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "How does Riya go to school?",
       "answer": "Riya goes to school by bus."
     },
     {
-      "question_id": 57,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "Which subjects does Riya learn?",
       "answer": "Riya learns Marathi, English and Mathematics."
     },
     {
-      "question_id": 58,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "What is the name of the English textbook?",
       "answer": "The English textbook is called My English Book Three."
     }
   ]
 }
-

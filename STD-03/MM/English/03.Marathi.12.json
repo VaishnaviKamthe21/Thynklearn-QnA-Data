@@ -1,1 +1,355 @@
-{}
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.12",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "More or Less"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the title of the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Big or Small",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "More or Less",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Up and Down",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Add and Subtract",
+          "is_correct": false
+        }
+      ],
+      "answer": "More or Less"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In Game 1, which numbers do students say?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1 to 10",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1 to 50",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1 to 100",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "10 to 100",
+          "is_correct": false
+        }
+      ],
+      "answer": "1 to 100"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Can a number be repeated in Game 1?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Yes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "No",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sometimes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only once",
+          "is_correct": false
+        }
+      ],
+      "answer": "No"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does the teacher do with the numbers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reads them",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Writes them on the board",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Erases them",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Counts them",
+          "is_correct": false
+        }
+      ],
+      "answer": "Writes them on the board"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In Game 2, students stand in a ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "line",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "circle",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "row",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "group",
+          "is_correct": false
+        }
+      ],
+      "answer": "circle"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What do students say in Game 2?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ten less than",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ten more than",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Both",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "None",
+          "is_correct": false
+        }
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "If the answer is correct, what do students do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sit down",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clap",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Write",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clap"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "If the answer is wrong, what happens?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They clap",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They stop the game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No clapping",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Teacher scolds",
+          "is_correct": false
+        }
+      ],
+      "answer": "No clapping"
+    },
+    {
+      "question_id": 9,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "The lesson is about number games of more or less."
+    },
+    {
+      "question_id": 10,
+      "question_type": "SHORT",
+      "question": "Which numbers are used in Game 1?",
+      "answer": "Numbers from 1 to 100 are used."
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "What must students do after saying a number in Game 1?",
+      "answer": "They must sit down."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "Can students repeat a number in Game 1?",
+      "answer": "No, students cannot repeat a number."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What does the teacher do with the numbers?",
+      "answer": "The teacher writes the numbers on the board."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "How do students stand in Game 2?",
+      "answer": "They stand in a circle."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "What do students say in Game 2?",
+      "answer": "They say ten less than or ten more than."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What happens if the answer is correct?",
+      "answer": "Students clap for the child."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What happens if the answer is wrong?",
+      "answer": "They do not clap and someone else answers."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What does the child do after answering correctly?",
+      "answer": "The child gets the next turn."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What does 'ten less than' mean?",
+      "answer": "It means subtracting ten from a number."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What does 'ten more than' mean?",
+      "answer": "It means adding ten to a number."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Do students speak together in Game 2?",
+      "answer": "No, they speak one at a time."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "Who answers in Game 2?",
+      "answer": "The person pointed at answers."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What kind of activity is this lesson?",
+      "answer": "It is a number game activity."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What do students learn from this lesson?",
+      "answer": "They learn about more and less in numbers."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Do students sit or stand in Game 1?",
+      "answer": "They stand first and then sit down."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Why do students clap?",
+      "answer": "They clap when the answer is correct."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Who gets the next turn after a correct answer?",
+      "answer": "The same student gets the next turn."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What is the main idea of the lesson?",
+      "answer": "Learning numbers through games."
+    }
+  ]
+}

@@ -1,81 +1,137 @@
 {
   "chapter_metadata": {
-    "chapter_id": "03.ENG.MAR.07",
+    "chapter_id": "03.English.07",
     "standard": "3",
-    "subject": "Marathi Sulabhbharati",
+    "subject": "Marathi",
     "medium": "English",
-    "chapter_name": "चला, मोड्या (गाणे)"
+    "chapter_name": "चला, मोजूया"
   },
   "questions": [
     {
       "question_id": 1,
       "question_type": "MCQ",
-      "question": "'चला, मोड्या' या गाण्यात कशासाठी बोलावले आहे?",
+      "question": "या गाण्यात कशाबद्दल सांगितले आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "खेळण्यासाठी",
+          "text": "मोजण्याबद्दल",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "भांडण्यासाठी",
+          "text": "खेळाबद्दल",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "झोपण्यासाठी",
+          "text": "कथेबद्दल",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "लपण्यासाठी",
+          "text": "प्रवासाबद्दल",
           "is_correct": false
         }
       ],
-      "answer": "खेळण्यासाठी"
+      "answer": "मोजण्याबद्दल"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
-      "question": "गाण्यात मुलांना काय करायला सांगितले आहे?",
+      "question": "मोजणे कशासाठी उपयोगी आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "मिळून खेळायला",
+          "text": "संख्या ओळखण्यासाठी",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "एकटे बसायला",
+          "text": "रागासाठी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "ओरडायला",
+          "text": "आळसासाठी",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "रागावायला",
+          "text": "वेळ",
           "is_correct": false
         }
       ],
-      "answer": "मिळून खेळायला"
+      "answer": "संख्या ओळखण्यासाठी"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
-      "question": "'चला' हा शब्द काय दर्शवतो?",
+      "question": "गाण्यात मोजणी कशातून शिकवली आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "आमंत्रण",
+          "text": "गाण्यातून",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "नकार",
+          "text": "कथेतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चित्रातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादातून",
+          "is_correct": false
+        }
+      ],
+      "answer": "गाण्यातून"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मोजताना कोणती गोष्ट लक्षात ठेवावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोंधळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्रम"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मोजणी केल्याने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बुद्धी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
           "is_correct": false
         },
         {
@@ -85,16 +141,16 @@
         },
         {
           "option_id": 4,
-          "text": "दु:ख",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "आमंत्रण"
+      "answer": "बुद्धी"
     },
     {
-      "question_id": 4,
+      "question_id": 6,
       "question_type": "MCQ",
-      "question": "गाण्याचा भाव कसा आहे?",
+      "question": "गाण्यात मोजणी कशी आहे?",
       "options": [
         {
           "option_id": 1,
@@ -103,198 +159,310 @@
         },
         {
           "option_id": 2,
-          "text": "दु:खी",
+          "text": "दुःखी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "रागीट",
+          "text": "भितीदायक",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भितीदायक",
+          "text": "रागीट",
           "is_correct": false
         }
       ],
       "answer": "आनंदी"
     },
     {
-      "question_id": 5,
-      "question_type": "MCQ",
-      "question": "गाण्यातील वातावरण कसे आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "उत्साही",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "उदास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भीषण",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "शांत",
-          "is_correct": false
-        }
-      ],
-      "answer": "उत्साही"
-    },
-    {
-      "question_id": 6,
-      "question_type": "MCQ",
-      "question": "या गाण्यातून काय संदेश मिळतो?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "एकत्र खेळणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "भांडण करणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "एकटे राहणे",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "काम टाळणे",
-          "is_correct": false
-        }
-      ],
-      "answer": "एकत्र खेळणे"
-    },
-    {
       "question_id": 7,
       "question_type": "MCQ",
-      "question": "गाण्यातील शब्द कसे आहेत?",
+      "question": "मोजणी करताना काय आवश्यक?",
       "options": [
         {
           "option_id": 1,
-          "text": "सोपे आणि गोड",
+          "text": "लक्ष",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "कठीण",
+          "text": "राग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "असभ्य",
+          "text": "आळस",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गोंधळलेले",
+          "text": "गोंधळ",
           "is_correct": false
         }
       ],
-      "answer": "सोपे आणि गोड"
+      "answer": "लक्ष"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
-      "question": "गाणे म्हणताना मुलांना कसे वाटते?",
+      "question": "गाण्याचा उद्देश काय आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "आनंद वाटतो",
+          "text": "मोजणी शिकवणे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "भीती वाटते",
+          "text": "राग वाढवणे",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "राग येतो",
+          "text": "आळस वाढवणे",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "कंटाळा येतो",
+          "text": "वेळ",
           "is_correct": false
         }
       ],
-      "answer": "आनंद वाटतो"
+      "answer": "मोजणी शिकवणे"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
-      "question": "'मोड्या' हा शब्द कोणासाठी वापरला आहे?",
+      "question": "मोजणी कशाशी संबंधित आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "मुलांसाठी",
+          "text": "संख्या",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "प्राण्यांसाठी",
+          "text": "रंग",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "मोठ्यांसाठी",
+          "text": "आकार",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "शिक्षकांसाठी",
+          "text": "आवाज",
           "is_correct": false
         }
       ],
-      "answer": "मुलांसाठी"
+      "answer": "संख्या"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
-      "question": "हे गाणे कोणासाठी योग्य आहे?",
+      "question": "मोजणी कशामुळे सोपी होते?",
       "options": [
         {
           "option_id": 1,
-          "text": "मुलांसाठी",
+          "text": "गाण्यामुळे",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "फक्त मोठ्यांसाठी",
+          "text": "रागामुळे",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "फक्त शिक्षकांसाठी",
+          "text": "आळसामुळे",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "कोणासाठीही नाही",
+          "text": "गोंधळामुळे",
           "is_correct": false
         }
       ],
-      "answer": "मुलांसाठी"
+      "answer": "गाण्यामुळे"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
-      "question": "गाणे गाताना कोणता गुण वाढतो?",
+      "question": "मोजणी करताना काय टाळावे?",
       "options": [
         {
           "option_id": 1,
-          "text": "सहकार्य",
+          "text": "घाई",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सराव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रम",
+          "is_correct": false
+        }
+      ],
+      "answer": "घाई"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "गाण्यातून शिकणे का सोपे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळसामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंदामुळे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मोजणीचा उपयोग कुठे होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दैनंदिन जीवनात",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झोपेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळात",
+          "is_correct": false
+        }
+      ],
+      "answer": "दैनंदिन जीवनात"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "मोजणी शिकताना काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "गाण्यात कोणता विषय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संख्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "संख्या"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "मोजणी शिकणे का आवश्यक?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभ्यासासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळसासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभ्यासासाठी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मोजणी केल्याने काय सुधारते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गणित कौशल्य",
           "is_correct": true
         },
         {
@@ -313,12 +481,12 @@
           "is_correct": false
         }
       ],
-      "answer": "सहकार्य"
+      "answer": "गणित कौशल्य"
     },
     {
-      "question_id": 12,
+      "question_id": 18,
       "question_type": "MCQ",
-      "question": "गाण्यामुळे मन कसे होते?",
+      "question": "गाण्याचा भाव कसा आहे?",
       "options": [
         {
           "option_id": 1,
@@ -327,203 +495,35 @@
         },
         {
           "option_id": 2,
-          "text": "दु:खी",
+          "text": "दुःखी",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "रागीट",
+          "text": "भितीदायक",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "भीतीचे",
+          "text": "रागीट",
           "is_correct": false
         }
       ],
       "answer": "आनंदी"
     },
     {
-      "question_id": 13,
-      "question_type": "MCQ",
-      "question": "गाण्यातील कृती कशाशी संबंधित आहेत?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "खेळाशी",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "अभ्यासाशी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "कामाशी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भांडणाशी",
-          "is_correct": false
-        }
-      ],
-      "answer": "खेळाशी"
-    },
-    {
-      "question_id": 14,
-      "question_type": "MCQ",
-      "question": "गाणे गाताना मुलांनी कसे वागावे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "मिळून",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "भांडून",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "ओरडून",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "दुर्लक्ष करून",
-          "is_correct": false
-        }
-      ],
-      "answer": "मिळून"
-    },
-    {
-      "question_id": 15,
-      "question_type": "MCQ",
-      "question": "'चला, मोड्या' हे गाणे कशासाठी उपयुक्त आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "उत्साह वाढवण्यासाठी",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "राग वाढवण्यासाठी",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "भीती वाढवण्यासाठी",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "आळस वाढवण्यासाठी",
-          "is_correct": false
-        }
-      ],
-      "answer": "उत्साह वाढवण्यासाठी"
-    },
-    {
-      "question_id": 16,
-      "question_type": "MCQ",
-      "question": "गाण्यातील कृती केल्याने काय वाढते?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "मैत्री",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "भांडण",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "दु:ख",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "भीती",
-          "is_correct": false
-        }
-      ],
-      "answer": "मैत्री"
-    },
-    {
-      "question_id": 17,
-      "question_type": "MCQ",
-      "question": "गाणे म्हणताना आवाज कसा असावा?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "आनंदी आणि स्पष्ट",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "रागीट",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "खूप मोठा",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "खूप हळू",
-          "is_correct": false
-        }
-      ],
-      "answer": "आनंदी आणि स्पष्ट"
-    },
-    {
-      "question_id": 18,
-      "question_type": "MCQ",
-      "question": "या गाण्याचा मुख्य विषय काय आहे?",
-      "options": [
-        {
-          "option_id": 1,
-          "text": "एकत्र खेळणे",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "अभ्यास",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "प्रवास",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "काम",
-          "is_correct": false
-        }
-      ],
-      "answer": "एकत्र खेळणे"
-    },
-    {
       "question_id": 19,
       "question_type": "MCQ",
-      "question": "गाणे गाताना कोणती भावना दिसते?",
+      "question": "मोजणी करताना काय पाळावे?",
       "options": [
         {
           "option_id": 1,
-          "text": "उत्साह",
+          "text": "क्रम",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "भीती",
+          "text": "गोंधळ",
           "is_correct": false
         },
         {
@@ -533,189 +533,159 @@
         },
         {
           "option_id": 4,
-          "text": "दु:ख",
+          "text": "आळस",
           "is_correct": false
         }
       ],
-      "answer": "उत्साह"
+      "answer": "क्रम"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
-      "question": "हे गाणे मुलांना काय शिकवते?",
+      "question": "मोजणी शिकवण्याची पद्धत कशी आहे?",
       "options": [
         {
           "option_id": 1,
-          "text": "मिळून आनंद घेणे",
+          "text": "खेळकर",
           "is_correct": true
         },
         {
           "option_id": 2,
-          "text": "एकटे राहणे",
+          "text": "कठीण",
           "is_correct": false
         },
         {
           "option_id": 3,
-          "text": "भांडण करणे",
+          "text": "भीतीदायक",
           "is_correct": false
         },
         {
           "option_id": 4,
-          "text": "गप्प बसणे",
+          "text": "रागीट",
           "is_correct": false
         }
       ],
-      "answer": "मिळून आनंद घेणे"
+      "answer": "खेळकर"
     },
     {
       "question_id": 21,
       "question_type": "SHORT",
-      "question": "'चला, मोड्या' या गाण्यात कशासाठी बोलावले आहे?",
-      "answer": "या गाण्यात मुलांना मिळून खेळण्यासाठी बोलावले आहे."
+      "question": "या गाण्यात कशाबद्दल सांगितले आहे?",
+      "answer": "मोजण्याबद्दल."
     },
     {
       "question_id": 22,
       "question_type": "SHORT",
-      "question": "गाण्याचा भाव कसा आहे?",
-      "answer": "गाण्याचा भाव आनंदी आहे."
+      "question": "मोजणी कशासाठी उपयोगी आहे?",
+      "answer": "संख्या ओळखण्यासाठी."
     },
     {
       "question_id": 23,
       "question_type": "SHORT",
-      "question": "गाण्यातील वातावरण कसे आहे?",
-      "answer": "गाण्यातील वातावरण उत्साही आहे."
+      "question": "मोजणी कशातून शिकवली आहे?",
+      "answer": "गाण्यातून."
     },
     {
       "question_id": 24,
       "question_type": "SHORT",
-      "question": "'चला' हा शब्द काय दर्शवतो?",
-      "answer": "'चला' हा शब्द आमंत्रण दर्शवतो."
+      "question": "मोजणी करताना काय लक्षात ठेवावे?",
+      "answer": "क्रम."
     },
     {
       "question_id": 25,
       "question_type": "SHORT",
-      "question": "गाण्यातील शब्द कसे आहेत?",
-      "answer": "गाण्यातील शब्द सोपे आणि गोड आहेत."
+      "question": "मोजणी केल्याने काय वाढते?",
+      "answer": "बुद्धी."
     },
     {
       "question_id": 26,
       "question_type": "SHORT",
-      "question": "गाणे म्हणताना मुलांना कसे वाटते?",
-      "answer": "गाणे म्हणताना मुलांना आनंद वाटतो."
+      "question": "गाण्याचा भाव कसा आहे?",
+      "answer": "आनंदी."
     },
     {
       "question_id": 27,
       "question_type": "SHORT",
-      "question": "या गाण्यातून कोणता संदेश मिळतो?",
-      "answer": "या गाण्यातून एकत्र खेळण्याचा संदेश मिळतो."
+      "question": "मोजणी करताना काय आवश्यक?",
+      "answer": "लक्ष."
     },
     {
       "question_id": 28,
       "question_type": "SHORT",
-      "question": "गाणे गाताना कोणता गुण वाढतो?",
-      "answer": "गाणे गाताना सहकार्याचा गुण वाढतो."
+      "question": "गाण्याचा उद्देश काय आहे?",
+      "answer": "मोजणी शिकवणे."
     },
     {
       "question_id": 29,
       "question_type": "SHORT",
-      "question": "गाण्यामुळे मन कसे होते?",
-      "answer": "गाण्यामुळे मन आनंदी होते."
+      "question": "मोजणी कशाशी संबंधित आहे?",
+      "answer": "संख्या."
     },
     {
       "question_id": 30,
       "question_type": "SHORT",
-      "question": "गाण्यातील कृती कशाशी संबंधित आहेत?",
-      "answer": "गाण्यातील कृती खेळाशी संबंधित आहेत."
+      "question": "मोजणी कशामुळे सोपी होते?",
+      "answer": "गाण्यामुळे."
     },
     {
       "question_id": 31,
       "question_type": "SHORT",
-      "question": "गाणे गाताना कसे वागावे?",
-      "answer": "गाणे गाताना मिळून वागावे."
+      "question": "मोजणी करताना काय टाळावे?",
+      "answer": "घाई."
     },
     {
       "question_id": 32,
       "question_type": "SHORT",
-      "question": "'मोड्या' हा शब्द कोणासाठी वापरला आहे?",
-      "answer": "'मोड्या' हा शब्द मुलांसाठी वापरला आहे."
+      "question": "गाण्यातून शिकणे का सोपे?",
+      "answer": "आनंदामुळे."
     },
     {
       "question_id": 33,
       "question_type": "SHORT",
-      "question": "हे गाणे कोणासाठी योग्य आहे?",
-      "answer": "हे गाणे मुलांसाठी योग्य आहे."
+      "question": "मोजणीचा उपयोग कुठे होतो?",
+      "answer": "दैनंदिन जीवनात."
     },
     {
       "question_id": 34,
       "question_type": "SHORT",
-      "question": "गाणे गाताना आवाज कसा असावा?",
-      "answer": "आवाज आनंदी आणि स्पष्ट असावा."
+      "question": "मोजणी शिकताना काय वाढते?",
+      "answer": "आत्मविश्वास."
     },
     {
       "question_id": 35,
       "question_type": "SHORT",
-      "question": "गाण्याचा मुख्य विषय काय आहे?",
-      "answer": "गाण्याचा मुख्य विषय एकत्र खेळणे आहे."
+      "question": "मोजणी शिकणे का आवश्यक?",
+      "answer": "अभ्यासासाठी."
     },
     {
       "question_id": 36,
       "question_type": "SHORT",
-      "question": "गाणे गाताना कोणती भावना दिसते?",
-      "answer": "गाणे गाताना उत्साहाची भावना दिसते."
+      "question": "मोजणी केल्याने काय सुधारते?",
+      "answer": "गणित कौशल्य."
     },
     {
       "question_id": 37,
       "question_type": "SHORT",
-      "question": "गाणे गाताना मैत्री कशी वाढते?",
-      "answer": "मिळून गाणे गातल्याने मैत्री वाढते."
+      "question": "गाण्याचा विषय काय आहे?",
+      "answer": "संख्या."
     },
     {
       "question_id": 38,
       "question_type": "SHORT",
-      "question": "या गाण्यातून काय शिकायला मिळते?",
-      "answer": "या गाण्यातून मिळून आनंद घेणे शिकायला मिळते."
+      "question": "मोजणी करताना काय पाळावे?",
+      "answer": "क्रम."
     },
     {
       "question_id": 39,
       "question_type": "SHORT",
-      "question": "गाणे गाताना शिस्त का आवश्यक आहे?",
-      "answer": "शिस्त ठेवल्याने गाणे नीट होते."
+      "question": "मोजणी शिकवण्याची पद्धत कशी आहे?",
+      "answer": "खेळकर."
     },
     {
       "question_id": 40,
       "question_type": "SHORT",
-      "question": "गाण्यामुळे वर्गातील वातावरण कसे होते?",
-      "answer": "गाण्यामुळे वर्गातील वातावरण आनंदी होते."
-    },
-    {
-      "question_id": 41,
-      "question_type": "SHORT",
-      "question": "गाण्यातील शब्द लक्षात ठेवणे का सोपे असते?",
-      "answer": "शब्द सोपे असल्यामुळे लक्षात ठेवणे सोपे असते."
-    },
-    {
-      "question_id": 42,
-      "question_type": "SHORT",
-      "question": "गाणे गाताना हालचाल का करतात?",
-      "answer": "हालचाल केल्याने गाणे अधिक मजेदार होते."
-    },
-    {
-      "question_id": 43,
-      "question_type": "SHORT",
-      "question": "हे गाणे वाचल्यावर/गातल्यावर काय वाटते?",
-      "answer": "हे गाणे गातल्यावर आनंद वाटतो."
-    },
-    {
-      "question_id": 44,
-      "question_type": "SHORT",
-      "question": "गाणे गाताना सर्वांनी मिळून का गावे?",
-      "answer": "सर्वांनी मिळून गाल्याने मजा येते."
-    },
-    {
-      "question_id": 45,
-      "question_type": "SHORT",
-      "question": "तुम्हाला हे गाणे का आवडते?",
-      "answer": "मला हे गाणे आनंदी असल्यामुळे आवडते."
+      "question": "मोजणी का महत्त्वाची आहे?",
+      "answer": "दैनंदिन वापरासाठी."
     }
   ]
 }

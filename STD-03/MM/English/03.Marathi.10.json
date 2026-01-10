@@ -1,1 +1,411 @@
-{}
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.10",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Riya in the City 2"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the girl in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Riya",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Priya",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rina",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ritu",
+          "is_correct": false
+        }
+      ],
+      "answer": "Riya"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where is the shop in the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Near the school",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Near the house",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "In the village",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "In the park",
+          "is_correct": false
+        }
+      ],
+      "answer": "Near the house"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What kind of shop is shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Toy shop",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Grocery shop",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Book shop",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clothes shop",
+          "is_correct": false
+        }
+      ],
+      "answer": "Grocery shop"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What do they buy from the shop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Toys",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Grains, oil, salt, sugar and biscuits",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Books",
+          "is_correct": false
+        }
+      ],
+      "answer": "Grains, oil, salt, sugar and biscuits"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT mentioned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Oil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Salt",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Biscuits",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shoes",
+          "is_correct": true
+        }
+      ],
+      "answer": "Shoes"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which class is Riya in?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Standard One",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Standard Two",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Standard Three",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Standard Four",
+          "is_correct": false
+        }
+      ],
+      "answer": "Standard Three"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How does Riya go to school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "By car",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "By bus",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "By bicycle",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "By walking",
+          "is_correct": false
+        }
+      ],
+      "answer": "By bus"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which subjects do they learn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only English",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marathi, English, Mathematics and Environment",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Only Maths",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only Science",
+          "is_correct": false
+        }
+      ],
+      "answer": "Marathi, English, Mathematics and Environment"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the name of their English book?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "My Book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "My English Book Three",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fun English",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Learn English",
+          "is_correct": false
+        }
+      ],
+      "answer": "My English Book Three"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is near Riya’s house?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A mall",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A grocery shop",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A hospital",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A park",
+          "is_correct": false
+        }
+      ],
+      "answer": "A grocery shop"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "What is the name of the girl in the lesson?",
+      "answer": "The name of the girl is Riya."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "Where is the shop in the lesson?",
+      "answer": "The shop is near Riya’s house."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What kind of shop is shown in the lesson?",
+      "answer": "A grocery shop is shown in the lesson."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "What do they buy from the grocery shop?",
+      "answer": "They buy grains, oil, salt, sugar, biscuits and other things."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "Name any one thing bought from the shop.",
+      "answer": "One thing bought from the shop is oil."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Which class is Riya in?",
+      "answer": "Riya is in Standard Three."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "How does Riya go to school?",
+      "answer": "Riya goes to school by bus."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "Which subjects does Riya learn in school?",
+      "answer": "She learns Marathi, English, Mathematics and Environment."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "What is the name of Riya’s English textbook?",
+      "answer": "The name of the book is My English Book Three."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "What is near Riya’s house?",
+      "answer": "A grocery shop is near Riya’s house."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "What kind of place is the city?",
+      "answer": "The city is a busy place."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What items are kept on the shop shelves?",
+      "answer": "Grains, oil, salt, sugar and biscuits are kept on the shelves."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Who goes to the shop with Riya?",
+      "answer": "Riya goes to the shop with her mother."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What do we see in the shop?",
+      "answer": "We see many food items in the shop."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why do people go to the grocery shop?",
+      "answer": "People go to buy daily needed items."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What do we see near Riya’s house?",
+      "answer": "We see a grocery shop near her house."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Which vehicle does Riya use to go to school?",
+      "answer": "She uses a bus to go to school."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What do students study in school?",
+      "answer": "They study different subjects and about their environment."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Is the shop near or far from Riya’s house?",
+      "answer": "The shop is near her house."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is the lesson mainly about?",
+      "answer": "The lesson is about Riya and a grocery shop in the city."
+    }
+  ]
+}

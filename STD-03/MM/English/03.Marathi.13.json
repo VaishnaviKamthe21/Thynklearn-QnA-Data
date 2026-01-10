@@ -1,1 +1,411 @@
-{}
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.13",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Days of the Week"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the title of the lesson?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Months of the Year",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Days of the Week",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Time Table",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Calendar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Days of the Week"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How many days are there in a week?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Five",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Six",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Seven",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Eight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Seven"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which day comes after Monday?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunday",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tuesday",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wednesday",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tuesday"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which day comes before Friday?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thursday",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Saturday",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sunday",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tuesday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thursday"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "On which day was Solomon Grundy born?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunday",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Monday",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tuesday",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wednesday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Monday"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "On which day was Solomon Grundy christened?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Monday",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tuesday",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wednesday",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Thursday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tuesday"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "On which day was Solomon Grundy married?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tuesday",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wednesday",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Thursday",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wednesday"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "On which day did Solomon Grundy take ill?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wednesday",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thursday",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Friday",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saturday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thursday"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "On which day was Solomon Grundy worse?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thursday",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Friday",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Saturday",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sunday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friday"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "On which day did Solomon Grundy die?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friday",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saturday",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sunday",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Monday",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saturday"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "What is the lesson about?",
+      "answer": "The lesson is about the days of the week."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "How many days are there in a week?",
+      "answer": "There are seven days in a week."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "Name the first day of the week.",
+      "answer": "The first day of the week is Monday."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "Name the last day of the week.",
+      "answer": "The last day of the week is Sunday."
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "Which day comes after Monday?",
+      "answer": "Tuesday comes after Monday."
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Which day comes before Friday?",
+      "answer": "Thursday comes before Friday."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "On which day was Solomon Grundy born?",
+      "answer": "Solomon Grundy was born on Monday."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "On which day was Solomon Grundy christened?",
+      "answer": "He was christened on Tuesday."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "On which day was Solomon Grundy married?",
+      "answer": "He was married on Wednesday."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "On which day did he take ill?",
+      "answer": "He took ill on Thursday."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "On which day was he worse?",
+      "answer": "He was worse on Friday."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "On which day did he die?",
+      "answer": "He died on Saturday."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "On which day was he buried?",
+      "answer": "He was buried on Sunday."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Write any two days of the week.",
+      "answer": "Monday and Tuesday."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Which day comes after Saturday?",
+      "answer": "Sunday comes after Saturday."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Which day comes before Tuesday?",
+      "answer": "Monday comes before Tuesday."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "What comes after Wednesday?",
+      "answer": "Thursday comes after Wednesday."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "What comes before Sunday?",
+      "answer": "Saturday comes before Sunday."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Why do we learn days of the week?",
+      "answer": "We learn them to know dates and plan our activities."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What is the rhyme in the lesson about?",
+      "answer": "It is about Solomon Grundy and the days of the week."
+    }
+  ]
+}

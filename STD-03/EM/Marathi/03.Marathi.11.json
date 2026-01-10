@@ -1,0 +1,45 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "03.English.11",
+    "standard": "3",
+    "subject": "Marathi",
+    "medium": "English",
+    "chapter_name": "गाणे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "या गाण्यातील मुख्य भावना कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दु:ख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 2,
+      "question_type": "SHORT",
+      "question": "या गाण्यातून काय संदेश मिळतो?",
+      "answer": "या गाण्यातून आनंदाने आणि मिळून वागण्याचा संदेश मिळतो."
+    }
+  ]
+}

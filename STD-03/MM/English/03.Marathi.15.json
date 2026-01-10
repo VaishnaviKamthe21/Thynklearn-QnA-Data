@@ -1,1 +1,411 @@
-{}
+{
+  "chapter_metadata": {
+    "chapter_id": "03.Marathi.15",
+    "standard": "3",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Revision 3"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which polite sentence is used to ask someone to move aside?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thank you",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Please move aside",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "How are you?",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sorry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please move aside"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the reply to 'Please move aside'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sure",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "No",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sorry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fine",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sure"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What do you say when someone thanks you?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sorry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "You’re welcome",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sure",
+          "is_correct": false
+        }
+      ],
+      "answer": "You’re welcome"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which sentence is used to ask someone’s name?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "How are you?",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "What’s your name?",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "How old are you?",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Thank you",
+          "is_correct": false
+        }
+      ],
+      "answer": "What’s your name?"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which sentence tells your age?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "How are you?",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "I am fine",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "I am eight years old",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Thank you",
+          "is_correct": false
+        }
+      ],
+      "answer": "I am eight years old"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which reply is correct for 'How are you?'",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sorry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fine",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sure",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "You’re welcome",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fine"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What do you say when you make a mistake?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thank you",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sorry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sure",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fine",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sorry"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the reply to 'Sorry'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "You’re welcome",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It’s all right",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Thank you",
+          "is_correct": false
+        }
+      ],
+      "answer": "It’s all right"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which is a polite expression?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Move",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Give",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Go",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which word shows thanks?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sorry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Please",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Thank you",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Fine",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thank you"
+    },
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "What do you say to ask someone to move aside?",
+      "answer": "We say 'Please move aside'."
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "What is the reply to 'Please move aside'?",
+      "answer": "The reply is 'Sure'."
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "What do you say when someone thanks you?",
+      "answer": "We say 'You’re welcome'."
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "How do you ask someone’s name?",
+      "answer": "We ask 'What’s your name?'"
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "What do you say to tell your age?",
+      "answer": "We say 'I am eight years old.'"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "What is the reply to 'How are you?'",
+      "answer": "The reply is 'I am fine.'"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What do you say when you make a mistake?",
+      "answer": "We say 'Sorry'."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What is the reply to 'Sorry'?",
+      "answer": "The reply is 'It’s all right.'"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Which word is used to be polite?",
+      "answer": "The word 'Please' is used to be polite."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Which words show good manners?",
+      "answer": "Words like please, thank you and sorry show good manners."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "How do you thank someone?",
+      "answer": "We say 'Thank you'."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "How do you ask about someone’s well-being?",
+      "answer": "We ask 'How are you?'"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "What should you say after getting help?",
+      "answer": "We should say 'Thank you'."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "What do you reply after 'Thank you'?",
+      "answer": "We reply 'You’re welcome'."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Why should we use polite words?",
+      "answer": "We should use polite words to be kind and respectful."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "Write one polite sentence.",
+      "answer": "Please help me."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Write one thanking sentence.",
+      "answer": "Thank you."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Write one apologizing sentence.",
+      "answer": "Sorry."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "What is the lesson mainly about?",
+      "answer": "The lesson is about using polite English sentences."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "Why is this lesson important?",
+      "answer": "It teaches us good manners and polite conversation."
+    }
+  ]
+}
