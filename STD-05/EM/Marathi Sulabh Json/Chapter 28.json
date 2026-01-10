@@ -1,585 +1,1581 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "chapter_number": 28,
-  "chapter_name": "आपले भविष्य",
-  "mode": "Outside Textbook | Max Safe Unique",
-  "counts": {
-    "one_line_questions": 65,
-    "mcqs": 35
-  },
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "‘आपले भविष्य’ या धड्याचा मुख्य संदेश काय आहे?",
-      "answer": "आजचे प्रयत्न उद्याचे भविष्य घडवतात."
-    },
-    {
-      "id": 2,
-      "question": "भविष्य म्हणजे काय?",
-      "answer": "पुढील काळातील जीवन."
-    },
-    {
-      "id": 3,
-      "question": "भविष्य घडवण्यासाठी काय आवश्यक आहे?",
-      "answer": "परिश्रम आणि नियोजन."
-    },
-    {
-      "id": 4,
-      "question": "शिक्षण भविष्याला कसे आकार देते?",
-      "answer": "योग्य दिशा देते."
-    },
-    {
-      "id": 5,
-      "question": "ध्येय ठरवणे का आवश्यक आहे?",
-      "answer": "यशस्वी वाटचालीसाठी."
-    },
-    {
-      "id": 6,
-      "question": "भविष्यासाठी नियोजन म्हणजे काय?",
-      "answer": "आगाऊ तयारी."
-    },
-    {
-      "id": 7,
-      "question": "चांगल्या सवयी भविष्यावर कसा परिणाम करतात?",
-      "answer": "सकारात्मक परिणाम होतो."
-    },
-    {
-      "id": 8,
-      "question": "वेळेचा योग्य वापर भविष्याला कसा मदत करतो?",
-      "answer": "यश मिळवण्यास."
-    },
-    {
-      "id": 9,
-      "question": "भविष्यातील यश कशावर अवलंबून असते?",
-      "answer": "आजच्या प्रयत्नांवर."
-    },
-    {
-      "id": 10,
-      "question": "स्वप्ने पाहणे का आवश्यक आहे?",
-      "answer": "ध्येय ठरवण्यासाठी."
-    },
-    {
-      "id": 11,
-      "question": "स्वप्ने पूर्ण करण्यासाठी काय करावे?",
-      "answer": "कष्ट आणि चिकाटी."
-    },
-    {
-      "id": 12,
-      "question": "भविष्यासाठी शिक्षण का महत्त्वाचे आहे?",
-      "answer": "ज्ञान आणि कौशल्यासाठी."
-    },
-    {
-      "id": 13,
-      "question": "भविष्य घडवताना शिस्त का आवश्यक आहे?",
-      "answer": "मार्ग चुकू नये म्हणून."
-    },
-    {
-      "id": 14,
-      "question": "भविष्यासाठी आत्मविश्वास का आवश्यक आहे?",
-      "answer": "अडचणींवर मात करण्यासाठी."
-    },
-    {
-      "id": 15,
-      "question": "अपयश भविष्याला कसे शिकवते?",
-      "answer": "अनुभव देते."
-    },
-    {
-      "id": 16,
-      "question": "भविष्यासाठी सकारात्मक विचार का आवश्यक आहेत?",
-      "answer": "प्रेरणा मिळते."
-    },
-    {
-      "id": 17,
-      "question": "भविष्य घडवण्यात कुटुंबाची भूमिका काय आहे?",
-      "answer": "मार्गदर्शन आणि पाठिंबा."
-    },
-    {
-      "id": 18,
-      "question": "शिक्षक भविष्य घडवण्यात कसे मदत करतात?",
-      "answer": "योग्य दिशा दाखवून."
-    },
-    {
-      "id": 19,
-      "question": "भविष्य आणि मेहनत यांचा काय संबंध आहे?",
-      "answer": "मेहनतीने भविष्य उज्ज्वल होते."
-    },
-    {
-      "id": 20,
-      "question": "भविष्यासाठी ध्येय लहानपणी का ठरवावे?",
-      "answer": "वेळेचा योग्य उपयोग होतो."
-    },
-    {
-      "id": 21,
-      "question": "भविष्यासाठी कौशल्ये का आवश्यक आहेत?",
-      "answer": "स्वावलंबनासाठी."
-    },
-    {
-      "id": 22,
-      "question": "भविष्य घडवताना संयम का आवश्यक आहे?",
-      "answer": "यशाला वेळ लागतो."
-    },
-    {
-      "id": 23,
-      "question": "भविष्यासाठी आरोग्य का महत्त्वाचे आहे?",
-      "answer": "काम करण्याची क्षमता राहते."
-    },
-    {
-      "id": 24,
-      "question": "भविष्य आणि शिस्त यांचा काय संबंध आहे?",
-      "answer": "शिस्तीत यश मिळते."
-    },
-    {
-      "id": 25,
-      "question": "भविष्यासाठी योग्य सवयी कशा लावाव्यात?",
-      "answer": "नियमित सरावाने."
-    },
-    {
-      "id": 26,
-      "question": "भविष्यासाठी वाचन का आवश्यक आहे?",
-      "answer": "ज्ञान वाढवण्यासाठी."
-    },
-    {
-      "id": 27,
-      "question": "भविष्य घडवताना तंत्रज्ञान कसे उपयोगी आहे?",
-      "answer": "शिकणे सोपे होते."
-    },
-    {
-      "id": 28,
-      "question": "भविष्य आणि समाज यांचा काय संबंध आहे?",
-      "answer": "समाज घडवण्यात व्यक्तीचा वाटा."
-    },
-    {
-      "id": 29,
-      "question": "भविष्यासाठी मूल्ये का आवश्यक आहेत?",
-      "answer": "चांगला माणूस होण्यासाठी."
-    },
-    {
-      "id": 30,
-      "question": "भविष्य घडवताना प्रामाणिकपणा का आवश्यक आहे?",
-      "answer": "विश्वास मिळतो."
-    },
-    {
-      "id": 31,
-      "question": "भविष्यासाठी वेळापत्रक का आवश्यक आहे?",
-      "answer": "कामे नियोजित राहतात."
-    },
-    {
-      "id": 32,
-      "question": "भविष्य घडवताना धैर्य का आवश्यक आहे?",
-      "answer": "अडचणी पार करण्यासाठी."
-    },
-    {
-      "id": 33,
-      "question": "भविष्यासाठी योग्य मार्गदर्शन का आवश्यक आहे?",
-      "answer": "चुका टाळण्यासाठी."
-    },
-    {
-      "id": 34,
-      "question": "भविष्य घडवताना जबाबदारी का आवश्यक आहे?",
-      "answer": "स्वत:वर विश्वास ठेवण्यासाठी."
-    },
-    {
-      "id": 35,
-      "question": "भविष्यासाठी खेळाचे महत्त्व काय आहे?",
-      "answer": "सर्वांगीण विकास."
-    },
-    {
-      "id": 36,
-      "question": "भविष्य घडवताना कला कशी उपयोगी आहे?",
-      "answer": "सर्जनशीलता वाढते."
-    },
-    {
-      "id": 37,
-      "question": "भविष्यासाठी पर्यावरणाची काळजी का आवश्यक आहे?",
-      "answer": "सुरक्षित जीवनासाठी."
-    },
-    {
-      "id": 38,
-      "question": "भविष्य आणि शिक्षण यांचा काय संबंध आहे?",
-      "answer": "शिक्षण भविष्य घडवते."
-    },
-    {
-      "id": 39,
-      "question": "भविष्यासाठी सतत शिकणे का आवश्यक आहे?",
-      "answer": "काळाबरोबर टिकण्यासाठी."
-    },
-    {
-      "id": 40,
-      "question": "भविष्य घडवताना चुका का होतात?",
-      "answer": "शिकण्याची प्रक्रिया."
-    },
-    {
-      "id": 41,
-      "question": "भविष्यासाठी आत्ममूल्यांकन का आवश्यक आहे?",
-      "answer": "स्वत:ची प्रगती कळते."
-    },
-    {
-      "id": 42,
-      "question": "भविष्यासाठी स्वप्न आणि ध्येय यात काय फरक आहे?",
-      "answer": "ध्येय ठोस असते."
-    },
-    {
-      "id": 43,
-      "question": "भविष्य घडवताना प्रेरणा कशी मिळते?",
-      "answer": "यशस्वी उदाहरणांमधून."
-    },
-    {
-      "id": 44,
-      "question": "भविष्यासाठी मेहनतीची सवय का आवश्यक आहे?",
-      "answer": "यश टिकवण्यासाठी."
-    },
-    {
-      "id": 45,
-      "question": "भविष्य घडवताना संयोजन का आवश्यक आहे?",
-      "answer": "अनेक गोष्टी सांभाळण्यासाठी."
-    },
-    {
-      "id": 46,
-      "question": "भविष्यासाठी सकारात्मक वातावरण का आवश्यक आहे?",
-      "answer": "मन प्रसन्न राहते."
-    },
-    {
-      "id": 47,
-      "question": "भविष्य आणि वेळ यांचा काय संबंध आहे?",
-      "answer": "वेळ अमूल्य आहे."
-    },
-    {
-      "id": 48,
-      "question": "भविष्यासाठी योग्य निर्णय का आवश्यक आहेत?",
-      "answer": "चांगली दिशा मिळते."
-    },
-    {
-      "id": 49,
-      "question": "भविष्य घडवताना स्वावलंबन का आवश्यक आहे?",
-      "answer": "आत्मविश्वास वाढतो."
-    },
-    {
-      "id": 50,
-      "question": "भविष्यासाठी समाजसेवा का महत्त्वाची आहे?",
-      "answer": "सामाजिक जाणीव वाढते."
-    },
-    {
-      "id": 51,
-      "question": "भविष्य घडवताना शाळेची भूमिका काय आहे?",
-      "answer": "मूलभूत घडण."
-    },
-    {
-      "id": 52,
-      "question": "भविष्यासाठी पुस्तके का आवश्यक आहेत?",
-      "answer": "ज्ञानाचा स्रोत."
-    },
-    {
-      "id": 53,
-      "question": "भविष्य घडवताना अनुभव का महत्त्वाचा आहे?",
-      "answer": "शहाणपण वाढते."
-    },
-    {
-      "id": 54,
-      "question": "भविष्यासाठी स्वतःवर विश्वास का आवश्यक आहे?",
-      "answer": "यशाची पहिली पायरी."
-    },
-    {
-      "id": 55,
-      "question": "भविष्य आणि आज यांचा काय संबंध आहे?",
-      "answer": "आज उद्या ठरवतो."
-    },
-    {
-      "id": 56,
-      "question": "भविष्य घडवताना ध्येय स्पष्ट का असावे?",
-      "answer": "योग्य दिशा मिळते."
-    },
-    {
-      "id": 57,
-      "question": "भविष्यासाठी सतत प्रयत्न का आवश्यक आहेत?",
-      "answer": "यश टिकवण्यासाठी."
-    },
-    {
-      "id": 58,
-      "question": "भविष्य घडवताना आशावाद का आवश्यक आहे?",
-      "answer": "उत्साह टिकतो."
-    },
-    {
-      "id": 59,
-      "question": "भविष्यासाठी जबाबदार नागरिक का व्हावे?",
-      "answer": "चांगला समाज घडवण्यासाठी."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "‘आपले भविष्य’ या धड्याचा मुख्य विषय कोणता आहे?",
-      "options": {
-        "A": "भविष्य नियोजन",
-        "B": "खेळ",
-        "C": "निसर्ग",
-        "D": "वाहतूक"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 2,
-      "question": "भविष्य घडवण्यासाठी काय आवश्यक आहे?",
-      "options": {
-        "A": "परिश्रम",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 3,
-      "question": "भविष्यासाठी शिक्षण का महत्त्वाचे आहे?",
-      "options": {
-        "A": "योग्य दिशा",
-        "B": "वेळ घालवण्यासाठी",
-        "C": "मनोरंजन",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 4,
-      "question": "ध्येय ठरवणे का आवश्यक आहे?",
-      "options": {
-        "A": "यशासाठी",
-        "B": "आळसासाठी",
-        "C": "वेळ वाया",
-        "D": "मनोरंजन"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 5,
-      "question": "भविष्यासाठी सकारात्मक विचार का आवश्यक आहेत?",
-      "options": {
-        "A": "प्रेरणा",
-        "B": "भीती",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 6,
-      "question": "भविष्य आणि मेहनत यांचा काय संबंध आहे?",
-      "options": {
-        "A": "मेहनतीने यश",
-        "B": "संबंध नाही",
-        "C": "थोडा",
-        "D": "अस्पष्ट"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 7,
-      "question": "भविष्यासाठी शिस्त का आवश्यक आहे?",
-      "options": {
-        "A": "योग्य मार्ग",
-        "B": "गोंधळ",
-        "C": "आळस",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "question": "भविष्यासाठी कौशल्ये का आवश्यक आहेत?",
-      "options": {
-        "A": "स्वावलंबन",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 9,
-      "question": "भविष्य घडवताना अपयश का महत्त्वाचे आहे?",
-      "options": {
-        "A": "अनुभव",
-        "B": "आनंद",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "भविष्यासाठी वेळेचा योग्य वापर का आवश्यक आहे?",
-      "options": {
-        "A": "यश",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 11,
-      "question": "भविष्य घडवताना आत्मविश्वास का आवश्यक आहे?",
-      "options": {
-        "A": "अडचणी पार",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "question": "भविष्यासाठी वाचन का आवश्यक आहे?",
-      "options": {
-        "A": "ज्ञान",
-        "B": "खेळ",
-        "C": "आळस",
-        "D": "मनोरंजन"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 13,
-      "question": "भविष्य घडवताना तंत्रज्ञान कसे उपयोगी आहे?",
-      "options": {
-        "A": "शिकणे सोपे",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "भविष्यासाठी आरोग्य का महत्त्वाचे आहे?",
-      "options": {
-        "A": "काम करण्याची क्षमता",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 15,
-      "question": "भविष्यासाठी मूल्ये का आवश्यक आहेत?",
-      "options": {
-        "A": "चांगला माणूस",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "question": "भविष्य आणि वेळ यांचा काय संबंध आहे?",
-      "options": {
-        "A": "वेळ अमूल्य",
-        "B": "संबंध नाही",
-        "C": "थोडा",
-        "D": "अस्पष्ट"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "भविष्य घडवताना जबाबदारी का आवश्यक आहे?",
-      "options": {
-        "A": "स्वत:वर विश्वास",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "भविष्यासाठी सतत शिकणे का आवश्यक आहे?",
-      "options": {
-        "A": "काळाबरोबर टिकण्यासाठी",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "भविष्यासाठी समाजसेवा का महत्त्वाची आहे?",
-      "options": {
-        "A": "सामाजिक जाणीव",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 20,
-      "question": "भविष्य घडवताना योग्य निर्णय का आवश्यक आहेत?",
-      "options": {
-        "A": "योग्य दिशा",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 21,
-      "question": "भविष्य आणि आज यांचा काय संबंध आहे?",
-      "options": {
-        "A": "आज उद्या ठरवतो",
-        "B": "संबंध नाही",
-        "C": "थोडा",
-        "D": "अस्पष्ट"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "question": "भविष्य घडवताना शाळेची भूमिका काय आहे?",
-      "options": {
-        "A": "मूलभूत घडण",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 23,
-      "question": "भविष्यासाठी सकारात्मक वातावरण का आवश्यक आहे?",
-      "options": {
-        "A": "उत्साह",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "भविष्य घडवताना अनुभव का महत्त्वाचा आहे?",
-      "options": {
-        "A": "शहाणपण",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "question": "भविष्यासाठी स्वतःवर विश्वास का आवश्यक आहे?",
-      "options": {
-        "A": "यशाची सुरुवात",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.28",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Aaple Bhavishya"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "भविष्य (Future) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "येणारा काळ/उद्याचा दिवस",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गेलेला काळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आताच",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "येणारा काळ/उद्याचा दिवस"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "आपले भविष्य उज्ज्वल करण्यासाठी काय करावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "अभ्यास आणि कष्ट",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "झोप",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "टीव्ही बघणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "भांडण करणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "अभ्यास आणि कष्ट"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "तुम्ही मोठे होऊन कोण होणार?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "डॉक्टर/इंजिनियर/शिक्षक/शेतकरी (स्वप्न)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चोर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आळशी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "डॉक्टर/इंजिनियर/शिक्षक/शेतकरी (स्वप्न)"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "झाडे लावली तर भविष्य कसे असेल?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सुंदर आणि निरोगी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "ओसाड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भयानक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गरम",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सुंदर आणि निरोगी"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "प्रदूषण वाढले तर भविष्य कसे असेल?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "धोकादायक/अंधकारमय",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चांगले",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मजेचे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सुगंधी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "धोकादायक/अंधकारमय"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "पाणी संपले तर भविष्यात काय होईल?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जीवन संपेल/युद्ध होईल",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मजा येईल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दूध मिळेल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जीवन संपेल/युद्ध होईल"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "प्लास्टिकचा वापर भविष्यासाठी कसा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "घातक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चांगला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "उपयुक्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सुरक्षित",
+                    "is_correct": false
+                }
+            ],
+            "answer": "घातक"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "तुम्ही भविष्यात सायकल वापरणार का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, प्रदूषण टाळण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त कार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हेलिकॉप्टर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, प्रदूषण टाळण्यासाठी"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "सौर ऊर्जा (Solar Energy) भविष्यातील ऊर्जा आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, ती कधीही न संपणारी आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "महाग आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वायफळ आहे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, ती कधीही न संपणारी आहे"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "डिजिटल इंडिया (Digital India) मुळे काय बदलले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "व्यवहार सोपे झाले",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कामे वाढली",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "त्रास झाला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "व्यवहार सोपे झाले"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "रोबोट (Robot) भविष्यात काय करतील?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "माणसांची कामे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जेवण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोप",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खेळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "माणसांची कामे"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "आपल्या देशाचे भविष्य कोणाच्या हातात आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "विद्यार्थ्यांच्या/तरुणांच्या",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "म्हाताऱ्यांच्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "प्राण्यांच्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झाडांच्या",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विद्यार्थ्यांच्या/तरुणांच्या"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "बचत (Saving) भविष्यासाठी महत्त्वाची आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, अडचणीत उपयोगी पडते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खर्च करावा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "उधळपट्टी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, अडचणीत उपयोगी पडते"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "वृक्षवल्ली आम्हा सोयरे -",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वनचरे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाहुणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शत्रू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मित्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वनचरे"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "भविष्य सुधारण्यासाठी वर्तमानात काय करावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चांगले कर्म/मेहनत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आळस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोप",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गप्पा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चांगले कर्म/मेहनत"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "शिक्षण घेतल्याने भविष्य सुधरते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कदाचित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वाईट होते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "आरोग्य सांभाळणे भविष्यासाठी गरजेचे आहे.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कशाला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बघू",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "सेंद्रिय शेती (Organic Farming) भविष्याची गरज आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, विषमुक्त अन्नासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रासायनिक खते बरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीही चालेल",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, विषमुक्त अन्नासाठी"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "भविष्यात गाड्या कशावर चालतील?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "इलेक्ट्रिसिटी/बॅटरीवर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाण्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "हवेवर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "डिझेलवर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "इलेक्ट्रिसिटी/बॅटरीवर"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "चांद्रयान (Chandrayaan) मोहीम कशासाठी होती?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चंद्राचा अभ्यास करण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फिरायला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जेवायला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपायला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चंद्राचा अभ्यास करण्यासाठी"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "मंगळ ग्रहावर माणूस वस्ती करू शकेल का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रयत्न सुरू आहेत (भविष्यात शक्य आहे)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "आताच आहे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "प्रयत्न सुरू आहेत (भविष्यात शक्य आहे)"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "कृत्रिम बुद्धिमत्ता (AI) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "यंत्रांची बुद्धी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "माणसाची बुद्धी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झाडाची बुद्धी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "देवाची बुद्धी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "यंत्रांची बुद्धी"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "AI मुळे भविष्यात काय होईल?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कामे जलद होतील",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कामे थांबतील",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "माणूस संपेल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कामे जलद होतील"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "मतदान (Voting) करणे भविष्यासाठी महत्त्वाचे आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, योग्य नेता निवडण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कशाला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सुट्टीसाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, योग्य नेता निवडण्यासाठी"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "‘स्वच्छ भारत’ हे उज्वल भविष्याचे लक्षण आहे.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कदाचित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माहीत नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "बिटी बियाणे (GM Seeds) भविष्यात धोकादायक ठरू शकतात.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "chaangle aahet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माहीत नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "जंगले तोडल्यामुळे काय संकट येईल?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ग्लोबल वॉर्मिंग (तापमान वाढ)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "थंड हवा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाऊस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बर्फ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ग्लोबल वॉर्मिंग (तापमान वाढ)"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "भविष्यात अन्न टंचाई भासेल का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लोकसंख्या वाढल्यास भासू शकते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खूप अन्न आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "देव देईल",
+                    "is_correct": false
+                }
+            ],
+            "answer": "लोकसंख्या वाढल्यास भासू शकते"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "लोकसंख्या नियंत्रण (Population Control) गरजेचे आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, साधनसंपत्ती पुरण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वाढू द्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काही फरक पडत नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, साधनसंपत्ती पुरण्यासाठी"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "भविष्यात शहरात गर्दी वाढेल का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कमी होईल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गाव होईल",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "स्मार्ट सिटी (Smart City) प्रकल्प कशासाठी आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शहरांचा विकास करण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गाण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नाचण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शहरांचा विकास करण्यासाठी"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "तुम्ही भविष्यातील -",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नागरिक आहात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "अतिथी आहात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शत्रू आहात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "प्राणी आहात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नागरिक आहात"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "तुमचे आदर्श (Role Model) कोण आहेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एपीजे अब्दुल कलाम/शिवाजी महाराज",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "सिने नट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गुंड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कोणीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एपीजे अब्दुल कलाम/शिवाजी महाराज"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "डॉ. कलाम यांनी कोणते स्वप्न पाहिले होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "व्हिजन २०२० (प्रगत भारत)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "युद्ध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गरिबी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "भूक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "व्हिजन २०२० (प्रगत भारत)"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "भविष्यात युद्ध (War) व्हावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही, शांतता हवी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मजा येते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शस्त्रांसाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही, शांतता हवी"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "‘वसुधैव कुटुंबकम्’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "संपूर्ण जग (पृथ्वी) हे एक कुटुंब आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "माझे घर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "माझे गाव",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माझा देश",
+                    "is_correct": false
+                }
+            ],
+            "answer": "संपूर्ण जग (पृथ्वी) हे एक कुटुंब आहे"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "भविष्यात पाण्याची बाटली किती रुपयांना मिळेल?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खूप महाग (पाणी जपले नाही तर)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्वस्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फुकट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मिळणार नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खूप महाग (पाणी जपले नाही तर)"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "ऑक्सिजन विकत घ्यावा लागेल का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "झाडे तोडली तर हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "हवेत आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कधीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "झाडे तोडली तर हो"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "तुम्ही प्रदूषण कमी करण्यासाठी काय कराल?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "झाडे लावेन/कचरा कमी करेन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "प्रदूषण वाढवेन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गाड्या चालवेन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "झाडे लावेन/कचरा कमी करेन"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "भविष्यात पुस्तके असतील का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ई-बुक्स (E-books) असतील",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नसतील",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दगड असतील",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पाने असतील",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ई-बुक्स (E-books) असतील"
+        },
+        {
+            "question_id": 41,
+            "question_type": "SHORT",
+            "question": "आजचा अभ्यास उद्याचे काय ठरवतो?",
+            "answer": "भविष्य."
+        },
+        {
+            "question_id": 42,
+            "question_type": "SHORT",
+            "question": "वेळ कोणासाठी थांबते का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 43,
+            "question_type": "SHORT",
+            "question": "गेलेली वेळ परत येते का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 44,
+            "question_type": "SHORT",
+            "question": "म्हणून वेळेचा सदुपयोग करावा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 45,
+            "question_type": "SHORT",
+            "question": "नियोजन (Planning) केल्याने काय होते?",
+            "answer": "काम सोपे होते/यश मिळते."
+        },
+        {
+            "question_id": 46,
+            "question_type": "SHORT",
+            "question": "तुम्ही भविष्याचे नियोजन करता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 47,
+            "question_type": "SHORT",
+            "question": "बचत खात्यात (Savings Account) पैसे का ठेवतात?",
+            "answer": "भविष्यासाठी."
+        },
+        {
+            "question_id": 48,
+            "question_type": "SHORT",
+            "question": "एलआयसी (LIC) ची टॅगलाईन काय आहे?",
+            "answer": "जिंदगी के साथ भी, जिंदगी के बाद भी."
+        },
+        {
+            "question_id": 49,
+            "question_type": "SHORT",
+            "question": "विमा (Insurance) काढणे गरजेचे आहे का?",
+            "answer": "हो, सुरक्षेसाठी."
+        },
+        {
+            "question_id": 50,
+            "question_type": "SHORT",
+            "question": "भविष्यात कोणती भाषा महत्त्वाची असेल?",
+            "answer": "इंग्रजी आणि संगणक भाषा."
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "तरीही मातृभाषा (मराठी) विसरावी का?",
+            "answer": "नाही, ती आपली ओळख आहे."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "संस्कृती जपली पाहिजे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "जुनी मंदिरे/किल्ले जपावेत.",
+            "answer": "हो, तो आपला वारसा आहे."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "भविष्यात कोणती वाहने उडतील?",
+            "answer": "ड्रोन टॅक्सी (Drone Taxi)."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "ड्रोनचा वापर कशासाठी वाढेल?",
+            "answer": "वस्तू पोहोचवण्यासाठी/शेतीसाठी/निगराणीसाठी."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "तुम्ही कोडिंग (Coding) शिकता का?",
+            "answer": "हो, संगणकासाठी."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "भविष्यात ऑनलाइन शिक्षण वाढेल का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "वर्क फ्रॉम होम (Work from Home) म्हणजे काय?",
+            "answer": "घरून काम करणे."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "इंटरनेटशिवाय भविष्य कसे असेल?",
+            "answer": "कठीण/अशक्य."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "वाय-फाय (Wi-Fi) म्हणजे काय?",
+            "answer": "बिनतारी इंटरनेट."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "५जी (5G) आणि ६जी (6G) काय आहेत?",
+            "answer": "वेगवान इंटरनेट."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "मोबाइलचा अतिवापर भविष्यात काय करेल?",
+            "answer": "डोळे आणि मेंदू खराब करेल."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "म्हणून मोबाइल जपून वापरावा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "सायबर गुन्हे (Cyber Crime) म्हणजे काय?",
+            "answer": "ऑनलाइन फसवणूक."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "पासवर्ड (Password) कोणाला सांगावा का?",
+            "answer": "नाही, सुरक्षित ठेवावा."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "ओटीपी (OTP) शेअर करावा का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "बँकेतून बोलतोय असे सांगून फसवतात का?",
+            "answer": "हो, सावध राहावे."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "अनोळखी लिंकवर क्लिक करावे का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "भविष्यात शेती कशी असेल?",
+            "answer": "हायटेक/यंत्रांची."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "हायड्रोपोनिक्स (Hydroponics) म्हणजे काय?",
+            "answer": "मातीशिवाय शेती (पाण्यात)."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "व्हर्टिकल फार्मिंग (Vertical Farming) म्हणजे काय?",
+            "answer": "उभी शेती (इमारतीत)."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "हे भविष्यात गरजेचे आहे का?",
+            "answer": "हो, जमीन कमी पडेल म्हणून."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "भविष्यात कोणते आजार वाढतील?",
+            "answer": "मानसिक ताण/लठ्ठपणा."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "त्यासाठी काय उपाय आहे?",
+            "answer": "योग/व्यायाम/ध्यान."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "योग (Yoga) केल्याने भविष्य सुखी होते.",
+            "answer": "हो, निरोगी राहते."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "सूर्य नमस्कार रोज घालावेत.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "मैदानी खेळ खेळावेत.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "व्हिडिओ गेम कमी खेळावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "भविष्यात अंतराळ पर्यटन (Space Tourism) सुरू होईल का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "तुम्हाला चंद्रावर जायला आवडेल का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "मंगळ ग्रहाचा रंग कोणता?",
+            "answer": "लाल."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "इस्रो (ISRO) काय आहे?",
+            "answer": "भारताची अंतराळ संस्था."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "शास्रज्ञ (Scientist) नवीन शोध लावतात.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "तुम्ही बाल वैज्ञानिक आहात का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "प्रश्न विचारणे विज्ञानाची पहिली पायरी आहे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "अंधश्रद्धा (Superstition) भविष्यास घातक आहे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "वैज्ञानिक दृष्टिकोन ठेवावा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "प्लॅस्टिक बंदी (Plastic Ban) योग्य आहे का?",
+            "answer": "हो, पर्यावरणासाठी."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "कपड्याच्या पिशव्या वापरा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "घनकचरा व्यवस्थापन (Waste Management) महत्त्वाचे आहे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "कचऱ्यापासून वीज बनवता येते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "टाकाऊतून टिकाऊ (Best from Waste) बनवावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "भविष्यात पेट्रोल संपेल का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "म्हणून अपारंपरिक ऊर्जा वापरावी.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "विजेची गाडी (Electric Vehicle) भविष्यात दिसेल.",
+            "answer": "हो, सगळीकडे."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "हायड्रोजन कार (Hydrogen Car) प्रदूषण करते का?",
+            "answer": "नाही (फक्त पाणी बाहेर पडते)."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "भविष्यात रोबोट शिक्षक असतील का?",
+            "answer": "असू शकतात, पण माणुसकी नसेल."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "शिक्षकाची जागा यत्र घेऊ शकते का?",
+            "answer": "नाही, भावनांमुळे."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "एकदा गेलेली संधी परत येते का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "संधीचे सोने करावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "अपयश ही यशाची पाहिली पायरी आहे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "प्रयत्नांती परमेश्वर.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "कष्टाचे फळ नक्की मिळते.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "शॉर्टकट (Shortcut) ने यश मिळते का?",
+            "answer": "नाही/तात्पुरते."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "भ्रष्टाचार (Corruption) देश बुडवतो.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "तुम्ही लाच (Bribe) घेणार का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "तुम्ही लाच देणार का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "एक जबाबदार नागरिक बना.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "संविधानाचे पालन करा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "लोकशाही (Democracy) जिवंत ठेवा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "मतदानाचा हक्क बजावा.",
+            "answer": "हो (१८ वर्षांनंतर)."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "‘सारे जहाँ से अच्छा -’",
+            "answer": "हिंदोस्ताँ हमारा."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "भारत महासत्ता (Superpower) बनेल का?",
+            "answer": "हो, आपल्या हातात आहे."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "जय जवान, जय किसान, जय विज्ञान.",
+            "answer": "जय अनुसंधान."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "भविष्य उज्ज्वल आहे.",
+            "answer": "हो, नक्कीच."
+        }
+    ]
 }
