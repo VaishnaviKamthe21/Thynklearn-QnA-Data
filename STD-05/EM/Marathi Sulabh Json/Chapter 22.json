@@ -1,585 +1,1777 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "chapter_number": 22,
-  "chapter_name": "स्वच्छता आपली जबाबदारी",
-  "mode": "Outside Textbook | Max Safe Unique",
-  "counts": {
-    "one_line_questions": 65,
-    "mcqs": 35
-  },
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "‘स्वच्छता आपली जबाबदारी’ या धड्याचा मुख्य संदेश काय आहे?",
-      "answer": "स्वच्छता राखणे ही प्रत्येकाची जबाबदारी आहे."
-    },
-    {
-      "id": 2,
-      "question": "स्वच्छता म्हणजे काय?",
-      "answer": "आजूबाजूचा परिसर स्वच्छ ठेवणे."
-    },
-    {
-      "id": 3,
-      "question": "स्वच्छता का आवश्यक आहे?",
-      "answer": "आरोग्य टिकवण्यासाठी."
-    },
-    {
-      "id": 4,
-      "question": "स्वच्छतेचा आरोग्यावर काय परिणाम होतो?",
-      "answer": "रोग टाळले जातात."
-    },
-    {
-      "id": 5,
-      "question": "घरातील स्वच्छता का महत्त्वाची आहे?",
-      "answer": "कुटुंब निरोगी राहते."
-    },
-    {
-      "id": 6,
-      "question": "शाळेतील स्वच्छता का आवश्यक आहे?",
-      "answer": "विद्यार्थ्यांचे आरोग्य चांगले राहते."
-    },
-    {
-      "id": 7,
-      "question": "स्वच्छता न राखल्यास काय होते?",
-      "answer": "रोग वाढतात."
-    },
-    {
-      "id": 8,
-      "question": "स्वच्छतेमुळे वातावरण कसे राहते?",
-      "answer": "स्वच्छ आणि आरोग्यदायी."
-    },
-    {
-      "id": 9,
-      "question": "कचरा योग्य ठिकाणी टाकणे का आवश्यक आहे?",
-      "answer": "प्रदूषण टाळण्यासाठी."
-    },
-    {
-      "id": 10,
-      "question": "स्वच्छता सवयी कशा लावाव्यात?",
-      "answer": "नियमित सरावाने."
-    },
-    {
-      "id": 11,
-      "question": "हात धुण्याची सवय का महत्त्वाची आहे?",
-      "answer": "जंतुसंसर्ग टाळण्यासाठी."
-    },
-    {
-      "id": 12,
-      "question": "स्वच्छ पाणी वापरणे का आवश्यक आहे?",
-      "answer": "आरोग्यासाठी."
-    },
-    {
-      "id": 13,
-      "question": "स्वच्छतेमुळे समाजाला काय फायदा होतो?",
-      "answer": "रोग कमी होतात."
-    },
-    {
-      "id": 14,
-      "question": "स्वच्छता राखण्यासाठी वेळ का द्यावा?",
-      "answer": "आरोग्य सुरक्षित राहावे म्हणून."
-    },
-    {
-      "id": 15,
-      "question": "स्वच्छतेचा पर्यावरणावर काय परिणाम होतो?",
-      "answer": "प्रदूषण कमी होते."
-    },
-    {
-      "id": 16,
-      "question": "रस्त्यांची स्वच्छता का महत्त्वाची आहे?",
-      "answer": "सार्वजनिक आरोग्यासाठी."
-    },
-    {
-      "id": 17,
-      "question": "कचऱ्याचे वर्गीकरण का करावे?",
-      "answer": "पुनर्वापरासाठी."
-    },
-    {
-      "id": 18,
-      "question": "स्वच्छतेमुळे व्यक्तिमत्त्व कसे घडते?",
-      "answer": "शिस्तबद्ध सवय लागते."
-    },
-    {
-      "id": 19,
-      "question": "स्वच्छता राखणे ही सामाजिक जबाबदारी का आहे?",
-      "answer": "सर्वांच्या आरोग्यासाठी."
-    },
-    {
-      "id": 20,
-      "question": "स्वच्छतेमुळे आजार कसे टाळता येतात?",
-      "answer": "जंतू नष्ट होतात."
-    },
-    {
-      "id": 21,
-      "question": "स्वच्छता आणि शिस्त यांचा काय संबंध आहे?",
-      "answer": "शिस्तीत स्वच्छता टिकते."
-    },
-    {
-      "id": 22,
-      "question": "स्वच्छतेमुळे मनावर काय परिणाम होतो?",
-      "answer": "मन प्रसन्न राहते."
-    },
-    {
-      "id": 23,
-      "question": "स्वच्छतेसाठी पाणी वाचवणे का आवश्यक आहे?",
-      "answer": "संसाधने जपण्यासाठी."
-    },
-    {
-      "id": 24,
-      "question": "स्वच्छतेच्या सवयी लहानपणी का लावाव्यात?",
-      "answer": "त्या आयुष्यभर टिकतात."
-    },
-    {
-      "id": 25,
-      "question": "स्वच्छतेमुळे समाजात कोणता बदल होतो?",
-      "answer": "जागृती वाढते."
-    },
-    {
-      "id": 26,
-      "question": "स्वच्छता राखण्यासाठी काय टाळावे?",
-      "answer": "कचरा पसरवणे."
-    },
-    {
-      "id": 27,
-      "question": "स्वच्छतेमुळे रोगांचा प्रसार कसा थांबतो?",
-      "answer": "जंतुसंसर्ग कमी होतो."
-    },
-    {
-      "id": 28,
-      "question": "स्वच्छतेत प्रत्येकाचा सहभाग का आवश्यक आहे?",
-      "answer": "मोठा बदल घडवण्यासाठी."
-    },
-    {
-      "id": 29,
-      "question": "स्वच्छतेमुळे शाळेतील वातावरण कसे बदलते?",
-      "answer": "आनंदी आणि सुरक्षित होते."
-    },
-    {
-      "id": 30,
-      "question": "स्वच्छता राखण्यासाठी जनजागृती का आवश्यक आहे?",
-      "answer": "लोकांना समजण्यासाठी."
-    },
-    {
-      "id": 31,
-      "question": "स्वच्छतेमुळे आरोग्य खर्च कसा कमी होतो?",
-      "answer": "आजार कमी होतात."
-    },
-    {
-      "id": 32,
-      "question": "स्वच्छतेसाठी सार्वजनिक ठिकाणी काय करावे?",
-      "answer": "कचरा डब्यात टाकावा."
-    },
-    {
-      "id": 33,
-      "question": "स्वच्छतेमुळे पर्यावरण कसे सुरक्षित होते?",
-      "answer": "प्रदूषण कमी होते."
-    },
-    {
-      "id": 34,
-      "question": "स्वच्छता राखण्यासाठी घरी काय करावे?",
-      "answer": "नियमित साफसफाई."
-    },
-    {
-      "id": 35,
-      "question": "स्वच्छतेमुळे आत्मविश्वास कसा वाढतो?",
-      "answer": "स्वतःबद्दल चांगले वाटते."
-    },
-    {
-      "id": 36,
-      "question": "स्वच्छतेमुळे रोगप्रतिबंधक शक्ती कशी वाढते?",
-      "answer": "जंतूंपासून संरक्षण होते."
-    },
-    {
-      "id": 37,
-      "question": "स्वच्छतेत पाण्याची भूमिका काय आहे?",
-      "answer": "स्वच्छता राखण्यासाठी आवश्यक."
-    },
-    {
-      "id": 38,
-      "question": "स्वच्छतेमुळे समाजात शिस्त कशी वाढते?",
-      "answer": "नियम पाळले जातात."
-    },
-    {
-      "id": 39,
-      "question": "स्वच्छता राखण्यासाठी वेळापत्रक का आवश्यक आहे?",
-      "answer": "काम नियमित राहते."
-    },
-    {
-      "id": 40,
-      "question": "स्वच्छतेमुळे आजूबाजूचा परिसर कसा दिसतो?",
-      "answer": "स्वच्छ आणि सुंदर."
-    },
-    {
-      "id": 41,
-      "question": "स्वच्छतेमुळे जीवनमान कसे सुधारते?",
-      "answer": "आरोग्य चांगले राहते."
-    },
-    {
-      "id": 42,
-      "question": "स्वच्छतेसाठी स्वयंशिस्त का आवश्यक आहे?",
-      "answer": "सवय टिकवण्यासाठी."
-    },
-    {
-      "id": 43,
-      "question": "स्वच्छतेमुळे बालकांचे आरोग्य कसे सुरक्षित होते?",
-      "answer": "रोग कमी होतात."
-    },
-    {
-      "id": 44,
-      "question": "स्वच्छतेसाठी सामूहिक प्रयत्न का आवश्यक आहेत?",
-      "answer": "परिणाम मोठा होतो."
-    },
-    {
-      "id": 45,
-      "question": "स्वच्छतेमुळे सामाजिक जबाबदारीची जाणीव कशी वाढते?",
-      "answer": "सर्वांनी सहभाग घेतल्याने."
-    },
-    {
-      "id": 46,
-      "question": "स्वच्छतेमुळे पर्यावरणीय संतुलन कसे राखले जाते?",
-      "answer": "प्रदूषण कमी होते."
-    },
-    {
-      "id": 47,
-      "question": "स्वच्छतेसाठी कचऱ्याचा पुनर्वापर का करावा?",
-      "answer": "संसाधने वाचवण्यासाठी."
-    },
-    {
-      "id": 48,
-      "question": "स्वच्छतेमुळे रोगांचा धोका कसा कमी होतो?",
-      "answer": "जंतू कमी होतात."
-    },
-    {
-      "id": 49,
-      "question": "स्वच्छतेमुळे समाजात सौहार्द कसे वाढते?",
-      "answer": "स्वच्छ वातावरणामुळे."
-    },
-    {
-      "id": 50,
-      "question": "स्वच्छतेत मुलांची भूमिका काय आहे?",
-      "answer": "चांगल्या सवयी अंगीकारणे."
-    },
-    {
-      "id": 51,
-      "question": "स्वच्छतेमुळे गाव किंवा शहर कसे बदलते?",
-      "answer": "स्वच्छ आणि निरोगी होते."
-    },
-    {
-      "id": 52,
-      "question": "स्वच्छतेसाठी शाळेने काय करावे?",
-      "answer": "स्वच्छतेचे उपक्रम."
-    },
-    {
-      "id": 53,
-      "question": "स्वच्छतेमुळे आपत्तींचा धोका कसा कमी होतो?",
-      "answer": "कचरा साचत नाही."
-    },
-    {
-      "id": 54,
-      "question": "स्वच्छतेमुळे समाजात आरोग्य जागरूकता कशी वाढते?",
-      "answer": "लोक सवयी बदलतात."
-    },
-    {
-      "id": 55,
-      "question": "स्वच्छता राखण्यासाठी स्वतःपासून सुरुवात का करावी?",
-      "answer": "उदाहरण घालण्यासाठी."
-    },
-    {
-      "id": 56,
-      "question": "स्वच्छतेमुळे जीवनात समाधान कसे मिळते?",
-      "answer": "आरोग्य सुरक्षित राहते."
-    },
-    {
-      "id": 57,
-      "question": "स्वच्छतेमुळे भविष्यासाठी काय लाभ होतो?",
-      "answer": "निरोगी पिढी तयार होते."
-    },
-    {
-      "id": 58,
-      "question": "स्वच्छता ही सवय का महत्त्वाची आहे?",
-      "answer": "ती आयुष्य घडवते."
-    },
-    {
-      "id": 59,
-      "question": "स्वच्छतेमुळे समाजात सकारात्मकता कशी वाढते?",
-      "answer": "स्वच्छ वातावरणामुळे."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "‘स्वच्छता आपली जबाबदारी’ या धड्याचा मुख्य विषय कोणता आहे?",
-      "options": {
-        "A": "स्वच्छता",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "स्पर्धा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 2,
-      "question": "स्वच्छता का आवश्यक आहे?",
-      "options": {
-        "A": "आरोग्यासाठी",
-        "B": "वेळ घालवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 3,
-      "question": "स्वच्छता न राखल्यास काय होते?",
-      "options": {
-        "A": "रोग वाढतात",
-        "B": "आरोग्य सुधारते",
-        "C": "आनंद वाढतो",
-        "D": "काहीच नाही"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 4,
-      "question": "हात धुण्याची सवय का आवश्यक आहे?",
-      "options": {
-        "A": "जंतू टाळण्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 5,
-      "question": "कचरा योग्य ठिकाणी का टाकावा?",
-      "options": {
-        "A": "प्रदूषण टाळण्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 6,
-      "question": "स्वच्छतेमुळे वातावरण कसे राहते?",
-      "options": {
-        "A": "आरोग्यदायी",
-        "B": "गोंधळलेले",
-        "C": "अस्वच्छ",
-        "D": "धोकादायक"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 7,
-      "question": "स्वच्छतेमुळे समाजाला काय फायदा होतो?",
-      "options": {
-        "A": "रोग कमी",
-        "B": "रोग वाढतात",
-        "C": "गोंधळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "question": "स्वच्छता ही कोणाची जबाबदारी आहे?",
-      "options": {
-        "A": "सर्वांची",
-        "B": "फक्त सरकारची",
-        "C": "फक्त शाळेची",
-        "D": "कोणाचीही नाही"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 9,
-      "question": "कचऱ्याचे वर्गीकरण का करावे?",
-      "options": {
-        "A": "पुनर्वापरासाठी",
-        "B": "वेळ घालवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "स्वच्छतेमुळे मनावर काय परिणाम होतो?",
-      "options": {
-        "A": "प्रसन्नता",
-        "B": "भीती",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 11,
-      "question": "स्वच्छतेमुळे पर्यावरणावर काय परिणाम होतो?",
-      "options": {
-        "A": "प्रदूषण कमी",
-        "B": "प्रदूषण वाढते",
-        "C": "गोंधळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "question": "स्वच्छतेसाठी पाणी वाचवणे का आवश्यक आहे?",
-      "options": {
-        "A": "संसाधने जपण्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 13,
-      "question": "स्वच्छतेमुळे शाळेतील वातावरण कसे बदलते?",
-      "options": {
-        "A": "सुरक्षित",
-        "B": "धोकादायक",
-        "C": "अस्वच्छ",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "स्वच्छतेसाठी जनजागृती का आवश्यक आहे?",
-      "options": {
-        "A": "लोकांना समजण्यासाठी",
-        "B": "वेळ घालवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 15,
-      "question": "स्वच्छतेमुळे आरोग्य खर्च कसा कमी होतो?",
-      "options": {
-        "A": "आजार कमी",
-        "B": "आजार वाढतात",
-        "C": "गोंधळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "question": "स्वच्छतेत पाण्याची भूमिका काय आहे?",
-      "options": {
-        "A": "स्वच्छता राखणे",
-        "B": "प्रदूषण",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "स्वच्छतेमुळे समाजात शिस्त कशी वाढते?",
-      "options": {
-        "A": "नियम पाळल्याने",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "स्वच्छतेसाठी सामूहिक प्रयत्न का आवश्यक आहेत?",
-      "options": {
-        "A": "मोठा बदल",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "स्वच्छतेमुळे गाव किंवा शहर कसे बदलते?",
-      "options": {
-        "A": "निरोगी",
-        "B": "अस्वच्छ",
-        "C": "धोकादायक",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 20,
-      "question": "स्वच्छतेमुळे भविष्यासाठी काय लाभ होतो?",
-      "options": {
-        "A": "निरोगी पिढी",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 21,
-      "question": "स्वच्छतेत मुलांची भूमिका काय आहे?",
-      "options": {
-        "A": "चांगल्या सवयी",
-        "B": "उपेक्षा",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "question": "स्वच्छतेमुळे जीवनमान कसे सुधारते?",
-      "options": {
-        "A": "आरोग्य सुधारते",
-        "B": "आरोग्य बिघडते",
-        "C": "गोंधळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 23,
-      "question": "स्वच्छतेसाठी स्वयंशिस्त का आवश्यक आहे?",
-      "options": {
-        "A": "सवय टिकते",
-        "B": "वेळ वाढतो",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "स्वच्छतेमुळे समाजात सकारात्मकता कशी वाढते?",
-      "options": {
-        "A": "स्वच्छ वातावरण",
-        "B": "भीती",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "question": "स्वच्छतेसाठी स्वतःपासून सुरुवात का करावी?",
-      "options": {
-        "A": "उदाहरण घालण्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.22",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Swachhata Aapli Jababdari"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "स्वच्छता (Cleanliness) ही कोणाची जबाबदारी आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आपल्या सर्वांची",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त सरकारची",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त शाळेची",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त आईची",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आपल्या सर्वांची"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "कचरा (Garbage) कुठे टाकावा?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कचरापेटीत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रस्त्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खिडकीतून बाहेर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नदीमध्ये",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कचरापेटीत"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "ओला कचरा कशासाठी वापरता येतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खत बनवण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जाळण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नदीत टाकण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खत बनवण्यासाठी"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "सुका कचरा (Dry Waste) काय करता येतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पुनर्वापर (Recycle)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "सडतो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खत बनते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खाता येतो",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पुनर्वापर (Recycle)"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "प्लास्टिक पिशव्यांचा वापर करावा का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही, त्या पर्यावरणास हानिकारक आहेत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीतरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खूप",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही, त्या पर्यावरणास हानिकारक आहेत"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "प्लास्टिक ऐवजी काय वापरावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कापडी पिशवी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "हाताने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "लोखंडी पेटी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कापडी पिशवी"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "उघड्यावर शौचास बसल्याने काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आजार पसरतात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खत मिळते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शेत सुधारते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चांगले असते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आजार पसरतात"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "गावातील लोकांनी काय वापरावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शौचालय",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रस्ता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नदीकाठ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शेताचा बांध",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शौचालय"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "अस्वच्छतेमुळे कोणते आजार होतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कॉलरा/टायफॉइड/डेंग्यू",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कॅन्सर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "हृदयविकार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मधुमेह",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कॉलरा/टायफॉइड/डेंग्यू"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "डासांची पैदास कोठे होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "साचलेल्या पाण्यात/घाणीत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्वच्छ पाण्यात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "हवेत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "उन्हात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "साचलेल्या पाण्यात/घाणीत"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "आपले घर कसे ठेवावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वच्छ आणि नीटनेटके",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घाणेरडे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पसरलेले",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अंधारे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्वच्छ आणि नीटनेटके"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "शाळा स्वच्छ ठेवण्याची जबाबदारी कोणाची?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "विद्यार्थी आणि शिक्षकांची",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त शिपायाची",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मुख्याध्यापकांची",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पालकांची",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विद्यार्थी आणि शिक्षकांची"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "वर्गात कागदाचे तुकडे टाकावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीतरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चूक झाल्यावर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "परिसर स्वच्छ असल्यास मन कसे राहते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रसन्न",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दुःखी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रागीट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कंटाळवाणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "प्रसन्न"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "गाडगे बाबांनी काय संदेश दिला?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वच्छतेचा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "युद्धाचा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोपण्याचा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जेवण्याचा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्वच्छतेचा"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "गाडगे बाबा हातात काय घ्यायचे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "झाडू",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तलवार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "काठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पुस्तक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "झाडू"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "‘स्वच्छ भारत अभियान’ कोणी सुरू केले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "भारत सरकारने (पंतप्रधानांनी)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शाळेने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गावाने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अमेरिकेने",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भारत सरकारने (पंतप्रधानांनी)"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "गावाचे सांडपाणी गटारात जावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रस्त्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "घरात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "गटारे उघडी असावीत की झाकलेली?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "झाकलेली",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "उघडी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तुंबलेली",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मोडलेली",
+                    "is_correct": false
+                }
+            ],
+            "answer": "झाकलेली"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "पावसाळ्यात पाणी साचल्यास काय टाकावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कीटकनाशक/तेल",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "साखर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मीठ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दूध",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कीटकनाशक/तेल"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "स्वच्छ हात, निरोगी -",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शरीर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गाव",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "देश",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शरीर"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "‘Cleanliness is next to Godliness’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वच्छता तिथे देव असतो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "देवळात जाणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त आंघोळ करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पूजा करणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्वच्छता तिथे देव असतो"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "आपल्या गावात घंटागाडी येते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "माहीत नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कधीतरी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "घंटागाडीत काय टाकावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वर्गीकृत कचरा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दगड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "माती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पाणी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वर्गीकृत कचरा"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "पुर्नवापर (Reuse) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वस्तू पुन्हा वापरणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फेकून देणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तोडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नवीन घेणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वस्तू पुन्हा वापरणे"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "रिड्यूस (Reduce) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कचरा कमी करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वाढवणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "साठवणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जाळणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कचरा कमी करणे"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "रिसायकल (Recycle) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पुनर्प्रक्रिया करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फेकणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "विकणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कापणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पुनर्प्रक्रिया करणे"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "सार्वजनिक ठिकाणी थुंकावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही, दंड होऊ शकतो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कोपऱ्यात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बिनधास्त",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही, दंड होऊ शकतो"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "सार्वजनिक भिंती खराब कराव्या का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चित्र काढावी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नाव लिहावे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "ऐतिहासिक वास्तू (किल्ले) खराब करावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नाव कोरून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कचरा करून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "स्वच्छतादूत कोणाला म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वच्छतेचा प्रसार करणाऱ्याला",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कचरा करणाऱ्याला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दुकानदाराला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पोलिसाला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्वच्छतेचा प्रसार करणाऱ्याला"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "संसर्गजन्य रोग (Contagious Diseases) कसे पसरतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "संपर्कातून/हवेतून/पाण्यातून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "एका जागी बसून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": " टीव्ही बघून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मोबाईलवरून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "संपर्कातून/हवेतून/पाण्यातून"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "माशी कशावर बसते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "घाणीवर आणि अन्नावर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त फुलावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त भिंतीवर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त कपडावर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "घाणीवर आणि अन्नावर"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "म्हणून अन्न कसे ठेवावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "झाकून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "उघडे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "उन्हात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जमिनीवर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "झाकून"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "पाणी शुद्ध करण्यासाठी काय वापरतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तुरटी/क्लोरिन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "साखर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मीठ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रंग",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तुरटी/क्लोरिन"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "निर्मल ग्राम पुरस्कार कशासाठी देतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गावाच्या स्वच्छतेसाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शाळेसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खेळासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गाण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गावाच्या स्वच्छतेसाठी"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "संत तुकडोजी महाराज यांनी काय लिहिले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ग्रामगीता",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "ज्ञानेश्वरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दासबोध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अभंग",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ग्रामगीता"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "ग्रामगीतेत कशाचे महत्त्व सांगितले आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ग्रामस्वच्छतेचे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शहराचे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "राजवाड्याचे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "युद्ध याचे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ग्रामस्वच्छतेचे"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "तुमची खोली कोण आवरते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मी स्वतः",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आई",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "बाबा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नोकर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मी स्वतः"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "स्वच्छतेची सवय कधीपासून लावावी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लहानपणापासून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "म्हातारे झाल्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मोठे झाल्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "उद्यापासून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "लहानपणापासून"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "रस्त्यावर केळीचे साल टाकावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही, घसरून पडेल",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गायीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मजा म्हणून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही, घसरून पडेल"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "चॉकलेटचा कागद कुठे टाकावा?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कचरापेटीत/पॉकेटमध्ये (नंतर टाकण्यासाठी)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रस्त्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शाळेत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "bus मध्ये",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कचरापेटीत/पॉकेटमध्ये (नंतर टाकण्यासाठी)"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "नदीला लोकमाता का म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ती सर्वांना पाणी देते/स्वच्छ करते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "ती मोठी आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "ती वाहते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "ती देव आहे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ती सर्वांना पाणी देते/स्वच्छ करते"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "नदी स्वच्छ ठेवणे कोणाचे कर्तव्य आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नागरिकांचे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "माशांचे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पक्ष्यांचे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झाडांचे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नागरिकांचे"
+        },
+        {
+            "question_id": 45,
+            "question_type": "SHORT",
+            "question": "तुम्ही कचरा वेगळा करता का?",
+            "answer": "हो (ओला आणि सुका)."
+        },
+        {
+            "question_id": 46,
+            "question_type": "SHORT",
+            "question": "हिरव्या डब्यात कोणता कचरा टाकतात?",
+            "answer": "ओला कचरा."
+        },
+        {
+            "question_id": 47,
+            "question_type": "SHORT",
+            "question": "निळ्या डब्यात कोणता कचरा टाकतात?",
+            "answer": "सुका कचरा."
+        },
+        {
+            "question_id": 48,
+            "question_type": "SHORT",
+            "question": "लाल डब्यात कोणता कचरा टाकतात?",
+            "answer": "घातक/इलेक्ट्रॉनिक कचरा."
+        },
+        {
+            "question_id": 49,
+            "question_type": "SHORT",
+            "question": "बायोगॅस कशापासून बनतो?",
+            "answer": "शेण आणि ओल्या कचऱ्यापासून."
+        },
+        {
+            "question_id": 50,
+            "question_type": "SHORT",
+            "question": "कंपोस्ट खत बवण्याचा खड्डा घराबाहेर असावा का?",
+            "answer": "हो (जागा असल्यास)."
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "गांडूळ खत (Vermicompost) म्हणजे काय?",
+            "answer": "गांडूळाच्या मदतीने बनवलेले खत."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "गांडूळ शेतकऱ्याचा कोण आहे?",
+            "answer": "मित्र."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "प्लास्टिक कुजायला किती वर्षे लागतात?",
+            "answer": "हजारो वर्षे."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "म्हणून प्लास्टिक वापरावे का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "थर्माकोल (Thermocol) पर्यावरणासाठी चांगले आहे का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "गणपती सजावटीत थर्माकोल वापरावे का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "जुने कपडे काय करावे?",
+            "answer": "गरजूंना द्यावे/पिशवी बनवावी."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "जुनी पुस्तके काय करावी?",
+            "answer": "वाचनालयाला द्यावी/रद्दीत द्यावी."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "तुम्ही रोज आंघोळ करता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "स्वच्छ कपडे वापरता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "शाळेचा गणवेश स्वच्छ असावा का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "केस विंचरलेले असावेत का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "पायातील मोजे (Socks) रोज धुवावे का?",
+            "answer": "हो, वास येतो."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "बूट पॉलिश करावे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "दप्तर (School bag) स्वच्छ ठेवावे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "पुस्तके फाडावीत का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "वहीची पाने फाडून विमान बनवावे का?",
+            "answer": "नाही, कागद वाया जातो."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "भिंतीवर पाय लावू नये.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "सार्वजनिक शौचालय (Public Toilet) वापरल्यावर पाणी टाकावे का?",
+            "answer": "हो, भरपूर."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "फ्लश (Flush) वापरावा का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "वॉश बेसिनमध्ये थुंकावे का?",
+            "answer": "नाही, फक्त चूळ भरावी."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "नळ चालू ठेवू नये.",
+            "answer": "हो, पाणी वाया जाते."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "पिण्याचे पाणी झाकून ठेवावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "वाढीव नखे आरोग्याला घातक आहेत.",
+            "answer": "हो, पोटात मळ जातो."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "जेवण्यापूर्वी हात साबणाने धुवावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "बाहेरचे उघडे पदार्थ (Open food) खाऊ नये.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "माशीला ‘रोगराईची वाहक’ म्हणतात.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "डासांना पळवण्यासाठी काय लावावे?",
+            "answer": "मच्छरदाणी/गांध."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "पाणी उकळून गाळून घ्यावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "गढूळ पाणी तुरटीने निवळते.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "कावीळ (Jaundice) कशामुळे होतो?",
+            "answer": "दूषित पाण्यामुळे."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "हगवण (Diarrhea) कशामुळे होते?",
+            "answer": "दूषित अन्न/पाण्यामुळे."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "ओआरएस (ORS) कधी देतात?",
+            "answer": "जुलाब झाल्यावर (निर्जलीकरण रोखण्यासाठी)."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "मीठ-साखर-पाणी म्हणजे काय?",
+            "answer": "जीवनल (Homemade ORS)."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "गावात फवारणी (Fumigation) कशासाठी करतात?",
+            "answer": "डास मारण्यासाठी."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "गावात गटार योजना हवी का?",
+            "answer": "हो, भूमिगत गटार."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "शोषण खड्डा (Soak Pit) कशासाठी असतो?",
+            "answer": "सांडपाणी जिरवण्यासाठी."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "धूर (Smoke) आरोग्याला चांगला असतो का?",
+            "answer": "नाही, फुफ्फुसाला त्रास होतो."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "चुलीचा धूर कमी करण्यासाठी काय असते?",
+            "answer": "धुराडे (Chimney)."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "गोबर गॅस वापरल्याने धूर होतो का?",
+            "answer": "नाही/कमी होतो."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "निर्धूर चूल (Smokeless Chulha) वापरावी का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "प्रदूषण मुक्त दिवाळी साजरी करावी.",
+            "answer": "हो (फटाके न फोडता)."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "ध्वनी प्रदूषण कशामुळे होते?",
+            "answer": "मोठ्या आवाजाचे स्पीकर/फटाके."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "हॉर्न (Horn) गरजेपुरता वाजवावा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "शांतता क्षेत्र (Silence Zone) कुठे असते?",
+            "answer": "शाळा/रुग्णालयाजवळ."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "तिथे हॉर्न वाजवू नये.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "तुम्ही स्वच्छता शपथ घेतली आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "ती पाळता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "परिसर स्वच्छ, सुंदर असावा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "झाडे हवेतील धूळ शोषून घेतात का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "त्यामुळे झाडे लावावीत.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "रस्त्याच्या कडेला झाडे का असतात?",
+            "answer": "सावली आणि शुद्ध हवेसाठी."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "वड/पिंपळ जास्त ऑक्सिजन देतात.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "तुळस घरात का लावतात?",
+            "answer": "औषधी आणि हवा शुद्धीकरणासाठी."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "घराच्या खिडक्या उघड्या ठेवाव्यात.",
+            "answer": "हो, हवा खेळती राहते."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "सूर्यप्रकाश जंतूनाशक आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "गोदड्या/उशा उन्हात का टाकतात?",
+            "answer": "जंतू मरण्यासाठी."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "पाणी शिळे असते का?",
+            "answer": "नाही, पण साठवून ठेवल्यास खराब होऊ शकते."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "माठाला नळ असावा.",
+            "answer": "हो, हात बुडवू नये म्हणून."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "ओगराळ्याने पाणी घ्यावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "पेल्याला (Glass) काठ असावे का?",
+            "answer": "नाही, उष्टा नको."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "एच्छिक (Voluntary) श्रमदान करावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "शाळा परिसर स्वच्छ ठेवावा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "मैदानावर दगड, काटे नसावेत.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "खेळताना इजा होऊ नये म्हणून स्वच्छता हवी.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "प्रथमोपचार पेटी (First Aid Box) जवळ असावी.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "जखम झाल्यास स्वच्छ धुवावी.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "डेटॉल (Antiseptic) लावावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "पट्टी बांधावी.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "धनुर्वात (Tetanus) इंजेक्शन घ्यावे.",
+            "answer": "हो, लोखंड लागल्यास."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "श्वानदंश (Dog bite) झाल्यास इंजेक्शन घ्यावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "सर्पदंश झाल्यास काय करावे?",
+            "answer": "दवाखान्यात न्यावे."
+        },
+        {
+            "question_id": 123,
+            "question_type": "SHORT",
+            "question": "चवाळ आणि गोधडी कोठे वापरतात?",
+            "answer": "झोपण्यासाठी (ग्रामीण भागात)."
+        },
+        {
+            "question_id": 124,
+            "question_type": "SHORT",
+            "question": "स्वच्छतेने लक्ष्मी येते असे म्हणतात.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 125,
+            "question_type": "SHORT",
+            "question": "अस्वच्छतेने दारिद्र्य येते.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 126,
+            "question_type": "SHORT",
+            "question": "तुम्ही देवाला काय फूल वाहता?",
+            "answer": "स्वच्छ आणि ताजे."
+        },
+        {
+            "question_id": 127,
+            "question_type": "SHORT",
+            "question": "देवाची मूर्ती स्वच्छ करता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 128,
+            "question_type": "SHORT",
+            "question": "मन स्वच्छ असावे का?",
+            "answer": "हो (निर्मळ)."
+        },
+        {
+            "question_id": 129,
+            "question_type": "SHORT",
+            "question": "सद्विचार (Good thoughts) मनाची स्वच्छता करतात.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 130,
+            "question_type": "SHORT",
+            "question": "वाईट विचार मनाचा कचरा आहेत.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 131,
+            "question_type": "SHORT",
+            "question": "तो कचरा काढून टाकावा.",
+            "answer": "हो, नक्कीच."
+        },
+        {
+            "question_id": 132,
+            "question_type": "SHORT",
+            "question": "ध्यान (Meditation) मनाची अंघोळ आहे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 133,
+            "question_type": "SHORT",
+            "question": "रोज प्रार्थना करावी.",
+            "answer": "हो, मनःशांतीसाठी."
+        }
+    ]
 }

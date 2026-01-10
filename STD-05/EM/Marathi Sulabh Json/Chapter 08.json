@@ -1,683 +1,1981 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "chapter_number": 8,
-  "chapter_name": "चित्रांशी मैत्री",
-  "mode": "Outside Textbook | Max Safe Unique",
-  "counts": {
-    "one_line_questions": 65,
-    "mcqs": 35
-  },
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "‘चित्रांशी मैत्री’ या धड्याचा मुख्य उद्देश काय आहे?",
-      "answer": "चित्रांकडे पाहून निरीक्षण आणि विचार करण्याची सवय लावणे हा उद्देश आहे."
-    },
-    {
-      "id": 2,
-      "question": "चित्रांकडे नीट पाहणे का महत्त्वाचे आहे?",
-      "answer": "चित्रातून अनेक अर्थ आणि माहिती मिळते."
-    },
-    {
-      "id": 3,
-      "question": "चित्र पाहिल्यावर काय लक्षात घ्यावे?",
-      "answer": "रंग, आकार आणि भावभावना लक्षात घ्याव्यात."
-    },
-    {
-      "id": 4,
-      "question": "चित्रांमुळे कल्पनाशक्ती कशी वाढते?",
-      "answer": "चित्रे नवे विचार सुचवतात."
-    },
-    {
-      "id": 5,
-      "question": "चित्रांशी मैत्री म्हणजे काय?",
-      "answer": "चित्रांशी संवाद साधण्याची सवय म्हणजे चित्रांशी मैत्री."
-    },
-    {
-      "id": 6,
-      "question": "चित्र पाहून कथा कशी तयार करता येते?",
-      "answer": "चित्रातील प्रसंग ओळखून कथा तयार करता येते."
-    },
-    {
-      "id": 7,
-      "question": "चित्रांमुळे भावनांची ओळख कशी होते?",
-      "answer": "चेहऱ्यावरील भाव पाहून भावना समजतात."
-    },
-    {
-      "id": 8,
-      "question": "चित्र पाहताना रंगांचे महत्त्व काय आहे?",
-      "answer": "रंगांमुळे वातावरण आणि भावना समजतात."
-    },
-    {
-      "id": 9,
-      "question": "चित्रांमुळे शिकणे कसे सोपे होते?",
-      "answer": "दृश्य स्वरूपामुळे समज लवकर होते."
-    },
-    {
-      "id": 10,
-      "question": "चित्रांचा वापर अभ्यासात का केला जातो?",
-      "answer": "अवघड गोष्टी सोप्या करण्यासाठी केला जातो."
-    },
-    {
-      "id": 11,
-      "question": "चित्र पाहून शब्दसंपदा कशी वाढते?",
-      "answer": "चित्रांचे वर्णन करताना नवे शब्द वापरले जातात."
-    },
-    {
-      "id": 12,
-      "question": "चित्रांमुळे स्मरणशक्ती कशी सुधारते?",
-      "answer": "दृश्य गोष्टी लवकर लक्षात राहतात."
-    },
-    {
-      "id": 13,
-      "question": "चित्र पाहताना बारकावे का महत्त्वाचे असतात?",
-      "answer": "बारकाव्यांतून अर्थ स्पष्ट होतो."
-    },
-    {
-      "id": 14,
-      "question": "चित्रांशी मैत्री केल्याने कोणते कौशल्य वाढते?",
-      "answer": "निरीक्षण कौशल्य वाढते."
-    },
-    {
-      "id": 15,
-      "question": "चित्र पाहून प्रश्न विचारणे का उपयुक्त आहे?",
-      "answer": "समज अधिक खोल होते."
-    },
-    {
-      "id": 16,
-      "question": "चित्रांमुळे संवाद कसा सुधारतो?",
-      "answer": "चित्रावर चर्चा केल्याने संवाद वाढतो."
-    },
-    {
-      "id": 17,
-      "question": "चित्र पाहून लेखन कसे करता येते?",
-      "answer": "चित्राचे वर्णन करून लेखन करता येते."
-    },
-    {
-      "id": 18,
-      "question": "चित्रांमुळे सर्जनशीलता कशी वाढते?",
-      "answer": "नव्या कल्पनांना चालना मिळते."
-    },
-    {
-      "id": 19,
-      "question": "चित्र पाहताना शांतता का आवश्यक आहे?",
-      "answer": "शांततेत बारकावे लक्षात येतात."
-    },
-    {
-      "id": 20,
-      "question": "चित्रांशी मैत्री केल्याने अभ्यासात काय फायदा होतो?",
-      "answer": "अभ्यास अधिक रंजक होतो."
-    },
-    {
-      "id": 21,
-      "question": "चित्र पाहून भावना व्यक्त करणे का महत्त्वाचे आहे?",
-      "answer": "स्वतःचे विचार मांडता येतात."
-    },
-    {
-      "id": 22,
-      "question": "चित्रांचा वापर भाषाशिक्षणात कसा होतो?",
-      "answer": "चित्रांवरून शब्द आणि वाक्ये तयार होतात."
-    },
-    {
-      "id": 23,
-      "question": "चित्र पाहून अंदाज बांधणे का उपयुक्त आहे?",
-      "answer": "विचारशक्ती वाढते."
-    },
-    {
-      "id": 24,
-      "question": "चित्रांमुळे गटचर्चा कशी घडते?",
-      "answer": "वेगवेगळे दृष्टिकोन मांडले जातात."
-    },
-    {
-      "id": 25,
-      "question": "चित्र पाहून कथा सांगणे कसे उपयुक्त आहे?",
-      "answer": "बोलण्याचे कौशल्य वाढते."
-    },
-    {
-      "id": 26,
-      "question": "चित्रांमुळे मुलांचे लक्ष कसे टिकते?",
-      "answer": "दृश्य आकर्षणामुळे लक्ष टिकते."
-    },
-    {
-      "id": 27,
-      "question": "चित्र पाहताना प्रश्नोत्तर पद्धत का वापरावी?",
-      "answer": "समज तपासता येते."
-    },
-    {
-      "id": 28,
-      "question": "चित्रांमुळे शिकण्याचा आनंद का वाढतो?",
-      "answer": "शिकणे खेळासारखे वाटते."
-    },
-    {
-      "id": 29,
-      "question": "चित्रांशी मैत्री केल्याने आत्मविश्वास कसा वाढतो?",
-      "answer": "स्वतःचे मत मांडता येते."
-    },
-    {
-      "id": 30,
-      "question": "चित्र पाहून वर्णन करणे का आवश्यक आहे?",
-      "answer": "भाषिक कौशल्य सुधारते."
-    },
-    {
-      "id": 31,
-      "question": "चित्रांमुळे कल्पना मांडणे कसे सोपे होते?",
-      "answer": "दृश्य आधार मिळतो."
-    },
-    {
-      "id": 32,
-      "question": "चित्र पाहताना वेगवेगळे अर्थ का दिसतात?",
-      "answer": "प्रत्येकाची दृष्टी वेगळी असते."
-    },
-    {
-      "id": 33,
-      "question": "चित्रांशी मैत्री केल्याने निरीक्षणशक्ती कशी वाढते?",
-      "answer": "सूक्ष्म तपशील ओळखता येतात."
-    },
-    {
-      "id": 34,
-      "question": "चित्र पाहून भावना ओळखणे का महत्त्वाचे आहे?",
-      "answer": "भावनिक समज वाढते."
-    },
-    {
-      "id": 35,
-      "question": "चित्रांचा वापर परीक्षेत कसा होतो?",
-      "answer": "आकलन तपासण्यासाठी होतो."
-    },
-    {
-      "id": 36,
-      "question": "चित्र पाहून लेखन केल्याने काय सुधारते?",
-      "answer": "विचार मांडणी सुधारते."
-    },
-    {
-      "id": 37,
-      "question": "चित्रांमुळे शिकण्याची गती कशी वाढते?",
-      "answer": "दृश्य समज जलद होते."
-    },
-    {
-      "id": 38,
-      "question": "चित्र पाहताना रंगसंगती का लक्षात घ्यावी?",
-      "answer": "चित्राचा मूड समजतो."
-    },
-    {
-      "id": 39,
-      "question": "चित्रांशी मैत्री केल्याने संवाद कौशल्य कसे वाढते?",
-      "answer": "चर्चा आणि वर्णनामुळे वाढते."
-    },
-    {
-      "id": 40,
-      "question": "चित्र पाहून कल्पना सुचणे कसे सोपे होते?",
-      "answer": "दृश्य प्रेरणा मिळते."
-    },
-    {
-      "id": 41,
-      "question": "चित्रांमुळे शिकण्यात रुची कशी टिकते?",
-      "answer": "नवीन चित्रे उत्सुकता वाढवतात."
-    },
-    {
-      "id": 42,
-      "question": "चित्र पाहताना प्रश्न तयार करणे का उपयुक्त आहे?",
-      "answer": "विचार करण्याची सवय लागते."
-    },
-    {
-      "id": 43,
-      "question": "चित्रांशी मैत्री केल्याने लेखनात विविधता कशी येते?",
-      "answer": "नव्या कल्पना जोडल्या जातात."
-    },
-    {
-      "id": 44,
-      "question": "चित्र पाहून कथा बदलता येते का?",
-      "answer": "होय, कल्पनेनुसार कथा बदलता येते."
-    },
-    {
-      "id": 45,
-      "question": "चित्रांमुळे मुलांची निरीक्षणशक्ती कशी वाढते?",
-      "answer": "सूक्ष्म गोष्टी लक्षात येतात."
-    },
-    {
-      "id": 46,
-      "question": "चित्र पाहून भावना व्यक्त करणे कसे शिकता येते?",
-      "answer": "भावनांचे शब्दांत रूपांतर करता येते."
-    },
-    {
-      "id": 47,
-      "question": "चित्रांशी मैत्री केल्याने अभ्यासाचा ताण का कमी होतो?",
-      "answer": "शिकणे आनंददायी होते."
-    },
-    {
-      "id": 48,
-      "question": "चित्र पाहून प्रश्नांची उत्तरे कशी देता येतात?",
-      "answer": "चित्रातील माहिती वापरून देता येतात."
-    },
-    {
-      "id": 49,
-      "question": "चित्रांमुळे शिकण्याचा अनुभव कसा बदलतो?",
-      "answer": "अनुभव अधिक जिवंत होतो."
-    },
-    {
-      "id": 50,
-      "question": "चित्र पाहून गटात काम करणे का उपयुक्त आहे?",
-      "answer": "सहकार्य आणि चर्चा वाढते."
-    },
-    {
-      "id": 51,
-      "question": "चित्रांशी मैत्री केल्याने भाषिक आत्मविश्वास कसा वाढतो?",
-      "answer": "स्वतःचे विचार मांडता येतात."
-    },
-    {
-      "id": 52,
-      "question": "चित्र पाहून शब्दांची निवड कशी सुधारते?",
-      "answer": "योग्य शब्द वापरण्याची सवय लागते."
-    },
-    {
-      "id": 53,
-      "question": "चित्रांमुळे शिकण्याची गुणवत्ता कशी सुधारते?",
-      "answer": "दृश्य समज पक्की होते."
-    },
-    {
-      "id": 54,
-      "question": "चित्र पाहून विचार मांडणे का आवश्यक आहे?",
-      "answer": "स्वतःची समज स्पष्ट होते."
-    },
-    {
-      "id": 55,
-      "question": "चित्रांशी मैत्री केल्याने सर्जनशील लेखन कसे वाढते?",
-      "answer": "नव्या कथा आणि कल्पना सुचतात."
-    },
-    {
-      "id": 56,
-      "question": "चित्र पाहून निरीक्षण नोंदवणे का महत्त्वाचे आहे?",
-      "answer": "लक्षात आलेले मुद्दे स्पष्ट होतात."
-    },
-    {
-      "id": 57,
-      "question": "चित्रांमुळे शिकण्याचा आनंद कसा वाढतो?",
-      "answer": "दृश्य शिकण्यामुळे उत्साह वाढतो."
-    },
-    {
-      "id": 58,
-      "question": "चित्र पाहून निष्कर्ष कसा काढता येतो?",
-      "answer": "चित्रातील माहिती एकत्र करून निष्कर्ष काढता येतो."
-    },
-    {
-      "id": 59,
-      "question": "चित्रांशी मैत्री केल्याने विचारशक्ती कशी वाढते?",
-      "answer": "वेगवेगळे अर्थ लावता येतात."
-    },
-    {
-      "id": 60,
-      "question": "चित्र पाहून कथा सांगताना काय लक्षात घ्यावे?",
-      "answer": "प्रसंग आणि भावना लक्षात घ्याव्यात."
-    },
-    {
-      "id": 61,
-      "question": "चित्रांमुळे अभ्यास अधिक प्रभावी का ठरतो?",
-      "answer": "दृश्य आधारामुळे समज पक्की होते."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "‘चित्रांशी मैत्री’ या धड्याचा मुख्य हेतू कोणता आहे?",
-      "options": {
-        "A": "चित्र काढणे",
-        "B": "चित्रांवरून विचार करणे",
-        "C": "रंग ओळखणे",
-        "D": "फक्त पाहणे"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 2,
-      "question": "चित्र पाहून काय वाढते?",
-      "options": {
-        "A": "आळस",
-        "B": "निरीक्षणशक्ती",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 3,
-      "question": "चित्रांमुळे कल्पनाशक्ती का वाढते?",
-      "options": {
-        "A": "नवे विचार सुचतात",
-        "B": "वेळ वाया जातो",
-        "C": "नियम मोडले जातात",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 4,
-      "question": "चित्र पाहून कथा कशामुळे तयार होते?",
-      "options": {
-        "A": "रंगांमुळे",
-        "B": "प्रसंग ओळखल्यामुळे",
-        "C": "वेळेमुळे",
-        "D": "नियमांमुळे"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 5,
-      "question": "चित्रांमुळे शिकणे सोपे का होते?",
-      "options": {
-        "A": "दृश्य समज मिळते",
-        "B": "आवाज वाढतो",
-        "C": "वेळ कमी होतो",
-        "D": "नियम बदलतात"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 6,
-      "question": "चित्र पाहताना रंगांचे महत्त्व काय आहे?",
-      "options": {
-        "A": "वातावरण समजते",
-        "B": "वेळ वाढतो",
-        "C": "गोंधळ होतो",
-        "D": "आळस वाढतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 7,
-      "question": "चित्रांशी मैत्री केल्याने कोणते कौशल्य वाढते?",
-      "options": {
-        "A": "निरीक्षण",
-        "B": "आळस",
-        "C": "राग",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "question": "चित्र पाहून प्रश्न विचारणे का उपयुक्त आहे?",
-      "options": {
-        "A": "समज वाढते",
-        "B": "वेळ वाया जातो",
-        "C": "नियम मोडतात",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 9,
-      "question": "चित्रांमुळे संवाद कसा सुधारतो?",
-      "options": {
-        "A": "चर्चेमुळे",
-        "B": "शांततेमुळे",
-        "C": "वेळेमुळे",
-        "D": "नियमांमुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "चित्र पाहून लेखन कसे करता येते?",
-      "options": {
-        "A": "वर्णन करून",
-        "B": "नियम मोडून",
-        "C": "वेळ वाया घालवून",
-        "D": "गोंधळ करून"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 11,
-      "question": "चित्रांमुळे स्मरणशक्ती कशी सुधारते?",
-      "options": {
-        "A": "दृश्य आठवणीमुळे",
-        "B": "आवाजामुळे",
-        "C": "वेळेमुळे",
-        "D": "नियमांमुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "question": "चित्र पाहताना बारकावे का महत्त्वाचे असतात?",
-      "options": {
-        "A": "अर्थ स्पष्ट होतो",
-        "B": "वेळ वाढतो",
-        "C": "गोंधळ होतो",
-        "D": "आळस वाढतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 13,
-      "question": "चित्रांमुळे शिकण्याचा आनंद का वाढतो?",
-      "options": {
-        "A": "शिकणे रंजक होते",
-        "B": "वेळ कमी होतो",
-        "C": "नियम बदलतात",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "चित्र पाहून अंदाज बांधणे कशामुळे शक्य होते?",
-      "options": {
-        "A": "विचारशक्तीमुळे",
-        "B": "वेळेमुळे",
-        "C": "नियमांमुळे",
-        "D": "आवाजामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 15,
-      "question": "चित्रांमुळे गटचर्चा का घडते?",
-      "options": {
-        "A": "वेगवेगळे अर्थ असल्यामुळे",
-        "B": "वेळेमुळे",
-        "C": "नियमांमुळे",
-        "D": "आवाजामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "question": "चित्र पाहून कथा सांगणे कशामुळे उपयुक्त आहे?",
-      "options": {
-        "A": "बोलण्याचे कौशल्य वाढते",
-        "B": "वेळ वाया जातो",
-        "C": "नियम मोडतात",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "चित्रांमुळे मुलांचे लक्ष कसे टिकते?",
-      "options": {
-        "A": "दृश्य आकर्षणामुळे",
-        "B": "वेळेमुळे",
-        "C": "नियमांमुळे",
-        "D": "आवाजामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "चित्र पाहताना प्रश्नोत्तर पद्धत का वापरावी?",
-      "options": {
-        "A": "समज तपासण्यासाठी",
-        "B": "वेळ घालवण्यासाठी",
-        "C": "नियम मोडण्यासाठी",
-        "D": "गोंधळासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "चित्रांशी मैत्री केल्याने आत्मविश्वास कसा वाढतो?",
-      "options": {
-        "A": "मत मांडता येते",
-        "B": "वेळ कमी होतो",
-        "C": "नियम बदलतात",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 20,
-      "question": "चित्र पाहून वर्णन करणे का आवश्यक आहे?",
-      "options": {
-        "A": "भाषिक कौशल्यासाठी",
-        "B": "वेळ वाया घालवण्यासाठी",
-        "C": "नियम मोडण्यासाठी",
-        "D": "गोंधळासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 21,
-      "question": "चित्रांमुळे कल्पना मांडणे कसे सोपे होते?",
-      "options": {
-        "A": "दृश्य आधारामुळे",
-        "B": "वेळेमुळे",
-        "C": "नियमांमुळे",
-        "D": "आवाजामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "question": "चित्र पाहताना वेगवेगळे अर्थ का दिसतात?",
-      "options": {
-        "A": "दृष्टीकोन वेगळा असल्यामुळे",
-        "B": "वेळेमुळे",
-        "C": "नियमांमुळे",
-        "D": "आवाजामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 23,
-      "question": "चित्रांमुळे भावनिक समज कशी वाढते?",
-      "options": {
-        "A": "भाव ओळखल्यामुळे",
-        "B": "वेळेमुळे",
-        "C": "नियमांमुळे",
-        "D": "आवाजामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "चित्रांचा वापर परीक्षेत कशासाठी होतो?",
-      "options": {
-        "A": "आकलन तपासण्यासाठी",
-        "B": "वेळ घालवण्यासाठी",
-        "C": "नियम मोडण्यासाठी",
-        "D": "गोंधळासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "question": "चित्र पाहून लेखन केल्याने काय सुधारते?",
-      "options": {
-        "A": "विचार मांडणी",
-        "B": "वेळ वाया जातो",
-        "C": "नियम मोडतात",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 26,
-      "question": "चित्रांमुळे शिकण्याची गती कशी वाढते?",
-      "options": {
-        "A": "दृश्य समज जलद होते",
-        "B": "वेळ वाढतो",
-        "C": "नियम बदलतात",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 27,
-      "question": "चित्र पाहताना रंगसंगती का महत्त्वाची आहे?",
-      "options": {
-        "A": "मूड समजतो",
-        "B": "वेळेमुळे",
-        "C": "नियमांमुळे",
-        "D": "आवाजामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 28,
-      "question": "चित्रांशी मैत्री केल्याने संवाद कौशल्य कसे वाढते?",
-      "options": {
-        "A": "चर्चेमुळे",
-        "B": "वेळेमुळे",
-        "C": "नियमांमुळे",
-        "D": "आवाजामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 29,
-      "question": "चित्र पाहून कल्पना सुचणे कशामुळे सोपे होते?",
-      "options": {
-        "A": "दृश्य प्रेरणेमुळे",
-        "B": "वेळेमुळे",
-        "C": "नियमांमुळे",
-        "D": "आवाजामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 30,
-      "question": "चित्रांमुळे शिकण्यात रुची कशी टिकते?",
-      "options": {
-        "A": "नवीन चित्रांमुळे",
-        "B": "वेळेमुळे",
-        "C": "नियमांमुळे",
-        "D": "आवाजामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 31,
-      "question": "चित्र पाहताना प्रश्न तयार करणे का उपयुक्त आहे?",
-      "options": {
-        "A": "विचार सवय लागते",
-        "B": "वेळ घालवण्यासाठी",
-        "C": "नियम मोडण्यासाठी",
-        "D": "गोंधळासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 32,
-      "question": "चित्रांशी मैत्री केल्याने लेखनात विविधता कशी येते?",
-      "options": {
-        "A": "नव्या कल्पना येतात",
-        "B": "वेळ कमी होतो",
-        "C": "नियम बदलतात",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 33,
-      "question": "चित्रांमुळे अभ्यास अधिक प्रभावी का ठरतो?",
-      "options": {
-        "A": "दृश्य आधारामुळे",
-        "B": "वेळेमुळे",
-        "C": "नियमांमुळे",
-        "D": "आवाजामुळे"
-      },
-      "answer": "A"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.08",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Chitranshi Maitri"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "‘चित्रांशी मैत्री’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चित्रे समजून घेणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चित्रे काढणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चित्रांशी बोलणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चित्रे फाडणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चित्रे समजून घेणे"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "चित्रात काय दिसते ते सांगणे म्हणजे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चित्रवर्णन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चित्रकला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चित्रपट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गाणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चित्रवर्णन"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "चित्रावरून काय बनवता येते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गोष्ट",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जेवण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "घर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गाडी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गोष्ट"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "‘संवाद’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dialogue/बोलणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "भांडण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोपणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पळणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dialogue/बोलणे"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "चित्रात किती माणसे आहेत हे कसे कळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मोजून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "अंदाज लावून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वाचून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विचारून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मोजून"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "‘निरीक्षण’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Observation/नीट पाहणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दुर्लक्ष करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "डोळे झाकणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Observation/नीट पाहणे"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "चित्रात रंग कशासाठी असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सुंदर दिसण्यासाठी/ओळखण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घाण करण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "अंधार करण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सुंदर दिसण्यासाठी/ओळखण्यासाठी"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "‘देखावा’ (Scene) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दृश्य",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दुकान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आवाज",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वारा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दृश्य"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "‘काल्पनिक’ चित्र म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Imaginary",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Real",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Photo",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mirror",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Imaginary"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "‘निसर्गचित्र’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Nature Drawing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Portrait",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cartoon",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Map",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nature Drawing"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "‘लाल’ रंगाला इंग्रजीत काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Red",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Blue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Green",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Yellow",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Red"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "‘निळा’ रंगाला इंग्रजीत काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Blue",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Red",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Green",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Black",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Blue"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "‘हिरवा’ रंगाला इंग्रजीत काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Green",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Yellow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "White",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pink",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Green"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "‘पिवळा’ रंगाला इंग्रजीत काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Yellow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Orange",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Purple",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Brown",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Yellow"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "‘काळा’ रंगाला इंग्रजीत काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Black",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "White",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Grey",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Blue",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Black"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "‘पांढरा’ रंगाला इंग्रजीत काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "White",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Black",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Red",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Green",
+                    "is_correct": false
+                }
+            ],
+            "answer": "White"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "‘गोल’ (Circle) कसा असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चेंडूसारखा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पेटीसारखा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "काठीसारखा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दगडासारखा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चेंडूसारखा"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "‘चौकोन’ (Square) ला किती बाजू असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चार",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तीन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दोन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पाच",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चार"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "‘त्रिकोण’ (Triangle) ला किती बाजू असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तीन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाच",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दोन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तीन"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "‘रेषा’ (Line) कशी असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सरळ/वाकडी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गोल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जाड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बारीक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सरळ/वाकडी"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "‘ठिपका’ (Dot) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "बिंदू",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रेषा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गोल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चौकोन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "बिंदू"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "‘आकार’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shape",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Color",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Size",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Weight",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shape"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "‘बाजू’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Side",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Corner",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Center",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Top",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Side"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "‘कोपरा’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Corner",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Side",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Center",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bottom",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Corner"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "‘मध्य’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Center",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Side",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Corner",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Top",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Center"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "‘वर’ - स्थिती?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Up/Above",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Down",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "In",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Out",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Up/Above"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "‘खाली’ - स्थिती?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Down/Below",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Up",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "In",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Out",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Down/Below"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "‘आत’ - स्थिती?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Inside",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Outside",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Up",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Down",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Inside"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "‘बाहेर’ - स्थिती?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Outside",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Inside",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Up",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Down",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Outside"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "‘जवळ’ - स्थिती?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Near",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Far",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Up",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Down",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Near"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "‘दूर’ - स्थिती?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Far",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Near",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Up",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Down",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Far"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "‘डावीकडे’ म्हणजे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Left",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Right",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Straight",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Back",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Left"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "‘उजवीकडे’ म्हणजे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Right",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Left",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Straight",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Back",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Right"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "‘सरळ’ म्हणजे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Straight",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Crooked",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Round",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Flat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Straight"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "‘मागे’ म्हणजे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Behind/Back",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Front",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Up",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Down",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Behind/Back"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "‘पुढे’ म्हणजे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Front/Ahead",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Behind",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Up",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Down",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Front/Ahead"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "‘लहान’ - आकार?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Small",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Big",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tall",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Short",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Small"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "‘मोठा’ - आकार?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Big",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Small",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tiny",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Little",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Big"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "‘उंच’ - आकार?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tall/High",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Short",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Low",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Deep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tall/High"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "‘ठेंगणा’ - आकार?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Short/Dwarf",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tall",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "High",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Big",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Short/Dwarf"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "‘जाड’ - आकार?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fat/Thick",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Thin",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Slim",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Small",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fat/Thick"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "‘बारीक’ - आकार?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Thin/Slim",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Thick",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Big",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Thin/Slim"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "‘रुंद’ - आकार?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wide/Broad",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Narrow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Thin",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Small",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Wide/Broad"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "‘अरुंद’ - आकार?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Narrow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Broad",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Big",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Narrow"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "‘खोल’ - आकार?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Deep",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shallow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "High",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Tall",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Deep"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "‘उथळ’ - आकार?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shallow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Deep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "High",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Low",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shallow"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "‘वजनदार’ - गुण?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Heavy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Light",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Soft",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hard",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Heavy"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "‘हलका’ - गुण?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Light",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Heavy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hard",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Soft",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Light"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "‘कठीण’ - गुण?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hard",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Soft",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rough",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smooth",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Hard"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "‘मऊ’ - गुण?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Soft",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Hard",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rough",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sharp",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Soft"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "चित्रकलेच्या तासाला काय आणायचे?",
+            "answer": "ड्रॉइंग बुक आणि रंग."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "निसर्गचित्रात काय काय असू शकते?",
+            "answer": "झाडे, डोंगर, नदी, सूर्य, घर."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "सूर्य उगवतानाचा रंग कोणता?",
+            "answer": "तांबडा/केशरी."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "आकाशात ढग कसे दिसतात?",
+            "answer": "पांढरे किंवा काळे (कापसासारखे)."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "पावसाळ्यात निसर्ग कसा दिसतो?",
+            "answer": "हिरवागार."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "गावाकडच्या चित्रात काय असते?",
+            "answer": "कौौलारू घरे, बैलगाडी, विहीर."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "शहरातील चित्रात काय दिसते?",
+            "answer": "इमारती, गाड्या, रस्ते."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "बागेच्या चित्रात काय असते?",
+            "answer": "फुले, मुले, झोपाळा, घसरगुंडी."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "झोपाळा (Swing) कशासाठी?",
+            "answer": "झोके घेण्यासाठी."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "घसरगुंडी (Slide) कशासाठी?",
+            "answer": "घसरण्यासाठी."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "सी-सॉ (See-saw) कसा खेळतात?",
+            "answer": "दोघे दोन बाजूला बसून वर-खाली."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "प्राण्यांचे चित्र काढणे सोपे आहे का?",
+            "answer": "सराव केल्यावर सोपे असते."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "माणसाचे चित्र काढताना काय काढतात?",
+            "answer": "चेहरा, हात, पाय, शरीर."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "व्यंगचित्र (Cartoon) म्हणजे काय?",
+            "answer": "गंमतशीर चित्र."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "आर. के. लक्ष्मण कोण होते?",
+            "answer": "प्रसिद्ध व्यंगचित्रकार."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "चित्राला बॉर्डर का काढतात?",
+            "answer": "चित्र नीटनेटके दिसण्यासाठी."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "रंगकामात ब्रशचा वापर कसा करावा?",
+            "answer": "हळूवार आणि एका दिशेने."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "वॉटर कलर (Water colour) म्हणजे काय?",
+            "answer": "पाण्यात मिसळून वापरायचे रंग."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "क्रॉपन्स (Crayons) म्हणजे काय?",
+            "answer": "मेणाचे खडू."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "पेन्सिल कलर म्हणजे काय?",
+            "answer": "रंगीत पेन्सिल."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "रंगोली कशाने काढतात?",
+            "answer": "रांगोळीच्या भुकटीने (किंवा फुलांनी)."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "दिवाळीत रांगोळी का काढतात?",
+            "answer": "शोभेसाठी आणि स्वागतासाठी."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "मेहंदी कशावर काढतात?",
+            "answer": "हातावर."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "टॅटू (Tattoo) म्हणजे काय?",
+            "answer": "त्वचेवर काढलेले चित्र."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "भिंतीवर चित्रे काढावीत का?",
+            "answer": "नाही, भिंत खराब होते."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "कॅनव्हास (Canvas) कशासाठी?",
+            "answer": "पेंटिंग करण्यासाठी."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "प्रदर्शनात (Exhibition) काय असते?",
+            "answer": "अनेक चित्रे बघण्यासाठी."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "तुम्ही चित्रकला स्पर्धेत भाग घेता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "तुम्हाला बक्षीस मिळाले आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "‘हत्ती’चे चित्र काढताना काय महत्त्वाचे?",
+            "answer": "सोंड आणि कान."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "‘वाघ’चे चित्र काढताना काय महत्त्वाचे?",
+            "answer": "पट्टे."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "‘सिंह’चे चित्र काढताना काय महत्त्वाचे?",
+            "answer": "आयाळ (Mane)."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "‘ससा’चे चित्र काढताना काय महत्त्वाचे?",
+            "answer": "कान."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "‘मोर’चे चित्र काढताना काय महत्त्वाचे?",
+            "answer": "पिसारा."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "‘मासा’चे चित्र काढताना काय महत्त्वाचे?",
+            "answer": "पर आणि आकार."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "‘फुलपाखरू’चे चित्र काढताना काय महत्त्वाचे?",
+            "answer": "रंगीत पंख."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "‘झाड’चे चित्र काढताना काय महत्त्वाचे?",
+            "answer": "फांद्या आणि पाने."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "‘घर’चे चित्र काढताना काय महत्त्वाचे?",
+            "answer": "छत आणि खिडकी."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "‘सूर्य’ कसा काढावा?",
+            "answer": "गोल आणि किरणे."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "‘चंद्र’ कसा काढावा?",
+            "answer": "अर्धगोल (कोर) किंवा पूर्ण गोल."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "तारे (Stars) कसे काढावेत?",
+            "answer": "लुकलुकणारे."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "इंद्रधनुष्य कसा काढावा?",
+            "answer": "सात रंगांची कमान."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "पाऊस कसा काढावा?",
+            "answer": "तुटक रेषा."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "नदी कशी काढावी?",
+            "answer": "वाकडी रेषा."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "डोंगर कसे काढावेत?",
+            "answer": "त्रिकोणी आकार."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "विहीर कशी असते?",
+            "answer": "गोल."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "रस्ता कसा असतो?",
+            "answer": "लांब आणि रुंद."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "बैलगाडीला काय असते?",
+            "answer": "चाके आणि बैल."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "ट्रॅक्टर कोठे वापरतात?",
+            "answer": "शेतीत."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "विमान कसे काढतात?",
+            "answer": "पक्ष्यासारखे पण धातूचे."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "बोट कशी असते?",
+            "answer": "पाण्यावर तरंगणारी."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "गाडी (Car) कशी काढतात?",
+            "answer": "डब्यासारखी आणि चाके."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "सायकल कशी काढतात?",
+            "answer": "दोन चाके आणि हँडल."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "चित्रकला आवडणारा छंद आहे का?",
+            "answer": "हो, खूप छान छंद आहे."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "छंद (Hobby) म्हणजे काय?",
+            "answer": "आवडीने केलेले काम."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "तुमचे छंद कोणते?",
+            "answer": "चित्रकला, वाचन, गायन."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "गायन (Singing) कोणाला आवडते?",
+            "answer": "मला."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "वादन (Playing Instruments) कोणाला आवडते?",
+            "answer": "मला."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "तबला कसा वाजवतात?",
+            "answer": "हाताने."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "पेटी (Harmonium) कशी वाजवतात?",
+            "answer": "बोटांनी."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "बासरी (Flute) कशी वाजवतात?",
+            "answer": "फुंकून."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "गिटार कशी वाजवतात?",
+            "answer": "तार छेडून."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "नृत्य (Dance) करताना काय हलते?",
+            "answer": "शरीर आणि हातपाय."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "नाटकात (Drama) काय करतात?",
+            "answer": "अभिनय."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "पात्र (Character) म्हणजे काय?",
+            "answer": "नाटकातील व्यक्ती."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "नेपथ्य (Set) म्हणजे काय?",
+            "answer": "रंगमंचाची सजावट."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "रंगभूषा (Makeup) म्हणजे काय?",
+            "answer": "चेहरा सजवणे."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "वेशभूषा (Costume) म्हणजे काय?",
+            "answer": "कपडे."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "दिग्दर्शक (Director) कोण असतो?",
+            "answer": "नाटक/चित्रपट बसवणारा."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "लेखक (Writer) कोण असतो?",
+            "answer": "कथा लिहिणारा."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "कवी (Poet) कोण असतो?",
+            "answer": "कविता लिहिणारा."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "गायक (Singer) कोण असतो?",
+            "answer": "गाण गाणारा."
+        },
+        {
+            "question_id": 123,
+            "question_type": "SHORT",
+            "question": "श्रोता (Audience) कोण असतो?",
+            "answer": "ऐकणारा/बघणारा."
+        },
+        {
+            "question_id": 124,
+            "question_type": "SHORT",
+            "question": "टाळ्या (Claps) का वाजवतात?",
+            "answer": "दाद देण्यासाठी."
+        },
+        {
+            "question_id": 125,
+            "question_type": "SHORT",
+            "question": "शिळ (Whistle) का घालतात?",
+            "answer": "आनंदाने."
+        },
+        {
+            "question_id": 126,
+            "question_type": "SHORT",
+            "question": "बू (Boo) करणे चांगले का?",
+            "answer": "नाही, तो अपमान आहे."
+        },
+        {
+            "question_id": 127,
+            "question_type": "SHORT",
+            "question": "मदतनीस (Helper) कोण असतो?",
+            "answer": "मदत करणारा."
+        },
+        {
+            "question_id": 128,
+            "question_type": "SHORT",
+            "question": "स्वयंसेवक (Volunteer) कोण असतो?",
+            "answer": "स्वतःहून काम करणारा."
+        },
+        {
+            "question_id": 129,
+            "question_type": "SHORT",
+            "question": "देणगी (Donation) म्हणजे काय?",
+            "answer": "मदतीसाठी दिलेले पैसे."
+        },
+        {
+            "question_id": 130,
+            "question_type": "SHORT",
+            "question": "बचत (Savings) म्हणजे काय?",
+            "answer": "पैसे साठवणे."
+        },
+        {
+            "question_id": 131,
+            "question_type": "SHORT",
+            "question": "खर्च (Expense) म्हणजे काय?",
+            "answer": "पैसे वापरणे."
+        },
+        {
+            "question_id": 132,
+            "question_type": "SHORT",
+            "question": "महागाई म्हणजे काय?",
+            "answer": "वस्तूंचे भाव वाढणे."
+        },
+        {
+            "question_id": 133,
+            "question_type": "SHORT",
+            "question": "स्वस्त म्हणजे काय?",
+            "answer": "कमी किंमत."
+        },
+        {
+            "question_id": 134,
+            "question_type": "SHORT",
+            "question": "महाग म्हणजे काय?",
+            "answer": "जास्त किंमत."
+        },
+        {
+            "question_id": 135,
+            "question_type": "SHORT",
+            "question": "बाजार (Market) म्हणजे काय?",
+            "answer": "खरेदी-विक्रीचे ठिकाण."
+        },
+        {
+            "question_id": 136,
+            "question_type": "SHORT",
+            "question": "ग्राहक (Customer) कोण?",
+            "answer": "वस्तू घेणारा."
+        },
+        {
+            "question_id": 137,
+            "question_type": "SHORT",
+            "question": "विक्रेता (Seller) कोण?",
+            "answer": "वस्तू विकणारा."
+        },
+        {
+            "question_id": 138,
+            "question_type": "SHORT",
+            "question": "नफा (Profit) म्हणजे काय?",
+            "answer": "फायदा."
+        },
+        {
+            "question_id": 139,
+            "question_type": "SHORT",
+            "question": "तोटा (Loss) म्हणजे काय?",
+            "answer": "नुकसान."
+        },
+        {
+            "question_id": 140,
+            "question_type": "SHORT",
+            "question": "पगार (Salary) म्हणजे काय?",
+            "answer": "कामाचा मोबदला."
+        },
+        {
+            "question_id": 141,
+            "question_type": "SHORT",
+            "question": "सुट्टीचा आनंद कसा घ्यावा?",
+            "answer": "कुटुंबासोबत राहून."
+        },
+        {
+            "question_id": 142,
+            "question_type": "SHORT",
+            "question": "रागावर नियंत्रण कसे ठेवावे?",
+            "answer": "शांत राहून."
+        },
+        {
+            "question_id": 143,
+            "question_type": "SHORT",
+            "question": "मैत्री कशी टिकवावी?",
+            "answer": "विश्वास ठेवून."
+        },
+        {
+            "question_id": 144,
+            "question_type": "SHORT",
+            "question": "खरा मित्र कोण?",
+            "answer": "संकटात मदत करणारा."
+        },
+        {
+            "question_id": 145,
+            "question_type": "SHORT",
+            "question": "तुम्ही कोणाचे मित्र आहात?",
+            "answer": "सर्वांचा."
+        }
+    ]
 }

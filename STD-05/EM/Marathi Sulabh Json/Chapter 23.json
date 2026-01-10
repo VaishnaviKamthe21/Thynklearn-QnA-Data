@@ -1,575 +1,1545 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "chapter_number": 23,
-  "chapter_name": "आपली वाहतूक",
-  "mode": "Outside Textbook | Max Safe Unique",
-  "counts": {
-    "one_line_questions": 65,
-    "mcqs": 35
-  },
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "‘आपली वाहतूक’ या धड्याचा मुख्य उद्देश काय आहे?",
-      "answer": "वाहतुकीचे महत्त्व आणि सुरक्षिततेची जाणीव करून देणे."
-    },
-    {
-      "id": 2,
-      "question": "वाहतूक म्हणजे काय?",
-      "answer": "लोक व वस्तू एका ठिकाणाहून दुसरीकडे नेण्याची व्यवस्था."
-    },
-    {
-      "id": 3,
-      "question": "वाहतुकीचे प्रकार कोणते आहेत?",
-      "answer": "स्थल, जल आणि वायू वाहतूक."
-    },
-    {
-      "id": 4,
-      "question": "स्थलवाहतुकीत कोणती साधने येतात?",
-      "answer": "बस, रेल्वे, कार, सायकल."
-    },
-    {
-      "id": 5,
-      "question": "जलवाहतूक कशासाठी उपयोगी आहे?",
-      "answer": "मोठ्या प्रमाणावर माल वाहतुकीसाठी."
-    },
-    {
-      "id": 6,
-      "question": "वायूवाहतुकीचे वैशिष्ट्य काय आहे?",
-      "answer": "वेगवान प्रवास."
-    },
-    {
-      "id": 7,
-      "question": "वाहतूक जीवनात का आवश्यक आहे?",
-      "answer": "दळणवळण सुलभ करण्यासाठी."
-    },
-    {
-      "id": 8,
-      "question": "वाहतुकीमुळे व्यापार कसा वाढतो?",
-      "answer": "मालाची देवाणघेवाण सोपी होते."
-    },
-    {
-      "id": 9,
-      "question": "वाहतूक नियम का पाळावेत?",
-      "answer": "अपघात टाळण्यासाठी."
-    },
-    {
-      "id": 10,
-      "question": "रस्ते सुरक्षिततेचे महत्त्व काय आहे?",
-      "answer": "प्रवाशांचे संरक्षण."
-    },
-    {
-      "id": 11,
-      "question": "वाहतूक कोंडी का होते?",
-      "answer": "वाहनांची संख्या वाढल्यामुळे."
-    },
-    {
-      "id": 12,
-      "question": "वाहतुकीमुळे वेळ कसा वाचतो?",
-      "answer": "प्रवास जलद होतो."
-    },
-    {
-      "id": 13,
-      "question": "सार्वजनिक वाहतुकीचा फायदा काय आहे?",
-      "answer": "प्रदूषण कमी होते."
-    },
-    {
-      "id": 14,
-      "question": "खाजगी वाहनांचा तोटा काय आहे?",
-      "answer": "वाहतूक कोंडी वाढते."
-    },
-    {
-      "id": 15,
-      "question": "वाहतूक आणि पर्यावरण यांचा संबंध काय आहे?",
-      "answer": "वाहने प्रदूषण वाढवू शकतात."
-    },
-    {
-      "id": 16,
-      "question": "इंधन बचत का आवश्यक आहे?",
-      "answer": "संसाधने मर्यादित आहेत."
-    },
-    {
-      "id": 17,
-      "question": "वाहतूक नियम मोडल्यास काय होते?",
-      "answer": "अपघाताचा धोका वाढतो."
-    },
-    {
-      "id": 18,
-      "question": "पादचाऱ्यांसाठी नियम का आवश्यक आहेत?",
-      "answer": "रस्ते सुरक्षिततेसाठी."
-    },
-    {
-      "id": 19,
-      "question": "वाहतूक दिव्यांचे महत्त्व काय आहे?",
-      "answer": "वाहनांचे नियमन."
-    },
-    {
-      "id": 20,
-      "question": "वाहतुकीत शिस्त का आवश्यक आहे?",
-      "answer": "सुरळीत प्रवासासाठी."
-    },
-    {
-      "id": 21,
-      "question": "वाहतूक पोलिसांची भूमिका काय आहे?",
-      "answer": "नियम अंमलात आणणे."
-    },
-    {
-      "id": 22,
-      "question": "वाहतूक शिक्षण का आवश्यक आहे?",
-      "answer": "सुरक्षित सवयी लावण्यासाठी."
-    },
-    {
-      "id": 23,
-      "question": "वाहतुकीमुळे ग्रामीण भागाला काय फायदा होतो?",
-      "answer": "बाजारपेठांशी संपर्क."
-    },
-    {
-      "id": 24,
-      "question": "रेल्वे वाहतुकीचे महत्त्व काय आहे?",
-      "answer": "लांब पल्ल्याचा प्रवास."
-    },
-    {
-      "id": 25,
-      "question": "वाहतूक अपघात टाळण्यासाठी काय करावे?",
-      "answer": "नियम पाळावेत."
-    },
-    {
-      "id": 26,
-      "question": "वाहतुकीमुळे सामाजिक संपर्क कसा वाढतो?",
-      "answer": "लोकांमध्ये भेटीगाठी वाढतात."
-    },
-    {
-      "id": 27,
-      "question": "वाहतूक व्यवस्थेचा विकास का आवश्यक आहे?",
-      "answer": "देशाच्या प्रगतीसाठी."
-    },
-    {
-      "id": 28,
-      "question": "वाहतुकीमुळे शिक्षण कसे सुलभ होते?",
-      "answer": "शाळेत जाणे सोपे होते."
-    },
-    {
-      "id": 29,
-      "question": "वाहतुकीचा आरोग्यावर काय परिणाम होतो?",
-      "answer": "प्रदूषणामुळे त्रास होऊ शकतो."
-    },
-    {
-      "id": 30,
-      "question": "वाहतुकीत ध्वनीप्रदूषण का वाढते?",
-      "answer": "वाहनांच्या आवाजामुळे."
-    },
-    {
-      "id": 31,
-      "question": "वाहतूक आणि वेळेचे नियोजन यांचा संबंध काय आहे?",
-      "answer": "प्रवास नियोजित होतो."
-    },
-    {
-      "id": 32,
-      "question": "वाहतुकीमुळे पर्यटन कसे वाढते?",
-      "answer": "प्रवास सुलभ होतो."
-    },
-    {
-      "id": 33,
-      "question": "वाहतूक नियम शिकवणे मुलांसाठी का आवश्यक आहे?",
-      "answer": "सुरक्षिततेसाठी."
-    },
-    {
-      "id": 34,
-      "question": "वाहतुकीत हेल्मेट का वापरावे?",
-      "answer": "डोके सुरक्षित ठेवण्यासाठी."
-    },
-    {
-      "id": 35,
-      "question": "सीटबेल्ट का आवश्यक आहे?",
-      "answer": "अपघातात संरक्षणासाठी."
-    },
-    {
-      "id": 36,
-      "question": "वाहतुकीत वेगमर्यादा का पाळावी?",
-      "answer": "अपघात टाळण्यासाठी."
-    },
-    {
-      "id": 37,
-      "question": "वाहतुकीत सिग्नलचे पालन का करावे?",
-      "answer": "वाहनांचा प्रवाह सुरळीत ठेवण्यासाठी."
-    },
-    {
-      "id": 38,
-      "question": "वाहतुकीमुळे आर्थिक विकास कसा होतो?",
-      "answer": "व्यवहार वाढतात."
-    },
-    {
-      "id": 39,
-      "question": "वाहतूक आणि शिस्त यांचा काय संबंध आहे?",
-      "answer": "नियमितता राखली जाते."
-    },
-    {
-      "id": 40,
-      "question": "वाहतुकीमुळे शहरांचा विकास कसा होतो?",
-      "answer": "दळणवळण सुधारते."
-    },
-    {
-      "id": 41,
-      "question": "वाहतूक नियम सर्वांसाठी समान का आहेत?",
-      "answer": "सुरक्षिततेसाठी."
-    },
-    {
-      "id": 42,
-      "question": "वाहतुकीत पादचारी मार्ग का आवश्यक आहेत?",
-      "answer": "पादचाऱ्यांच्या सुरक्षिततेसाठी."
-    },
-    {
-      "id": 43,
-      "question": "वाहतुकीमुळे आपत्कालीन सेवा कशी मदत करते?",
-      "answer": "रुग्णालयात पोहोचणे सोपे होते."
-    },
-    {
-      "id": 44,
-      "question": "वाहतूक साधनांची देखभाल का आवश्यक आहे?",
-      "answer": "अपघात टाळण्यासाठी."
-    },
-    {
-      "id": 45,
-      "question": "वाहतुकीत पर्यायी इंधन का वापरावे?",
-      "answer": "प्रदूषण कमी करण्यासाठी."
-    },
-    {
-      "id": 46,
-      "question": "वाहतुकीमुळे वेळेची बचत का होते?",
-      "answer": "वेगवान प्रवासामुळे."
-    },
-    {
-      "id": 47,
-      "question": "वाहतुकीत नियम पाळल्याने काय मिळते?",
-      "answer": "सुरक्षित प्रवास."
-    },
-    {
-      "id": 48,
-      "question": "वाहतुकीमुळे समाजात शिस्त कशी वाढते?",
-      "answer": "नियम पाळण्याची सवय लागते."
-    },
-    {
-      "id": 49,
-      "question": "वाहतुकीत तंत्रज्ञानाचा उपयोग काय आहे?",
-      "answer": "वाहतूक नियंत्रण सुधारते."
-    },
-    {
-      "id": 50,
-      "question": "वाहतुकीमुळे ग्रामीण-शहरी दरी कशी कमी होते?",
-      "answer": "संपर्क वाढतो."
-    },
-    {
-      "id": 51,
-      "question": "वाहतूक व्यवस्था मजबूत असणे का आवश्यक आहे?",
-      "answer": "देशाच्या विकासासाठी."
-    },
-    {
-      "id": 52,
-      "question": "वाहतुकीत स्वच्छता का आवश्यक आहे?",
-      "answer": "आरोग्यासाठी."
-    },
-    {
-      "id": 53,
-      "question": "वाहतुकीत जबाबदारीची भावना का आवश्यक आहे?",
-      "answer": "अपघात टाळण्यासाठी."
-    },
-    {
-      "id": 54,
-      "question": "वाहतुकीमुळे जीवन कसे सुलभ होते?",
-      "answer": "प्रवास आणि कामे सोपी होतात."
-    },
-    {
-      "id": 55,
-      "question": "वाहतूक नियमांचे पालन करणे ही कोणाची जबाबदारी आहे?",
-      "answer": "सर्व नागरिकांची."
-    },
-    {
-      "id": 56,
-      "question": "वाहतुकीमुळे सामाजिक शिस्त कशी टिकते?",
-      "answer": "नियमांचे पालन झाल्याने."
-    },
-    {
-      "id": 57,
-      "question": "वाहतुकीत सुरक्षितता प्रथम का मानावी?",
-      "answer": "जीवन अमूल्य आहे."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "‘आपली वाहतूक’ या धड्याचा मुख्य विषय कोणता आहे?",
-      "options": {
-        "A": "वाहतूक व्यवस्था",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "स्पर्धा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 2,
-      "question": "स्थलवाहतुकीचे उदाहरण कोणते?",
-      "options": {
-        "A": "बस",
-        "B": "जहाज",
-        "C": "विमान",
-        "D": "नौका"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 3,
-      "question": "जलवाहतुकीचे साधन कोणते?",
-      "options": {
-        "A": "जहाज",
-        "B": "बस",
-        "C": "रेल्वे",
-        "D": "सायकल"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 4,
-      "question": "वायूवाहतुकीचे साधन कोणते?",
-      "options": {
-        "A": "विमान",
-        "B": "बस",
-        "C": "जहाज",
-        "D": "रेल्वे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 5,
-      "question": "वाहतूक नियम का पाळावेत?",
-      "options": {
-        "A": "अपघात टाळण्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 6,
-      "question": "सार्वजनिक वाहतुकीचा फायदा काय आहे?",
-      "options": {
-        "A": "प्रदूषण कमी",
-        "B": "प्रदूषण वाढते",
-        "C": "वेळ वाया",
-        "D": "अस्वस्थता"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 7,
-      "question": "वाहतूक दिवे कशासाठी वापरले जातात?",
-      "options": {
-        "A": "नियमनासाठी",
-        "B": "सजावटीसाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "question": "सीटबेल्ट का आवश्यक आहे?",
-      "options": {
-        "A": "सुरक्षिततेसाठी",
-        "B": "सजावटीसाठी",
-        "C": "वेळ वाढवण्यासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 9,
-      "question": "हेल्मेट कशासाठी वापरतात?",
-      "options": {
-        "A": "डोके संरक्षण",
-        "B": "हात संरक्षण",
-        "C": "पाय संरक्षण",
-        "D": "डोळे संरक्षण"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "वाहतूक कोंडी का होते?",
-      "options": {
-        "A": "वाहनांची संख्या वाढते",
-        "B": "रस्ते मोठे असतात",
-        "C": "नियम पाळले जातात",
-        "D": "वाहने कमी असतात"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 11,
-      "question": "वाहतुकीमुळे व्यापार कसा वाढतो?",
-      "options": {
-        "A": "माल वाहतूक सोपी",
-        "B": "वेळ वाया",
-        "C": "गोंधळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "question": "रेल्वे वाहतुकीचा उपयोग कशासाठी आहे?",
-      "options": {
-        "A": "लांब प्रवास",
-        "B": "फक्त खेळ",
-        "C": "मनोरंजन",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 13,
-      "question": "वाहतूक पोलिसांची भूमिका काय आहे?",
-      "options": {
-        "A": "नियम अंमलबजावणी",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "वाहतुकीत वेगमर्यादा का पाळावी?",
-      "options": {
-        "A": "अपघात टाळण्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 15,
-      "question": "वाहतुकीमुळे पर्यटन कसे वाढते?",
-      "options": {
-        "A": "प्रवास सोपा",
-        "B": "प्रवास कठीण",
-        "C": "गोंधळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "question": "वाहतुकीत ध्वनीप्रदूषण का होते?",
-      "options": {
-        "A": "वाहनांचा आवाज",
-        "B": "झाडे",
-        "C": "पाणी",
-        "D": "हवा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "वाहतुकीत पर्यायी इंधन का वापरावे?",
-      "options": {
-        "A": "प्रदूषण कमी",
-        "B": "प्रदूषण वाढते",
-        "C": "वेळ वाया",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "वाहतुकीत पादचारी मार्ग का आवश्यक आहेत?",
-      "options": {
-        "A": "सुरक्षितता",
-        "B": "सजावट",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "वाहतुकीमुळे आर्थिक विकास कसा होतो?",
-      "options": {
-        "A": "व्यवहार वाढतात",
-        "B": "व्यवहार कमी",
-        "C": "गोंधळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 20,
-      "question": "वाहतूक नियमांचे पालन कोण करावे?",
-      "options": {
-        "A": "सर्व नागरिक",
-        "B": "फक्त चालक",
-        "C": "फक्त पोलिस",
-        "D": "कोणीही नाही"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 21,
-      "question": "वाहतुकीत तंत्रज्ञानाचा उपयोग कशासाठी होतो?",
-      "options": {
-        "A": "नियंत्रण सुधारते",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "question": "वाहतुकीमुळे आपत्कालीन सेवा कशी मदत करते?",
-      "options": {
-        "A": "जलद पोहोच",
-        "B": "उशीर",
-        "C": "गोंधळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 23,
-      "question": "वाहतूक साधनांची देखभाल का आवश्यक आहे?",
-      "options": {
-        "A": "अपघात टाळण्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "वाहतुकीत स्वच्छता का आवश्यक आहे?",
-      "options": {
-        "A": "आरोग्यासाठी",
-        "B": "सजावट",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "question": "वाहतुकीत जबाबदारीची भावना का आवश्यक आहे?",
-      "options": {
-        "A": "सुरक्षितता",
-        "B": "वेळ वाया",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.23",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Aapli Vahatuk"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "‘वाहतूक’ (Transport) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एका ठिकाणाहून दुसऱ्या ठिकाणी जाणे/सामान नेणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "एका जागी बसणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोपणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जेवणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एका ठिकाणाहून दुसऱ्या ठिकाणी जाणे/सामान नेणे"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "जुन्या काळी माणूस प्रवास कसा करायचा?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पायी/प्राण्यांवरून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "विमानाने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "बसने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कारने",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पायी/प्राण्यांवरून"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "चाकाचा (Wheel) शोध लागल्यावर काय झाले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वाहतूक सोपी आणि वेगवान झाली",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वाहतूक बंद झाली",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माणूस रडला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वाहतूक सोपी आणि वेगवान झाली"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "बैलगाडीला इंजिन असते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीतरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मोठे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "बैलगाडी कोण ओढतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "बैल",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घोडा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वाघ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माणूस",
+                    "is_correct": false
+                }
+            ],
+            "answer": "बैल"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "सायकलला पेट्रोल लागते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "डिझेल लागते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पाणी लागते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "सायकल चालवणे आरोग्यासाठी कसे आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चांगले (व्यायाम होतो)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वाईट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "त्रासदायक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "महाग",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चांगले (व्यायाम होतो)"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "‘एस.टी. बस’ (ST Bus) कोणाची आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सरकारची (लाल परी)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खाजगी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आमची",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कोणाचीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सरकारची (लाल परी)"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "बसने प्रवास करण्यासाठी काय काढावे लागते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तिकीट",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पासपोर्ट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आधार कार्ड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तिकीट"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "रेल्वे (Train) कशावर धावते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "रुळावर (Track)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रस्त्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाण्यात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हवेत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "रुळावर (Track)"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "सर्वात जलद (Fastest) वाहतूक कोणती?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "विमान (Air Transport)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "बैलगाडी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "बस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जहाज",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विमान (Air Transport)"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "विमान कोठे उतरते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "विमानतळावर (Airport)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "बस स्टँडवर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "स्टेशनवर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शेतात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विमानतळावर (Airport)"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "जहाज (Ship) कोठून जाते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "समुद्रातून/पाण्यातून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रस्त्यावरून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "हवेतून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "डोंगरावरून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "समुद्रातून/पाण्यातून"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "पाण्यातील वाहतूक स्वस्त असते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, इंधन कमी लागते (मोठ्या वजनासाठी)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खूप महाग",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अशक्य",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, इंधन कमी लागते (मोठ्या वजनासाठी)"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "रिक्षाला किती चाके असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तीन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दोन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "एक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तीन"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "दुचाकी (Two Wheeler) चालवताना काय घालावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हेल्मेट",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "टोपी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "बूट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हेल्मेट"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "कार चालवताना काय लावावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सीट बेल्ट",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "झोप",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गाणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "टीव्ही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सीट बेल्ट"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "वाहतूक नियमांचे (Traffic Rules) पालन करावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, सुरक्षेसाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "केव्हाही नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गरज नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, सुरक्षेसाठी"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "लाल दिवा (Red Light) काय सांगतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "थांबा (Stop)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जा (Go)",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "बघा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पळा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "थांबा (Stop)"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "हिरवा दिवा (Green Light) काय सांगतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जा (Go)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "थांबा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोपा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रडा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जा (Go)"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "पिवळा दिवा काय सांगतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वेग कमी करा/तयार व्हा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "थांबा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पळा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हसा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वेग कमी करा/तयार व्हा"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "झेब्रा क्रॉसिंग (Zebra Crossing) कशासाठी असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पादचाऱ्यांनी रस्ता ओलांडण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गाड्या उभे करण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोपण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खेळण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पादचाऱ्यांनी रस्ता ओलांडण्यासाठी"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "रस्ता ओलांडताना कुठे बघावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दोन्ही बाजूला (उजवीकडे-डावीकडे)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त वर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त खाली",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मोबाईलमध्ये",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दोन्ही बाजूला (उजवीकडे-डावीकडे)"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "वाहनांच्या धुरामुळे काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वायू प्रदूषण",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाऊस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "थंड वाटते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सुगंध येतो",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वायू प्रदूषण"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "वाहनांच्या आवाजामुळे काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ध्वनी प्रदूषण",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शांतता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गाणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोप",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ध्वनी प्रदूषण"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "रुग्णवाहिकेला (Ambulance) रस्ता द्यावा का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, लगेच",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "अडवावे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "स्पर्धा करावी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, लगेच"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "फायर ब्रिगेडची गाडी कशासाठी असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आग विझवण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाणी देण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फिरायला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झाडे लावायला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आग विझवण्यासाठी"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "मेट्रो ट्रेन (Metro) कुठे धावते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मोठ्या शहरात (मुंबई/पुणे)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गावात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शेतात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जंगलात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मोठ्या शहरात (मुंबई/पुणे)"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "मेट्रो प्रदूषण करते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही (विजेवर चालते)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खूप",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "थोडे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही (विजेवर चालते)"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "पेट्रोल आणि डिझेल काय आहेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जीवाश्म इंधने (Fossil Fuels)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाणी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तेल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दूध",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जीवाश्म इंधने (Fossil Fuels)"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "सीएनजी (CNG) मुळे प्रदूषण होते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कमी होते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जास्त होते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तेवढेच होते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माहीत नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कमी होते"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "इलेक्ट्रिक वाहने (EV) वापरली पाहिजेत का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, प्रदूषण टाळण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "महाग असतात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बेकार असतात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, प्रदूषण टाळण्यासाठी"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "वाहतूक कोंडी (Traffic Jam) कशामुळे होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नियम न पाळल्यामुळे/जास्त वाहनांमुळे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रस्त्यामुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पोलिसामुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माझा मुळे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नियम न पाळल्यामुळे/जास्त वाहनांमुळे"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "सायकल डे (Cycle Day) कधी असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "३ जून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "१ जानेवारी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "१५ ऑगस्ट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "२६ जानेवारी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "३ जून"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "रस्त्याच्या कोणत्या बाजूने चालावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "डाव्या (Left)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "उजव्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मधल्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कुठल्याही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "डाव्या (Left)"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "फूटपाथ (Footpath) कशासाठी असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चालण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दुकामासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गाडीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चालण्यासाठी"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "‘नो पार्किंग’ (No Parking) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गाडी लावू नये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गाडी लावावी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पार्क करावी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खेळावे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गाडी लावू नये"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "‘नो हॉर्न’ (No Horn) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हॉर्न वाजवू नये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गाणे वाजवू नये",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "ओरडू नये",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हॉर्न वाजवू नये"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "गतीरोधक (Speed Breaker) कशासाठी असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वेग कमी करण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गाडी उडवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "अपघात करण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "डिझाइन म्हणून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वेग कमी करण्यासाठी"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "अपघात टाळण्यासाठी काय महत्त्वाचे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सतर्कता आणि नियम पालन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वेगाने जाणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मोबाईल बघणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बोलणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सतर्कता आणि नियम पालन"
+        },
+        {
+            "question_id": 41,
+            "question_type": "SHORT",
+            "question": "तुम्ही शाळेत कसे येता?",
+            "answer": "बसने/पायी/रिक्षाने."
+        },
+        {
+            "question_id": 42,
+            "question_type": "SHORT",
+            "question": "बैलगाडीच्या चाकाला काय म्हणतात?",
+            "answer": "धाव (लोखंडी रिंग असते)."
+        },
+        {
+            "question_id": 43,
+            "question_type": "SHORT",
+            "question": "टांगा (Tanga) कशाने चालतो?",
+            "answer": "घोड्याने."
+        },
+        {
+            "question_id": 44,
+            "question_type": "SHORT",
+            "question": "उंटाला काय म्हणतात?",
+            "answer": "वाळवंटातील जहाज."
+        },
+        {
+            "question_id": 45,
+            "question_type": "SHORT",
+            "question": "का?",
+            "answer": "वाळूतून सहज चालतो म्हणून."
+        },
+        {
+            "question_id": 46,
+            "question_type": "SHORT",
+            "question": "हत्तीचा वापर वाहतुकीसाठी होतो का?",
+            "answer": "हो (जंगलात ओंडके नेण्यासाठी)."
+        },
+        {
+            "question_id": 47,
+            "question_type": "SHORT",
+            "question": "खेच्चर (Mule) कुठे वापरतात?",
+            "answer": "डोंगराळ भागात."
+        },
+        {
+            "question_id": 48,
+            "question_type": "SHORT",
+            "question": "पालखी (Palanquin) कोणी उचलते?",
+            "answer": "भोई (माणसे)."
+        },
+        {
+            "question_id": 49,
+            "question_type": "SHORT",
+            "question": "जुने राजे कशातून जायचे?",
+            "answer": "पालखीतून/हत्तीवरून/रथातून."
+        },
+        {
+            "question_id": 50,
+            "question_type": "SHORT",
+            "question": "रथ (Chariot) कशाने चालतो?",
+            "answer": "घोड्याने."
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "भारतात पहिली रेल्वे कधी धावली?",
+            "answer": "१८५३ (मुंबई ते ठाणे)."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "तिकीट मास्तर (TC) काय करतो?",
+            "answer": "तिकीट तपासतो."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "हवामान खराब असल्यास विमान उडते का?",
+            "answer": "नाही/उशीर होतो."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "पायलट (Pilot) कोणाला म्हणतात?",
+            "answer": "विमान चालवणाऱ्याला."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "कॅप्टन कोणाला म्हणतात?",
+            "answer": "जहाज चालवणाऱ्याला."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "ड्रायव्हर कोणाला म्हणतात?",
+            "answer": "गाडी चालवणाऱ्याला."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "कंडक्टर काय करतो?",
+            "answer": "तिकीट देतो/बस नियंत्रित करतो."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "वाहक आणि चालक म्हणजे कोण?",
+            "answer": "कंडक्टर आणि ड्रायव्हर."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "तुम्ही बोटिंग (Boating) केले आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "लाइफ जॅकेट (Life Jacket) का घालतात?",
+            "answer": "बुडू नये म्हणून."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "पाणबुडी (Submarine) कशी चालते?",
+            "answer": "पाण्याखालून."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "पाणबुडीचा वापर कोण करते?",
+            "answer": "नौदल (Navy)."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "लढाईसाठी कोणते विमान वापरतात?",
+            "answer": "लढाऊ विमान (Fighter Jet)."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "रॉकेट (Rocket) कशासाठी वापरतात?",
+            "answer": "अंतराळात जाण्यासाठी."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "हेलिकॉप्टर कुठे उतरू शकते?",
+            "answer": "कमी जागेत/Helipad वर."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "तुम्ही ट्रॅफिक पोलिसाला पाहिले आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "तो काय करतो?",
+            "answer": "वाहतूक नियंत्रित करतो."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "त्याने हात दाखवल्यावर काय करावे?",
+            "answer": "थांबावे."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "सिग्नल मोडणे गुन्हा आहे का?",
+            "answer": "हो, दंड होतो."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "लायसन्स (License) कशासाठी लागते?",
+            "answer": "गाडी चालवण्यासाठी."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "लहान मुलांना लायसन्स मिळते का?",
+            "answer": "नाही (१८ वर्षांनंतर)."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "अल्पवयीन मुलांनी गाडी चालवावी का?",
+            "answer": "नाही, बेकायदेशीर आहे."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "ट्रिपल सीट गाडी चालवावी का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "कानात हेडफोन घालून रस्ता ओलांडावा का?",
+            "answer": "नाही, धोकादायक आहे."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "रस्त्यावर खेळावे का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "रस्त्यावर गुरे (Cattle) बसलेली असतात का?",
+            "answer": "हो, जपून जावे."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "राष्ट्रीय महामार्ग (National Highway) म्हणजे काय?",
+            "answer": "देशातील प्रमुख रस्ते."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "एक्सप्रेस वे (Expressway) वर वेग कसा असतो?",
+            "answer": "जास्त."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "टोल नाका (Toll Plaza) कशासाठी असतो?",
+            "answer": "रस्ता वापरल्याचा कर (Tax) घेण्यासाठी."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "फास्टॅग (FASTag) म्हणजे काय?",
+            "answer": "इलेक्ट्रॉनिक टोल कलेक्शन."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "जीपीएस (GPS) कशासाठी वापरतात?",
+            "answer": "रस्ता/दिशा शोधण्यासाठी."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "गुगल मॅप्स वापरता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "ओला/उबर (Ola/Uber) काय आहेत?",
+            "answer": "टॅक्सी सेवा."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "प्रदूषण कमी करण्यासाठी (PUC) सर्टिफिकेट लागते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "पीयूसी म्हणजे काय?",
+            "answer": "Pollution Under Control."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "गाडीची सर्व्हिसिंग (Servicing) का करावी?",
+            "answer": "गाडी चांगली चालण्यासाठी/प्रदूषण कमी करण्यासाठी."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "गाडीत कचराकुंडी (Dustbin) ठेवावी का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "गाडीतून बाहेर थुंकू नये.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "हॉर्नचा आवाज कर्कश असावा का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "सायलेन्सर (Silencer) काढून गाडी चालवावी का?",
+            "answer": "नाही, आवाज खूप येतो."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "बुलेटचा आवाज मोठा असतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "ध्वनी प्रदूषणाने काय होते?",
+            "answer": "बहिरेपणा येऊ शकतो."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "वायू प्रदूषणाने काय होते?",
+            "answer": "दम्याचे विकार."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "तुम्ही झाडे लावली तर प्रदूषण कमी होईल का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "कार पूलिंग (Car Pooling) म्हणजे काय?",
+            "answer": "एकाच गाडीतून अनेकांनी जाणे."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "त्याने काय होते?",
+            "answer": "इंधन आणि पैशाची बचत."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "सार्वजनिक वाहतूक (Public Transport) वापरावी का?",
+            "answer": "हो, नक्कीच."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "त्यामुळे ट्रॅफिक कमी होते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "तुम्ही भविष्यात कोणती गाडी घ्याल?",
+            "answer": "इलेक्ट्रिक कार/सायकल."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "पेट्रोल पंपवर आग का लावू नये?",
+            "answer": "पेट्रोल ज्वलनशील आहे."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "तिथे मोबाईल वापरू नये.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "पंक्चर (Puncture) झाल्यास काय होते?",
+            "answer": "हवा जाते/गाडी चालत नाही."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "स्टेपनी (Stepney) म्हणजे काय?",
+            "answer": "अतिरिक्त चाक."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "जॅक (Jack) कशासाठी वापरतात?",
+            "answer": "गाडी उचलण्यासाठी."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "सीट बेल्ट जीव वाचवतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "एअर बॅग (Air bag) म्हणजे काय?",
+            "answer": "अपघातात उघडणारी पिशवी."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "तुम्ही सुरक्षित प्रवास कराल का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "घरी कोणीतरी वाट पाहत आहे हे लक्षात ठेवावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "प्रवास सुखाचा होवो.",
+            "answer": "शुभ प्रवास (Happy Journey)."
+        }
+    ]
 }

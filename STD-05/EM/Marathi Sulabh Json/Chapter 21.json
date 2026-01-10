@@ -1,580 +1,1901 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "chapter_number": 21,
-  "chapter_name": "आपले आरोग्य",
-  "mode": "Outside Textbook | Max Safe Unique",
-  "counts": {
-    "one_line_questions": 65,
-    "mcqs": 35
-  },
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "‘आपले आरोग्य’ या धड्याचा मुख्य संदेश काय आहे?",
-      "answer": "चांगल्या सवयींमुळे आरोग्य टिकते हा संदेश आहे."
-    },
-    {
-      "id": 2,
-      "question": "आरोग्य म्हणजे काय?",
-      "answer": "शरीर आणि मन निरोगी असणे म्हणजे आरोग्य."
-    },
-    {
-      "id": 3,
-      "question": "आरोग्य चांगले ठेवणे का आवश्यक आहे?",
-      "answer": "सुखी जीवनासाठी."
-    },
-    {
-      "id": 4,
-      "question": "संतुलित आहार म्हणजे काय?",
-      "answer": "सर्व पोषक घटकांचा योग्य समावेश."
-    },
-    {
-      "id": 5,
-      "question": "नियमित व्यायाम का करावा?",
-      "answer": "शरीर तंदुरुस्त ठेवण्यासाठी."
-    },
-    {
-      "id": 6,
-      "question": "स्वच्छता आरोग्यासाठी का महत्त्वाची आहे?",
-      "answer": "रोग टाळण्यासाठी."
-    },
-    {
-      "id": 7,
-      "question": "आरोग्यदायी सवयी म्हणजे काय?",
-      "answer": "स्वच्छता, व्यायाम आणि योग्य आहार."
-    },
-    {
-      "id": 8,
-      "question": "पुरेशी झोप का आवश्यक आहे?",
-      "answer": "शरीराला विश्रांती मिळते."
-    },
-    {
-      "id": 9,
-      "question": "आरोग्य आणि मन यांचा काय संबंध आहे?",
-      "answer": "मन निरोगी असेल तर शरीरही निरोगी राहते."
-    },
-    {
-      "id": 10,
-      "question": "पाणी भरपूर का प्यावे?",
-      "answer": "शरीरातील कार्ये सुरळीत राहण्यासाठी."
-    },
-    {
-      "id": 11,
-      "question": "जंक फूड का टाळावे?",
-      "answer": "ते आरोग्यास हानिकारक असते."
-    },
-    {
-      "id": 12,
-      "question": "आरोग्य राखण्यासाठी वेळेवर जेवण का आवश्यक आहे?",
-      "answer": "पचन व्यवस्थित राहते."
-    },
-    {
-      "id": 13,
-      "question": "स्वच्छ हवा आरोग्यास कशी मदत करते?",
-      "answer": "श्वसन सुधारते."
-    },
-    {
-      "id": 14,
-      "question": "आरोग्यदायी जीवनशैली म्हणजे काय?",
-      "answer": "चांगल्या सवयींचा अवलंब."
-    },
-    {
-      "id": 15,
-      "question": "व्यायामामुळे कोणते फायदे होतात?",
-      "answer": "ताकद आणि सहनशक्ती वाढते."
-    },
-    {
-      "id": 16,
-      "question": "आरोग्य तपासणी का आवश्यक आहे?",
-      "answer": "रोग लवकर ओळखण्यासाठी."
-    },
-    {
-      "id": 17,
-      "question": "स्वच्छ पाणी का प्यावे?",
-      "answer": "रोग टाळण्यासाठी."
-    },
-    {
-      "id": 18,
-      "question": "आरोग्य आणि शिस्त यांचा काय संबंध आहे?",
-      "answer": "शिस्तीत राहिल्यास आरोग्य टिकते."
-    },
-    {
-      "id": 19,
-      "question": "आरोग्य राखण्यासाठी खेळ का महत्त्वाचे आहेत?",
-      "answer": "मन आणि शरीर ताजेतवाने राहते."
-    },
-    {
-      "id": 20,
-      "question": "आहारात फळे व भाज्या का आवश्यक आहेत?",
-      "answer": "जीवनसत्त्वे मिळतात."
-    },
-    {
-      "id": 21,
-      "question": "आरोग्यदायी सवयी लहानपणी का लावाव्यात?",
-      "answer": "त्या आयुष्यभर टिकतात."
-    },
-    {
-      "id": 22,
-      "question": "आजारी पडू नये म्हणून काय करावे?",
-      "answer": "स्वच्छता आणि योग्य आहार घ्यावा."
-    },
-    {
-      "id": 23,
-      "question": "आरोग्यामुळे आत्मविश्वास कसा वाढतो?",
-      "answer": "शरीर सक्षम वाटते."
-    },
-    {
-      "id": 24,
-      "question": "आरोग्य आणि अभ्यास यांचा काय संबंध आहे?",
-      "answer": "चांगले आरोग्य असेल तर अभ्यास चांगला होतो."
-    },
-    {
-      "id": 25,
-      "question": "हात धुण्याची सवय का आवश्यक आहे?",
-      "answer": "जंतुसंसर्ग टाळण्यासाठी."
-    },
-    {
-      "id": 26,
-      "question": "आरोग्यदायी आहार म्हणजे काय?",
-      "answer": "घरगुती आणि पौष्टिक अन्न."
-    },
-    {
-      "id": 27,
-      "question": "आरोग्य राखण्यासाठी दिनक्रम का आवश्यक आहे?",
-      "answer": "सवयी नियमित राहतात."
-    },
-    {
-      "id": 28,
-      "question": "ताण आरोग्यास कसा हानिकारक आहे?",
-      "answer": "मानसिक थकवा वाढतो."
-    },
-    {
-      "id": 29,
-      "question": "आरोग्य सुधारण्यासाठी योग कसा उपयोगी आहे?",
-      "answer": "मन शांत आणि शरीर लवचिक होते."
-    },
-    {
-      "id": 30,
-      "question": "आजारी असताना विश्रांती का घ्यावी?",
-      "answer": "शरीर बरे होण्यासाठी."
-    },
-    {
-      "id": 31,
-      "question": "आरोग्य आणि स्वच्छता यांचा काय संबंध आहे?",
-      "answer": "स्वच्छता रोगांपासून संरक्षण करते."
-    },
-    {
-      "id": 32,
-      "question": "दातांची काळजी का घ्यावी?",
-      "answer": "दात निरोगी ठेवण्यासाठी."
-    },
-    {
-      "id": 33,
-      "question": "आरोग्यदायी सवयी समाजासाठी का महत्त्वाच्या आहेत?",
-      "answer": "रोगांचा प्रसार कमी होतो."
-    },
-    {
-      "id": 34,
-      "question": "सकाळी लवकर उठणे आरोग्यास कसे फायदेशीर आहे?",
-      "answer": "दिनक्रम सुरळीत होतो."
-    },
-    {
-      "id": 35,
-      "question": "आरोग्य राखण्यासाठी सूर्यप्रकाश का आवश्यक आहे?",
-      "answer": "व्हिटॅमिन डी मिळते."
-    },
-    {
-      "id": 36,
-      "question": "आरोग्य आणि खेळ यांचा काय संबंध आहे?",
-      "answer": "खेळामुळे शरीर सक्रिय राहते."
-    },
-    {
-      "id": 37,
-      "question": "आरोग्यदायी अन्न निवडणे का आवश्यक आहे?",
-      "answer": "शरीराला योग्य पोषण मिळते."
-    },
-    {
-      "id": 38,
-      "question": "आरोग्य राखण्यासाठी स्वच्छ कपडे का घालावेत?",
-      "answer": "जंतुसंसर्ग टाळण्यासाठी."
-    },
-    {
-      "id": 39,
-      "question": "आरोग्यदायी जीवनासाठी सवयी कशा बदलाव्यात?",
-      "answer": "वाईट सवयी सोडून चांगल्या स्वीकाराव्यात."
-    },
-    {
-      "id": 40,
-      "question": "आरोग्य राखण्यासाठी वेळेवर झोप का आवश्यक आहे?",
-      "answer": "शरीर दुरुस्त होते."
-    },
-    {
-      "id": 41,
-      "question": "आरोग्य आणि आनंद यांचा काय संबंध आहे?",
-      "answer": "निरोगी शरीर आनंद देते."
-    },
-    {
-      "id": 42,
-      "question": "आजारी पडल्यावर डॉक्टरांचा सल्ला का घ्यावा?",
-      "answer": "योग्य उपचारासाठी."
-    },
-    {
-      "id": 43,
-      "question": "आरोग्य राखण्यासाठी ताण कसा कमी करावा?",
-      "answer": "छंद आणि विश्रांती घेऊन."
-    },
-    {
-      "id": 44,
-      "question": "आरोग्यदायी सवयी कशा टिकवाव्यात?",
-      "answer": "नियमित पालन करून."
-    },
-    {
-      "id": 45,
-      "question": "आरोग्य आणि पर्यावरण यांचा काय संबंध आहे?",
-      "answer": "स्वच्छ पर्यावरण आरोग्य देते."
-    },
-    {
-      "id": 46,
-      "question": "आरोग्य राखण्यासाठी हाताची स्वच्छता का महत्त्वाची आहे?",
-      "answer": "जंतू दूर ठेवण्यासाठी."
-    },
-    {
-      "id": 47,
-      "question": "आरोग्यदायी जीवनासाठी पाणी वाचवणे का आवश्यक आहे?",
-      "answer": "स्वच्छ पाणी उपलब्ध राहते."
-    },
-    {
-      "id": 48,
-      "question": "आरोग्य राखण्यासाठी व्यसन का टाळावे?",
-      "answer": "ते शरीराला हानी पोहोचवते."
-    },
-    {
-      "id": 49,
-      "question": "आरोग्यदायी आहारामुळे शरीर कसे बदलते?",
-      "answer": "ऊर्जा आणि ताकद वाढते."
-    },
-    {
-      "id": 50,
-      "question": "आरोग्य राखण्यासाठी वेळेचे नियोजन का करावे?",
-      "answer": "सर्व सवयी पाळता येतात."
-    },
-    {
-      "id": 51,
-      "question": "आरोग्य आणि स्वावलंबन यांचा काय संबंध आहे?",
-      "answer": "निरोगी व्यक्ती स्वावलंबी असते."
-    },
-    {
-      "id": 52,
-      "question": "आरोग्यदायी जीवनशैली समाजाला कसा फायदा देते?",
-      "answer": "रोग कमी होतात."
-    },
-    {
-      "id": 53,
-      "question": "आरोग्य राखण्यासाठी स्वतःपासून सुरुवात का करावी?",
-      "answer": "सवय स्वतःकडून लागते."
-    },
-    {
-      "id": 54,
-      "question": "आरोग्य टिकवण्यासाठी सकारात्मक विचार का आवश्यक आहेत?",
-      "answer": "मन शांत राहते."
-    },
-    {
-      "id": 55,
-      "question": "आरोग्य आणि शिस्तबद्ध जीवन यांचा काय संबंध आहे?",
-      "answer": "शिस्तीमुळे आरोग्य टिकते."
-    },
-    {
-      "id": 56,
-      "question": "आरोग्यदायी सवयींचा भविष्यासाठी काय फायदा आहे?",
-      "answer": "दीर्घायुष्य मिळते."
-    },
-    {
-      "id": 57,
-      "question": "आरोग्य राखण्यासाठी समाजात जनजागृती का आवश्यक आहे?",
-      "answer": "सर्वांनी काळजी घ्यावी म्हणून."
-    },
-    {
-      "id": 58,
-      "question": "आरोग्यदायी जीवनासाठी संतुलन का आवश्यक आहे?",
-      "answer": "मन आणि शरीर दोन्ही निरोगी राहतात."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "‘आपले आरोग्य’ या धड्याचा मुख्य विषय कोणता आहे?",
-      "options": {
-        "A": "आरोग्यदायी सवयी",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "स्पर्धा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 2,
-      "question": "आरोग्य म्हणजे काय?",
-      "options": {
-        "A": "शरीर आणि मन निरोगी",
-        "B": "फक्त शरीर",
-        "C": "फक्त मन",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 3,
-      "question": "संतुलित आहारात काय असते?",
-      "options": {
-        "A": "सर्व पोषक घटक",
-        "B": "फक्त गोड",
-        "C": "फक्त तिखट",
-        "D": "फक्त तेलकट"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 4,
-      "question": "नियमित व्यायाम का आवश्यक आहे?",
-      "options": {
-        "A": "तंदुरुस्ती",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 5,
-      "question": "स्वच्छता आरोग्यासाठी का महत्त्वाची आहे?",
-      "options": {
-        "A": "रोग टाळण्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 6,
-      "question": "पुरेशी झोप का आवश्यक आहे?",
-      "options": {
-        "A": "विश्रांती",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 7,
-      "question": "जंक फूड का टाळावे?",
-      "options": {
-        "A": "हानिकारक",
-        "B": "पौष्टिक",
-        "C": "स्वच्छ",
-        "D": "उपयुक्त"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "question": "पाणी भरपूर का प्यावे?",
-      "options": {
-        "A": "शरीरासाठी",
-        "B": "खेळासाठी",
-        "C": "मनोरंजनासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 9,
-      "question": "आरोग्य तपासणी का आवश्यक आहे?",
-      "options": {
-        "A": "रोग ओळख",
-        "B": "वेळ घालवणे",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "आरोग्य आणि अभ्यास यांचा काय संबंध आहे?",
-      "options": {
-        "A": "अभ्यास सुधारतो",
-        "B": "संबंध नाही",
-        "C": "आळस वाढतो",
-        "D": "भीती वाढते"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 11,
-      "question": "स्वच्छ हवा आरोग्यास कशी मदत करते?",
-      "options": {
-        "A": "श्वसन सुधारते",
-        "B": "गोंधळ",
-        "C": "आळस",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "question": "आहारात फळे का आवश्यक आहेत?",
-      "options": {
-        "A": "जीवनसत्त्वे",
-        "B": "तेल",
-        "C": "मीठ",
-        "D": "साखर"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 13,
-      "question": "हात धुण्याची सवय का आवश्यक आहे?",
-      "options": {
-        "A": "जंतू टाळण्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "योग आरोग्यास कसा उपयोगी आहे?",
-      "options": {
-        "A": "मन शांत",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 15,
-      "question": "आरोग्य आणि शिस्त यांचा काय संबंध आहे?",
-      "options": {
-        "A": "शिस्तीत आरोग्य",
-        "B": "संबंध नाही",
-        "C": "आळस",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "question": "आरोग्यदायी सवयी लहानपणी का लावाव्यात?",
-      "options": {
-        "A": "आयुष्यभर टिकतात",
-        "B": "वेळ घालवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "दातांची काळजी का घ्यावी?",
-      "options": {
-        "A": "निरोगी दात",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "ताण आरोग्यास कसा हानिकारक आहे?",
-      "options": {
-        "A": "थकवा",
-        "B": "ऊर्जा",
-        "C": "आनंद",
-        "D": "ताजेपणा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "सूर्यप्रकाश का आवश्यक आहे?",
-      "options": {
-        "A": "व्हिटॅमिन डी",
-        "B": "धूर",
-        "C": "प्रदूषण",
-        "D": "आवाज"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 20,
-      "question": "आरोग्य आणि पर्यावरण यांचा काय संबंध आहे?",
-      "options": {
-        "A": "स्वच्छतेचा",
-        "B": "स्पर्धा",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 21,
-      "question": "व्यसन का टाळावे?",
-      "options": {
-        "A": "आरोग्य हानी",
-        "B": "फायदा",
-        "C": "आनंद",
-        "D": "ऊर्जा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "question": "आरोग्य राखण्यासाठी वेळेचे नियोजन का करावे?",
-      "options": {
-        "A": "सवयी पाळता येतात",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 23,
-      "question": "आरोग्यदायी जीवनशैली समाजाला कसा फायदा देते?",
-      "options": {
-        "A": "रोग कमी",
-        "B": "रोग वाढतात",
-        "C": "गोंधळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "आरोग्य टिकवण्यासाठी सकारात्मक विचार का आवश्यक आहेत?",
-      "options": {
-        "A": "मन शांत",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "question": "आरोग्य राखण्यासाठी जनजागृती का आवश्यक आहे?",
-      "options": {
-        "A": "सर्वांनी काळजी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.21",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Aaple Aarogya"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "‘आरोग्य’ (Health) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "निरोगी शरीर आणि मन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त जेवणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आजारी पडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "औषध घेणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "निरोगी शरीर आणि मन"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "‘आरोग्य धनसंपदा’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आरोग्य हीच संपत्ती आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पैसे महत्त्वाचे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आरोग्य नको",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "संपत्ती नको",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आरोग्य हीच संपत्ती आहे"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "निरोगी राहण्यासाठी काय गरजेचे आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "व्यायाम आणि सकस आहार",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "झोपणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "टीव्ही बघणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पार्टी करणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "व्यायाम आणि सकस आहार"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "आजार कशामुळे होतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जंतूंमुळे/अस्वच्छतेमुळे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्वच्छतेमुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "व्यायामामुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "देणामुळे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जंतूंमुळे/अस्वच्छतेमुळे"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "हात कधी धुवावेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जेवण्यापूर्वी आणि शौचानंतर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कधीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त अंघोळीला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपताना",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जेवण्यापूर्वी आणि शौचानंतर"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "नखे कापावी का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, नियमित",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वाढवावी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रंगवावी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, नियमित"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "नखांमध्ये काय असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मळ/जंतू",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "सोने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चांदी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मळ/जंतू"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "अंघोळ केल्याने काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शरीर स्वच्छ आणि ताजे राहते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घाण होते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोप येते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रडू येते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शरीर स्वच्छ आणि ताजे राहते"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "दात कधी घासावेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सकाळी आणि रात्री",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त सकाळी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दुपारी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कधीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सकाळी आणि रात्री"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "डोळे कशाने धुवावेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वच्छ पाण्याने",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "साबणाने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दुधाने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "तेलाने",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्वच्छ पाण्याने"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "केस कशाने धुवावेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "साबण/शॅम्पू",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाणी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तेल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दूध",
+                    "is_correct": false
+                }
+            ],
+            "answer": "साबण/शॅम्पू"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "कपडे कसे असावेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वच्छ/धुतलेले",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मळलेले",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फाटलेले",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "ओले",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्वच्छ/धुतलेले"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "घरात कचरा साठू द्यावा का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कोपऱ्यात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बाहेर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "पाणी उकळून प्याल्याने काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जंतू मरतात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाणी गोड होते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाणी गरम होते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पाणी कमी होते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जंतू मरतात"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "डास चावल्याने काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मलेरिया/डेंगू",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "ताकद येते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मजा येते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मलेरिया/डेंगू"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "मलेरिया कशामुळे होतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "डासामुळे (Anopheles)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "माशामुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कुत्र्यामुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "उंदरामुळे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "डासामुळे (Anopheles)"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "पाणी साठवून ठेवल्यास काय वाढतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "डास",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मासे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "बेडूक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कासव",
+                    "is_correct": false
+                }
+            ],
+            "answer": "डास"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "उघड्यावरचे अन्न खावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चविष्ट असते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "स्वस्त असते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "माश्या बसलेले अन्न खाल्ल्यास काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कॉलरा/जुलाब",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "ताप",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "सर्दी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कॉलरा/जुलाब"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "बाहेरून आल्यावर पाय धुवावेत का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गरज नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "लगेच झोपावे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "‘सकस आहार’ (Balanced Diet) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सर्व पोषक घटक असलेला आहार",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त वडापाव",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त भात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त गोड",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सर्व पोषक घटक असलेला आहार"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "हिरव्या पालेभाज्या खाव्यात का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, डोळ्यांसाठी आणि शक्तीसाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कडू असतात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त बटाटा खावा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, डोळ्यांसाठी आणि शक्तीसाठी"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "फळे खाल्ल्याने काय मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जीवनसत्त्वे (Vitamins)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आजार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कंटाळा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोप",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जीवनसत्त्वे (Vitamins)"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "दूध प्यावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, कॅल्शियम मिळते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कडू असते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त चहा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, कॅल्शियम मिळते"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "जंक फूड (Junk Food) शरीरासाठी कसे आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हानिकारक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चांगले",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पोषक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "औषधी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हानिकारक"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "कोल्ड्रिंक्स प्यावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही/कमी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रोज",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खूप",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही/कमी"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "व्यायाम (Exercise) कशासाठी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शरीर सुदृढ ठेवण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दमण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वेळ घालवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "त्रास देण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शरीर सुदृढ ठेवण्यासाठी"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "योगासने (Yoga) मनाला काय देतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शांतता/एकाग्रता",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "राग",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भीती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "भूक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शांतता/एकाग्रता"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "प्राणायाम म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "श्वासाचा व्यायाम",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "धावणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "उड्या मारणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "श्वासाचा व्यायाम"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "सूर्य नमस्कार आरोग्यासाठी चांगले आहेत का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कठीण असतात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कधीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "झोप किती हवी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "७-८ तास",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "२ तास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "१२ तास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "४ तास",
+                    "is_correct": false
+                }
+            ],
+            "answer": "७-८ तास"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "लवकर झोपावे, लवकर उठावे -",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आरोग्य मिळेल",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पैसे मिळतील",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "त्रास होईल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शाळा सुटेल",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आरोग्य मिळेल"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "आजारी पडल्यास कोणाकडे जावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "डॉक्टरकडे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वकिलाकडे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिक्षकाकडे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दुकानात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "डॉक्टरकडे"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "वैद्य (Vaidya) म्हणजे कोण?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आयुर्वेदिक डॉक्टर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शिक्षक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पोलिस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शेतकरी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आयुर्वेदिक डॉक्टर"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "ताप आल्यावर काय वापरावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "थर्मामीटर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "टेप",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वजन काटा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "घड्याळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "थर्मामीटर"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "डॉक्टर काय देतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "औषध/गोळ्या",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चॉकलेट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खेळणी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पुस्तके",
+                    "is_correct": false
+                }
+            ],
+            "answer": "औषध/गोळ्या"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "इंजेक्शन घेणे आवडते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही (पण घ्यावे लागते)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मजा येते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खेळायला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही (पण घ्यावे लागते)"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "‘लसीकरण’ (Vaccination) कशासाठी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "रोगप्रतिकारशक्ती वाढवण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "ताप येण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रडण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "रोगप्रतिकारशक्ती वाढवण्यासाठी"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "पोलिओ डोस कशासाठी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पोलिओ होऊ नये म्हणून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "ताप कमी करण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शक्तीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "उंचीसाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पोलिओ होऊ नये म्हणून"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "कोरोना (Covid-19) मध्ये काय वापरले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मास्क आणि सॅनिटायझर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चष्मा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "टोपी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शूज",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मास्क आणि सॅनिटायझर"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "सॅनिटायझर काय करते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जंतू मारते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हात खराब करते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "सुगंध देते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जंतू मारते"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "सामाजिक अंतर (Social Distancing) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लांब राहणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": " जवळ येणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मिठी मारणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हात मिळवणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "लांब राहणे"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "कचरापेटीत कचरा टाकावा का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रस्त्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खिडकीतून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "घरात सूर्यप्रकाश यावा का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, जंतू मरतात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गरम होते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काळा पडतो",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, जंतू मरतात"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "धुम्रपान (Smoking) करणे चांगले आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही, कर्करोग होतो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "स्टाईल आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मजा येते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही, कर्करोग होतो"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "तंबाखू खाणे चांगले आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दात घासण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चवीसाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "दारू पिणे शरीरासाठी काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हानिकारक/विष",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "अमृत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाणी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सरबत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हानिकारक/विष"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "व्यसनांपासून दूर राहावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीतरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मित्रासोबत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 49,
+            "question_type": "SHORT",
+            "question": "तुम्ही रोज व्यायाम करता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 50,
+            "question_type": "SHORT",
+            "question": "कोणता व्यायाम करता?",
+            "answer": "धावणे/योगा."
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "तुम्ही ब्रश किती वेळा करता?",
+            "answer": "दोन वेळा."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "जीभ स्वच्छ करता का?",
+            "answer": "हो (टंग क्लीनरने)."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "कान कोरणे (Ear bud) वापरावे का?",
+            "answer": "काळजीपूर्वक/टाळावे."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "कानात तेल टाकावे का?",
+            "answer": "डॉक्टरांच्या सल्ल्याशिवाय नाही."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "मोबाईल जास्त वेळ पाहल्याने काय होते?",
+            "answer": "डोळे दुखतात/नंबर लागतो."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "टीव्ही जवळून बघावा का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "वाचताना उजेड कसा असावा?",
+            "answer": "पुरेसा (डाव्या बाजूने)."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "झोपताना लाईट चालू ठेवावी का?",
+            "answer": "डिम किंवा बंद."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "मच्छरदाणी वापरावी का?",
+            "answer": "हो, डासांपासून बचावासाठी."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "घरात माश्या होऊ नये म्हणून काय करावे?",
+            "answer": "स्वच्छता आणि फिनाईलचा वापर."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "झुरळ कशामुळे होतात?",
+            "answer": "अस्वच्छतेमुळे."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "उंदीर काय पसरवतात?",
+            "answer": "प्लेगसारखे आजार."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "कुत्रा चावल्यावर काय घ्यावे?",
+            "answer": "रेबीजची लस."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "तुम्हाला रक्तदान करायला आवडेल का?",
+            "answer": "हो (मोठे झाल्यावर)."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "रक्तगट (Blood Group) म्हणजे काय?",
+            "answer": "रक्ताचा प्रकार (A, B, O, AB)."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "युनिव्हर्सल डोनर (O) कोण?",
+            "answer": "सर्वांना रक्त देणारा."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "हार्ट अटॅक (Heart Attack) कशामुळे येतो?",
+            "answer": "तणाव आणि चुकीच्या आहारामुळे."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "मधुमेह (Diabetes) कशामुळे होतो?",
+            "answer": "साखर आणि व्यायामाचा अभाव."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "बीपी (Blood Pressure) म्हणजे काय?",
+            "answer": "रक्तदाब."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "स्थूलपणा (Obesity) म्हणजे काय?",
+            "answer": "वजन वाढणे."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "वजन कमी करण्यासाठी काय करावे?",
+            "answer": "आहार नियंत्रण आणि व्यायाम."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "पाणी गाळून प्यावे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "माठातले पाणी चांगले का?",
+            "answer": "हो, नैसर्गिकरित्या थंड."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "फ्रीजचे पाणी जास्त प्यावे का?",
+            "answer": "नाही, घशासाठी वाईट."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "कोमट पाणी पिणे चांगले का?",
+            "answer": "हो, सकाळी."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "लिंबू सरबत कशासाठी चांगले?",
+            "answer": "व्हिटॅमिन सी आणि पचनासाठी."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "नारळ पाणी कशासाठी?",
+            "answer": "शक्ती आणि थंडाव्यासाठी."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "आजारी माणसाला काय खायला द्यावे?",
+            "answer": "मउ भात/खिचडी/सूप."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "फळांची साल काढावी का?",
+            "answer": "काही फळांची (केळी, संत्री), काहींची नाही (सफरचंद)."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "जेवताना सावकाश जेवावे का?",
+            "answer": "हो, चावून खावे."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "टीव्ही बघत जेवल्याने काय होते?",
+            "answer": "जास्त खाल्ले जाते (Overeating)."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "रात्रीचे जेवण हलके असावे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "जेवल्यानंतर लगेच झोपावे का?",
+            "answer": "नाही, शतपावली करावी."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "सकाळी नाश्ता (Breakfast) राजासारखा असावा का?",
+            "answer": "हो (King size)."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "दुपारचे जेवण कसे असावे?",
+            "answer": "मध्यम."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "रात्रीचे जेवण कसे असावे?",
+            "answer": "भिकाऱ्यासारखे (कमी)."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "उपवास (Fasting) करणे चांगले का?",
+            "answer": "हो, पचनासाठी (कधीतरी)."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "जास्त उपवास करणे चांगले का?",
+            "answer": "नाही, ऍसिडिटी होते."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "तुम्हाला सर्दी झाली आहे का?",
+            "answer": "हो, अनेकदा."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "सर्दीवर घरगुती उपाय काय?",
+            "answer": "वाफ घेणे/हळद दूध."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "खोकल्यावर काय करावे?",
+            "answer": "मध आणि आले."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "तुळशीची पाने खावीत का?",
+            "answer": "हो, इम्युनिटीसाठी."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "कडुलिंबाची पाने कशासाठी?",
+            "answer": "जंतूनाशक/रक्तशुद्धी."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "कोरफड (Aloe Vera) कशासाठी?",
+            "answer": "त्वचा आणि पोटासाठी."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "आवळा (Amla) कशासाठी?",
+            "answer": "व्हिटॅमिन सी आणि केसांसाठी."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "तुम्ही डॉक्टरांना घाबरता का?",
+            "answer": "नाही/थोडे."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "स्टेथोस्कोप काय काम करतो?",
+            "answer": "हृदयाचे ठोके ऐकतो."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "रुग्णवाहिका (Ambulance) कशासाठी?",
+            "answer": "रुग्णाला नेण्यासाठी."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "रुग्णवाहिकेचा नंबर काय आहे?",
+            "answer": "१०८ (मोफत) / १०२."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "दवाखान्यात शांतता ठेवावी का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "रुग्णाला भेटायला जाताना काय न्यावे?",
+            "answer": "फळे."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "शस्त्रक्रिया (Operation) म्हणजे काय?",
+            "answer": "ऑपरेशन करून आजार काढणे."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "क्ष-किरण (X-ray) म्हणजे काय?",
+            "answer": "हाडांचा फोटो."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "सोनोग्राफी म्हणजे काय?",
+            "answer": "पोटातील अवयवांची तपासणी."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "तुमचा फॅमिली डॉक्टर आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "मानसिक आरोग्य (Mental Health) महत्त्वाचे आहे का?",
+            "answer": "हो, मनाची शांती."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "ताण तणाव (Stress) नसावा.",
+            "answer": "हो, आनंदी राहावे."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "हसणे हा उत्तम व्यायाम आहे का?",
+            "answer": "हो (Laughter Therapy)."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "मित्र-मैत्रिणींशी बोलल्याने ताण कमी होतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "संताप/राग करणे आरोग्याला चांगले का?",
+            "answer": "नाही, बीपी वाढतो."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "शांत राहिल्याने काय होते?",
+            "answer": "मन प्रसन्न राहते."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "मेडिटेशन कसे करावे?",
+            "answer": "डोळे मिटून श्वासावर लक्ष देऊन."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "तुम्ही देवाला काय मागाल?",
+            "answer": "चांगले आरोग्य आणि बुद्धी."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "सर्वे सन्तु निरामया -",
+            "answer": "म्हणजे सर्वजण निरोगी राहोत."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "तुम्ही कोरोना लस घेतली आहे का?",
+            "answer": "नाही (मुलांसाठी जी असेल ती)."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "बाहेर थुंकू नये का?",
+            "answer": "हो, टीबी पसरतो."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "रुमालाचा वापर शिंकताना करावा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "दुसऱ्यांचा रुमाल/टॉवेल वापरावा का?",
+            "answer": "नाही, संसर्ग होतो."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "दुसऱ्याचा साबण वापरावा का?",
+            "answer": "शक्यतो नाही (त्वचारोग)."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "कंगवा शेअर करावा का?",
+            "answer": "नाही (उवा/कोंडा)."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "स्वच्छता तिथे -",
+            "answer": "देवता/आरोग्य."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "गाव स्वच्छ तर -",
+            "answer": "देश स्वच्छ."
+        },
+        {
+            "question_id": 123,
+            "question_type": "SHORT",
+            "question": "हगणदारी मुक्त गाव म्हणजे काय?",
+            "answer": "शौचालयाचा वापर करणारे गाव."
+        },
+        {
+            "question_id": 124,
+            "question_type": "SHORT",
+            "question": "शौचालय (Toilet) घरात असावे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 125,
+            "question_type": "SHORT",
+            "question": "उघड्यावर शौचास जाणे योग्य आहे का?",
+            "answer": "नाही, आजार पसरतात."
+        },
+        {
+            "question_id": 126,
+            "question_type": "SHORT",
+            "question": "हात धुवा मोहीम माहिती आहे का?",
+            "answer": "हो (Global Handwashing Day)."
+        },
+        {
+            "question_id": 127,
+            "question_type": "SHORT",
+            "question": "जागतिक आरोग्य दिन कधी असतो?",
+            "answer": "७ एप्रिल."
+        },
+        {
+            "question_id": 128,
+            "question_type": "SHORT",
+            "question": "जागतिक योग दिन कधी असतो?",
+            "answer": "२१ जून."
+        },
+        {
+            "question_id": 129,
+            "question_type": "SHORT",
+            "question": "फिट इंडिया मुव्हमेंट काय सांगते?",
+            "answer": "फिट राहाल तर हिट राहाल."
+        },
+        {
+            "question_id": 130,
+            "question_type": "SHORT",
+            "question": "तुम्ही फिट आहात का?",
+            "answer": "हो, एकदम फिट."
+        },
+        {
+            "question_id": 131,
+            "question_type": "SHORT",
+            "question": "तुमची उंची किती आहे?",
+            "answer": "(सेमी मध्ये)."
+        },
+        {
+            "question_id": 132,
+            "question_type": "SHORT",
+            "question": "तुमचे वजन किती आहे?",
+            "answer": "(किलो मध्ये)."
+        },
+        {
+            "question_id": 133,
+            "question_type": "SHORT",
+            "question": "बीएमआय (BMI) म्हणजे काय?",
+            "answer": "बॉडी मास इंडेक्स."
+        },
+        {
+            "question_id": 134,
+            "question_type": "SHORT",
+            "question": "तुमचे डोळे चांगले आहेत का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 135,
+            "question_type": "SHORT",
+            "question": "चष्मा लागला आहे का?",
+            "answer": "नाही/हो."
+        },
+        {
+            "question_id": 136,
+            "question_type": "SHORT",
+            "question": "ऐकायला स्पष्ट येते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 137,
+            "question_type": "SHORT",
+            "question": "दाताला कीड लागली आहे का?",
+            "answer": "नाही (Chocolate कमी खा)."
+        },
+        {
+            "question_id": 138,
+            "question_type": "SHORT",
+            "question": "आरोग्य हीच खरी संपत्ती - हे पटले का?",
+            "answer": "हो, १००%."
+        },
+        {
+            "question_id": 139,
+            "question_type": "SHORT",
+            "question": "पैसे कमावण्यासाठी आरोग्य गमावू नका.",
+            "answer": "हो, लक्षात ठेवीन."
+        }
+    ]
 }

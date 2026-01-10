@@ -1,580 +1,1841 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "chapter_number": 19,
-  "chapter_name": "आपली पृथ्वी",
-  "mode": "Outside Textbook | Max Safe Unique",
-  "counts": {
-    "one_line_questions": 65,
-    "mcqs": 35
-  },
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "‘आपली पृथ्वी’ या धड्याचा मुख्य संदेश काय आहे?",
-      "answer": "पृथ्वीचे संरक्षण करणे ही आपली जबाबदारी आहे."
-    },
-    {
-      "id": 2,
-      "question": "पृथ्वी म्हणजे काय?",
-      "answer": "आपण राहतो तो ग्रह म्हणजे पृथ्वी."
-    },
-    {
-      "id": 3,
-      "question": "पृथ्वीवर जीवन का शक्य आहे?",
-      "answer": "हवा, पाणी आणि योग्य तापमानामुळे."
-    },
-    {
-      "id": 4,
-      "question": "पृथ्वीचे संरक्षण का आवश्यक आहे?",
-      "answer": "भविष्यातील जीवन सुरक्षित ठेवण्यासाठी."
-    },
-    {
-      "id": 5,
-      "question": "पृथ्वीवरील पाणी का महत्त्वाचे आहे?",
-      "answer": "ते सर्व सजीवांसाठी आवश्यक आहे."
-    },
-    {
-      "id": 6,
-      "question": "पृथ्वीवरील हवा का जपावी?",
-      "answer": "श्वसनासाठी हवा आवश्यक आहे."
-    },
-    {
-      "id": 7,
-      "question": "पृथ्वीवर झाडांचे महत्त्व काय आहे?",
-      "answer": "ऑक्सिजन आणि संतुलन देतात."
-    },
-    {
-      "id": 8,
-      "question": "पृथ्वीवरील माती कशासाठी उपयुक्त आहे?",
-      "answer": "शेती आणि अन्ननिर्मितीसाठी."
-    },
-    {
-      "id": 9,
-      "question": "पृथ्वीचा गैरवापर केल्यास काय होते?",
-      "answer": "पर्यावरणाचे नुकसान होते."
-    },
-    {
-      "id": 10,
-      "question": "पृथ्वीवरील प्राणी का जपावेत?",
-      "answer": "पर्यावरण संतुलनासाठी."
-    },
-    {
-      "id": 11,
-      "question": "पृथ्वीवर प्रदूषण का वाढते?",
-      "answer": "मानवी निष्काळजीपणामुळे."
-    },
-    {
-      "id": 12,
-      "question": "पृथ्वीचे संरक्षण विद्यार्थी कसे करू शकतात?",
-      "answer": "स्वच्छता राखून आणि झाडे लावून."
-    },
-    {
-      "id": 13,
-      "question": "पृथ्वीवरील नैसर्गिक साधनसंपत्ती म्हणजे काय?",
-      "answer": "पाणी, हवा, माती, खनिजे."
-    },
-    {
-      "id": 14,
-      "question": "पृथ्वीवर पाणी वाचवणे का आवश्यक आहे?",
-      "answer": "पाण्याची टंचाई टाळण्यासाठी."
-    },
-    {
-      "id": 15,
-      "question": "पृथ्वीवरील जंगलांचे महत्त्व काय आहे?",
-      "answer": "हवामान संतुलनासाठी."
-    },
-    {
-      "id": 16,
-      "question": "पृथ्वीवर कचरा कमी का करावा?",
-      "answer": "प्रदूषण टाळण्यासाठी."
-    },
-    {
-      "id": 17,
-      "question": "पृथ्वीचे संरक्षण म्हणजे काय?",
-      "answer": "निसर्गाची काळजी घेणे."
-    },
-    {
-      "id": 18,
-      "question": "पृथ्वीवरील जीवनचक्र कसे चालते?",
-      "answer": "सर्व सजीवांमधील परस्पर संबंधामुळे."
-    },
-    {
-      "id": 19,
-      "question": "पृथ्वीवर ऊर्जा कशी मिळते?",
-      "answer": "सूर्य, पाणी आणि वाऱ्यापासून."
-    },
-    {
-      "id": 20,
-      "question": "पृथ्वीवरील जैवविविधता का महत्त्वाची आहे?",
-      "answer": "संतुलन टिकवण्यासाठी."
-    },
-    {
-      "id": 21,
-      "question": "पृथ्वीवर मानवी जबाबदारी काय आहे?",
-      "answer": "साधनांचा योग्य वापर."
-    },
-    {
-      "id": 22,
-      "question": "पृथ्वीवरील हवामान बदल का होतो?",
-      "answer": "प्रदूषण आणि जंगलतोडीमुळे."
-    },
-    {
-      "id": 23,
-      "question": "पृथ्वीवरील नद्या का जपाव्यात?",
-      "answer": "पाणीपुरवठ्यासाठी."
-    },
-    {
-      "id": 24,
-      "question": "पृथ्वीवर प्लास्टिकचा वापर कमी का करावा?",
-      "answer": "पर्यावरण संरक्षणासाठी."
-    },
-    {
-      "id": 25,
-      "question": "पृथ्वीवरील पर्वतांचे महत्त्व काय आहे?",
-      "answer": "नद्यांचा उगम होतो."
-    },
-    {
-      "id": 26,
-      "question": "पृथ्वीवरील समुद्र कशासाठी महत्त्वाचे आहेत?",
-      "answer": "हवामान नियंत्रणासाठी."
-    },
-    {
-      "id": 27,
-      "question": "पृथ्वीवर स्वच्छता का आवश्यक आहे?",
-      "answer": "आरोग्य आणि पर्यावरणासाठी."
-    },
-    {
-      "id": 28,
-      "question": "पृथ्वीवरील जीवन धोक्यात कधी येते?",
-      "answer": "प्रदूषण वाढल्यास."
-    },
-    {
-      "id": 29,
-      "question": "पृथ्वीचे संरक्षण केल्याने काय फायदा होतो?",
-      "answer": "स्वच्छ आणि सुरक्षित जीवन."
-    },
-    {
-      "id": 30,
-      "question": "पृथ्वीवरील संसाधने मर्यादित का आहेत?",
-      "answer": "ती निसर्गनिर्मित आहेत."
-    },
-    {
-      "id": 31,
-      "question": "पृथ्वीवर पावसाचे महत्त्व काय आहे?",
-      "answer": "पाणीपुरवठ्यासाठी."
-    },
-    {
-      "id": 32,
-      "question": "पृथ्वीवरील शेती का महत्त्वाची आहे?",
-      "answer": "अन्ननिर्मितीसाठी."
-    },
-    {
-      "id": 33,
-      "question": "पृथ्वीवर ऊर्जेचा अपव्यय का टाळावा?",
-      "answer": "साधने जपण्यासाठी."
-    },
-    {
-      "id": 34,
-      "question": "पृथ्वीवरील प्राणी आणि मानव कसे जोडलेले आहेत?",
-      "answer": "पर्यावरण संतुलनामुळे."
-    },
-    {
-      "id": 35,
-      "question": "पृथ्वीवरील वृक्षतोड का घातक आहे?",
-      "answer": "हवामान बदल घडतो."
-    },
-    {
-      "id": 36,
-      "question": "पृथ्वीवरील जलस्रोत कसे जपता येतील?",
-      "answer": "पाणी वाचवून."
-    },
-    {
-      "id": 37,
-      "question": "पृथ्वीवरील जीवनाचे संरक्षण कसे करता येईल?",
-      "answer": "निसर्गपूरक सवयींनी."
-    },
-    {
-      "id": 38,
-      "question": "पृथ्वीवर प्रदूषण कमी कसे करावे?",
-      "answer": "स्वच्छ ऊर्जा वापरून."
-    },
-    {
-      "id": 39,
-      "question": "पृथ्वीवरील कचऱ्याचे व्यवस्थापन का आवश्यक आहे?",
-      "answer": "स्वच्छतेसाठी."
-    },
-    {
-      "id": 40,
-      "question": "पृथ्वीवरील हवामान संतुलन का महत्त्वाचे आहे?",
-      "answer": "जीवन टिकवण्यासाठी."
-    },
-    {
-      "id": 41,
-      "question": "पृथ्वीवर नैसर्गिक आपत्ती का येतात?",
-      "answer": "निसर्गातील बदलांमुळे."
-    },
-    {
-      "id": 42,
-      "question": "पृथ्वीवरील सजीव कसे जपावेत?",
-      "answer": "त्यांच्या अधिवासाचे संरक्षण करून."
-    },
-    {
-      "id": 43,
-      "question": "पृथ्वीवरील ऊर्जा स्रोत का महत्त्वाचे आहेत?",
-      "answer": "विकासासाठी."
-    },
-    {
-      "id": 44,
-      "question": "पृथ्वीवरील पर्यावरण शिक्षण का आवश्यक आहे?",
-      "answer": "जाणीव वाढवण्यासाठी."
-    },
-    {
-      "id": 45,
-      "question": "पृथ्वीवर स्वच्छ पाणी कसे मिळेल?",
-      "answer": "जलस्रोत जपल्याने."
-    },
-    {
-      "id": 46,
-      "question": "पृथ्वीवरील जीवन टिकवण्यासाठी काय आवश्यक आहे?",
-      "answer": "निसर्ग संतुलन."
-    },
-    {
-      "id": 47,
-      "question": "पृथ्वीवरील संसाधनांचा योग्य वापर म्हणजे काय?",
-      "answer": "मर्यादित वापर."
-    },
-    {
-      "id": 48,
-      "question": "पृथ्वीवर पर्यावरण संरक्षण ही कोणाची जबाबदारी आहे?",
-      "answer": "सर्वांची."
-    },
-    {
-      "id": 49,
-      "question": "पृथ्वीवरील प्रदूषणाचा परिणाम काय होतो?",
-      "answer": "आरोग्यावर परिणाम होतो."
-    },
-    {
-      "id": 50,
-      "question": "पृथ्वीवरील वन्यजीव संरक्षण का आवश्यक आहे?",
-      "answer": "जैवविविधतेसाठी."
-    },
-    {
-      "id": 51,
-      "question": "पृथ्वीवरील हरित क्षेत्र का वाढवावे?",
-      "answer": "हवा स्वच्छ ठेवण्यासाठी."
-    },
-    {
-      "id": 52,
-      "question": "पृथ्वीवरील निसर्ग आपल्याला काय शिकवतो?",
-      "answer": "संतुलन आणि सहअस्तित्व."
-    },
-    {
-      "id": 53,
-      "question": "पृथ्वीवरील संसाधने जपल्याने भविष्य कसे सुरक्षित होते?",
-      "answer": "साधने उपलब्ध राहतात."
-    },
-    {
-      "id": 54,
-      "question": "पृथ्वीवर मानवी सवयी कशा बदलायला हव्यात?",
-      "answer": "निसर्गपूरक."
-    },
-    {
-      "id": 55,
-      "question": "पृथ्वीवरील जीवनासाठी सूर्याचे महत्त्व काय आहे?",
-      "answer": "ऊर्जा देतो."
-    },
-    {
-      "id": 56,
-      "question": "पृथ्वीवरील पर्यावरण संरक्षण कसे सुरू करावे?",
-      "answer": "स्वतःपासून."
-    },
-    {
-      "id": 57,
-      "question": "पृथ्वीवरील निसर्गाचा आदर का करावा?",
-      "answer": "तो जीवनाचा आधार आहे."
-    },
-    {
-      "id": 58,
-      "question": "पृथ्वीवरील जीवन टिकवण्यासाठी एकत्र प्रयत्न का आवश्यक आहेत?",
-      "answer": "मोठा बदल घडवण्यासाठी."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "‘आपली पृथ्वी’ या धड्याचा मुख्य विषय कोणता आहे?",
-      "options": {
-        "A": "पृथ्वी संरक्षण",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "स्पर्धा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 2,
-      "question": "पृथ्वीवर जीवन का शक्य आहे?",
-      "options": {
-        "A": "हवा आणि पाणी",
-        "B": "फक्त सूर्य",
-        "C": "फक्त माती",
-        "D": "फक्त समुद्र"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 3,
-      "question": "पृथ्वीवरील पाणी का महत्त्वाचे आहे?",
-      "options": {
-        "A": "जीवनासाठी",
-        "B": "खेळासाठी",
-        "C": "मनोरंजनासाठी",
-        "D": "स्पर्धेसाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 4,
-      "question": "पृथ्वीचे संरक्षण का करावे?",
-      "options": {
-        "A": "भविष्यासाठी",
-        "B": "वेळ घालवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 5,
-      "question": "पृथ्वीवरील झाडांचे महत्त्व काय आहे?",
-      "options": {
-        "A": "ऑक्सिजन देतात",
-        "B": "धूर देतात",
-        "C": "प्रदूषण करतात",
-        "D": "आवाज करतात"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 6,
-      "question": "पृथ्वीवर प्रदूषण का वाढते?",
-      "options": {
-        "A": "मानवी कृती",
-        "B": "निसर्ग",
-        "C": "प्राणी",
-        "D": "झाडे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 7,
-      "question": "पृथ्वीवरील नैसर्गिक साधनसंपत्ती म्हणजे काय?",
-      "options": {
-        "A": "पाणी, हवा, माती",
-        "B": "फक्त पैसा",
-        "C": "फक्त इमारती",
-        "D": "फक्त रस्ते"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "question": "पृथ्वीवरील जंगलांचे महत्त्व काय आहे?",
-      "options": {
-        "A": "हवामान संतुलन",
-        "B": "गोंधळ",
-        "C": "प्रदूषण",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 9,
-      "question": "पृथ्वीवरील जैवविविधता का जपावी?",
-      "options": {
-        "A": "संतुलनासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "पृथ्वीवरील संसाधने का जपावीत?",
-      "options": {
-        "A": "मर्यादित आहेत",
-        "B": "अमर्याद आहेत",
-        "C": "निरुपयोगी आहेत",
-        "D": "धोकादायक आहेत"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 11,
-      "question": "पृथ्वीवरील हवामान बदल का होतो?",
-      "options": {
-        "A": "प्रदूषणामुळे",
-        "B": "खेळामुळे",
-        "C": "आळसामुळे",
-        "D": "मनोरंजनामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "question": "पृथ्वीवरील नद्या का जपाव्यात?",
-      "options": {
-        "A": "पाणीपुरवठ्यासाठी",
-        "B": "खेळासाठी",
-        "C": "स्पर्धेसाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 13,
-      "question": "पृथ्वीवर प्लास्टिक वापर कमी का करावा?",
-      "options": {
-        "A": "प्रदूषण कमी करण्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "पृथ्वीवरील समुद्र कशासाठी महत्त्वाचे आहेत?",
-      "options": {
-        "A": "हवामान नियंत्रण",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "स्पर्धा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 15,
-      "question": "पृथ्वीवरील स्वच्छता का आवश्यक आहे?",
-      "options": {
-        "A": "आरोग्यासाठी",
-        "B": "खेळासाठी",
-        "C": "आळसासाठी",
-        "D": "गोंधळासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "question": "पृथ्वीवरील वन्यजीव संरक्षण का आवश्यक आहे?",
-      "options": {
-        "A": "जैवविविधता",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "स्पर्धा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "पृथ्वीवरील ऊर्जा स्रोत का महत्त्वाचे आहेत?",
-      "options": {
-        "A": "विकासासाठी",
-        "B": "आळसासाठी",
-        "C": "गोंधळासाठी",
-        "D": "खेळासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "पृथ्वीवरील पर्यावरण शिक्षण का आवश्यक आहे?",
-      "options": {
-        "A": "जाणीव वाढवण्यासाठी",
-        "B": "वेळ घालवण्यासाठी",
-        "C": "खेळासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "पृथ्वीवरील कचऱ्याचे व्यवस्थापन का आवश्यक आहे?",
-      "options": {
-        "A": "स्वच्छतेसाठी",
-        "B": "खेळासाठी",
-        "C": "स्पर्धेसाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 20,
-      "question": "पृथ्वीवरील जीवन टिकवण्यासाठी काय आवश्यक आहे?",
-      "options": {
-        "A": "निसर्ग संतुलन",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "स्पर्धा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 21,
-      "question": "पृथ्वीवरील पर्यावरण संरक्षण कोणाची जबाबदारी आहे?",
-      "options": {
-        "A": "सर्वांची",
-        "B": "फक्त सरकारची",
-        "C": "फक्त शाळेची",
-        "D": "कोणाचीही नाही"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "question": "पृथ्वीवरील संसाधनांचा योग्य वापर म्हणजे काय?",
-      "options": {
-        "A": "मर्यादित वापर",
-        "B": "अमर्याद वापर",
-        "C": "अपव्यय",
-        "D": "उपेक्षा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 23,
-      "question": "पृथ्वीवरील निसर्ग आपल्याला काय शिकवतो?",
-      "options": {
-        "A": "सहअस्तित्व",
-        "B": "स्पर्धा",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "पृथ्वीवरील जीवनासाठी सूर्याचे महत्त्व काय आहे?",
-      "options": {
-        "A": "ऊर्जा देतो",
-        "B": "प्रदूषण करतो",
-        "C": "आवाज करतो",
-        "D": "थंडी देतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "question": "पृथ्वीवरील संरक्षण कुठून सुरू करावे?",
-      "options": {
-        "A": "स्वतःपासून",
-        "B": "इतरांपासून",
-        "C": "कोणापासून नाही",
-        "D": "फक्त शाळेत"
-      },
-      "answer": "A"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.19",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Aapli Prithvi"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "आपण कोठे राहतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पृथ्वीवर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मंगळावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चंद्रावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सूर्यावर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पृथ्वीवर"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "‘पृथ्वी’ (Earth) काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ग्रह (Planet)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तारा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "उपग्रह",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ग्रह (Planet)"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "पृथ्वीचा आकार कसा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गोल (नांरगीसारखा)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चौकोनी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "सपाट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "त्रिकोणी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गोल (नांरगीसारखा)"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "पृथ्वी कोणाभोवती फिरते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सूर्याभोवती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "चंद्राभोवती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "स्वतःभोवती (आणि सूर्याभोवती)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "कोणाभोवतीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्वतःभोवती (आणि सूर्याभोवती)"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "पृथ्वीला स्वतःभोवती फिरायला किती वेळ लागतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "२४ तास (१ दिवस)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "१ वर्ष",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "१ महिना",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "१ तास",
+                    "is_correct": false
+                }
+            ],
+            "answer": "२४ तास (१ दिवस)"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "सूर्याभोवती फिरायला किती वेळ लागतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "३६५ दिवस (१ वर्ष)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "२४ तास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "७ दिवस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "१ महिना",
+                    "is_correct": false
+                }
+            ],
+            "answer": "३६५ दिवस (१ वर्ष)"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "पृथ्वीवर किती टक्के पाणी आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "७१%",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "५०%",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "२९%",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "९०%",
+                    "is_correct": false
+                }
+            ],
+            "answer": "७१%"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "पृथ्वीवर किती टक्के जमीन आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "२९%",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "७०%",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "५०%",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "१०%",
+                    "is_correct": false
+                }
+            ],
+            "answer": "२९%"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "‘खंड’ (Continents) किती आहेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "७",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "५",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "४",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "१०",
+                    "is_correct": false
+                }
+            ],
+            "answer": "७"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "सर्वात मोठा खंड कोणता?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आशिया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आफ्रिका",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "युरोप",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अमेरिका",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आशिया"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "आपला भारत देश कोणत्या खंडात आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आशिया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आफ्रिका",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "युरोप",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "ऑस्ट्रेलिया",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आशिया"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "‘महासागर’ (Oceans) किती आहेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "५ (किंवा ४)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "७",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "२",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "१",
+                    "is_correct": false
+                }
+            ],
+            "answer": "५ (किंवा ४)"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "सर्वात मोठा महासागर कोणता?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पॅसिफिक (प्रशांत)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हिंदी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "अटलांटिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "आर्क्टिक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पॅसिफिक (प्रशांत)"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "सूर्य काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तारा (Star)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "ग्रह",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "उपग्रह",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तारा (Star)"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "चंद्र (Moon) काय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पृथ्वीचा उपग्रह",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तारा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "ग्रह",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "देव",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पृथ्वीचा उपग्रह"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "चंद्राला स्वतःचा प्रकाश आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीतरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खूप",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "पृथ्वीला उष्णता आणि प्रकाश कोठून मिळतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सूर्यापासून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चंद्रापासून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "ताऱ्यांपासून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विजेपासून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सूर्यापासून"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "‘गुरुत्वाकर्षण’ (Gravity) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खेचून घेण्याची शक्ती",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फेकण्याची शक्ती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "उडण्याची शक्ती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पळण्याची शक्ती",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खेचून घेण्याची शक्ती"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "गुरुत्वाकर्षणाचा शोध कोणी लावला?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "न्यूटन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आईन्स्टाईन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गॅलिलिओ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हेले",
+                    "is_correct": false
+                }
+            ],
+            "answer": "न्यूटन"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "झाडावरून फळ खाली का पडते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गुरुत्वाकर्षणामुळे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वाऱ्यामुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जादूमुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वजनामुळे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गुरुत्वाकर्षणामुळे"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "पृथ्वीवर हवा आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो (वातावरण)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त ऑक्सिजन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त नायट्रोजन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो (वातावरण)"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "वातावरणात कोणता वायू जास्त आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नायट्रोजन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "ऑक्सिजन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कार्बन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हायड्रोजन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नायट्रोजन"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "आपण श्वसनासाठी कोणता वायू घेतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ऑक्सिजन (प्राणवायू)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नायट्रोजन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कार्बन डायऑक्साइड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हेलियम",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ऑक्सिजन (प्राणवायू)"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "पृथ्वीचा उपग्रह कोणता?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चंद्र",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "सूर्य",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मंगळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शुक्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चंद्र"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "पृथ्वीची बहीण (Twin Sister) कोणत्या ग्रहाला म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शुक्र (Venus)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मंगळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "बुध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गुरू",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शुक्र (Venus)"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "सूर्पमालेत (Solar System) किती ग्रह आहेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "८",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "९",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "७",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "५",
+                    "is_correct": false
+                }
+            ],
+            "answer": "८"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "सर्वात मोठा ग्रह कोणता?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गुरू (Jupiter)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शनि",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पृथ्वी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मंगळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गुरू (Jupiter)"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "कड्या असणारा ग्रह कोणता?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शनि (Saturn)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गुरू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "हर्षल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नेपच्यून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शनि (Saturn)"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "लाल ग्रह (Red Planet) कोण?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मंगळ (Mars)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पृथ्वी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शुक्र",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बुध",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मंगळ (Mars)"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "‘क्षितिज’ (Horizon) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आकाश जमिनीला टेकल्यासारखे भासते ती रेषा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "डोंगर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "समुद्र",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रस्ता",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आकाश जमिनीला टेकल्यासारखे भासते ती रेषा"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "पृथ्वी फिरते म्हणून काय होतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दिवस आणि रात्र",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाऊस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वारा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "भूकंप",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दिवस आणि रात्र"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "ध्रुव (Poles) कुठे असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "उत्तर आणि दक्षिण टोकाला",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मध्यभागी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पूर्वेला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पश्चिमेला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "उत्तर आणि दक्षिण टोकाला"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "विषुववृत्त (Equator) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पृथ्वीच्या मध्यातून जाणारी काल्पनिक रेषा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वरची रेषा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खालची रेषा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "उभी रेषा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पृथ्वीच्या मध्यातून जाणारी काल्पनिक रेषा"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "भारताच्या दक्षिणेस कोणता महासागर आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हिंदी महासागर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पॅसिफिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "अटलांटिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अरबी समुद्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हिंदी महासागर"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "ग्लोब (Globe) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पृथ्वीची प्रतिकृती",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चेंडू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दिवा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पृथ्वीची प्रतिकृती"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "नकाशा (Map) कशाचा असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "देशाचा/जगाचा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घराचा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "माणसाचा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झाडाचा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "देशाचा/जगाचा"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "नकाशात निळा रंग काय दर्शवतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पाणी/समुद्र",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जमीन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झाडे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बर्फ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पाणी/समुद्र"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "नकाशात हिरवा रंग काय दर्शवतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मैदान/झाडे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाणी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "डोंगर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बर्फ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मैदान/झाडे"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "नकाशात तपकिरी (Brown) रंग काय दर्शवतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पर्वत/डोंगर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाणी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शेती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शहर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पर्वत/डोंगर"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "पृथ्वीची काळजी कोणी घ्यावी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आपण सर्वांनी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त वैज्ञानिकांनी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "देवाने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "प्राण्यांनी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आपण सर्वांनी"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "‘वसुंधरा दिन’ (Earth Day) कधी असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "२२ एप्रिल",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "५ जून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "१५ ऑगस्ट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "१ जानेवारी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "२२ एप्रिल"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "प्रदूषणामुळे पृथ्वीला काय होत आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ताप येत आहे (Global Warming)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "थंडी वाजत आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "बरं वाटत आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोप येत आहे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ताप येत आहे (Global Warming)"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "तापमान वाढल्याने काय वितळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "बर्फ (Glaciers)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दगड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "लोखंड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "लाकूड",
+                    "is_correct": false
+                }
+            ],
+            "answer": "बर्फ (Glaciers)"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "बर्फ वितळल्याने काय वाढेल?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "समुद्राची पातळी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जमीन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झाडे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पर्वत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "समुद्राची पातळी"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "पृथ्वी वाचवण्यासाठी काय लावावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "झाडे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फटाके",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कागद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "आग",
+                    "is_correct": false
+                }
+            ],
+            "answer": "झाडे"
+        },
+        {
+            "question_id": 46,
+            "question_type": "SHORT",
+            "question": "तुम्ही पृथ्वी गोल पाहिली आहे का?",
+            "answer": "हो, शाळेत."
+        },
+        {
+            "question_id": 47,
+            "question_type": "SHORT",
+            "question": "सूर्य कोणत्या दिशेला उगवतो?",
+            "answer": "पूर्वेला."
+        },
+        {
+            "question_id": 48,
+            "question_type": "SHORT",
+            "question": "सूर्य कोणत्या दिशेला मावळतो?",
+            "answer": "पश्चिमेला."
+        },
+        {
+            "question_id": 49,
+            "question_type": "SHORT",
+            "question": "उत्तर दिशेच्या विरुद्ध दिशा कोणती?",
+            "answer": "दक्षिण."
+        },
+        {
+            "question_id": 50,
+            "question_type": "SHORT",
+            "question": "एकूण मुख्य दिशा किती?",
+            "answer": "चार (पूर्व, पश्चिम, उत्तर, दक्षिण)."
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "उपदिशा किती आहेत?",
+            "answer": "चार (आग्नेय, नैऋत्य, वायव्य, ईशान्य)."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "होकायंत्र (Compass) काय दाखवते?",
+            "answer": "दिशा."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "होकायंत्राची सुई नेहमी कोणती दिशा दाखवते?",
+            "answer": "उत्तर."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "अवकाशात जाणारा पहिला भारतीय कोण?",
+            "answer": "राकेश शर्मा."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "चंद्रावर पाऊल ठेवणारा पहिला माणूस कोण?",
+            "answer": "नील आर्मस्ट्राँग."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "इस्रो (ISRO) म्हणजे काय?",
+            "answer": "भारताची अंतराळ संस्था."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "चांद्रयान काय आहे?",
+            "answer": "चंद्रावर जाणारे यान."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "मंगळयान काय आहे?",
+            "answer": "मंगळावर जाणारे यान."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "तुम्हाला अंतराळवीर (Astronaut) बनायला आवडेल का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "अंतराळात वजन असते का?",
+            "answer": "नाही (Weightlessness)."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "तिथे माणूस कसा चालतो?",
+            "answer": "उडतो/तरंगतो."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "सूर्यमालेत जीवसृष्टी (Life) कोठे आहे?",
+            "answer": "फक्त पृथ्वीवर."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "पृथ्वीला ‘निळा ग्रह’ (Blue Planet) का म्हणतात?",
+            "answer": "पाण्यामुळे."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "समुद्राचे पाणी कसे असते?",
+            "answer": "खारे."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "नदीचे पाणी कसे असते?",
+            "answer": "गोड."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "पृथ्वीच्या पोटात काय आहे?",
+            "answer": "लावारस (तप्त रस)."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "ज्वालामुखी (Volcano) म्हणजे काय?",
+            "answer": "लावारस बाहेर येणे."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "भूकंप (Earthquake) का होतो?",
+            "answer": "जमिनीखालील हालचालींमुळे."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "दरीत काय असते?",
+            "answer": "खोल भाग."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "पठार म्हणजे काय?",
+            "answer": "सपाट उंच जागा."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "बेट (Island) म्हणजे काय?",
+            "answer": "चारी बाजूने पाणी असलेली जमीन."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "द्विपकल्प (Peninsula) म्हणजे काय?",
+            "answer": "तीन बाजूने पाणी असलेली जमीन (उदा. भारत)."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "वाळवंटात काय असते?",
+            "answer": "वाळू आणि कमी पाणी."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "जंगलात काय असते?",
+            "answer": "झाडे आणि प्राणी."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "बर्फाळ प्रदेशात कोण राहते?",
+            "answer": "एस्किमो."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "त्यांच्या घराला काय म्हणतात?",
+            "answer": "इग्लू."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "आपला देश किती मोठा आहे?",
+            "answer": "खूप विशाल."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "हिमालयात काय आहे?",
+            "answer": "बर्फ आणि उंच शिखरे."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "माउंट एव्हरेस्ट काय आहे?",
+            "answer": "जगातील सर्वात उंच शिखर."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "गंगा नदी कोठून उगम पावते?",
+            "answer": "हिमालयातून (गंगोत्री)."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "यमुना नदी कोठे आहे?",
+            "answer": "भारतात (उत्तरेकडे)."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "गोदावरी नदी कोठे आहे?",
+            "answer": "महाराष्ट्रात."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "अरबी समुद्र भारताच्या कोणत्या दिशेला आहे?",
+            "answer": "पश्चिमेला."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "बंगालचा उपसागर कोठे आहे?",
+            "answer": "पूर्वेला."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "हिंदी महासागर कोठे आहे?",
+            "answer": "दक्षिणेला."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "पृथ्वी गोल असून आपण पडत का नाही?",
+            "answer": "गुरुत्वाकर्षणामुळे."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "आकाशात काय असते?",
+            "answer": "ढग, पक्षी, विमाने."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "रात्री आकाशात काय दिसते?",
+            "answer": "चंद्र, तारे, नक्षत्रे."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "चांदण्या लुकलुकतात का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "ध्रुव तारा (Pole Star) कुठे असतो?",
+            "answer": "उत्तरेस (स्थिर)."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "सप्तर्षी म्हणजे काय?",
+            "answer": "सात ताऱ्यांचा समूह."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "आकाशगपंगा (Milky Way) म्हणजे काय?",
+            "answer": "ताऱ्यांची नदी."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "ग्रह लुकलुकतात का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "सूर्यास्त झाल्यावर अंधार का होतो?",
+            "answer": "सूर्य नसल्यामुळे."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "पौर्णिमेला चंद्र कसा दिसतो?",
+            "answer": "पूर्ण गोल."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "अमावस्येला चंद्र दिसतो का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "भरती-ओहोटी (Tides) कशामुळे होते?",
+            "answer": "चंद्राच्या आकर्षणामुळे."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "सुनामी कशामुळे येते?",
+            "answer": "समुद्रातील भूकंपामुळे."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "वातावरणात ओझोन (Ozone) थर काय करतो?",
+            "answer": "तेजस्वी किरणांपासून वाचवतो."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "आपण पृथ्वीला आई का म्हणतो?",
+            "answer": "ती आपले पालनपोषण करते."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "धरणीकंप म्हणजे काय?",
+            "answer": "भूकंप."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "जमीन सुपीक कशामुळे होते?",
+            "answer": "सेंद्रिय खतामुळे."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "वाळवंटात शेती करता येते का?",
+            "answer": "शक्यतो नाही."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "डोंगरावर शेती कशी करतात?",
+            "answer": "पायऱ्या-पायऱ्यांची शेती."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "पृथ्वीवर ऋतू का बदलतात?",
+            "answer": "पृथ्वीच्या कलेमुळे आणि परिभ्रमणमुळे."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "उन्हाळा, पावसाळा, हिवाळा हे काय आहेत?",
+            "answer": "ऋतू."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "भारतात मोसमी वारे काय आणतात?",
+            "answer": "पाऊस."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "काश्मीरमध्ये काय पडते?",
+            "answer": "बर्फ."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "केरळमध्ये हवामान कसे असते?",
+            "answer": "दमट."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "राजस्थानमध्ये हवामान कसे असते?",
+            "answer": "उष्ण."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "तुम्ही नकाशात आपले गाव शोधले आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "तुम्ही ग्लोब फिरवला आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "पृथ्वी फिरते की सूर्य फिरतो?",
+            "answer": "पृथ्वी फिरते."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "आपल्याला सूर्य फिरताना का दिसतो?",
+            "answer": "भास होतो (आपण फिरतो म्हणून)."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "ट्रेनमधून झाडे पळताना दिसतात तसे?",
+            "answer": "हो, अगदी तसेच."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "पृथ्वीचा गाभा (Core) कसा आहे?",
+            "answer": "गरम."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "खनिजे (Minerals) कोठून मिळतात?",
+            "answer": "जमिनीतून/खाणीतून."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "कोळसा कोठून मिळतो?",
+            "answer": "जमिनीतून."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "पेट्रोल कोठून मिळते?",
+            "answer": "जमिनीतून (तेल विहिरीतून)."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "हिरा (Diamond) कोठून मिळतो?",
+            "answer": "खाणीतून."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "सोने कोठून मिळते?",
+            "answer": "खाणीतून."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "आपण साधनसंपत्ती जपून वापरावी का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 123,
+            "question_type": "SHORT",
+            "question": "पाणी हे जीवन आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 124,
+            "question_type": "SHORT",
+            "question": "निसर्ग कोणाचा आहे?",
+            "answer": "सर्वांचा."
+        },
+        {
+            "question_id": 125,
+            "question_type": "SHORT",
+            "question": "माणूस निसर्गाचा मालक आहे का?",
+            "answer": "नाही, एक भाग आहे."
+        },
+        {
+            "question_id": 126,
+            "question_type": "SHORT",
+            "question": "आपली पृथ्वी सुंदर आहे का?",
+            "answer": "हो, खूप."
+        },
+        {
+            "question_id": 127,
+            "question_type": "SHORT",
+            "question": "तिला अजून सुंदर कोण करेल?",
+            "answer": "आपण."
+        },
+        {
+            "question_id": 128,
+            "question_type": "SHORT",
+            "question": "स्वच्छता ठेवल्यास पृथ्वी हसेल का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 129,
+            "question_type": "SHORT",
+            "question": "प्लास्टिक मुक्त पृथ्वी हवी का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 130,
+            "question_type": "SHORT",
+            "question": "प्रदूषण मुक्त पृथ्वी हवी का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 131,
+            "question_type": "SHORT",
+            "question": "तुम्ही एक तरी झाड लावाल का?",
+            "answer": "हो, नक्की."
+        },
+        {
+            "question_id": 132,
+            "question_type": "SHORT",
+            "question": "झाडाचे संगोपन कराल का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 133,
+            "question_type": "SHORT",
+            "question": "जय धरती माँ.",
+            "answer": "वंदे मातरम."
+        },
+        {
+            "question_id": 134,
+            "question_type": "SHORT",
+            "question": "पृथ्वी गोल आहे हे कोणी सांगितले?",
+            "answer": "(इतिहासात अनेक शास्त्रज्ञांनी)."
+        },
+        {
+            "question_id": 135,
+            "question_type": "SHORT",
+            "question": "कोलंबस कशासाठी निघाला होता?",
+            "answer": "भारताच्या शोधासाठी."
+        },
+        {
+            "question_id": 136,
+            "question_type": "SHORT",
+            "question": "तो कुठे पोहोचला?",
+            "answer": "अमेरिकेला."
+        },
+        {
+            "question_id": 137,
+            "question_type": "SHORT",
+            "question": "वास्को द गामा कुठे आला?",
+            "answer": "भारतात (कालिकत)."
+        },
+        {
+            "question_id": 138,
+            "question_type": "SHORT",
+            "question": "आपण भारतात सुरक्षित आहोत का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 139,
+            "question_type": "SHORT",
+            "question": "पृथ्वीवर युद्ध व्हावे का?",
+            "answer": "नाही, शांतता हवी."
+        },
+        {
+            "question_id": 140,
+            "question_type": "SHORT",
+            "question": "सर्व देशांनी मित्र बनावे का?",
+            "answer": "हो."
+        }
+    ]
 }

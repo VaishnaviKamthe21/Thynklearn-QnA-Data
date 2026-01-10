@@ -1,575 +1,1769 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "chapter_number": 17,
-  "chapter_name": "आपण सारे एकत्र",
-  "mode": "Outside Textbook | Max Safe Unique",
-  "counts": {
-    "one_line_questions": 65,
-    "mcqs": 35
-  },
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "‘आपण सारे एकत्र’ या धड्याचा मुख्य संदेश काय आहे?",
-      "answer": "एकत्र राहून काम केल्यास यश मिळते हा संदेश आहे."
-    },
-    {
-      "id": 2,
-      "question": "एकत्र राहणे म्हणजे काय?",
-      "answer": "सर्वांनी मिळून एकमेकांना साथ देणे."
-    },
-    {
-      "id": 3,
-      "question": "एकतेचे महत्त्व काय आहे?",
-      "answer": "एकतेमुळे सामर्थ्य वाढते."
-    },
-    {
-      "id": 4,
-      "question": "एकत्र काम केल्याने काय फायदा होतो?",
-      "answer": "काम सोपे आणि प्रभावी होते."
-    },
-    {
-      "id": 5,
-      "question": "समूहभावना म्हणजे काय?",
-      "answer": "सर्वांसाठी विचार करण्याची भावना."
-    },
-    {
-      "id": 6,
-      "question": "एकत्र राहिल्याने मतभेद कसे मिटतात?",
-      "answer": "संवाद आणि समजुतीने."
-    },
-    {
-      "id": 7,
-      "question": "एकतेमुळे समाज कसा मजबूत होतो?",
-      "answer": "सर्वजण एकमेकांना मदत करतात."
-    },
-    {
-      "id": 8,
-      "question": "एकत्र काम करताना काय आवश्यक आहे?",
-      "answer": "परस्पर विश्वास."
-    },
-    {
-      "id": 9,
-      "question": "एकत्र राहिल्याने आनंद कसा वाढतो?",
-      "answer": "सामूहिक आनंद मिळतो."
-    },
-    {
-      "id": 10,
-      "question": "समूहात काम केल्याने आत्मविश्वास कसा वाढतो?",
-      "answer": "एकटेपणाची भावना राहत नाही."
-    },
-    {
-      "id": 11,
-      "question": "एकत्र निर्णय घेणे का महत्त्वाचे आहे?",
-      "answer": "योग्य आणि स्वीकारार्ह निर्णय होतात."
-    },
-    {
-      "id": 12,
-      "question": "एकतेमुळे अडचणी कशा कमी होतात?",
-      "answer": "जबाबदाऱ्या वाटल्या जातात."
-    },
-    {
-      "id": 13,
-      "question": "एकत्र राहिल्याने शिकणे कसे सोपे होते?",
-      "answer": "एकमेकांकडून शिकता येते."
-    },
-    {
-      "id": 14,
-      "question": "समूहभावनेमुळे शिस्त कशी टिकते?",
-      "answer": "सर्वजण नियम पाळतात."
-    },
-    {
-      "id": 15,
-      "question": "एकत्र काम करताना संयम का आवश्यक आहे?",
-      "answer": "मतभेद शांततेने सोडवण्यासाठी."
-    },
-    {
-      "id": 16,
-      "question": "एकतेमुळे समाजात सुरक्षितता कशी वाढते?",
-      "answer": "सर्वांचा आधार मिळतो."
-    },
-    {
-      "id": 17,
-      "question": "एकत्र राहिल्याने नातेसंबंध कसे सुधारतात?",
-      "answer": "विश्वास आणि आदर वाढतो."
-    },
-    {
-      "id": 18,
-      "question": "समूहात प्रत्येकाची भूमिका का महत्त्वाची आहे?",
-      "answer": "यशासाठी सर्वांची गरज असते."
-    },
-    {
-      "id": 19,
-      "question": "एकत्र काम केल्याने वेळ कसा वाचतो?",
-      "answer": "काम विभागले जाते."
-    },
-    {
-      "id": 20,
-      "question": "एकतेमुळे समाजात समता कशी वाढते?",
-      "answer": "सर्वांना समान महत्त्व दिले जाते."
-    },
-    {
-      "id": 21,
-      "question": "एकत्र राहिल्याने संघर्ष का कमी होतो?",
-      "answer": "संवाद वाढतो."
-    },
-    {
-      "id": 22,
-      "question": "समूहभावना विद्यार्थ्यांसाठी का आवश्यक आहे?",
-      "answer": "गटकार्य यशस्वी होते."
-    },
-    {
-      "id": 23,
-      "question": "एकत्र काम केल्याने नेतृत्व कसे विकसित होते?",
-      "answer": "जबाबदाऱ्या स्वीकारल्या जातात."
-    },
-    {
-      "id": 24,
-      "question": "एकतेमुळे समाजाचा विकास कसा होतो?",
-      "answer": "सर्वांचा सहभाग मिळतो."
-    },
-    {
-      "id": 25,
-      "question": "एकत्र राहिल्याने समस्या सोडवणे कसे सोपे होते?",
-      "answer": "एकत्र विचार करता येतो."
-    },
-    {
-      "id": 26,
-      "question": "समूहभावनेमुळे आत्मसन्मान कसा वाढतो?",
-      "answer": "स्वतःला समूहाचा भाग वाटतो."
-    },
-    {
-      "id": 27,
-      "question": "एकत्र काम करताना संवाद का महत्त्वाचा आहे?",
-      "answer": "गैरसमज टाळण्यासाठी."
-    },
-    {
-      "id": 28,
-      "question": "एकतेमुळे समाजात शांतता कशी टिकते?",
-      "answer": "परस्पर समज वाढते."
-    },
-    {
-      "id": 29,
-      "question": "एकत्र राहिल्याने आनंद साजरा करणे का सोपे होते?",
-      "answer": "सर्वजण सहभागी होतात."
-    },
-    {
-      "id": 30,
-      "question": "समूहात काम केल्याने सर्जनशीलता कशी वाढते?",
-      "answer": "वेगवेगळ्या कल्पना मिळतात."
-    },
-    {
-      "id": 31,
-      "question": "एकत्र राहिल्याने समाजात विश्वास कसा वाढतो?",
-      "answer": "सर्वजण एकमेकांवर भरोसा ठेवतात."
-    },
-    {
-      "id": 32,
-      "question": "एकतेमुळे कठीण काळ कसा पार पडतो?",
-      "answer": "सर्वजण मदत करतात."
-    },
-    {
-      "id": 33,
-      "question": "एकत्र काम करताना नियम पाळणे का आवश्यक आहे?",
-      "answer": "शिस्त राखण्यासाठी."
-    },
-    {
-      "id": 34,
-      "question": "समूहभावनेमुळे समाजात आपुलकी कशी वाढते?",
-      "answer": "सहकार्याची भावना वाढते."
-    },
-    {
-      "id": 35,
-      "question": "एकत्र राहिल्याने निर्णय का योग्य ठरतात?",
-      "answer": "सर्वांचे मत घेतले जाते."
-    },
-    {
-      "id": 36,
-      "question": "एकतेमुळे समाज अधिक संघटित कसा होतो?",
-      "answer": "सर्वजण एकत्र उभे राहतात."
-    },
-    {
-      "id": 37,
-      "question": "एकत्र काम केल्याने व्यक्तिमत्त्व कसे घडते?",
-      "answer": "सहकार्याची सवय लागते."
-    },
-    {
-      "id": 38,
-      "question": "समूहभावना मुलांमध्ये कशी रुजवता येते?",
-      "answer": "गट उपक्रमांद्वारे."
-    },
-    {
-      "id": 39,
-      "question": "एकत्र राहिल्याने जबाबदारीची भावना कशी वाढते?",
-      "answer": "सर्वांचा सहभाग असतो."
-    },
-    {
-      "id": 40,
-      "question": "एकतेमुळे समाजात सकारात्मकता कशी वाढते?",
-      "answer": "सामूहिक प्रयत्नांमुळे."
-    },
-    {
-      "id": 41,
-      "question": "एकत्र काम करताना सहकार्य का आवश्यक आहे?",
-      "answer": "कार्य यशस्वी होण्यासाठी."
-    },
-    {
-      "id": 42,
-      "question": "समूहभावनेमुळे समाजात स्थैर्य कसे टिकते?",
-      "answer": "सर्वजण नियम पाळतात."
-    },
-    {
-      "id": 43,
-      "question": "एकत्र राहिल्याने समाजात सौहार्द कसे वाढते?",
-      "answer": "परस्पर आदरामुळे."
-    },
-    {
-      "id": 44,
-      "question": "एकतेमुळे समाज अधिक सक्षम कसा होतो?",
-      "answer": "सर्वांची ताकद एकत्र येते."
-    },
-    {
-      "id": 45,
-      "question": "एकत्र काम केल्याने समस्या लवकर कशा सुटतात?",
-      "answer": "एकत्र प्रयत्नांमुळे."
-    },
-    {
-      "id": 46,
-      "question": "समूहभावना जीवनात कुठे उपयोगी पडते?",
-      "answer": "घर, शाळा आणि समाजात."
-    },
-    {
-      "id": 47,
-      "question": "एकत्र राहिल्याने समाजात समानता कशी वाढते?",
-      "answer": "सर्वांना समान संधी मिळते."
-    },
-    {
-      "id": 48,
-      "question": "एकतेमुळे समाजात आनंद का टिकतो?",
-      "answer": "सामूहिक भावना निर्माण होते."
-    },
-    {
-      "id": 49,
-      "question": "एकत्र काम करताना संयम आणि आदर का आवश्यक आहे?",
-      "answer": "मतभेद टाळण्यासाठी."
-    },
-    {
-      "id": 50,
-      "question": "समूहभावनेमुळे समाजात विश्वास कसा टिकतो?",
-      "answer": "सहकार्यामुळे."
-    },
-    {
-      "id": 51,
-      "question": "एकत्र राहिल्याने समाजात जबाबदारी कशी वाढते?",
-      "answer": "सर्वजण कर्तव्य पार पाडतात."
-    },
-    {
-      "id": 52,
-      "question": "एकतेमुळे समाजात प्रगती कशी होते?",
-      "answer": "सर्वांचा सहभाग मिळतो."
-    },
-    {
-      "id": 53,
-      "question": "एकत्र काम केल्याने शिकण्याचा अनुभव कसा बदलतो?",
-      "answer": "अनुभव समृद्ध होतो."
-    },
-    {
-      "id": 54,
-      "question": "समूहभावना भविष्यासाठी का महत्त्वाची आहे?",
-      "answer": "समाज विकासासाठी."
-    },
-    {
-      "id": 55,
-      "question": "एकत्र राहिल्याने समाज अधिक सुरक्षित कसा होतो?",
-      "answer": "सर्वांचा आधार मिळतो."
-    },
-    {
-      "id": 56,
-      "question": "एकतेमुळे जीवनात समाधान कसे मिळते?",
-      "answer": "सामूहिक यशामुळे."
-    },
-    {
-      "id": 57,
-      "question": "एकत्र काम केल्याने समाज कसा पुढे जातो?",
-      "answer": "सहकार्यामुळे."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "‘आपण सारे एकत्र’ या धड्याचा मुख्य विषय कोणता आहे?",
-      "options": {
-        "A": "एकता",
-        "B": "स्पर्धा",
-        "C": "एकटेपणा",
-        "D": "मनोरंजन"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 2,
-      "question": "एकत्र राहिल्याने काय वाढते?",
-      "options": {
-        "A": "सामर्थ्य",
-        "B": "भीती",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 3,
-      "question": "समूहभावना म्हणजे काय?",
-      "options": {
-        "A": "सर्वांसाठी विचार",
-        "B": "फक्त स्वतःचा विचार",
-        "C": "स्पर्धा",
-        "D": "एकटेपणा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 4,
-      "question": "एकत्र काम केल्याने काय होते?",
-      "options": {
-        "A": "काम सोपे होते",
-        "B": "काम कठीण होते",
-        "C": "वेळ वाया जातो",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 5,
-      "question": "एकतेमुळे समाज कसा होतो?",
-      "options": {
-        "A": "मजबूत",
-        "B": "दुर्बल",
-        "C": "विस्कळीत",
-        "D": "कमकुवत"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 6,
-      "question": "एकत्र निर्णय घेणे का महत्त्वाचे आहे?",
-      "options": {
-        "A": "योग्य निर्णयासाठी",
-        "B": "वेळ वाया घालवण्यासाठी",
-        "C": "भांडणासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 7,
-      "question": "एकतेमुळे अडचणी कशा होतात?",
-      "options": {
-        "A": "कमी",
-        "B": "जास्त",
-        "C": "तशाच",
-        "D": "वाढतात"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "question": "समूहात काम केल्याने काय वाढते?",
-      "options": {
-        "A": "आत्मविश्वास",
-        "B": "भीती",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 9,
-      "question": "एकत्र राहिल्याने समाजात काय टिकते?",
-      "options": {
-        "A": "शांतता",
-        "B": "गोंधळ",
-        "C": "भीती",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "एकत्र काम करताना काय आवश्यक आहे?",
-      "options": {
-        "A": "विश्वास",
-        "B": "संशय",
-        "C": "भीती",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 11,
-      "question": "एकतेमुळे समाजाचा विकास कसा होतो?",
-      "options": {
-        "A": "सहभागामुळे",
-        "B": "भांडणामुळे",
-        "C": "आळसामुळे",
-        "D": "भीतीमुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "question": "समूहभावनेमुळे शिस्त कशी टिकते?",
-      "options": {
-        "A": "नियम पाळल्यामुळे",
-        "B": "आळसामुळे",
-        "C": "भीतीमुळे",
-        "D": "गोंधळामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 13,
-      "question": "एकत्र काम केल्याने वेळ कसा वाचतो?",
-      "options": {
-        "A": "काम विभागल्याने",
-        "B": "उशीर केल्याने",
-        "C": "आळसाने",
-        "D": "गोंधळाने"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "एकतेमुळे समाजात समता कशी वाढते?",
-      "options": {
-        "A": "समान महत्त्व दिल्याने",
-        "B": "भेदभावाने",
-        "C": "आळसाने",
-        "D": "भीतीने"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 15,
-      "question": "समूहभावना विद्यार्थ्यांसाठी का आवश्यक आहे?",
-      "options": {
-        "A": "गटकार्य यशस्वी होते",
-        "B": "भांडण वाढते",
-        "C": "आळस वाढतो",
-        "D": "भीती वाढते"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "question": "एकत्र राहिल्याने संघर्ष का कमी होतो?",
-      "options": {
-        "A": "संवादामुळे",
-        "B": "भीतीमुळे",
-        "C": "आळसामुळे",
-        "D": "गोंधळामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "एकतेमुळे समाज अधिक संघटित कसा होतो?",
-      "options": {
-        "A": "एकत्र उभे राहिल्याने",
-        "B": "भांडणाने",
-        "C": "आळसाने",
-        "D": "भीतीने"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "एकत्र काम करताना संयम का आवश्यक आहे?",
-      "options": {
-        "A": "मतभेद टाळण्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "आळसासाठी",
-        "D": "भीतीसाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "समूहभावना जीवनात कुठे उपयोगी पडते?",
-      "options": {
-        "A": "घर, शाळा, समाज",
-        "B": "फक्त शाळेत",
-        "C": "फक्त घरात",
-        "D": "कुठेही नाही"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 20,
-      "question": "एकतेमुळे समाजात आनंद का टिकतो?",
-      "options": {
-        "A": "सामूहिक भावना",
-        "B": "भीती",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 21,
-      "question": "एकत्र काम केल्याने सर्जनशीलता कशी वाढते?",
-      "options": {
-        "A": "वेगवेगळ्या कल्पना",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "question": "एकत्र राहिल्याने समाजात विश्वास कसा वाढतो?",
-      "options": {
-        "A": "सहकार्यामुळे",
-        "B": "संशयामुळे",
-        "C": "भीतीमुळे",
-        "D": "आळसामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 23,
-      "question": "एकतेमुळे कठीण काळ कसा पार पडतो?",
-      "options": {
-        "A": "मदतीमुळे",
-        "B": "आळसामुळे",
-        "C": "भीतीमुळे",
-        "D": "गोंधळामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "एकत्र काम करताना नियम पाळणे का आवश्यक आहे?",
-      "options": {
-        "A": "शिस्तीसाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "आळसासाठी",
-        "D": "भीतीसाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "question": "एकतेमुळे समाज अधिक सक्षम कसा होतो?",
-      "options": {
-        "A": "सर्वांची ताकद एकत्र",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.17",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Aapan Sare Ekatra"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "‘आपण सारे एकत्र’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Unity/We all together",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fighting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sleeping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Running",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Unity/We all together"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "‘एकता’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Unity",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Division",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Maths",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Science",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Unity"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "‘विविधतेत एकता’ हे कोणत्या देशाचे वैशिष्ट्य आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "भारत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाकिस्तान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चीन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अमेरिका",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भारत"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "भारतात किती धर्म आहेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "अनेक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकच",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दोन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "अनेक"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "आपण भारतीय म्हणून कसे आहोत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एक (One)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वेगळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शत्रू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "परके",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एक (One)"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "भांडणामुळे काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नुकसान/फूट",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फायदा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "प्रगती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "आनंद",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नुकसान/फूट"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "एकजूट असल्यावर काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ताकद वाढते/यश मिळते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हरतो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भीती वाटते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रडतो",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ताकद वाढते/यश मिळते"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "पाच बोटे एकत्र आल्यावर काय बनते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मूठ (Fist)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाय",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "हात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "डोळा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मूठ (Fist)"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "एकीचे बळ -",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मिळे फळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जाई जळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "येई कळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नसते बळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मिळे फळ"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "काठीची गोष्ट काय शिकवते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एकीत बळ असते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "काठी मोडते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "काठी मारते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काठी विकते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकीत बळ असते"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "एक काठी तोडणे सोपे आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कठीण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अशक्य",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "काठ्यांची जुडी तोडणे सोपे आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही, कठीण आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "सोपे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शक्य",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही, कठीण आहे"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "मुंग्या सापाला कसे मारतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एकत्र येऊन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पळून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रडून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकत्र येऊन"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "पक्ष्यांनी जाळे कसे उडवले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एकत्र उडून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फाडून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "एक एक करून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कापून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकत्र उडून"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "ही गोष्ट कोणाची आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कबुतरांची",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कावळ्यांची",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पोपटांची",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चिमण्यांची",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कबुतरांची"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "शिकारी काय झाला?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आश्चर्यचकित/निराश",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आनंदी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "श्रीमंत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जाडा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आश्चर्यचकित/निराश"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "‘सहकार्य’ (Cooperation) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एकमेकांना मदत करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "भांडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चोरी करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मारणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकमेकांना मदत करणे"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "सांघिक खेळ (Team Sports) काय शिकवतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "संघभावना/Teamwork",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्वार्थ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भांडण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "एकटे राहणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "संघभावना/Teamwork"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "क्रिकेट संघात किती खेळाडू असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "११",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "५",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "२",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "१",
+                    "is_correct": false
+                }
+            ],
+            "answer": "११"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "संघात मतभेद असावेत का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नसावेत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "असावेत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खूप",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नेहमी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नसावेत"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "देशाच्या प्रगतीसाठी काय हवे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "राष्ट्रीय एकात्मता",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जातीयवाद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भांडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "युद्ध",
+                    "is_correct": false
+                }
+            ],
+            "answer": "राष्ट्रीय एकात्मता"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "सण एकत्र साजरे केल्याने काय वाढते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रेम/बंधुभाव",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "द्वेष",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "राग",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विष",
+                    "is_correct": false
+                }
+            ],
+            "answer": "प्रेम/बंधुभाव"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "शाळेत आपण कसे राहतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एकत्र/मित्रांसारखे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "भांडून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रागावून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वेगळे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकत्र/मित्रांसारखे"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "वर्गात गटबाजी (Groupism) करावी का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चांगली असते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मजा येते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "सर्वांशी प्रेमाने वागावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त श्रीमंतांशी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "‘बंधुभाव’ (Brotherhood) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "भावासारखे प्रेम",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शत्रुत्व",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मैत्री तोडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मारामारी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भावासारखे प्रेम"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "भारत माझा देश आहे आणि -",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सारे भारतीय माझे बांधव आहेत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मी एकटा आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कोणीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शत्रू आहेत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सारे भारतीय माझे बांधव आहेत"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "हे वाक्य कशात आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रतिज्ञेत (Pledge)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गाण्यात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गोष्टीत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बातम्यात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "प्रतिज्ञेत (Pledge)"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "‘वसुधैव कुटुंबकम’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "संपूर्ण जग एक कुटुंब आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जग वाईट आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जग मोठे आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कुटुंब छोटे आहे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "संपूर्ण जग एक कुटुंब आहे"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "मदत कोणाला करावी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गरजूंना/सर्वांना",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त मित्राला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त स्वतःला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कोणालाच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गरजूंना/सर्वांना"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "संकटात कोण धावून येते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मित्र/समाज",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दगड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भिंत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "टीव्ही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मित्र/समाज"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "पूरग्रस्तांना मदत कशी करतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एकत्र येऊन/निधी गोळा करून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "बघून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "हसून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पळून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकत्र येऊन/निधी गोळा करून"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "भूकंपग्रस्तांना मदत करावी का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "का?",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माहीत नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "श्रमदान म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सर्वांनी मिळून कष्ट करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पैसे देणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भाषण देणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गाणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सर्वांनी मिळून कष्ट करणे"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "गावाची सफाई कशी होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "श्रमदानातून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जादूने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाण्याने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वाऱ्याने",
+                    "is_correct": false
+                }
+            ],
+            "answer": "श्रमदानातून"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "कोऑपरेटिव्ह सोसायटी (Co-operative Society) म्हणजे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सहकारी संस्था",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खाजगी दुकान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शाळा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "घर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सहकारी संस्था"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "‘अमूल’ (Amul) हे कशाचे उदाहरण आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सहकारी संस्थेचे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खाजगी कंपनीचे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "सरकारी कचेरीचे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शाळेचे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सहकारी संस्थेचे"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "शेतकरी गट करून शेती करतात का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो (गटशेती)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अशक्य",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो (गटशेती)"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "बचत गट (Self Help Group) कोणासाठी असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "महिलांच्या आर्थिक प्रगतीसाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मुलांसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पुरुषांसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "प्राण्यांसाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "महिलांच्या आर्थिक प्रगतीसाठी"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "टिळकानी सार्वजनिक गणेशोत्सव का सुरु केला?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लोक एकत्र यावेत म्हणून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गाणे म्हणायला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नाचायला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फटाके फोडायला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "लोक एकत्र यावेत म्हणून"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "शिवजयंती मिरवणूक कशी काढावी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एकत्र/शिस्तीत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रागावून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मारामारी करून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वेगवेगळी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एकत्र/शिस्तीत"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "‘युती’ (Alliance) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जोडणे/एकत्र येणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तोडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फुटणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कापणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जोडणे/एकत्र येणे"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "‘फूट’ (Division) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वेगळे होणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकत्र येणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मैत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "प्रेम",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वेगळे होणे"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "‘एकमेका साह्य करू -’",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "अवघे धरू सुपंथ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाय ओढू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भांडण करू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रडत बसू",
+                    "is_correct": false
+                }
+            ],
+            "answer": "अवघे धरू सुपंथ"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "हे कोणी म्हटले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "संत तुकारामांनी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "ज्ञानेश्वरांनी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिवाजी महाराजांनी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गांधीजींनी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "संत तुकारामांनी"
+        },
+        {
+            "question_id": 46,
+            "question_type": "SHORT",
+            "question": "तुम्ही संघात (Team) खेळता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 47,
+            "question_type": "SHORT",
+            "question": "खेळताना भांडण झाले तर काय करता?",
+            "answer": "सोडवतो आणि पुन्हा खेळतो."
+        },
+        {
+            "question_id": 48,
+            "question_type": "SHORT",
+            "question": "मित्राची डबा शेअर करता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 49,
+            "question_type": "SHORT",
+            "question": "अभ्यासात गट चर्चा (Group Discussion) करता का?",
+            "answer": "हो, फायदा होतो."
+        },
+        {
+            "question_id": 50,
+            "question_type": "SHORT",
+            "question": "एकत्र अभ्यास केल्याने काय होते?",
+            "answer": "शंका निरसन होते."
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "सहलीला (Picnic) कशी मजा येते?",
+            "answer": "सगळे एकत्र असल्यामुळे."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "एका मुलाने सहल काढली तर मजा येईल का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "कुटुंबात सर्वजण एकत्र जेवतात का?",
+            "answer": "हो, रात्री."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "एकत्र जेवल्याने काय वाढते?",
+            "answer": "प्रेम."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "संयुक्त कुटुंब (Joint Family) म्हणजे काय?",
+            "answer": "आजी-आजोबा, काका-काकू सर्व एकत्र."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "विभक्त कुटुंब (Nuclear Family) म्हणजे काय?",
+            "answer": "फक्त आई-बाबा आणि मुले."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "कोणते कुटुंब चांगले?",
+            "answer": "दोन्ही, पण एकत्र मध्ये जास्त सुरक्षितता असते."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "आजी-आजोबांचा सहवास मिळतो का?",
+            "answer": "हो, एकत्र कुटुंबात."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "निवडणुकीत लोकशाही कशी असते?",
+            "answer": "सर्वांचे मत महत्त्वाचे."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "भारताचे लोकशाही राज्य आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "संसदेत खासदार काय करतात?",
+            "answer": "देशासाठी कायदे बनवतात."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "पक्ष अनेक पण देश?",
+            "answer": "एक."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "भाषा अनेक पण भाव?",
+            "answer": "एक."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "वेश अनेक पण मन?",
+            "answer": "एक."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "जात विसरा, धर्म विसरा, आपण सारे?",
+            "answer": "भारतीय."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "एकात्मतेचे गाणे सांगा.",
+            "answer": "मिले सुर मेरा तुम्हारा..."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "सारे जहाँ से अच्छा?",
+            "answer": "हिंदोस्ताँ हमारा."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "हिंद देश के निवासी -",
+            "answer": "सभी जन एक है."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "रंग रूप वेश भाषा -",
+            "answer": "चाहे अनेक है."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "राष्टगीत गाताना आपण कसे उभे राहतो?",
+            "answer": "सावधान स्थितीत, एकत्र."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "ध्वजवंदन करताना काय वाटते?",
+            "answer": "देशभक्ती आणि गर्व."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "सीमेवर जवान कोणासाठी लढतात?",
+            "answer": "आपल्या सर्वांसाठी."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "शेतकरी कोणासाठी पिकवतो?",
+            "answer": "सर्वांसाठी."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "शिक्षक कोणाला शिकवतात?",
+            "answer": "सर्व जातीधर्माच्या मुलांना."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "डॉक्टर कोणावर उपचार करतात?",
+            "answer": "रुग्णावर (जात न बघता)."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "रक्तदानावेळी रक्ताचा रंग कोणता असतो?",
+            "answer": "लाल (सर्वांचा एकच)."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "माणसाची जात कोणती?",
+            "answer": "मानव जात."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "भेदभाव पाळावा का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "अस्पृश्यता मानणे गुन्हा आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "संविधानाने आपल्याला काय दिले?",
+            "answer": "समानता."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "स्त्री-पुरुष समानता म्हणजे काय?",
+            "answer": "मुलगा-मुलगी एकसमान."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "मुलींना शिकवले पाहिजे का?",
+            "answer": "हो, नक्कीच."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "‘बेटी बचाओ बेटी पढाओ’ म्हणजे काय?",
+            "answer": "मुली वाचवा, मुली शिकवा."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "गरीब-श्रीमंत भेदभाव असावा का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "मैत्रीत श्रीमंती-गरीबी असते का?",
+            "answer": "नाही (उदा. कृष्ण-सुदामा)."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "कृष्ण आणि सुदामा यांची मैत्री कशी होती?",
+            "answer": "निस्वार्थ."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "तुम्ही मित्राला मदत करता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "मित्राने चूक केल्यास काय करता?",
+            "answer": "समजावून सांगतो."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "चांगला मित्र कोण?",
+            "answer": "संकटात मदत करणारा."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "वाईट संगत धरावी का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "‘संगत गुण’ म्हणजे काय?",
+            "answer": "सोबतीचा परिणाम."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "चांगल्या मुलांशी मैत्री केल्यावर काय होते?",
+            "answer": "आपणही चांगले होतो."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "वाईट मुलांशी मैत्री केल्यावर काय होते?",
+            "answer": "सवयी बिघडतात."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "परिसरातील लोकांशी कसे वागावे?",
+            "answer": "सलोख्याने."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "शेजाऱ्यांशी भांडण करावे का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "शेजाऱ्याची मदत लागते का?",
+            "answer": "हो, अडीअडचणीला."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "गावात यात्रा कशी भरते?",
+            "answer": "सर्वांच्या सहकार्याने."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "गावाचा विकास कसा होतो?",
+            "answer": "लोकसहभागातून."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "शाळेचा निकाल चांगला कधी लागतो?",
+            "answer": "शिक्षक-विद्यार्थी-पालक एकत्र आल्यावर."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "स्नेहसंमेलन (Gathering) मध्ये काय करतो?",
+            "answer": "एकत्र आनंद घेतो."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "प्रार्थना का करतो?",
+            "answer": "मनशांतीसाठी आणि विश्वाच्या कल्याणासाठी."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "‘पसायदान’ कोणासाठी मागितले?",
+            "answer": "सर्वांसाठी (खळांची व्यंकटी सांडो)."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "शांती मंत्र काय देतो?",
+            "answer": "शांती आणि समाधान."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "माणसाने माणसाशी माणसासम वागणे गाणे आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "ते काय शिकवते?",
+            "answer": "माणुसकी."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "तुम्ही मोठे होऊन काय कराल?",
+            "answer": "सर्वांना मदत करेन."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "देशाची एकता टिकवाल का?",
+            "answer": "हो, नक्कीच."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "वादळ आल्यावर झाडे पडतात, पण गवत?",
+            "answer": "वाचते (लवचीकपणा/एकत्र)."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "जंगलात प्राणी कसे राहतात?",
+            "answer": "आपआपल्या समूहात."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "हत्तीचा कळप असतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "हरणांचा कळप असतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "मेंढ्यांचा कळप असतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "माशांचा थवा असतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "मधमाश्यांचे पोळे कसे असते?",
+            "answer": "एकत्र कुटुंबासारखे."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "मुंग्यांचे वारूळ कसे असते?",
+            "answer": "शिस्तबद्ध वसाहत."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "माणूस हा समाजप्रिय प्राणी आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "एकटा माणूस जगू शकतो का?",
+            "answer": "कठीण आहे (वेडा होईल)."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "समाज कशाने बनतो?",
+            "answer": "लोकांनी (तुझ्या-माझ्याने)."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "‘मी’ पणा सोडावा आणि काय म्हणावे?",
+            "answer": "‘आम्ही’."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "संघटनेत शक्ती असते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "युनियन (Union) म्हणजे काय?",
+            "answer": "कामगारांची संघटना."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "संघटना कशासाठी लढ़ते?",
+            "answer": "न्यायासाठी."
+        },
+        {
+            "question_id": 123,
+            "question_type": "SHORT",
+            "question": "सत्याचा विजय होतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 124,
+            "question_type": "SHORT",
+            "question": "खोटे कधीतरी उघडे पडते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 125,
+            "question_type": "SHORT",
+            "question": "एकमेकांना फसवू नये.",
+            "answer": "हो, विश्वास महत्त्वाचा."
+        },
+        {
+            "question_id": 126,
+            "question_type": "SHORT",
+            "question": "विश्वास हा नात्याचा पाया आहे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 127,
+            "question_type": "SHORT",
+            "question": "आपण भारताचे आधारस्तंभ आहोत.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 128,
+            "question_type": "SHORT",
+            "question": "जय हिंद.",
+            "answer": "जय भारत."
+        }
+    ]
 }

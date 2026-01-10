@@ -1,570 +1,1987 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "chapter_number": 12,
-  "chapter_name": "पुस्तकांशी मैत्री",
-  "mode": "Outside Textbook | Max Safe Unique",
-  "counts": {
-    "one_line_questions": 65,
-    "mcqs": 35
-  },
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "‘पुस्तकांशी मैत्री’ या धड्याचा मुख्य उद्देश काय आहे?",
-      "answer": "वाचनाची आवड निर्माण करणे हा मुख्य उद्देश आहे."
-    },
-    {
-      "id": 2,
-      "question": "पुस्तकांशी मैत्री म्हणजे काय?",
-      "answer": "पुस्तकांना मित्रासारखे जवळ ठेवणे म्हणजे पुस्तकांशी मैत्री."
-    },
-    {
-      "id": 3,
-      "question": "वाचनाची सवय का लावावी?",
-      "answer": "ज्ञान आणि विचार वाढवण्यासाठी वाचन आवश्यक आहे."
-    },
-    {
-      "id": 4,
-      "question": "पुस्तके आपल्याला काय शिकवतात?",
-      "answer": "नवे विचार आणि अनुभव देतात."
-    },
-    {
-      "id": 5,
-      "question": "पुस्तकांमुळे शब्दसंपदा कशी वाढते?",
-      "answer": "नवे शब्द सतत वाचायला मिळतात."
-    },
-    {
-      "id": 6,
-      "question": "वाचनामुळे कल्पनाशक्ती कशी वाढते?",
-      "answer": "कथांमधून नवे जग दिसते."
-    },
-    {
-      "id": 7,
-      "question": "पुस्तके मित्रासारखी का वाटतात?",
-      "answer": "ती आपल्याशी बोलल्यासारखी वाटतात."
-    },
-    {
-      "id": 8,
-      "question": "दररोज वाचन करणे का महत्त्वाचे आहे?",
-      "answer": "वाचनाची सवय पक्की करण्यासाठी."
-    },
-    {
-      "id": 9,
-      "question": "पुस्तकांमुळे विचारशक्ती कशी वाढते?",
-      "answer": "विचार करण्याची सवय लागते."
-    },
-    {
-      "id": 10,
-      "question": "वाचनामुळे भाषा कशी सुधारते?",
-      "answer": "योग्य शब्दरचना शिकता येते."
-    },
-    {
-      "id": 11,
-      "question": "पुस्तकांशी मैत्री केल्याने आत्मविश्वास कसा वाढतो?",
-      "answer": "ज्ञानामुळे आत्मविश्वास वाढतो."
-    },
-    {
-      "id": 12,
-      "question": "वाचन शांतता कशी देते?",
-      "answer": "मन एकाग्र होते."
-    },
-    {
-      "id": 13,
-      "question": "पुस्तकांमुळे जीवनमूल्ये कशी शिकता येतात?",
-      "answer": "कथांमधून चांगले वाईट कळते."
-    },
-    {
-      "id": 14,
-      "question": "वाचनाची सवय लहानपणी का लावावी?",
-      "answer": "ती आयुष्यभर टिकते."
-    },
-    {
-      "id": 15,
-      "question": "पुस्तकांमुळे वेळेचा सदुपयोग कसा होतो?",
-      "answer": "रिकामा वेळ उपयुक्त ठरतो."
-    },
-    {
-      "id": 16,
-      "question": "वाचनामुळे एकटेपणा का कमी होतो?",
-      "answer": "पुस्तके सोबत देतात."
-    },
-    {
-      "id": 17,
-      "question": "पुस्तकांमुळे निर्णयक्षमता कशी वाढते?",
-      "answer": "विविध विचार कळतात."
-    },
-    {
-      "id": 18,
-      "question": "वाचनामुळे एकाग्रता कशी वाढते?",
-      "answer": "मन पुस्तकात गुंतते."
-    },
-    {
-      "id": 19,
-      "question": "पुस्तकांशी मैत्री केल्याने शिकणे कसे सोपे होते?",
-      "answer": "समज वाढते."
-    },
-    {
-      "id": 20,
-      "question": "पुस्तकांमुळे संस्कार कसे घडतात?",
-      "answer": "चांगल्या कथा वाचल्यामुळे."
-    },
-    {
-      "id": 21,
-      "question": "वाचनामुळे लेखन कौशल्य कसे वाढते?",
-      "answer": "वाक्यरचना सुधारते."
-    },
-    {
-      "id": 22,
-      "question": "पुस्तकांमुळे जगाची ओळख कशी होते?",
-      "answer": "वेगवेगळ्या विषयांची माहिती मिळते."
-    },
-    {
-      "id": 23,
-      "question": "वाचनाची आवड कशी वाढवता येते?",
-      "answer": "आवडीची पुस्तके वाचून."
-    },
-    {
-      "id": 24,
-      "question": "पुस्तकांमुळे स्मरणशक्ती कशी सुधारते?",
-      "answer": "वाचलेली माहिती लक्षात राहते."
-    },
-    {
-      "id": 25,
-      "question": "वाचनामुळे विचारांची खोली कशी वाढते?",
-      "answer": "विचारपूर्वक वाचन केल्यामुळे."
-    },
-    {
-      "id": 26,
-      "question": "पुस्तकांशी मैत्री केल्याने शिस्त कशी लागते?",
-      "answer": "नियमित वाचनाची सवय लागते."
-    },
-    {
-      "id": 27,
-      "question": "वाचनामुळे व्यक्तिमत्त्व कसे घडते?",
-      "answer": "ज्ञान आणि विचार वाढतात."
-    },
-    {
-      "id": 28,
-      "question": "पुस्तकांमुळे भावनिक समज कशी वाढते?",
-      "answer": "भावना समजायला मदत होते."
-    },
-    {
-      "id": 29,
-      "question": "वाचनामुळे ताण कसा कमी होतो?",
-      "answer": "मन शांत होते."
-    },
-    {
-      "id": 30,
-      "question": "पुस्तकांमुळे नवे छंद कसे निर्माण होतात?",
-      "answer": "नवे विषय आवडू लागतात."
-    },
-    {
-      "id": 31,
-      "question": "वाचनामुळे समाजाची ओळख कशी होते?",
-      "answer": "समाजातील प्रश्न कळतात."
-    },
-    {
-      "id": 32,
-      "question": "पुस्तकांशी मैत्री केल्याने अभ्यासात काय फायदा होतो?",
-      "answer": "समज आणि स्मरण वाढते."
-    },
-    {
-      "id": 33,
-      "question": "वाचनामुळे प्रश्न विचारण्याची सवय कशी लागते?",
-      "answer": "कुतूहल वाढते."
-    },
-    {
-      "id": 34,
-      "question": "पुस्तकांमुळे संवाद कौशल्य कसे वाढते?",
-      "answer": "शब्द वापर सुधारतो."
-    },
-    {
-      "id": 35,
-      "question": "वाचनाची सवय टिकवण्यासाठी काय करावे?",
-      "answer": "नियमित वेळ ठरवावा."
-    },
-    {
-      "id": 36,
-      "question": "पुस्तकांमुळे कल्पना मांडणे कसे सोपे होते?",
-      "answer": "विचार स्पष्ट होतात."
-    },
-    {
-      "id": 37,
-      "question": "वाचनामुळे आत्ममूल्यांकन कसे करता येते?",
-      "answer": "स्वतःचे विचार तपासता येतात."
-    },
-    {
-      "id": 38,
-      "question": "पुस्तकांमुळे सर्जनशीलता कशी वाढते?",
-      "answer": "नवीन कल्पना सुचतात."
-    },
-    {
-      "id": 39,
-      "question": "वाचनामुळे शिकण्याचा आनंद कसा वाढतो?",
-      "answer": "शिकणे रंजक वाटते."
-    },
-    {
-      "id": 40,
-      "question": "पुस्तकांशी मैत्री केल्याने आयुष्य कसे समृद्ध होते?",
-      "answer": "ज्ञानाने जीवन उजळते."
-    },
-    {
-      "id": 41,
-      "question": "वाचनामुळे नवे दृष्टिकोन कसे मिळतात?",
-      "answer": "वेगवेगळे विचार समजतात."
-    },
-    {
-      "id": 42,
-      "question": "पुस्तकांमुळे भविष्याची तयारी कशी होते?",
-      "answer": "ज्ञानाचा पाया मजबूत होतो."
-    },
-    {
-      "id": 43,
-      "question": "वाचनामुळे संस्कृतीची ओळख कशी होते?",
-      "answer": "साहित्य वाचून कळते."
-    },
-    {
-      "id": 44,
-      "question": "पुस्तकांमुळे प्रेरणा कशी मिळते?",
-      "answer": "यशोगाथा वाचल्यामुळे."
-    },
-    {
-      "id": 45,
-      "question": "वाचनाची सवय समाजासाठी का महत्त्वाची आहे?",
-      "answer": "जाणकार समाज घडतो."
-    },
-    {
-      "id": 46,
-      "question": "पुस्तकांशी मैत्री केल्याने आत्मविश्वास का टिकतो?",
-      "answer": "ज्ञान सतत वाढत राहते."
-    },
-    {
-      "id": 47,
-      "question": "वाचनामुळे समज आणि विवेक कसा वाढतो?",
-      "answer": "विचारपूर्वक निर्णय घेता येतात."
-    },
-    {
-      "id": 48,
-      "question": "पुस्तकांमुळे जीवनातील चुका कशा टाळता येतात?",
-      "answer": "इतरांचे अनुभव कळतात."
-    },
-    {
-      "id": 49,
-      "question": "वाचनामुळे माणूस संवेदनशील कसा बनतो?",
-      "answer": "भावना समजायला मदत होते."
-    },
-    {
-      "id": 50,
-      "question": "पुस्तकांशी मैत्री केल्याने शिकण्याची सवय कशी लागते?",
-      "answer": "नियमित वाचनामुळे."
-    },
-    {
-      "id": 51,
-      "question": "वाचनामुळे समाजात सकारात्मकता कशी वाढते?",
-      "answer": "ज्ञानाचा प्रसार होतो."
-    },
-    {
-      "id": 52,
-      "question": "पुस्तकांमुळे आयुष्याला दिशा कशी मिळते?",
-      "answer": "योग्य विचार मिळतात."
-    },
-    {
-      "id": 53,
-      "question": "वाचनामुळे वेळेचे मूल्य कसे कळते?",
-      "answer": "उपयुक्त वापर समजतो."
-    },
-    {
-      "id": 54,
-      "question": "पुस्तकांशी मैत्री केल्याने मन कसे समृद्ध होते?",
-      "answer": "ज्ञान आणि विचार वाढतात."
-    },
-    {
-      "id": 55,
-      "question": "वाचनामुळे जीवनाकडे पाहण्याचा दृष्टीकोन कसा बदलतो?",
-      "answer": "समज अधिक व्यापक होते."
-    },
-    {
-      "id": 56,
-      "question": "पुस्तकांमुळे आत्मविकास कसा साधता येतो?",
-      "answer": "सतत शिकत राहता येते."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "‘पुस्तकांशी मैत्री’ या धड्याचा मुख्य हेतू कोणता आहे?",
-      "options": {
-        "A": "मनोरंजन",
-        "B": "वाचनाची आवड",
-        "C": "खेळ",
-        "D": "स्पर्धा"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 2,
-      "question": "वाचनाची सवय का महत्त्वाची आहे?",
-      "options": {
-        "A": "ज्ञान वाढते",
-        "B": "वेळ वाया जातो",
-        "C": "आळस वाढतो",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 3,
-      "question": "पुस्तकांमुळे काय वाढते?",
-      "options": {
-        "A": "शब्दसंपदा",
-        "B": "भीती",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 4,
-      "question": "वाचनामुळे भाषा कशी सुधारते?",
-      "options": {
-        "A": "योग्य शब्दरचना",
-        "B": "वेळ वाया जातो",
-        "C": "नियम मोडतात",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 5,
-      "question": "पुस्तके मित्रासारखी का वाटतात?",
-      "options": {
-        "A": "ती मार्गदर्शन करतात",
-        "B": "ती बोलत नाहीत",
-        "C": "ती कंटाळवाणी आहेत",
-        "D": "ती कठीण आहेत"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 6,
-      "question": "वाचनामुळे आत्मविश्वास कसा वाढतो?",
-      "options": {
-        "A": "ज्ञानामुळे",
-        "B": "वेळेमुळे",
-        "C": "भीतीमुळे",
-        "D": "गोंधळामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 7,
-      "question": "वाचन शांतता का देते?",
-      "options": {
-        "A": "मन एकाग्र होते",
-        "B": "वेळ वाढतो",
-        "C": "आवाज वाढतो",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "question": "पुस्तकांमुळे जीवनमूल्ये कशी शिकता येतात?",
-      "options": {
-        "A": "कथांमधून",
-        "B": "वेळेमुळे",
-        "C": "नियमांमुळे",
-        "D": "आवाजामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 9,
-      "question": "वाचनाची सवय कधी लावावी?",
-      "options": {
-        "A": "लहानपणी",
-        "B": "मोठेपणी",
-        "C": "कधीही नाही",
-        "D": "फक्त परीक्षेत"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "पुस्तकांमुळे स्मरणशक्ती कशी सुधारते?",
-      "options": {
-        "A": "माहिती लक्षात राहते",
-        "B": "वेळ वाढतो",
-        "C": "गोंधळ होतो",
-        "D": "आळस वाढतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 11,
-      "question": "वाचनामुळे ताण कसा कमी होतो?",
-      "options": {
-        "A": "मन शांत होते",
-        "B": "वेळ वाढतो",
-        "C": "गोंधळ होतो",
-        "D": "आळस वाढतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "question": "पुस्तकांमुळे निर्णयक्षमता कशी वाढते?",
-      "options": {
-        "A": "विचार समजतात",
-        "B": "वेळ वाया जातो",
-        "C": "भीती वाढते",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 13,
-      "question": "वाचनामुळे एकटेपणा का कमी होतो?",
-      "options": {
-        "A": "पुस्तके सोबत देतात",
-        "B": "वेळ वाढतो",
-        "C": "गोंधळ होतो",
-        "D": "आळस वाढतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "पुस्तकांमुळे लेखन कौशल्य कसे वाढते?",
-      "options": {
-        "A": "वाक्यरचना सुधारते",
-        "B": "वेळ वाया जातो",
-        "C": "नियम मोडतात",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 15,
-      "question": "वाचनामुळे कल्पनाशक्ती कशी वाढते?",
-      "options": {
-        "A": "नवे विचार सुचतात",
-        "B": "वेळ वाढतो",
-        "C": "भीती वाढते",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "question": "पुस्तकांमुळे आत्ममूल्यांकन कसे करता येते?",
-      "options": {
-        "A": "स्वतःचे विचार तपासता येतात",
-        "B": "वेळ वाया जातो",
-        "C": "गोंधळ होतो",
-        "D": "आळस वाढतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "वाचनामुळे समाजात सकारात्मकता कशी वाढते?",
-      "options": {
-        "A": "ज्ञानाचा प्रसार",
-        "B": "वेळ वाया जातो",
-        "C": "भीती वाढते",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "पुस्तकांमुळे आयुष्य समृद्ध का होते?",
-      "options": {
-        "A": "ज्ञान वाढते",
-        "B": "वेळ वाढतो",
-        "C": "आळस वाढतो",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "वाचनामुळे दृष्टिकोन कसा बदलतो?",
-      "options": {
-        "A": "समज व्यापक होते",
-        "B": "वेळ वाया जातो",
-        "C": "भीती वाढते",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 20,
-      "question": "पुस्तकांशी मैत्री केल्याने काय टिकते?",
-      "options": {
-        "A": "शिकण्याची सवय",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 21,
-      "question": "वाचनामुळे जीवनाकडे पाहण्याची दृष्टी कशी बदलते?",
-      "options": {
-        "A": "विचारशील होते",
-        "B": "वेळ वाया जातो",
-        "C": "भीती वाढते",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "question": "पुस्तकांमुळे प्रेरणा कशी मिळते?",
-      "options": {
-        "A": "यशोगाथांमधून",
-        "B": "वेळ वाया जातो",
-        "C": "भीती वाढते",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 23,
-      "question": "वाचनामुळे आत्मविकास कसा साधतो?",
-      "options": {
-        "A": "सतत शिकल्याने",
-        "B": "वेळ वाढतो",
-        "C": "आळस वाढतो",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "पुस्तकांशी मैत्री केल्याने समाज कसा बदलतो?",
-      "options": {
-        "A": "जाणकार बनतो",
-        "B": "आळशी बनतो",
-        "C": "भीती वाढते",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "question": "वाचनाची सवय समाजासाठी का आवश्यक आहे?",
-      "options": {
-        "A": "विकासासाठी",
-        "B": "वेळ वाया घालवण्यासाठी",
-        "C": "स्पर्धेसाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.12",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Pustakanshi Maitri"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "‘पुस्तकांशी मैत्री’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पुस्तके वाचणे/आवडणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पुस्तके फाडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पुस्तके विकणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पुस्तके जाळणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पुस्तके वाचणे/आवडणे"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "पुस्तके आपल्याला काय देतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ज्ञान/आनंद",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "त्रास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भूक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोप",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ज्ञान/आनंद"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "पुस्तके कोणासारखी असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मित्रासारखी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शत्रूसारखी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दगडासारखी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काठ्यांसारखी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मित्रासारखी"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "ग्रंथालय (Library) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पुस्तकांचे घर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळाचे घर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "स्वयंपाकघर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दवाखाना",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पुस्तकांचे घर"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "वाचन (Reading) कशासाठी चांगले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ज्ञानासाठी/बुद्धीसाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वेळ घालवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "विसरण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ज्ञानासाठी/बुद्धीसाठी"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "गोष्टींची पुस्तके कोणाला आवडतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मुलांना",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कोणालाच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "प्राण्यांना",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झाडांना",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मुलांना"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "कवितांची पुस्तके कोणी वाचतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कवितेची आवड असणारे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कोणीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त कवी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शेतकरी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कवितेची आवड असणारे"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "चरित्र (Biography) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "थोर व्यक्तीची माहिती",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गोष्ट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कविता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चित्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "थोर व्यक्तीची माहिती"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "आत्मचरित्र (Autobiography) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वतः लिहिलेले चरित्र",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दुसऱ्याचे चरित्र",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कादंबरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नाटक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्वतः लिहिलेले चरित्र"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "कादंबरी (Novel) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मोठी कथा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "छोटी गोष्ट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कविता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "लेख",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मोठी कथा"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "वर्तमानपत्र (Newspaper) काय देते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "बातम्या (News)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गोष्टी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गाणी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "बातम्या (News)"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "मासिक (Magazine) कधी येते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "महिन्याला",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रोज",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वर्षि",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "आठवड्याला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "महिन्याला"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "साप्ताहिक (Weekly) कधी येते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आठवड्याला",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रोज",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "महिन्याला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वर्षाला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आठवड्याला"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "दैनिक (Daily) कधी येते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "रोज",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "महिन्याला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आठवड्याला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कधीतरी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "रोज"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "वार्षिक (Yearly) कधी येते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वर्षातून एकदा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रोज",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "महिन्याला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "आठवड्याला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वर्षातून एकदा"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "दिवाळी अंक कधी येतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दिवाळीत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "होळीत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नाताळात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "ईदमध्ये",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दिवाळीत"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "बालसाहित्य म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मुलांचे साहित्य",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मोठ्यांचे साहित्य",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "महाताऱ्यांचे साहित्य",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "श्रीमंतांचे साहित्य",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मुलांचे साहित्य"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "श्यामची आई पुस्तक कोणी लिहिले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "साने गुरुजी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पु.ल. देशपांडे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "अत्रे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गाडगीळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "साने गुरुजी"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "गीतारहस्य कोणी लिहिले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लोकमान्य टिळक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गांधीजी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "सावरकर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नेहरू",
+                    "is_correct": false
+                }
+            ],
+            "answer": "लोकमान्य टिळक"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "डिस्कव्हरी ऑफ इंडिया कोणी लिहिले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जवाहरलाल नेहरू",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गांधीजी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "टिळक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पटेल",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जवाहरलाल नेहरू"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "विंग्ज ऑफ फायर (अग्निपंख) कोणाचे आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ए.पी.जे. अब्दुल कलाम",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गांधीजी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नेहरू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मोदी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ए.पी.जे. अब्दुल कलाम"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "पुस्तकाचे पान दुमडावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नेहमी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कधीतरी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "पुस्तकावर खुणा कराव्यात का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही (पेन्सिलने पुसता येण्यासारखे)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पेनाने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "स्केचपेनने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रंगाने",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही (पेन्सिलने पुसता येण्यासारखे)"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "पुस्तक वाचताना हातात काय नसावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खाऊ/पाणी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पेन्सिल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चष्मा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रुमाल",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खाऊ/पाणी"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "पुस्तकाला कव्हर का घालावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "रक्षण करण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "लपवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "विकण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फाडण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "रक्षण करण्यासाठी"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "बुक मार्क (Bookmark) कशासाठी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वाचलेले पान समजण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शोभेसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खेळण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वाचलेले पान समजण्यासाठी"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "पुस्तके कोठे ठेवावीत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कपाटात/रॅकमध्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जमिनीवर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाण्यात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गच्चीवर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कपाटात/रॅकमध्ये"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "वाचनाची सवय कशी लावावी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "रोज थोडे वाचून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकदाच वाचून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "न वाचता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चित्र बघून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "रोज थोडे वाचून"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "वाचले तर काय होईल?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वाचाल तर वाचाल (प्रगती होईल)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नापास व्हाल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गरीब व्हाल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "आजारी पडाल",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वाचाल तर वाचाल (प्रगती होईल)"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "ज्ञानपीठ पुरस्कार कशासाठी देतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "साहित्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नाचासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गाण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "साहित्यासाठी"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "‘धडा’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lesson/Chapter",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Book",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Poem",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Page",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Lesson/Chapter"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "‘कविता’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Poem",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lesson",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Story",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Drama",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Poem"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "‘पान’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Page/Leaf",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Book",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cover",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Page/Leaf"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "‘मुखपृष्ठ’ (Cover Page) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पुस्तकाचे पहिले पान",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शेवटचे पान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मधले पान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कोरे पान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पुस्तकाचे पहिले पान"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "‘मलपृष्ठ’ (Back Cover) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पुस्तकाचे मागचे पान",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पहिले पान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मधले पान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चित्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पुस्तकाचे मागचे पान"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "‘अनुक्रमणिका’ (Index) काय सांगते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "धड्यांची नावे/पान नंबर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "किंमत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वजन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रंग",
+                    "is_correct": false
+                }
+            ],
+            "answer": "धड्यांची नावे/पान नंबर"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "‘लेखक’ म्हणजे कोण?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Author",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Poet",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Painter",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Singer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Author"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "‘संपादक’ म्हणजे कोण?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Editor",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Writer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Reader",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Seller",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Editor"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "‘प्रकाशक’ म्हणजे कोण?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Publisher",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Writer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Reader",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Buyer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Publisher"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "‘किंमत’ (Price) कुठे लिहिलेली असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मागच्या पानावर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आतमध्ये",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खाली",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मागच्या पानावर"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "‘अक्षर’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Letter/Alphabet",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Word",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sentence",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Book",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Letter/Alphabet"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "‘शब्द’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Word",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Letter",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sentence",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lesson",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Word"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "‘वाक्य’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sentence",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Word",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Letter",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Paragraph",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sentence"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "‘परिच्छेद’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Paragraph",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sentence",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Word",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Page",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Paragraph"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "‘व्याकरण’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Grammar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Science",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Maths",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "History",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Grammar"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "‘शुद्धलेखन’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Correct Writing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fast Writing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bad Writing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Slow Writing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Correct Writing"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "‘हस्ताक्षर’ (Handwriting) कसे असावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सुंदर/वळणदार",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खराब",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वाकडे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अस्पष्ट",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सुंदर/वळणदार"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "‘पाठ’ करणे म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Memorize",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Read",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Write",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Forget",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Memorize"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "‘उजळणी’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Revision",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reading",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Writing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Exam",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Revision"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "‘तोंडी परीक्षा’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Oral Exam",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Written Exam",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Practical",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dance",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oral Exam"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "तुम्हाला वाचायला आवडते का?",
+            "answer": "हो, खूप."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "तुमचे आवडते पुस्तक कोणते?",
+            "answer": "श्यामची आई/इसापनीती."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "तुम्ही पुस्तक जत्रेत (Book Fair) जाता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "पुस्तक जत्रेत काय असते?",
+            "answer": "खूप पुस्तके विक्रीसाठी."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "ई-बुक (e-book) म्हणजे काय?",
+            "answer": "संगणकावर/मोबाईलवर वाचण्याचे पुस्तक."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "ऑडिओ बुक (Audio book) म्हणजे काय?",
+            "answer": "ऐकण्याचे पुस्तक."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "किंडल (Kindle) काय आहे?",
+            "answer": "वाचनाचे साधन."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "टॅबलेट (Tablet) वर वाचता येते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "तुम्ही वर्तमानपत्रातील बालविभाग वाचता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "‘चंपक’ वाचले आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "‘चांदोबा’ वाचले आहे का?",
+            "answer": "हो (जुन्या गोष्टी)."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "‘ठकठक’ वाचले आहे का?",
+            "answer": "हो (विनोदी)."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "‘किशोर’ मासिक कोणासाठी आहे?",
+            "answer": "किशोरवयीन मुलांसाठी."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "पुस्तके ज्ञानाचा काय आहेत?",
+            "answer": "सागर."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "ग्रंथालयात शांतता ठेवावी का?",
+            "answer": "हो, एकदम शांत."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "ग्रंथपाल (Librarian) काय करतो?",
+            "answer": "पुस्तकांची देवाण-घेवाण."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "कार्डवर पुस्तक मिळते का?",
+            "answer": "हो, लायब्ररी कार्डवर."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "पुस्तक वेळेवर परत करावे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "पुस्तक हरवल्यावर काय करावे?",
+            "answer": "नवीन द्यावे किंवा दंड भरावा."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "दुसऱ्याचे पुस्तक घेतल्यावर काय करावे?",
+            "answer": "काळजीपूर्वक वापरावे."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "पुस्तकाला देव मानतात का?",
+            "answer": "हो, सरस्वतीचे रूप."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "पुस्तकाला पाय लागल्यास काय करावे?",
+            "answer": "नमस्कार करावा."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "दप्तरात पुस्तके कशी ठेवावीत?",
+            "answer": "नीटनेटकी."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "दप्तर भरताना काय बघावे?",
+            "answer": "वेळापत्रक."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "जुनी पुस्तके फेकून द्यावीत का?",
+            "answer": "नाही, कोणाला तरी द्यावीत."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "रद्दीत पुस्तके द्यावीत का?",
+            "answer": "शक्यतो नाही, जर खूप फाटली असतील तरच."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "अभ्यासाची पुस्तके कोणती?",
+            "answer": "पाठ्यपुस्तके (Textbooks)."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "वही (Notebook) कशासाठी?",
+            "answer": "लिहण्यासाठी."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "गाथा कोणाची आहे?",
+            "answer": "संत तुकारामांची."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "ज्ञानेश्वरी कोणी लिहिली?",
+            "answer": "संत ज्ञानेश्वरांनी."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "दासबोध कोणी लिहिला?",
+            "answer": "संत रामदासांनी."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "एकनाथी भागवत कोणी लिहिले?",
+            "answer": "संत एकनाथांनी."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "मनाचे श्लोक कोणी लिहिले?",
+            "answer": "संत रामदासांनी."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "संविधान कोणी लिहिले?",
+            "answer": "डॉ. आंबेडकरांनी."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "रामायण कोणी लिहिले?",
+            "answer": "वाल्मिकी ऋषींनी."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "महाभारत कोणी लिहिले?",
+            "answer": "व्यास मुनींनी."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "शिवचरित्र म्हणजे काय?",
+            "answer": "शिवाजी महाराजांचा इतिहास."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "‘मृत्युंजय’ कादंबरी कोणाची आहे?",
+            "answer": "शिवाजी सावंत."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "‘ययाति’ कादंबरी कोणाची आहे?",
+            "answer": "वि.स. खांडेकर."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "‘स्वामी’ कादंबरी कोणाची आहे?",
+            "answer": "रणजित देसाई."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "‘बटाट्याची चाळ’ कोणाचे पुस्तक?",
+            "answer": "पु.ल. देशपांडे."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "‘व्यक्ती आणि वल्ली’ कोणाचे?",
+            "answer": "पु.ल. देशपांडे."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "बालकवींची प्रसिद्ध कविता कोणती?",
+            "answer": "औदुंबर/श्रावणमास."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "कुसुमाग्रजांचे नाव काय?",
+            "answer": "वि.वा. शिरवाडकर."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "केशवसूत कोण होते?",
+            "answer": "मराठी कवी."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "बहिणाबाई चौधरींच्या कविता कशा होत्या?",
+            "answer": "अहिराणी भाषेत/जात्यावरच्या."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "‘अरे संसार संसार’ कोणी लिहिले?",
+            "answer": "बहिणाबाई चौधरी."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "संत तुकाराम महाराज कुठले होते?",
+            "answer": "देहू."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "संत ज्ञानेश्वर महाराज कुठले होते?",
+            "answer": "आळंदी."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "संत एकनाथ महाराज कुठले होते?",
+            "answer": "पैठण."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "संत नामदेव महाराज कुठले होते?",
+            "answer": "नरसी नामदेव (हिंगोली) / पंजाब."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "समर्थ रामदास स्वामी कुठले होते?",
+            "answer": "जांब (जालना)/सज्जनगड."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "तुम्हाला कविता करायला आवडते का?",
+            "answer": "हो, थोडी थोडी."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "तुम्ही गोष्टी सांगता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "सुंदर हस्ताक्षर स्पर्धेत भाग घेता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "वाचन प्रेरणा दिन कधी असतो?",
+            "answer": "१५ ऑक्टोबर (कलाम जयंती)."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "मराठी भाषा गौरव दिन कधी असतो?",
+            "answer": "२७ फेब्रुवारी (कुसुमाग्रज जयंती)."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "‘साहित्य संमेलन’ म्हणजे काय?",
+            "answer": "लेखक कवींचा मेळावा."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "‘नाट्य संमेलन’ म्हणजे काय?",
+            "answer": "नाट्य कलाकारांचा मेळावा."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "पुस्तके आपले खरे मार्गदर्शक आहेत का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "मोबाईल पेक्षा पुस्तके चांगली का?",
+            "answer": "डोळ्यांना त्रास होत नाही."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "रात्री झोपताना वाचन करावे का?",
+            "answer": "हो, चांगली सवय आहे."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "प्रवासात वाचन करावे का?",
+            "answer": "शक्यतो टाळावे (डोळ्यांना ताण येतो)."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "उजेडात वाचावे की अंधारात?",
+            "answer": "पुरेशा उजेडात."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "बसून वाचावे की झोपून?",
+            "answer": "बसून."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "पुस्तकाचे पान कसे उलटावे?",
+            "answer": "हलक्या हाताने, कोपऱ्यातून."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "थुंकी लावून पान उलटावे का?",
+            "answer": "नाही, ते अस्वच्छ आहे."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "ग्रंथालय हे काय आहे?",
+            "answer": "ज्ञानाचे मंदिर."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "शाळेचे ग्रंथालय मोठे आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "तुम्ही लायब्ररीत किती वेळ बसता?",
+            "answer": "रिकाम्या तासाला."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "कोणत्या विषयाची पुस्तके जास्त आवडतात?",
+            "answer": "विज्ञान/इतिहास/गोष्टी."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "रहस्यकथा (Mystery) आवडतात का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 123,
+            "question_type": "SHORT",
+            "question": "परीकथा (Fairy Tales) आवडतात का?",
+            "answer": "हो, लहापणी आवडायच्या."
+        },
+        {
+            "question_id": 124,
+            "question_type": "SHORT",
+            "question": "बोधकथा (Aesop's Fables) आवडतात का?",
+            "answer": "हो, त्यातून शिकायला मिळते."
+        },
+        {
+            "question_id": 125,
+            "question_type": "SHORT",
+            "question": "बिरबलच्या गोष्टी आवडतात का?",
+            "answer": "हो, खूप हुशार होता तो."
+        },
+        {
+            "question_id": 126,
+            "question_type": "SHORT",
+            "question": "तेनालीरामच्या गोष्टी आवडतात का?",
+            "answer": "हो, विनोदी असतात."
+        },
+        {
+            "question_id": 127,
+            "question_type": "SHORT",
+            "question": "पंचतंत्राच्या गोष्टी कोणासाठी?",
+            "answer": "मुलांना शहाणपण शिकवण्यासाठी."
+        },
+        {
+            "question_id": 128,
+            "question_type": "SHORT",
+            "question": "इसापनीती काय शिकवते?",
+            "answer": "व्यवहारी ज्ञान."
+        },
+        {
+            "question_id": 129,
+            "question_type": "SHORT",
+            "question": "अकबर-बिरबल कथा कशा आहेत?",
+            "answer": "चातुर्य कथा."
+        },
+        {
+            "question_id": 130,
+            "question_type": "SHORT",
+            "question": "मुल्ला नसरुद्दीनच्या कथा कशा आहेत?",
+            "answer": "विनोदी."
+        },
+        {
+            "question_id": 131,
+            "question_type": "SHORT",
+            "question": "पुस्तकांमुळे शब्दसंपत्ती वाढते का?",
+            "answer": "हो, नक्कीच."
+        },
+        {
+            "question_id": 132,
+            "question_type": "SHORT",
+            "question": "विचार करण्याची शक्ती वाढते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 133,
+            "question_type": "SHORT",
+            "question": "एकाग्रता (Concentration) वाढते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 134,
+            "question_type": "SHORT",
+            "question": "कल्पनाशक्ती (Imagination) वाढते का?",
+            "answer": "हो, चित्रांशिवाय गोष्टी दिसतात."
+        },
+        {
+            "question_id": 135,
+            "question_type": "SHORT",
+            "question": "लेखक होण्यासाठी काय करावे?",
+            "answer": "खूप वाचन आणि लेखन."
+        },
+        {
+            "question_id": 136,
+            "question_type": "SHORT",
+            "question": "पुस्तक प्रकाशनासाठी काय लागते?",
+            "answer": "हस्तलिखित (Manuscript)."
+        },
+        {
+            "question_id": 137,
+            "question_type": "SHORT",
+            "question": "पुस्तकाचा सुगंध आवडतो का?",
+            "answer": "हो, नवीन पुस्तकाचा."
+        },
+        {
+            "question_id": 138,
+            "question_type": "SHORT",
+            "question": "जुने पुस्तक काय सांगते?",
+            "answer": "इतिहास."
+        },
+        {
+            "question_id": 139,
+            "question_type": "SHORT",
+            "question": "नवीन पुस्तक काय सांगते?",
+            "answer": "भविष्य/वर्तमान."
+        },
+        {
+            "question_id": 140,
+            "question_type": "SHORT",
+            "question": "डिजिटल युगात पुस्तके टिकतील का?",
+            "answer": "हो, त्यांचे महत्त्व वेगळे आहे."
+        },
+        {
+            "question_id": 141,
+            "question_type": "SHORT",
+            "question": "पुस्तके भेट देणे चांगले का?",
+            "answer": "हो, उत्तम भेटवस्तू."
+        },
+        {
+            "question_id": 142,
+            "question_type": "SHORT",
+            "question": "तुम्ही कोणाला पुस्तक भेट दिले आहे?",
+            "answer": "हो, मित्राला."
+        },
+        {
+            "question_id": 143,
+            "question_type": "SHORT",
+            "question": "तुम्हाला पुस्तक भेट मिळाले आहे?",
+            "answer": "हो, वाढदिवसाला."
+        },
+        {
+            "question_id": 144,
+            "question_type": "SHORT",
+            "question": "घरात छोटी लायब्ररी असावी का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 145,
+            "question_type": "SHORT",
+            "question": "वर्तमानपत्रातील कात्रणे (Cuttings) ठेवावीत का?",
+            "answer": "हो, माहितीसाठी."
+        },
+        {
+            "question_id": 146,
+            "question_type": "SHORT",
+            "question": "संग्रह (Collection) कशाचा करावा?",
+            "answer": "नाणी, तिकिटे, पुस्तके."
+        }
+    ]
 }

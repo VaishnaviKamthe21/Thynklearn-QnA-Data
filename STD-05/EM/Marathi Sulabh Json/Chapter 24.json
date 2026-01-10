@@ -1,580 +1,1623 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "chapter_number": 24,
-  "chapter_name": "आपले अन्न",
-  "mode": "Outside Textbook | Max Safe Unique",
-  "counts": {
-    "one_line_questions": 65,
-    "mcqs": 35
-  },
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "‘आपले अन्न’ या धड्याचा मुख्य संदेश काय आहे?",
-      "answer": "संतुलित व पौष्टिक अन्नाचे महत्त्व समजावणे."
-    },
-    {
-      "id": 2,
-      "question": "अन्न म्हणजे काय?",
-      "answer": "शरीराला ऊर्जा देणारे पदार्थ म्हणजे अन्न."
-    },
-    {
-      "id": 3,
-      "question": "अन्न का आवश्यक आहे?",
-      "answer": "शरीर वाढ आणि आरोग्यासाठी."
-    },
-    {
-      "id": 4,
-      "question": "संतुलित आहार म्हणजे काय?",
-      "answer": "सर्व पोषक घटक असलेले अन्न."
-    },
-    {
-      "id": 5,
-      "question": "अन्नातील पोषक घटक कोणते?",
-      "answer": "कार्बोहायड्रेट्स, प्रथिने, मेद, जीवनसत्त्वे."
-    },
-    {
-      "id": 6,
-      "question": "अन्नामुळे शरीराला काय मिळते?",
-      "answer": "ऊर्जा आणि ताकद."
-    },
-    {
-      "id": 7,
-      "question": "घरगुती अन्न का चांगले असते?",
-      "answer": "ते स्वच्छ आणि पौष्टिक असते."
-    },
-    {
-      "id": 8,
-      "question": "फास्ट फूड का टाळावे?",
-      "answer": "ते आरोग्यास हानिकारक असते."
-    },
-    {
-      "id": 9,
-      "question": "अन्न स्वच्छ असणे का आवश्यक आहे?",
-      "answer": "रोग टाळण्यासाठी."
-    },
-    {
-      "id": 10,
-      "question": "भूक का लागते?",
-      "answer": "शरीराला ऊर्जेची गरज असते."
-    },
-    {
-      "id": 11,
-      "question": "वेळेवर जेवण का आवश्यक आहे?",
-      "answer": "पचन व्यवस्थित राहते."
-    },
-    {
-      "id": 12,
-      "question": "अन्न वाया घालवू नये का?",
-      "answer": "अन्न मौल्यवान आहे."
-    },
-    {
-      "id": 13,
-      "question": "धान्याचे महत्त्व काय आहे?",
-      "answer": "ते ऊर्जा देतात."
-    },
-    {
-      "id": 14,
-      "question": "फळे आणि भाज्या का आवश्यक आहेत?",
-      "answer": "जीवनसत्त्वे मिळतात."
-    },
-    {
-      "id": 15,
-      "question": "दुधाचे महत्त्व काय आहे?",
-      "answer": "हाडे मजबूत होतात."
-    },
-    {
-      "id": 16,
-      "question": "अन्न शिजवताना स्वच्छता का आवश्यक आहे?",
-      "answer": "जंतुसंसर्ग टाळण्यासाठी."
-    },
-    {
-      "id": 17,
-      "question": "अन्नसाखळी म्हणजे काय?",
-      "answer": "सजीवांमधील अन्नावर आधारित साखळी."
-    },
-    {
-      "id": 18,
-      "question": "शाकाहाराचे फायदे काय आहेत?",
-      "answer": "आरोग्य चांगले राहते."
-    },
-    {
-      "id": 19,
-      "question": "मांसाहाराचे महत्त्व काय आहे?",
-      "answer": "प्रथिने मिळतात."
-    },
-    {
-      "id": 20,
-      "question": "अन्नातील पाणी का आवश्यक आहे?",
-      "answer": "शरीरातील कार्यांसाठी."
-    },
-    {
-      "id": 21,
-      "question": "अन्न आणि आरोग्य यांचा काय संबंध आहे?",
-      "answer": "योग्य अन्नाने आरोग्य टिकते."
-    },
-    {
-      "id": 22,
-      "question": "अन्न साठवणूक का आवश्यक आहे?",
-      "answer": "अन्न नासू नये म्हणून."
-    },
-    {
-      "id": 23,
-      "question": "ताजे अन्न का खावे?",
-      "answer": "पोषण अधिक मिळते."
-    },
-    {
-      "id": 24,
-      "question": "अन्नाची चव आणि पोषण यात काय फरक आहे?",
-      "answer": "पोषण अधिक महत्त्वाचे आहे."
-    },
-    {
-      "id": 25,
-      "question": "अन्नातून ऊर्जा कशी मिळते?",
-      "answer": "पचन प्रक्रियेद्वारे."
-    },
-    {
-      "id": 26,
-      "question": "अन्नातील मेदाचे कार्य काय आहे?",
-      "answer": "ऊर्जा साठवणे."
-    },
-    {
-      "id": 27,
-      "question": "अन्नातील प्रथिनांचे कार्य काय आहे?",
-      "answer": "शरीर वाढ."
-    },
-    {
-      "id": 28,
-      "question": "अन्नातील जीवनसत्त्वांचे कार्य काय आहे?",
-      "answer": "रोगप्रतिकारक शक्ती."
-    },
-    {
-      "id": 29,
-      "question": "अन्नातील खनिजांचे महत्त्व काय आहे?",
-      "answer": "शरीर कार्यासाठी."
-    },
-    {
-      "id": 30,
-      "question": "अन्न पचण्यासाठी काय आवश्यक आहे?",
-      "answer": "योग्य वेळ आणि प्रमाण."
-    },
-    {
-      "id": 31,
-      "question": "अन्न वाया जाण्याचे परिणाम काय?",
-      "answer": "अन्नटंचाई."
-    },
-    {
-      "id": 32,
-      "question": "अन्न शेअर करणे का चांगले आहे?",
-      "answer": "समाजभावना वाढते."
-    },
-    {
-      "id": 33,
-      "question": "अन्न आणि संस्कृती यांचा संबंध काय?",
-      "answer": "प्रदेशानुसार अन्न बदलते."
-    },
-    {
-      "id": 34,
-      "question": "अन्न उत्पादन का आवश्यक आहे?",
-      "answer": "लोकसंख्येसाठी."
-    },
-    {
-      "id": 35,
-      "question": "अन्न सुरक्षेचा अर्थ काय?",
-      "answer": "सर्वांना अन्न मिळणे."
-    },
-    {
-      "id": 36,
-      "question": "अन्नातील साखर का मर्यादित घ्यावी?",
-      "answer": "आरोग्यासाठी."
-    },
-    {
-      "id": 37,
-      "question": "अन्न शिजवताना योग्य पद्धत का आवश्यक आहे?",
-      "answer": "पोषण टिकवण्यासाठी."
-    },
-    {
-      "id": 38,
-      "question": "अन्नातून रोग कसे होतात?",
-      "answer": "अस्वच्छ अन्नामुळे."
-    },
-    {
-      "id": 39,
-      "question": "अन्न निवडताना काय पाहावे?",
-      "answer": "स्वच्छता आणि पोषण."
-    },
-    {
-      "id": 40,
-      "question": "अन्न सवयी लहानपणी का लावाव्यात?",
-      "answer": "त्या आयुष्यभर टिकतात."
-    },
-    {
-      "id": 41,
-      "question": "अन्न आणि पर्यावरण यांचा संबंध काय?",
-      "answer": "अन्न उत्पादन निसर्गावर अवलंबून आहे."
-    },
-    {
-      "id": 42,
-      "question": "अन्न वाया घालवणे का टाळावे?",
-      "answer": "संसाधने जपण्यासाठी."
-    },
-    {
-      "id": 43,
-      "question": "अन्नाचे योग्य प्रमाण का आवश्यक आहे?",
-      "answer": "अतिभोजन टाळण्यासाठी."
-    },
-    {
-      "id": 44,
-      "question": "अन्न शिजवण्यापूर्वी काय करावे?",
-      "answer": "हात धुवावेत."
-    },
-    {
-      "id": 45,
-      "question": "अन्न आणि पाणी यांचा संबंध काय?",
-      "answer": "दोन्ही जीवनासाठी आवश्यक."
-    },
-    {
-      "id": 46,
-      "question": "अन्न साठवताना काय काळजी घ्यावी?",
-      "answer": "कोरड्या ठिकाणी ठेवावे."
-    },
-    {
-      "id": 47,
-      "question": "अन्नामुळे समाजात काय बदल होतो?",
-      "answer": "आरोग्य सुधारते."
-    },
-    {
-      "id": 48,
-      "question": "अन्न सवयी आरोग्यावर कसा परिणाम करतात?",
-      "answer": "थेट परिणाम करतात."
-    },
-    {
-      "id": 49,
-      "question": "अन्नातून मिळणारी ऊर्जा कशासाठी वापरली जाते?",
-      "answer": "दैनंदिन कामांसाठी."
-    },
-    {
-      "id": 50,
-      "question": "अन्न शिजवताना इंधन बचत का आवश्यक आहे?",
-      "answer": "संसाधने जपण्यासाठी."
-    },
-    {
-      "id": 51,
-      "question": "अन्नाची विविधता का आवश्यक आहे?",
-      "answer": "सर्व पोषक घटक मिळण्यासाठी."
-    },
-    {
-      "id": 52,
-      "question": "अन्न आणि व्यायाम यांचा संबंध काय?",
-      "answer": "दोन्ही आरोग्यासाठी आवश्यक."
-    },
-    {
-      "id": 53,
-      "question": "अन्नातून शरीर कसे वाढते?",
-      "answer": "पोषक घटकांमुळे."
-    },
-    {
-      "id": 54,
-      "question": "अन्न सुरक्षेसाठी समाजाची भूमिका काय?",
-      "answer": "सहकार्य."
-    },
-    {
-      "id": 55,
-      "question": "अन्नाचे महत्त्व जीवनात का आहे?",
-      "answer": "जीवन टिकवण्यासाठी."
-    },
-    {
-      "id": 56,
-      "question": "अन्नाबद्दल कृतज्ञता का ठेवावी?",
-      "answer": "श्रमाची जाणीव."
-    },
-    {
-      "id": 57,
-      "question": "अन्न साठवणूक आणि स्वच्छता का जोडलेली आहे?",
-      "answer": "रोग टाळण्यासाठी."
-    },
-    {
-      "id": 58,
-      "question": "अन्न वाया न घालवण्याची सवय का आवश्यक आहे?",
-      "answer": "भविष्यासाठी."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "‘आपले अन्न’ या धड्याचा मुख्य विषय कोणता आहे?",
-      "options": {
-        "A": "पौष्टिक अन्न",
-        "B": "खेळ",
-        "C": "वाहतूक",
-        "D": "मनोरंजन"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 2,
-      "question": "अन्न का आवश्यक आहे?",
-      "options": {
-        "A": "ऊर्जेसाठी",
-        "B": "आळसासाठी",
-        "C": "वेळ घालवण्यासाठी",
-        "D": "मनोरंजनासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 3,
-      "question": "संतुलित आहारात काय असते?",
-      "options": {
-        "A": "सर्व पोषक घटक",
-        "B": "फक्त गोड",
-        "C": "फक्त तिखट",
-        "D": "फक्त तेलकट"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 4,
-      "question": "फळे आणि भाज्या कशासाठी आवश्यक आहेत?",
-      "options": {
-        "A": "जीवनसत्त्वे",
-        "B": "मेद",
-        "C": "मीठ",
-        "D": "साखर"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 5,
-      "question": "दुधाचे महत्त्व काय आहे?",
-      "options": {
-        "A": "हाडे मजबूत",
-        "B": "भूक वाढवते",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 6,
-      "question": "फास्ट फूड का टाळावे?",
-      "options": {
-        "A": "हानिकारक",
-        "B": "पौष्टिक",
-        "C": "स्वच्छ",
-        "D": "उपयुक्त"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 7,
-      "question": "अन्न वाया घालवू नये का?",
-      "options": {
-        "A": "मौल्यवान",
-        "B": "सोपे",
-        "C": "स्वस्त",
-        "D": "निरुपयोगी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "question": "अन्न स्वच्छ का असावे?",
-      "options": {
-        "A": "रोग टाळण्यासाठी",
-        "B": "चव वाढवण्यासाठी",
-        "C": "वेळ वाढवण्यासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 9,
-      "question": "अन्नातील प्रथिनांचे कार्य काय?",
-      "options": {
-        "A": "शरीर वाढ",
-        "B": "रंग",
-        "C": "आवाज",
-        "D": "वास"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "अन्नातील जीवनसत्त्वे कशासाठी आवश्यक आहेत?",
-      "options": {
-        "A": "रोगप्रतिकार",
-        "B": "झोप",
-        "C": "आळस",
-        "D": "मनोरंजन"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 11,
-      "question": "अन्न साठवणूक का आवश्यक आहे?",
-      "options": {
-        "A": "नासू नये",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "question": "अन्न आणि आरोग्य यांचा काय संबंध आहे?",
-      "options": {
-        "A": "थेट",
-        "B": "संबंध नाही",
-        "C": "थोडा",
-        "D": "अस्पष्ट"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 13,
-      "question": "अन्न पचण्यासाठी काय आवश्यक आहे?",
-      "options": {
-        "A": "योग्य वेळ",
-        "B": "आळस",
-        "C": "धावणे",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "अन्न शिजवताना स्वच्छता का आवश्यक आहे?",
-      "options": {
-        "A": "जंतू टाळण्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 15,
-      "question": "अन्न वाया जाण्याचा परिणाम काय?",
-      "options": {
-        "A": "अन्नटंचाई",
-        "B": "आनंद",
-        "C": "ऊर्जा",
-        "D": "ताजेपणा"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "question": "अन्नातील मेदाचे कार्य काय आहे?",
-      "options": {
-        "A": "ऊर्जा साठवणे",
-        "B": "रंग",
-        "C": "आवाज",
-        "D": "वास"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "अन्नाची विविधता का आवश्यक आहे?",
-      "options": {
-        "A": "सर्व पोषक घटक",
-        "B": "चव",
-        "C": "वेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "अन्न सुरक्षेचा अर्थ काय?",
-      "options": {
-        "A": "सर्वांना अन्न",
-        "B": "स्वस्त अन्न",
-        "C": "चवदार अन्न",
-        "D": "वेगवान अन्न"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "अन्न आणि पर्यावरण यांचा संबंध काय?",
-      "options": {
-        "A": "निसर्गावर अवलंबन",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 20,
-      "question": "अन्नाबद्दल कृतज्ञता का ठेवावी?",
-      "options": {
-        "A": "श्रमाची जाणीव",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 21,
-      "question": "अन्न शिजवण्यापूर्वी काय करावे?",
-      "options": {
-        "A": "हात धुणे",
-        "B": "धावणे",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "question": "अन्न सवयी लहानपणी का लावाव्यात?",
-      "options": {
-        "A": "आयुष्यभर टिकतात",
-        "B": "वेळ वाढतो",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 23,
-      "question": "अन्न आणि व्यायाम यांचा काय संबंध?",
-      "options": {
-        "A": "दोन्ही आवश्यक",
-        "B": "संबंध नाही",
-        "C": "थोडा",
-        "D": "अस्पष्ट"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "अन्न वाया न घालवण्याची सवय का आवश्यक आहे?",
-      "options": {
-        "A": "भविष्यासाठी",
-        "B": "वेळ वाढवण्यासाठी",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "question": "अन्नातून मिळणारी ऊर्जा कशासाठी वापरली जाते?",
-      "options": {
-        "A": "दैनंदिन कामे",
-        "B": "झोप",
-        "C": "आळस",
-        "D": "मनोरंजन"
-      },
-      "answer": "A"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.24",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Aaple Anna"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "आपल्याला अन्नाची गरज का असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जगण्यासाठी आणि वाढीसाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मजेसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोपण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खेळण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जगण्यासाठी आणि वाढीसाठी"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "अन्न आपल्याला काय देते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ऊर्जा/शक्ती",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आळस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "त्रास",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ऊर्जा/शक्ती"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "‘अन्न हे पूर्णब्रह्म’ - म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "अन्न देवासारखे आहे, त्याचा आदर करावा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "अन्न फेकून द्यावे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "अन्न खाऊ नये",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अन्न विकू नये",
+                    "is_correct": false
+                }
+            ],
+            "answer": "अन्न देवासारखे आहे, त्याचा आदर करावा"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "शेतकरी शेतात काय पिकवतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "अन्नधान्य/भाजीपाला",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "सोने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पैसा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खेळणी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "अन्नधान्य/भाजीपाला"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "पोळी/भाकरी कशापासून बनते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गहू/ज्वारी/बाजरीच्या पिठापासून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तांदळापासून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "साखरेपासून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मीठापासून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गहू/ज्वारी/बाजरीच्या पिठापासून"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "भात कशापासून बनतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तांदळापासून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गव्हापासून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "डाळीपासून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "तेल्यापासून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तांदळापासून"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "वरण कशाचे असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "डाळीचे (तूर/मूग)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तांदळाचे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गव्हाचे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पाण्याचे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "डाळीचे (तूर/मूग)"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "दूध कोणी देते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गाय/म्हैस/शेळी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वाघ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कुत्रा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मांजर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गाय/म्हैस/शेळी"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "दुधापासून काय बनते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दही, तूप, लोणी, पनीर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "भाकरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चपाती",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दही, तूप, लोणी, पनीर"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "अंडी कोण देते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कोंबडी/बदक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गाय",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "म्हैस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बकरी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कोंबडी/बदक"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "मांसाहार (Non-veg) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मासे, मटण, चिकन खाणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त भाजी खाणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फळे खाणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दूध पिणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मासे, मटण, चिकन खाणे"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "शाकाहार (Veg) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वनस्पतीजन्य पदार्थ खाणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "प्राणी खाणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "अंडी खाणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच न खाणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वनस्पतीजन्य पदार्थ खाणे"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "जेवताना ताटात काय सोडावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "काहीच नाही (अन्न वाया घालवू नये)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "भाजी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पोळी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पूर्ण ताट",
+                    "is_correct": false
+                }
+            ],
+            "answer": "काहीच नाही (अन्न वाया घालवू नये)"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "अन्न वाया घालवणे चांगले आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही, ती अन्नाची नासाडी आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "श्रीमंती लक्षण आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चांगले आहे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही, ती अन्नाची नासाडी आहे"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "जेवण बनवण्यासाठी कोणाला कष्ट पडतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शेतकरी आणि आईला",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कोणालाच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "देवाला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मशीनला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शेतकरी आणि आईला"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "बाहेरचे उघडे पदार्थ (Street Food) खावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही, आजारी पडू शकतो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो, रोज",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चविष्ट असते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "स्वस्त असते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही, आजारी पडू शकतो"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "फळे खाण्यापूर्वी काय करावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वच्छ धुवावीत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कापावीत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फेकून द्यावीत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "तशीच खावीत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्वच्छ धुवावीत"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "पालेभाज्या खाव्या का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, आरोग्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त बटाटा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, आरोग्यासाठी"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "कारले (Bitter Gourd) चवीला कसे असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कडू",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गोड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तिखट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "आंबट",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कडू"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "पण कारले आरोग्यासाठी कसे असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "उत्तम/औषधी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वाईट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "विषारी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "उत्तम/औषधी"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "आंबा (Mango) चवीला कसा असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गोड/आंबट (फळांचा राजा)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कडू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तिखट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खारट",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गोड/आंबट (फळांचा राजा)"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "लिंबू चवीला कसे असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आंबट",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गोड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कडू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "तिखट",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आंबट"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "मिरची कशी असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तिखट",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गोड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आंबट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कडू",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तिखट"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "मीठ (Salt) चवीला कसे असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खारट",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गोड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कडू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "तुरट",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खारट"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "मिठाशिवाय अन्न कसे लागते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "अळणी (Tasteless)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "छान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गोड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "तिखट",
+                    "is_correct": false
+                }
+            ],
+            "answer": "अळणी (Tasteless)"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "गुळ आणि साखर कशापासून बनतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ऊसापासून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "बीटपासून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कांद्यापासून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बटाट्यापासून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ऊसापासून"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "मध (Honey) कोण गोळा करतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मधमाशी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "माशी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "डास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मुंगी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मधमाशी"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "मध चवीला कसा असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गोड",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कडू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आंबट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खारट",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गोड"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "तेल कशापासून मिळते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शेंगदाणे, तीळ, सोयाबीन, सूर्यफूल",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गहू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तांदूळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "साखर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शेंगदाणे, तीळ, सोयाबीन, सूर्यफूल"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "तूप (Ghee) कशापासून बनते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दुधाच्या सायीपासून/लोण्यापासून",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तेलापासून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाण्यापासून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फळांपासून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दुधाच्या सायीपासून/लोण्यापासून"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "पाणी का प्यावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पचनासाठी आणि शरीरासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तहान लागल्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चवीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रंग बघण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पचनासाठी आणि शरीरासाठी"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "दिवसातून किती ग्लास पाणी प्यावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "८-१० ग्लास",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "१ ग्लास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "२ ग्लास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "२० ग्लास",
+                    "is_correct": false
+                }
+            ],
+            "answer": "८-१० ग्लास"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "शिळे अन्न (Stale Food) खावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही, विषबाधा होऊ शकते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गरम करून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "तळून",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही, विषबाधा होऊ शकते"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "अन्न शिजवून का खावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पचायला हलके होते आणि जंतू मरतात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चव जाते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कच्चे चांगले असते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कडक होते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पचायला हलके होते आणि जंतू मरतात"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "कच्च्या भाज्या (Salad) खाव्या का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो (गाजर, काकडी इ.)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शिजवूनच खाव्या",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो (गाजर, काकडी इ.)"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "जेवणाची वेळ पाळावी का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीही जेवावे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रात्री उशिरा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "जेवताना बोलावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही (ठसका लागेल)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जोरजोरात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गाणे म्हणावे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही (ठसका लागेल)"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "वडापाव, पिझ्झा, बर्गर हे काय आहेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जंक फूड/फास्ट फूड",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हेल्दी फूड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "भाज्या",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जंक फूड/फास्ट फूड"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "हे रोज खावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "सकाळी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रात्री",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "आईच्या हातचे जेवण कसे असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चविष्ट आणि पौष्टिक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वाईट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मजा नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खारट",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चविष्ट आणि पौष्टिक"
+        },
+        {
+            "question_id": 41,
+            "question_type": "SHORT",
+            "question": "शेतकरी शेतात काय राबतो?",
+            "answer": "कष्ट करतो."
+        },
+        {
+            "question_id": 42,
+            "question_type": "SHORT",
+            "question": "नांगरणी म्हणजे काय?",
+            "answer": "जमीन भुसभुशीत करणे."
+        },
+        {
+            "question_id": 43,
+            "question_type": "SHORT",
+            "question": "पेरणी म्हणजे काय?",
+            "answer": "बी लावणे."
+        },
+        {
+            "question_id": 44,
+            "question_type": "SHORT",
+            "question": "कापणी म्हणजे काय?",
+            "answer": "पीक काढणे."
+        },
+        {
+            "question_id": 45,
+            "question_type": "SHORT",
+            "question": "मळणी म्हणजे काय?",
+            "answer": "दाणे वेगळे करणे."
+        },
+        {
+            "question_id": 46,
+            "question_type": "SHORT",
+            "question": "धान्य कोठे साठवतात?",
+            "answer": "पोत्यात/गोदामात/कणगीत."
+        },
+        {
+            "question_id": 47,
+            "question_type": "SHORT",
+            "question": "शिधापत्रिका (Ration Card) कशासाठी?",
+            "answer": "स्वस्त धान्य मिळण्यासाठी."
+        },
+        {
+            "question_id": 48,
+            "question_type": "SHORT",
+            "question": "तुम्ही दुकानातून काय आणता?",
+            "answer": "वाणसामान (Grocery)."
+        },
+        {
+            "question_id": 49,
+            "question_type": "SHORT",
+            "question": "किराणा मालाच्या दुकानात काय मिळते?",
+            "answer": "डाळ, तांदूळ, साखर इ."
+        },
+        {
+            "question_id": 50,
+            "question_type": "SHORT",
+            "question": "भाजी मंडईत काय मिळते?",
+            "answer": "ताज्या भाज्या."
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "आठवडे बाजार म्हणजे काय?",
+            "answer": "आठवड्यातून एकदा भरणारा बाजार."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "सेंद्रिय आहार (Organic Food) चांगला का?",
+            "answer": "रसायनमुक्त असतो."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "प्रिझर्व्हेटीव्ह (Preservatives) काय करतात?",
+            "answer": "अन्न टिकवतात (पण जास्त चांगले नाहीत)."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "लोणचे (Pickle) कशापासून बनतात?",
+            "answer": "कैरी, लिंबू, मिरची."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "लोणचे टिकण्यासाठी काय घालतात?",
+            "answer": "मीठ आणि तेल."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "पापड-कुरडई कधी करतात?",
+            "answer": "उन्हाळ्यात (वाळवण्यासाठी)."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "साखरउंबा म्हणजे काय?",
+            "answer": "साखरेचा पाक आणि कैरी."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "पुरणपोळी कधी बनवतात?",
+            "answer": "होळीला/सणाला."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "मोदक कधी बनवतात?",
+            "answer": "गणपतीला."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "श्रीखंड-पुरी कधी बनवतात?",
+            "answer": "गुढीपाडव्याला/सणाला."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "लाडू कशाचे बनवतात?",
+            "answer": "बेसन, रवा, बुंदी."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "चिवडा (Snacks) कशापासून बनतो?",
+            "answer": "पोहे/मुरमुरे."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "इडली-डोसा हा कोणता पदार्थ आहे?",
+            "answer": "दाक्षिणात्य (South Indian)."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "ढोकळा कोणता पदार्थ आहे?",
+            "answer": "गुजराती."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "वडापाव कशाचा आहे?",
+            "answer": "महाराष्ट्रीयन."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "तुमचा आवडता पदार्थ कोणता?",
+            "answer": "(विद्यार्थ्याचे उत्तर)."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "गोड खायला आवडते की तिखट?",
+            "answer": "(विद्यार्थ्याचे उत्तर)."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "जास्त तिखट खाल्ल्याने काय होते?",
+            "answer": "पोटात जळजळ (Acidity)."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "जास्त गोड खाल्ल्याने काय होते?",
+            "answer": "दात किडतात/वजन वाढते."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "मीठ जास्त खावे का?",
+            "answer": "नाही, रक्तदाब वाढतो."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "साखर जास्त खावी का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "पाणी पिताना काय बघावे?",
+            "answer": "ते स्वच्छ आहे का."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "गाळून आणि उकळून पाणी प्यावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "दुधाला ‘पूर्णान्न’ म्हणतात का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "लहान बाळाचे मुख्य अन्न काय?",
+            "answer": "आईचे दूध."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "प्रथिने (Proteins) कशातून मिळतात?",
+            "answer": "डाळी, कडधान्ये, अंडी."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "कर्बोदके (Carbohydrates) कशातून मिळतात?",
+            "answer": "भात, पोळी, बटाटा."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "स्निग्ध पदार्थ (Fats) कशातून मिळतात?",
+            "answer": "तेल, तूप."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "तुम्ही डब्यात काय नेता?",
+            "answer": "भाजी-पोळी."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "शाळेत पोषण आहार (Mid-day Meal) मिळतो का?",
+            "answer": "हो (खिचडी)."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "तो खायला आवडतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": " जेवणापूर्वी प्रार्थना का म्हणतात?",
+            "answer": "अन्नाचे आभार मानण्यासाठी (वदनी कवळ घेता...)."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "‘उदरभरण नोहे जाणिजे यज्ञकर्म’ म्हणजे?",
+            "answer": "जेवण हे एक पवित्र कार्य आहे."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "जेवताना टीव्ही बघावा का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "जेवताना मोबाईल बघावा का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "जेवताना पाणी प्यावे का?",
+            "answer": "थोडेसे, जेवणानंतर अर्ध्या तासाने प्यावे."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "रात्री झोपताना दूध प्यावे का?",
+            "answer": "हो/हळद दूध चांगले."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "हळद दूध कशासाठी?",
+            "answer": "रोगप्रतिकारक शक्तीसाठी."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "काजू-बदाम (Dry fruits) खावे का?",
+            "answer": "हो, बुद्धीसाठी आणि शक्तीसाठी."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "शेंगदाणे गुळ खाल्ल्याने काय वाढते?",
+            "answer": "रक्त (हिमोग्लोबिन)."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "पालक भाजी खाल्ल्याने काय मिळते?",
+            "answer": "लोह (Iron)."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "एनिमीया (Anemia) म्हणजे काय?",
+            "answer": "रक्ताची कमतरता."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "त्यासाठी काय खावे?",
+            "answer": "बीट, खजूर, गुळ, शेंगदाणे."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "हॉटेलमधील जेवण कसे असते?",
+            "answer": "मसालेदार आणि तेलकट."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "ते वारंवार खावे का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "तुमची आई छान स्वयंपाक करते का?",
+            "answer": "हो, जगातील बेस्ट."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "तुम्ही आईला मदत करता का?",
+            "answer": "हो, ताटं मांडायला/पाणी द्यायला."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "स्वयंपाकघरात गॅसचा वापर जपून करावा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "सुरी/विळी वापरताना जपून वापरावी.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "फ्रीजमध्ये अन्न किती दिवस ठेवावे?",
+            "answer": "जास्त दिवस नाही."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "कांदा चिरताना डोळ्यात पाणी का येते?",
+            "answer": "वायूमुळे."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "मसाल्याचे पदार्थ (Spices) कोणते?",
+            "answer": "लवंग, मिरी, दालचिनी, वेलची."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "मसाल्यामुळे काय होते?",
+            "answer": "जेवणाला चव येते."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "भारताला ‘मसाल्यांचे घर’ म्हणतात.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "केरळमध्ये मसाले जास्त पिकतात.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "नारळ कोठे जास्त मिळतात?",
+            "answer": "कोकणात/समुद्रकिनारी."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "आंबा कोठला प्रसिद्ध आहे?",
+            "answer": "हापूस (रत्नागिरी/देवगड)."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "द्राक्षे कोठली प्रसिद्ध आहेत?",
+            "answer": "नाशिक."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "केळी कोठली प्रसिद्ध आहेत?",
+            "answer": "जळगाव."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "संत्री कोठली प्रसिद्ध आहेत?",
+            "answer": "नागपूर."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "सीताफळ कोठले प्रसिद्ध आहेत?",
+            "answer": "दौलताबाद/पुणे."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "स्ट्रॉबेरी कोठली प्रसिद्ध आहे?",
+            "answer": "महाबळेश्वर."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "ऊस कोठे जास्त पिकतो?",
+            "answer": "कोल्हापूर/पश्चिम महाराष्ट्र."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "ज्वारी-बाजरी कोठे पिकते?",
+            "answer": "मराठवाडा/विदर्भ (कोरडवाहू)."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "तांदूळ कोठे पिकतो?",
+            "answer": "कोकण/जास्त पावसाच्या ठिकाणी."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "मोहरी (Mustard) कशासाठी वापरतात?",
+            "answer": "फोडणीसाठी."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "जिरे कशासाठी वापरतात?",
+            "answer": "फोडणीसाठी/पचनासाठी."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "हिंग कशासाठी?",
+            "answer": "वास आणि पचनासाठी."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "हळद कशासाठी?",
+            "answer": "रंग आणि औषध म्हणून."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "मीठागरात काय तयार होते?",
+            "answer": "मीठ."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "समुद्राचे पाणी कसे असते?",
+            "answer": "खारट."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "अन्न हेच औषध आहे का?",
+            "answer": "हो, योग्य आहार घेतल्यास औषधाची गरज नाही."
+        }
+    ]
 }

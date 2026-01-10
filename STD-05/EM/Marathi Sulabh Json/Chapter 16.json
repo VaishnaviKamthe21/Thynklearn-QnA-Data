@@ -1,580 +1,1841 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "chapter_number": 16,
-  "chapter_name": "वेळेचे महत्त्व",
-  "mode": "Outside Textbook | Max Safe Unique",
-  "counts": {
-    "one_line_questions": 65,
-    "mcqs": 35
-  },
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "‘वेळेचे महत्त्व’ या धड्याचा मुख्य संदेश काय आहे?",
-      "answer": "वेळेचा योग्य वापर केल्यास यश मिळते हा संदेश आहे."
-    },
-    {
-      "id": 2,
-      "question": "वेळ म्हणजे काय?",
-      "answer": "काम करण्यासाठी मिळणारा अमूल्य क्षण म्हणजे वेळ."
-    },
-    {
-      "id": 3,
-      "question": "वेळेचे महत्त्व का आहे?",
-      "answer": "वेळ एकदा गेली की परत येत नाही."
-    },
-    {
-      "id": 4,
-      "question": "वेळेचा सदुपयोग म्हणजे काय?",
-      "answer": "उपयुक्त कामासाठी वेळ वापरणे."
-    },
-    {
-      "id": 5,
-      "question": "वेळ वाया घालवल्यास काय होते?",
-      "answer": "नुकसान आणि पश्चात्ताप होतो."
-    },
-    {
-      "id": 6,
-      "question": "वेळेचे नियोजन का आवश्यक आहे?",
-      "answer": "काम वेळेत पूर्ण करण्यासाठी."
-    },
-    {
-      "id": 7,
-      "question": "वेळेचा योग्य वापर केल्याने काय फायदा होतो?",
-      "answer": "यश आणि समाधान मिळते."
-    },
-    {
-      "id": 8,
-      "question": "वेळेचे महत्त्व विद्यार्थी जीवनात काय आहे?",
-      "answer": "अभ्यासात प्रगती होते."
-    },
-    {
-      "id": 9,
-      "question": "वेळेचे भान म्हणजे काय?",
-      "answer": "कामासाठी योग्य वेळ ओळखणे."
-    },
-    {
-      "id": 10,
-      "question": "वेळेचा आदर का करावा?",
-      "answer": "तो अमूल्य असतो."
-    },
-    {
-      "id": 11,
-      "question": "वेळेचा सदुपयोग कसा करता येतो?",
-      "answer": "नियमित दिनक्रम ठेवून."
-    },
-    {
-      "id": 12,
-      "question": "वेळ वाचवणे म्हणजे काय?",
-      "answer": "अनावश्यक काम टाळणे."
-    },
-    {
-      "id": 13,
-      "question": "वेळेचे महत्त्व जीवनात कसे दिसते?",
-      "answer": "प्रत्येक काम वेळेवर करावे लागते."
-    },
-    {
-      "id": 14,
-      "question": "वेळेचा अपव्यय का टाळावा?",
-      "answer": "यशात अडथळा येतो."
-    },
-    {
-      "id": 15,
-      "question": "वेळेचे नियोजन केल्याने ताण कसा कमी होतो?",
-      "answer": "काम वेळेत पूर्ण होते."
-    },
-    {
-      "id": 16,
-      "question": "वेळेचे महत्त्व शिकण्यासाठी काय करावे?",
-      "answer": "वेळापत्रक तयार करावे."
-    },
-    {
-      "id": 17,
-      "question": "वेळेचा योग्य वापर शिस्त कसा लावतो?",
-      "answer": "नियमित कामाची सवय लागते."
-    },
-    {
-      "id": 18,
-      "question": "वेळेचे महत्त्व खेळात कसे दिसते?",
-      "answer": "सरावासाठी वेळ द्यावा लागतो."
-    },
-    {
-      "id": 19,
-      "question": "वेळेचा सदुपयोग केल्याने आत्मविश्वास कसा वाढतो?",
-      "answer": "काम पूर्ण झाल्याची खात्री मिळते."
-    },
-    {
-      "id": 20,
-      "question": "वेळेचे महत्त्व घरात कसे पाळावे?",
-      "answer": "काम वेळेत करून."
-    },
-    {
-      "id": 21,
-      "question": "वेळेचा योग्य वापर यशासाठी का आवश्यक आहे?",
-      "answer": "ध्येय गाठण्यासाठी."
-    },
-    {
-      "id": 22,
-      "question": "वेळेचे महत्त्व कामात कसे जाणवते?",
-      "answer": "उशीर झाल्यास नुकसान होते."
-    },
-    {
-      "id": 23,
-      "question": "वेळेचा अपव्यय म्हणजे काय?",
-      "answer": "निरुपयोगी कामात वेळ घालवणे."
-    },
-    {
-      "id": 24,
-      "question": "वेळेचा सदुपयोग केल्याने सवयी कशा बदलतात?",
-      "answer": "आळस कमी होतो."
-    },
-    {
-      "id": 25,
-      "question": "वेळेचे महत्त्व समाजासाठी काय आहे?",
-      "answer": "प्रगती वेगाने होते."
-    },
-    {
-      "id": 26,
-      "question": "वेळेचा योग्य वापर नेतृत्व कसा विकसित करतो?",
-      "answer": "जबाबदारीची जाणीव होते."
-    },
-    {
-      "id": 27,
-      "question": "वेळेचे नियोजन केल्याने यश कसे मिळते?",
-      "answer": "काम योग्य क्रमाने होते."
-    },
-    {
-      "id": 28,
-      "question": "वेळेचा आदर न केल्यास काय होते?",
-      "answer": "संधी निघून जाते."
-    },
-    {
-      "id": 29,
-      "question": "वेळेचे महत्त्व शिकवणारे उदाहरण कोणते?",
-      "answer": "वेळेवर अभ्यास करणारा विद्यार्थी."
-    },
-    {
-      "id": 30,
-      "question": "वेळेचा सदुपयोग करून काय साध्य करता येते?",
-      "answer": "ध्येय पूर्ण करता येते."
-    },
-    {
-      "id": 31,
-      "question": "वेळेचे महत्त्व जीवनात शिस्त कशी आणते?",
-      "answer": "कामाची सवय लागते."
-    },
-    {
-      "id": 32,
-      "question": "वेळेचा योग्य वापर आरोग्यास कसा उपयोगी पडतो?",
-      "answer": "विश्रांतीसाठी वेळ मिळतो."
-    },
-    {
-      "id": 33,
-      "question": "वेळेचे नियोजन का अवघड वाटते?",
-      "answer": "सवय नसल्यामुळे."
-    },
-    {
-      "id": 34,
-      "question": "वेळेचे महत्त्व लहानपणी का शिकावे?",
-      "answer": "सवय लवकर लागते."
-    },
-    {
-      "id": 35,
-      "question": "वेळेचा सदुपयोग करून चुका कशा टाळता येतात?",
-      "answer": "काम आधीच पूर्ण होते."
-    },
-    {
-      "id": 36,
-      "question": "वेळेचे महत्त्व परीक्षेत कसे दिसते?",
-      "answer": "वेळेत प्रश्न सोडवावे लागतात."
-    },
-    {
-      "id": 37,
-      "question": "वेळेचा योग्य वापर समाजात आदर कसा मिळवतो?",
-      "answer": "वेळ पाळणारी व्यक्ती विश्वासार्ह असते."
-    },
-    {
-      "id": 38,
-      "question": "वेळेचा अपव्यय टाळण्यासाठी काय करावे?",
-      "answer": "प्राधान्यक्रम ठरवावा."
-    },
-    {
-      "id": 39,
-      "question": "वेळेचे महत्त्व कामाच्या गुणवत्तेत कसे दिसते?",
-      "answer": "काम नीट होते."
-    },
-    {
-      "id": 40,
-      "question": "वेळेचा सदुपयोग केल्याने जीवन कसे बदलते?",
-      "answer": "जीवन शिस्तबद्ध होते."
-    },
-    {
-      "id": 41,
-      "question": "वेळेचे महत्त्व शिकताना काय लक्षात ठेवावे?",
-      "answer": "वेळ वाया जाऊ देऊ नये."
-    },
-    {
-      "id": 42,
-      "question": "वेळेचा योग्य वापर करून यश कसे टिकते?",
-      "answer": "नियमित प्रयत्नामुळे."
-    },
-    {
-      "id": 43,
-      "question": "वेळेचे महत्त्व निर्णय घेण्यात कसे उपयोगी पडते?",
-      "answer": "योग्य वेळी निर्णय होतो."
-    },
-    {
-      "id": 44,
-      "question": "वेळेचा सदुपयोग केल्याने आत्मसन्मान कसा वाढतो?",
-      "answer": "स्वतःच्या शिस्तीचा अभिमान वाटतो."
-    },
-    {
-      "id": 45,
-      "question": "वेळेचे महत्त्व कामाच्या सवयी कशा सुधारते?",
-      "answer": "वेळेवर काम पूर्ण होते."
-    },
-    {
-      "id": 46,
-      "question": "वेळेचा योग्य वापर शिकण्यात कसा मदत करतो?",
-      "answer": "सर्व विषयांना वेळ देता येतो."
-    },
-    {
-      "id": 47,
-      "question": "वेळेचे महत्त्व जीवनातील संधींशी कसे जोडलेले आहे?",
-      "answer": "योग्य वेळी संधी मिळते."
-    },
-    {
-      "id": 48,
-      "question": "वेळेचा अपव्यय का घातक आहे?",
-      "answer": "भविष्यावर परिणाम होतो."
-    },
-    {
-      "id": 49,
-      "question": "वेळेचा सदुपयोग करून यशाचा आनंद कसा मिळतो?",
-      "answer": "मेहनतीचे समाधान मिळते."
-    },
-    {
-      "id": 50,
-      "question": "वेळेचे महत्त्व समजल्यावर काय बदलते?",
-      "answer": "वर्तन सुधारते."
-    },
-    {
-      "id": 51,
-      "question": "वेळेचा योग्य वापर करून स्वप्ने कशी पूर्ण होतात?",
-      "answer": "ध्येय साध्य होते."
-    },
-    {
-      "id": 52,
-      "question": "वेळेचे महत्त्व समाजात शिस्त कशी वाढवते?",
-      "answer": "काम वेळेत होते."
-    },
-    {
-      "id": 53,
-      "question": "वेळेचा सदुपयोग ही चांगली सवय का आहे?",
-      "answer": "ती आयुष्य घडवते."
-    },
-    {
-      "id": 54,
-      "question": "वेळेचे महत्त्व शिकल्याने जीवनात काय मिळते?",
-      "answer": "यश आणि समाधान."
-    },
-    {
-      "id": 55,
-      "question": "वेळेचा योग्य वापर करून भविष्य कसे सुरक्षित होते?",
-      "answer": "योग्य नियोजनामुळे."
-    },
-    {
-      "id": 56,
-      "question": "वेळेचे महत्त्व दैनंदिन जीवनात कसे दिसते?",
-      "answer": "प्रत्येक काम वेळेवर करावे लागते."
-    },
-    {
-      "id": 57,
-      "question": "वेळेचा सदुपयोग करून व्यक्ती कशी घडते?",
-      "answer": "शिस्तबद्ध आणि जबाबदार बनते."
-    },
-    {
-      "id": 58,
-      "question": "वेळेचे महत्त्व समजणे यशासाठी का आवश्यक आहे?",
-      "answer": "संधी ओळखता येते."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "‘वेळेचे महत्त्व’ या धड्याचा मुख्य विषय कोणता आहे?",
-      "options": {
-        "A": "खेळ",
-        "B": "वेळेचा उपयोग",
-        "C": "मनोरंजन",
-        "D": "स्पर्धा"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 2,
-      "question": "वेळेचा सदुपयोग म्हणजे काय?",
-      "options": {
-        "A": "वेळ वाया घालवणे",
-        "B": "उपयुक्त वापर",
-        "C": "आळस",
-        "D": "खेळ"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 3,
-      "question": "वेळ एकदा गेली की काय होते?",
-      "options": {
-        "A": "परत येते",
-        "B": "परत येत नाही",
-        "C": "थांबते",
-        "D": "बदलते"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 4,
-      "question": "वेळेचे नियोजन का आवश्यक आहे?",
-      "options": {
-        "A": "काम वेळेत पूर्ण करण्यासाठी",
-        "B": "वेळ वाया घालवण्यासाठी",
-        "C": "खेळण्यासाठी",
-        "D": "आळसासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 5,
-      "question": "वेळ वाया घालवल्यास काय होते?",
-      "options": {
-        "A": "नुकसान",
-        "B": "यश",
-        "C": "आनंद",
-        "D": "प्रगती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 6,
-      "question": "वेळेचा योग्य वापर केल्याने काय मिळते?",
-      "options": {
-        "A": "यश",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 7,
-      "question": "वेळेचे महत्त्व विद्यार्थी जीवनात कसे दिसते?",
-      "options": {
-        "A": "अभ्यासात प्रगती",
-        "B": "खेळ",
-        "C": "विश्रांती",
-        "D": "मनोरंजन"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "question": "वेळेचा आदर का करावा?",
-      "options": {
-        "A": "तो अमूल्य आहे",
-        "B": "तो सोपा आहे",
-        "C": "तो बदलतो",
-        "D": "तो थांबतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 9,
-      "question": "वेळेचा अपव्यय म्हणजे काय?",
-      "options": {
-        "A": "निरुपयोगी काम",
-        "B": "नियमित काम",
-        "C": "अभ्यास",
-        "D": "खेळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "वेळेचा सदुपयोग केल्याने काय वाढते?",
-      "options": {
-        "A": "आत्मविश्वास",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 11,
-      "question": "वेळेचे नियोजन केल्याने ताण कसा कमी होतो?",
-      "options": {
-        "A": "काम वेळेत होते",
-        "B": "काम वाढते",
-        "C": "भीती वाढते",
-        "D": "गोंधळ वाढतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "question": "वेळेचा योग्य वापर शिस्त कशी लावतो?",
-      "options": {
-        "A": "नियमित सवयी",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 13,
-      "question": "वेळेचे महत्त्व खेळात कसे दिसते?",
-      "options": {
-        "A": "सरावासाठी वेळ",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "वेळेचा आदर न केल्यास काय होते?",
-      "options": {
-        "A": "संधी जाते",
-        "B": "यश मिळते",
-        "C": "आनंद मिळतो",
-        "D": "प्रगती होते"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 15,
-      "question": "वेळेचा सदुपयोग करून काय साध्य करता येते?",
-      "options": {
-        "A": "ध्येय",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "question": "वेळेचे महत्त्व समाजासाठी काय आहे?",
-      "options": {
-        "A": "प्रगती",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "वेळेचा योग्य वापर नेतृत्व कसा विकसित करतो?",
-      "options": {
-        "A": "जबाबदारी",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "वेळेचे नियोजन न केल्यास काय होते?",
-      "options": {
-        "A": "अडचणी",
-        "B": "यश",
-        "C": "आनंद",
-        "D": "प्रगती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "वेळेचे महत्त्व परीक्षेत कसे दिसते?",
-      "options": {
-        "A": "वेळेत प्रश्न",
-        "B": "खेळ",
-        "C": "विश्रांती",
-        "D": "मनोरंजन"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 20,
-      "question": "वेळेचा योग्य वापर आरोग्यास कसा उपयोगी आहे?",
-      "options": {
-        "A": "विश्रांती मिळते",
-        "B": "आळस वाढतो",
-        "C": "भीती वाढते",
-        "D": "गोंधळ वाढतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 21,
-      "question": "वेळेचे महत्त्व लहानपणी का शिकावे?",
-      "options": {
-        "A": "सवय लागते",
-        "B": "वेळ मिळतो",
-        "C": "खेळ वाढतो",
-        "D": "आळस वाढतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "question": "वेळेचा अपव्यय का घातक आहे?",
-      "options": {
-        "A": "भविष्य बिघडते",
-        "B": "यश मिळते",
-        "C": "आनंद मिळतो",
-        "D": "प्रगती होते"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 23,
-      "question": "वेळेचा सदुपयोग करून जीवन कसे बदलते?",
-      "options": {
-        "A": "शिस्तबद्ध",
-        "B": "आळशी",
-        "C": "भीतीग्रस्त",
-        "D": "गोंधळलेले"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "वेळेचे महत्त्व निर्णयात कसे उपयोगी आहे?",
-      "options": {
-        "A": "योग्य वेळ",
-        "B": "उशीर",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "question": "वेळेचा सदुपयोग ही सवय का चांगली आहे?",
-      "options": {
-        "A": "जीवन घडवते",
-        "B": "वेळ वाया घालवते",
-        "C": "आळस वाढवते",
-        "D": "भीती वाढवते"
-      },
-      "answer": "A"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.16",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Weleche Mahatva"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "‘वेळ’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Time",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Money",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Game",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Speed",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Time"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "वेळ कोणासाठी थांबते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "श्रीमंतांसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गरीबांसाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "‘गेलेली वेळ परत येत नाही’ हे खरे आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कदाचित",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "येऊ शकते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "वेळेचा सदुपयोग (Good use) करावा का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वेळ वाया घालवावी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपावे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "वेळेचे नियोजन (Time Management) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वेळेचा योग्य वापर करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घड्याळ पाहणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "घड्याळ विकत घेणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वेळ विचारणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वेळेचा योग्य वापर करणे"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "शाळेत वेळेवर जावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीतरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "उशिरा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "उशिरा गेल्यावर काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नुकसान/शिक्षा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फायदा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "बक्षीस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "आनंद",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नुकसान/शिक्षा"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "परीक्षेच्या वेळी वेळेचे भान नसावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "असावे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नसावे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "काहीही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपावे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "असावे"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "घड्याळ आपल्याला काय सांगते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वेळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वजन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "उंची",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दिशा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वेळ"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "एका मिनिटात किती सेकंद असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "६०",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "१००",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "५०",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "१०",
+                    "is_correct": false
+                }
+            ],
+            "answer": "६०"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "एका तासात किती मिनिटे असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "६०",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "१००",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "३०",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "१०",
+                    "is_correct": false
+                }
+            ],
+            "answer": "६०"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "एका दिवसात किती तास असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "२४",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "१२",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "४८",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "५०",
+                    "is_correct": false
+                }
+            ],
+            "answer": "२४"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "सूर्य कधी उगवतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सकाळी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रात्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दुपारी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "संध्याकाळी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सकाळी"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "सूर्य कधी मावळतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "संध्याकाळी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "सकाळी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दुपारी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रात्री",
+                    "is_correct": false
+                }
+            ],
+            "answer": "संध्याकाळी"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "‘दुपार’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Afternoon",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Morning",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Night",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Evening",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Afternoon"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "‘पहाट’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dawn/Early Morning",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Noon",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Night",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dusk",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dawn/Early Morning"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "‘काळ’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Time/Era",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Black",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Work",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Play",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Time/Era"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "भूतकाळ (Past) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "घडून गेलेली वेळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चालू वेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "येणारी वेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माहीत नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "घडून गेलेली वेळ"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "वर्तमानकाळ (Present) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चालू वेळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घडून गेलेली वेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "येणारी वेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माहीत नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चालू वेळ"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "भविष्यकाळ (Future) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "येणारी वेळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घडून गेलेली वेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चालू वेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माहीत नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "येणारी वेळ"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "‘Time is Money’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वेळ हेच धन आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वेळ फुकट आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पैसे द्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वेळ नको",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वेळ हेच धन आहे"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "आळशी माणसाचा वेळ कसा जातो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वाया",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चांगला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कामात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अभ्यासात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वाया"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "यशस्वी लोक वेळेची कदर करतात का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "माहीत नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कधीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "गाडी पकडण्यासाठी काय पाळावे लागते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वेळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मित्राला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "लोकांना",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वेळ"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "वेळेवर औषध घेतल्याने काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आजार बरा होतो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आजार वाढतो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "काहीच होत नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "त्रास होतो",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आजार बरा होतो"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "‘कळ’ आणि ‘वेळ’ कोणासाठी थांबत नाही?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, हे सत्य आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त कळ थांबते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त वेळ थांबते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, हे सत्य आहे"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "घड्याळाचे काटे कसे फिरतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सतत/पुढे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मागे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "थांबतात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "उलट",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सतत/पुढे"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "बंद पडलेले घड्याळ काय दाखवते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चुकीची वेळ (पण दिवसातून दोनदा बरोबर)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "बरोबर वेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हवामान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चुकीची वेळ (पण दिवसातून दोनदा बरोबर)"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "मोबाईलमध्ये वेळ दिसते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीतरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त रात्री",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "वेळ पाळणे ही कोणाची सवय आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शिस्तप्रिय माणसाची",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आळशी माणसाची",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मूर्ख माणसाची",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चोराची",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शिस्तप्रिय माणसाची"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "शेतकरी वेळेवर पेरणी करतो का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाऊस गेल्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "उन्हाळ्यात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "वेळापत्रक (Time Table) कशासाठी असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नियोजनासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फाडण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चित्रासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नियोजनासाठी"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "तुम्ही अभ्यासाचे वेळापत्रक बनवले आहे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गरज नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बघू",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "सुटीच्या दिवशी वेळ कसा घालवावा?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "छंद जोपासण्यात/वाचनात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त झोपण्यात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "टीव्ही बघण्यात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रडण्यात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "छंद जोपासण्यात/वाचनात"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "टीव्ही बघण्यात किती वेळ घालवावा?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मोजकाच",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "संपूर्ण दिवस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "सात्रंदिवस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शाळेच्या वेळी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मोजकाच"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "खेळण्यासाठी वेळ द्यावा का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, ठराविक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संपूर्ण दिवस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रात्रभर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, ठराविक"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "घाईगडबडीत काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "अपघात/चुका",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "यश",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फायदा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "आनंद",
+                    "is_correct": false
+                }
+            ],
+            "answer": "अपघात/चुका"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "‘सावकाश’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हळू/Slowly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fast",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Now",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Never",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हळू/Slowly"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "‘तातडीने’ (Urgently) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लगेच",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "उशिरा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "उद्या",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कधीतरी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "लगेच"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "वेळ कोणासारखी आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वाहत्या पाण्यासारखी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दगडासारखी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भिंतीसारखी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झाडासारखी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वाहत्या पाण्यासारखी"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "‘क्षण’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Moment",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Hour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Day",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Year",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Moment"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "‘युग’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Era/Age",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Minute",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Second",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Day",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Era/Age"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "सतयुग, त्रेतायुग, द्वापारयुग आणि -",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कलियुग",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आजचा युग",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जुना युग",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नवीन युग",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कलियुग"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "शिवाजी महाराजांचा काळ कोणता?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "इतिहास",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वर्तमान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भविष्य",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माहीत नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "इतिहास"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "भारत महासत्ता होण्याचा काळ कोणता?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "भविष्यकाळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "भूतकाळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "प्राचीन काळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "यापैकी नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भविष्यकाळ"
+        },
+        {
+            "question_id": 46,
+            "question_type": "SHORT",
+            "question": "उद्याचा दिवस कोणी पाहिला आहे का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 47,
+            "question_type": "SHORT",
+            "question": "म्हणून काम कधी करावे?",
+            "answer": "आजच."
+        },
+        {
+            "question_id": 48,
+            "question_type": "SHORT",
+            "question": "घड्याळाचा शोध कोणी लावला?",
+            "answer": "(जनरल नॉलेज)."
+        },
+        {
+            "question_id": 49,
+            "question_type": "SHORT",
+            "question": "काळाचे तीन भेद कोणते?",
+            "answer": "भूतकाळ, वर्तमानकाळ, भविष्यकाळ."
+        },
+        {
+            "question_id": 50,
+            "question_type": "SHORT",
+            "question": "घड्याळात किती काटे असतात?",
+            "answer": "तीन (तास, मिनिट, सेकंद)."
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "लहान काटा कशाचा असतो?",
+            "answer": "तास काटा."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "मोठा काटा कशाचा असतो?",
+            "answer": "मिनिट काटा."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "वेगाने फिरणारा काटा कोणता?",
+            "answer": "सेकंद काटा."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "डिजिटल घड्याळात काय दिसते?",
+            "answer": "अंक/आकडे."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "वाळूचे घड्याळ पाहिले आहे का?",
+            "answer": "हो/पुस्तकात."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "पंचांग (Almanac) कशासाठी वापरतात?",
+            "answer": "तिथी/वार/नक्षत्र पाहण्यासाठी."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "कॅलेंडर कशासाठी असते?",
+            "answer": "तारीख पाहण्यासाठी."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "लीप वर्ष (Leap Year) कधी येते?",
+            "answer": "दर चार वर्षांनी."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "लीप वर्षात फेब्रुवारीत किती दिवस असतात?",
+            "answer": "२९ दिवस."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "सामान्य वर्षात वर्षाचे दिवस किती?",
+            "answer": "३६५."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "लीप वर्षात वर्षाचे दिवस किती?",
+            "answer": "३६६."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "आठवड्याचे वार किती?",
+            "answer": "सात."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "महिन्यात किती आठवडे असतात?",
+            "answer": "चार (साधारणतः)."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "पंधरवडा म्हणजे किती दिवस?",
+            "answer": "पंधरा दिवस."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "सकाळची शाळा किती वाजता असते?",
+            "answer": "(वेळ)."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "शाळा किती वाजता सुटते?",
+            "answer": "(वेळ)."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "तुम्ही किती वाजता उठता?",
+            "answer": "(वेळ)."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "तुम्ही किती वाजता झोपता?",
+            "answer": "(वेळ)."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "जेवणाची वेळ निश्चित असावी का?",
+            "answer": "हो, आरोग्यासाठी."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "वेळेवर झोपले नाही तर काय होते?",
+            "answer": "दुसऱ्या दिवशी आळस येतो."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "‘टाईमपास’ करणे चांगले आहे का?",
+            "answer": "नाही, हा वेळेचा अपव्यय आहे."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "मोबाईलवर गेम खेळणे टाईमपास आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "अभ्यास करणे टाईमपास आहे का?",
+            "answer": "नाही, ते सत्कर्म आहे."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "रेलवे वेळेवर धावतात का?",
+            "answer": "बहुतेक वेळा."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "विमान वेळेवर सुटते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "पाऊस वेळेवर आला नाही तर काय होते?",
+            "answer": "शेतकऱ्याचे नुकसान/दुष्काळ."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "सूर्य वेळेवर उगवला नाही तर?",
+            "answer": "सृष्टीचे चक्र बिघडेल (अशक्य आहे)."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "कोंबडा कधी आरवतो?",
+            "answer": "पहाटे."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "पूर्वी वेळ कशी मोजायचे?",
+            "answer": "सावलीवरून/प्रहरावरून."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "एक प्रहर म्हणजे किती तास?",
+            "answer": "तीन तास."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "अष्टौप्रहर म्हणजे काय?",
+            "answer": "दिवस-रात्र (२४ तास)."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "बारा वाजले म्हणजे काय?",
+            "answer": "दुपार झाली किंवा मध्यरात्र झाली."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "‘चांगली वेळ’ म्हणजे काय?",
+            "answer": "शुभ मुहूर्त."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "‘वाईट वेळ’ म्हणजे काय?",
+            "answer": "संकट काळ."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "संकटात धैर्य ठेवावे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "वेळ बदलते का?",
+            "answer": "हो, सुख-दुःख येत-जात असते."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "वेळेला औषध म्हणतात का?",
+            "answer": "हो (Time heals everything)."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "जखम भरण्यास वेळ लागतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "झाड मोठे होण्यास वेळ लागतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "घर बांधायला वेळ लागतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "स्वयंपाक करायला वेळ लागतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "इंस्टंट (Instant) म्हणजे काय?",
+            "answer": "लगेच तयार होणारे."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "मॅगी किती मिनिटात बनते म्हणतात?",
+            "answer": "दोन मिनिटात."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "खरोखर दोन मिनिटात बनते का?",
+            "answer": "नाही, थोडा जास्त वेळ लागतो."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "फास्ट फूड (Fast Food) म्हणजे काय?",
+            "answer": "लवकर मिळणारे पण आरोग्यास हानिकारक."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "स्लो पॉयझन (Slow Poison) म्हणजे काय?",
+            "answer": "हळूहळू परिणाम करणारे."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "कासवगतीने जाणे म्हणजे काय?",
+            "answer": "हळू पण सातत्याने जाणे."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "सशाच्या गतीने जाणे म्हणजे?",
+            "answer": "वेगाने जाणे."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "जीवनात गती (Speed) महत्त्वाची की दिशा (Direction)?",
+            "answer": "दिशा (Direction)."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "चुकीच्या दिशेने वेगाने जाऊन उपयोग आहे का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "वेळ कोणासाठीही थांबत नाही - इंग्रजी म्हण सांगा.",
+            "answer": "Time and Tide wait for none."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "आजचे काम उद्यावर ढकलू नका - इंग्रजी म्हण.",
+            "answer": "Do not put off till tomorrow what you can do today."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "लवकर उठा लवकर झोपा - इंग्रजी म्हण.",
+            "answer": "Early to bed and early to rise..."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "वेळेची किंमत कोणाला कळते?",
+            "answer": "ज्याची गाडी हुकली आहे त्याला."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "सेकंदाची किंमत कोणाला कळते?",
+            "answer": "ज्याचा अपघात टळला आहे/ऑलिम्पिक धावपटूला."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "महिन्याची किंमत कोणाला कळते?",
+            "answer": "ज्याला पगार मिळायचा आहे/गरोदर मातेला."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "वर्षाची किंमत कोणाला कळते?",
+            "answer": "नापास झालेल्या विद्यार्थ्याला."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "मिलिसेकंदाची किंमत कोणाला कळते?",
+            "answer": "सुवर्णपदक हुकलेल्या खेळाडूला."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "आयुष्य किती मोठे आहे?",
+            "answer": "माहीत नाही."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "म्हणून काय करावे?",
+            "answer": "प्रत्येक क्षण जगावा."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "आनंदी राहावे का?",
+            "answer": "हो, नेहमी."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "दुःखात वेळ कसा जातो?",
+            "answer": "हळू हळू (वाटतो)."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "आनंदात वेळ कसा जातो?",
+            "answer": "लवकर (भुर्रकन)."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "शाळेची सुट्टी लवकर संपते का?",
+            "answer": "हो, असे वाटते."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "तारांगण (Planetarium) मध्ये वेळ कसा जातो?",
+            "answer": "मजेत."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "सिनेमा बघताना वेळ समजतो का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "परीक्षेचा पेपर लिहिताना वेळ पुरतो का?",
+            "answer": "कधी कधी कमी पडतो."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "पेपर लिहिण्याचा सराव (Writing Speed) वाढवावा का?",
+            "answer": "हो, पेपर पूर्ण करण्यासाठी."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "तुम्ही घड्याळ वापरता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "स्मार्ट वॉच (Smart Watch) काय करते?",
+            "answer": "वेळेसोबत आरोग्यही सांगते."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "जुनी घड्याळे कशी होती?",
+            "answer": "चावीची (Winding)."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "लोलकाचे घड्याळ (Pendulum Clock) पाहिले आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 123,
+            "question_type": "SHORT",
+            "question": "ते कसे वाजते?",
+            "answer": "टण टण (दर तासाला)."
+        },
+        {
+            "question_id": 124,
+            "question_type": "SHORT",
+            "question": "वेळेवर जेवण केले तर काय होते?",
+            "answer": "पचन चांगले होते."
+        },
+        {
+            "question_id": 125,
+            "question_type": "SHORT",
+            "question": "वेळेवर औषध न घेतल्यास काय होते?",
+            "answer": "गुण येत नाही."
+        },
+        {
+            "question_id": 126,
+            "question_type": "SHORT",
+            "question": "वेळेची शिस्त सैन्यात असते का?",
+            "answer": "हो, अतिशय कडक."
+        },
+        {
+            "question_id": 127,
+            "question_type": "SHORT",
+            "question": "शाळेची घंटा (Bell) कशासाठी वाजते?",
+            "answer": "वेळ समजण्यासाठी (तास बदलण्यासाठी)."
+        },
+        {
+            "question_id": 128,
+            "question_type": "SHORT",
+            "question": "घंटा वाजली की काय वाटते?",
+            "answer": "मजा/सुट्टी."
+        },
+        {
+            "question_id": 129,
+            "question_type": "SHORT",
+            "question": "मधली सुट्टी (Recess) किती वेळाची असते?",
+            "answer": "१५-२० मिनिटे."
+        },
+        {
+            "question_id": 130,
+            "question_type": "SHORT",
+            "question": "तुम्ही वेळेचे पक्के आहात का?",
+            "answer": "हो, प्रयत्न करतो."
+        },
+        {
+            "question_id": 131,
+            "question_type": "SHORT",
+            "question": "उशीर करण्याची सवय चांगली आहे का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 132,
+            "question_type": "SHORT",
+            "question": "भारतीय लोक वेळेबाबत कसे आहेत?",
+            "answer": "थोडे उशीर करणारे (असे म्हणतात, पण बदलायला हवे)."
+        },
+        {
+            "question_id": 133,
+            "question_type": "SHORT",
+            "question": "जपानी लोक वेळेबाबत कसे आहेत?",
+            "answer": "अतिशय वक्तशीर."
+        },
+        {
+            "question_id": 134,
+            "question_type": "SHORT",
+            "question": "रेल्वे स्टेशनवर मोठे घड्याळ असते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 135,
+            "question_type": "SHORT",
+            "question": "विमानतळावर घड्याळे असतात का?",
+            "answer": "हो, वेगवेगळ्या देशांची."
+        },
+        {
+            "question_id": 136,
+            "question_type": "SHORT",
+            "question": "जागतिक वेळ (World Clock) म्हणजे काय?",
+            "answer": "जगातील विविध शहरांची वेळ."
+        },
+        {
+            "question_id": 137,
+            "question_type": "SHORT",
+            "question": "भारताची प्रमाण वेळ कोणती?",
+            "answer": "IST (Indian Standard Time)."
+        },
+        {
+            "question_id": 138,
+            "question_type": "SHORT",
+            "question": "लंडनची वेळ कोणती?",
+            "answer": "GMT (Greenwich Mean Time)."
+        },
+        {
+            "question_id": 139,
+            "question_type": "SHORT",
+            "question": "वेळेचा सदुपयोग करून महान कोण झाले?",
+            "answer": "शिवाजी महाराज, आंबेडकर, गांधीजी इ."
+        },
+        {
+            "question_id": 140,
+            "question_type": "SHORT",
+            "question": "तुम्ही तुमचा वेळ सत्कारणी लावणार का?",
+            "answer": "हो."
+        }
+    ]
 }
