@@ -1,0 +1,2311 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "10.SEMI.03",
+        "standard": "10",
+        "subject": "History",
+        "medium": "Semi-English",
+        "chapter_name": "उपयोजित इतिहास"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "‘उपयोजित इतिहास’ या संज्ञेसाठी पर्यायी शब्दप्रयोग कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सामाजिक इतिहास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "जनांसाठी इतिहास",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "राजकीय इतिहास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "प्रादेशिक इतिहास",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जनांसाठी इतिहास"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहासाचा मुख्य उद्देश कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "भूतकाळ विसरणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "इतिहास फक्त अभ्यासक्रमापुरता मर्यादित ठेवणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भूतकाळातील ज्ञानाचा वर्तमान आणि भविष्यकाळासाठी उपयोग करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "इतिहासाचा उपयोग फक्त संशोधनासाठी करणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भूतकाळातील ज्ञानाचा वर्तमान आणि भविष्यकाळासाठी उपयोग करणे"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहासाच्या क्षेत्रात कोणाचा सहभाग असू शकतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फक्त इतिहासकारांचा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त संशोधकांचा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तज्ज्ञ व्यक्ती आणि सर्वसामान्य लोकांचा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त विद्यार्थी वर्गाचा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तज्ज्ञ व्यक्ती आणि सर्वसामान्य लोकांचा"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "संग्रहालयांना भेट देणाऱ्या लोकांचा सहभाग कोणत्या क्षेत्रात महत्त्वाचा ठरतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "औद्योगिक विकासात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "उपयोजित इतिहासात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "कृषी व्यवस्थापनात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "तंत्रज्ञान संशोधनात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "उपयोजित इतिहासात"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहास कोणत्या प्रकारच्या आव्हानांवर उपाययोजना करण्यास मदत करतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फक्त तांत्रिक आव्हानांवर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त आर्थिक आव्हानांवर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "सामाजिक आव्हानांवर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त शैक्षणिक आव्हानांवर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सामाजिक आव्हानांवर"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहासाच्या अभ्यासात कोणता घटक महत्त्वाचा मानला जातो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "भूतकाळाशी कोणताही संबंध ठेवू नये",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "भूतकाळातील घटनांचे विश्लेषण",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त वर्तमान घटना पाहणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त भविष्याचा अंदाज बांधणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भूतकाळातील घटनांचे विश्लेषण"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "विज्ञानाचा इतिहास समजण्यासाठी कोणत्या क्षेत्राचा अभ्यास करावा लागतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लोकसाहित्य",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "तंत्रज्ञानाचा इतिहास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "विज्ञानाचा इतिहास",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "नाट्यपरंपरा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विज्ञानाचा इतिहास"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "‘गरज ही शोधाची जननी असते’ हे वाक्य कोणत्या क्षेत्राशी संबंधित आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "साहित्य",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "विज्ञान",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "कला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "इतिहासलेखन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विज्ञान"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "तंत्रज्ञानाचा इतिहास समजण्यासाठी कोणत्या गोष्टींचा अभ्यास आवश्यक असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कृषी उत्पादनातील बदल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्थापत्य आणि अभियांत्रिकीतील बदल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कारणपरंपरेची साखळी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "उद्योगधंदे आणि व्यापार यांच्या इतिहासाचा अभ्यास का महत्त्वाचा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सांस्कृतिक संबंध समजण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "क्रीडाक्षेत्राचा विकास समजण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "साहित्य इतिहास समजण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "धर्मग्रंथ समजण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सांस्कृतिक संबंध समजण्यासाठी"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "व्यवस्थापनशास्त्र समजण्यासाठी कोणत्या गोष्टींचा इतिहास अभ्यासावा लागतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "बाजार व विक्री व्यवस्था",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "उत्पादन प्रक्रिया",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मानसिकता आणि संस्थात्मक रचना",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "कला क्षेत्रातील विकास समजण्यासाठी कोणत्या प्रकारचा अभ्यास आवश्यक आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वैज्ञानिक इतिहास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "सांस्कृतिक इतिहास",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "लष्करी इतिहास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "राजकीय इतिहास",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सांस्कृतिक इतिहास"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "मानव्य ज्ञानशाखांमध्ये कोणता विषय समाविष्ट नाही?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "इतिहास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "अर्थशास्त्र",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मानवशास्त्र",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रसायनशास्त्र",
+                    "is_correct": true
+                }
+            ],
+            "answer": "रसायनशास्त्र"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "सांस्कृतिक वारसा किती प्रकारचा असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "दोन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "तीन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चार",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दोन"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "मूर्त सांस्कृतिक वारशात खालीलपैकी काय समाविष्ट होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लोककथा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "प्राचीन वास्तू आणि शिल्पे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "भाषा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पारंपरिक सण",
+                    "is_correct": false
+                }
+            ],
+            "answer": "प्राचीन वास्तू आणि शिल्पे"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "अमूर्त सांस्कृतिक वारशात खालीलपैकी काय येते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शिल्पसंग्रह",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "सणसमारंभ साजरे करण्याच्या पद्धती",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वास्तू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चित्रे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सणसमारंभ साजरे करण्याच्या पद्धती"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "नैसर्गिक वारशात कोणता घटक समाविष्ट होतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शिलालेख",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "भूरचनात्मक वैशिष्ट्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "चित्रकला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हस्तलिखिते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भूरचनात्मक वैशिष्ट्ये"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "जागतिक वारशाच्या यादीशी संबंधित काम कोणती संस्था करते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "WHO",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "UNICEF",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "युनेस्को",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "UNDP",
+                    "is_correct": false
+                }
+            ],
+            "answer": "युनेस्को"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "वारशाचे जतन आणि संवर्धन का आवश्यक आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ते नष्ट करण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "पुढील पिढ्यांच्या हितासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त पर्यटन वाढवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त उद्योगासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पुढील पिढ्यांच्या हितासाठी"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "वारसा जतन प्रकल्पांमध्ये कोणत्या प्रकारच्या तज्ज्ञांचा सहभाग आवश्यक असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फक्त कायदेतज्ज्ञ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त अभियंते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "विविध विषयांतील तज्ज्ञ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त कलाकार",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विविध विषयांतील तज्ज्ञ"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहासामुळे कोणती प्रक्रिया सुलभ होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "भूतकाळ नष्ट करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "वारशाचे जतन आणि संवर्धन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "सांस्कृतिक वारसा विसरणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "इतिहासाचे महत्त्व कमी करणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वारशाचे जतन आणि संवर्धन"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "भारतातील पुरातत्त्व कार्य कोणत्या संस्थांद्वारे केले जाते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फक्त खाजगी संस्था",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "भारत सरकारचे पुरातत्त्व खाते आणि राज्य पुरातत्त्व खाती",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "शाळा संस्था",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "क्रीडा मंत्रालय",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भारत सरकारचे पुरातत्त्व खाते आणि राज्य पुरातत्त्व खाती"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "INTEC या संस्थेचे कार्यक्षेत्र कोणत्या विषयाशी संबंधित आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कृषी सुधारणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कला आणि सांस्कृतिक वारसा जतन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "आरोग्य सेवा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शिक्षण व्यवस्था",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कला आणि सांस्कृतिक वारसा जतन"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "वारसास्थळ प्रकल्पात स्थानिक लोकांचा सहभाग का आवश्यक असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "व्यवस्थापन अडचणी वाढवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्थानिक भावनांचा सन्मान राखण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "वारसा नष्ट करण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "परंपरा विसरण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्थानिक भावनांचा सन्मान राखण्यासाठी"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "‘जगातील सर्वांत प्राचीन संग्रहालय’ कोणत्या शहरात सापडले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दिल्ली",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "उर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "हंपी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कोलकाता",
+                    "is_correct": false
+                }
+            ],
+            "answer": "उर"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "‘एनिगॉल्डी’चे नाव कोणाशी संबंधित आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पुरातत्त्वज्ञ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "राजकन्या",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "इतिहासकार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शिल्पकार",
+                    "is_correct": false
+                }
+            ],
+            "answer": "राजकन्या"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "भारताचे राष्ट्रीय अभिलेखागार कुठे आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मुंबई",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "नवी दिल्ली",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "पुणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चेन्नई",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नवी दिल्ली"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "‘नॅशनल फिल्म अर्काइव्ह’ ही संस्था कुठे आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दिल्ली",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कोलकाता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पुणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "जयपूर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पुणे"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "सांस्कृतिक वारशाच्या जतनातून कोणती गोष्ट साध्य होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वारसा नष्ट होतो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्थानिक कौशल्यांना प्रोत्साहन मिळते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "परंपरा लुप्त होतात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सामाजिक तणाव वाढतो",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्थानिक कौशल्यांना प्रोत्साहन मिळते"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "नैसर्गिक वारसा जतन करण्याचा उद्देश कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "औद्योगिक विस्तार वाढवणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "परिसंस्थांचे संरक्षण करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "जमिनीचा नाश करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वनतोड प्रोत्साहन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "परिसंस्थांचे संरक्षण करणे"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहास कोणत्या गोष्टीवर आधारित असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कल्पित दंतकथा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "भूतकाळातील घटनांचे विश्लेषण",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "कल्पनाविलास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "लोककथा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भूतकाळातील घटनांचे विश्लेषण"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "सांस्कृतिक वारसा आपल्या कशाशी जोडलेला असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पारंपरिक खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "आपली ओळख",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "परदेशी संस्कृती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त धर्म",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आपली ओळख"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहासाच्या माध्यमातून कोणत्या क्षेत्रात संधी निर्माण होतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कला आणि पर्यटन क्षेत्रात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "केवळ क्रीडा क्षेत्रात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शेती क्षेत्रात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त औषधनिर्मितीत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कला आणि पर्यटन क्षेत्रात"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहासाचा वर्तमानकाळाशी कसा संबंध आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तो वर्तमानकाळाशी असंबंधित आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "तो वर्तमानकाळ समजण्यास मदत करतो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "तो फक्त भविष्यकाळाशी संबंधित आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "तो केवळ स्मृतीरंजनासाठी आहे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तो वर्तमानकाळ समजण्यास मदत करतो"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "वारसा संवर्धन प्रकल्पात कोणत्या गोष्टींचा विचार करावा लागतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्थानिक समाजाची मानसिकता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्थानिक आव्हाने आणि अपेक्षा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "स्थळाचे मूळ स्वरूप",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "संग्रहालयांमध्ये कोणत्या वस्तू जतन केल्या जातात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दुर्मीळ ऐतिहासिक वस्तू",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दैनंदिन वापराच्या वस्तू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "क्रीडा साहित्य",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "स्वयंपाकाची भांडी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दुर्मीळ ऐतिहासिक वस्तू"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "अभिलेखागारांमध्ये काय जतन केले जाते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जुनी कागदपत्रे आणि नोंदी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त पुस्तके",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त चित्रे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त शिल्पे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जुनी कागदपत्रे आणि नोंदी"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहास कोणत्या प्रकारच्या निर्णय प्रक्रियेस मदत करतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सामाजिक उपयुक्ततेचे निर्णय",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "केवळ लष्करी निर्णय",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खेळाडूंवरील निर्णय",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वैयक्तिक निर्णय",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सामाजिक उपयुक्ततेचे निर्णय"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "वारसास्थळांचे संवर्धन करताना कोणत्या गोष्टीचे भान ठेवले जाते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मूळ स्वरूप अबाधित ठेवणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नवीन बांधकाम करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "स्थळ बदलणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "स्थळ पाडणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मूळ स्वरूप अबाधित ठेवणे"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहास समाजात कोणती जाणीव निर्माण करतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "असहिष्णुता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "इतिहासाची जाणीव",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "अराजकता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कलह",
+                    "is_correct": false
+                }
+            ],
+            "answer": "इतिहासाची जाणीव"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "सांस्कृतिक वारसाचे जतन केल्याने कोणत्या क्षेत्रात वाढ होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "उद्योग",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "पर्यटन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "कृषी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "क्रीडा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पर्यटन"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहासामुळे कोणत्या प्रकारची कौशल्ये विकसित होतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "व्यावसायिक कौशल्ये",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळ कौशल्ये",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "लष्करी कौशल्ये",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शारीरिक कौशल्ये",
+                    "is_correct": false
+                }
+            ],
+            "answer": "व्यावसायिक कौशल्ये"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "वारसा संवर्धन प्रकल्पात कोणत्या बाबींचे नियोजन करता येते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "परंपरागत कौशल्यांना प्रोत्साहन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्थानिक सहभाग",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भावनांचा सन्मान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वरील सर्व",
+                    "is_correct": true
+                }
+            ],
+            "answer": "वरील सर्व"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहासाचा अभ्यास कोणत्या क्षेत्रांना दिशा देतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वर्तमान आणि भविष्यकाळाला",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "केवळ भविष्यकाळाला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "केवळ भूतकाळाला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त राजकारणाला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वर्तमान आणि भविष्यकाळाला"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "भूतकाळातील अवशेष आपल्याला का महत्त्वाचे वाटतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ते फॅशन आहेत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "ते आपल्या पूर्वजांची निर्मिती आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "ते तात्पुरते आहेत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "ते निरुपयोगी आहेत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ते आपल्या पूर्वजांची निर्मिती आहे"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "सांस्कृतिक वारसा जतन केल्याने कोणती भावना दृढ होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "परकीय संस्कृतीची भावना",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "देशाची ओळख आणि अभिमान",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "विस्मृती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दूरावा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "देशाची ओळख आणि अभिमान"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "नैसर्गिक वारशात खालीलपैकी काय समाविष्ट नाही?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्राणी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "वनस्पती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "हस्तलिखिते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "परिसंस्था",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हस्तलिखिते"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहासाच्या मदतीने कोणत्या क्षेत्रात संशोधन वाढते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "विज्ञान, कला आणि व्यवस्थापन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "केवळ क्रीडा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खेळाडू प्रशिक्षण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शारीरिक शिक्षण",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विज्ञान, कला आणि व्यवस्थापन"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "सांस्कृतिक वारसा जतन केल्याने कोणता लाभ होतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वारसा हरवतो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "परंपरा टिकून राहतात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "संस्कृती नष्ट होते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "समाज विभक्त होतो",
+                    "is_correct": false
+                }
+            ],
+            "answer": "परंपरा टिकून राहतात"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "उपयोजित इतिहासाचे वर्णन खालीलपैकी कोणते योग्य आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फक्त भूतकाळाचे चित्रण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "वर्तमानकाळाचे आकलन आणि भविष्यकाळासाठी दिशादर्शन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त संशोधन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त शिक्षण",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वर्तमानकाळाचे आकलन आणि भविष्यकाळासाठी दिशादर्शन"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहास म्हणजे काय?",
+            "answer": "भूतकाळातील अनुभव आणि ज्ञानाचा उपयोग वर्तमान आणि भविष्यकाळातील समस्यांवर उपाय शोधण्यासाठी करण्यास उपयोजित इतिहास म्हणतात."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासाला ‘जनांसाठी इतिहास’ का म्हटले जाते?",
+            "answer": "कारण हा इतिहास सर्वसामान्यांच्या जीवनाशी जोडलेला असून समाजाच्या उपयोगासाठी लिहिला जातो."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासाचा मुख्य उद्देश काय आहे?",
+            "answer": "भूतकाळातील ज्ञानाचा उपयोग सामाजिक, सांस्कृतिक आणि आर्थिक समस्यांच्या निराकरणासाठी करणे हा त्याचा मुख्य उद्देश आहे."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "सांस्कृतिक वारशाचा अर्थ काय?",
+            "answer": "पूर्वजांकडून मिळालेल्या परंपरा, कला, वास्तू, सण आणि जीवनपद्धती यांना सांस्कृतिक वारसा म्हणतात."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "मूर्त सांस्कृतिक वारशाची उदाहरणे द्या.",
+            "answer": "वास्तू, शिल्पे, मंदिरं, ऐतिहासिक स्मारके आणि शिलालेख ही मूर्त सांस्कृतिक वारशाची उदाहरणे आहेत."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "अमूर्त सांस्कृतिक वारसा कोणत्या गोष्टींशी संबंधित आहे?",
+            "answer": "परंपरा, लोकसाहित्य, लोकगीते, सण आणि सामाजिक रूढी या अमूर्त वारशाशी संबंधित असतात."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "वारसा जतन करणे का आवश्यक आहे?",
+            "answer": "वारसा पुढील पिढ्यांपर्यंत जतन करण्यासाठी आणि आपली ओळख टिकवण्यासाठी त्याचे संवर्धन आवश्यक आहे."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "नैसर्गिक वारशात काय समाविष्ट होते?",
+            "answer": "डोंगर, नद्या, वनस्पती, प्राणी आणि परिसंस्था नैसर्गिक वारशात समाविष्ट होतात."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "युनेस्कोचे कार्य वारशाशी कसे संबंधित आहे?",
+            "answer": "युनेस्को जागतिक वारसा सूची तयार करून वारशाच्या संरक्षणासाठी मार्गदर्शन करते."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात लोकसहभाग का महत्त्वाचा आहे?",
+            "answer": "कारण लोकांच्या सहभागाशिवाय वारसा जतन आणि प्रकल्प यशस्वी होत नाहीत."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "संग्रहालय म्हणजे काय?",
+            "answer": "ऐतिहासिक आणि सांस्कृतिक वस्तू जतन व प्रदर्शित करण्याचे ठिकाण म्हणजे संग्रहालय."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "अभिलेखागारांचा इतिहासात उपयोग कसा होतो?",
+            "answer": "अभिलेखागारातील कागदपत्रांमधून प्रशासन, राजकारण आणि समाजजीवनाचा अभ्यास होतो."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनाचा समाजावर काय परिणाम होतो?",
+            "answer": "वारसा संवर्धनामुळे सामाजिक ऐक्य, अभिमान आणि सांस्कृतिक जाणीव वाढते."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात पर्यटन उद्योगाचे महत्त्व काय?",
+            "answer": "सांस्कृतिक वारसा जतनामुळे पर्यटन वाढते आणि आर्थिक संधी निर्माण होतात."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "विज्ञानाच्या इतिहासाचा अभ्यास का आवश्यक आहे?",
+            "answer": "मानवी शोध, प्रयोग आणि तांत्रिक प्रगती समजण्यासाठी तो आवश्यक आहे."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "तंत्रज्ञानाचा इतिहास कोणत्या गोष्टी समजण्यासाठी मदत करतो?",
+            "answer": "उत्पादनपद्धती, साधनांचा विकास आणि औद्योगिक बदल समजण्यासाठी मदत करतो."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "व्यवस्थापनशास्त्राचा इतिहास का अभ्यासला जातो?",
+            "answer": "संस्था, नेतृत्व आणि कार्यपद्धतीतील ऐतिहासिक बदल समजण्यासाठी तो अभ्यासला जातो."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "सांस्कृतिक वारसा आपल्या ओळखीशी कसा जोडलेला आहे?",
+            "answer": "वारशातून परंपरा, संस्कृती आणि ऐतिहासिक ओळख जपली जाते."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धन प्रकल्पांत स्थानिक लोकांचा सहभाग का आवश्यक असतो?",
+            "answer": "कारण वारसा त्यांच्या जीवनाशी आणि परंपरांशी निगडित असतो."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहास समाजासाठी का उपयुक्त आहे?",
+            "answer": "तो सामाजिक समस्यांचे ऐतिहासिक संदर्भात विश्लेषण करून उपाय सूचित करतो."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनात तज्ज्ञांची भूमिका कोणती असते?",
+            "answer": "संशोधन, नियोजन आणि तांत्रिक मार्गदर्शन करणे ही त्यांची भूमिका असते."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "अभिलेख म्हणजे काय?",
+            "answer": "शासकीय किंवा ऐतिहासिक नोंदींचा संग्रह म्हणजे अभिलेख."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "संग्रहालयातील वस्तू का जतन केल्या जातात?",
+            "answer": "त्या इतिहास, संस्कृती आणि वारशाच्या ओळखीचे पुरावे असतात म्हणून."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासाचा शिक्षणावर काय परिणाम होतो?",
+            "answer": "तो विद्यार्थ्यांमध्ये भूतकाळाविषयी संवेदनशीलता आणि विचारशक्ती वाढवतो."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनातून स्थानिक कौशल्यांना कसे प्रोत्साहन मिळते?",
+            "answer": "पारंपरिक कला, हस्तकला आणि व्यवसाय टिकून राहतात."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "नैसर्गिक वारसा का जतन केला पाहिजे?",
+            "answer": "परिसंस्था, जीवसृष्टी आणि पर्यावरणीय संतुलन टिकवण्यासाठी."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनातून राष्ट्रीय अभिमान कसा वाढतो?",
+            "answer": "कारण तो आपल्या ऐतिहासिक वैभवाची जाणीव करून देतो."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहास उद्योग आणि व्यापार क्षेत्रात कसा उपयोगी पडतो?",
+            "answer": "पूर्वानुभवांवर आधारित नियोजन व विकास साधता येतो."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनातील अडचणी कोणत्या असतात?",
+            "answer": "निधीअभाव, अज्ञान आणि बेपर्वाई या प्रमुख अडचणी असतात."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "वारसास्थळांची नासधूस कशामुळे होते?",
+            "answer": "उदासीनता, अयोग्य वापर आणि बेफिकीर बांधकामांमुळे."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात संशोधन का महत्त्वाचे आहे?",
+            "answer": "कारण विश्वसनीय निष्कर्ष मिळण्यासाठी पुराव्याधारित अभ्यास आवश्यक असतो."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "वारसा जतन केल्याने रोजगार कसा निर्माण होतो?",
+            "answer": "पर्यटन, हस्तकला आणि सांस्कृतिक प्रकल्पांमुळे रोजगारनिर्मिती होते."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात लोकपरंपरांचा अभ्यास का केला जातो?",
+            "answer": "कारण त्यातून समाजाची संस्कृती आणि जीवनमूल्ये समजतात."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "वारसा जतन आणि विकास यांचा परस्पर संबंध स्पष्ट करा.",
+            "answer": "वारसा जतनासोबतच स्थानिक विकास आणि अर्थव्यवस्था बळकट होते."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासाचा निर्णयप्रक्रियेत कसा वापर होतो?",
+            "answer": "भूतकाळातील उदाहरणांवर आधारित योग्य धोरणे आखता येतात."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनात तरुणांची भूमिका कोणती असते?",
+            "answer": "जनजागृती, स्वयंसेवा आणि वारसा संरक्षण उपक्रमांत सहभाग."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "वारसा जतन न केल्यास काय होऊ शकते?",
+            "answer": "संस्कृतीची ओळख नष्ट होते आणि ऐतिहासिक पुरावे हरवतात."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "सांस्कृतिक वारसा समाजाला काय देतो?",
+            "answer": "एकात्मता, परंपरा आणि सामूहिक ओळखीची भावना देतो."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात बहुविषयक दृष्टिकोन का आवश्यक आहे?",
+            "answer": "कारण इतिहास, समाजशास्त्र, पुरातत्त्व आणि अर्थशास्त्र यांचा समन्वय आवश्यक असतो."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "वारसा जतन प्रकल्पांमध्ये नियोजन का महत्त्वाचे आहे?",
+            "answer": "स्थळाचे मूळ स्वरूप टिकवून वैज्ञानिक संवर्धन करता येते."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "संग्रहालयातील माहिती शिक्षणासाठी कशी उपयुक्त ठरते?",
+            "answer": "विद्यार्थ्यांना प्रत्यक्ष पुरावे पाहून इतिहास समजतो."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "अभिलेखागार संशोधकांसाठी का महत्त्वाचे आहेत?",
+            "answer": "कारण त्यातून विश्वसनीय ऐतिहासिक कागदपत्रे उपलब्ध होतात."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धन आणि पर्यटन यांचा संबंध काय आहे?",
+            "answer": "वारसा जतन झाल्यास पर्यटन वाढते आणि अर्थव्यवस्था मजबूत होते."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासातून समाजात कोणती जाणीव निर्माण होते?",
+            "answer": "इतिहासाबद्दल आदर, जबाबदारी आणि सांस्कृतिक जाणीव निर्माण होते."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "वारसा जतनासाठी कायदे का आवश्यक असतात?",
+            "answer": "वारसास्थळांचे संरक्षण राखण्यासाठी कायदेशीर सुरक्षा आवश्यक असते."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात तंत्रज्ञानाची भूमिका कोणती आहे?",
+            "answer": "दस्तऐवजीकरण, डिजिटल संग्रह आणि संवर्धन प्रक्रियेत तंत्रज्ञान उपयुक्त ठरते."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनात पर्यावरणाची काळजी का घेतली जाते?",
+            "answer": "कारण नैसर्गिक वारसा पर्यावरणाशी निगडित असतो."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहास समाजविकासाला कसा हातभार लावतो?",
+            "answer": "इतिहासातून मिळालेल्या शिकवणीवर आधारित विकासनिती तयार केली जाते."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनात स्वयंसेवी संस्थांची भूमिका काय असते?",
+            "answer": "जागरूकता निर्माण करणे आणि संवर्धन उपक्रमांना सहाय्य करणे."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात सांस्कृतिक ओळख का महत्त्वाची आहे?",
+            "answer": "कारण ती राष्ट्राच्या अस्तित्वाची आणि परंपरेची आधारशिला आहे."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धन प्रकल्प टिकाऊ कसे बनतात?",
+            "answer": "स्थानिक सहभाग, शास्त्रीय पद्धती आणि आर्थिक नियोजनामुळे."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात भूतकाळाचा अभ्यास का आवश्यक आहे?",
+            "answer": "कारण वर्तमानातील निर्णय भूतकाळातील अनुभवांवर आधारित असतात."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनाचा सांस्कृतिक शिक्षणावर काय परिणाम होतो?",
+            "answer": "विद्यार्थ्यांमध्ये परंपरा आणि इतिहासाबद्दल जागरूकता वाढते."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहास भविष्यासाठी कसा मार्गदर्शक ठरतो?",
+            "answer": "भूतकाळातील यश–अपयशांमधून शिकवण मिळते."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनात दस्तऐवजीकरणाचे महत्त्व काय आहे?",
+            "answer": "स्थळ आणि वस्तूंची अचूक नोंद भविष्यातील अभ्यासासाठी उपयुक्त ठरते."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात सामाजिक जबाबदारीची भावना कशी विकसित होते?",
+            "answer": "वारसा आणि परंपरांचे जतन करण्याची जाणीव वाढते."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "वारसा जतनासाठी जनजागृती का आवश्यक आहे?",
+            "answer": "कारण लोकांच्या सहभागाशिवाय संवर्धन शक्य होत नाही."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासाचे शैक्षणिक मूल्य काय आहे?",
+            "answer": "तो अनुभवाधारित शिक्षण आणि विचारक्षमतेला प्रोत्साहन देतो."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनात स्थानिक संस्कृतीचा विचार का केला जातो?",
+            "answer": "कारण वारसा त्या प्रदेशाच्या परंपरा आणि भावनांशी निगडित असतो."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासातून राष्ट्रीय एकात्मता कशी बळकट होते?",
+            "answer": "सामूहिक वारसा आणि इतिहास लोकांना एकत्र बांधतो."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनाचे आर्थिक महत्त्व काय आहे?",
+            "answer": "पर्यटन आणि स्थानिक व्यवसायांच्या माध्यमातून उत्पन्न वाढते."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात संशोधनप्रवृत्ती कशी विकसित होते?",
+            "answer": "भूतकाळातील पुरावे अभ्यासताना चिकित्सक दृष्टिकोन तयार होतो."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धन आणि पर्यावरण संरक्षण यांचा संबंध काय आहे?",
+            "answer": "नैसर्गिक वारसा जतन केल्याने पर्यावरणीय संतुलन राखले जाते."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात सांस्कृतिक संवाद कसा साधला जातो?",
+            "answer": "संग्रहालये, प्रदर्शने आणि वारसास्थळ भेटींमधून संवाद साधला जातो."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनात विद्यार्थी वर्गाची भूमिका काय असते?",
+            "answer": "वारसा संवर्धन मोहिमांत सहभाग आणि जागरूकता निर्माण करणे."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात भूतकाळातील मूल्यांचे महत्त्व काय आहे?",
+            "answer": "ती मूल्ये समाजाच्या नैतिक आणि सांस्कृतिक विकासाला दिशा देतात."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनासाठी कोणत्या कौशल्यांची आवश्यकता असते?",
+            "answer": "संशोधन, संवर्धन तंत्रज्ञान आणि व्यवस्थापन कौशल्यांची आवश्यकता असते."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात मानवी अनुभवाचा अभ्यास का होतो?",
+            "answer": "कारण इतिहास मानवी जीवनातील बदल आणि संघर्ष दर्शवतो."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "वारसा जतन केल्याने समाजात कोणती भावना निर्माण होते?",
+            "answer": "अभिमान, ओळख आणि सांस्कृतिक बांधिलकीची भावना निर्माण होते."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात तज्ज्ञ आणि लोकांचा समन्वय का आवश्यक आहे?",
+            "answer": "कारण वैज्ञानिक कौशल्य आणि स्थानिक अनुभव दोन्ही महत्त्वाचे असतात."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनामुळे सामाजिक ऐक्य कसे वाढते?",
+            "answer": "सामूहिक सांस्कृतिक वारसा लोकांना एकत्र आणतो."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासाचा समाजजागृतीशी काय संबंध आहे?",
+            "answer": "इतिहासाच्या माध्यमातून सामाजिक जबाबदारीची जाणीव वाढते."
+        },
+        {
+            "question_id": 123,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनात स्थानिक प्रशासनाची भूमिका कोणती असते?",
+            "answer": "संवर्धन प्रकल्प राबवणे आणि नियोजनाला पाठबळ देणे."
+        },
+        {
+            "question_id": 124,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात सांस्कृतिक मूल्ये का जपली जातात?",
+            "answer": "कारण ती राष्ट्रीय ओळख आणि वारशाचा महत्त्वाचा भाग असतात."
+        },
+        {
+            "question_id": 125,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनासाठी निधी का आवश्यक असतो?",
+            "answer": "दुरुस्ती, देखभाल आणि संशोधनासाठी निधी आवश्यक असतो."
+        },
+        {
+            "question_id": 126,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात पर्यावरणाचा विचार का केला जातो?",
+            "answer": "नैसर्गिक वारसा पर्यावरणाशी घट्ट जोडलेला असतो."
+        },
+        {
+            "question_id": 127,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनातून सांस्कृतिक सातत्य कसे राखले जाते?",
+            "answer": "परंपरा आणि ऐतिहासिक स्मृती पुढील पिढ्यांपर्यंत पोहोचतात."
+        },
+        {
+            "question_id": 128,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासाचा राष्ट्रीय धोरणांवर काय प्रभाव होतो?",
+            "answer": "ऐतिहासिक अनुभवांचा विचार करून सामाजिक धोरणे तयार होतात."
+        },
+        {
+            "question_id": 129,
+            "question_type": "SHORT",
+            "question": "वारसा जतनासाठी कायदेनियम का बनवले जातात?",
+            "answer": "अनधिकृत बदल आणि नासधूस टाळण्यासाठी."
+        },
+        {
+            "question_id": 130,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासातील ‘वारसा जतन’ ही संकल्पना काय दर्शवते?",
+            "answer": "भूतकाळातील सांस्कृतिक आणि नैसर्गिक संपत्तीचे संरक्षण."
+        },
+        {
+            "question_id": 131,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनामुळे शिक्षणात कोणता बदल घडतो?",
+            "answer": "अनुभवाधारित आणि वास्तवाधारित शिक्षण वाढते."
+        },
+        {
+            "question_id": 132,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात भूतकाळाचा पुनर्विचार का केला जातो?",
+            "answer": "चुका ओळखून योग्य दिशा ठरवण्यासाठी."
+        },
+        {
+            "question_id": 133,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धन आणि सांस्कृतिक ओळख यांचा परस्पर संबंध काय आहे?",
+            "answer": "वारसा जतन म्हणजे सांस्कृतिक ओळख टिकवणे."
+        },
+        {
+            "question_id": 134,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात सामाजिक संशोधनाची भूमिका कोणती आहे?",
+            "answer": "समाजातील बदल आणि परंपरा यांचे विश्लेषण करणे."
+        },
+        {
+            "question_id": 135,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनात जनसहभाग कसा वाढवता येतो?",
+            "answer": "जागृती मोहीम, शिक्षण आणि स्थानिक प्रकल्पांद्वारे."
+        },
+        {
+            "question_id": 136,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात तटस्थता का महत्त्वाची आहे?",
+            "answer": "कारण वस्तुनिष्ठ आणि तथ्याधारित निष्कर्ष आवश्यक असतात."
+        },
+        {
+            "question_id": 137,
+            "question_type": "SHORT",
+            "question": "वारसा जतनात तंत्रज्ञानाचा उपयोग कसा होतो?",
+            "answer": "डिजिटल नोंद, 3D मॉडेलिंग आणि संरक्षण तंत्रांतून."
+        },
+        {
+            "question_id": 138,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात लोकसाहित्याचा अभ्यास का केला जातो?",
+            "answer": "कारण त्यात समाजाच्या भावविश्व आणि परंपरांचे प्रतिबिंब असते."
+        },
+        {
+            "question_id": 139,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धन आणि स्थानिक अर्थव्यवस्था यांचा संबंध काय आहे?",
+            "answer": "वारसा पर्यटनामुळे स्थानिक अर्थव्यवस्था मजबूत होते."
+        },
+        {
+            "question_id": 140,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात सांस्कृतिक संवाद का आवश्यक आहे?",
+            "answer": "विविध संस्कृतींचे परस्पर समज आणि आदानप्रदान घडते."
+        },
+        {
+            "question_id": 141,
+            "question_type": "SHORT",
+            "question": "वारसा जतनातून सामाजिक मूल्ये कशी जपली जातात?",
+            "answer": "परंपरा, संस्कार आणि सांस्कृतिक मूल्ये टिकून राहतात."
+        },
+        {
+            "question_id": 142,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात ऐतिहासिक स्मारकांचे महत्त्व काय आहे?",
+            "answer": "ती भूतकाळाच्या घटना आणि संस्कृतीचे पुरावे असतात."
+        },
+        {
+            "question_id": 143,
+            "question_type": "SHORT",
+            "question": "वारसा जतनासाठी स्थानिक संस्कृतीची समज का आवश्यक असते?",
+            "answer": "कारण संवर्धन संबंधित समाजाच्या परंपरांशी जोडलेले असते."
+        },
+        {
+            "question_id": 144,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासातून सामाजिक उत्तरदायित्वाची जाणीव कशी वाढते?",
+            "answer": "इतिहास जतन करणे हे सामूहिक कर्तव्य असल्याची भावना दृढ होते."
+        },
+        {
+            "question_id": 145,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनात स्वयंसेवी संस्थांचे योगदान काय आहे?",
+            "answer": "संशोधन, संवर्धन उपक्रम आणि जनजागृती कार्य."
+        },
+        {
+            "question_id": 146,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात ऐतिहासिक अनुभवांचे महत्त्व का आहे?",
+            "answer": "त्यांवरून वर्तमानातील निर्णय अधिक परिणामकारक ठरतात."
+        },
+        {
+            "question_id": 147,
+            "question_type": "SHORT",
+            "question": "वारसा जतन आणि सामाजिक एकात्मता यांचा संबंध काय आहे?",
+            "answer": "सामाईक वारसा समाजातील ऐक्य वाढवतो."
+        },
+        {
+            "question_id": 148,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासात शास्त्रीय दृष्टिकोन का आवश्यक आहे?",
+            "answer": "कारण वैज्ञानिक दृष्टिकोनामुळे इतिहास अधिक विश्वसनीय ठरतो."
+        },
+        {
+            "question_id": 149,
+            "question_type": "SHORT",
+            "question": "वारसा संवर्धनातून भविष्यकालीन पिढ्यांना काय लाभ होतो?",
+            "answer": "त्यांना भूतकाळाची समृद्ध परंपरा आणि ज्ञान मिळते."
+        },
+        {
+            "question_id": 150,
+            "question_type": "SHORT",
+            "question": "उपयोजित इतिहासाला समाजशास्त्राशी जोडलेले क्षेत्र का मानले जाते?",
+            "answer": "कारण तो समाज, संस्कृती आणि मानवी जीवनाशी थेट संबंधित असतो."
+        },
+        {
+            "question_id": 151,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासाची संकल्पना समजावून सांगा.",
+            "answer": "उपयोजित इतिहास म्हणजे भूतकाळातील घटना, अनुभव आणि परंपरांचा उपयोग वर्तमानकाळातील गरजा आणि समस्यांच्या निराकरणासाठी करणारा इतिहास. हा केवळ घटनांची नोंद नसून त्या घटनांमधून शिकून समाजोपयोगी दिशा देण्याचे कार्य करतो. समाज, संस्कृती, अर्थव्यवस्था आणि पर्यावरण यांच्यावर इतिहासाचा परिणाम कसा झाला हे त्यातून समजते. उपयोजित इतिहास भूतकाळ–वर्तमान–भविष्य यांना जोडणारा दुवा म्हणून कार्य करतो. त्यामुळे तो लोकांसाठी उपयुक्त आणि व्यवहार्य ठरतो."
+        },
+        {
+            "question_id": 152,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहास का आवश्यक आहे ते स्पष्ट करा.",
+            "answer": "उपयोजित इतिहास आवश्यक आहे कारण तो समाजाला भूतकाळातील चुका, यश आणि अनुभव यांमधून शिकवण देतो. समाजातील सांस्कृतिक, सामाजिक आणि आर्थिक बदलांचे मूळ कारणे समजण्यासाठी तो मदत करतो. वर्तमानकाळातील निर्णयप्रक्रियेत ऐतिहासिक विचार आणि वैज्ञानिक दृष्टिकोन विकसित होतो. वारसा जतन, पर्यावरण संरक्षण आणि सांस्कृतिक ओळख यांसारख्या क्षेत्रांत त्याचा उपयोग होतो. त्यामुळे उपयोजित इतिहास राष्ट्रनिर्मिती आणि सामाजिक विकासासाठी महत्त्वपूर्ण ठरतो."
+        },
+        {
+            "question_id": 153,
+            "question_type": "LONG",
+            "question": "सांस्कृतिक वारसा आणि त्याचे महत्त्व स्पष्ट करा.",
+            "answer": "सांस्कृतिक वारसा म्हणजे पूर्वजांनी निर्माण केलेल्या परंपरा, कला, वास्तू, सण, भाषा आणि जीवनपद्धतींचा संच. हा वारसा मानवाच्या सांस्कृतिक ओळखीचा पाया आहे. सांस्कृतिक वारशामुळे समाजात एकात्मता, परंपरा आणि अभिमानाची भावना निर्माण होते. वारसा जतन केल्याने इतिहासाबद्दल आदर आणि संवेदनशीलता वाढते. पुढील पिढ्यांसाठी सांस्कृतिक मूल्ये जपली जातात. त्यामुळे सांस्कृतिक वारसा टिकवणे हे समाजाचे सामूहिक दायित्व आहे."
+        },
+        {
+            "question_id": 154,
+            "question_type": "LONG",
+            "question": "मूर्त आणि अमूर्त सांस्कृतिक वारसा यांतील फरक समजावून सांगा.",
+            "answer": "मूर्त सांस्कृतिक वारसा म्हणजे वास्तू, शिल्पे, ऐतिहासिक स्मारके, धातुकाम आणि पुरातत्त्वीय अवशेष यांसारख्या प्रत्यक्ष दिसणाऱ्या वस्तू. हा वारसा भौतिक स्वरूपात अस्तित्वात असतो. अमूर्त सांस्कृतिक वारसा म्हणजे लोकगीते, लोकपरंपरा, रुढी, भाषा, सण आणि प्रथा. हा मन, संस्कृती आणि समाजाच्या आचरणात जपला जातो. दोन्ही प्रकारचे वारसे समाजाच्या सांस्कृतिक ओळखीचे प्रतिनिधित्व करतात आणि त्यांचे जतन तितकेच महत्त्वाचे आहे."
+        },
+        {
+            "question_id": 155,
+            "question_type": "LONG",
+            "question": "वारसा जतन का आवश्यक आहे ते सविस्तर समजावून सांगा.",
+            "answer": "वारसा जतन आवश्यक आहे कारण तो आपल्या इतिहास, परंपरा आणि सांस्कृतिक ओळखीचा जिवंत आधार आहे. वारसा नष्ट झाल्यास भूतकाळाचे अनेक महत्त्वपूर्ण पुरावे नष्ट होतात. पुढील पिढ्यांना इतिहासाची खरी ओळख मिळत नाही. वारसा संवर्धनामुळे पर्यटन, कौशल्य विकास आणि स्थानिक अर्थव्यवस्था बळकट होते. तसेच सामूहिक अभिमान, एकात्मता आणि सांस्कृतिक सातत्य टिकून राहते. त्यामुळे वारसा जतन हे सामाजिक, सांस्कृतिक आणि राष्ट्रीय दायित्व मानले जाते."
+        },
+        {
+            "question_id": 156,
+            "question_type": "LONG",
+            "question": "संग्रहालयांची उपयोजित इतिहासात भूमिका स्पष्ट करा.",
+            "answer": "संग्रहालये ही उपयोजित इतिहासातील महत्त्वाची संस्था आहेत. येथे ऐतिहासिक वस्तू, शिल्पे, दस्तऐवज आणि पुरातत्त्वीय अवशेष जतन केले जातात. या वस्तूंमधून भूतकाळातील जीवनपद्धती, संस्कृती आणि सामाजिक बदल समजतात. विद्यार्थ्यांना, संशोधकांना आणि नागरिकांना इतिहासाचे प्रत्यक्ष ज्ञान मिळते. संग्रहालये वारसा जतन, संशोधन, शिक्षण आणि जनजागृती यांसाठी कार्य करतात. त्यामुळे संग्रहालये इतिहासाला लोकाभिमुख बनवण्याचे महत्त्वपूर्ण कार्य बजावतात."
+        },
+        {
+            "question_id": 157,
+            "question_type": "LONG",
+            "question": "अभिलेखागारांचे महत्त्व समजावून सांगा.",
+            "answer": "अभिलेखागारात शासन, न्याय, प्रशासन आणि सामाजिक व्यवहारांशी संबंधित जुनी कागदपत्रे जतन केली जातात. या कागदपत्रांमधून ऐतिहासिक घटनांचे वास्तव, धोरण बदल आणि सामाजिक परिस्थिती समजते. इतिहासकार आणि संशोधकांसाठी अभिलेखागार मौल्यवान स्रोत ठरतात. ते निर्णयप्रक्रियेसाठी पुरावे उपलब्ध करून देतात. प्रशासनिक पारदर्शकता आणि ऐतिहासिक प्रामाणिकता टिकवण्यात अभिलेखागार महत्त्वाची भूमिका बजावतात."
+        },
+        {
+            "question_id": 158,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहास आणि पर्यटन यांचा संबंध स्पष्ट करा.",
+            "answer": "उपयोजित इतिहासामुळे वारसा जतन, संवर्धन आणि प्रसार यांना चालना मिळते. वारसास्थळे, ऐतिहासिक वास्तू आणि सांस्कृतिक परंपरा पर्यटनाचा आधार बनतात. यामुळे स्थानिक लोकांना रोजगाराच्या संधी उपलब्ध होतात आणि अर्थव्यवस्था बळकट होते. पर्यटकांना इतिहासाचे वास्तव अनुभवायला मिळते आणि सांस्कृतिक देवाणघेवाण घडते. वारसा पर्यटनामुळे इतिहासाबद्दल आदर, संरक्षणाची जाणीव आणि सामाजिक जागरूकता वाढते. त्यामुळे उपयोजित इतिहास आणि पर्यटन यांचा परस्परसंबंध अत्यंत महत्त्वाचा आहे."
+        },
+        {
+            "question_id": 159,
+            "question_type": "LONG",
+            "question": "नैसर्गिक वारसा जतन करण्याचे महत्त्व स्पष्ट करा.",
+            "answer": "नैसर्गिक वारसा म्हणजे नद्या, पर्वत, वन, प्राणी आणि परिसंस्था यांसारखी निसर्गसंपदा. नैसर्गिक वारसा पर्यावरणीय संतुलन टिकवण्यासाठी अत्यंत आवश्यक आहे. जैवविविधता, प्रजातींचे अस्तित्व आणि हवामान संतुलन या सर्वांचा आधार नैसर्गिक वारशावर असतो. निसर्गाच्या नाशामुळे पर्यावरणीय संकटे निर्माण होतात. नैसर्गिक वारसा जतन केल्याने पर्यावरण संरक्षण, पर्यटन विकास आणि जीवनमान सुधारणा साधता येते. त्यामुळे नैसर्गिक वारसा जतन करणे हे मानवाचे नैतिक व सामाजिक कर्तव्य आहे."
+        },
+        {
+            "question_id": 160,
+            "question_type": "LONG",
+            "question": "वारसा संवर्धन प्रकल्प राबविताना कोणत्या बाबींचा विचार केला जातो ते स्पष्ट करा.",
+            "answer": "वारसा संवर्धन प्रकल्प राबविताना स्थळाचे मूळ स्वरूप, ऐतिहासिक मूल्य आणि सांस्कृतिक महत्त्व लक्षात घेतले जाते. वैज्ञानिक संवर्धन पद्धती वापरल्या जातात. स्थानिक लोकांचा सहभाग, भावना आणि परंपरा यांचा आदर केला जातो. आर्थिक नियोजन, देखभाल व्यवस्था आणि तज्ज्ञांचे मार्गदर्शन आवश्यक ठरते. पर्यावरण आणि परिसरावर होणारा परिणामही तपासला जातो. यामुळे वारसा जतन आणि विकास यामध्ये संतुलन राखता येते."
+        },
+        {
+            "question_id": 161,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासाच्या माध्यमातून शिक्षण क्षेत्राला कसा फायदा होतो?",
+            "answer": "उपयोजित इतिहासामुळे विद्यार्थ्यांना अनुभवाधारित आणि वास्तवाधारित शिक्षण मिळते. संग्रहालये, वारसास्थळे आणि अभिलेखागार भेटीमुळे इतिहास जिवंत स्वरूपात समजतो. विद्यार्थी चिकित्सक, तर्कशुद्ध आणि संवेदनशील विचार करायला शिकतात. समाज, संस्कृती आणि परंपरांविषयी आदर निर्माण होतो. इतिहास केवळ पाठांतर नसून जीवनाशी जोडलेला विषय असल्याची जाणीव निर्माण होते. त्यामुळे शिक्षण अधिक अर्थपूर्ण आणि परिणामकारक बनते."
+        },
+        {
+            "question_id": 162,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहास आणि समाजविकास यांचा परस्पर संबंध स्पष्ट करा.",
+            "answer": "उपयोजित इतिहास समाजविकासाला दिशा देतो. भूतकाळातील धोरणे, यश–अपयश आणि बदल यांचे विश्लेषण करून वर्तमानकाळासाठी योग्य मार्ग आखता येतो. सामाजिक समस्यांचे मूळ कारणे ओळखण्यास तो मदत करतो. वारसा जतन, सांस्कृतिक ओळख, पर्यावरण संरक्षण आणि लोकसहभाग वाढतो. विकास प्रक्रियेत मानवी मूल्ये, परंपरा आणि ऐतिहासिक संवेदनशीलता टिकवली जाते. त्यामुळे उपयोजित इतिहास हा समाजविकासाचा महत्त्वाचा आधारस्तंभ ठरतो."
+        },
+        {
+            "question_id": 163,
+            "question_type": "LONG",
+            "question": "वारसा संवर्धनातून रोजगाराच्या कोणत्या संधी निर्माण होतात?",
+            "answer": "वारसा संवर्धनामुळे मार्गदर्शक, संशोधक, संवर्धन तज्ज्ञ आणि कारागीर यांसाठी रोजगार निर्माण होतात. पर्यटन, हस्तकला, सांस्कृतिक कार्यक्रम आणि पारंपरिक उद्योगांना चालना मिळते. स्थानिक उत्पादने आणि कलाकृतींना बाजारपेठ उपलब्ध होते. वारसा पर्यटनामुळे हॉटेल, प्रवास आणि सेवा व्यवसाय वाढतात. कौशल्य प्रशिक्षण आणि स्वयंरोजगाराच्या संधी वाढतात. त्यामुळे वारसा संवर्धन आर्थिक विकासालाही हातभार लावते."
+        },
+        {
+            "question_id": 164,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासात लोकसहभागाची भूमिका स्पष्ट करा.",
+            "answer": "उपयोजित इतिहासात लोकसहभाग अत्यंत महत्त्वाचा मानला जातो. वारसा संवर्धन आणि जतन हे केवळ शासनाचे नव्हे तर जनतेचेही कर्तव्य आहे. स्थानिक लोकांमध्ये भावनिक नाते असल्याने ते वारसा जतनासाठी सकारात्मक भूमिका पार पाडतात. स्वयंसेवी संस्थांच्या माध्यमातून जनजागृती होते. स्थानिक परंपरा, अनुभव आणि ज्ञान संवर्धन प्रक्रियेला आधार देतात. त्यामुळे लोकसहभागामुळे वारसा संवर्धन अधिक प्रभावी आणि टिकाऊ ठरते."
+        },
+        {
+            "question_id": 165,
+            "question_type": "LONG",
+            "question": "वारसा नष्ट झाल्यास समाजावर काय परिणाम होतो ते स्पष्ट करा.",
+            "answer": "वारसा नष्ट झाल्यास समाज सांस्कृतिकदृष्ट्या कमकुवत होतो. परंपरा आणि ऐतिहासिक ओळख हरवते. पुढील पिढ्यांना भूतकाळाचे खरे ज्ञान उपलब्ध राहत नाही. पर्यटन आणि स्थानिक अर्थव्यवस्थेवर नकारात्मक परिणाम होतो. सामाजिक एकात्मता कमी होते आणि सांस्कृतिक सातत्य तुटते. इतिहासाशी असलेली बांधिलकी आणि अभिमानाची भावना कमकुवत होते. त्यामुळे वारसा नष्ट होणे हे समाजासाठी मोठे सांस्कृतिक नुकसान ठरते."
+        },
+        {
+            "question_id": 166,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहास आणि पर्यावरण संरक्षण यांचा संबंध स्पष्ट करा.",
+            "answer": "उपयोजित इतिहासात नैसर्गिक वारशाचा समावेश असल्याने पर्यावरण संरक्षणाशी त्याचा घनिष्ठ संबंध आहे. इतिहासातून मानव–निसर्ग संबंधाची परंपरा समजते. नद्या, वन, परिसंस्था आणि नैसर्गिक स्थळे ही सांस्कृतिक व नैसर्गिक वारशाचा भाग मानली जातात. त्यांचे जतन केल्याने पर्यावरणीय संतुलन राखले जाते. इतिहासाच्या माध्यमातून पर्यावरणाबद्दल जागरूकता निर्माण होते. त्यामुळे उपयोजित इतिहास पर्यावरण संरक्षणाला व्यवहार्य दिशा देतो."
+        },
+        {
+            "question_id": 167,
+            "question_type": "LONG",
+            "question": "वारसा जतनात तंत्रज्ञानाची भूमिका स्पष्ट करा.",
+            "answer": "वारसा जतनात आधुनिक तंत्रज्ञान महत्त्वाची भूमिका बजावते. डिजिटल दस्तऐवजीकरण, छायाचित्रण, थ्री–डी मॉडेलिंग आणि संगणकीकरणाद्वारे वारसा सुरक्षित केला जातो. नकाशे, संरचना आणि वस्तूंचे वैज्ञानिक विश्लेषण करता येते. डिजिटल संग्रहामुळे संशोधन सुलभ होते. संवर्धन तंत्रज्ञानामुळे जीर्ण वास्तू सुरक्षितपणे दुरुस्त करता येतात. तंत्रज्ञानामुळे वारसा जतन अधिक वैज्ञानिक, सुरक्षित आणि टिकाऊ बनतो."
+        },
+        {
+            "question_id": 168,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहास विद्यार्थ्यांमध्ये जबाबदारीची भावना कशी निर्माण करतो?",
+            "answer": "उपयोजित इतिहास विद्यार्थ्यांना वारसा, परंपरा आणि समाजाशी जोडतो. वारसास्थळे आणि संग्रहालयांना भेट दिल्यास इतिहासाबद्दल आदर निर्माण होतो. विद्यार्थी संवर्धन कार्यात सहभागी झाल्यास सामाजिक जबाबदारीची जाणीव वाढते. भूतकाळाकडून शिकून भविष्य घडवण्याची प्रेरणा मिळते. इतिहास केवळ अभ्यासक्रम न राहता जीवनमूल्यांशी संबंधित ठरतो. त्यामुळे उपयोजित इतिहास तरुणांमध्ये जबाबदार नागरिकत्वाची भावना विकसित करतो."
+        },
+        {
+            "question_id": 169,
+            "question_type": "LONG",
+            "question": "सांस्कृतिक वारसा जतन केल्याने राष्ट्रीय एकात्मता कशी मजबूत होते?",
+            "answer": "सांस्कृतिक वारसा हा राष्ट्राची सामूहिक ओळख दर्शवतो. विविध प्रांत, भाषा आणि परंपरा असल्या तरी वारसा सर्वांना एकत्र बांधतो. सामाईक इतिहास आणि परंपरांमुळे अभिमानाची भावना निर्माण होते. सांस्कृतिक वारसा जतन केल्याने सामाजिक ऐक्य आणि परस्पर सन्मानाची भावना वाढते. विविध संस्कृतींमध्ये संवाद आणि समजूत वाढते. त्यामुळे सांस्कृतिक वारसा राष्ट्रीय एकात्मतेचा मजबूत आधार ठरतो."
+        },
+        {
+            "question_id": 170,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहास निर्णयप्रक्रियेसाठी कसा उपयोगी ठरतो?",
+            "answer": "उपयोजित इतिहासामुळे भूतकाळातील निर्णय, धोरणे आणि परिणाम यांचे विश्लेषण करता येते. यशस्वी आणि अपयशी निर्णयांमधून शिकवण मिळते. सामाजिक, आर्थिक आणि सांस्कृतिक संदर्भ विचारात घेऊन धोरणनिर्मिती करता येते. वारसा जतन, शहरी विकास आणि पर्यावरण विषयक नियोजनात इतिहासाची भूमिका महत्त्वाची ठरते. त्यामुळे निर्णयप्रक्रिया अधिक विचारपूर्वक आणि प्रभावी बनते."
+        },
+        {
+            "question_id": 171,
+            "question_type": "LONG",
+            "question": "वारसा संवर्धनात स्थानिक प्रशासनाची भूमिका स्पष्ट करा.",
+            "answer": "स्थानिक प्रशासन वारसास्थळांची नोंद, संरक्षण आणि संवर्धन यासाठी कार्य करते. नियमावली तयार करून अनधिकृत बांधकामांवर नियंत्रण ठेवते. संवर्धन प्रकल्पांना निधी आणि तांत्रिक साहाय्य उपलब्ध करून देते. स्थानिक लोकसहभाग वाढवण्यासाठी जनजागृती कार्यक्रम राबवते. तज्ज्ञ आणि स्वयंसेवी संस्थांशी समन्वय साधते. त्यामुळे वारसा संवर्धन कार्य अधिक सुयोजित आणि प्रभावी बनते."
+        },
+        {
+            "question_id": 172,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासात बहुविषयक दृष्टिकोन का महत्त्वाचा आहे?",
+            "answer": "उपयोजित इतिहासात इतिहासासोबत पुरातत्त्व, समाजशास्त्र, अर्थशास्त्र, भूगोल आणि संस्कृतिशास्त्र या शाखांचा समन्वय आवश्यक असतो. वारसा संवर्धन, सांस्कृतिक अभ्यास आणि पर्यावरणाशी संबंधित प्रश्न समजण्यासाठी विविध विषयांचे ज्ञान महत्त्वाचे ठरते. बहुविषयक दृष्टिकोनामुळे संशोधन व्यापक आणि विश्वसनीय बनते. त्यामुळे उपयोजित इतिहास अधिक सखोल आणि उपयुक्त ठरतो."
+        },
+        {
+            "question_id": 173,
+            "question_type": "LONG",
+            "question": "वारसा जतन आणि स्थानिक विकास यांचा परस्पर संबंध स्पष्ट करा.",
+            "answer": "वारसा जतनामुळे पर्यटन, हस्तकला आणि सांस्कृतिक व्यवसायांना चालना मिळते. स्थानिक लोकांना रोजगाराच्या संधी निर्माण होतात. सांस्कृतिक कार्यक्रम आणि वारसा उत्सवांमुळे आर्थिक व्यवहार वाढतात. स्थानिक उत्पादने आणि कौशल्यांना महत्त्व मिळते. विकासासोबत सांस्कृतिक मूल्येही टिकून राहतात. त्यामुळे वारसा जतन आणि स्थानिक विकास हे एकमेकांना पूरक ठरतात."
+        },
+        {
+            "question_id": 174,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासात स्मारकांचे महत्त्व स्पष्ट करा.",
+            "answer": "स्मारके ही भूतकाळातील घटना, व्यक्ती आणि संस्कृतीचे साक्षीदार असतात. स्मारकांद्वारे इतिहासाचे प्रत्यक्ष पुरावे जतन होतात. ती राष्ट्रीय अभिमान, परंपरा आणि सांस्कृतिक ओळखीचे प्रतीक ठरतात. शैक्षणिक, संशोधन आणि पर्यटन क्षेत्रात स्मारकांचा उपयोग होतो. स्मारकांमुळे समाजात इतिहासाविषयी आदर आणि संवेदनशीलता निर्माण होते. त्यामुळे स्मारकांचे संरक्षण उपयोजित इतिहासासाठी अत्यंत महत्त्वाचे आहे."
+        },
+        {
+            "question_id": 175,
+            "question_type": "LONG",
+            "question": "वारसा संवर्धनासाठी जनजागृती का आवश्यक आहे?",
+            "answer": "वारसा संवर्धन हे केवळ शासनाचे काम नसून जनतेचा सहभाग तितकाच महत्त्वाचा आहे. लोकांना वारसाचे महत्त्व समजल्यास ते संवर्धनात सक्रिय भूमिका बजावतात. अज्ञान, बेपर्वाई आणि उदासीनतेमुळे वारसा नष्ट होतो. जनजागृतीमुळे संवर्धनाची जबाबदारी समाजात पसरते. विद्यार्थ्यांमध्ये आणि तरुणांमध्ये इतिहासाबद्दल जाणीव निर्माण होते. त्यामुळे वारसा संवर्धनाचे प्रयत्न अधिक यशस्वी होतात."
+        },
+        {
+            "question_id": 176,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासात संशोधनाची भूमिका स्पष्ट करा.",
+            "answer": "उपयोजित इतिहासात संशोधन अत्यंत महत्त्वाचे असते. इतिहासातील घटना, पुरावे आणि स्रोतांचा वैज्ञानिक अभ्यास केला जातो. संशोधनामुळे सत्याधारित निष्कर्ष निघतात. वारसा संवर्धन, समाजअभ्यास आणि सांस्कृतिक विश्लेषणासाठी संशोधन आवश्यक ठरते. अभ्यासातून नवे दृष्टिकोन विकसित होतात आणि इतिहास व्यवहार्य बनतो. त्यामुळे संशोधन उपयोजित इतिहासाचा मजबूत पाया आहे."
+        },
+        {
+            "question_id": 177,
+            "question_type": "LONG",
+            "question": "सांस्कृतिक वारसा आणि सामाजिक एकात्मता यांचा संबंध स्पष्ट करा.",
+            "answer": "सांस्कृतिक वारसा समाजातील लोकांना समान इतिहास, परंपरा आणि मूल्यांनी जोडतो. सामूहिक वारशातून ऐक्य आणि परस्पर सन्मानाची भावना वाढते. विविधतेत एकतेची जाणीव निर्माण होते. सण, उत्सव आणि लोकपरंपरा सामाजिक बंध मजबूत करतात. वारसा जतन केल्याने सामाजिक विभाजन कमी होऊन एकात्मता वाढते. त्यामुळे सांस्कृतिक वारसा सामाजिक ऐक्याचा महत्त्वाचा घटक ठरतो."
+        },
+        {
+            "question_id": 178,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासातून भविष्यासाठी कोणत्या शिकवणी मिळतात?",
+            "answer": "उपयोजित इतिहासातून भूतकाळातील चुका, संघर्ष आणि यश यांमधून शहाणपण मिळते. समाजातील बदलांची कारणपरंपरा समजते. निर्णयप्रक्रियेत विचारपूर्वक आणि जबाबदार भूमिका विकसित होते. सांस्कृतिक वारसा, पर्यावरण आणि मानवी मूल्यांचे महत्त्व स्पष्ट होते. इतिहासातून शिकून अधिक समतोल, संवेदनशील आणि प्रगतिशील भविष्य घडवता येते."
+        },
+        {
+            "question_id": 179,
+            "question_type": "LONG",
+            "question": "वारसा संवर्धनात स्वयंसेवी संस्थांची भूमिका स्पष्ट करा.",
+            "answer": "स्वयंसेवी संस्था वारसा जतन, संशोधन आणि जनजागृती कार्यात सक्रिय भूमिका बजावतात. स्थानिक समाजाला संवर्धन उपक्रमांमध्ये सहभागी करून घेतात. तज्ज्ञ, विद्यार्थी आणि संशोधक यांच्यात समन्वय साधतात. वारसा संरक्षण मोहिमा, कार्यशाळा आणि प्रशिक्षण कार्यक्रम राबवतात. शासन आणि समाज यांच्यात दुवा म्हणून काम करतात. त्यामुळे स्वयंसेवी संस्था वारसा संवर्धनाचा महत्त्वाचा भाग ठरतात."
+        },
+        {
+            "question_id": 180,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासातून नागरिकांमध्ये देशाभिमानाची भावना कशी निर्माण होते?",
+            "answer": "उपयोजित इतिहास नागरिकांना आपल्या परंपरा, स्वातंत्र्याचे संघर्ष आणि सांस्कृतिक वैभवाची जाणीव करून देतो. ऐतिहासिक स्मारके, वारसा स्थळे आणि परंपरा पाहून अभिमानाची भावना वाढते. नागरिक इतिहासाशी जोडले गेले की सांस्कृतिक जबाबदारीची भावना विकसित होते. राष्ट्राची सातत्यपूर्ण परंपरा समजल्याने देशाभिमान मजबूत होतो. त्यामुळे उपयोजित इतिहास राष्ट्रीय भावनांना बळकटी देतो."
+        },
+        {
+            "question_id": 181,
+            "question_type": "LONG",
+            "question": "वारसा संवर्धन आणि शाश्वत विकास यांचा संबंध स्पष्ट करा.",
+            "answer": "वारसा संवर्धन हे केवळ भूतकाळ जपणे नसून भविष्य घडवण्याची प्रक्रिया आहे. सांस्कृतिक व नैसर्गिक वारसा जतन केल्याने पर्यावरण, सामाजिक मूल्ये आणि अर्थव्यवस्था यांच्यात संतुलन राखले जाते. पर्यटन, रोजगार आणि स्थानिक उद्योग टिकाऊ पद्धतीने विकसित होतात. पारंपरिक कौशल्ये आणि ज्ञान जपले जाते. त्यामुळे वारसा संवर्धन शाश्वत विकासाचा महत्त्वपूर्ण घटक ठरतो."
+        },
+        {
+            "question_id": 182,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासाचे समाजासाठी असलेले फायदे सविस्तर लिहा.",
+            "answer": "उपयोजित इतिहास समाजाला ऐतिहासिक जाणीव, सांस्कृतिक अभिमान आणि सामाजिक जबाबदारीची भावना देतो. भूतकाळातील अनुभवांवर आधारित योग्य निर्णय घेण्यास मदत करतो. वारसा जतन, पर्यटनविकास, शिक्षण आणि संशोधन यांना चालना मिळते. सामाजिक एकात्मता आणि संस्कृतीचे सातत्य राखले जाते. नागरिकांमध्ये इतिहासाबद्दल आदर आणि संवेदनशीलता वाढते. त्यामुळे उपयोजित इतिहास समाजाच्या सर्वांगीण प्रगतीसाठी उपयुक्त ठरतो."
+        },
+        {
+            "question_id": 183,
+            "question_type": "LONG",
+            "question": "सांस्कृतिक वारसा जतन करण्यासाठी कोणते उपाय आवश्यक आहेत ते लिहा.",
+            "answer": "सांस्कृतिक वारसा जतन करण्यासाठी वैज्ञानिक संवर्धन पद्धती वापरणे आवश्यक आहे. वारसास्थळांची नियमित दुरुस्ती आणि देखभाल करावी. अनधिकृत बांधकामे आणि नासधूस रोखण्यासाठी कठोर कायदे लागू करावेत. शाळा–महाविद्यालयांत वारसा शिक्षण द्यावे. स्थानिक लोक आणि स्वयंसेवी संस्थांचा सहभाग वाढवावा. जनजागृती मोहीम राबवून वारशाचे महत्त्व समाजापर्यंत पोहोचवावे. यामुळे सांस्कृतिक वारसा सुरक्षित आणि टिकाऊ राहतो."
+        },
+        {
+            "question_id": 184,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहास लोकाभिमुख कसा ठरतो ते स्पष्ट करा.",
+            "answer": "उपयोजित इतिहास समाजाच्या जीवनाशी आणि गरजांशी थेट जोडलेला असतो. तो केवळ अभिजात वर्गापुरता मर्यादित न राहता सर्वसामान्यांसाठी उपयुक्त ठरतो. वारसा जतन, सांस्कृतिक कार्यक्रम, संग्रहालये आणि पर्यटनाद्वारे लोकांचा सहभाग वाढतो. इतिहास व्यवहार्य, अनुभवाधारित आणि समाजकेंद्रित बनतो. त्यामुळे उपयोजित इतिहास खऱ्या अर्थाने लोकाभिमुख बनतो."
+        },
+        {
+            "question_id": 185,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहास आणि राष्ट्रीय ओळख यांचा संबंध स्पष्ट करा.",
+            "answer": "राष्ट्रीय ओळख ही राष्ट्राच्या इतिहास, संस्कृती आणि परंपरांवर आधारित असते. उपयोजित इतिहास या परंपरांना जपून ठेवतो आणि पुढील पिढ्यांपर्यंत पोहोचवतो. स्वातंत्र्य संघर्ष, सामाजिक चळवळी आणि सांस्कृतिक वारसा राष्ट्राची ओळख दृढ करतात. इतिहासातून मिळालेली प्रेरणा राष्ट्रीय एकात्मता आणि अभिमान वाढवते. त्यामुळे उपयोजित इतिहास राष्ट्रीय ओळख मजबूत करण्याचे कार्य करतो."
+        },
+        {
+            "question_id": 186,
+            "question_type": "LONG",
+            "question": "वारसा संवर्धनात शाळा आणि विद्यार्थ्यांचा सहभाग कसा वाढवता येईल?",
+            "answer": "शाळांमध्ये वारसा शिक्षणावरील उपक्रम राबवता येतात. विद्यार्थ्यांना वारसास्थळे, संग्रहालये आणि अभिलेखागार यांना भेटी घालता येतात. वारसा संरक्षण स्पर्धा, प्रकल्पकार्य आणि निबंधलेखन आयोजित करता येते. स्थानिक वारसास्थळ दत्तक घेण्याचे उपक्रम राबवता येतात. शिक्षक आणि विद्यार्थ्यांना संवर्धन प्रशिक्षण देता येते. यामुळे विद्यार्थ्यांमध्ये जबाबदारीची भावना आणि इतिहासाबद्दल आवड निर्माण होते."
+        },
+        {
+            "question_id": 187,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासाचा अर्थव्यवस्थेवर होणारा परिणाम स्पष्ट करा.",
+            "answer": "उपयोजित इतिहासामुळे वारसा पर्यटन, सांस्कृतिक उद्योग आणि हस्तकला क्षेत्राला चालना मिळते. वारसास्थळांमुळे रोजगारनिर्मिती होते. स्थानिक व्यवसायांना बाजारपेठ उपलब्ध होते. पर्यटनामुळे हॉटेल, सेवा आणि वाहतूक क्षेत्र विकसित होते. सांस्कृतिक कार्यक्रमांमुळे आर्थिक व्यवहार वाढतात. त्यामुळे उपयोजित इतिहास अर्थव्यवस्थेच्या विकासात सकारात्मक भूमिका बजावतो."
+        },
+        {
+            "question_id": 188,
+            "question_type": "LONG",
+            "question": "सांस्कृतिक वारसा जतनातून भावी पिढ्यांना काय लाभ होतो?",
+            "answer": "सांस्कृतिक वारसा जतन केल्याने भावी पिढ्यांना परंपरा, इतिहास आणि सांस्कृतिक मूल्यांची खरी ओळख मिळते. त्यांना आपल्या सामाजिक मूळाशी जोडलेले राहता येते. वारशातून प्रेरणा, अभिमान आणि राष्ट्रीय भावना जागृत राहतात. इतिहासातील अनुभवांचा उपयोग भविष्यातील विकासासाठी करता येतो. त्यामुळे वारसा जतन ही भावी पिढ्यांप्रतीची जबाबदारी ठरते."
+        },
+        {
+            "question_id": 189,
+            "question_type": "LONG",
+            "question": "वारसा संवर्धनातील अडचणी कोणत्या आहेत आणि त्यांवर उपाय सुचवा.",
+            "answer": "वारसा संवर्धनातील प्रमुख अडचणी म्हणजे निधीअभाव, जनजागृतीचा अभाव, अतिक्रमणे आणि बेपर्वाई. काही वेळा वैज्ञानिक संवर्धन तंत्रांची कमतरता असते. या अडचणींवर उपाय म्हणून सरकारी मदत, स्वयंसेवी संस्थांचा सहभाग आणि लोकजागृती वाढवावी. संवर्धन प्रशिक्षण आणि नियोजनबद्ध देखभाल करावी. कठोर कायदे आणि स्थानिक सहकार्य आवश्यक आहे."
+        },
+        {
+            "question_id": 190,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासाचा भविष्यकाळात कसा उपयोग होऊ शकतो ते स्पष्ट करा.",
+            "answer": "उपयोजित इतिहास भविष्यकाळात धोरणनिर्मिती, शाश्वत विकास आणि सांस्कृतिक जतनासाठी दिशादर्शक ठरू शकतो. डिजिटल वारसा जतन, संशोधन आणि शिक्षण क्षेत्रात त्याचा अधिक व्यापक उपयोग होईल. वारसा–पर्यटन, सांस्कृतिक उद्योग आणि ज्ञानव्यवस्थापनात नवीन संधी निर्माण होतील. त्यामुळे उपयोजित इतिहास भविष्यकाळातही समाजासाठी महत्त्वपूर्ण ठरेल."
+        },
+        {
+            "question_id": 191,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासात मानवकेंद्रित दृष्टिकोन का महत्त्वाचा आहे?",
+            "answer": "उपयोजित इतिहास फक्त घटना आणि स्मारकांपुरता मर्यादित नसून मानवी जीवन, अनुभव आणि संघर्षांवर आधारित आहे. समाजातील बदल, परंपरा आणि संस्कृती माणसाच्या गरजांमधून घडतात. त्यामुळे इतिहास समजताना मानवकेंद्रित दृष्टिकोन आवश्यक ठरतो. यामुळे इतिहास अधिक संवेदनशील, समजूतदार आणि समाजाभिमुख बनतो."
+        },
+        {
+            "question_id": 192,
+            "question_type": "LONG",
+            "question": "सांस्कृतिक वारसा जतनासाठी शासनाची भूमिका स्पष्ट करा.",
+            "answer": "शासन वारसास्थळांची नोंदणी, संरक्षण आणि कायदे तयार करण्याचे काम करते. संवर्धन प्रकल्पांसाठी निधी आणि तांत्रिक सहाय्य उपलब्ध करते. संशोधन संस्था, संग्रहालये आणि अभिलेखागारांना प्रोत्साहन देते. जागतिक वारसा स्थळांच्या संरक्षणासाठी सहकार्य करते. जनजागृती आणि शिक्षण कार्यक्रम राबवते. त्यामुळे शासन वारसा संवर्धनाचे प्रमुख सूत्रधार म्हणून कार्य करते."
+        },
+        {
+            "question_id": 193,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासात परंपरा आणि आधुनिकता यांचा समतोल कसा राखता येतो?",
+            "answer": "उपयोजित इतिहास परंपरा जपत आधुनिकतेसोबत पुढे जाण्याचा मार्ग दाखवतो. जुन्या परंपरांचे वैज्ञानिक विश्लेषण करून उपयुक्त मूल्ये टिकवता येतात. वारसा जतन करताना आधुनिक तंत्रज्ञानाचा उपयोग करता येतो. विकास करताना सांस्कृतिक ओळख अबाधित ठेवली जाते. त्यामुळे परंपरा आणि आधुनिकता यांचा संतुलित समन्वय साधता येतो."
+        },
+        {
+            "question_id": 194,
+            "question_type": "LONG",
+            "question": "वारसा जतनातून समाजात मूल्यशिक्षण कसे घडते?",
+            "answer": "वारसा जतनामुळे समाजात इतिहास, परंपरा आणि संस्कृतीबद्दल आदराची भावना निर्माण होते. प्रामाणिकपणा, जबाबदारी, संवेदनशीलता आणि सामूहिक कर्तव्याची जाणीव वाढते. विद्यार्थ्यांना प्रत्यक्ष अनुभवातून मूल्यांची शिकवण मिळते. भूतकाळातील संघर्ष, त्याग आणि परंपरा प्रेरणादायी ठरतात. त्यामुळे वारसा जतन समाजात मूल्यशिक्षणाचे माध्यम बनते."
+        },
+        {
+            "question_id": 195,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहास समाजाला दिशा देणारा विषय कसा आहे?",
+            "answer": "उपयोजित इतिहास भूतकाळातील अनुभव, संघर्ष आणि घडामोडींचे विश्लेषण करून वर्तमानकाळाला मार्गदर्शन करतो. समाजातील समस्या, बदल आणि विकास समजून घेण्यासाठी ऐतिहासिक दृष्टिकोन तयार करतो. वारसा जतन, पर्यावरण, संस्कृती आणि आर्थिक क्षेत्रात तो उपयुक्त ठरतो. त्यामुळे उपयोजित इतिहास समाजाला सकारात्मक आणि समतोल दिशा देणारा विषय आहे."
+        },
+        {
+            "question_id": 196,
+            "question_type": "LONG",
+            "question": "सांस्कृतिक वारसा जतनात कुटुंबाची भूमिका स्पष्ट करा.",
+            "answer": "सांस्कृतिक वारसा जपण्याची प्रक्रिया कुटुंबातच सुरू होते. परंपरा, रीतिरिवाज, भाषा आणि संस्कार पिढयान् पिढ्या कुटुंबातूनच पुढे जातात. मुलांना इतिहास आणि परंपरा समजावून सांगण्याची जबाबदारी कुटुंबाची असते. सण, संस्कार आणि लोकपरंपरा कुटुंबातूनच जपल्या जातात. त्यामुळे कुटुंब सांस्कृतिक वारसा जतनाचे पहिले केंद्र मानले जाते."
+        },
+        {
+            "question_id": 197,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासाचा तरुण पिढीवर कसा प्रभाव पडतो?",
+            "answer": "उपयोजित इतिहास तरुण पिढीत इतिहासाविषयी आदर, संवेदनशीलता आणि जबाबदारीची भावना निर्माण करतो. वारसा जतन, संशोधन आणि सामाजिक कार्यात सहभागी होण्याची प्रेरणा मिळते. भूतकाळातील संघर्ष आणि उपलब्धी त्यांना प्रेरित करतात. राष्ट्राभिमान आणि सामाजिक बांधिलकी मजबूत होते. त्यामुळे उपयोजित इतिहास तरुणांना जागरूक आणि जबाबदार नागरिक बनवतो."
+        },
+        {
+            "question_id": 198,
+            "question_type": "LONG",
+            "question": "वारसा संवर्धनात समुदायआधारित उपक्रम का महत्त्वाचे आहेत?",
+            "answer": "वारसा संवर्धनात समुदायाचा सहभाग असल्यास प्रकल्प अधिक यशस्वी ठरतात. स्थानिक लोक वारसााशी भावनिकरीत्या जोडलेले असतात. त्यांचे अनुभव, परंपरा आणि कौशल्ये संवर्धनासाठी उपयुक्त ठरतात. समुदायाने घेतलेल्या जबाबदारीमुळे वारसा सुरक्षित राहतो. सामाजिक बांधिलकी आणि सहभागितेमुळे वारसा संवर्धन टिकाऊ बनते."
+        },
+        {
+            "question_id": 199,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासाला ‘समाजाभिमुख इतिहास’ का म्हटले जाते?",
+            "answer": "उपयोजित इतिहास समाजाच्या गरजा, अनुभव आणि विकासाशी थेट संबंधित आहे. तो केवळ घटनांचे वर्णन न करता समाजासाठी उपयुक्त ठरतो. वारसा जतन, सांस्कृतिक ओळख, पर्यावरण आणि सामाजिक समस्या यांवर त्याचा परिणाम दिसतो. लोकसहभाग, संशोधन आणि शिक्षणाद्वारे तो समाजकेंद्रित बनतो. त्यामुळे उपयोजित इतिहासाला ‘समाजाभिमुख इतिहास’ म्हटले जाते."
+        },
+        {
+            "question_id": 200,
+            "question_type": "LONG",
+            "question": "उपयोजित इतिहासाचे समाजासाठी असलेले सर्वांगीण महत्त्व स्पष्ट करा.",
+            "answer": "उपयोजित इतिहास समाजाला भूतकाळाशी जोडतो आणि वर्तमानकाळाला दिशा देतो. सांस्कृतिक वारसा, आर्थिक विकास, पर्यावरण संरक्षण आणि सामाजिक एकात्मता यांना तो बळकटी देतो. शिक्षण, संशोधन आणि निर्णयप्रक्रियेत इतिहासाचा उपयोग वाढतो. नागरिकांमध्ये जबाबदारी, अभिमान आणि संस्कृतीविषयी संवेदनशीलता निर्माण होते. त्यामुळे उपयोजित इतिहास समाजाच्या सर्वांगीण प्रगतीसाठी अत्यंत महत्त्वाचा ठरतो."
+        }
+    ]
+}

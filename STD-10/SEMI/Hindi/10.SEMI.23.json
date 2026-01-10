@@ -1,0 +1,199 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.SEMI.23",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Semi-English",
+    "chapter_name": "व्याकरण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भाषा की सबसे छोटी अर्थपूर्ण इकाई क्या कहलाती है?",
+      "options": [
+        { "option_id": 1, "text": "शब्द", "is_correct": true },
+        { "option_id": 2, "text": "वाक्य", "is_correct": false },
+        { "option_id": 3, "text": "अक्षर", "is_correct": false },
+        { "option_id": 4, "text": "ध्वनि", "is_correct": false }
+      ],
+      "answer": "शब्द"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "व्याकरण का मुख्य उद्देश्य क्या है?",
+      "options": [
+        { "option_id": 1, "text": "भाषा को कठिन बनाना", "is_correct": false },
+        { "option_id": 2, "text": "भाषा को शुद्ध और स्पष्ट बनाना", "is_correct": true },
+        { "option_id": 3, "text": "भाषा को छोटा करना", "is_correct": false },
+        { "option_id": 4, "text": "भाषा को बदलना", "is_correct": false }
+      ],
+      "answer": "भाषा को शुद्ध और स्पष्ट बनाना"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "संज्ञा किसे कहते हैं?",
+      "options": [
+        { "option_id": 1, "text": "काम करने वाले शब्द", "is_correct": false },
+        { "option_id": 2, "text": "नाम बताने वाले शब्द", "is_correct": true },
+        { "option_id": 3, "text": "गुण बताने वाले शब्द", "is_correct": false },
+        { "option_id": 4, "text": "स्थिति बताने वाले शब्द", "is_correct": false }
+      ],
+      "answer": "नाम बताने वाले शब्द"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "‘लड़का’, ‘नदी’, ‘दिल्ली’ किस शब्द-भेद के उदाहरण हैं?",
+      "options": [
+        { "option_id": 1, "text": "सर्वनाम", "is_correct": false },
+        { "option_id": 2, "text": "संज्ञा", "is_correct": true },
+        { "option_id": 3, "text": "क्रिया", "is_correct": false },
+        { "option_id": 4, "text": "विशेषण", "is_correct": false }
+      ],
+      "answer": "संज्ञा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "जो शब्द संज्ञा के स्थान पर प्रयुक्त होते हैं, वे क्या कहलाते हैं?",
+      "options": [
+        { "option_id": 1, "text": "विशेषण", "is_correct": false },
+        { "option_id": 2, "text": "क्रिया", "is_correct": false },
+        { "option_id": 3, "text": "सर्वनाम", "is_correct": true },
+        { "option_id": 4, "text": "अव्यय", "is_correct": false }
+      ],
+      "answer": "सर्वनाम"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "‘सुंदर लड़की’ में ‘सुंदर’ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "संज्ञा", "is_correct": false },
+        { "option_id": 2, "text": "विशेषण", "is_correct": true },
+        { "option_id": 3, "text": "क्रिया", "is_correct": false },
+        { "option_id": 4, "text": "सर्वनाम", "is_correct": false }
+      ],
+      "answer": "विशेषण"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "क्रिया किसे कहते हैं?",
+      "options": [
+        { "option_id": 1, "text": "नाम बताने वाले शब्द", "is_correct": false },
+        { "option_id": 2, "text": "काम या स्थिति बताने वाले शब्द", "is_correct": true },
+        { "option_id": 3, "text": "गुण बताने वाले शब्द", "is_correct": false },
+        { "option_id": 4, "text": "भाव बताने वाले शब्द", "is_correct": false }
+      ],
+      "answer": "काम या स्थिति बताने वाले शब्द"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "‘वह पढ़ता है’ में क्रिया कौन-सी है?",
+      "options": [
+        { "option_id": 1, "text": "वह", "is_correct": false },
+        { "option_id": 2, "text": "पढ़ता है", "is_correct": true },
+        { "option_id": 3, "text": "है", "is_correct": false },
+        { "option_id": 4, "text": "पढ़ता", "is_correct": false }
+      ],
+      "answer": "पढ़ता है"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "जो शब्द न तो संज्ञा होते हैं, न सर्वनाम, न विशेषण और न क्रिया – वे क्या कहलाते हैं?",
+      "options": [
+        { "option_id": 1, "text": "संज्ञा", "is_correct": false },
+        { "option_id": 2, "text": "क्रिया", "is_correct": false },
+        { "option_id": 3, "text": "अव्यय", "is_correct": true },
+        { "option_id": 4, "text": "विशेषण", "is_correct": false }
+      ],
+      "answer": "अव्यय"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "‘और’, ‘लेकिन’, ‘क्योंकि’ किसके उदाहरण हैं?",
+      "options": [
+        { "option_id": 1, "text": "संज्ञा", "is_correct": false },
+        { "option_id": 2, "text": "क्रिया", "is_correct": false },
+        { "option_id": 3, "text": "समुच्चयबोधक", "is_correct": true },
+        { "option_id": 4, "text": "विशेषण", "is_correct": false }
+      ],
+      "answer": "समुच्चयबोधक"
+    },
+
+    {
+      "question_id": 11,
+      "question_type": "SHORT",
+      "question": "व्याकरण से क्या लाभ होता है?",
+      "answer": "व्याकरण से भाषा शुद्ध, स्पष्ट और प्रभावी बनती है।"
+    },
+    {
+      "question_id": 12,
+      "question_type": "SHORT",
+      "question": "संज्ञा और सर्वनाम में क्या अंतर है?",
+      "answer": "संज्ञा नाम बताती है जबकि सर्वनाम संज्ञा के स्थान पर आता है।"
+    },
+    {
+      "question_id": 13,
+      "question_type": "SHORT",
+      "question": "विशेषण का कार्य क्या है?",
+      "answer": "विशेषण संज्ञा या सर्वनाम की विशेषता बताता है।"
+    },
+    {
+      "question_id": 14,
+      "question_type": "SHORT",
+      "question": "क्रिया के बिना वाक्य अधूरा क्यों होता है?",
+      "answer": "क्योंकि क्रिया से ही कार्य या स्थिति का बोध होता है।"
+    },
+    {
+      "question_id": 15,
+      "question_type": "SHORT",
+      "question": "अव्यय शब्दों की कोई विशेषता लिखिए।",
+      "answer": "अव्यय शब्द रूप नहीं बदलते।"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "LONG",
+      "question": "व्याकरण का महत्व स्पष्ट कीजिए।",
+      "answer": "व्याकरण भाषा को शुद्ध, स्पष्ट और अनुशासित बनाता है। इसके बिना भाषा अव्यवस्थित हो जाती है। व्याकरण के ज्ञान से व्यक्ति सही ढंग से बोल और लिख सकता है, जिससे संप्रेषण प्रभावी होता है।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "LONG",
+      "question": "संज्ञा के प्रकार उदाहरण सहित समझाइए।",
+      "answer": "संज्ञा के मुख्य प्रकार हैं – व्यक्तिवाचक (राम, दिल्ली), जातिवाचक (लड़का, शहर), भाववाचक (प्रेम, खुशी) और द्रव्यवाचक (पानी, सोना)।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "LONG",
+      "question": "क्रिया और उसके भेद संक्षेप में लिखिए।",
+      "answer": "क्रिया वह शब्द है जिससे कार्य या स्थिति का बोध होता है। इसके मुख्य भेद सकर्मक क्रिया और अकर्मक क्रिया हैं।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "LONG",
+      "question": "विशेषण और सर्वनाम का प्रयोग भाषा में क्यों आवश्यक है?",
+      "answer": "विशेषण भाषा को स्पष्ट और सुंदर बनाते हैं, जबकि सर्वनाम वाक्यों को सरल और प्रवाहपूर्ण बनाते हैं।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "LONG",
+      "question": "अव्यय शब्दों की भूमिका स्पष्ट कीजिए।",
+      "answer": "अव्यय शब्द वाक्य के भाव, संबंध और प्रवाह को स्पष्ट करते हैं। ये भाषा को प्रभावी बनाने में सहायक होते हैं।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "LONG",
+      "question": "व्याकरण के ज्ञान से विद्यार्थी को क्या लाभ होते हैं?",
+      "answer": "व्याकरण के ज्ञान से विद्यार्थी शुद्ध लेखन, सही उच्चारण और प्रभावी अभिव्यक्ति सीखता है, जिससे उसका आत्मविश्वास बढ़ता है।"
+    }
+  ]
+}

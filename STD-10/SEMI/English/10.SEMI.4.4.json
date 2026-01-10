@@ -1,0 +1,51 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.SEMI.4.4",
+    "standard": "10",
+    "subject": "English",
+    "medium": "SEMI",
+    "chapter_name": "Unbeatable Super Mom – Mary Kom"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is Mary Kom?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A swimmer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A boxer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A runner",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A weightlifter",
+          "is_correct": false
+        }
+      ],
+      "answer": "A boxer"
+    },
+    {
+      "question_id": 2,
+      "question_type": "SHORT",
+      "question": "Why is Mary Kom called ‘Super Mom’?",
+      "answer": "Because she balances motherhood and professional boxing."
+    },
+    {
+      "question_id": 3,
+      "question_type": "LONG",
+      "question": "Write an appreciation of the lesson.",
+      "answer": "Mary Kom’s story inspires perseverance and women empowerment."
+    }
+  ]
+}

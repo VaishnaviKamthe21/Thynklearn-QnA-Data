@@ -1,0 +1,2311 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "10.SEMI.07",
+        "standard": "10",
+        "subject": "History",
+        "medium": "Semi-English",
+        "chapter_name": "खेळ आणि इतिहास"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "खेळ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फक्त शारीरिक कसरत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मनोरंजन व शारीरिक व्यायामासाठी केलेली कृती",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त वेळ घालवण्याचे साधन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त स्पर्धा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मनोरंजन व शारीरिक व्यायामासाठी केलेली कृती"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "खेळांची परंपरा सर्वप्रथम कोणत्या संस्कृतीत विकसित झाली?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "भारतीय",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "ग्रीक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "चिनी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "इजिप्शियन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ग्रीक"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "खालीलपैकी कोणता खेळ प्राचीन ऑलिंपिकमध्ये खेळला जात असे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "टेबल-टेनिस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मुष्टियुद्ध",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "बॅडमिंटन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बास्केटबॉल",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मुष्टियुद्ध"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "खेळांमुळे कोणता गुण विकसित होतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वार्थ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "खिलाडूपणा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "आळस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "भेदभाव",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खिलाडूपणा"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "खेळांचे प्रकार किती आहेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "दोन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "तीन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "चार",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दोन"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "बैठ्या खेळांचे प्रमुख उदाहरण कोणते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हॉकी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "बुद्धिबळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फुटबॉल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खो-खो",
+                    "is_correct": false
+                }
+            ],
+            "answer": "बुद्धिबळ"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "खालीलपैकी कोणता खेळ मैदानी खेळ आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कॅरम",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कबड्डी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "सागरगोटे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "भातुकली",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कबड्डी"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "लंगडी हा कोणत्या प्रकारातील खेळ आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "बैठा खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मैदानी देशी खेळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाण्यातील खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "साहसी खेळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मैदानी देशी खेळ"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "‘भातुकली’ हा खेळ कोणत्या वयोगटातील मुलांचा असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लहान मुलींचा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तरुणांचा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वृद्धांचा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खेळाडूंचा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "लहान मुलींचा"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "विटीदांडू कोणत्या प्रकारातील खेळ आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "विदेशी खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "देशी खेळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाण्यातील खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बैठा खेळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "देशी खेळ"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "टेबल-टेनिस हा कोणत्या प्रकारचा खेळ आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "देशी खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "विदेशी मैदानी खेळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाण्यातील खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "साहसी खेळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विदेशी मैदानी खेळ"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "मल्लखांब कोणत्या प्रकारच्या खेळात मोडतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पाण्यातील खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "शारीरिक कसरतीचा खेळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "साहसी खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बैठा खेळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शारीरिक कसरतीचा खेळ"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "स्केटिंग कोणत्या प्रकारात मोडते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "बैठा खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "साहसी खेळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाण्यातील खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "देशी खेळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "साहसी खेळ"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "ऑलिंपिक स्पर्धा कोणत्या देशात सुरू झाल्या?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "इटली",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "ग्रीस",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "भारत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जपान",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ग्रीस"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "भारताचा राष्ट्रीय खेळ कोणता आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फुटबॉल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "हॉकी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "क्रिकेट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कबड्डी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हॉकी"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "खेळांचे आंतरराष्ट्रीयीकरण कोणत्या माध्यमातून झाले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वृत्तपत्रांमुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "दूरदर्शन व थेट प्रक्षेपणामुळे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त पुस्तके",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शालेय शिक्षणामुळे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दूरदर्शन व थेट प्रक्षेपणामुळे"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "खेळण्यांमधून कोणत्या घटकांवर प्रकाश पडतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फक्त खेळाडूंची नावे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "इतिहास आणि तंत्रज्ञानाची प्रगती",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त संस्कृती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त अर्थकारण",
+                    "is_correct": false
+                }
+            ],
+            "answer": "इतिहास आणि तंत्रज्ञानाची प्रगती"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "‘ठकी’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खेळाचा प्रकार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "महाराष्ट्रातील लाकडी बाहुली",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "कुस्ती तंत्र",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खेळ साहित्य",
+                    "is_correct": false
+                }
+            ],
+            "answer": "महाराष्ट्रातील लाकडी बाहुली"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "पाँपेई येथे सापडलेली हस्तिदंती बाहुली कोणत्या देशाशी संबंध दर्शवते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चीन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "भारत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "इजिप्त",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "ग्रीस",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भारत"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "खेळांच्या स्पर्धांमध्ये पंच होण्यासाठी काय आवश्यक असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "विशेष प्रशिक्षण व पात्रता परीक्षा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त खेळ पाहणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त प्रमाणपत्र",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अनुभव नसला तरी चालते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विशेष प्रशिक्षण व पात्रता परीक्षा"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "खालीलपैकी कोणता खेळ पाण्यातील खेळ आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वॉटर पोलो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मल्लखांब",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "स्केटिंग",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "लंगडी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वॉटर पोलो"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "‘मृच्छकटिक’ या शब्दाचा अर्थ काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मातीची बाहुली",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मातीची गाडी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "खेळण्यांचा डबा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खेळ साहित्य",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मातीची गाडी"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "खेळांच्या स्पर्धांवर आधारित निवेदन कोण करतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कलावंत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "तज्ज्ञ व इतिहासज्ञ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "खेळाडूंचे पालक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विद्यार्थी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तज्ज्ञ व इतिहासज्ञ"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "‘हॉकीचे जादूगार’ म्हणून कोण ओळखले जातात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सचिन तेंडुलकर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मेजर ध्यानचंद",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "कुस्तीगीर खाशाबा जाधव",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विजयनगर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मेजर ध्यानचंद"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "खेळाशी संबंधित साहित्य कोणत्या प्रकारात मोडते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नवीन ज्ञानशाखा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "केवळ मनोरंजन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कवितासंग्रह",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नाटकशास्त्र",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नवीन ज्ञानशाखा"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "‘मेरी कोम’ हा चित्रपट कोणत्या खेळावर आधारित आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कुस्ती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "मुष्टियुद्ध",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "हॉकी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बुद्धिबळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मुष्टियुद्ध"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "खेळांचे अर्थकारण का बदलले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खेळाडू कमी झाले",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "जागतिक प्रसारणामुळे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "खेळ बंद झाले",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "नियम बदलले",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जागतिक प्रसारणामुळे"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "खालीलपैकी कोणता खेळ साहसी व रोमांचकारी आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ग्लायडिंग",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कॅरम",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भातुकली",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सागरगोटे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ग्लायडिंग"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "खेळांचा इतिहास कोणासाठी उपयुक्त ठरतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फक्त खेळाडूंसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "इतिहासाच्या विद्यार्थ्यांसाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त पंचांसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त शिक्षकांसाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "इतिहासाच्या विद्यार्थ्यांसाठी"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "खेळांविषयी समीक्षापूर्ण निवेदन कोण करतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पत्रकार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "तज्ज्ञ इतिहासकार",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "विद्यार्थी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खेळाडूंचे पालक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तज्ज्ञ इतिहासकार"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "खेळांमुळे कोणती भावना विकसित होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्पर्धा-विरोध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "संघभावना",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "मतभेद",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "एकलकोंडेपणा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "संघभावना"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "गोळाफेक आणि थाळीफेक हे कोणत्या प्रकारचे खेळ आहेत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पाण्यातील खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "शारीरिक कौशल्यावरील खेळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "साहसी खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बैठे खेळ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शारीरिक कौशल्यावरील खेळ"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "‘दंगल’ चित्रपट कोणत्या खेळाशी संबंधित आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हॉकी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "कुस्ती",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फुटबॉल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "क्रिकेट",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कुस्ती"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "खेळांविषयी नोंदी ठेवणे कोणत्या क्षेत्राशी संबंधित आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "इतिहास",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वैद्यकशास्त्र",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संगीत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "इतिहास"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "खेळाडूंसाठी शिष्यवृत्ती कोण देते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फक्त खाजगी संस्था",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "सरकार व खासगी संस्था",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त शाळा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त क्रीडा संघ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सरकार व खासगी संस्था"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "खेळांचे साहित्य कोठे सापडते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "उत्खननात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मातीच्या भांड्यात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "संगीतालयात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शाळेत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "उत्खननात"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "खेळांमधून कोणती संधी निर्माण होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "व्यावसायिक संधी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त मनोरंजन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त शिक्षण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त पर्यटन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "व्यावसायिक संधी"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "खेळांच्या स्पर्धांमध्ये कोणाची आवश्यकता असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शिक्षक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "पंच",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "कवी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वक्ते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पंच"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "खेळांच्या इतिहासाचा अभ्यास कोण करतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वैज्ञानिक",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "इतिहासकार",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "डॉक्टर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अभियंते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "इतिहासकार"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "खेळांचा अभ्यास करताना कोणत्या गोष्टींची माहिती आवश्यक असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फक्त खेळाडूंचे फोटो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळाचा इतिहास आणि विक्रम",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त बक्षिसे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त मैदानाचा आकार",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खेळाचा इतिहास आणि विक्रम"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "खेळणी कोणत्या गोष्टी समजण्यास मदत करतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फक्त खेळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "तंत्रज्ञान व परंपरा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त संस्कृती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त शिक्षण",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तंत्रज्ञान व परंपरा"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "खेळांच्या माध्यमातून कोणता विचार बळकट होतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वार्थी वृत्ती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्वअनुशासन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "निर्लेपता",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बेपर्वाई",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्वअनुशासन"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "खेळांमुळे कोणता फायदा होतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आरोग्य बिघडते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "शरीर तंदुरुस्त राहते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "आळस वाढतो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कामगिरी घटते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शरीर तंदुरुस्त राहते"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "खेळांची माहिती साठवून ठेवण्याचे काम कोण करते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वृत्तपत्रे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "दूरदर्शन वाहिन्या",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "शाळा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "क्रीडांगणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दूरदर्शन वाहिन्या"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "खेळ आणि इतिहास यांच्यातील संबंध कसा आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कोणताही संबंध नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "निकटचा संबंध आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त आर्थिक संबंध",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त शैक्षणिक संबंध",
+                    "is_correct": false
+                }
+            ],
+            "answer": "निकटचा संबंध आहे"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "खेळांच्या स्पर्धांत भाग घेणे व्यक्तीस काय देते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "अविश्वास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "आत्मविश्वास",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "भीती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "आळस",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आत्मविश्वास"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "खेळांमुळे कोणता सामाजिक गुण वाढतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "संघर्ष",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "सहकार्य",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "स्पर्धात्मक द्वेष",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दूरावा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सहकार्य"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "खेळांच्या इतिहासाचा अभ्यास विद्यार्थ्यांना कोणत्या क्षेत्रात मदत करतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "क्रीडा समीक्षा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "संगीत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अभियांत्रिकी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "क्रीडा समीक्षा"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "खेळांच्या माध्यमातून कोणते मूल्य विकसित होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वार्थीपणा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "संयम",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "भांडण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "उदासीनता",
+                    "is_correct": false
+                }
+            ],
+            "answer": "संयम"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "खेळांचा इतिहास जाणून घेणे का आवश्यक आहे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मनोरंजनासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळांच्या सामाजिक आणि सांस्कृतिक संदर्भ समजण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "फक्त स्पर्धेसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त बक्षिसांसाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खेळांच्या सामाजिक आणि सांस्कृतिक संदर्भ समजण्यासाठी"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "खेळ म्हणजे काय?",
+            "answer": "मनोरंजन, शारीरिक व्यायाम आणि मानसिक तणाव कमी करण्यासाठी खेळली जाणारी कृती म्हणजे खेळ."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "खेळांमुळे कोणते मूल्य विकसित होते?",
+            "answer": "खेळांमुळे शिस्त, सहकार्य, संयम आणि संघभावना विकसित होते."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "खेळांचे प्रमुख दोन प्रकार कोणते?",
+            "answer": "बैठे खेळ आणि मैदानी खेळ हे खेळांचे दोन प्रमुख प्रकार आहेत."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "बैठे खेळ म्हणजे काय?",
+            "answer": "बसून खेळले जाणारे खेळ म्हणजे बैठे खेळ."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "मैदानी खेळ म्हणजे काय?",
+            "answer": "मुक्त मैदानावर खेळले जाणारे खेळ म्हणजे मैदानी खेळ."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "खेळ आणि इतिहास यांचा संबंध का आहे?",
+            "answer": "खेळ समाजाच्या सांस्कृतिक, सामाजिक आणि ऐतिहासिक जीवनाचे प्रतिबिंब दाखवतात म्हणून त्यांचा इतिहासाशी घनिष्ठ संबंध आहे."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "खेळांमुळे शरीरावर काय परिणाम होतो?",
+            "answer": "खेळांमुळे शरीर तंदुरुस्त राहते आणि शारीरिक क्षमता वाढते."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "खेळांमध्ये शिस्त आवश्यक का आहे?",
+            "answer": "नियमांचे पालन आणि संघभावना टिकवण्यासाठी खेळात शिस्त आवश्यक असते."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "संघखेळ म्हणजे काय?",
+            "answer": "अनेक खेळाडू मिळून खेळला जाणारा खेळ म्हणजे संघखेळ."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "व्यक्तिगत खेळ म्हणजे काय?",
+            "answer": "एकाच व्यक्तीने खेळला जाणारा खेळ म्हणजे व्यक्तिगत खेळ."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "खेळाडूवृत्ती म्हणजे काय?",
+            "answer": "प्रामाणिकपणे, नियमांचे पालन करून आणि आदर्श वृत्तीने खेळणे म्हणजे खेळाडूवृत्ती."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "खेळांचा इतिहास अभ्यासणे का आवश्यक आहे?",
+            "answer": "खेळांची परंपरा, विकास आणि सामाजिक महत्त्व समजण्यासाठी खेळांचा इतिहास अभ्यासणे आवश्यक आहे."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "प्राचीन काळातील खेळ कुठे विकसित झाले?",
+            "answer": "प्राचीन काळातील अनेक खेळ ग्रीस आणि भारतात विकसित झाले."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "प्राचीन ऑलिंपिक स्पर्धा कशासाठी आयोजित केल्या जात?",
+            "answer": "देवतांच्या सन्मानार्थ आणि शारीरिक कौशल्यासाठी प्राचीन ऑलिंपिक स्पर्धा आयोजित केल्या जात."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "खेळांमधून कोणती भावना वाढते?",
+            "answer": "संघभावना, सहकार्य आणि सामाजिक एकात्मता वाढते."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "भारतीय पारंपरिक खेळ कोणते?",
+            "answer": "कबड्डी, खो-खो, मल्लखांब, विटीदांडू हे भारतीय पारंपरिक खेळ आहेत."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "खेळांचा मानसिक आरोग्यावर काय परिणाम होतो?",
+            "answer": "खेळांमुळे मानसिक तणाव कमी होतो आणि आत्मविश्वास वाढतो."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "खेळांमध्ये नियम का असतात?",
+            "answer": "शिस्त, न्याय आणि योग्य स्पर्धा राखण्यासाठी नियम असतात."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "खेळातील पंचाची भूमिका काय असते?",
+            "answer": "नियमांचे पालन होत आहे का यावर लक्ष ठेवणे ही पंचाची भूमिका असते."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "खेळांच्या इतिहासाचा अभ्यास कोण करतात?",
+            "answer": "इतिहासकार आणि संशोधक खेळांच्या इतिहासाचा अभ्यास करतात."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "खेळातील पराजयातून काय शिकायला मिळते?",
+            "answer": "परिश्रम, संयम आणि सुधारणा करण्याची प्रेरणा मिळते."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "खेळ स्पर्धांचे महत्त्व काय आहे?",
+            "answer": "स्पर्धांमुळे कौशल्य, आत्मविश्वास आणि कर्तृत्व वाढते."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "खेळ हे सामाजिक ऐक्य वाढवतात का?",
+            "answer": "होय, खेळ सामूहिक सहभागामुळे सामाजिक ऐक्य वाढवतात."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "खेळणी इतिहासासाठी महत्त्वाची का आहेत?",
+            "answer": "खेळणी त्या काळातील संस्कृती, तंत्रज्ञान आणि जीवनशैली दर्शवतात."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "खेळांचा सांस्कृतिक इतिहासाशी कसा संबंध आहे?",
+            "answer": "खेळांमधून समाजातील सांस्कृतिक परंपरा प्रकट होतात."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "खेळामधील प्रेक्षकांची भूमिका काय असते?",
+            "answer": "प्रेक्षक खेळाला प्रोत्साहन आणि प्रेरणा देतात."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "खेळांमधून स्वअनुशासन कसे विकसित होते?",
+            "answer": "नियमांचे पालन आणि नियमित सरावामुळे स्वअनुशासन विकसित होते."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "खेळांचे अर्थकारण म्हणजे काय?",
+            "answer": "खेळाशी संबंधित उत्पादन, प्रसारण, जाहिरात आणि व्यवसाय यास अर्थकारण म्हणतात."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "आधुनिक खेळांचे प्रसारण कोठून केले जाते?",
+            "answer": "दूरदर्शन, रेडिओ आणि डिजिटल माध्यमांद्वारे केले जाते."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "खेळांमध्ये तंत्रज्ञानाचा वापर का केला जातो?",
+            "answer": "निर्णय अचूक आणि न्याय्य करण्यासाठी तंत्रज्ञानाचा वापर केला जातो."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "खेळ स्पर्धांमध्ये बक्षिसे का दिली जातात?",
+            "answer": "खेळाडूंचे प्रोत्साहन आणि कार्यगौरव करण्यासाठी बक्षिसे दिली जातात."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "खेळांचा राष्ट्रीय ओळखीस काय फायदा होतो?",
+            "answer": "आंतरराष्ट्रीय स्तरावर देशाची ओळख आणि प्रतिष्ठा वाढते."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "खेळातील आदर्श व्यक्ती म्हणजे कोण?",
+            "answer": "उत्कृष्ट खेळाडू आणि कर्तृत्ववान क्रीडापटू आदर्श व्यक्ती असतात."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "व्यावसायिक खेळाडू म्हणजे कोण?",
+            "answer": "खेळ खेळून उपजीविका करणाऱ्या व्यक्तीला व्यावसायिक खेळाडू म्हणतात."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "खेळांमधील प्रशिक्षण का महत्त्वाचे आहे?",
+            "answer": "कौशल्य, शारीरिक क्षमता आणि स्पर्धात्मकता वाढवण्यासाठी प्रशिक्षण महत्त्वाचे आहे."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "खेळ मानसिक विकासात कसा मदत करतो?",
+            "answer": "आत्मविश्वास, निर्णयक्षमता आणि लक्ष केंद्रीत करण्याची क्षमता वाढते."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "खेळामध्ये शिस्त का आवश्यक आहे?",
+            "answer": "संघटन, नियमांचे पालन आणि न्याय्य खेळासाठी शिस्त आवश्यक आहे."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "खेळांमुळे व्यक्तिमत्त्वावर काय परिणाम होतो?",
+            "answer": "खेळांमुळे आत्मविश्वास, धैर्य आणि सामाजिक कौशल्ये वाढतात."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "देशी खेळ म्हणजे काय?",
+            "answer": "स्थानिक संस्कृतीत विकसित झालेले पारंपरिक खेळ म्हणजे देशी खेळ."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "विदेशी खेळ म्हणजे काय?",
+            "answer": "इतर देशांतून भारतात आलेले खेळ म्हणजे विदेशी खेळ."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "खेळातील मैत्रीभाव म्हणजे काय?",
+            "answer": "स्पर्धेनंतरही परस्पर सन्मान आणि मैत्री राखणे म्हणजे मैत्रीभाव."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "खेळांचे सामाजिक महत्त्व काय आहे?",
+            "answer": "खेळ समाजजीवनात ऐक्य, सहभाग आणि परस्पर सन्मान वाढवतात."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "खेळांचा आरोग्यावर काय परिणाम होतो?",
+            "answer": "खेळांमुळे शारीरिक तंदुरुस्ती आणि आरोग्य सुधारते."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "शालेय जीवनात खेळ आवश्यक का आहेत?",
+            "answer": "विद्यार्थ्यांच्या सर्वांगीण विकासासाठी खेळ आवश्यक आहेत."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "खेळातील सन्मान म्हणजे काय?",
+            "answer": "उत्कृष्ट खेळाडूंना देण्यात येणारी पदके आणि पुरस्कार म्हणजे सन्मान."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "खेळांच्या स्पर्धांमध्ये प्रेक्षकांची भूमिका काय असते?",
+            "answer": "प्रेक्षक खेळाडूंना प्रोत्साहन आणि ऊर्जा देतात."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "खेळ स्पर्धांमधील ‘फेअर प्ले’ म्हणजे काय?",
+            "answer": "नियमांचे प्रामाणिक पालन करून खेळणे म्हणजे फेअर प्ले."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "खेळ आणि आरोग्य यांचा संबंध काय आहे?",
+            "answer": "खेळ आरोग्य सुधारतात आणि शरीर तंदुरुस्त ठेवतात."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "खेळातील परिश्रमाचे महत्त्व काय आहे?",
+            "answer": "कौशल्य आणि यश संपादन करण्यासाठी परिश्रम महत्त्वाचे आहेत."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "खेळांच्या इतिहासातील पुरावे कोठून मिळतात?",
+            "answer": "उत्खनन, शिल्प, शिलालेख आणि साहित्य यांमधून पुरावे मिळतात."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "खेळ स्पर्धा समाजासाठी कशा उपयुक्त ठरतात?",
+            "answer": "स्पर्धांमुळे कौशल्य, आरोग्य आणि सामाजिक सहभाग वाढतो."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "खेळातील मार्गदर्शकाची भूमिका काय असते?",
+            "answer": "मार्गदर्शक प्रशिक्षण देतो आणि खेळाडूंचे कौशल्य विकसित करतो."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "खेळातील शारीरिक सराव का आवश्यक आहे?",
+            "answer": "शारीरिक ताकद आणि सहनशक्ती वाढवण्यासाठी सराव आवश्यक आहे."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "खेळांमध्ये संघभावना कशी विकसित होते?",
+            "answer": "एकत्र खेळताना सहकार्य आणि समन्वयातून संघभावना विकसित होते."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "खेळातील निष्पक्षता म्हणजे काय?",
+            "answer": "कोणताही पक्षपात न करता न्याय्य निर्णय घेणे म्हणजे निष्पक्षता."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "खेळांच्या अध्ययनातून काय समजते?",
+            "answer": "खेळांची उत्पत्ती, विकास आणि सामाजिक भूमिका समजते."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "खेळांचा आर्थिक विकासाशी काय संबंध आहे?",
+            "answer": "खेळ उद्योग, पर्यटन आणि रोजगार निर्मितीत मदत करतात."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "खेळांच्या नियमांचे महत्त्व काय आहे?",
+            "answer": "स्पर्धा न्याय्य ठेवण्यासाठी नियम आवश्यक असतात."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "खेळांमुळे आत्मविश्वास कसा वाढतो?",
+            "answer": "यश, परिश्रम आणि सहभागातून आत्मविश्वास वाढतो."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "खेळ हा शिक्षणाचा भाग का आहे?",
+            "answer": "शारीरिक, मानसिक आणि सामाजिक विकासासाठी खेळ शिक्षणाचा भाग आहे."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "खेळातील विजयाचे महत्त्व काय आहे?",
+            "answer": "विजय प्रेरणा, आत्मविश्वास आणि कर्तृत्वाची जाणीव देतो."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "खेळातील पराभव स्वीकारणे का महत्त्वाचे आहे?",
+            "answer": "पराभवातून सुधारणा आणि संयम शिकायला मिळते."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "खेळ म्हणजे केवळ विरंगुळा आहे का?",
+            "answer": "नाही, खेळ आरोग्य, शिक्षण आणि व्यक्तिमत्त्व विकासाचे साधन आहे."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "खेळांमुळे सामाजिक एकात्मता कशी वाढते?",
+            "answer": "विविध समूह एकत्र सहभागी होत असल्याने सामाजिक एकात्मता वाढते."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "खेळांचा राष्ट्रीय अभिमानाशी काय संबंध आहे?",
+            "answer": "आंतरराष्ट्रीय स्पर्धांमधील यश राष्ट्रीय अभिमान वाढवते."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "खेळामध्ये सराव का आवश्यक आहे?",
+            "answer": "कौशल्य, गती आणि तंत्र सुधारण्यासाठी सराव आवश्यक आहे."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "खेळाडूंच्या शिस्तीचे महत्त्व काय?",
+            "answer": "स्पर्धात्मकता, आदर आणि नियमपालनासाठी शिस्त आवश्यक आहे."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "खेळातील क्रीडास्पर्धा म्हणजे काय?",
+            "answer": "खेळाडूंमध्ये आयोजित स्पर्धात्मक खेळ म्हणजे क्रीडास्पर्धा."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "खेळांमध्ये प्रामाणिकपणा का आवश्यक आहे?",
+            "answer": "खेळाची गुणवत्ता आणि न्याय टिकवण्यासाठी प्रामाणिकपणा आवश्यक आहे."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "खेळातील स्वावलंबन कसे वाढते?",
+            "answer": "स्वतःच्या क्षमतेवर विश्वास आणि परिश्रमातून स्वावलंबन वाढते."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "खेळातील साहसभावना म्हणजे काय?",
+            "answer": "धैर्याने आव्हाने स्विकारणे म्हणजे साहसभावना."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "खेळ आणि चरित्रनिर्मिती यांचा संबंध काय?",
+            "answer": "खेळातून संयम, शिस्त आणि प्रामाणिकता विकसित होते."
+        },
+        {
+            "question_id": 123,
+            "question_type": "SHORT",
+            "question": "खेळांचा युवकांवर काय प्रभाव होतो?",
+            "answer": "खेळ युवकांमध्ये ऊर्जाशीलता, आत्मविश्वास आणि शिस्त वाढवतात."
+        },
+        {
+            "question_id": 124,
+            "question_type": "SHORT",
+            "question": "खेळातील मैत्रीभाव का महत्त्वाचा आहे?",
+            "answer": "स्पर्धेपेक्षा संबंध आणि आदर जपण्यासाठी मैत्रीभाव महत्त्वाचा आहे."
+        },
+        {
+            "question_id": 125,
+            "question_type": "SHORT",
+            "question": "खेळात निरीक्षण क्षमता का वाढते?",
+            "answer": "खेळातील परिस्थितीनुसार निर्णय घ्यावे लागतात म्हणून निरीक्षण क्षमता वाढते."
+        },
+        {
+            "question_id": 126,
+            "question_type": "SHORT",
+            "question": "खेळामुळे वेळेचे नियोजन कसे शिकता येते?",
+            "answer": "सराव, स्पर्धा आणि अभ्यास यांचा समतोल राखताना वेळेचे नियोजन शिकतो."
+        },
+        {
+            "question_id": 127,
+            "question_type": "SHORT",
+            "question": "खेळांमध्ये आरोग्यदायी स्पर्धा म्हणजे काय?",
+            "answer": "निष्पक्ष आणि प्रामाणिक पद्धतीने खेळली जाणारी स्पर्धा म्हणजे आरोग्यदायी स्पर्धा."
+        },
+        {
+            "question_id": 128,
+            "question_type": "SHORT",
+            "question": "खेळांचे सांस्कृतिक मूल्य काय आहे?",
+            "answer": "खेळ सांस्कृतिक परंपरा जपतात आणि समाजातील एकात्मता वाढवतात."
+        },
+        {
+            "question_id": 129,
+            "question_type": "SHORT",
+            "question": "खेळातील क्रीडाभाव कसा व्यक्त होतो?",
+            "answer": "प्रामाणिक खेळ, आदर आणि नियमपालनातून क्रीडाभाव व्यक्त होतो."
+        },
+        {
+            "question_id": 130,
+            "question_type": "SHORT",
+            "question": "खेळातील प्रेरणा कोठून मिळते?",
+            "answer": "यशस्वी खेळाडू, प्रशिक्षक आणि स्पर्धांमधून प्रेरणा मिळते."
+        },
+        {
+            "question_id": 131,
+            "question_type": "SHORT",
+            "question": "खेळांचे शिक्षणात स्थान का आहे?",
+            "answer": "खेळ मानसिक, शारीरिक आणि सामाजिक विकास घडवतात म्हणून शिक्षणात स्थान आहे."
+        },
+        {
+            "question_id": 132,
+            "question_type": "SHORT",
+            "question": "खेळ आणि राष्ट्रनिर्मिती यांचा संबंध काय?",
+            "answer": "खेळ राष्ट्रीय एकात्मता, अनुशासन आणि सामूहिक भावना वाढवतात."
+        },
+        {
+            "question_id": 133,
+            "question_type": "SHORT",
+            "question": "खेळांमधील सहकार्याची गरज का असते?",
+            "answer": "संघखेळात एकमेकांवर अवलंबून राहावे लागते म्हणून सहकार्य आवश्यक असते."
+        },
+        {
+            "question_id": 134,
+            "question_type": "SHORT",
+            "question": "खेळातील उत्साह म्हणजे काय?",
+            "answer": "खेळताना जाणवणारी आनंदी आणि ऊर्जावान भावना म्हणजे उत्साह."
+        },
+        {
+            "question_id": 135,
+            "question_type": "SHORT",
+            "question": "खेळातील निर्णयक्षमता कशी वाढते?",
+            "answer": "वेगवान आणि योग्य निर्णय घेण्याच्या अनुभवातून निर्णयक्षमता वाढते."
+        },
+        {
+            "question_id": 136,
+            "question_type": "SHORT",
+            "question": "खेळ आणि आरोग्य यांच्यातील नाते कसे आहे?",
+            "answer": "खेळ शरीर बळकट करतात आणि रोगप्रतिकारशक्ती वाढवतात."
+        },
+        {
+            "question_id": 137,
+            "question_type": "SHORT",
+            "question": "खेळातून सामाजिक समता कशी निर्माण होते?",
+            "answer": "विविध स्तरातील लोक एकत्र खेळल्याने सामाजिक समता निर्माण होते."
+        },
+        {
+            "question_id": 138,
+            "question_type": "SHORT",
+            "question": "खेळामधील नियोजन का महत्त्वाचे आहे?",
+            "answer": "यशस्वी खेळासाठी सराव, आहार आणि वेळेचे योग्य नियोजन आवश्यक असते."
+        },
+        {
+            "question_id": 139,
+            "question_type": "SHORT",
+            "question": "खेळातून नेतृत्वगुण कसे विकसित होतात?",
+            "answer": "संघाचे मार्गदर्शन आणि निर्णय घेण्याच्या संधीमुळे नेतृत्वगुण विकसित होतात."
+        },
+        {
+            "question_id": 140,
+            "question_type": "SHORT",
+            "question": "खेळातील परिश्रमाचे महत्त्व काय आहे?",
+            "answer": "परिश्रमाशिवाय कौशल्य आणि यश प्राप्त होत नाही."
+        },
+        {
+            "question_id": 141,
+            "question_type": "SHORT",
+            "question": "खेळातील आत्मनियंत्रण म्हणजे काय?",
+            "answer": "भावना आणि वर्तनावर नियंत्रण ठेवणे म्हणजे आत्मनियंत्रण."
+        },
+        {
+            "question_id": 142,
+            "question_type": "SHORT",
+            "question": "खेळातील स्पर्धात्मकता कशी घडते?",
+            "answer": "सराव आणि कौशल्य वाढल्याने स्पर्धात्मकता घडते."
+        },
+        {
+            "question_id": 143,
+            "question_type": "SHORT",
+            "question": "खेळ आणि जबाबदारी यांचा संबंध काय?",
+            "answer": "खेळाडू संघ, नियम आणि समाजाप्रती जबाबदारी स्वीकारतात."
+        },
+        {
+            "question_id": 144,
+            "question_type": "SHORT",
+            "question": "खेळातील सद्भावना म्हणजे काय?",
+            "answer": "प्रतिस्पर्ध्यांप्रती आदर आणि मैत्रीपूर्ण वर्तन म्हणजे सद्भावना."
+        },
+        {
+            "question_id": 145,
+            "question_type": "SHORT",
+            "question": "खेळ मुलांच्या विकासात कसा मदत करतो?",
+            "answer": "शारीरिक, मानसिक आणि सामाजिक वाढ घडवतो."
+        },
+        {
+            "question_id": 146,
+            "question_type": "SHORT",
+            "question": "खेळ आणि व्यक्तिमत्त्व विकास यांचा संबंध काय?",
+            "answer": "खेळातून आत्मविश्वास, संवादकौशल्य आणि नेतृत्व विकसित होते."
+        },
+        {
+            "question_id": 147,
+            "question_type": "SHORT",
+            "question": "खेळ स्पर्धा प्रेरणादायी का असतात?",
+            "answer": "स्पर्धा कौशल्य दाखवण्याची संधी देतात आणि प्रोत्साहन निर्माण करतात."
+        },
+        {
+            "question_id": 148,
+            "question_type": "SHORT",
+            "question": "खेळामध्ये नियमभंग टाळणे का आवश्यक आहे?",
+            "answer": "नियमभंगामुळे अन्याय होत असल्याने खेळाची गुणवत्ता कमी होते."
+        },
+        {
+            "question_id": 149,
+            "question_type": "SHORT",
+            "question": "खेळात वेळेचे भान का आवश्यक आहे?",
+            "answer": "स्पर्धा, सराव आणि संघनियोजनासाठी वेळेचे भान आवश्यक आहे."
+        },
+        {
+            "question_id": 150,
+            "question_type": "SHORT",
+            "question": "खेळांचा समाजजीवनावर काय परिणाम होतो?",
+            "answer": "खेळ सामाजिक ऐक्य, आरोग्य आणि सांस्कृतिक जाणीवा बळकट करतात."
+        },
+        {
+            "question_id": 151,
+            "question_type": "LONG",
+            "question": "खेळ आणि इतिहास यांच्यातील संबंध स्पष्ट करा.",
+            "answer": "खेळ आणि इतिहास यांचा परस्परांशी घनिष्ठ संबंध आहे कारण खेळ समाजाच्या सांस्कृतिक आणि सामाजिक जीवनाचे प्रतिबिंब दाखवतात. विविध कालखंडात खेळांची रूपे, नियम आणि पद्धती बदलत गेल्या आणि त्यातून त्या काळातील सामाजिक बदल समजतात. प्राचीन, मध्ययुगीन आणि आधुनिक काळातील खेळांच्या माध्यमातून जीवनशैली, लोकसंस्कृती आणि परंपरा अभ्यासता येतात. उत्खननातून सापडलेली खेळणी, शिल्पे आणि चित्रे इतिहासाची महत्त्वपूर्ण साधने ठरतात. त्यामुळे खेळांचा इतिहास अभ्यासल्याने समाजाच्या सर्वांगीण विकासाचा मागोवा घेता येतो."
+        },
+        {
+            "question_id": 152,
+            "question_type": "LONG",
+            "question": "खेळांमुळे व्यक्तिमत्त्व विकास कसा घडतो ते समजावून सांगा.",
+            "answer": "खेळांमुळे व्यक्तीमध्ये शिस्त, आत्मविश्वास आणि जबाबदारीची भावना विकसित होते. स्पर्धा आणि संघखेळांमुळे सहकार्य, समन्वय आणि नेतृत्वगुण वाढतात. पराभव स्वीकारताना संयम आणि सुधारणा करण्याची वृत्ती निर्माण होते. खेळांच्या माध्यमातून निर्णयक्षमता, धैर्य आणि स्वअनुशासन बळकट होते. त्यामुळे खेळ व्यक्तिमत्त्वाच्या सर्वांगीण विकासासाठी अत्यंत महत्त्वाचे साधन ठरतात."
+        },
+        {
+            "question_id": 153,
+            "question_type": "LONG",
+            "question": "प्राचीन काळातील खेळांचे सामाजिक महत्त्व स्पष्ट करा.",
+            "answer": "प्राचीन काळातील खेळ हे केवळ मनोरंजनाचे साधन नव्हते, तर सामाजिक आणि धार्मिक जीवनाचा महत्त्वपूर्ण भाग होते. ग्रीक ऑलिंपिक स्पर्धा देवतांच्या सन्मानार्थ आयोजित केल्या जात आणि त्या समाजातील एकता वाढवत. भारतीय देशी खेळ समाजातील समूहभावना आणि परंपरा जतन करत. खेळांमुळे लोकांना एकत्र येण्याची आणि आपापसांत संबंध दृढ करण्याची संधी मिळत होती. त्यामुळे प्राचीन काळातील खेळ समाजरचनेचा अविभाज्य घटक होते."
+        },
+        {
+            "question_id": 154,
+            "question_type": "LONG",
+            "question": "खेळांमध्ये शिस्त आणि नियमांचे महत्त्व स्पष्ट करा.",
+            "answer": "खेळांमध्ये शिस्त आणि नियमांचे पालन अत्यंत महत्त्वाचे असते कारण त्यातून स्पर्धेतील न्याय आणि समता टिकून राहते. नियमांमुळे खेळातील अव्यवस्था, वाद आणि अन्याय टाळले जातात. खेळाडू नियमित सराव, वेळेचे नियोजन आणि आचरणातील शिस्त पाळतात. शिस्तबद्ध खेळाडू संघासाठी आदर्श ठरतात आणि संघभावना मजबूत होते. त्यामुळे खेळांमध्ये शिस्त ही यश आणि प्रगतीची मूलभूत गरज मानली जाते."
+        },
+        {
+            "question_id": 155,
+            "question_type": "LONG",
+            "question": "खेळांचे आरोग्यदायी महत्त्व समजावून सांगा.",
+            "answer": "खेळांमुळे शरीराची तंदुरुस्ती, ताकद आणि सहनशक्ती वाढते. नियमित व्यायामामुळे रक्ताभिसरण सुधारते आणि रोगप्रतिकारशक्ती वाढते. खेळ मानसिक तणाव कमी करतात आणि मन प्रसन्न ठेवतात. यामुळे एकाग्रता, लक्ष आणि आत्मविश्वास वाढतो. म्हणूनच खेळ हे निरोगी आणि संतुलित जीवनासाठी आवश्यक मानले जातात."
+        },
+        {
+            "question_id": 156,
+            "question_type": "LONG",
+            "question": "खेळांच्या स्पर्धांचे सामाजिक महत्त्व स्पष्ट करा.",
+            "answer": "खेळांच्या स्पर्धा समाजात उत्साह, एकता आणि सहभागाची भावना निर्माण करतात. विविध वर्ग, भाषा आणि संस्कृतीतील लोक एकत्र येऊन स्पर्धा पाहतात आणि खेळाडूंना प्रोत्साहन देतात. स्पर्धांमुळे संघभावना, आरोग्यदायी स्पर्धा आणि परस्पर आदर वाढतो. या स्पर्धांमधून अनेक तरुणांना प्रेरणा मिळते आणि त्यांची प्रतिभा उजेडात येते. त्यामुळे खेळांच्या स्पर्धा समाजाच्या ऐक्यासाठी आणि प्रगतीसाठी महत्त्वपूर्ण ठरतात."
+        },
+        {
+            "question_id": 157,
+            "question_type": "LONG",
+            "question": "खेळातील पराभव माणसाला काय शिकवतो ते समजावून सांगा.",
+            "answer": "खेळातील पराभव हा शिकण्याची आणि सुधारण्याची एक महत्त्वाची संधी असते. पराभवातून व्यक्ती आत्मपरीक्षण करते आणि आपल्या चुका ओळखते. यामुळे मेहनत, संयम आणि धैर्य वाढते. पराभव स्वीकारताना नम्रता आणि सहनशीलता विकसित होते. त्यामुळे पराभव हा यशासाठी आवश्यक टप्पा ठरतो."
+        },
+        {
+            "question_id": 158,
+            "question_type": "LONG",
+            "question": "देशी खेळांचे सांस्कृतिक महत्त्व स्पष्ट करा.",
+            "answer": "देशी खेळ हे आपल्या परंपरा, जीवनशैली आणि लोकसंस्कृतीचे प्रतीक आहेत. कबड्डी, खो-खो, विटीदांडू, मल्लखांब यांसारखे खेळ ग्रामीण आणि शहरी समाजात समान महत्त्व राखतात. या खेळांमधून सहकार्य, धैर्य आणि शारीरिक कौशल्य विकसित होते. देशी खेळ पिढ्यान्-पिढ्या सांस्कृतिक वारसा टिकवून ठेवतात. त्यामुळे देशी खेळांचे जतन आणि संवर्धन करणे महत्त्वाचे आहे."
+        },
+        {
+            "question_id": 159,
+            "question_type": "LONG",
+            "question": "खेळांचे अर्थकारण बदलण्यामागील कारणे स्पष्ट करा.",
+            "answer": "आधुनिक काळात खेळांचे आंतरराष्ट्रीयीकरण झाले आणि त्यातून मोठे अर्थकारण विकसित झाले. दूरदर्शन, जाहिराती, प्रायोजक आणि व्यावसायिक लीग यामुळे खेळांना व्यापारी रूप मिळाले. खेळाडूंना करिअर संधी आणि आर्थिक लाभ उपलब्ध झाले. क्रीडा उद्योग, पर्यटन आणि उत्पादन क्षेत्र यांना गती मिळाली. त्यामुळे खेळ आज जागतिक अर्थव्यवस्थेचा महत्त्वपूर्ण घटक बनले आहेत."
+        },
+        {
+            "question_id": 160,
+            "question_type": "LONG",
+            "question": "खेळ आणि राष्ट्रीय अभिमान यांचा संबंध स्पष्ट करा.",
+            "answer": "आंतरराष्ट्रीय स्पर्धांमध्ये देशाचे खेळाडू उत्कृष्ट कामगिरी करतात तेव्हा राष्ट्राचा अभिमान वाढतो. पदके, विक्रम आणि कर्तृत्वामुळे देशाची ओळख जागतिक स्तरावर दृढ होते. नागरिकांमध्ये एकात्मता, प्रेरणा आणि राष्ट्रभक्तीची भावना निर्माण होते. तरुण पिढी खेळाडूंना आदर्श मानून प्रेरित होते. त्यामुळे खेळ राष्ट्रीय अभिमान आणि ओळख मजबूत करण्याचे प्रभावी साधन ठरतात."
+        },
+        {
+            "question_id": 161,
+            "question_type": "LONG",
+            "question": "खेळ आणि शिक्षण यांचा परस्परसंबंध स्पष्ट करा.",
+            "answer": "खेळ आणि शिक्षण हे परस्परपूरक घटक आहेत कारण दोन्ही व्यक्तीच्या सर्वांगीण विकासात योगदान देतात. शिक्षण ज्ञानविकास घडवते तर खेळ शारीरिक आणि मानसिक विकास साधतात. शाळांमध्ये खेळांमुळे शिस्त, नेतृत्व आणि संघभावना विकसित होते. अभ्यासासोबत खेळांचा समतोल विद्यार्थ्यांना निरोगी जीवनशैली शिकवतो. त्यामुळे खेळ शिक्षणाची अविभाज्य घटक मानले जातात."
+        },
+        {
+            "question_id": 162,
+            "question_type": "LONG",
+            "question": "खेळांमधील तंत्रज्ञानाची भूमिका स्पष्ट करा.",
+            "answer": "आधुनिक खेळांमध्ये तंत्रज्ञानाचा वापर निर्णय अचूक आणि न्याय्य करण्यासाठी केला जातो. व्हिडिओ रीप्ले, सेन्सर तंत्रज्ञान आणि टाइमिंग उपकरणे स्पर्धांमध्ये निष्पक्षता राखतात. प्रशिक्षणासाठी फिटनेस ट्रॅकिंग आणि विश्लेषणात्मक साधने वापरली जातात. प्रसारण तंत्रज्ञानामुळे खेळ जागतिक प्रेक्षकांपर्यंत पोहोचतात. त्यामुळे तंत्रज्ञानाने खेळांचे स्वरूप आणि गुणवत्ता दोन्ही सुधारली आहेत."
+        },
+        {
+            "question_id": 163,
+            "question_type": "LONG",
+            "question": "खेळांचा युवकांवर होणारा परिणाम स्पष्ट करा.",
+            "answer": "खेळ युवकांमध्ये ऊर्जा, आत्मविश्वास आणि सकारात्मक दृष्टीकोन निर्माण करतात. स्पर्धा आणि सरावामुळे शिस्त, परिश्रम आणि जबाबदारीची जाणीव वाढते. संघखेळांमधून सहकार्य, संवाद आणि नेतृत्वगुण विकसित होतात. खेळ युवकांना व्यसनांपासून दूर ठेवतात आणि निरोगी जीवनशैलीकडे वळवतात. त्यामुळे खेळ युवकांच्या व्यक्तिमत्त्व घडविण्यात महत्त्वाची भूमिका बजावतात."
+        },
+        {
+            "question_id": 164,
+            "question_type": "LONG",
+            "question": "खेळांचा सामाजिक एकात्मतेत कसा वाटा असतो?",
+            "answer": "खेळांमुळे विविध समाजघटकांतील लोक एकत्र येतात आणि सामूहिक सहभाग वाढतो. स्पर्धा, क्रीडा महोत्सव आणि स्पोर्ट्स लीगमध्ये लोकांमध्ये मैत्री, आदर आणि संवाद निर्माण होतो. जात, धर्म आणि वर्गभेद बाजूला ठेवून सर्वजण एकाच संघासाठी उत्साह व्यक्त करतात. त्यामुळे सामाजिक ऐक्य, समभाव आणि परस्पर विश्वास वाढतो. खेळ समाजातील ऐक्य दृढ करण्यासाठी महत्त्वपूर्ण ठरतात."
+        },
+        {
+            "question_id": 165,
+            "question_type": "LONG",
+            "question": "खेळांच्या इतिहासाचा अभ्यास कसा केला जातो ते स्पष्ट करा.",
+            "answer": "खेळांच्या इतिहासाचा अभ्यास विविध ऐतिहासिक पुराव्यांच्या आधारे केला जातो. उत्खननातून सापडलेली खेळणी, शिल्पे आणि उपकरणे त्याकाळातील खेळांची माहिती देतात. साहित्य, शिलालेख आणि प्राचीन ग्रंथांमधून खेळांची परंपरा समजते. आधुनिक खेळांच्या नोंदी, अहवाल आणि फोटोंचा अभ्यासही महत्त्वाचा असतो. त्यामुळे इतिहासकार संशोधनाद्वारे खेळांच्या विकासाचा सुसंगत आढावा घेतात."
+        },
+        {
+            "question_id": 166,
+            "question_type": "LONG",
+            "question": "खेळांमधील नेतृत्वगुणांचे महत्त्व स्पष्ट करा.",
+            "answer": "संघखेळांमध्ये नेतृत्वगुण खेळाडूंना मार्गदर्शन, प्रेरणा आणि दिशा देण्याचे कार्य करतात. संघनेता सहकाऱ्यांमध्ये समन्वय राखतो आणि योग्य निर्णय घेतो. नेतृत्वामुळे जबाबदारीची भावना, आत्मविश्वास आणि निर्णयक्षमता वाढते. खेळातून विकसित झालेले नेतृत्वगुण सामाजिक आणि व्यावसायिक जीवनातही उपयोगी पडतात. त्यामुळे खेळ नेतृत्वगुणांच्या विकासासाठी प्रभावी माध्यम ठरतात."
+        },
+        {
+            "question_id": 167,
+            "question_type": "LONG",
+            "question": "खेळातील क्रीडाभाव म्हणजे काय? सविस्तर लिहा.",
+            "answer": "क्रीडाभाव म्हणजे प्रामाणिकपणे, नियमांचे पालन करून आणि आदरपूर्वक खेळण्याची वृत्ती. यात विजयाने अहंकार न बाळगणे आणि पराभव नम्रतेने स्विकारणे यांचा समावेश होतो. प्रतिस्पर्ध्याप्रती आदर आणि न्याय्य वर्तन राखणे ही त्याची महत्त्वाची वैशिष्ट्ये आहेत. क्रीडाभावामुळे मैत्री, सहकार्य आणि सद्भावना वाढते. त्यामुळे क्रीडाभाव हा खेळांचा आत्मा मानला जातो."
+        },
+        {
+            "question_id": 168,
+            "question_type": "LONG",
+            "question": "खेळातील सरावाचे महत्त्व स्पष्ट करा.",
+            "answer": "सरावामुळे खेळाडूंची कौशल्ये, गती आणि समन्वय विकसित होतो. नियमित सरावाने शारीरिक तंदुरुस्ती आणि सहनशक्ती वाढते. सरावात चुका ओळखून सुधारणा करण्याची संधी मिळते. कठोर परिश्रम आणि सातत्यामुळे खेळाडूंची स्पर्धात्मकता बळकट होते. त्यामुळे खेळातील यशासाठी सराव हा आधारस्तंभ मानला जातो."
+        },
+        {
+            "question_id": 169,
+            "question_type": "LONG",
+            "question": "खेळांचा मानसिक विकासावर होणारा परिणाम स्पष्ट करा.",
+            "answer": "खेळ मानसिक तणाव कमी करून मन प्रसन्न ठेवतात. स्पर्धा आणि सरावामुळे आत्मविश्वास, धैर्य आणि प्रेरणा वाढते. खेळांमुळे निर्णयक्षमता आणि समस्या सोडवण्याची क्षमता विकसित होते. पराभव आणि यश या दोन्हीतून भावनिक समतोल साधला जातो. त्यामुळे खेळ मानसिक विकासासाठी अत्यंत उपयुक्त ठरतात."
+        },
+        {
+            "question_id": 170,
+            "question_type": "LONG",
+            "question": "खेळात वेळेचे नियोजन का आवश्यक आहे ते समजावून सांगा.",
+            "answer": "खेळाडूंना सराव, स्पर्धा आणि शिक्षण यांचा समतोल साधण्यासाठी वेळेचे नियोजन करावे लागते. नियमित वेळापत्रकामुळे शिस्त आणि सातत्य राखले जाते. वेळेचे व्यवस्थापन केल्याने कार्यक्षमतेत वाढ होते. स्पर्धांमध्ये योग्य वेळी निर्णय घेणेही महत्त्वाचे असते. त्यामुळे खेळाडूंसाठी वेळेचे नियोजन हा यशस्वी जीवनाचा महत्त्वपूर्ण घटक ठरतो."
+        },
+        {
+            "question_id": 171,
+            "question_type": "LONG",
+            "question": "खेळातील मैत्रीभावाचे महत्त्व स्पष्ट करा.",
+            "answer": "खेळातील मैत्रीभाव हा स्पर्धेपेक्षा परस्पर सन्मान आणि आदर जपण्यावर आधारित असतो. प्रतिस्पर्धी असूनही खेळाडू एकमेकांना सहकार्य आणि मदत करतात. यामुळे सामाजिक संबंध दृढ होतात आणि ऐक्य वाढते. मैत्रीभावामुळे द्वेष, राग आणि मतभेद कमी होतात. त्यामुळे खेळातील मैत्रीभाव सामाजिक समन्वयासाठी अत्यंत महत्त्वाचा ठरतो."
+        },
+        {
+            "question_id": 172,
+            "question_type": "LONG",
+            "question": "खेळांमध्ये प्रेरणादायी व्यक्तिमत्त्वांची भूमिका स्पष्ट करा.",
+            "answer": "प्रेरणादायी खेळाडू नवीन पिढीसाठी आदर्श ठरतात. त्यांच्या परिश्रम, संघर्ष आणि यशकथांमधून तरुणांना प्रेरणा मिळते. ते समाजात सकारात्मक दृष्टीकोन आणि आत्मविश्वास निर्माण करतात. त्यांचे कर्तृत्व राष्ट्राच्या अभिमानाला बळकटी देते. त्यामुळे प्रेरणादायी व्यक्तिमत्त्वे खेळविकासात महत्त्वाची भूमिका बजावतात."
+        },
+        {
+            "question_id": 173,
+            "question_type": "LONG",
+            "question": "खेळांच्या माध्यमातून सामाजिक समानता कशी वाढते?",
+            "answer": "खेळांमध्ये विविध सामाजिक स्तरातील लोक एकत्र सहभागी होतात. स्पर्धा आणि सरावामुळे भेदभाव कमी होऊन समभाव वाढतो. सर्वांना समान संधी मिळाल्याने सामाजिक समता मजबूत होते. खेळांच्या मैदानावर कौशल्याला प्राधान्य मिळते, सामाजिक स्थानाला नाही. त्यामुळे खेळ सामाजिक समानतेसाठी प्रभावी साधन ठरतात."
+        },
+        {
+            "question_id": 174,
+            "question_type": "LONG",
+            "question": "खेळांमधील व्यावसायिक संधी स्पष्ट करा.",
+            "answer": "आधुनिक काळात खेळांमधून अनेक व्यावसायिक संधी निर्माण झाल्या आहेत. खेळाडू, प्रशिक्षक, पंच, व्यवस्थापक आणि क्रीडा विश्लेषक अशी अनेक क्षेत्रे उपलब्ध झाली. क्रीडा पत्रकारिता, प्रसारण, विपणन आणि जाहिरात क्षेत्रालाही संधी मिळाली. क्रीडा उपकरणे, पोशाख आणि फिटनेस उद्योगांचा विकास झाला. त्यामुळे खेळ रोजगारनिर्मिती आणि अर्थव्यवस्थेसाठी महत्त्वपूर्ण ठरले आहेत."
+        },
+        {
+            "question_id": 175,
+            "question_type": "LONG",
+            "question": "खेळांमध्ये स्पर्धात्मकता का आवश्यक आहे ते स्पष्ट करा.",
+            "answer": "स्पर्धात्मकता खेळाडूंना प्रगती आणि उत्कृष्टतेकडे वाटचाल करण्यास प्रेरित करते. स्पर्धेमुळे कौशल्य, गती आणि परिश्रमात वाढ होते. आरोग्यदायी स्पर्धा व्यक्तीमध्ये आत्मविश्वास आणि धैर्य निर्माण करते. संघ आणि खेळाडू दोघांचेही कार्यक्षमता वाढते. त्यामुळे स्पर्धात्मकता ही खेळांचा प्रेरणास्रोत ठरते."
+        },
+        {
+            "question_id": 176,
+            "question_type": "LONG",
+            "question": "खेळ आणि राष्ट्रनिर्मिती यांचा संबंध स्पष्ट करा.",
+            "answer": "खेळ राष्ट्राच्या एकात्मतेला आणि सामाजिक बांधिलकीला बळकटी देतात. आंतरराष्ट्रीय खेळांमधील यश देशाची प्रतिमा आणि सन्मान वाढवते. युवा पिढीत शिस्त, कर्तृत्व आणि जबाबदारीची भावना निर्माण होते. खेळ राष्ट्रीय एकात्मतेचे प्रतीक बनतात आणि नागरिकांमध्ये अभिमान वाढवतात. त्यामुळे खेळ राष्ट्रनिर्मिती प्रक्रियेत महत्त्वपूर्ण भूमिका बजावतात."
+        },
+        {
+            "question_id": 177,
+            "question_type": "LONG",
+            "question": "खेळांमध्ये पंचांची भूमिका सविस्तर स्पष्ट करा.",
+            "answer": "पंच खेळातील नियमांचे पालन होत आहे का यावर लक्ष ठेवतात. ते निष्पक्षपणे निर्णय देतात आणि वाद टाळतात. स्पर्धा शिस्तबद्ध आणि न्याय्य पद्धतीने पार पडण्याची जबाबदारी त्यांची असते. योग्य प्रशिक्षण आणि पात्रतेमुळे पंच खेळाच्या गुणवत्तेत भर घालतात. त्यामुळे पंच ही खेळातील महत्त्वाची आणि जबाबदारीची भूमिका असते."
+        },
+        {
+            "question_id": 178,
+            "question_type": "LONG",
+            "question": "खेळ आणि आरोग्यदायी जीवनशैली यांचा संबंध स्पष्ट करा.",
+            "answer": "खेळ नियमित व्यायामाची सवय लावतात आणि शरीर तंदुरुस्त ठेवतात. खेळांमुळे वजन नियंत्रण, लवचिकता आणि स्नायूंची ताकद वाढते. मानसिक आरोग्य सुधारते आणि तणाव कमी होतो. व्यसनांपासून दूर राहण्याची प्रेरणा मिळते. त्यामुळे खेळ आरोग्यदायी आणि संतुलित जीवनशैली घडवतात."
+        },
+        {
+            "question_id": 179,
+            "question_type": "LONG",
+            "question": "खेळांमधील टीमवर्कचे महत्त्व स्पष्ट करा.",
+            "answer": "संघखेळांमध्ये टीमवर्कमुळे सहकार्य, समन्वय आणि विश्वास निर्माण होतो. प्रत्येक खेळाडू आपली भूमिका जबाबदारीने पार पाडतो. संघातील ऐक्यामुळे कार्यक्षमतेत वाढ होते आणि यशाची शक्यता वाढते. टीमवर्कमुळे व्यक्तीपेक्षा समूहाचे महत्त्व अधोरेखित होते. त्यामुळे टीमवर्क हा खेळातील यशाचा मुख्य घटक आहे."
+        },
+        {
+            "question_id": 180,
+            "question_type": "LONG",
+            "question": "खेळातील नैतिक मूल्यांचे महत्त्व स्पष्ट करा.",
+            "answer": "खेळात प्रामाणिकपणा, शिस्त आणि न्याय ही नैतिक मूल्ये अत्यंत महत्त्वाची असतात. ही मूल्ये खेळातील गुणवत्ता आणि विश्वास टिकवतात. नैतिक मूल्यांमुळे खेळाडूमध्ये आदर्श व्यक्तिमत्त्व घडते. स्पर्धा सकारात्मक आणि आरोग्यदायी वातावरणात पार पडते. त्यामुळे नैतिक मूल्ये खेळ संस्कृतीचा आधारस्तंभ ठरतात."
+        },
+        {
+            "question_id": 181,
+            "question_type": "LONG",
+            "question": "खेळांमुळे सामाजिक विकास कसा साध्य होतो?",
+            "answer": "खेळांमुळे समाजात सहभाग, एकात्मता आणि परस्पर सहकार्य वाढते. विविध स्तरातील लोकांना समान संधी मिळते. खेळ सामाजिक संवाद आणि सांस्कृतिक देवघेव घडवतात. आरोग्य, शिस्त आणि सकारात्मक विचार वाढल्याने समाज प्रगत होतो. त्यामुळे खेळ सामाजिक विकासासाठी उपयुक्त साधन आहे."
+        },
+        {
+            "question_id": 182,
+            "question_type": "LONG",
+            "question": "खेळ आणि महिलांचा सहभाग याबाबत चर्चा करा.",
+            "answer": "आधुनिक काळात महिलांचा खेळांमधील सहभाग मोठ्या प्रमाणात वाढला आहे. क्रीडा क्षेत्रात महिलांनी अनेक विक्रम आणि यश संपादन केले आहे. त्यांच्या सहभागामुळे लैंगिक समानतेची जाणीव मजबूत झाली आहे. समाजातील पूर्वग्रह कमी होऊन महिलांना नवीन संधी मिळत आहेत. त्यामुळे महिला क्रीडापटू समाजातील प्रेरणादायी आदर्श ठरल्या आहेत."
+        },
+        {
+            "question_id": 183,
+            "question_type": "LONG",
+            "question": "खेळांच्या माध्यमातून शिस्त आणि जबाबदारी कशी विकसित होते?",
+            "answer": "खेळाडूंना नियमित सराव, आहार आणि वेळापत्रकाचे पालन करावे लागते. यामुळे शिस्तबद्ध जीवनशैली तयार होते. संघखेळामुळे समूह आणि जबाबदारीची जाणीव वाढते. खेळाडू स्वतःच्या आणि संघाच्या कामगिरीबद्दल जबाबदार वाटू लागतात. त्यामुळे खेळ शिस्त आणि जबाबदारी विकसित करण्याचे प्रभावी साधन ठरतात."
+        },
+        {
+            "question_id": 184,
+            "question_type": "LONG",
+            "question": "खेळात निर्णयक्षमतेचे महत्त्व स्पष्ट करा.",
+            "answer": "खेळांमध्ये अनेक प्रसंगी वेगवान आणि योग्य निर्णय घ्यावे लागतात. त्यामुळे खेळाडूंची निरीक्षण शक्ती आणि विचारप्रक्रिया तीक्ष्ण होते. निर्णयक्षमतेच्या विकासामुळे स्पर्धात्मकता वाढते. जीवनातील इतर क्षेत्रांतही ही क्षमता उपयोगी ठरते. म्हणून निर्णयक्षमता ही खेळातून विकसित होणारी महत्त्वाची कौशल्ये आहेत."
+        },
+        {
+            "question_id": 185,
+            "question_type": "LONG",
+            "question": "खेळांमध्ये आदर्श व्यक्तिमत्त्वांचा प्रभाव स्पष्ट करा.",
+            "answer": "आदर्श खेळाडू समाजात प्रेरक भूमिका बजावतात. त्यांच्या मेहनतीने, संघर्षाने आणि यशाने तरुणांना प्रेरणा मिळते. ते राष्ट्राच्या अभिमानाचे प्रतीक बनतात. त्यांच्या जीवनातून शिस्त, परिश्रम आणि आत्मविश्वास शिकायला मिळतो. त्यामुळे आदर्श व्यक्तिमत्त्वे खेळसंस्कृती घडविण्यात महत्त्वाची ठरतात."
+        },
+        {
+            "question_id": 186,
+            "question_type": "LONG",
+            "question": "खेळ आणि मानसिक सामर्थ्य यांचा संबंध स्पष्ट करा.",
+            "answer": "खेळांमुळे आत्मविश्वास, धैर्य आणि मानसिक स्थैर्य वाढते. स्पर्धेत ताणतणाव सांभाळण्याची क्षमता विकसित होते. यश आणि पराभव दोन्ही अनुभवातून मानसिक संतुलन निर्माण होते. धैर्य, संयम आणि दृढनिश्चय बळकट होतो. त्यामुळे खेळ मानसिक सामर्थ्य विकसित करण्यासाठी उपयुक्त ठरतात."
+        },
+        {
+            "question_id": 187,
+            "question_type": "LONG",
+            "question": "खेळांमध्ये समन्वय आणि सहकार्याचे महत्त्व स्पष्ट करा.",
+            "answer": "संघखेळांमध्ये प्रत्येक खेळाडूला आपली भूमिका समन्वयाने पार पाडावी लागते. सहकार्यामुळे संघातील विश्वास आणि एकात्मता वाढते. समन्वयित खेळामुळे संघाची कामगिरी सुधारते. सहकार्यामुळे स्वार्थी वृत्ती कमी होते आणि समूहभावना वाढते. त्यामुळे समन्वय आणि सहकार्य हे खेळांचे प्रमुख आधारस्तंभ आहेत."
+        },
+        {
+            "question_id": 188,
+            "question_type": "LONG",
+            "question": "खेळातील शारीरिक तंदुरुस्तीचे महत्त्व स्पष्ट करा.",
+            "answer": "खेळांमुळे शरीराची लवचिकता, ताकद आणि सहनशक्ती वाढते. नियमित खेळाने हृदय आणि फुफ्फुसे सशक्त होतात. स्थूलपणा आणि आजारांचा धोका कमी होतो. शरीराची चपळता आणि कार्यक्षमता वाढते. त्यामुळे खेळ शारीरिक तंदुरुस्तीचा महत्त्वपूर्ण मार्ग ठरतो."
+        },
+        {
+            "question_id": 189,
+            "question_type": "LONG",
+            "question": "खेळांचा सांस्कृतिक वारसा जपण्यात कसा उपयोग होतो?",
+            "answer": "देशी खेळ स्थानिक परंपरा आणि लोकसंस्कृतीचे प्रतीक आहेत. पिढ्यान्-पिढ्या खेळ चालत आल्याने सांस्कृतिक परंपरा जपल्या जातात. सण, उत्सव आणि ग्रामसंस्कृतीत खेळांना विशेष स्थान असते. या खेळांमधून समाजाची मूल्यव्यवस्था दृढ होते. त्यामुळे खेळ सांस्कृतिक वारसा जपणारे माध्यम ठरतात."
+        },
+        {
+            "question_id": 190,
+            "question_type": "LONG",
+            "question": "खेळांमधील प्रामाणिकपणाचे महत्त्व समजावून सांगा.",
+            "answer": "खेळामध्ये प्रामाणिकपणा हा न्याय आणि विश्वास टिकवण्यासाठी आवश्यक असतो. नियमांचे उल्लंघन केल्यास खेळाची गुणवत्ता कमी होते. प्रामाणिकपणामुळे खेळाडूंची प्रतिमा आणि विश्वासार्हता वाढते. स्पर्धा निरोगी आणि सकारात्मक वातावरणात पार पडते. त्यामुळे प्रामाणिकपणा हा खेळातील मूलभूत मूल्य आहे."
+        },
+        {
+            "question_id": 191,
+            "question_type": "LONG",
+            "question": "खेळ आणि समाजातील ऐक्य यांचा संबंध स्पष्ट करा.",
+            "answer": "खेळांमुळे विविध समाजघटकांतील लोक एकत्र येतात आणि समान मंच मिळतो. स्पर्धांमुळे सामूहिक भावना आणि राष्ट्रीय एकात्मता वाढते. विविध भाषिक आणि सांस्कृतिक समूहांमध्ये परस्पर आदर निर्माण होतो. खेळ समाजातील दुरावा कमी करून मैत्रीभाव वाढवतात. त्यामुळे खेळ सामाजिक ऐक्यासाठी प्रभावी ठरतात."
+        },
+        {
+            "question_id": 192,
+            "question_type": "LONG",
+            "question": "खेळांचा आर्थिक विकासावर होणारा परिणाम स्पष्ट करा.",
+            "answer": "खेळांमुळे क्रीडा उद्योग, पर्यटन आणि उत्पादन क्षेत्राचा विकास होतो. स्टेडियम, प्रशिक्षण केंद्रे आणि क्रीडा सुविधा निर्माण होतात. रोजगाराच्या नवीन संधी उपलब्ध होतात. जाहिरात, प्रसारण आणि प्रायोजकत्व क्षेत्राला गती मिळते. त्यामुळे खेळ आर्थिक विकासात महत्त्वाची भूमिका बजावतात."
+        },
+        {
+            "question_id": 193,
+            "question_type": "LONG",
+            "question": "खेळातील स्पर्धा व्यक्तिमत्त्व घडविण्यात कशा मदत करतात?",
+            "answer": "स्पर्धांमुळे प्रयत्न, परिश्रम आणि संघर्ष करण्याची सवय लागते. खेळाडू स्वतःच्या क्षमतांची जाणीव करून घेतो. पराभवातून नम्रता आणि सुधारण्याची वृत्ती विकसित होते. विजयातून आत्मविश्वास आणि कर्तृत्वाची भावना बळकट होते. त्यामुळे खेळातील स्पर्धा व्यक्तिमत्त्व विकासासाठी महत्त्वपूर्ण ठरतात."
+        },
+        {
+            "question_id": 194,
+            "question_type": "LONG",
+            "question": "खेळांमधील शैक्षणिक मूल्ये स्पष्ट करा.",
+            "answer": "खेळांमधून शिस्त, सहकार्य आणि स्वअनुशासन यांसारखी मूल्ये विकसित होतात. निर्णयक्षमता, जबाबदारी आणि नेतृत्वगुण बळकट होतात. खेळ विद्यार्थ्यांमध्ये आत्मविश्वास आणि सामाजिक कौशल्ये वाढवतात. आरोग्यदायी वृत्ती आणि सकारात्मक दृष्टिकोन विकसित होतो. त्यामुळे खेळांचे शैक्षणिक महत्त्व अत्यंत मोठे आहे."
+        },
+        {
+            "question_id": 195,
+            "question_type": "LONG",
+            "question": "खेळांमधील साहसभावना कशी विकसित होते ते स्पष्ट करा.",
+            "answer": "साहसी खेळांमध्ये धैर्य, जोखीम स्वीकारण्याची वृत्ती आणि धाडस वाढते. खेळाडू आव्हानांचा सामना करण्यास तयार होतो. अडचणींवर मात करताना मानसिक आणि शारीरिक क्षमता विकसित होते. साहसभावनेमुळे आत्मविश्वास आणि दृढनिश्चय वाढतो. त्यामुळे खेळ साहसभावना घडविण्यास मदत करतात."
+        },
+        {
+            "question_id": 196,
+            "question_type": "LONG",
+            "question": "खेळांमध्ये मूल्यशिक्षणाची कशी जडणघडण होते?",
+            "answer": "खेळांमधून प्रामाणिकपणा, शिस्त आणि सहकार्य यांसारखी मूल्ये शिकवली जातात. संघखेळांमुळे एकमेकांप्रती आदर आणि सहनशीलता वाढते. स्पर्धेमुळे संयम आणि आत्मनियंत्रणाची भावना विकसित होते. ही मूल्ये जीवनाच्या इतर क्षेत्रांतही उपयोगी पडतात. त्यामुळे खेळ मूल्यशिक्षणाचे प्रभावी माध्यम ठरतात."
+        },
+        {
+            "question_id": 197,
+            "question_type": "LONG",
+            "question": "खेळांमधील उत्साह आणि प्रेरणाशक्तीचे महत्त्व स्पष्ट करा.",
+            "answer": "खेळांमध्ये सहभाग घेतल्याने व्यक्तीमध्ये उत्साह आणि जीवनप्रेमाची भावना वाढते. स्पर्धा आणि यशामुळे प्रेरणा निर्माण होते. प्रेरणाशक्तीमुळे खेळाडू अधिक परिश्रम आणि सराव करतो. जीवनातील आव्हानांना सामोरे जाण्याची ताकद मिळते. त्यामुळे उत्साह आणि प्रेरणा खेळांना अर्थपूर्ण बनवतात."
+        },
+        {
+            "question_id": 198,
+            "question_type": "LONG",
+            "question": "खेळातील संघभावना व्यक्तीच्या विकासात कशी उपयुक्त ठरते?",
+            "answer": "संघभावनेमुळे व्यक्ती सहकार्य, समन्वय आणि परस्पर आदर शिकते. समूहात काम करताना जबाबदारीची जाणीव निर्माण होते. संघातील यश आणि अपयश दोन्ही सामायिक करून घेण्याची वृत्ती विकसित होते. ही वृत्ती सामाजिक आणि व्यावसायिक जीवनातही उपयुक्त ठरते. त्यामुळे संघभावना व्यक्तिमत्त्व विकासासाठी महत्त्वाची आहे."
+        },
+        {
+            "question_id": 199,
+            "question_type": "LONG",
+            "question": "खेळ आणि सकारात्मक विचारसरणी यांचा संबंध स्पष्ट करा.",
+            "answer": "खेळांमुळे व्यक्तीमध्ये आत्मविश्वास, धैर्य आणि सकारात्मक दृष्टिकोन निर्माण होतो. स्पर्धा जिंकण्याची प्रेरणा आणि पराभवातून शिकण्याची वृत्ती विकसित होते. खेळ जीवनाकडे संघर्षशील आणि आनंदी दृष्टीकोन देतात. सकारात्मक विचारसरणीमुळे जीवनातील अडथळे पार करणे सोपे होते. त्यामुळे खेळ सकारात्मक व्यक्तिमत्त्व घडवतात."
+        },
+        {
+            "question_id": 200,
+            "question_type": "LONG",
+            "question": "खेळांचा समाजावर एकूण काय परिणाम होतो ते स्पष्ट करा.",
+            "answer": "खेळांमुळे समाजात आरोग्य, उत्साह आणि एकात्मता निर्माण होते. विविध वर्गांतील लोकांमध्ये सहकार्य आणि ऐक्य वाढते. खेळ सांस्कृतिक वारसा, मूल्यव्यवस्था आणि सामाजिक समता जपतात. आर्थिक, शैक्षणिक आणि मानसिक विकासालाही खेळ हातभार लावतात. त्यामुळे खेळ समाजजीवन समृद्ध आणि सुगठित बनवतात."
+        }
+    ]
+}
