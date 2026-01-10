@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.16",
+    "standard": "4",
+    "subject": "परिसर अभ्यास (भाग १)",
+    "medium": "Marathi",
+    "chapter_name": "दिवस व रात्र"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पृथ्वीला प्रकाश कोठून मिळतो?",
+      "options": [
+        { "option_id": 1, "text": "चंद्रापासून", "is_correct": false },
+        { "option_id": 2, "text": "ताऱ्यांपासून", "is_correct": false },
+        { "option_id": 3, "text": "सूर्यापासून", "is_correct": true },
+        { "option_id": 4, "text": "विजेपासून", "is_correct": false }
+      ],
+      "answer": "सूर्यापासून"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा आकार कशासारखा आहे?",
+      "options": [
+        { "option_id": 1, "text": "चौकोनी", "is_correct": false },
+        { "option_id": 2, "text": "भल्याथोरल्या चेंडूसारखा गोल", "is_correct": true },
+        { "option_id": 3, "text": "सपाट", "is_correct": false },
+        { "option_id": 4, "text": "त्रिकोणी", "is_correct": false }
+      ],
+      "answer": "भल्याथोरल्या चेंडूसारखा गोल"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सूर्याचा प्रकाश एका वेळी पृथ्वीच्या किती भागावर पडतो?",
+      "options": [
+        { "option_id": 1, "text": "संपूर्ण", "is_correct": false },
+        { "option_id": 2, "text": "पाव", "is_correct": false },
+        { "option_id": 3, "text": "अर्ध्या", "is_correct": true },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "अर्ध्या"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ज्या भागावर सूर्याचा प्रकाश पडतो, तेथे काय असते?",
+      "options": [
+        { "option_id": 1, "text": "रात्र", "is_correct": false },
+        { "option_id": 2, "text": "दिवस", "is_correct": true },
+        { "option_id": 3, "text": "संध्याकाळ", "is_correct": false },
+        { "option_id": 4, "text": "पहाट", "is_correct": false }
+      ],
+      "answer": "दिवस"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "ज्या भागावर सूर्याचा प्रकाश पोहोचत नाही, तेथे काय असते?",
+      "options": [
+        { "option_id": 1, "text": "दिवस", "is_correct": false },
+        { "option_id": 2, "text": "दुपार", "is_correct": false },
+        { "option_id": 3, "text": "रात्र", "is_correct": true },
+        { "option_id": 4, "text": "सकाळ", "is_correct": false }
+      ],
+      "answer": "रात्र"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पृथ्वी कोणाभोवती फिरते?",
+      "options": [
+        { "option_id": 1, "text": "चंद्राभोवती", "is_correct": false },
+        { "option_id": 2, "text": "स्वतःभोवती", "is_correct": true },
+        { "option_id": 3, "text": "ताऱ्याभोवती", "is_correct": false },
+        { "option_id": 4, "text": "ढगांभोवती", "is_correct": false }
+      ],
+      "answer": "स्वतःभोवती"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या स्वतःभोवती फिरण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रदक्षिणा", "is_correct": false },
+        { "option_id": 2, "text": "परिभ्रमण", "is_correct": false },
+        { "option_id": 3, "text": "परिवलन", "is_correct": true },
+        { "option_id": 4, "text": "पर्यटन", "is_correct": false }
+      ],
+      "answer": "परिवलन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "दिवस आणि रात्र कशामुळे होतात?",
+      "options": [
+        { "option_id": 1, "text": "सूर्य फिरल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "पृथ्वीच्या परिवलनामुळे", "is_correct": true },
+        { "option_id": 3, "text": "चंद्रामुळे", "is_correct": false },
+        { "option_id": 4, "text": "ढगांमुळे", "is_correct": false }
+      ],
+      "answer": "पृथ्वीच्या परिवलनामुळे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सूर्य कोणत्या दिशेला उगवतो?",
+      "options": [
+        { "option_id": 1, "text": "पश्चिम", "is_correct": false },
+        { "option_id": 2, "text": "उत्तर", "is_correct": false },
+        { "option_id": 3, "text": "पूर्व", "is_correct": true },
+        { "option_id": 4, "text": "दक्षिण", "is_correct": false }
+      ],
+      "answer": "पूर्व"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सूर्य कोणत्या दिशेला मावळतो?",
+      "options": [
+        { "option_id": 1, "text": "पूर्व", "is_correct": false },
+        { "option_id": 2, "text": "पश्चिम", "is_correct": true },
+        { "option_id": 3, "text": "उत्तर", "is_correct": false },
+        { "option_id": 4, "text": "दक्षिण", "is_correct": false }
+      ],
+      "answer": "पश्चिम"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "एक दिवस म्हणजे किती तास?",
+      "options": [
+        { "option_id": 1, "text": "१२ तास", "is_correct": false },
+        { "option_id": 2, "text": "२४ तास", "is_correct": true },
+        { "option_id": 3, "text": "६ तास", "is_correct": false },
+        { "option_id": 4, "text": "१८ तास", "is_correct": false }
+      ],
+      "answer": "२४ तास"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "रोजच्या रोज १२ तासांचा दिवस आणि १२ तासांची रात्र असते का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त उन्हाळ्यात", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कोणत्या तारखांना दिवस आणि रात्र १२-१२ तासांचे (समान) असतात?",
+      "options": [
+        { "option_id": 1, "text": "२१ मार्च आणि २२ सप्टेंबर", "is_correct": true },
+        { "option_id": 2, "text": "२१ जून आणि २२ डिसेंबर", "is_correct": false },
+        { "option_id": 3, "text": "१ जानेवारी आणि ३१ डिसेंबर", "is_correct": false },
+        { "option_id": 4, "text": "१५ ऑगस्ट आणि २६ जानेवारी", "is_correct": false }
+      ],
+      "answer": "२१ मार्च आणि २२ सप्टेंबर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "२१ जून रोजी आपल्याकडे काय असते?",
+      "options": [
+        { "option_id": 1, "text": "सर्वात लहान दिवस", "is_correct": false },
+        { "option_id": 2, "text": "सर्वात मोठा दिवस", "is_correct": true },
+        { "option_id": 3, "text": "समान दिवस-रात्र", "is_correct": false },
+        { "option_id": 4, "text": "रात्रच नसते", "is_correct": false }
+      ],
+      "answer": "सर्वात मोठा दिवस"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "२२ डिसेंबर रोजी आपल्याकडे काय असते?",
+      "options": [
+        { "option_id": 1, "text": "सर्वात मोठा दिवस", "is_correct": false },
+        { "option_id": 2, "text": "सर्वात लहान दिवस", "is_correct": true },
+        { "option_id": 3, "text": "समान दिवस-रात्र", "is_correct": false },
+        { "option_id": 4, "text": "दिवसच नसतो", "is_correct": false }
+      ],
+      "answer": "सर्वात लहान दिवस"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "दिवस मोठा आणि रात्र लहान असल्यास कोणता ऋतू असतो?",
+      "options": [
+        { "option_id": 1, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 2, "text": "उन्हाळा", "is_correct": true },
+        { "option_id": 3, "text": "पावसाळा", "is_correct": false },
+        { "option_id": 4, "text": "शरद", "is_correct": false }
+      ],
+      "answer": "उन्हाळा"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "दिवस लहान आणि रात्र मोठी असल्यास कोणता ऋतू असतो?",
+      "options": [
+        { "option_id": 1, "text": "उन्हाळा", "is_correct": false },
+        { "option_id": 2, "text": "हिवाळा", "is_correct": true },
+        { "option_id": 3, "text": "पावसाळा", "is_correct": false },
+        { "option_id": 4, "text": "वसंत", "is_correct": false }
+      ],
+      "answer": "हिवाळा"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "२१ जून ते २२ सप्टेंबर या काळात दिवस कसा होत जातो?",
+      "options": [
+        { "option_id": 1, "text": "मोठा होत जातो", "is_correct": false },
+        { "option_id": 2, "text": "लहान होत जातो", "is_correct": true },
+        { "option_id": 3, "text": "समान राहतो", "is_correct": false },
+        { "option_id": 4, "text": "बदलत नाही", "is_correct": false }
+      ],
+      "answer": "लहान होत जातो"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "२२ डिसेंबर ते २१ मार्च या काळात दिवस कसा होत जातो?",
+      "options": [
+        { "option_id": 1, "text": "लहान होत जातो", "is_correct": false },
+        { "option_id": 2, "text": "मोठा होत जातो", "is_correct": true },
+        { "option_id": 3, "text": "समान राहतो", "is_correct": false },
+        { "option_id": 4, "text": "बदलत नाही", "is_correct": false }
+      ],
+      "answer": "मोठा होत जातो"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सूर्य पृथ्वीभोवती फिरतो का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही, हा केवळ भास आहे", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "माहीत नाही", "is_correct": false }
+      ],
+      "answer": "नाही, हा केवळ भास आहे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "नोव्हेंबर महिन्यात सूर्योदय कसा होतो?",
+      "options": [
+        { "option_id": 1, "text": "लवकर", "is_correct": false },
+        { "option_id": 2, "text": "उशिरा", "is_correct": true },
+        { "option_id": 3, "text": "वेळेवर", "is_correct": false },
+        { "option_id": 4, "text": "दुपारी", "is_correct": false }
+      ],
+      "answer": "उशिरा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "मे महिन्यात सूर्यास्त कसा होतो?",
+      "options": [
+        { "option_id": 1, "text": "लवकर", "is_correct": false },
+        { "option_id": 2, "text": "उशिरा", "is_correct": true },
+        { "option_id": 3, "text": "वेळेवर", "is_correct": false },
+        { "option_id": 4, "text": "सकाळी", "is_correct": false }
+      ],
+      "answer": "उशिरा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सूर्य उगवण्याच्या वेळेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सूर्यास्त", "is_correct": false },
+        { "option_id": 2, "text": "सूर्योदय", "is_correct": true },
+        { "option_id": 3, "text": "दुपार", "is_correct": false },
+        { "option_id": 4, "text": "मध्यरात्र", "is_correct": false }
+      ],
+      "answer": "सूर्योदय"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सूर्य मावळण्याच्या वेळेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सूर्योदय", "is_correct": false },
+        { "option_id": 2, "text": "सूर्यास्त", "is_correct": true },
+        { "option_id": 3, "text": "पहाट", "is_correct": false },
+        { "option_id": 4, "text": "सकाळ", "is_correct": false }
+      ],
+      "answer": "सूर्यास्त"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "अमावास्येला चंद्र आकाशात असतो का?",
+      "options": [
+        { "option_id": 1, "text": "नाही", "is_correct": false },
+        { "option_id": 2, "text": "असतो, पण दिसत नाही", "is_correct": true },
+        { "option_id": 3, "text": "तो नष्ट होतो", "is_correct": false },
+        { "option_id": 4, "text": "तो दुसऱ्या ग्रहावर जातो", "is_correct": false }
+      ],
+      "answer": "असतो, पण दिसत नाही"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "पक्षी घरट्यात लवकर कोणत्या ऋतूत परततात?",
+      "options": [
+        { "option_id": 1, "text": "उन्हाळ्यात", "is_correct": false },
+        { "option_id": 2, "text": "हिवाळ्यात", "is_correct": true },
+        { "option_id": 3, "text": "पावसाळ्यात", "is_correct": false },
+        { "option_id": 4, "text": "वर्षभर", "is_correct": false }
+      ],
+      "answer": "हिवाळ्यात"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "दिवस आणि रात्र यांचे चक्र कशामुळे होते?",
+      "options": [
+        { "option_id": 1, "text": "चंद्राच्या फिरण्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "पृथ्वीच्या फिरण्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "ताऱ्यांच्या हालचालीमुळे", "is_correct": false },
+        { "option_id": 4, "text": "पावसामुळे", "is_correct": false }
+      ],
+      "answer": "पृथ्वीच्या फिरण्यामुळे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पृथ्वी स्वतःभोवती फिरते, हे विधान...?",
+      "options": [
+        { "option_id": 1, "text": "चूक आहे", "is_correct": false },
+        { "option_id": 2, "text": "बरोबर आहे", "is_correct": true },
+        { "option_id": 3, "text": "माहीत नाही", "is_correct": false },
+        { "option_id": 4, "text": "कधी कधी फिरते", "is_correct": false }
+      ],
+      "answer": "बरोबर आहे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "दिवस लहान-मोठा होण्याचा संबंध कशाशी असतो?",
+      "options": [
+        { "option_id": 1, "text": "पावसाशी", "is_correct": false },
+        { "option_id": 2, "text": "ऋतू बदलण्याशी", "is_correct": true },
+        { "option_id": 3, "text": "वारा सुटण्याशी", "is_correct": false },
+        { "option_id": 4, "text": "चंद्राशी", "is_correct": false }
+      ],
+      "answer": "ऋतू बदलण्याशी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या प्रकाशात असलेल्या भागावर काय असते?",
+      "options": [
+        { "option_id": 1, "text": "रात्र", "is_correct": false },
+        { "option_id": 2, "text": "दिवस", "is_correct": true },
+        { "option_id": 3, "text": "अंधार", "is_correct": false },
+        { "option_id": 4, "text": "सावली", "is_correct": false }
+      ],
+      "answer": "दिवस"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या अंधारात असलेल्या भागावर काय असते?",
+      "options": [
+        { "option_id": 1, "text": "दिवस", "is_correct": false },
+        { "option_id": 2, "text": "रात्र", "is_correct": true },
+        { "option_id": 3, "text": "उजेड", "is_correct": false },
+        { "option_id": 4, "text": "ऊन", "is_correct": false }
+      ],
+      "answer": "रात्र"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "सूर्य फिरतो की पृथ्वी?",
+      "options": [
+        { "option_id": 1, "text": "सूर्य फिरतो", "is_correct": false },
+        { "option_id": 2, "text": "पृथ्वी फिरते", "is_correct": true },
+        { "option_id": 3, "text": "दोघेही फिरत नाहीत", "is_correct": false },
+        { "option_id": 4, "text": "दोघेही एकाच वेळी फिरतात", "is_correct": false }
+      ],
+      "answer": "पृथ्वी फिरते"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "२१ मार्च ते २१ जून या काळात काय घडते?",
+      "options": [
+        { "option_id": 1, "text": "दिवस लहान होतो", "is_correct": false },
+        { "option_id": 2, "text": "दिवस मोठा होतो", "is_correct": true },
+        { "option_id": 3, "text": "रात्र मोठी होते", "is_correct": false },
+        { "option_id": 4, "text": "काहीच बदलत नाही", "is_correct": false }
+      ],
+      "answer": "दिवस मोठा होतो"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "२१ जून रोजी रात्र कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "सर्वात मोठी", "is_correct": false },
+        { "option_id": 2, "text": "सर्वात लहान", "is_correct": true },
+        { "option_id": 3, "text": "१२ तासांची", "is_correct": false },
+        { "option_id": 4, "text": "२४ तासांची", "is_correct": false }
+      ],
+      "answer": "सर्वात लहान"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "२२ डिसेंबर रोजी रात्र कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "सर्वात मोठी", "is_correct": true },
+        { "option_id": 2, "text": "सर्वात लहान", "is_correct": false },
+        { "option_id": 3, "text": "१२ तासांची", "is_correct": false },
+        { "option_id": 4, "text": "दिवसाइतकीच", "is_correct": false }
+      ],
+      "answer": "सर्वात मोठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "दिवस आणि रात्र यांचा कोणता खेळ आपण रोज पाहतो?",
+      "options": [
+        { "option_id": 1, "text": "लपाछपी", "is_correct": false },
+        { "option_id": 2, "text": "पाठशिवणीचा", "is_correct": true },
+        { "option_id": 3, "text": "पकडापकडी", "is_correct": false },
+        { "option_id": 4, "text": "खो-खो", "is_correct": false }
+      ],
+      "answer": "पाठशिवणीचा"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "भोवरा जसा स्वतःभोवती फिरतो, तशी कोण फिरते?",
+      "options": [
+        { "option_id": 1, "text": "पृथ्वी", "is_correct": true },
+        { "option_id": 2, "text": "सूर्य", "is_correct": false },
+        { "option_id": 3, "text": "चंद्र", "is_correct": false },
+        { "option_id": 4, "text": "तारे", "is_correct": false }
+      ],
+      "answer": "पृथ्वी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "सूर्य सकाळी पूर्वेकडे उगवतो आणि कोठे सरकत जातो?",
+      "options": [
+        { "option_id": 1, "text": "दक्षिणेकडे", "is_correct": false },
+        { "option_id": 2, "text": "पश्चिमेकडे", "is_correct": true },
+        { "option_id": 3, "text": "उत्तरेकडे", "is_correct": false },
+        { "option_id": 4, "text": "खाली", "is_correct": false }
+      ],
+      "answer": "पश्चिमेकडे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "नोव्हेंबर महिन्यात दिवस कसा होत जातो?",
+      "options": [
+        { "option_id": 1, "text": "मोठा", "is_correct": false },
+        { "option_id": 2, "text": "लहान", "is_correct": true },
+        { "option_id": 3, "text": "समान", "is_correct": false },
+        { "option_id": 4, "text": "खूप मोठा", "is_correct": false }
+      ],
+      "answer": "लहान"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "मे महिन्यात दिवस कसा होत जातो?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "मोठा", "is_correct": true },
+        { "option_id": 3, "text": "समान", "is_correct": false },
+        { "option_id": 4, "text": "खूप लहान", "is_correct": false }
+      ],
+      "answer": "मोठा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "आपल्याकडे उन्हाळा कोणत्या काळात असतो?",
+      "options": [
+        { "option_id": 1, "text": "दिवस लहान आणि रात्र मोठी", "is_correct": false },
+        { "option_id": 2, "text": "दिवस मोठा आणि रात्र लहान", "is_correct": true },
+        { "option_id": 3, "text": "दिवस आणि रात्र समान", "is_correct": false },
+        { "option_id": 4, "text": "रात्र खूप मोठी", "is_correct": false }
+      ],
+      "answer": "दिवस मोठा आणि रात्र लहान"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "आपल्याकडे हिवाळा कोणत्या काळात असतो?",
+      "options": [
+        { "option_id": 1, "text": "दिवस मोठा आणि रात्र लहान", "is_correct": false },
+        { "option_id": 2, "text": "दिवस लहान आणि रात्र मोठी", "is_correct": true },
+        { "option_id": 3, "text": "दिवस आणि रात्र समान", "is_correct": false },
+        { "option_id": 4, "text": "दिवस खूप मोठा", "is_correct": false }
+      ],
+      "answer": "दिवस लहान आणि रात्र मोठी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "२२ सप्टेंबर नंतर दिवस कसा होतो?",
+      "options": [
+        { "option_id": 1, "text": "मोठा", "is_correct": false },
+        { "option_id": 2, "text": "लहान", "is_correct": true },
+        { "option_id": 3, "text": "समान", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर", "is_correct": false }
+      ],
+      "answer": "लहान"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "२२ डिसेंबर नंतर दिवस कसा होतो?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "मोठा", "is_correct": true },
+        { "option_id": 3, "text": "समान", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर", "is_correct": false }
+      ],
+      "answer": "मोठा"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "२२ डिसेंबर नंतर रात्र कशी होते?",
+      "options": [
+        { "option_id": 1, "text": "मोठी", "is_correct": false },
+        { "option_id": 2, "text": "लहान", "is_correct": true },
+        { "option_id": 3, "text": "समान", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर", "is_correct": false }
+      ],
+      "answer": "लहान"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "२१ जून नंतर रात्र कशी होते?",
+      "options": [
+        { "option_id": 1, "text": "लहान", "is_correct": false },
+        { "option_id": 2, "text": "मोठी", "is_correct": true },
+        { "option_id": 3, "text": "समान", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर", "is_correct": false }
+      ],
+      "answer": "मोठी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "सूर्य पृथ्वीभोवती फिरतो, हे विधान...?",
+      "options": [
+        { "option_id": 1, "text": "बरोबर आहे", "is_correct": false },
+        { "option_id": 2, "text": "चूक आहे", "is_correct": true },
+        { "option_id": 3, "text": "अर्धसत्य आहे", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "चूक आहे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "रोज सकाळी सूर्य ६ वाजता उगवतो आणि संध्याकाळी ६ वाजता मावळतो, हे विधान...?",
+      "options": [
+        { "option_id": 1, "text": "बरोबर आहे", "is_correct": false },
+        { "option_id": 2, "text": "चूक आहे", "is_correct": true },
+        { "option_id": 3, "text": "नेहमी बरोबर आहे", "is_correct": false },
+        { "option_id": 4, "text": "कधीच चूक नाही", "is_correct": false }
+      ],
+      "answer": "चूक आहे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "२१ मार्चला दिवस आणि रात्र यांचे तास किती असतात?",
+      "options": [
+        { "option_id": 1, "text": "१२ तास दिवस, १२ तास रात्र", "is_correct": true },
+        { "option_id": 2, "text": "१४ तास दिवस, १० तास रात्र", "is_correct": false },
+        { "option_id": 3, "text": "१० तास दिवस, १४ तास रात्र", "is_correct": false },
+        { "option_id": 4, "text": "१३ तास दिवस, ११ तास रात्र", "is_correct": false }
+      ],
+      "answer": "१२ तास दिवस, १२ तास रात्र"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "ऋतू बदलणे आणि दिवस लहान-मोठा होणे यांचा काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "संबंध आहे", "is_correct": true },
+        { "option_id": 2, "text": "संबंध नाही", "is_correct": false },
+        { "option_id": 3, "text": "विरोध आहे", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "संबंध आहे"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पृथ्वीला प्रकाश कोठून मिळतो?",
+      "answer": "पृथ्वीला प्रकाश सूर्यापासून मिळतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा आकार कसा आहे?",
+      "answer": "पृथ्वीचा आकार एखाद्या भल्याथोरल्या चेंडूसारखा गोल आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "दिवस आहे असे केव्हा म्हणतात?",
+      "answer": "ज्या भागावर सूर्याचा प्रकाश पडतो, तेथे दिवस आहे असे म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "रात्र आहे असे केव्हा म्हणतात?",
+      "answer": "ज्या भागावर सूर्याचा प्रकाश पोहोचत नाही, तेथे रात्र आहे असे म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "परिवलन म्हणजे काय?",
+      "answer": "पृथ्वीच्या स्वतःभोवती फिरण्याला पृथ्वीचे परिवलन म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "दिवस आणि रात्र कशामुळे होतात?",
+      "answer": "पृथ्वी स्वतःभोवती फिरते (परिवलन करते) म्हणून पृथ्वीवर दिवस आणि रात्र होतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सूर्य पृथ्वीभोवती फिरतो का?",
+      "answer": "नाही, सूर्य पृथ्वीभोवती फिरत नाही, तो फिरतो असा केवळ भास होतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "दिवसाचे एकूण तास किती असतात?",
+      "answer": "दिवसाचे एकूण २४ तास असतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "सूर्योदय म्हणजे काय?",
+      "answer": "सूर्य उगवण्याला सूर्योदय म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सूर्यास्त म्हणजे काय?",
+      "answer": "सूर्य मावळण्याला सूर्यास्त म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "१२ तासांचा दिवस आणि १२ तासांची रात्र कोणत्या तारखांना असते?",
+      "answer": "२१ मार्च आणि २२ सप्टेंबर या तारखांना १२ तासांचा दिवस आणि १२ तासांची रात्र असते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "सर्वात मोठा दिवस कोणत्या तारखेला असतो?",
+      "answer": "२१ जून या तारखेला सर्वात मोठा दिवस असतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "सर्वात लहान रात्र कोणत्या तारखेला असते?",
+      "answer": "२१ जून या तारखेला सर्वात लहान रात्र असते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "सर्वात लहान दिवस कोणत्या तारखेला असतो?",
+      "answer": "२२ डिसेंबर या तारखेला सर्वात लहान दिवस असतो."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सर्वात मोठी रात्र कोणत्या तारखेला असते?",
+      "answer": "२२ डिसेंबर या तारखेला सर्वात मोठी रात्र असते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "नोव्हेंबर महिन्यात दिवस आणि रात्रीच्या वेळेत काय बदल होतो?",
+      "answer": "नोव्हेंबर महिन्यात दिवस लहान होत जातो आणि रात्र मोठी होत जाते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "मे महिन्यात दिवस आणि रात्रीच्या वेळेत काय बदल होतो?",
+      "answer": "मे महिन्यात दिवस मोठा होत जातो आणि रात्र लहान होत जाते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात दिवस आणि रात्र कशी असते?",
+      "answer": "उन्हाळ्यात दिवस मोठा असतो आणि रात्र लहान असते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात दिवस आणि रात्र कशी असते?",
+      "answer": "हिवाळ्यात दिवस लहान असतो आणि रात्र मोठी असते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "२१ जून नंतर दिवस कसा होतो?",
+      "answer": "२१ जून नंतर दिवस लहान होत जातो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "२२ डिसेंबर नंतर दिवस कसा होतो?",
+      "answer": "२२ डिसेंबर नंतर दिवस मोठा होत जातो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "अमावास्येला चंद्र का दिसत नाही?",
+      "answer": "अमावास्येला चंद्राची प्रकाशित बाजू पृथ्वीच्या विरुद्ध दिशेला असते, त्यामुळे चंद्र दिसत नाही."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात पक्षी घरट्यात लवकर का परततात?",
+      "answer": "हिवाळ्यात सूर्य लवकर मावळतो आणि लवकर अंधार पडतो, म्हणून पक्षी घरट्यात लवकर परततात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "सूर्यप्रकाशात सावली कशी पडते?",
+      "answer": "सूर्यप्रकाशात वस्तूची सावली तिच्या विरुद्ध दिशेला पडते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "सकाळी सावली कोणत्या दिशेला पडते?",
+      "answer": "सकाळी सूर्य पूर्वेला असतो, म्हणून सावली पश्चिमेला पडते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "संध्याकाळी सावली कोणत्या दिशेला पडते?",
+      "answer": "संध्याकाळी सूर्य पश्चिमेला असतो, म्हणून सावली पूर्वेला पडते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या फिरण्यामुळे काय होते?",
+      "answer": "पृथ्वीच्या फिरण्यामुळे प्रकाशात असलेला भाग अंधारात जातो आणि अंधारातला भाग प्रकाशात येतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "दिवस लहान-मोठा होण्याचा आणि कशाचा संबंध असतो?",
+      "answer": "दिवस लहान-मोठा होण्याचा आणि ऋतू बदलण्याचा संबंध असतो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "२१ मार्चपासून काय सुरू होते?",
+      "answer": "२१ मार्चपासून दिवस मोठा आणि रात्र लहान होण्याचे चक्र सुरू होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "२२ सप्टेंबर नंतर काय घडते?",
+      "answer": "२२ सप्टेंबर नंतर दिवस लहान आणि रात्र मोठी होऊ लागते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "आपल्या देशात पावसाळा कधी असतो?",
+      "answer": "आपल्या देशात जून, जुलै, ऑगस्ट आणि सप्टेंबर या महिन्यांत पावसाळा असतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात आपण कोणते कपडे वापरतो?",
+      "answer": "उन्हाळ्यात आपण सुती कपडे वापरतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात आपण कोणते कपडे वापरतो?",
+      "answer": "हिवाळ्यात आपण उबदार (लोकरीचे) कपडे वापरतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "दिवस आणि रात्र यांचे पाठशिवणीचे चक्र म्हणजे काय?",
+      "answer": "दिवसानंतर रात्र आणि रात्रीनंतर दिवस हे सतत चालू राहणारे चक्र म्हणजे पाठशिवणीचे चक्र होय."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "सूर्याचा प्रकाश संपूर्ण पृथ्वीवर एकाच वेळी का पोहोचत नाही?",
+      "answer": "पृथ्वी गोल असल्याने सूर्याचा प्रकाश एका वेळी अर्ध्याच पृथ्वीवर पोहोचतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "भोवऱ्याचे उदाहरण कशासाठी दिले आहे?",
+      "answer": "पृथ्वी स्वतःभोवती कशी फिरते (परिवलन) हे समजावून सांगण्यासाठी भोवऱ्याचे उदाहरण दिले आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "दिनदर्शिकेचा वापर करून काय शोधता येते?",
+      "answer": "दिनदर्शिकेचा वापर करून सूर्योदय आणि सूर्यास्ताच्या वेळा शोधता येतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "जून ते डिसेंबर या काळात दिवसाच्या लांबीत काय बदल होतो?",
+      "answer": "जून ते डिसेंबर या काळात दिवस लहान लहान होत जातो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "डिसेंबर ते जून या काळात दिवसाच्या लांबीत काय बदल होतो?",
+      "answer": "डिसेंबर ते जून या काळात दिवस मोठा मोठा होत जातो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "सूर्योदय उशिरा होतो याचा अर्थ काय?",
+      "answer": "सूर्योदय उशिरा होतो याचा अर्थ दिवस उशिरा सुरू होतो (रात्र मोठी असते)."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "सूर्यास्त लवकर होतो याचा अर्थ काय?",
+      "answer": "सूर्यास्त लवकर होतो याचा अर्थ दिवस लवकर संपतो (दिवस लहान असतो)."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "२१ मार्च आणि २२ सप्टेंबरला दिवस-रात्रीचे तास कसे असतात?",
+      "answer": "या तारखांना दिवस आणि रात्र समसमान म्हणजे १२-१२ तासांचे असतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात जास्त वेळ उजेड का असतो?",
+      "answer": "उन्हाळ्यात दिवस मोठा असतो आणि सूर्यास्त उशिरा होतो, म्हणून जास्त वेळ उजेड असतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात लवकर अंधार का पडतो?",
+      "answer": "हिवाळ्यात दिवस लहान असतो आणि सूर्यास्त लवकर होतो, म्हणून लवकर अंधार पडतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "सूर्य पूर्वेकडे उगवतो आणि पश्चिमेकडे जातो असे आपल्याला का वाटते?",
+      "answer": "पृथ्वी पश्चिमेकडून पूर्वेकडे फिरत असल्याने आपल्याला सूर्य पूर्वेकडून पश्चिमेकडे गेल्याचा भास होतो."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या परिवलनामुळे काय होते?",
+      "answer": "पृथ्वीच्या परिवलनामुळे दिवस आणि रात्र होतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "प्रकाश आणि अंधार यांचा खेळ पृथ्वीवर का चालतो?",
+      "answer": "सूर्यप्रकाश आणि पृथ्वीचे फिरणे यामुळे पृथ्वीवर प्रकाश आणि अंधार यांचा खेळ चालतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "२१ जून हा दिवस का महत्त्वाचा आहे?",
+      "answer": "कारण २१ जून हा वर्षातील सर्वात मोठा दिवस आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "२२ डिसेंबर हा दिवस का महत्त्वाचा आहे?",
+      "answer": "कारण २२ डिसेंबर हा वर्षातील सर्वात लहान दिवस आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "ऋतू कसे बदलतात?",
+      "answer": "दिवसाचा कालावधी (लहान-मोठा होणे) आणि पृथ्वीचे सूर्याभोवती फिरणे यामुळे ऋतू बदलतात."
+    }
+  ]
+}

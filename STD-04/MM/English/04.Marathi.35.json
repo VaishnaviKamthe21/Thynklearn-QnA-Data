@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.35",
+    "standard": "4",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "A Garden of Words"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Choose the word from the list that means 'happening all the time'.",
+      "options": [
+        { "option_id": 1, "text": "never", "is_correct": false },
+        { "option_id": 2, "text": "always", "is_correct": true },
+        { "option_id": 3, "text": "rarely", "is_correct": false },
+        { "option_id": 4, "text": "sometimes", "is_correct": false }
+      ],
+      "answer": "always"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which word is the opposite of 'after'?",
+      "options": [
+        { "option_id": 1, "text": "before", "is_correct": true },
+        { "option_id": 2, "text": "later", "is_correct": false },
+        { "option_id": 3, "text": "then", "is_correct": false },
+        { "option_id": 4, "text": "now", "is_correct": false }
+      ],
+      "answer": "before"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Identify the word that describes 'milk' in the story context.",
+      "options": [
+        { "option_id": 1, "text": "creamy", "is_correct": true },
+        { "option_id": 2, "text": "hard", "is_correct": false },
+        { "option_id": 3, "text": "dry", "is_correct": false },
+        { "option_id": 4, "text": "sharp", "is_correct": false }
+      ],
+      "answer": "creamy"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'night'?",
+      "options": [
+        { "option_id": 1, "text": "high", "is_correct": false },
+        { "option_id": 2, "text": "light", "is_correct": true },
+        { "option_id": 3, "text": "day", "is_correct": false },
+        { "option_id": 4, "text": "sun", "is_correct": false }
+      ],
+      "answer": "light"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Find the word that means 'to purchase'.",
+      "options": [
+        { "option_id": 1, "text": "sell", "is_correct": false },
+        { "option_id": 2, "text": "buy", "is_correct": true },
+        { "option_id": 3, "text": "give", "is_correct": false },
+        { "option_id": 4, "text": "take", "is_correct": false }
+      ],
+      "answer": "buy"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word is the past tense of 'buy'?",
+      "options": [
+        { "option_id": 1, "text": "buying", "is_correct": false },
+        { "option_id": 2, "text": "buys", "is_correct": false },
+        { "option_id": 3, "text": "bought", "is_correct": true },
+        { "option_id": 4, "text": "bring", "is_correct": false }
+      ],
+      "answer": "bought"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word means 'a product made from milk'?",
+      "options": [
+        { "option_id": 1, "text": "bread", "is_correct": false },
+        { "option_id": 2, "text": "butter", "is_correct": true },
+        { "option_id": 3, "text": "jam", "is_correct": false },
+        { "option_id": 4, "text": "honey", "is_correct": false }
+      ],
+      "answer": "butter"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Select the word that rhymes with 'rice'.",
+      "options": [
+        { "option_id": 1, "text": "price", "is_correct": true },
+        { "option_id": 2, "text": "race", "is_correct": false },
+        { "option_id": 3, "text": "rose", "is_correct": false },
+        { "option_id": 4, "text": "rise", "is_correct": false }
+      ],
+      "answer": "price"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which word describes something 'made of gold'?",
+      "options": [
+        { "option_id": 1, "text": "golden", "is_correct": true },
+        { "option_id": 2, "text": "silver", "is_correct": false },
+        { "option_id": 3, "text": "wooden", "is_correct": false },
+        { "option_id": 4, "text": "iron", "is_correct": false }
+      ],
+      "answer": "golden"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Find the word ending with '-ing'.",
+      "options": [
+        { "option_id": 1, "text": "dream", "is_correct": false },
+        { "option_id": 2, "text": "dreaming", "is_correct": true },
+        { "option_id": 3, "text": "dreamt", "is_correct": false },
+        { "option_id": 4, "text": "dreams", "is_correct": false }
+      ],
+      "answer": "dreaming"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which word means 'having a lot of money'?",
+      "options": [
+        { "option_id": 1, "text": "poor", "is_correct": false },
+        { "option_id": 2, "text": "rich", "is_correct": true },
+        { "option_id": 3, "text": "weak", "is_correct": false },
+        { "option_id": 4, "text": "small", "is_correct": false }
+      ],
+      "answer": "rich"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'cot'?",
+      "options": [
+        { "option_id": 1, "text": "cut", "is_correct": false },
+        { "option_id": 2, "text": "coat", "is_correct": false },
+        { "option_id": 3, "text": "pot", "is_correct": true },
+        { "option_id": 4, "text": "pat", "is_correct": false }
+      ],
+      "answer": "pot"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'hard'?",
+      "options": [
+        { "option_id": 1, "text": "rough", "is_correct": false },
+        { "option_id": 2, "text": "soft", "is_correct": true },
+        { "option_id": 3, "text": "tough", "is_correct": false },
+        { "option_id": 4, "text": "strong", "is_correct": false }
+      ],
+      "answer": "soft"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which word means 'a place to buy and sell things'?",
+      "options": [
+        { "option_id": 1, "text": "garden", "is_correct": false },
+        { "option_id": 2, "text": "market", "is_correct": true },
+        { "option_id": 3, "text": "school", "is_correct": false },
+        { "option_id": 4, "text": "home", "is_correct": false }
+      ],
+      "answer": "market"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Select the word that means 'to throw lightly'.",
+      "options": [
+        { "option_id": 1, "text": "drop", "is_correct": false },
+        { "option_id": 2, "text": "toss", "is_correct": true },
+        { "option_id": 3, "text": "keep", "is_correct": false },
+        { "option_id": 4, "text": "hold", "is_correct": false }
+      ],
+      "answer": "toss"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which word is the past tense of 'fly'?",
+      "options": [
+        { "option_id": 1, "text": "flying", "is_correct": false },
+        { "option_id": 2, "text": "flew", "is_correct": true },
+        { "option_id": 3, "text": "flown", "is_correct": false },
+        { "option_id": 4, "text": "flies", "is_correct": false }
+      ],
+      "answer": "flew"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'bell'?",
+      "options": [
+        { "option_id": 1, "text": "ball", "is_correct": false },
+        { "option_id": 2, "text": "sell", "is_correct": true },
+        { "option_id": 3, "text": "bill", "is_correct": false },
+        { "option_id": 4, "text": "bull", "is_correct": false }
+      ],
+      "answer": "sell"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Find the word that means 'good to eat'.",
+      "options": [
+        { "option_id": 1, "text": "tasty", "is_correct": true },
+        { "option_id": 2, "text": "bad", "is_correct": false },
+        { "option_id": 3, "text": "bitter", "is_correct": false },
+        { "option_id": 4, "text": "sour", "is_correct": false }
+      ],
+      "answer": "tasty"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which word is opposite of 'thin'?",
+      "options": [
+        { "option_id": 1, "text": "slim", "is_correct": false },
+        { "option_id": 2, "text": "thick", "is_correct": true },
+        { "option_id": 3, "text": "narrow", "is_correct": false },
+        { "option_id": 4, "text": "long", "is_correct": false }
+      ],
+      "answer": "thick"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which word means 'something unexpected'?",
+      "options": [
+        { "option_id": 1, "text": "surprise", "is_correct": true },
+        { "option_id": 2, "text": "known", "is_correct": false },
+        { "option_id": 3, "text": "boring", "is_correct": false },
+        { "option_id": 4, "text": "usual", "is_correct": false }
+      ],
+      "answer": "surprise"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which word ends with '-ed'?",
+      "options": [
+        { "option_id": 1, "text": "spill", "is_correct": false },
+        { "option_id": 2, "text": "spilled", "is_correct": true },
+        { "option_id": 3, "text": "spilling", "is_correct": false },
+        { "option_id": 4, "text": "spills", "is_correct": false }
+      ],
+      "answer": "spilled"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Identify the word that means 'coins and notes'.",
+      "options": [
+        { "option_id": 1, "text": "milk", "is_correct": false },
+        { "option_id": 2, "text": "money", "is_correct": true },
+        { "option_id": 3, "text": "butter", "is_correct": false },
+        { "option_id": 4, "text": "pot", "is_correct": false }
+      ],
+      "answer": "money"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'mouse'?",
+      "options": [
+        { "option_id": 1, "text": "nice", "is_correct": false },
+        { "option_id": 2, "text": "house", "is_correct": false },
+        { "option_id": 3, "text": "does", "is_correct": true },
+        { "option_id": 4, "text": "noise", "is_correct": false }
+      ],
+      "answer": "does"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the past tense of 'roll'?",
+      "options": [
+        { "option_id": 1, "text": "rolling", "is_correct": false },
+        { "option_id": 2, "text": "rolled", "is_correct": true },
+        { "option_id": 3, "text": "rolls", "is_correct": false },
+        { "option_id": 4, "text": "roller", "is_correct": false }
+      ],
+      "answer": "rolled"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which word means 'to shake milk to make butter'?",
+      "options": [
+        { "option_id": 1, "text": "mix", "is_correct": false },
+        { "option_id": 2, "text": "churn", "is_correct": true },
+        { "option_id": 3, "text": "pour", "is_correct": false },
+        { "option_id": 4, "text": "drink", "is_correct": false }
+      ],
+      "answer": "churn"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which word is an adverb ending in '-ly'?",
+      "options": [
+        { "option_id": 1, "text": "gentle", "is_correct": false },
+        { "option_id": 2, "text": "gently", "is_correct": true },
+        { "option_id": 3, "text": "gent", "is_correct": false },
+        { "option_id": 4, "text": "giant", "is_correct": false }
+      ],
+      "answer": "gently"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which word means 'holding something while moving'?",
+      "options": [
+        { "option_id": 1, "text": "carry", "is_correct": false },
+        { "option_id": 2, "text": "carrying", "is_correct": true },
+        { "option_id": 3, "text": "carried", "is_correct": false },
+        { "option_id": 4, "text": "carries", "is_correct": false }
+      ],
+      "answer": "carrying"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which word is opposite of 'worse'?",
+      "options": [
+        { "option_id": 1, "text": "better", "is_correct": true },
+        { "option_id": 2, "text": "bad", "is_correct": false },
+        { "option_id": 3, "text": "good", "is_correct": false },
+        { "option_id": 4, "text": "best", "is_correct": false }
+      ],
+      "answer": "better"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'know'?",
+      "options": [
+        { "option_id": 1, "text": "now", "is_correct": false },
+        { "option_id": 2, "text": "show", "is_correct": true },
+        { "option_id": 3, "text": "how", "is_correct": false },
+        { "option_id": 4, "text": "cow", "is_correct": false }
+      ],
+      "answer": "show"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Find the word that means 'a group of humans'.",
+      "options": [
+        { "option_id": 1, "text": "person", "is_correct": false },
+        { "option_id": 2, "text": "people", "is_correct": true },
+        { "option_id": 3, "text": "man", "is_correct": false },
+        { "option_id": 4, "text": "woman", "is_correct": false }
+      ],
+      "answer": "people"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which word is the past tense of 'hold'?",
+      "options": [
+        { "option_id": 1, "text": "holded", "is_correct": false },
+        { "option_id": 2, "text": "held", "is_correct": true },
+        { "option_id": 3, "text": "holding", "is_correct": false },
+        { "option_id": 4, "text": "holds", "is_correct": false }
+      ],
+      "answer": "held"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'late'?",
+      "options": [
+        { "option_id": 1, "text": "wait", "is_correct": true },
+        { "option_id": 2, "text": "wet", "is_correct": false },
+        { "option_id": 3, "text": "white", "is_correct": false },
+        { "option_id": 4, "text": "wit", "is_correct": false }
+      ],
+      "answer": "wait"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which word means 'to put on clothes or ornaments'?",
+      "options": [
+        { "option_id": 1, "text": "where", "is_correct": false },
+        { "option_id": 2, "text": "were", "is_correct": false },
+        { "option_id": 3, "text": "wear", "is_correct": true },
+        { "option_id": 4, "text": "war", "is_correct": false }
+      ],
+      "answer": "wear"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which word is a verb (action word)?",
+      "options": [
+        { "option_id": 1, "text": "pot", "is_correct": false },
+        { "option_id": 2, "text": "make", "is_correct": true },
+        { "option_id": 3, "text": "soft", "is_correct": false },
+        { "option_id": 4, "text": "nice", "is_correct": false }
+      ],
+      "answer": "make"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which word means 'pleasing or good'?",
+      "options": [
+        { "option_id": 1, "text": "nice", "is_correct": true },
+        { "option_id": 2, "text": "bad", "is_correct": false },
+        { "option_id": 3, "text": "sad", "is_correct": false },
+        { "option_id": 4, "text": "mad", "is_correct": false }
+      ],
+      "answer": "nice"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which word describes a tall height?",
+      "options": [
+        { "option_id": 1, "text": "low", "is_correct": false },
+        { "option_id": 2, "text": "high", "is_correct": true },
+        { "option_id": 3, "text": "deep", "is_correct": false },
+        { "option_id": 4, "text": "short", "is_correct": false }
+      ],
+      "answer": "high"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which word is a pronoun?",
+      "options": [
+        { "option_id": 1, "text": "your", "is_correct": true },
+        { "option_id": 2, "text": "dream", "is_correct": false },
+        { "option_id": 3, "text": "churn", "is_correct": false },
+        { "option_id": 4, "text": "fresh", "is_correct": false }
+      ],
+      "answer": "your"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'pie'?",
+      "options": [
+        { "option_id": 1, "text": "pay", "is_correct": false },
+        { "option_id": 2, "text": "buy", "is_correct": true },
+        { "option_id": 3, "text": "boy", "is_correct": false },
+        { "option_id": 4, "text": "bay", "is_correct": false }
+      ],
+      "answer": "buy"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which word means 'unable to find'?",
+      "options": [
+        { "option_id": 1, "text": "last", "is_correct": false },
+        { "option_id": 2, "text": "lost", "is_correct": true },
+        { "option_id": 3, "text": "list", "is_correct": false },
+        { "option_id": 4, "text": "least", "is_correct": false }
+      ],
+      "answer": "lost"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which word is the opposite of 'less'?",
+      "options": [
+        { "option_id": 1, "text": "much", "is_correct": true },
+        { "option_id": 2, "text": "few", "is_correct": false },
+        { "option_id": 3, "text": "little", "is_correct": false },
+        { "option_id": 4, "text": "small", "is_correct": false }
+      ],
+      "answer": "much"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which word starts with 'J'?",
+      "options": [
+        { "option_id": 1, "text": "just", "is_correct": true },
+        { "option_id": 2, "text": "must", "is_correct": false },
+        { "option_id": 3, "text": "rust", "is_correct": false },
+        { "option_id": 4, "text": "dust", "is_correct": false }
+      ],
+      "answer": "just"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which word ends with 'ed'?",
+      "options": [
+        { "option_id": 1, "text": "tossed", "is_correct": true },
+        { "option_id": 2, "text": "toast", "is_correct": false },
+        { "option_id": 3, "text": "taste", "is_correct": false },
+        { "option_id": 4, "text": "test", "is_correct": false }
+      ],
+      "answer": "tossed"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which word means 'thoughts during sleep'?",
+      "options": [
+        { "option_id": 1, "text": "drum", "is_correct": false },
+        { "option_id": 2, "text": "dream", "is_correct": true },
+        { "option_id": 3, "text": "drain", "is_correct": false },
+        { "option_id": 4, "text": "drown", "is_correct": false }
+      ],
+      "answer": "dream"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which word is an auxiliary verb?",
+      "options": [
+        { "option_id": 1, "text": "should", "is_correct": true },
+        { "option_id": 2, "text": "shoulder", "is_correct": false },
+        { "option_id": 3, "text": "shout", "is_correct": false },
+        { "option_id": 4, "text": "short", "is_correct": false }
+      ],
+      "answer": "should"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which word means 'at all times' (similar to 'always')?",
+      "options": [
+        { "option_id": 1, "text": "ever", "is_correct": true },
+        { "option_id": 2, "text": "never", "is_correct": false },
+        { "option_id": 3, "text": "over", "is_correct": false },
+        { "option_id": 4, "text": "river", "is_correct": false }
+      ],
+      "answer": "ever"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which word means 'equal or level'?",
+      "options": [
+        { "option_id": 1, "text": "even", "is_correct": true },
+        { "option_id": 2, "text": "odd", "is_correct": false },
+        { "option_id": 3, "text": "seven", "is_correct": false },
+        { "option_id": 4, "text": "oven", "is_correct": false }
+      ],
+      "answer": "even"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which word means 'to understand'?",
+      "options": [
+        { "option_id": 1, "text": "now", "is_correct": false },
+        { "option_id": 2, "text": "know", "is_correct": true },
+        { "option_id": 3, "text": "new", "is_correct": false },
+        { "option_id": 4, "text": "no", "is_correct": false }
+      ],
+      "answer": "know"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which word means 'to obtain'?",
+      "options": [
+        { "option_id": 1, "text": "got", "is_correct": false },
+        { "option_id": 2, "text": "get", "is_correct": true },
+        { "option_id": 3, "text": "set", "is_correct": false },
+        { "option_id": 4, "text": "met", "is_correct": false }
+      ],
+      "answer": "get"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which word rhymes with 'cost'?",
+      "options": [
+        { "option_id": 1, "text": "list", "is_correct": false },
+        { "option_id": 2, "text": "lost", "is_correct": true },
+        { "option_id": 3, "text": "last", "is_correct": false },
+        { "option_id": 4, "text": "least", "is_correct": false }
+      ],
+      "answer": "lost"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which word indicates 'origin'?",
+      "options": [
+        { "option_id": 1, "text": "form", "is_correct": false },
+        { "option_id": 2, "text": "from", "is_correct": true },
+        { "option_id": 3, "text": "farm", "is_correct": false },
+        { "option_id": 4, "text": "firm", "is_correct": false }
+      ],
+      "answer": "from"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Find a word that ends with 'ing'.",
+      "answer": "Dreaming / carrying."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Find a word that ends with 'd'.",
+      "answer": "Spilled / rolled / tossed / moved / held / passed."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'night'.",
+      "answer": "Light (Wait, from the list: 'high' rhymes with sky, 'bright' rhymes with 'light'). From the list: 'white' (not in list). 'Right' (not in list). 'High' rhymes with 'buy'."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'cold'.",
+      "answer": "Rolled / sold (sold not in list, rolled is)."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'tell'.",
+      "answer": "Sell."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'honey'.",
+      "answer": "Money."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'hot'.",
+      "answer": "Pot."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'rice'.",
+      "answer": "Price."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'gate'.",
+      "answer": "Wait."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Find a word that rhymes with 'boss'.",
+      "answer": "Toss."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Use the word 'buy' to give an order.",
+      "answer": "\"Buy some milk!\""
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Use the word 'wait' to give an order.",
+      "answer": "\"Wait here!\""
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Use the word 'show' to give an order.",
+      "answer": "\"Show me your book!\""
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Find a smaller word hidden in 'creamy'.",
+      "answer": "Cream / my."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Find a smaller word hidden in 'golden'.",
+      "answer": "Gold / old / den."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Find a smaller word hidden in 'carrying'.",
+      "answer": "Carry / car / in / ring."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Find a smaller word hidden in 'does'.",
+      "answer": "Do / doe."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Make a new word using letters from 'dreaming'.",
+      "answer": "Ring / rain / red / man / aim / game."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Make a new word using letters from 'market'.",
+      "answer": "Mark / art / mat / rat / tea / eat."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Make a new word using letters from 'surprise'.",
+      "answer": "Rise / sure / purse / sir / use."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'buy' found in the list?",
+      "answer": "Bought."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'fly' found in the list?",
+      "answer": "Flew."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'hold' found in the list?",
+      "answer": "Held."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'lose' found in the list?",
+      "answer": "Lost."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Identify a colour mentioned in the list.",
+      "answer": "Golden."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Identify a food item mentioned in the list.",
+      "answer": "Butter / Milk."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Identify an adjective (describing word) from the list starting with 'S'.",
+      "answer": "Soft."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Identify an adjective from the list starting with 'T'.",
+      "answer": "Thick / Tasty."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Identify an adjective from the list starting with 'N'.",
+      "answer": "Nice."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Identify an adjective from the list starting with 'R'.",
+      "answer": "Rich."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'buy'?",
+      "answer": "Sell."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'sold'?",
+      "answer": "Bought."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'found'?",
+      "answer": "Lost."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'after'?",
+      "answer": "Before."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'thin'?",
+      "answer": "Thick."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'hard'?",
+      "answer": "Soft."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Write a sentence using the word 'always'.",
+      "answer": "I always brush my teeth."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Write a sentence using the word 'better'.",
+      "answer": "I am feeling better today."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Write a sentence using the word 'market'.",
+      "answer": "We went to the market to buy vegetables."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Write a sentence using the word 'surprise'.",
+      "answer": "My friend gave me a surprise gift."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the first word in the list?",
+      "answer": "Always."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the last word in the list?",
+      "answer": "Your."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Find a word starting with 'K'.",
+      "answer": "Know."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Find a word starting with 'P'.",
+      "answer": "Past / people / pot / price."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Find a word starting with 'M'.",
+      "answer": "Make / market / milk / money / moved / much."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Find a word containing the letter 'z'?",
+      "answer": "There are no words with 'z' in this list."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How many columns are there in the word table?",
+      "answer": "Five."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What unit is this chapter from?",
+      "answer": "Unit Four."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the title of this page?",
+      "answer": "A Garden of Words."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Which word describes how milk was handled in the pot in the next story?",
+      "answer": "Spilled."
+    }
+  ]
+}

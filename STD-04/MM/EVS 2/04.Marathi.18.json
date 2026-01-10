@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.18",
+    "standard": "4",
+    "subject": "परिसर अभ्यास (भाग २)",
+    "medium": "Marathi",
+    "chapter_name": "लोककल्याणकारी स्वराज्याचे व्यवस्थापन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी राज्यकारभाराची किती खात्यांत विभागणी केली?",
+      "options": [
+        { "option_id": 1, "text": "सहा", "is_correct": false },
+        { "option_id": 2, "text": "आठ", "is_correct": true },
+        { "option_id": 3, "text": "दहा", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "आठ"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "अष्टप्रधान मंडळातील 'प्रधान' कोण होते?",
+      "options": [
+        { "option_id": 1, "text": "हंबीरराव मोहिते", "is_correct": false },
+        { "option_id": 2, "text": "मोरो त्रिंबक पिंगळे", "is_correct": true },
+        { "option_id": 3, "text": "अण्णाजी दत्तो", "is_correct": false },
+        { "option_id": 4, "text": "निराजी रावजी", "is_correct": false }
+      ],
+      "answer": "मोरो त्रिंबक पिंगळे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सैन्याचे नेतृत्व करण्याचे काम कोणाकडे होते?",
+      "options": [
+        { "option_id": 1, "text": "सेनापती", "is_correct": true },
+        { "option_id": 2, "text": "पंडितराव", "is_correct": false },
+        { "option_id": 3, "text": "न्यायाधीश", "is_correct": false },
+        { "option_id": 4, "text": "सचिव", "is_correct": false }
+      ],
+      "answer": "सेनापती"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "रामचंद्र नीळकंठ मुजुमदार यांचे पद कोणते होते?",
+      "options": [
+        { "option_id": 1, "text": "मंत्री", "is_correct": false },
+        { "option_id": 2, "text": "सुमंत", "is_correct": false },
+        { "option_id": 3, "text": "अमात्य", "is_correct": true },
+        { "option_id": 4, "text": "पंडितराव", "is_correct": false }
+      ],
+      "answer": "अमात्य"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "धर्माची कामे पाहण्याची जबाबदारी कोणावर होती?",
+      "options": [
+        { "option_id": 1, "text": "मोरेश्वर पंडितराव", "is_correct": true },
+        { "option_id": 2, "text": "दत्ताजी त्रिंबक", "is_correct": false },
+        { "option_id": 3, "text": "रामचंद्र त्रिंबक", "is_correct": false },
+        { "option_id": 4, "text": "निराजी रावजी", "is_correct": false }
+      ],
+      "answer": "मोरेश्वर पंडितराव"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "न्यायदान करण्याचे काम कोण करत असे?",
+      "options": [
+        { "option_id": 1, "text": "प्रधान", "is_correct": false },
+        { "option_id": 2, "text": "न्यायाधीश", "is_correct": true },
+        { "option_id": 3, "text": "सचिव", "is_correct": false },
+        { "option_id": 4, "text": "मंत्री", "is_correct": false }
+      ],
+      "answer": "न्यायाधीश"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सरकारी आज्ञापत्रे पाठवण्याचे काम कोणाकडे होते?",
+      "options": [
+        { "option_id": 1, "text": "सचिव", "is_correct": true },
+        { "option_id": 2, "text": "सेनापती", "is_correct": false },
+        { "option_id": 3, "text": "अमात्य", "is_correct": false },
+        { "option_id": 4, "text": "पंडितराव", "is_correct": false }
+      ],
+      "answer": "सचिव"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "परराज्यांशी संबंध ठेवण्याचे काम कोणाचे होते?",
+      "options": [
+        { "option_id": 1, "text": "मंत्री", "is_correct": false },
+        { "option_id": 2, "text": "सुमंत", "is_correct": true },
+        { "option_id": 3, "text": "न्यायाधीश", "is_correct": false },
+        { "option_id": 4, "text": "प्रधान", "is_correct": false }
+      ],
+      "answer": "सुमंत"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "रामचंद्रपंत अमात्यांनी कोणता ग्रंथ लिहिला?",
+      "options": [
+        { "option_id": 1, "text": "दासबोध", "is_correct": false },
+        { "option_id": 2, "text": "आज्ञापत्र", "is_correct": true },
+        { "option_id": 3, "text": "शिवभारत", "is_correct": false },
+        { "option_id": 4, "text": "ज्ञानेश्वरी", "is_correct": false }
+      ],
+      "answer": "आज्ञापत्र"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी कोणत्या झाडांची तोड करण्यास मनाई केली होती?",
+      "options": [
+        { "option_id": 1, "text": "सागवान", "is_correct": false },
+        { "option_id": 2, "text": "आंबे, फणस", "is_correct": true },
+        { "option_id": 3, "text": "बाभूळ", "is_correct": false },
+        { "option_id": 4, "text": "निंब", "is_correct": false }
+      ],
+      "answer": "आंबे, फणस"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आरमारासाठी लाकूड हवे असल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "परमुलखातून खरेदी करावे", "is_correct": true },
+        { "option_id": 2, "text": "गावातील झाडे तोडावीत", "is_correct": false },
+        { "option_id": 3, "text": "चोरी करावी", "is_correct": false },
+        { "option_id": 4, "text": "जुनी घरे मोडावीत", "is_correct": false }
+      ],
+      "answer": "परमुलखातून खरेदी करावे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पर्यावरण रक्षण दिन कधी साजरा केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "५ जून", "is_correct": true },
+        { "option_id": 2, "text": "१५ ऑगस्ट", "is_correct": false },
+        { "option_id": 3, "text": "२६ जानेवारी", "is_correct": false },
+        { "option_id": 4, "text": "१ मे", "is_correct": false }
+      ],
+      "answer": "५ जून"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी गावोगावी काय बांधले?",
+      "options": [
+        { "option_id": 1, "text": "मोठे महाल", "is_correct": false },
+        { "option_id": 2, "text": "छोटे-मोठे बंधारे", "is_correct": true },
+        { "option_id": 3, "text": "तळघरे", "is_correct": false },
+        { "option_id": 4, "text": "बुरुज", "is_correct": false }
+      ],
+      "answer": "छोटे-मोठे बंधारे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "गड बांधण्यापूर्वी शिवराय कशाची पाहणी करत?",
+      "options": [
+        { "option_id": 1, "text": "हवेची", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याची", "is_correct": true },
+        { "option_id": 3, "text": "झाडांची", "is_correct": false },
+        { "option_id": 4, "text": "रस्त्यांची", "is_correct": false }
+      ],
+      "answer": "पाण्याची"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "दुष्काळात शिवराय रयतेला काय मोफत वाटत?",
+      "options": [
+        { "option_id": 1, "text": "पैसे", "is_correct": false },
+        { "option_id": 2, "text": "धान्य", "is_correct": true },
+        { "option_id": 3, "text": "कपडे", "is_correct": false },
+        { "option_id": 4, "text": "जमीन", "is_correct": false }
+      ],
+      "answer": "धान्य"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "दुष्काळाच्या काळात शिवराय कोणती कामे सुरू करत?",
+      "options": [
+        { "option_id": 1, "text": "किल्ल्यांची दुरुस्ती, धरणे, कालवे", "is_correct": true },
+        { "option_id": 2, "text": "युद्ध", "is_correct": false },
+        { "option_id": 3, "text": "उत्सव", "is_correct": false },
+        { "option_id": 4, "text": "शिकार", "is_correct": false }
+      ],
+      "answer": "किल्ल्यांची दुरुस्ती, धरणे, कालवे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "समुद्रावर हुकमत असावी म्हणून शिवरायांनी काय उभे केले?",
+      "options": [
+        { "option_id": 1, "text": "मोठे सैन्य", "is_correct": false },
+        { "option_id": 2, "text": "स्वतंत्र आरमार", "is_correct": true },
+        { "option_id": 3, "text": "किल्ले", "is_correct": false },
+        { "option_id": 4, "text": "व्यापार पेठ", "is_correct": false }
+      ],
+      "answer": "स्वतंत्र आरमार"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी कोणती व्यापारी पेठ वसवली?",
+      "options": [
+        { "option_id": 1, "text": "रायगड", "is_correct": true },
+        { "option_id": 2, "text": "प्रतापगड", "is_correct": false },
+        { "option_id": 3, "text": "सिंहगड", "is_correct": false },
+        { "option_id": 4, "text": "पन्हाळगड", "is_correct": false }
+      ],
+      "answer": "रायगड"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पुण्याशेजारील व्यापारी पेठ कोणती?",
+      "options": [
+        { "option_id": 1, "text": "खेड शिवापूर", "is_correct": true },
+        { "option_id": 2, "text": "हडपसर", "is_correct": false },
+        { "option_id": 3, "text": "कोथरूड", "is_correct": false },
+        { "option_id": 4, "text": "कात्रज", "is_correct": false }
+      ],
+      "answer": "खेड शिवापूर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पाषाण गावात तयार केलेल्या पेठेचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "शहापूर", "is_correct": false },
+        { "option_id": 2, "text": "जिजापूर", "is_correct": true },
+        { "option_id": 3, "text": "शिवपूर", "is_correct": false },
+        { "option_id": 4, "text": "संभाजीपूर", "is_correct": false }
+      ],
+      "answer": "जिजापूर"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी कोणत्या मिठावर जास्त कर बसवला?",
+      "options": [
+        { "option_id": 1, "text": "स्वराज्यातील", "is_correct": false },
+        { "option_id": 2, "text": "पोर्तुगीज हद्दीतून येणाऱ्या", "is_correct": true },
+        { "option_id": 3, "text": "इंग्रजांच्या", "is_correct": false },
+        { "option_id": 4, "text": "मुघलांच्या", "is_correct": false }
+      ],
+      "answer": "पोर्तुगीज हद्दीतून येणाऱ्या"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी मल्लम्मा देसाई हिला कोणता किताब दिला?",
+      "options": [
+        { "option_id": 1, "text": "राणी", "is_correct": false },
+        { "option_id": 2, "text": "सावित्री", "is_correct": true },
+        { "option_id": 3, "text": "सरदार", "is_correct": false },
+        { "option_id": 4, "text": "वीरमाता", "is_correct": false }
+      ],
+      "answer": "सावित्री"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "घराभोवती कोणत्या झाडाचे कुंपण घालण्यास सांगितले होते?",
+      "options": [
+        { "option_id": 1, "text": "तुळस", "is_correct": false },
+        { "option_id": 2, "text": "निरगुडी", "is_correct": true },
+        { "option_id": 3, "text": "कडुलिंब", "is_correct": false },
+        { "option_id": 4, "text": "आंबा", "is_correct": false }
+      ],
+      "answer": "निरगुडी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कचरा जाळल्यावर होणाऱ्या राखेचा उपयोग कशासाठी करावा?",
+      "options": [
+        { "option_id": 1, "text": "बांधकामासाठी", "is_correct": false },
+        { "option_id": 2, "text": "खत म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "रंगवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "रस्ता बनवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "खत म्हणून"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "हिंदवी स्वराज्य म्हणजे कोणाचे राज्य?",
+      "options": [
+        { "option_id": 1, "text": "फक्त हिंदूंचे", "is_correct": false },
+        { "option_id": 2, "text": "हिंदुस्थानात राहणाऱ्या सर्वांचे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त मराठ्यांचे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त राजाचे", "is_correct": false }
+      ],
+      "answer": "हिंदुस्थानात राहणाऱ्या सर्वांचे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कुरआन शरीफची प्रत सापडल्यास शिवराय काय करत?",
+      "options": [
+        { "option_id": 1, "text": "फाडून टाकत", "is_correct": false },
+        { "option_id": 2, "text": "सन्मानपूर्वक मुसलमानांकडे देत", "is_correct": true },
+        { "option_id": 3, "text": "स्वतः जवळ ठेवत", "is_correct": false },
+        { "option_id": 4, "text": "विकून टाकत", "is_correct": false }
+      ],
+      "answer": "सन्मानपूर्वक मुसलमानांकडे देत"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "बजाजी नाईक निंबाळकर कोण होते?",
+      "options": [
+        { "option_id": 1, "text": "शिवरायांचे शत्रू", "is_correct": false },
+        { "option_id": 2, "text": "शिवरायांचे मेहुणे", "is_correct": true },
+        { "option_id": 3, "text": "शिवरायांचे मित्र", "is_correct": false },
+        { "option_id": 4, "text": "शिवरायांचे गुरु", "is_correct": false }
+      ],
+      "answer": "शिवरायांचे मेहुणे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "नेतोजी पालकर यांना शिवरायांनी काय केले?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षा केली", "is_correct": false },
+        { "option_id": 2, "text": "स्वधर्मात घेतले", "is_correct": true },
+        { "option_id": 3, "text": "देशोधडीला लावले", "is_correct": false },
+        { "option_id": 4, "text": "कैद केले", "is_correct": false }
+      ],
+      "answer": "स्वधर्मात घेतले"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी कोणत्या संतांचा बहुमान केला?",
+      "options": [
+        { "option_id": 1, "text": "संत तुकाराम", "is_correct": false },
+        { "option_id": 2, "text": "समर्थ रामदास", "is_correct": false },
+        { "option_id": 3, "text": "बाबा याकूत", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "जिंजीचा किल्ला सध्या कोणत्या राज्यात आहे?",
+      "options": [
+        { "option_id": 1, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_id": 2, "text": "तमिळनाडू", "is_correct": true },
+        { "option_id": 3, "text": "कर्नाटक", "is_correct": false },
+        { "option_id": 4, "text": "केरळ", "is_correct": false }
+      ],
+      "answer": "तमिळनाडू"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "अष्टप्रधान मंडळाची निर्मिती का केली?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध करण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "राज्यकारभार व्यवस्थित चालवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "कर गोळा करण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "मनोरंजनासाठी", "is_correct": false }
+      ],
+      "answer": "राज्यकारभार व्यवस्थित चालवण्यासाठी"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "हंबीरराव मोहिते यांचे पद कोणते होते?",
+      "options": [
+        { "option_id": 1, "text": "सेनापती", "is_correct": true },
+        { "option_id": 2, "text": "मंत्री", "is_correct": false },
+        { "option_id": 3, "text": "सुमंत", "is_correct": false },
+        { "option_id": 4, "text": "न्यायाधीश", "is_correct": false }
+      ],
+      "answer": "सेनापती"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "पत्रव्यवहार सांभाळण्याचे काम कोणाचे होते?",
+      "options": [
+        { "option_id": 1, "text": "मंत्री (दत्ताजी त्रिंबक वाकनीस)", "is_correct": true },
+        { "option_id": 2, "text": "अमात्य", "is_correct": false },
+        { "option_id": 3, "text": "पंडितराव", "is_correct": false },
+        { "option_id": 4, "text": "सेनापती", "is_correct": false }
+      ],
+      "answer": "मंत्री (दत्ताजी त्रिंबक वाकनीस)"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पर्यावरण रक्षणासाठी शिवरायांनी काय सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "जंगले नष्ट करा", "is_correct": false },
+        { "option_id": 2, "text": "झाडे तोडू नका", "is_correct": true },
+        { "option_id": 3, "text": "प्राण्यांची शिकार करा", "is_correct": false },
+        { "option_id": 4, "text": "नद्या प्रदूषित करा", "is_correct": false }
+      ],
+      "answer": "झाडे तोडू नका"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "गडावर पाण्याची व्यवस्था कशी केली जात असे?",
+      "options": [
+        { "option_id": 1, "text": "नदीवरून पाणी आणून", "is_correct": false },
+        { "option_id": 2, "text": "तळी आणि टाक्या बांधून", "is_correct": true },
+        { "option_id": 3, "text": "विहिरी खोदून", "is_correct": false },
+        { "option_id": 4, "text": "पाणी विकत घेऊन", "is_correct": false }
+      ],
+      "answer": "तळी आणि टाक्या बांधून"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "दुष्काळात शिवरायांनी काय माफ केले?",
+      "options": [
+        { "option_id": 1, "text": "कर्ज", "is_correct": false },
+        { "option_id": 2, "text": "सारा (शेतसारा)", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षा", "is_correct": false },
+        { "option_id": 4, "text": "व्याज", "is_correct": false }
+      ],
+      "answer": "सारा (शेतसारा)"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कोणत्या उद्योगांना रोजगार मिळाला?",
+      "options": [
+        { "option_id": 1, "text": "विणकर, गवंडी, सुतार, लोहार", "is_correct": true },
+        { "option_id": 2, "text": "फक्त शेतकरी", "is_correct": false },
+        { "option_id": 3, "text": "फक्त व्यापारी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त सैनिक", "is_correct": false }
+      ],
+      "answer": "विणकर, गवंडी, सुतार, लोहार"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "स्थानिक व्यापाराला चालना कशी मिळाली?",
+      "options": [
+        { "option_id": 1, "text": "परदेशी वस्तूंवर कर वाढवून", "is_correct": true },
+        { "option_id": 2, "text": "बाजार बंद करून", "is_correct": false },
+        { "option_id": 3, "text": "व्यापाऱ्यांना हाकलून", "is_correct": false },
+        { "option_id": 4, "text": "वस्तू महाग करून", "is_correct": false }
+      ],
+      "answer": "परदेशी वस्तूंवर कर वाढवून"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कोकणात कोणत्या व्यापारात फसवणूक होत होती?",
+      "options": [
+        { "option_id": 1, "text": "कापड", "is_correct": false },
+        { "option_id": 2, "text": "नारळ, सुपारी", "is_correct": true },
+        { "option_id": 3, "text": "तांदूळ", "is_correct": false },
+        { "option_id": 4, "text": "मीठ", "is_correct": false }
+      ],
+      "answer": "नारळ, सुपारी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "मल्लम्मा देसाईने कशाचे रक्षण केले?",
+      "options": [
+        { "option_id": 1, "text": "किल्ल्याचे", "is_correct": false },
+        { "option_id": 2, "text": "गढीचे", "is_correct": true },
+        { "option_id": 3, "text": "मंदिराचे", "is_correct": false },
+        { "option_id": 4, "text": "गावाचे", "is_correct": false }
+      ],
+      "answer": "गढीचे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी मल्लम्माला काय मानले?",
+      "options": [
+        { "option_id": 1, "text": "शत्रू", "is_correct": false },
+        { "option_id": 2, "text": "धाकटी बहीण", "is_correct": true },
+        { "option_id": 3, "text": "राणी", "is_correct": false },
+        { "option_id": 4, "text": "सरदार", "is_correct": false }
+      ],
+      "answer": "धाकटी बहीण"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "आरोग्याला धोकादायक जंतू नष्ट करण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "पाणी टाकावे", "is_correct": false },
+        { "option_id": 2, "text": "धूर करावा", "is_correct": true },
+        { "option_id": 3, "text": "झाडू मारावा", "is_correct": false },
+        { "option_id": 4, "text": "काहीच करू नये", "is_correct": false }
+      ],
+      "answer": "धूर करावा"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "गडाखाली काय फेकू नये?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "कचरा", "is_correct": true },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "कचरा"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "शिवरायांचे धार्मिक धोरण कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "कठोर", "is_correct": false },
+        { "option_id": 2, "text": "उदार", "is_correct": true },
+        { "option_id": 3, "text": "भेदाभेद करणारे", "is_correct": false },
+        { "option_id": 4, "text": "अनिश्चित", "is_correct": false }
+      ],
+      "answer": "उदार"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी मशिदींना काय दिले नाही?",
+      "options": [
+        { "option_id": 1, "text": "दान", "is_correct": false },
+        { "option_id": 2, "text": "उपद्रव", "is_correct": true },
+        { "option_id": 3, "text": "संरक्षण", "is_correct": false },
+        { "option_id": 4, "text": "महत्त्व", "is_correct": false }
+      ],
+      "answer": "उपद्रव"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "राजाराम महाराजांनी जिंजी किल्ल्यावर किती वर्षे लढा दिला?",
+      "options": [
+        { "option_id": 1, "text": "पाच", "is_correct": false },
+        { "option_id": 2, "text": "सात", "is_correct": true },
+        { "option_id": 3, "text": "दहा", "is_correct": false },
+        { "option_id": 4, "text": "दोन", "is_correct": false }
+      ],
+      "answer": "सात"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी कोणत्या सत्तांशी संघर्ष केला?",
+      "options": [
+        { "option_id": 1, "text": "आदिलशाही, मुघल, पोर्तुगीज, सिद्दी", "is_correct": true },
+        { "option_id": 2, "text": "इंग्रज, फ्रेंच", "is_correct": false },
+        { "option_id": 3, "text": "चीन, जपान", "is_correct": false },
+        { "option_id": 4, "text": "फक्त मुघल", "is_correct": false }
+      ],
+      "answer": "आदिलशाही, मुघल, पोर्तुगीज, सिद्दी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "राज्याभिषेकामुळे शिवराय काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "सरदार", "is_correct": false },
+        { "option_id": 2, "text": "छत्रपती", "is_correct": true },
+        { "option_id": 3, "text": "पेशवे", "is_correct": false },
+        { "option_id": 4, "text": "वजीर", "is_correct": false }
+      ],
+      "answer": "छत्रपती"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी गडांची उभारणी कशी केली?",
+      "options": [
+        { "option_id": 1, "text": "कमकुवत", "is_correct": false },
+        { "option_id": 2, "text": "मजबूत आणि दुर्गम", "is_correct": true },
+        { "option_id": 3, "text": "सुंदर", "is_correct": false },
+        { "option_id": 4, "text": "साधी", "is_correct": false }
+      ],
+      "answer": "मजबूत आणि दुर्गम"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "शिवरायांचे व्यक्तिमत्त्व कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "लोभस", "is_correct": false },
+        { "option_id": 2, "text": "तेजस्वी आणि बहुआयामी", "is_correct": true },
+        { "option_id": 3, "text": "रागीट", "is_correct": false },
+        { "option_id": 4, "text": "शांत", "is_correct": false }
+      ],
+      "answer": "तेजस्वी आणि बहुआयामी"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "अष्टप्रधान मंडळ म्हणजे काय?",
+      "answer": "राज्यकारभाराचे काम व्यवस्थित चालवण्यासाठी शिवरायांनी केलेली आठ खात्यांची विभागणी म्हणजे अष्टप्रधान मंडळ होय."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "अमात्याचे काम काय होते?",
+      "answer": "राज्याचा जमाखर्च पाहणे हे अमात्याचे काम होते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "आज्ञापत्र कोणी लिहिले?",
+      "answer": "रामचंद्रपंत अमात्यांनी आज्ञापत्र लिहिले."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी कोणत्या झाडांची तोड करण्यास बंदी घातली होती?",
+      "answer": "आंबे, फणस यांसारखी फळझाडे तोडण्यास शिवरायांनी बंदी घातली होती."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सागवानाची झाडे कशासाठी वापरली जात?",
+      "answer": "आरमारासाठी जहाजे, नावा इत्यादी बनवण्यासाठी सागवानाची झाडे वापरली जात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी जल व्यवस्थापनासाठी काय केले?",
+      "answer": "शिवरायांनी बंधारे बांधून, तळी व टाक्या खोदून जल व्यवस्थापन केले."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "दुष्काळात शिवराय रयतेला कशी मदत करत?",
+      "answer": "सारा माफ करून, मोफत धान्य वाटून आणि रोजगार उपलब्ध करून देऊन शिवराय मदत करत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी स्वतंत्र आरमार का उभारले?",
+      "answer": "स्वराज्याच्या सागरी हद्दीचे रक्षण करण्यासाठी आणि व्यापारावर नियंत्रण ठेवण्यासाठी शिवरायांनी स्वतंत्र आरमार उभारले."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मिठाचा व्यापार वाढवण्यासाठी शिवरायांनी काय केले?",
+      "answer": "पोर्तुगीज मिठावर जास्त कर लावून स्वराज्यातील मिठावर कर कमी केला, ज्यामुळे स्थानिक व्यापाराला चालना मिळाली."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी सुभेदाराला कोणती ताकीद दिली?",
+      "answer": "नारळ, सुपारीच्या व्यापारात लोकांची फसवणूक होऊ नये, अशी ताकीद शिवरायांनी दिली."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "मल्लम्मा देसाई कोण होती?",
+      "answer": "कर्नाटकातील बेलवडी येथील गढीची रक्षण करणारी शूर महिला होती."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी मल्लम्माला कोणता किताब दिला?",
+      "answer": "शिवरायांनी मल्लम्माला 'सावित्री' हा किताब दिला आणि तिची गढी परत केली."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "घराभोवती निरगुडीचे कुंपण का घालावे?",
+      "answer": "उंदीर, विंचू, किडा, मुंगी यांसारखे प्राणी घरात येऊ नयेत म्हणून."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "गडावरील कचऱ्याचे काय करावे?",
+      "answer": "कचरा जाळून त्याची राख परड्यातील भाजीपाल्यासाठी खत म्हणून वापरावी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हिंदवी स्वराज्य म्हणजे काय?",
+      "answer": "हिंदुस्थानात राहणाऱ्या सर्व धर्मांच्या आणि जातींच्या लोकांचे राज्य म्हणजे हिंदवी स्वराज्य."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "शिवरायांचे धार्मिक धोरण कसे होते?",
+      "answer": "शिवरायांचे धार्मिक धोरण उदार आणि सर्वधर्मसमभावाचे होते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "नेतोजी पालकर कोण होते?",
+      "answer": "नेतोजी पालकर हे स्वराज्याचे एक सरदार होते ज्यांना शिवरायांनी पुन्हा स्वधर्मात घेतले."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "शिवराय विद्वानांचा आदर कसा करत?",
+      "answer": "परमानंद, गागाभट्ट यांसारख्या विद्वानांचा सत्कार करून शिवराय त्यांचा आदर करत."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "जिंजीचा किल्ला कोणी जिंकला?",
+      "answer": "छत्रपती शिवाजी महाराजांनी दक्षिण दिग्विजयाच्या मोहिमेत जिंजीचा किल्ला जिंकला."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "राजाराम महाराजांनी आपली राजधानी कोठे हलवली?",
+      "answer": "राजाराम महाराजांनी आपली राजधानी जिंजी किल्ल्यावर हलवली."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी शेतकऱ्यांना कोणत्या गोष्टी पुरवल्या?",
+      "answer": "बैलजोड्या, नांगर आणि पेरणीसाठी चांगले बी-बियाणे शिवरायांनी पुरवले."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "लोककल्याणकारी राज्यात प्रजेला काय मिळते?",
+      "answer": "अन्न, वस्त्र, निवारा, न्याय, सन्मान आणि सुख मिळते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "अष्टप्रधानांची नेमणूक कोण करत असे?",
+      "answer": "पात्रता आणि गुणवत्ता पाहून महाराज स्वतः अष्टप्रधानांची नेमणूक करत."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पंडितरावांचे काम काय होते?",
+      "answer": "धर्माची कामे पाहणे हे पंडितरावांचे काम होते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "सुमंतांचे काम काय होते?",
+      "answer": "परराज्यांशी संबंध ठेवणे हे सुमंतांचे काम होते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "वृक्षवल्ली आम्हा सोयरे... असे कोणी म्हटले आहे?",
+      "answer": "संत तुकाराम महाराजांनी असे म्हटले आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "गडावर पाणी नसल्यास काय केले जाई?",
+      "answer": "पावसाळ्यापूर्वीच तळी आणि टाक्या बांधून पावसाचे पाणी साठवले जाई."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "स्वराज्यात दुष्काळाची तीव्रता का जाणवली नाही?",
+      "answer": "पाण्याचे नियोजन आणि रोजगार उपलब्ध करून दिल्याने दुष्काळाची तीव्रता जाणवली नाही."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी कोणती नवीन व्यापारी पेठ वसवली?",
+      "answer": "रायगडावर आणि पुण्याजवळ पाषाण येथे (जिजापूर) नवीन व्यापारी पेठा वसवल्या."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी स्त्रियांच्या बाबतीत कोणते आदेश दिले होते?",
+      "answer": "शत्रुपक्षाच्या स्त्रियांना इजा करू नये आणि त्यांना मानाने वागवावे असे आदेश दिले होते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "शिवरायांचे व्यक्तिमत्त्व कसे होते?",
+      "answer": "आदर्श पुत्र, सावध नेता, कुशल संघटक आणि लोककल्याणकारी प्रशासक असे त्यांचे व्यक्तिमत्त्व होते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या काळात लोकांना कोणता आत्मविश्वास मिळाला?",
+      "answer": "स्वराज्य निर्माण झाल्यामुळे लोकांमध्ये स्वाभिमान आणि देशप्रेमाचा आत्मविश्वास निर्माण झाला."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "मोरो त्रिंबक पिंगळे कोण होते?",
+      "answer": "मोरो त्रिंबक पिंगळे हे अष्टप्रधान मंडळातील 'प्रधान' होते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी पर्यावरणाचे रक्षण कसे केले?",
+      "answer": "झाडे तोडण्यावर निर्बंध घालून आणि कचऱ्याचे व्यवस्थापन करून त्यांनी पर्यावरणाचे रक्षण केले."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "जलयुक्त शिवार योजना कशासाठी आहे?",
+      "answer": "राज्याला कायमस्वरूपी दुष्काळापासून मुक्त करण्यासाठी ही योजना आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी कोणाकडून लाकूड खरेदी करण्यास सांगितले?",
+      "answer": "गरज असल्यास परक्या मुलखातून लाकूड खरेदी करण्यास सांगितले."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी गडांचे व्यवस्थापन कसे केले?",
+      "answer": "पाणी, स्वच्छता, संरक्षण आणि बांधकाम यावर बारीक लक्ष देऊन गडांचे व्यवस्थापन केले."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी कोणाला जवळ केले?",
+      "answer": "धर्म बदललेल्या पण पश्चात्ताप झालेल्या लोकांना (उदा. बजाजी नाईक, नेतोजी पालकर) त्यांनी जवळ केले."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "शिवरायांचे आठवावे रूप... या ओळींचा अर्थ काय?",
+      "answer": "शिवरायांचे गुण, पराक्रम आणि लोककल्याणकारी कार्य यांचे स्मरण करावे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी अन्यायकारी सत्तांशी कसा लढा दिला?",
+      "answer": "दीर्घकाळ संघर्ष करून आणि गनिमी काव्याने त्यांनी अन्यायकारी सत्तांशी लढा दिला."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "अष्टप्रधान मंडळाच्या माध्यमातून काय साध्य झाले?",
+      "answer": "स्वराज्याचे प्रशासन कार्यक्षम आणि लोककल्याणकारी झाले."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी शेतकऱ्यांना कशी मदत केली?",
+      "answer": "सारा माफ करून, बैलजोड्या देऊन आणि पाणी उपलब्ध करून त्यांनी शेतकऱ्यांना मदत केली."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "व्यापाराला उत्तेजन देण्यासाठी काय केले?",
+      "answer": "नवीन पेठा वसवल्या आणि स्वराज्यातील वस्तूंवर कर कमी केले."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "स्वच्छतेबाबत शिवरायांचा दृष्टिकोन काय होता?",
+      "answer": "घरे, गड आणि सार्वजनिक ठिकाणे स्वच्छ असावीत, कचरा साठू नये, असा त्यांचा दृष्टिकोन होता."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "धूर करून काय नष्ट करता येते?",
+      "answer": "धूर करून आरोग्याला धोकादायक असणारे जंतू नष्ट करता येतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी कोणत्या परकीय सत्तांना रोखले?",
+      "answer": "मुघल, पोर्तुगीज आणि सिद्दी यांसारख्या परकीय सत्तांना शिवरायांनी रोखले."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "शिवाजी महाराजांनी किल्ल्यांचे तट का पाडले?",
+      "answer": "जुने तट पाडून नवे आणि मजबूत तट व बुरूज बांधण्यासाठी त्यांनी ते पाडले (उदा. जिंजी)."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी आरमारासाठी कोणते लाकूड वापरण्यास सांगितले?",
+      "answer": "सागवानाचे लाकूड वापरण्यास सांगितले, फळझाडे तोडण्यास मनाई केली."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "प्रजेला सुखी करण्यासाठी शिवरायांनी काय केले?",
+      "answer": "न्याय व्यवस्था, रोजगार, संरक्षण आणि मूलभूत गरजांची पूर्तता केली."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या व्यवस्थापनाचे वैशिष्ट्य काय होते?",
+      "answer": "बारीक-सारीक गोष्टींचे नियोजन आणि प्रजेच्या हिताची सर्वोच्च प्राथमिकता हे त्यांच्या व्यवस्थापनाचे वैशिष्ट्य होते."
+    }
+  ]
+}

@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.45",
+    "standard": "4",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Changing Sentences"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the title of the chapter on page 65?",
+      "options": [
+        { "option_id": 1, "text": "Writing Sentences", "is_correct": false },
+        { "option_id": 2, "text": "Changing Sentences", "is_correct": true },
+        { "option_id": 3, "text": "Reading Stories", "is_correct": false },
+        { "option_id": 4, "text": "Making Words", "is_correct": false }
+      ],
+      "answer": "Changing Sentences"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the main instruction for the teacher?",
+      "options": [
+        { "option_id": 1, "text": "Change all words at once", "is_correct": false },
+        { "option_id": 2, "text": "Change one word at a time", "is_correct": true },
+        { "option_id": 3, "text": "Do not change any word", "is_correct": false },
+        { "option_id": 4, "text": "Write a new story", "is_correct": false }
+      ],
+      "answer": "Change one word at a time"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "When you change a word, the new sentence must be ______.",
+      "options": [
+        { "option_id": 1, "text": "Meaningless", "is_correct": false },
+        { "option_id": 2, "text": "Longer", "is_correct": false },
+        { "option_id": 3, "text": "Meaningful", "is_correct": true },
+        { "option_id": 4, "text": "Shorter", "is_correct": false }
+      ],
+      "answer": "Meaningful"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "In the first example, 'Maya sells butter' changes to 'Maya sells ______'.",
+      "options": [
+        { "option_id": 1, "text": "cake", "is_correct": false },
+        { "option_id": 2, "text": "milk", "is_correct": true },
+        { "option_id": 3, "text": "books", "is_correct": false },
+        { "option_id": 4, "text": "toys", "is_correct": false }
+      ],
+      "answer": "milk"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "In 'Maya sells milk', which word is changed to make 'Maya buys milk'?",
+      "options": [
+        { "option_id": 1, "text": "Maya", "is_correct": false },
+        { "option_id": 2, "text": "milk", "is_correct": false },
+        { "option_id": 3, "text": "sells", "is_correct": true },
+        { "option_id": 4, "text": "buys", "is_correct": false }
+      ],
+      "answer": "sells"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "In 'Maya buys milk', which word is changed to make 'Meera buys milk'?",
+      "options": [
+        { "option_id": 1, "text": "buys", "is_correct": false },
+        { "option_id": 2, "text": "Maya", "is_correct": true },
+        { "option_id": 3, "text": "milk", "is_correct": false },
+        { "option_id": 4, "text": "Meera", "is_correct": false }
+      ],
+      "answer": "Maya"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The second example starts with 'I saw two ______.'",
+      "options": [
+        { "option_id": 1, "text": "bags", "is_correct": false },
+        { "option_id": 2, "text": "birds", "is_correct": true },
+        { "option_id": 3, "text": "cats", "is_correct": false },
+        { "option_id": 4, "text": "dogs", "is_correct": false }
+      ],
+      "answer": "birds"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "'I saw two birds' changes to 'I saw two ______.'",
+      "options": [
+        { "option_id": 1, "text": "bags", "is_correct": true },
+        { "option_id": 2, "text": "trees", "is_correct": false },
+        { "option_id": 3, "text": "cars", "is_correct": false },
+        { "option_id": 4, "text": "pens", "is_correct": false }
+      ],
+      "answer": "bags"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "'I saw two bags' changes to 'I saw ______ bags.'",
+      "options": [
+        { "option_id": 1, "text": "your", "is_correct": false },
+        { "option_id": 2, "text": "my", "is_correct": true },
+        { "option_id": 3, "text": "his", "is_correct": false },
+        { "option_id": 4, "text": "her", "is_correct": false }
+      ],
+      "answer": "my"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'I saw my bags' changes to 'I saw my ______.'",
+      "options": [
+        { "option_id": 1, "text": "bag", "is_correct": true },
+        { "option_id": 2, "text": "cat", "is_correct": false },
+        { "option_id": 3, "text": "dog", "is_correct": false },
+        { "option_id": 4, "text": "hat", "is_correct": false }
+      ],
+      "answer": "bag"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'I saw my bag' changes to 'I ______ my bag.'",
+      "options": [
+        { "option_id": 1, "text": "lost", "is_correct": false },
+        { "option_id": 2, "text": "found", "is_correct": true },
+        { "option_id": 3, "text": "took", "is_correct": false },
+        { "option_id": 4, "text": "kept", "is_correct": false }
+      ],
+      "answer": "found"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'I found my bag' changes to '______ found my bag.'",
+      "options": [
+        { "option_id": 1, "text": "He", "is_correct": false },
+        { "option_id": 2, "text": "She", "is_correct": true },
+        { "option_id": 3, "text": "We", "is_correct": false },
+        { "option_id": 4, "text": "They", "is_correct": false }
+      ],
+      "answer": "She"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which activity helps make this exercise effective?",
+      "options": [
+        { "option_id": 1, "text": "Reading silently", "is_correct": false },
+        { "option_id": 2, "text": "Using word cards with students standing in front", "is_correct": true },
+        { "option_id": 3, "text": "Writing on paper", "is_correct": false },
+        { "option_id": 4, "text": "Drawing pictures", "is_correct": false }
+      ],
+      "answer": "Using word cards with students standing in front"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What is the sentence 'Priya liked sweets' taken from?",
+      "options": [
+        { "option_id": 1, "text": "A previous story in the book", "is_correct": true },
+        { "option_id": 2, "text": "A newspaper", "is_correct": false },
+        { "option_id": 3, "text": "A song", "is_correct": false },
+        { "option_id": 4, "text": "A movie", "is_correct": false }
+      ],
+      "answer": "A previous story in the book"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The sentence 'The sky is falling' is from which story?",
+      "options": [
+        { "option_id": 1, "text": "Maya's Dream", "is_correct": false },
+        { "option_id": 2, "text": "The sky is falling!", "is_correct": true },
+        { "option_id": 3, "text": "The Hare and the Tortoise", "is_correct": false },
+        { "option_id": 4, "text": "Good Habits", "is_correct": false }
+      ],
+      "answer": "The sky is falling!"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who reached the mango tree in the original story?",
+      "options": [
+        { "option_id": 1, "text": "The hare", "is_correct": false },
+        { "option_id": 2, "text": "The tortoise", "is_correct": true },
+        { "option_id": 3, "text": "A monkey", "is_correct": false },
+        { "option_id": 4, "text": "A boy", "is_correct": false }
+      ],
+      "answer": "The tortoise"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the subject in 'He reached the mango tree'?",
+      "options": [
+        { "option_id": 1, "text": "reached", "is_correct": false },
+        { "option_id": 2, "text": "He", "is_correct": true },
+        { "option_id": 3, "text": "the", "is_correct": false },
+        { "option_id": 4, "text": "tree", "is_correct": false }
+      ],
+      "answer": "He"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "In 'Don't touch my sheep', 'sheep' can be changed to ______.",
+      "options": [
+        { "option_id": 1, "text": "books", "is_correct": true },
+        { "option_id": 2, "text": "run", "is_correct": false },
+        { "option_id": 3, "text": "fast", "is_correct": false },
+        { "option_id": 4, "text": "sleep", "is_correct": false }
+      ],
+      "answer": "books"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "We have a ______ in our classroom.",
+      "options": [
+        { "option_id": 1, "text": "swimming pool", "is_correct": false },
+        { "option_id": 2, "text": "postbox", "is_correct": true },
+        { "option_id": 3, "text": "tiger", "is_correct": false },
+        { "option_id": 4, "text": "car", "is_correct": false }
+      ],
+      "answer": "postbox"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What part of speech is 'butter' in 'Maya sells butter'?",
+      "options": [
+        { "option_id": 1, "text": "Verb", "is_correct": false },
+        { "option_id": 2, "text": "Noun", "is_correct": true },
+        { "option_id": 3, "text": "Adjective", "is_correct": false },
+        { "option_id": 4, "text": "Pronoun", "is_correct": false }
+      ],
+      "answer": "Noun"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What part of speech is 'sells' in 'Maya sells butter'?",
+      "options": [
+        { "option_id": 1, "text": "Noun", "is_correct": false },
+        { "option_id": 2, "text": "Verb", "is_correct": true },
+        { "option_id": 3, "text": "Adverb", "is_correct": false },
+        { "option_id": 4, "text": "Preposition", "is_correct": false }
+      ],
+      "answer": "Verb"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "In 'I saw two birds', 'two' tells us ______.",
+      "options": [
+        { "option_id": 1, "text": "Color", "is_correct": false },
+        { "option_id": 2, "text": "Number", "is_correct": true },
+        { "option_id": 3, "text": "Size", "is_correct": false },
+        { "option_id": 4, "text": "Action", "is_correct": false }
+      ],
+      "answer": "Number"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which word is the subject in 'She found my bag'?",
+      "options": [
+        { "option_id": 1, "text": "found", "is_correct": false },
+        { "option_id": 2, "text": "She", "is_correct": true },
+        { "option_id": 3, "text": "my", "is_correct": false },
+        { "option_id": 4, "text": "bag", "is_correct": false }
+      ],
+      "answer": "She"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the object in 'Maya buys milk'?",
+      "options": [
+        { "option_id": 1, "text": "Maya", "is_correct": false },
+        { "option_id": 2, "text": "buys", "is_correct": false },
+        { "option_id": 3, "text": "milk", "is_correct": true },
+        { "option_id": 4, "text": "sells", "is_correct": false }
+      ],
+      "answer": "milk"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The second instruction asks students to find ______.",
+      "options": [
+        { "option_id": 1, "text": "Long sentences", "is_correct": false },
+        { "option_id": 2, "text": "Other short sentences in the book", "is_correct": true },
+        { "option_id": 3, "text": "Pictures", "is_correct": false },
+        { "option_id": 4, "text": "Poems", "is_correct": false }
+      ],
+      "answer": "Other short sentences in the book"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "If you change 'Priya' in 'Priya liked sweets', you could write ______.",
+      "options": [
+        { "option_id": 1, "text": "Raju liked sweets", "is_correct": true },
+        { "option_id": 2, "text": "Liked Priya sweets", "is_correct": false },
+        { "option_id": 3, "text": "Sweets liked Priya", "is_correct": false },
+        { "option_id": 4, "text": "Like Priya sweets", "is_correct": false }
+      ],
+      "answer": "Raju liked sweets"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "If you change 'sweets' in 'Priya liked sweets', you could write ______.",
+      "options": [
+        { "option_id": 1, "text": "Priya liked playing", "is_correct": false },
+        { "option_id": 2, "text": "Priya liked flowers", "is_correct": true },
+        { "option_id": 3, "text": "Priya ran", "is_correct": false },
+        { "option_id": 4, "text": "Priya sweets", "is_correct": false }
+      ],
+      "answer": "Priya liked flowers"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the past tense of 'see' used in the examples?",
+      "options": [
+        { "option_id": 1, "text": "Seed", "is_correct": false },
+        { "option_id": 2, "text": "Saw", "is_correct": true },
+        { "option_id": 3, "text": "Seen", "is_correct": false },
+        { "option_id": 4, "text": "Seeing", "is_correct": false }
+      ],
+      "answer": "Saw"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the past tense of 'find' used in the examples?",
+      "options": [
+        { "option_id": 1, "text": "Finded", "is_correct": false },
+        { "option_id": 2, "text": "Found", "is_correct": true },
+        { "option_id": 3, "text": "Finding", "is_correct": false },
+        { "option_id": 4, "text": "Founds", "is_correct": false }
+      ],
+      "answer": "Found"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which unit is this chapter from?",
+      "options": [
+        { "option_id": 1, "text": "Unit Four", "is_correct": false },
+        { "option_id": 2, "text": "Unit Five", "is_correct": true },
+        { "option_id": 3, "text": "Unit One", "is_correct": false },
+        { "option_id": 4, "text": "Unit Two", "is_correct": false }
+      ],
+      "answer": "Unit Five"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Can 'The sky is falling' be changed to 'The rain is falling'?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Only if raining", "is_correct": false },
+        { "option_id": 4, "text": "Only at night", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Can 'The sky is falling' be changed to 'The book is falling'?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Maybe", "is_correct": false },
+        { "option_id": 4, "text": "Never", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Can 'He reached the mango tree' be changed to 'He reached the school'?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Only in morning", "is_correct": false },
+        { "option_id": 4, "text": "Only in evening", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the purpose of this activity?",
+      "options": [
+        { "option_id": 1, "text": "To learn spelling", "is_correct": false },
+        { "option_id": 2, "text": "To learn how to construct and vary sentences", "is_correct": true },
+        { "option_id": 3, "text": "To memorize stories", "is_correct": false },
+        { "option_id": 4, "text": "To draw lines", "is_correct": false }
+      ],
+      "answer": "To learn how to construct and vary sentences"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "In 'Don't touch my sheep', if you change 'touch' to 'take', the sentence becomes:",
+      "options": [
+        { "option_id": 1, "text": "Don't take my sheep", "is_correct": true },
+        { "option_id": 2, "text": "Don't touch my take", "is_correct": false },
+        { "option_id": 3, "text": "Do take my sheep", "is_correct": false },
+        { "option_id": 4, "text": "Take my sheep", "is_correct": false }
+      ],
+      "answer": "Don't take my sheep"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "In 'We have a postbox in our classroom', if you change 'postbox' to 'blackboard', the sentence becomes:",
+      "options": [
+        { "option_id": 1, "text": "We have a blackboard in our classroom", "is_correct": true },
+        { "option_id": 2, "text": "We have a postbox in our blackboard", "is_correct": false },
+        { "option_id": 3, "text": "We have a classroom in our blackboard", "is_correct": false },
+        { "option_id": 4, "text": "We blackboard a postbox", "is_correct": false }
+      ],
+      "answer": "We have a blackboard in our classroom"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'sells' is:",
+      "options": [
+        { "option_id": 1, "text": "Cells", "is_correct": false },
+        { "option_id": 2, "text": "Sells", "is_correct": true },
+        { "option_id": 3, "text": "Sels", "is_correct": false },
+        { "option_id": 4, "text": "Ceals", "is_correct": false }
+      ],
+      "answer": "Sells"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'buys' is:",
+      "options": [
+        { "option_id": 1, "text": "Bys", "is_correct": false },
+        { "option_id": 2, "text": "Buys", "is_correct": true },
+        { "option_id": 3, "text": "Byes", "is_correct": false },
+        { "option_id": 4, "text": "Baise", "is_correct": false }
+      ],
+      "answer": "Buys"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'sells'?",
+      "options": [
+        { "option_id": 1, "text": "Gives", "is_correct": false },
+        { "option_id": 2, "text": "Buys", "is_correct": true },
+        { "option_id": 3, "text": "Takes", "is_correct": false },
+        { "option_id": 4, "text": "Uses", "is_correct": false }
+      ],
+      "answer": "Buys"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'found'?",
+      "options": [
+        { "option_id": 1, "text": "Lost", "is_correct": true },
+        { "option_id": 2, "text": "Saw", "is_correct": false },
+        { "option_id": 3, "text": "Kept", "is_correct": false },
+        { "option_id": 4, "text": "Hid", "is_correct": false }
+      ],
+      "answer": "Lost"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which of these is a noun?",
+      "options": [
+        { "option_id": 1, "text": "Saw", "is_correct": false },
+        { "option_id": 2, "text": "Bag", "is_correct": true },
+        { "option_id": 3, "text": "Found", "is_correct": false },
+        { "option_id": 4, "text": "My", "is_correct": false }
+      ],
+      "answer": "Bag"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which of these is a number?",
+      "options": [
+        { "option_id": 1, "text": "To", "is_correct": false },
+        { "option_id": 2, "text": "Too", "is_correct": false },
+        { "option_id": 3, "text": "Two", "is_correct": true },
+        { "option_id": 4, "text": "Tow", "is_correct": false }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "This chapter is useful for learning ______.",
+      "options": [
+        { "option_id": 1, "text": "Sentence structure", "is_correct": true },
+        { "option_id": 2, "text": "Drawing", "is_correct": false },
+        { "option_id": 3, "text": "Music", "is_correct": false },
+        { "option_id": 4, "text": "Maths", "is_correct": false }
+      ],
+      "answer": "Sentence structure"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which language's instructions are given in the box?",
+      "options": [
+        { "option_id": 1, "text": "English", "is_correct": false },
+        { "option_id": 2, "text": "Marathi", "is_correct": true },
+        { "option_id": 3, "text": "Hindi", "is_correct": false },
+        { "option_id": 4, "text": "Urdu", "is_correct": false }
+      ],
+      "answer": "Marathi"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What is the Marathi meaning of 'Change one word at a time'?",
+      "options": [
+        { "option_id": 1, "text": "सगळे शब्द बदला", "is_correct": false },
+        { "option_id": 2, "text": "एकेक शब्द बदला", "is_correct": true },
+        { "option_id": 3, "text": "शब्द बदलू नका", "is_correct": false },
+        { "option_id": 4, "text": "वाक्य बदला", "is_correct": false }
+      ],
+      "answer": "एकेक शब्द बदला"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What is the plural of 'bag'?",
+      "options": [
+        { "option_id": 1, "text": "Bagies", "is_correct": false },
+        { "option_id": 2, "text": "Bags", "is_correct": true },
+        { "option_id": 3, "text": "Bages", "is_correct": false },
+        { "option_id": 4, "text": "Bagz", "is_correct": false }
+      ],
+      "answer": "Bags"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What is the singular of 'birds'?",
+      "options": [
+        { "option_id": 1, "text": "Bird", "is_correct": true },
+        { "option_id": 2, "text": "Birde", "is_correct": false },
+        { "option_id": 3, "text": "Burd", "is_correct": false },
+        { "option_id": 4, "text": "Bard", "is_correct": false }
+      ],
+      "answer": "Bird"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which of these is a girl's name?",
+      "options": [
+        { "option_id": 1, "text": "Gaurav", "is_correct": false },
+        { "option_id": 2, "text": "Meera", "is_correct": true },
+        { "option_id": 3, "text": "Amit", "is_correct": false },
+        { "option_id": 4, "text": "Rahul", "is_correct": false }
+      ],
+      "answer": "Meera"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which of these is a drink?",
+      "options": [
+        { "option_id": 1, "text": "Butter", "is_correct": false },
+        { "option_id": 2, "text": "Milk", "is_correct": true },
+        { "option_id": 3, "text": "Bread", "is_correct": false },
+        { "option_id": 4, "text": "Apple", "is_correct": false }
+      ],
+      "answer": "Milk"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Can you change 'I found my bag' to 'I lost my bag'?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Only if bag is blue", "is_correct": false },
+        { "option_id": 4, "text": "Only if it is night", "is_correct": false }
+      ],
+      "answer": "Yes"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the first sentence in the first example?",
+      "answer": "Maya sells butter."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Change 'Maya sells butter' by changing 'butter'.",
+      "answer": "Maya sells milk (or any other item)."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Change 'Maya sells milk' by changing 'sells'.",
+      "answer": "Maya buys milk."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Change 'Maya buys milk' by changing 'Maya'.",
+      "answer": "Meera buys milk."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the first sentence in the second example?",
+      "answer": "I saw two birds."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Change 'birds' in 'I saw two birds'.",
+      "answer": "I saw two bags."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Change 'two' in 'I saw two bags'.",
+      "answer": "I saw my bags."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Change 'bags' in 'I saw my bags'.",
+      "answer": "I saw my bag."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Change 'saw' in 'I saw my bag'.",
+      "answer": "I found my bag."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Change 'I' in 'I found my bag'.",
+      "answer": "She found my bag."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "List one sentence from the book to change.",
+      "answer": "Priya liked sweets."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Change 'Priya' in 'Priya liked sweets'.",
+      "answer": "She liked sweets."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Change 'sweets' in 'Priya liked sweets'.",
+      "answer": "Priya liked toys."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Change 'sky' in 'The sky is falling'.",
+      "answer": "The rain is falling."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Change 'falling' in 'The sky is falling'.",
+      "answer": "The sky is blue."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Change 'mango' in 'He reached the mango tree'.",
+      "answer": "He reached the banyan tree."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Change 'He' in 'He reached the mango tree'.",
+      "answer": "She reached the mango tree."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Change 'tree' in 'He reached the mango tree'.",
+      "answer": "He reached the mango grove."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Change 'sheep' in 'Don't touch my sheep'.",
+      "answer": "Don't touch my books."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Change 'touch' in 'Don't touch my sheep'.",
+      "answer": "Don't scare my sheep."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Change 'postbox' in 'We have a postbox in our classroom'.",
+      "answer": "We have a computer in our classroom."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Change 'classroom' in 'We have a postbox in our classroom'.",
+      "answer": "We have a postbox in our school."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'butter'.",
+      "answer": "B-U-T-T-E-R."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'reached'.",
+      "answer": "R-E-A-C-H-E-D."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'classroom'.",
+      "answer": "C-L-A-S-S-R-O-O-M."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'sell'?",
+      "answer": "Sold."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'buy'?",
+      "answer": "Bought."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'find'?",
+      "answer": "Found."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the past tense of 'see'?",
+      "answer": "Saw."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'bird'?",
+      "answer": "Birds."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the singular of 'bags'?",
+      "answer": "Bag."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What type of word is 'my'?",
+      "answer": "Pronoun (Possessive Adjective)."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What type of word is 'sells'?",
+      "answer": "Verb."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What type of word is 'Maya'?",
+      "answer": "Noun (Proper Noun)."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Make a sentence with 'buy'.",
+      "answer": "I will buy a pen."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Make a sentence with 'found'.",
+      "answer": "I found a coin."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Make a sentence with 'reached'.",
+      "answer": "He reached home safely."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What unit is this chapter in?",
+      "answer": "Unit Five."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What does the teacher ask students to do?",
+      "answer": "Change one word at a time and make a meaningful sentence."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the Marathi instruction for 'meaningful sentence'?",
+      "answer": "अर्थपूर्ण वाक्य."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Change 'I saw my bag' to a question.",
+      "answer": "Did I see my bag?"
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Change 'Maya sells milk' to a question.",
+      "answer": "Does Maya sell milk?"
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'falling'?",
+      "answer": "Rising."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'liked'?",
+      "answer": "Disliked."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Can you use word cards for this activity?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How many words are changed in each step?",
+      "answer": "One word."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Is 'I saw two bags' meaningful?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Is 'I saw my bags' meaningful?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Is 'She found my bag' meaningful?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Which language is used in this book?",
+      "answer": "English."
+    }
+  ]
+}

@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.09",
+    "standard": "4",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "In the Park"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the title of the story on page 12?",
+      "options": [
+        { "option_id": 1, "text": "At School", "is_correct": false },
+        { "option_id": 2, "text": "In the Park", "is_correct": true },
+        { "option_id": 3, "text": "On the Road", "is_correct": false },
+        { "option_id": 4, "text": "In the House", "is_correct": false }
+      ],
+      "answer": "In the Park"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who is the boy counting the children?",
+      "options": [
+        { "option_id": 1, "text": "Gotu", "is_correct": false },
+        { "option_id": 2, "text": "Ishan", "is_correct": true },
+        { "option_id": 3, "text": "Ricky", "is_correct": false },
+        { "option_id": 4, "text": "Vicky", "is_correct": false }
+      ],
+      "answer": "Ishan"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "How many children should there be in all?",
+      "options": [
+        { "option_id": 1, "text": "Eight", "is_correct": false },
+        { "option_id": 2, "text": "Nine", "is_correct": true },
+        { "option_id": 3, "text": "Ten", "is_correct": false },
+        { "option_id": 4, "text": "Seven", "is_correct": false }
+      ],
+      "answer": "Nine"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How many children did Ishan count the first time?",
+      "options": [
+        { "option_id": 1, "text": "Nine", "is_correct": false },
+        { "option_id": 2, "text": "Eight", "is_correct": true },
+        { "option_id": 3, "text": "Seven", "is_correct": false },
+        { "option_id": 4, "text": "Six", "is_correct": false }
+      ],
+      "answer": "Eight"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who passed by first when Ishan was worried?",
+      "options": [
+        { "option_id": 1, "text": "An Uncle", "is_correct": false },
+        { "option_id": 2, "text": "A lady (Aunty)", "is_correct": true },
+        { "option_id": 3, "text": "A policeman", "is_correct": false },
+        { "option_id": 4, "text": "A teacher", "is_correct": false }
+      ],
+      "answer": "A lady (Aunty)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How many children did Aunty count?",
+      "options": [
+        { "option_id": 1, "text": "Eight", "is_correct": false },
+        { "option_id": 2, "text": "Nine", "is_correct": true },
+        { "option_id": 3, "text": "Ten", "is_correct": false },
+        { "option_id": 4, "text": "Five", "is_correct": false }
+      ],
+      "answer": "Nine"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What did Ishan think happened to the ninth child after Aunty counted?",
+      "options": [
+        { "option_id": 1, "text": "He got lost", "is_correct": false },
+        { "option_id": 2, "text": "The naughty child has come back", "is_correct": true },
+        { "option_id": 3, "text": "He ran away", "is_correct": false },
+        { "option_id": 4, "text": "He was hiding", "is_correct": false }
+      ],
+      "answer": "The naughty child has come back"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who passed by after Ishan counted eight again?",
+      "options": [
+        { "option_id": 1, "text": "A lady", "is_correct": false },
+        { "option_id": 2, "text": "A man (Uncle)", "is_correct": true },
+        { "option_id": 3, "text": "Didi", "is_correct": false },
+        { "option_id": 4, "text": "A dog", "is_correct": false }
+      ],
+      "answer": "A man (Uncle)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did the other children do when Ishan miscounted?",
+      "options": [
+        { "option_id": 1, "text": "Cried", "is_correct": false },
+        { "option_id": 2, "text": "Started giggling", "is_correct": true },
+        { "option_id": 3, "text": "Ran away", "is_correct": false },
+        { "option_id": 4, "text": "Shouted", "is_correct": false }
+      ],
+      "answer": "Started giggling"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who finally solved the problem?",
+      "options": [
+        { "option_id": 1, "text": "Aunty", "is_correct": false },
+        { "option_id": 2, "text": "Uncle", "is_correct": false },
+        { "option_id": 3, "text": "Didi", "is_correct": true },
+        { "option_id": 4, "text": "Isha", "is_correct": false }
+      ],
+      "answer": "Didi"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why did Ishan only count eight children?",
+      "options": [
+        { "option_id": 1, "text": "One was missing", "is_correct": false },
+        { "option_id": 2, "text": "He forgot to count himself", "is_correct": true },
+        { "option_id": 3, "text": "He couldn't count", "is_correct": false },
+        { "option_id": 4, "text": "Someone was hiding", "is_correct": false }
+      ],
+      "answer": "He forgot to count himself"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which of these is a name of a child in the story?",
+      "options": [
+        { "option_id": 1, "text": "Raju", "is_correct": false },
+        { "option_id": 2, "text": "Babali", "is_correct": true },
+        { "option_id": 3, "text": "Sanju", "is_correct": false },
+        { "option_id": 4, "text": "Meena", "is_correct": false }
+      ],
+      "answer": "Babali"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a name mentioned in the story?",
+      "options": [
+        { "option_id": 1, "text": "Isha", "is_correct": false },
+        { "option_id": 2, "text": "Nisha", "is_correct": false },
+        { "option_id": 3, "text": "Rahul", "is_correct": true },
+        { "option_id": 4, "text": "Ricky", "is_correct": false }
+      ],
+      "answer": "Rahul"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What time is it in the story?",
+      "options": [
+        { "option_id": 1, "text": "Time to go to school", "is_correct": false },
+        { "option_id": 2, "text": "Time to go back home", "is_correct": true },
+        { "option_id": 3, "text": "Lunch time", "is_correct": false },
+        { "option_id": 4, "text": "Bed time", "is_correct": false }
+      ],
+      "answer": "Time to go back home"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What did Ishan call the 'missing' child?",
+      "options": [
+        { "option_id": 1, "text": "Good child", "is_correct": false },
+        { "option_id": 2, "text": "Naughty child", "is_correct": true },
+        { "option_id": 3, "text": "Bad child", "is_correct": false },
+        { "option_id": 4, "text": "Lost child", "is_correct": false }
+      ],
+      "answer": "Naughty child"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "How did Ishan feel when he counted eight?",
+      "options": [
+        { "option_id": 1, "text": "Happy", "is_correct": false },
+        { "option_id": 2, "text": "Worried", "is_correct": true },
+        { "option_id": 3, "text": "Angry", "is_correct": false },
+        { "option_id": 4, "text": "Sleepy", "is_correct": false }
+      ],
+      "answer": "Worried"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who is the oldest among the children?",
+      "options": [
+        { "option_id": 1, "text": "Ricky", "is_correct": false },
+        { "option_id": 2, "text": "Gotu", "is_correct": false },
+        { "option_id": 3, "text": "Ishan", "is_correct": true },
+        { "option_id": 4, "text": "Isha", "is_correct": false }
+      ],
+      "answer": "Ishan"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What did Ishan think would happen to him?",
+      "options": [
+        { "option_id": 1, "text": "Everyone will praise him", "is_correct": false },
+        { "option_id": 2, "text": "Everyone will scold him", "is_correct": true },
+        { "option_id": 3, "text": "He will get a prize", "is_correct": false },
+        { "option_id": 4, "text": "He will be happy", "is_correct": false }
+      ],
+      "answer": "Everyone will scold him"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What did Didi ask Ishan to do?",
+      "options": [
+        { "option_id": 1, "text": "Run home", "is_correct": false },
+        { "option_id": 2, "text": "Count", "is_correct": true },
+        { "option_id": 3, "text": "Cry", "is_correct": false },
+        { "option_id": 4, "text": "Sit down", "is_correct": false }
+      ],
+      "answer": "Count"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What was Ishan's reaction at the end?",
+      "options": [
+        { "option_id": 1, "text": "He cried", "is_correct": false },
+        { "option_id": 2, "text": "He laughed", "is_correct": true },
+        { "option_id": 3, "text": "He ran away", "is_correct": false },
+        { "option_id": 4, "text": "He got angry", "is_correct": false }
+      ],
+      "answer": "He laughed"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who said 'Hello, everybody!'?",
+      "options": [
+        { "option_id": 1, "text": "Uncle", "is_correct": false },
+        { "option_id": 2, "text": "Aunty", "is_correct": false },
+        { "option_id": 3, "text": "Didi", "is_correct": true },
+        { "option_id": 4, "text": "Ishan", "is_correct": false }
+      ],
+      "answer": "Didi"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What unit is this chapter?",
+      "options": [
+        { "option_id": 1, "text": "Unit 2", "is_correct": false },
+        { "option_id": 2, "text": "Unit 1", "is_correct": true },
+        { "option_id": 3, "text": "Unit 3", "is_correct": false },
+        { "option_id": 4, "text": "Unit 4", "is_correct": false }
+      ],
+      "answer": "Unit 1"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'come'?",
+      "options": [
+        { "option_id": 1, "text": "Go", "is_correct": true },
+        { "option_id": 2, "text": "Run", "is_correct": false },
+        { "option_id": 3, "text": "Stay", "is_correct": false },
+        { "option_id": 4, "text": "Sit", "is_correct": false }
+      ],
+      "answer": "Go"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'oldest'?",
+      "options": [
+        { "option_id": 1, "text": "Biggest", "is_correct": false },
+        { "option_id": 2, "text": "Youngest", "is_correct": true },
+        { "option_id": 3, "text": "Tallest", "is_correct": false },
+        { "option_id": 4, "text": "Shortest", "is_correct": false }
+      ],
+      "answer": "Youngest"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What rhymes with 'Park'?",
+      "options": [
+        { "option_id": 1, "text": "Dark", "is_correct": true },
+        { "option_id": 2, "text": "Pack", "is_correct": false },
+        { "option_id": 3, "text": "Pick", "is_correct": false },
+        { "option_id": 4, "text": "Poke", "is_correct": false }
+      ],
+      "answer": "Dark"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which word means 'laughing lightly'?",
+      "options": [
+        { "option_id": 1, "text": "Crying", "is_correct": false },
+        { "option_id": 2, "text": "Giggling", "is_correct": true },
+        { "option_id": 3, "text": "Shouting", "is_correct": false },
+        { "option_id": 4, "text": "Talking", "is_correct": false }
+      ],
+      "answer": "Giggling"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What did Uncle do?",
+      "options": [
+        { "option_id": 1, "text": "Scolded Ishan", "is_correct": false },
+        { "option_id": 2, "text": "Counted the children", "is_correct": true },
+        { "option_id": 3, "text": "Played with them", "is_correct": false },
+        { "option_id": 4, "text": "Ran away", "is_correct": false }
+      ],
+      "answer": "Counted the children"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the past tense of 'count'?",
+      "options": [
+        { "option_id": 1, "text": "Counted", "is_correct": true },
+        { "option_id": 2, "text": "Counting", "is_correct": false },
+        { "option_id": 3, "text": "Counts", "is_correct": false },
+        { "option_id": 4, "text": "Cownt", "is_correct": false }
+      ],
+      "answer": "Counted"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'naughty' is:",
+      "options": [
+        { "option_id": 1, "text": "Notty", "is_correct": false },
+        { "option_id": 2, "text": "Naughty", "is_correct": true },
+        { "option_id": 3, "text": "Nauty", "is_correct": false },
+        { "option_id": 4, "text": "Noughty", "is_correct": false }
+      ],
+      "answer": "Naughty"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'worried' is:",
+      "options": [
+        { "option_id": 1, "text": "Worryed", "is_correct": false },
+        { "option_id": 2, "text": "Worried", "is_correct": true },
+        { "option_id": 3, "text": "Waried", "is_correct": false },
+        { "option_id": 4, "text": "Wored", "is_correct": false }
+      ],
+      "answer": "Worried"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'missing' is:",
+      "options": [
+        { "option_id": 1, "text": "Mising", "is_correct": false },
+        { "option_id": 2, "text": "Missing", "is_correct": true },
+        { "option_id": 3, "text": "Missin", "is_correct": false },
+        { "option_id": 4, "text": "Mishing", "is_correct": false }
+      ],
+      "answer": "Missing"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is the colour of the balloon in the picture?",
+      "options": [
+        { "option_id": 1, "text": "Blue", "is_correct": false },
+        { "option_id": 2, "text": "Red", "is_correct": true },
+        { "option_id": 3, "text": "Green", "is_correct": false },
+        { "option_id": 4, "text": "Yellow", "is_correct": false }
+      ],
+      "answer": "Red"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What game equipment is seen in the picture?",
+      "options": [
+        { "option_id": 1, "text": "Cricket bat", "is_correct": false },
+        { "option_id": 2, "text": "Badminton racket and football", "is_correct": true },
+        { "option_id": 3, "text": "Hockey stick", "is_correct": false },
+        { "option_id": 4, "text": "Basketball", "is_correct": false }
+      ],
+      "answer": "Badminton racket and football"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "How many times did Ishan count incorrectly?",
+      "options": [
+        { "option_id": 1, "text": "Once", "is_correct": false },
+        { "option_id": 2, "text": "Twice (or more)", "is_correct": true },
+        { "option_id": 3, "text": "Never", "is_correct": false },
+        { "option_id": 4, "text": "Three times", "is_correct": false }
+      ],
+      "answer": "Twice (or more)"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Ishan said: 'How ______ of me!'",
+      "options": [
+        { "option_id": 1, "text": "Smart", "is_correct": false },
+        { "option_id": 2, "text": "Silly", "is_correct": true },
+        { "option_id": 3, "text": "Good", "is_correct": false },
+        { "option_id": 4, "text": "Bad", "is_correct": false }
+      ],
+      "answer": "Silly"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What expression did Ishan use when Aunty counted nine?",
+      "options": [
+        { "option_id": 1, "text": "Oh no!", "is_correct": false },
+        { "option_id": 2, "text": "Thank you so much", "is_correct": true },
+        { "option_id": 3, "text": "Go away", "is_correct": false },
+        { "option_id": 4, "text": "I don't believe you", "is_correct": false }
+      ],
+      "answer": "Thank you so much"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What is the code on page 13?",
+      "options": [
+        { "option_id": 1, "text": "T986VB", "is_correct": true },
+        { "option_id": 2, "text": "ABC123", "is_correct": false },
+        { "option_id": 3, "text": "XYZ999", "is_correct": false },
+        { "option_id": 4, "text": "PARK01", "is_correct": false }
+      ],
+      "answer": "T986VB"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who walked in after Uncle left?",
+      "options": [
+        { "option_id": 1, "text": "Aunty", "is_correct": false },
+        { "option_id": 2, "text": "Didi", "is_correct": true },
+        { "option_id": 3, "text": "Ishan's mother", "is_correct": false },
+        { "option_id": 4, "text": "A policeman", "is_correct": false }
+      ],
+      "answer": "Didi"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What did Ishan ask Didi?",
+      "options": [
+        { "option_id": 1, "text": "To play", "is_correct": false },
+        { "option_id": 2, "text": "To help find the missing child", "is_correct": true },
+        { "option_id": 3, "text": "To go home", "is_correct": false },
+        { "option_id": 4, "text": "To buy ice cream", "is_correct": false }
+      ],
+      "answer": "To help find the missing child"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The story teaches us to ______.",
+      "options": [
+        { "option_id": 1, "text": "Count properly including oneself", "is_correct": true },
+        { "option_id": 2, "text": "Play in the park", "is_correct": false },
+        { "option_id": 3, "text": "Talk to strangers", "is_correct": false },
+        { "option_id": 4, "text": "Laugh at others", "is_correct": false }
+      ],
+      "answer": "Count properly including oneself"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which word starts with 'G'?",
+      "options": [
+        { "option_id": 1, "text": "Gotu", "is_correct": false },
+        { "option_id": 2, "text": "Good", "is_correct": false },
+        { "option_id": 3, "text": "Giggling", "is_correct": false },
+        { "option_id": 4, "text": "All of the above", "is_correct": true }
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What activity should students do?",
+      "options": [
+        { "option_id": 1, "text": "Sleep", "is_correct": false },
+        { "option_id": 2, "text": "Read and Enact", "is_correct": true },
+        { "option_id": 3, "text": "Write a poem", "is_correct": false },
+        { "option_id": 4, "text": "Draw a map", "is_correct": false }
+      ],
+      "answer": "Read and Enact"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What colour dress is Aunty wearing?",
+      "options": [
+        { "option_id": 1, "text": "Blue saree", "is_correct": true },
+        { "option_id": 2, "text": "Red dress", "is_correct": false },
+        { "option_id": 3, "text": "Green suit", "is_correct": false },
+        { "option_id": 4, "text": "Yellow saree", "is_correct": false }
+      ],
+      "answer": "Blue saree"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What colour shirt is Uncle wearing?",
+      "options": [
+        { "option_id": 1, "text": "Red striped shirt", "is_correct": true },
+        { "option_id": 2, "text": "Blue shirt", "is_correct": false },
+        { "option_id": 3, "text": "White shirt", "is_correct": false },
+        { "option_id": 4, "text": "Black shirt", "is_correct": false }
+      ],
+      "answer": "Red striped shirt"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who is Papali paired with in the names list?",
+      "options": [
+        { "option_id": 1, "text": "Babali", "is_correct": true },
+        { "option_id": 2, "text": "Gotu", "is_correct": false },
+        { "option_id": 3, "text": "Ricky", "is_correct": false },
+        { "option_id": 4, "text": "Isha", "is_correct": false }
+      ],
+      "answer": "Babali"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who is Ricky paired with?",
+      "options": [
+        { "option_id": 1, "text": "Vicky", "is_correct": true },
+        { "option_id": 2, "text": "Nisha", "is_correct": false },
+        { "option_id": 3, "text": "Gotu", "is_correct": false },
+        { "option_id": 4, "text": "Chhotu", "is_correct": false }
+      ],
+      "answer": "Vicky"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What is the Marathi instruction for 'Enact'?",
+      "options": [
+        { "option_id": 1, "text": "वाचा", "is_correct": false },
+        { "option_id": 2, "text": "हावभावांसह सादर करा", "is_correct": true },
+        { "option_id": 3, "text": "लिहा", "is_correct": false },
+        { "option_id": 4, "text": "बोला", "is_correct": false }
+      ],
+      "answer": "हावभावांसह सादर करा"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What did Ishan say when Didi counted nine?",
+      "options": [
+        { "option_id": 1, "text": "Oh, no!", "is_correct": true },
+        { "option_id": 2, "text": "Great!", "is_correct": false },
+        { "option_id": 3, "text": "Impossible!", "is_correct": false },
+        { "option_id": 4, "text": "Run!", "is_correct": false }
+      ],
+      "answer": "Oh, no!"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What emotion is shown by 'Sighs'?",
+      "options": [
+        { "option_id": 1, "text": "Relief", "is_correct": true },
+        { "option_id": 2, "text": "Anger", "is_correct": false },
+        { "option_id": 3, "text": "Joy", "is_correct": false },
+        { "option_id": 4, "text": "Fear", "is_correct": false }
+      ],
+      "answer": "Relief"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Where does the story take place?",
+      "options": [
+        { "option_id": 1, "text": "School", "is_correct": false },
+        { "option_id": 2, "text": "Park", "is_correct": true },
+        { "option_id": 3, "text": "Market", "is_correct": false },
+        { "option_id": 4, "text": "Zoo", "is_correct": false }
+      ],
+      "answer": "Park"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who counted the children first?",
+      "answer": "Ishan."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How many children did Ishan count?",
+      "answer": "Eight."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who helped Ishan first?",
+      "answer": "Aunty (A lady)."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How many children did Aunty count?",
+      "answer": "Nine."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who helped Ishan second?",
+      "answer": "Uncle (A man)."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How many children did Uncle count?",
+      "answer": "Nine."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Who arrived at the end?",
+      "answer": "Didi."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who was the 'missing' child?",
+      "answer": "Ishan (he forgot to count himself)."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What did the other children do when Ishan made a mistake?",
+      "answer": "They started giggling."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the name of Ishan's sister/friend who solved the mystery?",
+      "answer": "Didi."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Name two children from the group (other than Ishan).",
+      "answer": "Isha, Nisha (or any other pair)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What game were the children likely playing?",
+      "answer": "They were in the park, playing with balls and rackets."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why was Ishan worried?",
+      "answer": "Because he thought one child was missing."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What did Ishan call the child who 'came back'?",
+      "answer": "Naughty child."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does 'giggling' mean?",
+      "answer": "Laughing in a silly or quiet way."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'naughty'.",
+      "answer": "N-A-U-G-H-T-Y."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'worried'.",
+      "answer": "W-O-R-R-I-E-D."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'missing'.",
+      "answer": "M-I-S-S-I-N-G."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'giggling'.",
+      "answer": "G-I-G-G-L-I-N-G."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What did everyone do at the end?",
+      "answer": "They laughed."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How did Ishan feel at the end?",
+      "answer": "Silly (and relieved/happy)."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Who is the oldest in the group?",
+      "answer": "Ishan."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What did Ishan fear would happen?",
+      "answer": "Everyone would scold him."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Count from 1 to 9 in English.",
+      "answer": "One, two, three, four, five, six, seven, eight, nine."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What object is the boy in the blue striped shirt holding?",
+      "answer": "A football."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the girl with the red balloon holding?",
+      "answer": "A badminton racket."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the title of the story?",
+      "answer": "In the Park."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What unit is this from?",
+      "answer": "Unit 1."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'back'?",
+      "answer": "Front (or 'go' in context of come back)."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'lost'?",
+      "answer": "Found."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'laugh'?",
+      "answer": "Cry."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What did Ishan say when Uncle counted 9?",
+      "answer": "\"That's all right then.\""
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why did Ishan count again after Uncle?",
+      "answer": "To check / Because he was confused."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What does 'enact' mean?",
+      "answer": "To perform or act out the story."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Who is Ricky's rhyming partner?",
+      "answer": "Vicky."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Who is Gotu's rhyming partner?",
+      "answer": "Chhotu."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Who is Isha's rhyming partner?",
+      "answer": "Nisha."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What did Ishan say when he realized his mistake?",
+      "answer": "\"How silly of me!\""
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'child'?",
+      "answer": "Children."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the singular of 'friends'?",
+      "answer": "Friend."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What was the weather like?",
+      "answer": "Not mentioned (implied pleasant for park)."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What time of day is it?",
+      "answer": "Time to go back home (likely evening)."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Did anyone really go missing?",
+      "answer": "No."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How many adults helped Ishan?",
+      "answer": "Two (Aunty and Uncle)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What does 'scold' mean?",
+      "answer": "To speak angrily to someone for doing something wrong."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Who entered walking?",
+      "answer": "Didi."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What did Didi say at first?",
+      "answer": "\"Hello, everybody!\""
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Identify the word: G-I-G-G-L-I-N-G.",
+      "answer": "Giggling."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Don't forget to count yourself (or Think carefully before worrying)."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the last sentence of the story?",
+      "answer": "How silly of me! (Everyone laughs.)"
+    }
+  ]
+}

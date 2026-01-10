@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.60",
+    "standard": "4",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "Order, order!"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the title of the lesson?",
+      "options": [
+        { "option_id": 1, "text": "Listen and Repeat", "is_correct": false },
+        { "option_id": 2, "text": "Order, order!", "is_correct": true },
+        { "option_id": 3, "text": "A-B-C-D", "is_correct": false },
+        { "option_id": 4, "text": "Word Game", "is_correct": false }
+      ],
+      "answer": "Order, order!"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the main activity in this lesson?",
+      "options": [
+        { "option_id": 1, "text": "Singing a song", "is_correct": false },
+        { "option_id": 2, "text": "Arranging words in alphabetical order", "is_correct": true },
+        { "option_id": 3, "text": "Drawing pictures", "is_correct": false },
+        { "option_id": 4, "text": "Running a race", "is_correct": false }
+      ],
+      "answer": "Arranging words in alphabetical order"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does 'alphabetical order' mean?",
+      "options": [
+        { "option_id": 1, "text": "Order from Z to A", "is_correct": false },
+        { "option_id": 2, "text": "Order by length of word", "is_correct": false },
+        { "option_id": 3, "text": "Order from A to Z", "is_correct": true },
+        { "option_id": 4, "text": "Random order", "is_correct": false }
+      ],
+      "answer": "Order from A to Z"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which letter comes first in alphabetical order?",
+      "options": [
+        { "option_id": 1, "text": "B", "is_correct": false },
+        { "option_id": 2, "text": "A", "is_correct": true },
+        { "option_id": 3, "text": "Z", "is_correct": false },
+        { "option_id": 4, "text": "M", "is_correct": false }
+      ],
+      "answer": "A"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which word would come first: 'Apple' or 'Bat'?",
+      "options": [
+        { "option_id": 1, "text": "Apple", "is_correct": true },
+        { "option_id": 2, "text": "Bat", "is_correct": false },
+        { "option_id": 3, "text": "Both", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Apple"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Arrange these letters in order: D, A, C, B.",
+      "options": [
+        { "option_id": 1, "text": "A, D, C, B", "is_correct": false },
+        { "option_id": 2, "text": "A, B, C, D", "is_correct": true },
+        { "option_id": 3, "text": "D, C, B, A", "is_correct": false },
+        { "option_id": 4, "text": "B, A, C, D", "is_correct": false }
+      ],
+      "answer": "A, B, C, D"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word comes after 'Cat' in alphabetical order?",
+      "options": [
+        { "option_id": 1, "text": "Ant", "is_correct": false },
+        { "option_id": 2, "text": "Bat", "is_correct": false },
+        { "option_id": 3, "text": "Dog", "is_correct": true },
+        { "option_id": 4, "text": "Apple", "is_correct": false }
+      ],
+      "answer": "Dog"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which instruction is given in the lesson?",
+      "options": [
+        { "option_id": 1, "text": "Listen, read and do", "is_correct": true },
+        { "option_id": 2, "text": "Sleep and dream", "is_correct": false },
+        { "option_id": 3, "text": "Run and jump", "is_correct": false },
+        { "option_id": 4, "text": "Eat and drink", "is_correct": false }
+      ],
+      "answer": "Listen, read and do"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "In the list 'ama, bama, cama, dama', which is the first word?",
+      "options": [
+        { "option_id": 1, "text": "bama", "is_correct": false },
+        { "option_id": 2, "text": "ama", "is_correct": true },
+        { "option_id": 3, "text": "cama", "is_correct": false },
+        { "option_id": 4, "text": "dama", "is_correct": false }
+      ],
+      "answer": "ama"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "If you have 'bat' and 'ball', which comes first?",
+      "options": [
+        { "option_id": 1, "text": "bat", "is_correct": false },
+        { "option_id": 2, "text": "ball", "is_correct": true },
+        { "option_id": 3, "text": "Neither", "is_correct": false },
+        { "option_id": 4, "text": "Both same", "is_correct": false }
+      ],
+      "answer": "ball"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why does 'ball' come before 'bat'?",
+      "options": [
+        { "option_id": 1, "text": "Because 'l' comes before 't'", "is_correct": true },
+        { "option_id": 2, "text": "Because 't' comes before 'l'", "is_correct": false },
+        { "option_id": 3, "text": "Because 'bat' is shorter", "is_correct": false },
+        { "option_id": 4, "text": "Because 'ball' is round", "is_correct": false }
+      ],
+      "answer": "Because 'l' comes before 't'"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The activity helps us to learn the sequence of ______.",
+      "options": [
+        { "option_id": 1, "text": "Numbers", "is_correct": false },
+        { "option_id": 2, "text": "Letters / Alphabet", "is_correct": true },
+        { "option_id": 3, "text": "Colors", "is_correct": false },
+        { "option_id": 4, "text": "Days", "is_correct": false }
+      ],
+      "answer": "Letters / Alphabet"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these words would be last in a dictionary?",
+      "options": [
+        { "option_id": 1, "text": "Zebra", "is_correct": true },
+        { "option_id": 2, "text": "Apple", "is_correct": false },
+        { "option_id": 3, "text": "Monkey", "is_correct": false },
+        { "option_id": 4, "text": "Lion", "is_correct": false }
+      ],
+      "answer": "Zebra"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which of these words would be first in a dictionary?",
+      "options": [
+        { "option_id": 1, "text": "Yellow", "is_correct": false },
+        { "option_id": 2, "text": "Blue", "is_correct": true },
+        { "option_id": 3, "text": "Red", "is_correct": false },
+        { "option_id": 4, "text": "Green", "is_correct": false }
+      ],
+      "answer": "Blue"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Arrange: sun, rain, cloud.",
+      "options": [
+        { "option_id": 1, "text": "rain, sun, cloud", "is_correct": false },
+        { "option_id": 2, "text": "cloud, rain, sun", "is_correct": true },
+        { "option_id": 3, "text": "sun, cloud, rain", "is_correct": false },
+        { "option_id": 4, "text": "cloud, sun, rain", "is_correct": false }
+      ],
+      "answer": "cloud, rain, sun"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Arrange: dog, cat, elephant.",
+      "options": [
+        { "option_id": 1, "text": "dog, cat, elephant", "is_correct": false },
+        { "option_id": 2, "text": "cat, dog, elephant", "is_correct": true },
+        { "option_id": 3, "text": "elephant, cat, dog", "is_correct": false },
+        { "option_id": 4, "text": "cat, elephant, dog", "is_correct": false }
+      ],
+      "answer": "cat, dog, elephant"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What is the 3rd letter of the alphabet?",
+      "options": [
+        { "option_id": 1, "text": "A", "is_correct": false },
+        { "option_id": 2, "text": "B", "is_correct": false },
+        { "option_id": 3, "text": "C", "is_correct": true },
+        { "option_id": 4, "text": "D", "is_correct": false }
+      ],
+      "answer": "C"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What comes after 'Q'?",
+      "options": [
+        { "option_id": 1, "text": "P", "is_correct": false },
+        { "option_id": 2, "text": "R", "is_correct": true },
+        { "option_id": 3, "text": "S", "is_correct": false },
+        { "option_id": 4, "text": "T", "is_correct": false }
+      ],
+      "answer": "R"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "If two words start with the same letter, what do we check?",
+      "options": [
+        { "option_id": 1, "text": "The last letter", "is_correct": false },
+        { "option_id": 2, "text": "The second letter", "is_correct": true },
+        { "option_id": 3, "text": "The length", "is_correct": false },
+        { "option_id": 4, "text": "The meaning", "is_correct": false }
+      ],
+      "answer": "The second letter"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Arrange: man, mat, map.",
+      "options": [
+        { "option_id": 1, "text": "map, man, mat", "is_correct": false },
+        { "option_id": 2, "text": "man, map, mat", "is_correct": true },
+        { "option_id": 3, "text": "mat, map, man", "is_correct": false },
+        { "option_id": 4, "text": "man, mat, map", "is_correct": false }
+      ],
+      "answer": "man, map, mat"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which unit is this chapter from?",
+      "options": [
+        { "option_id": 1, "text": "Unit Four", "is_correct": false },
+        { "option_id": 2, "text": "Unit Six", "is_correct": true },
+        { "option_id": 3, "text": "Unit One", "is_correct": false },
+        { "option_id": 4, "text": "Unit Two", "is_correct": false }
+      ],
+      "answer": "Unit Six"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "This lesson improves your ______ skills.",
+      "options": [
+        { "option_id": 1, "text": "Drawing", "is_correct": false },
+        { "option_id": 2, "text": "Vocabulary / Sorting", "is_correct": true },
+        { "option_id": 3, "text": "Singing", "is_correct": false },
+        { "option_id": 4, "text": "Running", "is_correct": false }
+      ],
+      "answer": "Vocabulary / Sorting"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'alphabet' is:",
+      "options": [
+        { "option_id": 1, "text": "Alfabet", "is_correct": false },
+        { "option_id": 2, "text": "Alphabet", "is_correct": true },
+        { "option_id": 3, "text": "Alphaabet", "is_correct": false },
+        { "option_id": 4, "text": "Alphabat", "is_correct": false }
+      ],
+      "answer": "Alphabet"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'order' is:",
+      "options": [
+        { "option_id": 1, "text": "Ordar", "is_correct": false },
+        { "option_id": 2, "text": "Order", "is_correct": true },
+        { "option_id": 3, "text": "Ordre", "is_correct": false },
+        { "option_id": 4, "text": "Oder", "is_correct": false }
+      ],
+      "answer": "Order"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "In the list 'pen, pencil, pin', which is first?",
+      "options": [
+        { "option_id": 1, "text": "pen", "is_correct": true },
+        { "option_id": 2, "text": "pencil", "is_correct": false },
+        { "option_id": 3, "text": "pin", "is_correct": false },
+        { "option_id": 4, "text": "All same", "is_correct": false }
+      ],
+      "answer": "pen"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "In 'pen' and 'pencil', which letters are different first?",
+      "options": [
+        { "option_id": 1, "text": "p and p", "is_correct": false },
+        { "option_id": 2, "text": "e and e", "is_correct": false },
+        { "option_id": 3, "text": "n and n", "is_correct": false },
+        { "option_id": 4, "text": "End of word 'pen' vs 'c' in pencil", "is_correct": true }
+      ],
+      "answer": "End of word 'pen' vs 'c' in pencil"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What is the Marathi word for 'Order'?",
+      "options": [
+        { "option_id": 1, "text": "क्रम", "is_correct": true },
+        { "option_id": 2, "text": "शब्द", "is_correct": false },
+        { "option_id": 3, "text": "वाक्य", "is_correct": false },
+        { "option_id": 4, "text": "पुस्तक", "is_correct": false }
+      ],
+      "answer": "क्रम"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Arrange: one, two, three.",
+      "options": [
+        { "option_id": 1, "text": "one, three, two", "is_correct": true },
+        { "option_id": 2, "text": "one, two, three", "is_correct": false },
+        { "option_id": 3, "text": "three, two, one", "is_correct": false },
+        { "option_id": 4, "text": "two, three, one", "is_correct": false }
+      ],
+      "answer": "one, three, two"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the instruction 'Read' mean?",
+      "options": [
+        { "option_id": 1, "text": "लिहा", "is_correct": false },
+        { "option_id": 2, "text": "वाचा", "is_correct": true },
+        { "option_id": 3, "text": "बोला", "is_correct": false },
+        { "option_id": 4, "text": "ऐका", "is_correct": false }
+      ],
+      "answer": "वाचा"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the instruction 'Do' mean?",
+      "options": [
+        { "option_id": 1, "text": "करा", "is_correct": true },
+        { "option_id": 2, "text": "बघा", "is_correct": false },
+        { "option_id": 3, "text": "थांबा", "is_correct": false },
+        { "option_id": 4, "text": "पळा", "is_correct": false }
+      ],
+      "answer": "करा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which animal comes first alphabetically: Zebra or Ant?",
+      "options": [
+        { "option_id": 1, "text": "Zebra", "is_correct": false },
+        { "option_id": 2, "text": "Ant", "is_correct": true },
+        { "option_id": 3, "text": "Both", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
+      ],
+      "answer": "Ant"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which fruit comes last alphabetically: Banana, Apple, Cherry?",
+      "options": [
+        { "option_id": 1, "text": "Banana", "is_correct": false },
+        { "option_id": 2, "text": "Apple", "is_correct": false },
+        { "option_id": 3, "text": "Cherry", "is_correct": true },
+        { "option_id": 4, "text": "All same", "is_correct": false }
+      ],
+      "answer": "Cherry"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What comes between A and C?",
+      "options": [
+        { "option_id": 1, "text": "D", "is_correct": false },
+        { "option_id": 2, "text": "B", "is_correct": true },
+        { "option_id": 3, "text": "E", "is_correct": false },
+        { "option_id": 4, "text": "F", "is_correct": false }
+      ],
+      "answer": "B"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the 26th letter of the alphabet?",
+      "options": [
+        { "option_id": 1, "text": "A", "is_correct": false },
+        { "option_id": 2, "text": "Y", "is_correct": false },
+        { "option_id": 3, "text": "Z", "is_correct": true },
+        { "option_id": 4, "text": "X", "is_correct": false }
+      ],
+      "answer": "Z"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "How many letters are in the English alphabet?",
+      "options": [
+        { "option_id": 1, "text": "24", "is_correct": false },
+        { "option_id": 2, "text": "25", "is_correct": false },
+        { "option_id": 3, "text": "26", "is_correct": true },
+        { "option_id": 4, "text": "27", "is_correct": false }
+      ],
+      "answer": "26"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT in alphabetical order?",
+      "options": [
+        { "option_id": 1, "text": "A, B, C", "is_correct": false },
+        { "option_id": 2, "text": "D, E, F", "is_correct": false },
+        { "option_id": 3, "text": "G, I, H", "is_correct": true },
+        { "option_id": 4, "text": "J, K, L", "is_correct": false }
+      ],
+      "answer": "G, I, H"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Arrange: bag, big, bug.",
+      "options": [
+        { "option_id": 1, "text": "big, bag, bug", "is_correct": false },
+        { "option_id": 2, "text": "bag, big, bug", "is_correct": true },
+        { "option_id": 3, "text": "bug, big, bag", "is_correct": false },
+        { "option_id": 4, "text": "bag, bug, big", "is_correct": false }
+      ],
+      "answer": "bag, big, bug"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Arrange: sing, song, sang.",
+      "options": [
+        { "option_id": 1, "text": "sang, sing, song", "is_correct": true },
+        { "option_id": 2, "text": "sing, song, sang", "is_correct": false },
+        { "option_id": 3, "text": "song, sing, sang", "is_correct": false },
+        { "option_id": 4, "text": "sang, song, sing", "is_correct": false }
+      ],
+      "answer": "sang, sing, song"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which activity helps to find words in a dictionary?",
+      "options": [
+        { "option_id": 1, "text": "Counting", "is_correct": false },
+        { "option_id": 2, "text": "Alphabetical Ordering", "is_correct": true },
+        { "option_id": 3, "text": "Coloring", "is_correct": false },
+        { "option_id": 4, "text": "Dancing", "is_correct": false }
+      ],
+      "answer": "Alphabetical Ordering"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Is 'Order, order!' a command?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "It is a question", "is_correct": false },
+        { "option_id": 4, "text": "It is a name", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Arrange: red, blue, green.",
+      "options": [
+        { "option_id": 1, "text": "blue, green, red", "is_correct": true },
+        { "option_id": 2, "text": "red, green, blue", "is_correct": false },
+        { "option_id": 3, "text": "green, blue, red", "is_correct": false },
+        { "option_id": 4, "text": "blue, red, green", "is_correct": false }
+      ],
+      "answer": "blue, green, red"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Arrange: mango, apple, orange.",
+      "options": [
+        { "option_id": 1, "text": "apple, mango, orange", "is_correct": true },
+        { "option_id": 2, "text": "mango, orange, apple", "is_correct": false },
+        { "option_id": 3, "text": "orange, apple, mango", "is_correct": false },
+        { "option_id": 4, "text": "apple, orange, mango", "is_correct": false }
+      ],
+      "answer": "apple, mango, orange"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Arrange: top, tap, tip.",
+      "options": [
+        { "option_id": 1, "text": "tap, tip, top", "is_correct": true },
+        { "option_id": 2, "text": "tip, top, tap", "is_correct": false },
+        { "option_id": 3, "text": "top, tip, tap", "is_correct": false },
+        { "option_id": 4, "text": "tap, top, tip", "is_correct": false }
+      ],
+      "answer": "tap, tip, top"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which letter is missing: A, B, _, D?",
+      "options": [
+        { "option_id": 1, "text": "E", "is_correct": false },
+        { "option_id": 2, "text": "C", "is_correct": true },
+        { "option_id": 3, "text": "F", "is_correct": false },
+        { "option_id": 4, "text": "G", "is_correct": false }
+      ],
+      "answer": "C"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Arrange: boy, bat, bus.",
+      "options": [
+        { "option_id": 1, "text": "bat, boy, bus", "is_correct": true },
+        { "option_id": 2, "text": "boy, bat, bus", "is_correct": false },
+        { "option_id": 3, "text": "bus, boy, bat", "is_correct": false },
+        { "option_id": 4, "text": "bat, bus, boy", "is_correct": false }
+      ],
+      "answer": "bat, boy, bus"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What helps to order words like 'can, car, cat'?",
+      "options": [
+        { "option_id": 1, "text": "First letter", "is_correct": false },
+        { "option_id": 2, "text": "Second letter", "is_correct": false },
+        { "option_id": 3, "text": "Third letter", "is_correct": true },
+        { "option_id": 4, "text": "Last letter", "is_correct": false }
+      ],
+      "answer": "Third letter"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Can you order names of your friends alphabetically?",
+      "options": [
+        { "option_id": 1, "text": "Yes", "is_correct": true },
+        { "option_id": 2, "text": "No", "is_correct": false },
+        { "option_id": 3, "text": "Only boys", "is_correct": false },
+        { "option_id": 4, "text": "Only girls", "is_correct": false }
+      ],
+      "answer": "Yes"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which comes first: Monday or Sunday?",
+      "options": [
+        { "option_id": 1, "text": "Sunday", "is_correct": false },
+        { "option_id": 2, "text": "Monday", "is_correct": true },
+        { "option_id": 3, "text": "Both same", "is_correct": false },
+        { "option_id": 4, "text": "Depends on year", "is_correct": false }
+      ],
+      "answer": "Monday"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which comes first: January or February?",
+      "options": [
+        { "option_id": 1, "text": "January", "is_correct": false },
+        { "option_id": 2, "text": "February", "is_correct": true },
+        { "option_id": 3, "text": "March", "is_correct": false },
+        { "option_id": 4, "text": "April", "is_correct": false }
+      ],
+      "answer": "February"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the purpose of this lesson?",
+      "options": [
+        { "option_id": 1, "text": "To learn numbers", "is_correct": false },
+        { "option_id": 2, "text": "To practice ordering words", "is_correct": true },
+        { "option_id": 3, "text": "To sing", "is_correct": false },
+        { "option_id": 4, "text": "To dance", "is_correct": false }
+      ],
+      "answer": "To practice ordering words"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the title of the page?",
+      "answer": "Order, order!"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the first letter of the alphabet?",
+      "answer": "A."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the last letter of the alphabet?",
+      "answer": "Z."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Arrange these letters: B, A, C.",
+      "answer": "A, B, C."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Arrange these words: cat, ant, bat.",
+      "answer": "ant, bat, cat."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which word comes first: dog or doll?",
+      "answer": "dog."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which word comes first: fish or fan?",
+      "answer": "fan."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which word comes first: sun or son?",
+      "answer": "son."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What do we look at if the first letters are the same?",
+      "answer": "The second letter."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do we look at if the first two letters are the same?",
+      "answer": "The third letter."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Arrange: pen, pot, pan.",
+      "answer": "pan, pen, pot."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Arrange: man, men, min.",
+      "answer": "man, men, min."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Arrange: hot, hat, hit.",
+      "answer": "hat, hit, hot."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Arrange: run, ran, rat.",
+      "answer": "ran, rat, run."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Arrange: see, saw, sea.",
+      "answer": "saw, sea, see."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Arrange: blue, black, brown.",
+      "answer": "black, blue, brown."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Arrange: green, grass, grow.",
+      "answer": "grass, green, grow."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Arrange: one, two, three.",
+      "answer": "one, three, two."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Arrange: four, five, six.",
+      "answer": "five, four, six."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Arrange: apple, banana, cherry.",
+      "answer": "apple, banana, cherry."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Arrange: dog, cat, elephant.",
+      "answer": "cat, dog, elephant."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Arrange: table, chair, desk.",
+      "answer": "chair, desk, table."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Arrange: book, bag, bottle.",
+      "answer": "bag, book, bottle."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Arrange: teacher, student, school.",
+      "answer": "school, student, teacher."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Arrange: father, mother, sister.",
+      "answer": "father, mother, sister."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Arrange: brother, baby, boy.",
+      "answer": "baby, boy, brother."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Arrange: day, night, morning.",
+      "answer": "day, morning, night."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Arrange: sunday, monday, tuesday.",
+      "answer": "monday, sunday, tuesday."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Arrange: january, february, march.",
+      "answer": "february, january, march."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Arrange: summer, winter, rain.",
+      "answer": "rain, summer, winter."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What implies A-Z order?",
+      "answer": "Alphabetical order."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the first step to order words?",
+      "answer": "Look at the first letter."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Write 'alphabet' correctly.",
+      "answer": "A-L-P-H-A-B-E-T."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Write 'order' correctly.",
+      "answer": "O-R-D-E-R."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Write 'listen' correctly.",
+      "answer": "L-I-S-T-E-N."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Is 'z' the beginning or end of the alphabet?",
+      "answer": "End."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Is 'a' the beginning or end of the alphabet?",
+      "answer": "Beginning."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What comes after M?",
+      "answer": "N."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What comes before Z?",
+      "answer": "Y."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Arrange: king, queen, prince.",
+      "answer": "king, prince, queen."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Arrange: gold, silver, bronze.",
+      "answer": "bronze, gold, silver."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Arrange: big, small, tall.",
+      "answer": "big, small, tall."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Arrange: hot, cold, warm.",
+      "answer": "cold, hot, warm."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Arrange: happy, sad, angry.",
+      "answer": "angry, happy, sad."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Arrange: walk, run, jump.",
+      "answer": "jump, run, walk."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Arrange: eat, drink, sleep.",
+      "answer": "drink, eat, sleep."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Arrange: yes, no, maybe.",
+      "answer": "maybe, no, yes."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Arrange: good, bad, okay.",
+      "answer": "bad, good, okay."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Arrange: up, down, left.",
+      "answer": "down, left, up."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Arrange: right, wrong, true.",
+      "answer": "right, true, wrong."
+    }
+  ]
+}

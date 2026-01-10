@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.05",
+    "standard": "4",
+    "subject": "परिसर अभ्यास (भाग २)",
+    "medium": "Marathi",
+    "chapter_name": "शिवरायांचे शिक्षण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "शहाजीराजे कोणत्या भाषेचे गाढे पंडित होते?",
+      "options": [
+        { "option_id": 1, "text": "मराठी", "is_correct": false },
+        { "option_id": 2, "text": "संस्कृत", "is_correct": true },
+        { "option_id": 3, "text": "कन्नड", "is_correct": false },
+        { "option_id": 4, "text": "तमिळ", "is_correct": false }
+      ],
+      "answer": "संस्कृत"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या शिक्षणाला कोठे प्रारंभ झाला?",
+      "options": [
+        { "option_id": 1, "text": "पुणे", "is_correct": false },
+        { "option_id": 2, "text": "बंगळूर", "is_correct": true },
+        { "option_id": 3, "text": "विजापूर", "is_correct": false },
+        { "option_id": 4, "text": "शिवनेरी", "is_correct": false }
+      ],
+      "answer": "बंगळूर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "शिवरायांचे वय किती झाल्यावर त्यांच्या शिक्षणाला प्रारंभ झाला?",
+      "options": [
+        { "option_id": 1, "text": "पाच वर्षे", "is_correct": false },
+        { "option_id": 2, "text": "सात वर्षे", "is_correct": true },
+        { "option_id": 3, "text": "दहा वर्षे", "is_correct": false },
+        { "option_id": 4, "text": "बारा वर्षे", "is_correct": false }
+      ],
+      "answer": "सात वर्षे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी कोणत्या कलेत पारंगतता मिळवली?",
+      "options": [
+        { "option_id": 1, "text": "लिहिण्या-वाचण्याच्या", "is_correct": true },
+        { "option_id": 2, "text": "गायन", "is_correct": false },
+        { "option_id": 3, "text": "चित्रकला", "is_correct": false },
+        { "option_id": 4, "text": "नृत्य", "is_correct": false }
+      ],
+      "answer": "लिहिण्या-वाचण्याच्या"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "शिवरायांना युद्धकला शिकवण्यासाठी कोणी शिक्षकांची नेमणूक केली?",
+      "options": [
+        { "option_id": 1, "text": "जिजाबाईंनी", "is_correct": false },
+        { "option_id": 2, "text": "शहाजीराजांनी", "is_correct": true },
+        { "option_id": 3, "text": "दादाजी कोंडदेवांनी", "is_correct": false },
+        { "option_id": 4, "text": "आदिलशाहाने", "is_correct": false }
+      ],
+      "answer": "शहाजीराजांनी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "आदिलशाहाने शहाजीराजांना कोणत्या मोहिमेवर पाठवले?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर भारत जिंकण्याच्या", "is_correct": false },
+        { "option_id": 2, "text": "कर्नाटकातील नायकांची राज्ये जिंकण्याच्या", "is_correct": true },
+        { "option_id": 3, "text": "मुघलांविरुद्ध लढण्याच्या", "is_correct": false },
+        { "option_id": 4, "text": "पुणे जिंकण्याच्या", "is_correct": false }
+      ],
+      "answer": "कर्नाटकातील नायकांची राज्ये जिंकण्याच्या"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शहाजीराजांनी जिजाऊ व शिवराय यांची रवानगी कोठे केली?",
+      "options": [
+        { "option_id": 1, "text": "बंगळूर", "is_correct": false },
+        { "option_id": 2, "text": "पुणे जहागिरीकडे", "is_correct": true },
+        { "option_id": 3, "text": "शिवनेरी", "is_correct": false },
+        { "option_id": 4, "text": "विजापूर", "is_correct": false }
+      ],
+      "answer": "पुणे जहागिरीकडे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पुणे जहागिरीची व्यवस्था कोण पाहत होते?",
+      "options": [
+        { "option_id": 1, "text": "बाजी पासलकर", "is_correct": false },
+        { "option_id": 2, "text": "दादाजी कोंडदेव", "is_correct": true },
+        { "option_id": 3, "text": "तानाजी मालुसरे", "is_correct": false },
+        { "option_id": 4, "text": "कान्होजी जेधे", "is_correct": false }
+      ],
+      "answer": "दादाजी कोंडदेव"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "दादाजी कोंडदेव कोणत्या किल्ल्याचे सुभेदार होते?",
+      "options": [
+        { "option_id": 1, "text": "पुरंदर", "is_correct": false },
+        { "option_id": 2, "text": "कोंढाणा", "is_correct": true },
+        { "option_id": 3, "text": "तोरणा", "is_correct": false },
+        { "option_id": 4, "text": "राजगड", "is_correct": false }
+      ],
+      "answer": "कोंढाणा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "दादाजी कोंडदेवांनी शेतकऱ्यांना कशात सूट दिली?",
+      "options": [
+        { "option_id": 1, "text": "कर्जात", "is_correct": false },
+        { "option_id": 2, "text": "शेतसाऱ्यात", "is_correct": true },
+        { "option_id": 3, "text": "पाणीपट्टीत", "is_correct": false },
+        { "option_id": 4, "text": "व्याजात", "is_correct": false }
+      ],
+      "answer": "शेतसाऱ्यात"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "लांडगे मारण्यासाठी दादाजींनी काय लावले?",
+      "options": [
+        { "option_id": 1, "text": "सापळे", "is_correct": false },
+        { "option_id": 2, "text": "बक्षिसे", "is_correct": true },
+        { "option_id": 3, "text": "कु कुंपण", "is_correct": false },
+        { "option_id": 4, "text": "पहारा", "is_correct": false }
+      ],
+      "answer": "बक्षिसे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पुण्यात बांधलेल्या वाड्याचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "शनिवार वाडा", "is_correct": false },
+        { "option_id": 2, "text": "लाल महाल", "is_correct": true },
+        { "option_id": 3, "text": "केसरी वाडा", "is_correct": false },
+        { "option_id": 4, "text": "विश्रामबाग वाडा", "is_correct": false }
+      ],
+      "answer": "लाल महाल"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "दादाजी कोंडदेवांचे कार्य कोणासारखे मानले जाते?",
+      "options": [
+        { "option_id": 1, "text": "मलिक अंबर", "is_correct": true },
+        { "option_id": 2, "text": "अफजल खान", "is_correct": false },
+        { "option_id": 3, "text": "शाहिस्तेखान", "is_correct": false },
+        { "option_id": 4, "text": "सिद्दी जोहर", "is_correct": false }
+      ],
+      "answer": "मलिक अंबर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "जिजाबाईंचे वडील कोण होते?",
+      "options": [
+        { "option_id": 1, "text": "शहाजीराजे", "is_correct": false },
+        { "option_id": 2, "text": "लखुजीराव जाधव", "is_correct": true },
+        { "option_id": 3, "text": "मालोजीराजे", "is_correct": false },
+        { "option_id": 4, "text": "संभाजीराजे", "is_correct": false }
+      ],
+      "answer": "लखुजीराव जाधव"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "जिजाबाईंनी कोणता निश्चय केला होता?",
+      "options": [
+        { "option_id": 1, "text": "शिवबाने मुघलांची चाकरी करावी", "is_correct": false },
+        { "option_id": 2, "text": "शिवबाने स्वराज्य स्थापन करावे", "is_correct": true },
+        { "option_id": 3, "text": "शिवबाने आदिलशाहीत जावे", "is_correct": false },
+        { "option_id": 4, "text": "शिवबाने शेती करावी", "is_correct": false }
+      ],
+      "answer": "शिवबाने स्वराज्य स्थापन करावे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "मावळात राहणाऱ्या लोकांना काय म्हणत?",
+      "options": [
+        { "option_id": 1, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 2, "text": "मावळे", "is_correct": true },
+        { "option_id": 3, "text": "सैनिक", "is_correct": false },
+        { "option_id": 4, "text": "गावकरी", "is_correct": false }
+      ],
+      "answer": "मावळे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "शिवराय अन्यायाविरुद्ध कसे लढायचे?",
+      "options": [
+        { "option_id": 1, "text": "राम, कृष्ण, भीम यांच्यासारखे", "is_correct": true },
+        { "option_id": 2, "text": "मुघलांसारखे", "is_correct": false },
+        { "option_id": 3, "text": "आदिलशाहासारखे", "is_correct": false },
+        { "option_id": 4, "text": "इंग्रजांसारखे", "is_correct": false }
+      ],
+      "answer": "राम, कृष्ण, भीम यांच्यासारखे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पुणे जहागिरीत कोणाच्या मार्गदर्शनाखाली शिवरायांचा नवा अंमल सुरू झाला?",
+      "options": [
+        { "option_id": 1, "text": "दादाजी कोंडदेव", "is_correct": false },
+        { "option_id": 2, "text": "जिजाबाई", "is_correct": true },
+        { "option_id": 3, "text": "शहाजीराजे", "is_correct": false },
+        { "option_id": 4, "text": "बाजी पासलकर", "is_correct": false }
+      ],
+      "answer": "जिजाबाई"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या विवाहासाठी कोणती मुलगी पसंत पडली?",
+      "options": [
+        { "option_id": 1, "text": "सोयराबाई", "is_correct": false },
+        { "option_id": 2, "text": "सईबाई", "is_correct": true },
+        { "option_id": 3, "text": "पुतळाबाई", "is_correct": false },
+        { "option_id": 4, "text": "सगुणाबाई", "is_correct": false }
+      ],
+      "answer": "सईबाई"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सईबाई कोणत्या घराण्यातील होत्या?",
+      "options": [
+        { "option_id": 1, "text": "जाधव", "is_correct": false },
+        { "option_id": 2, "text": "नाईक निंबाळकर", "is_correct": true },
+        { "option_id": 3, "text": "मोहिते", "is_correct": false },
+        { "option_id": 4, "text": "शिर्के", "is_correct": false }
+      ],
+      "answer": "नाईक निंबाळकर"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "शहाजीराजांनी बंगळूरच्या दरबारात कोणाला आश्रय दिला होता?",
+      "options": [
+        { "option_id": 1, "text": "सैनिक", "is_correct": false },
+        { "option_id": 2, "text": "पंडित आणि कलावंत", "is_correct": true },
+        { "option_id": 3, "text": "शेतकरी", "is_correct": false },
+        { "option_id": 4, "text": "व्यापारी", "is_correct": false }
+      ],
+      "answer": "पंडित आणि कलावंत"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी कोणती विद्या शिकण्यास प्रारंभ केला?",
+      "options": [
+        { "option_id": 1, "text": "घोड्यावर बसणे", "is_correct": false },
+        { "option_id": 2, "text": "कुस्ती खेळणे", "is_correct": false },
+        { "option_id": 3, "text": "तलवार चालवणे", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "शहाजीराजांनी पुण्याला कोणाकोणाला पाठवले?",
+      "options": [
+        { "option_id": 1, "text": "फक्त सैनिक", "is_correct": false },
+        { "option_id": 2, "text": "हत्ती, घोडे, खजिना आणि विश्वासू प्रधान", "is_correct": true },
+        { "option_id": 3, "text": "फक्त हत्ती", "is_correct": false },
+        { "option_id": 4, "text": "फक्त खजिना", "is_correct": false }
+      ],
+      "answer": "हत्ती, घोडे, खजिना आणि विश्वासू प्रधान"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पुण्याला आल्यावर शिवरायांना काय आठवले?",
+      "options": [
+        { "option_id": 1, "text": "बंगळूर", "is_correct": false },
+        { "option_id": 2, "text": "बालपणचे दिवस", "is_correct": true },
+        { "option_id": 3, "text": "युद्ध", "is_correct": false },
+        { "option_id": 4, "text": "शाळा", "is_correct": false }
+      ],
+      "answer": "बालपणचे दिवस"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "शहाजीराजांच्या शत्रूंनी पुण्याचे काय केले होते?",
+      "options": [
+        { "option_id": 1, "text": "विकास", "is_correct": false },
+        { "option_id": 2, "text": "उजाड", "is_correct": true },
+        { "option_id": 3, "text": "मोठे", "is_correct": false },
+        { "option_id": 4, "text": "स्वच्छ", "is_correct": false }
+      ],
+      "answer": "उजाड"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "पुण्याच्या रानात कशाचा सुळसुळाट झाला होता?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "लांडगे", "is_correct": true },
+        { "option_id": 3, "text": "हत्ती", "is_correct": false },
+        { "option_id": 4, "text": "साप", "is_correct": false }
+      ],
+      "answer": "लांडगे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "जिजाबाईंनी पडकी देवळे काय केली?",
+      "options": [
+        { "option_id": 1, "text": "पाडली", "is_correct": false },
+        { "option_id": 2, "text": "दुरुस्त", "is_correct": true },
+        { "option_id": 3, "text": "बंद", "is_correct": false },
+        { "option_id": 4, "text": "विकली", "is_correct": false }
+      ],
+      "answer": "दुरुस्त"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "दादाजी कोंडदेव कारभारात कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "आळशी", "is_correct": false },
+        { "option_id": 2, "text": "चोख आणि न्यायी", "is_correct": true },
+        { "option_id": 3, "text": "भ्रष्ट", "is_correct": false },
+        { "option_id": 4, "text": "कठोर", "is_correct": false }
+      ],
+      "answer": "चोख आणि न्यायी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "दादाजींनी चोरांचा बंदोबस्त कसा केला?",
+      "options": [
+        { "option_id": 1, "text": "शेतकऱ्यांची पथके उभारून", "is_correct": true },
+        { "option_id": 2, "text": "पोलिसांना बोलावून", "is_correct": false },
+        { "option_id": 3, "text": "स्वतः लढून", "is_correct": false },
+        { "option_id": 4, "text": "गावकऱ्यांना सांगून", "is_correct": false }
+      ],
+      "answer": "शेतकऱ्यांची पथके उभारून"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "सारा कशावर आकारला गेला?",
+      "options": [
+        { "option_id": 1, "text": "माणसांवर", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीच्या प्रतवारीवर", "is_correct": true },
+        { "option_id": 3, "text": "घरांवर", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यावर", "is_correct": false }
+      ],
+      "answer": "जमिनीच्या प्रतवारीवर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "पुणे जहागिरीत आल्यावर शिवरायांनी काय शिकले?",
+      "options": [
+        { "option_id": 1, "text": "उत्तम राज्यकारभार", "is_correct": false },
+        { "option_id": 2, "text": "शत्रूशी युद्ध", "is_correct": false },
+        { "option_id": 3, "text": "किल्ले बांधणे", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "जिजाबाई कोणाची कन्या होत्या?",
+      "options": [
+        { "option_id": 1, "text": "लखुजीराव जाधवांची", "is_correct": true },
+        { "option_id": 2, "text": "शहाजीराजांची", "is_correct": false },
+        { "option_id": 3, "text": "शिवाजीराजांची", "is_correct": false },
+        { "option_id": 4, "text": "संभाजीराजांची", "is_correct": false }
+      ],
+      "answer": "लखुजीराव जाधवांची"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "जिजाबाईंनी पित्याच्या हत्येचे दुःख काय केले होते?",
+      "options": [
+        { "option_id": 1, "text": "विसरल्या होत्या", "is_correct": false },
+        { "option_id": 2, "text": "पचवले होते", "is_correct": true },
+        { "option_id": 3, "text": "साजरे केले होते", "is_correct": false },
+        { "option_id": 4, "text": "व्यक्त केले होते", "is_correct": false }
+      ],
+      "answer": "पचवले होते"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "मावळे कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "आळशी", "is_correct": false },
+        { "option_id": 2, "text": "इमानी, कष्टाळू व चपळ", "is_correct": true },
+        { "option_id": 3, "text": "भित्रे", "is_correct": false },
+        { "option_id": 4, "text": "श्रीमंत", "is_correct": false }
+      ],
+      "answer": "इमानी, कष्टाळू व चपळ"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "सुलतानी राजवटीने कोण गांजले होते?",
+      "options": [
+        { "option_id": 1, "text": "मावळे", "is_correct": true },
+        { "option_id": 2, "text": "सरदार", "is_correct": false },
+        { "option_id": 3, "text": "वजीर", "is_correct": false },
+        { "option_id": 4, "text": "सैनिक", "is_correct": false }
+      ],
+      "answer": "मावळे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "भोसल्यांचा पूर्वज कोण?",
+      "options": [
+        { "option_id": 1, "text": "श्रीरामचंद्र", "is_correct": true },
+        { "option_id": 2, "text": "श्रीकृष्ण", "is_correct": false },
+        { "option_id": 3, "text": "अर्जुन", "is_correct": false },
+        { "option_id": 4, "text": "भीम", "is_correct": false }
+      ],
+      "answer": "श्रीरामचंद्र"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "जाधवांचा पूर्वज कोण?",
+      "options": [
+        { "option_id": 1, "text": "श्रीरामचंद्र", "is_correct": false },
+        { "option_id": 2, "text": "श्रीकृष्ण", "is_correct": true },
+        { "option_id": 3, "text": "कर्ण", "is_correct": false },
+        { "option_id": 4, "text": "युधिष्ठिर", "is_correct": false }
+      ],
+      "answer": "श्रीकृष्ण"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "शिवरायांना सतत काय वाटू लागले?",
+      "options": [
+        { "option_id": 1, "text": "श्रीमंत व्हावे", "is_correct": false },
+        { "option_id": 2, "text": "न्यायी, धाडसी व पराक्रमी व्हावे", "is_correct": true },
+        { "option_id": 3, "text": "आराम करावा", "is_correct": false },
+        { "option_id": 4, "text": "परदेशात जावे", "is_correct": false }
+      ],
+      "answer": "न्यायी, धाडसी व पराक्रमी व्हावे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "सामराज नीळकंठ पेशवे कोण होते?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 2, "text": "शहाजीराजांनी शिवरायांबरोबर दिलेले अधिकारी", "is_correct": true },
+        { "option_id": 3, "text": "शत्रू", "is_correct": false },
+        { "option_id": 4, "text": "शेतकरी", "is_correct": false }
+      ],
+      "answer": "शहाजीराजांनी शिवरायांबरोबर दिलेले अधिकारी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "माणकोजी दहातोंडे कोण होते?",
+      "options": [
+        { "option_id": 1, "text": "पेशवे", "is_correct": false },
+        { "option_id": 2, "text": "सरनोबत", "is_correct": true },
+        { "option_id": 3, "text": "सबनीस", "is_correct": false },
+        { "option_id": 4, "text": "डबीर", "is_correct": false }
+      ],
+      "answer": "सरनोबत"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "रघुनाथ बल्लाळ कोण होते?",
+      "options": [
+        { "option_id": 1, "text": "सबनीस", "is_correct": true },
+        { "option_id": 2, "text": "मुजुमदार", "is_correct": false },
+        { "option_id": 3, "text": "सरनोबत", "is_correct": false },
+        { "option_id": 4, "text": "डबीर", "is_correct": false }
+      ],
+      "answer": "सबनीस"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या कारभारामुळे कोणाला शिक्षा होऊ लागल्या?",
+      "options": [
+        { "option_id": 1, "text": "चांगल्या लोकांना", "is_correct": false },
+        { "option_id": 2, "text": "रयतेवर अन्याय करणाऱ्यांना", "is_correct": true },
+        { "option_id": 3, "text": "शेतकऱ्यांना", "is_correct": false },
+        { "option_id": 4, "text": "विद्यार्थ्यांना", "is_correct": false }
+      ],
+      "answer": "रयतेवर अन्याय करणाऱ्यांना"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "शहाजीराजांच्या जहागिरीचा कायापालट कशाचा नमुना होता?",
+      "options": [
+        { "option_id": 1, "text": "गुलामगिरीचा", "is_correct": false },
+        { "option_id": 2, "text": "स्वराज्याचा", "is_correct": true },
+        { "option_id": 3, "text": "हुकूमशाहीचा", "is_correct": false },
+        { "option_id": 4, "text": "दारिद्र्याचा", "is_correct": false }
+      ],
+      "answer": "स्वराज्याचा"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "त्या काळात लग्न करण्याची पद्धत कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "मोठेपणी", "is_correct": false },
+        { "option_id": 2, "text": "लहानपणीच", "is_correct": true },
+        { "option_id": 3, "text": "म्हातारपणी", "is_correct": false },
+        { "option_id": 4, "text": "कधीही नाही", "is_correct": false }
+      ],
+      "answer": "लहानपणीच"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "शिवबाचे लग्न कोणाशी झाले?",
+      "options": [
+        { "option_id": 1, "text": "सईबाई", "is_correct": true },
+        { "option_id": 2, "text": "जिजाबाई", "is_correct": false },
+        { "option_id": 3, "text": "पुतळाबाई", "is_correct": false },
+        { "option_id": 4, "text": "सोयराबाई", "is_correct": false }
+      ],
+      "answer": "सईबाई"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "शिवरायांचे वय १२ वर्षांचे असताना त्यांना कशाचा परिचय झाला?",
+      "options": [
+        { "option_id": 1, "text": "विविध विद्या व कला", "is_correct": true },
+        { "option_id": 2, "text": "स्वयंपाक", "is_correct": false },
+        { "option_id": 3, "text": "व्यापार", "is_correct": false },
+        { "option_id": 4, "text": "शेती", "is_correct": false }
+      ],
+      "answer": "विविध विद्या व कला"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "शहाजीराजांनी बंगळूरला असताना काय केले?",
+      "options": [
+        { "option_id": 1, "text": "आराम केला", "is_correct": false },
+        { "option_id": 2, "text": "शिवरायांच्या शिक्षणाची व्यवस्था केली", "is_correct": true },
+        { "option_id": 3, "text": "शिकार केली", "is_correct": false },
+        { "option_id": 4, "text": "गाणी म्हटली", "is_correct": false }
+      ],
+      "answer": "शिवरायांच्या शिक्षणाची व्यवस्था केली"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "दादाजी कोंडदेवांनी शेतकऱ्यांना कशासाठी प्रोत्साहन दिले?",
+      "options": [
+        { "option_id": 1, "text": "लागवडीसाठी", "is_correct": true },
+        { "option_id": 2, "text": "युद्धासाठी", "is_correct": false },
+        { "option_id": 3, "text": "व्यापारासाठी", "is_correct": false },
+        { "option_id": 4, "text": "फिरण्यासाठी", "is_correct": false }
+      ],
+      "answer": "लागवडीसाठी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या बरोबर पाठवलेल्या मंडळींमुळे काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "शिवराय एकटे पडले", "is_correct": false },
+        { "option_id": 2, "text": "जहागिरीचा कारभार सुधारला", "is_correct": true },
+        { "option_id": 3, "text": "वाद झाले", "is_correct": false },
+        { "option_id": 4, "text": "काहीच झाले नाही", "is_correct": false }
+      ],
+      "answer": "जहागिरीचा कारभार सुधारला"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "शिवरायांचा विवाह कसा साजरा झाला?",
+      "options": [
+        { "option_id": 1, "text": "साधेपणाने", "is_correct": false },
+        { "option_id": 2, "text": "मोठ्या थाटामाटाने", "is_correct": true },
+        { "option_id": 3, "text": "गुपचूप", "is_correct": false },
+        { "option_id": 4, "text": "रात्री", "is_correct": false }
+      ],
+      "answer": "मोठ्या थाटामाटाने"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "शहाजीराजे कोणत्या विषयाचे पंडित होते?",
+      "answer": "शहाजीराजे संस्कृत विषयाचे गाढे पंडित होते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या शिक्षणाला कोठे सुरुवात झाली?",
+      "answer": "शिवरायांच्या शिक्षणाला बंगळूर येथे सुरुवात झाली."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी कोणकोणत्या विद्या अवगत केल्या?",
+      "answer": "शिवरायांनी घोड्यावर बसणे, कुस्ती खेळणे, दांडपट्टा फिरवणे, तलवार चालवणे इत्यादी विद्या अवगत केल्या."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "शहाजीराजांनी शिवरायांना पुण्याला पाठवताना कोणाकोणाला सोबत दिले?",
+      "answer": "शहाजीराजांनी हत्ती, घोडे, पायदळ, खजिना, ध्वज आणि विश्वासू प्रधान व शिक्षक यांना सोबत दिले."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पुण्याला आल्यावर शिवरायांना काय आठवले?",
+      "answer": "पुण्याला आल्यावर शिवरायांना बालपणचे दिवस आणि शिवनेरीच्या मातीत खेळलेले क्षण आठवले."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शत्रूंनी पुण्याची काय अवस्था केली होती?",
+      "answer": "शत्रूंनी मालमत्तेची नासधूस केली होती, घरे मोडली होती, देवळे पाडली होती आणि गावे ओसाड केली होती."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "जिजाबाईंनी लोकांना कोणता दिलासा दिला?",
+      "answer": "जिजाबाईंनी लोकांना पुण्यात निर्भयपणे राहण्याचा आणि शेती करण्याचा दिलासा दिला."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पुणे जहागिरीची व्यवस्था कोण पाहत होते?",
+      "answer": "पुणे जहागिरीची व्यवस्था दादाजी कोंडदेव पाहत होते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "दादाजी कोंडदेवांनी शेतकऱ्यांना का सूट दिली?",
+      "answer": "शेतकऱ्यांनी शेतात लागवड करावी म्हणून दादाजींनी त्यांना शेतसाऱ्यात सूट दिली."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "लांडग्यांचा बंदोबस्त कसा केला?",
+      "answer": "लांडगे मारण्यासाठी बक्षिसे लावून लांडग्यांचा बंदोबस्त केला."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "दादाजी कोंडदेवांचे कार्य कोणत्या क्षेत्रांत महत्त्वाचे मानले जाते?",
+      "answer": "शेती सुधारणा आणि सारावसुली या क्षेत्रांत त्यांचे कार्य महत्त्वाचे मानले जाते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पुण्यात आल्यावर शिवरायांचे शिक्षण कोणी चालू ठेवले?",
+      "answer": "पुण्यात आल्यावर जिजाबाईंच्या देखरेखीखाली शिवरायांचे शिक्षण चालू राहिले."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "जिजाबाईंना कोणते बाळकडू मिळाले होते?",
+      "answer": "जिजाबाईंना राजकारणाचे व युद्धनीतीचे बाळकडू लहानपणापासूनच मिळाले होते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "जिजाबाईंनी शिवबासाठी कोणता निश्चय केला होता?",
+      "answer": "शिवबाने परक्यांची चाकरी न करता स्वतःचे स्वराज्य स्थापन करावे, असा निश्चय जिजाबाईंनी केला होता."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "मावळ्यांना कशाचा त्रास होता?",
+      "answer": "मावळ्यांना सुलतानी राजवटीचा आणि लष्कराच्या लुटीचा त्रास होता."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "जिजाबाई शिवबांना कोणाची उदाहरणे देत?",
+      "answer": "जिजाबाई शिवबांना श्रीराम, श्रीकृष्ण, भीम आणि अर्जुन यांची उदाहरणे देत."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "शिवरायांना काय वाटू लागले?",
+      "answer": "आपण न्यायी, धाडसी आणि पराक्रमी व्हावे, असे शिवरायांना वाटू लागले."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "शिवरायांचा नवा अंमल कशाचा नमुना होता?",
+      "answer": "शिवरायांचा नवा अंमल स्वराज्याचा नमुना होता."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या कारभाराचा परिणाम काय झाला?",
+      "answer": "रयतेवर अन्याय करणाऱ्यांना शिक्षा होऊ लागल्या आणि लोक सुखी होऊ लागले."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "जिजामाता शिवरायांच्या लग्नाबद्दल काय म्हणाल्या?",
+      "answer": "जिजामाता म्हणाल्या, 'आता शिवबाचे दोहोंचे चार हात करायला पाहिजेत.'"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "सईबाई कोणत्या गावच्या होत्या?",
+      "answer": "सईबाई फलटणच्या होत्या."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "शहाजीराजांनी बंगळूरला कोणाला आश्रय दिला?",
+      "answer": "शहाजीराजांनी अनेक भाषांच्या पंडितांना आणि कलावंतांना आश्रय दिला."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "शिवराय कोणती पुस्तके वाचू लागले?",
+      "answer": "शिवराय रामायण, महाभारत आणि भागवत यांतील गोष्टी वाचू लागले."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "आदिलशाहाने शहाजीराजांना कोठे पाठवले?",
+      "answer": "आदिलशाहाने शहाजीराजांना कर्नाटकातील नायकांची राज्ये जिंकण्याच्या मोहिमेवर पाठवले."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "पुणे पूर्वी कसे होते?",
+      "answer": "पुणे हे शहाजीराजांच्या शत्रूंनी उजाड केलेले गाव होते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "दादाजी कोंडदेवांनी चोरांचा बंदोबस्त कसा केला?",
+      "answer": "शेतकऱ्यांची पथके उभारून आणि पहारा बसवून दादाजींनी चोरांचा बंदोबस्त केला."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "दादाजी कोंडदेव कोणाचे सुभेदार होते?",
+      "answer": "दादाजी कोंडदेव कोंढाणा किल्ल्याचे सुभेदार होते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "जिजाबाई कोणाची पत्नी होत्या?",
+      "answer": "जिजाबाई शहाजीराजांची पत्नी होत्या."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "मावळ्यांच्या हातात काय होते?",
+      "answer": "मावळ्यांच्या हातात काटकपणा होता, पण ते सुलतानी राजवटीने गांजले होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या सोबत पुण्यास आलेले अधिकारी कोण होते?",
+      "answer": "सामराज नीळकंठ, बाळकृष्ण हनमंते, माणकोजी दहातोंडे, रघुनाथ बल्लाळ, सोनोपंत डबीर हे अधिकारी होते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या शिक्षणाची प्रगती पाहून कोणाला आनंद झाला?",
+      "answer": "शिवरायांची शिक्षणातील प्रगती पाहून जिजाऊंना मोठा आनंद झाला."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी कोणती कौशल्ये आत्मसात केली?",
+      "answer": "उत्तम राज्यकारभार, शत्रूशी युद्ध, किल्ले बांधणे, घोडे-हत्ती परीक्षा आणि शत्रूच्या प्रदेशातून निसटणे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "जिजाबाईंना कोणता वाईट अनुभव आला होता?",
+      "answer": "मराठा सरदाराने कितीही पराक्रम केला तरी सुलतानांच्या दरबारात त्याचे चीज होत नाही, हा अनुभव त्यांना आला होता."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "भोसल्यांचा पूर्वज कोण असल्याचे जिजाबाईंनी सांगितले?",
+      "answer": "श्रीरामचंद्र हे भोसल्यांचे पूर्वज असल्याचे जिजाबाईंनी सांगितले."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "जाधवांचा पूर्वज कोण असल्याचे जिजाबाईंनी सांगितले?",
+      "answer": "श्रीकृष्ण हे जाधवांचे पूर्वज असल्याचे जिजाबाईंनी सांगितले."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "शिवरायांचा जन्म कोणत्या वंशात झाला?",
+      "answer": "श्रीराम आणि श्रीकृष्ण यांच्या वंशात शिवरायांचा जन्म झाला."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी काय करावे असे जिजाबाईंना वाटत असे?",
+      "answer": "शिवरायांनी दुष्टांचा संहार करावा आणि गरीब लोकांना सुखी करावे असे त्यांना वाटत असे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "लाल महाल कोठे बांधण्यात आला?",
+      "answer": "लाल महाल पुण्यात बांधण्यात आला."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "दादाजी कोंडदेवांचा स्वभाव कसा होता?",
+      "answer": "ते इमानी, कारभारात चोख, न्यायी आणि कडक शिस्तीचे होते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "जमिनीचा सारा कशावरून ठरवला गेला?",
+      "answer": "जमिनीची प्रतवारी ठरवून तिच्यावर सारा आकारला गेला."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "पुण्याचे रूप कसे पालटले?",
+      "answer": "लोक राहू लागले, शेती सुरू झाली, देवळे दुरुस्त झाली आणि गाव गजबजू लागले."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी लोकांच्या कोणत्या गोष्टींकडे लक्ष दिले?",
+      "answer": "शिवरायांनी लोकांच्या सुखदुःखाच्या गोष्टींकडे लक्ष दिले."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "स्वराज्याचा अरुणोदय कशाला म्हटले आहे?",
+      "answer": "शहाजीराजांच्या जहागिरीचा झालेला कायापालट आणि शिवरायांचा कारभार याला स्वराज्याचा अरुणोदय म्हटले आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "सईबाई कोणत्या घराण्यातील होत्या?",
+      "answer": "सईबाई निंबाळकर घराण्यातील होत्या."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "शिवरायांचे लग्न कसे झाले?",
+      "answer": "शिवरायांचे लग्न मोठ्या थाटामाटाने साजरे झाले."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "शहाजीराजांनी शिक्षकांची नेमणूक का केली?",
+      "answer": "शिवरायांना उत्तम शिक्षण मिळावे आणि ते राजकारणात व युद्धकलेत पारंगत व्हावेत म्हणून."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पुण्यात आल्यावर शिवरायांना काय दिसले?",
+      "answer": "त्यांना सह्याद्रीची उंच शिखरे दिसली."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "मावळे कोणामुळे गांजले होते?",
+      "answer": "मावळे सुलतानी राजवटीमुळे गांजले होते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "जिजाबाईंनी शिवरायांना कशाचे धडे दिले?",
+      "answer": "राजकारण, युद्धनीती आणि स्वराज्य स्थापनेचे धडे दिले."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या सोबत आलेले अधिकारी कोणासारखे होते?",
+      "answer": "ते स्वतंत्र राजाच्या अधिकाऱ्यांसारखे होते."
+    }
+  ]
+}

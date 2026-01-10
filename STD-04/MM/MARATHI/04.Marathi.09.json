@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.09",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "ईदगाह"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "ईदगाह या पाठाचे मूळ लेखक कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "साने गुरुजी", "is_correct": false },
+        { "option_id": 2, "text": "प्रेमचंद", "is_correct": true },
+        { "option_id": 3, "text": "पु. ल. देशपांडे", "is_correct": false },
+        { "option_id": 4, "text": "कुसुमाग्रज", "is_correct": false }
+      ],
+      "answer": "प्रेमचंद"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या पाठाचा मराठी अनुवाद कोणी केला आहे?",
+      "options": [
+        { "option_id": 1, "text": "संजीवनी खेर", "is_correct": true },
+        { "option_id": 2, "text": "शांता शेळके", "is_correct": false },
+        { "option_id": 3, "text": "वसुधा पाटील", "is_correct": false },
+        { "option_id": 4, "text": "लीला शिंदे", "is_correct": false }
+      ],
+      "answer": "संजीवनी खेर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "रमजान महिन्याच्या किती दिवसांनंतर ईदचा दिवस आला?",
+      "options": [
+        { "option_id": 1, "text": "दहा", "is_correct": false },
+        { "option_id": 2, "text": "वीस", "is_correct": false },
+        { "option_id": 3, "text": "तीस", "is_correct": true },
+        { "option_id": 4, "text": "चाळीस", "is_correct": false }
+      ],
+      "answer": "तीस"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "गावात कशाची गडबड चालली होती?",
+      "options": [
+        { "option_id": 1, "text": "जत्रेची", "is_correct": false },
+        { "option_id": 2, "text": "ईदगाहला जाण्याची", "is_correct": true },
+        { "option_id": 3, "text": "शाळेत जाण्याची", "is_correct": false },
+        { "option_id": 4, "text": "लग्नसमारंभाची", "is_correct": false }
+      ],
+      "answer": "ईदगाहला जाण्याची"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "ईदच्या दिवशी कोणाचा आनंद उतू जात होता?",
+      "options": [
+        { "option_id": 1, "text": "म्हातार्‍यांचा", "is_correct": false },
+        { "option_id": 2, "text": "मुलांचा", "is_correct": true },
+        { "option_id": 3, "text": "स्त्रियांचा", "is_correct": false },
+        { "option_id": 4, "text": "शेतकऱ्यांचा", "is_correct": false }
+      ],
+      "answer": "मुलांचा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "हमीद किती वर्षांचा होता?",
+      "options": [
+        { "option_id": 1, "text": "७-८ वर्षांचा", "is_correct": false },
+        { "option_id": 2, "text": "४-५ वर्षांचा", "is_correct": true },
+        { "option_id": 3, "text": "१०-१२ वर्षांचा", "is_correct": false },
+        { "option_id": 4, "text": "२-३ वर्षांचा", "is_correct": false }
+      ],
+      "answer": "४-५ वर्षांचा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "हमीदच्या वडिलांचा मृत्यू कशामुळे झाला?",
+      "options": [
+        { "option_id": 1, "text": "अपघाताने", "is_correct": false },
+        { "option_id": 2, "text": "तापामुळे", "is_correct": false },
+        { "option_id": 3, "text": "कॉलऱ्यामुळे", "is_correct": true },
+        { "option_id": 4, "text": "हृदयविकाराने", "is_correct": false }
+      ],
+      "answer": "कॉलऱ्यामुळे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "हमीद कोणाजवळ राहत असे?",
+      "options": [
+        { "option_id": 1, "text": "काकाजवळ", "is_correct": false },
+        { "option_id": 2, "text": "मामाजवळ", "is_correct": false },
+        { "option_id": 3, "text": "अमीनाआजीजवळ", "is_correct": true },
+        { "option_id": 4, "text": "अनाथालयात", "is_correct": false }
+      ],
+      "answer": "अमीनाआजीजवळ"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हमीदच्या मते त्याचे अब्बाजान काय करायला गेले आहेत?",
+      "options": [
+        { "option_id": 1, "text": "फिरयला", "is_correct": false },
+        { "option_id": 2, "text": "पैसे कमवायला", "is_correct": true },
+        { "option_id": 3, "text": "युद्धावर", "is_correct": false },
+        { "option_id": 4, "text": "हजला", "is_correct": false }
+      ],
+      "answer": "पैसे कमवायला"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "हमीदच्या खिशात किती पैसे होते?",
+      "options": [
+        { "option_id": 1, "text": "दोन पैसे", "is_correct": false },
+        { "option_id": 2, "text": "तीन पैसे", "is_correct": true },
+        { "option_id": 3, "text": "पाच पैसे", "is_correct": false },
+        { "option_id": 4, "text": "दहा पैसे", "is_correct": false }
+      ],
+      "answer": "तीन पैसे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "अमीनाजवळ एकूण किती पैसे होते?",
+      "options": [
+        { "option_id": 1, "text": "दोन आणे", "is_correct": true },
+        { "option_id": 2, "text": "चार आणे", "is_correct": false },
+        { "option_id": 3, "text": "एक रुपया", "is_correct": false },
+        { "option_id": 4, "text": "आठ आणे", "is_correct": false }
+      ],
+      "answer": "दोन आणे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "ईदगाहवर कशाची दाट सावली पडली होती?",
+      "options": [
+        { "option_id": 1, "text": "वडाची", "is_correct": false },
+        { "option_id": 2, "text": "पिंपळाची", "is_correct": false },
+        { "option_id": 3, "text": "चिंचेची", "is_correct": true },
+        { "option_id": 4, "text": "आंब्याची", "is_correct": false }
+      ],
+      "answer": "चिंचेची"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "नमाज पडताना लोक काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "गाणी गातात", "is_correct": false },
+        { "option_id": 2, "text": "एकदम वाकतात व गुडघे टेकतात", "is_correct": true },
+        { "option_id": 3, "text": "टाळ्या वाजवतात", "is_correct": false },
+        { "option_id": 4, "text": "नाचतात", "is_correct": false }
+      ],
+      "answer": "एकदम वाकतात व गुडघे टेकतात"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "नमाज संपल्यावर लोक काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "भांडतात", "is_correct": false },
+        { "option_id": 2, "text": "परस्परांना मिठी मारून भेटतात", "is_correct": true },
+        { "option_id": 3, "text": "रडतात", "is_correct": false },
+        { "option_id": 4, "text": "झोपतात", "is_correct": false }
+      ],
+      "answer": "परस्परांना मिठी मारून भेटतात"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "चक्रावर (झोपाळ्यावर) बसण्यासाठी किती पैसे लागत होते?",
+      "options": [
+        { "option_id": 1, "text": "दोन पैसे", "is_correct": false },
+        { "option_id": 2, "text": "तीन पैसे", "is_correct": false },
+        { "option_id": 3, "text": "एक पैसा", "is_correct": true },
+        { "option_id": 4, "text": "पाच पैसे", "is_correct": false }
+      ],
+      "answer": "एक पैसा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "महमूदने कोणते खेळणे घेतले?",
+      "options": [
+        { "option_id": 1, "text": "पाणक्या", "is_correct": false },
+        { "option_id": 2, "text": "शिपाई", "is_correct": true },
+        { "option_id": 3, "text": "वकील", "is_correct": false },
+        { "option_id": 4, "text": "साधू", "is_correct": false }
+      ],
+      "answer": "शिपाई"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मोहसिनला कोणते खेळणे आवडले?",
+      "options": [
+        { "option_id": 1, "text": "पाणक्या", "is_correct": true },
+        { "option_id": 2, "text": "शिपाई", "is_correct": false },
+        { "option_id": 3, "text": "राजा", "is_correct": false },
+        { "option_id": 4, "text": "धोबी", "is_correct": false }
+      ],
+      "answer": "पाणक्या"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "खेळण्यांची किंमत किती होती?",
+      "options": [
+        { "option_id": 1, "text": "एक-एक पैसा", "is_correct": false },
+        { "option_id": 2, "text": "दोन-दोन पैसे", "is_correct": true },
+        { "option_id": 3, "text": "तीन-तीन पैसे", "is_correct": false },
+        { "option_id": 4, "text": "चार-चार पैसे", "is_correct": false }
+      ],
+      "answer": "दोन-दोन पैसे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "हमीदने काय खरेदी केले?",
+      "options": [
+        { "option_id": 1, "text": "मिठाई", "is_correct": false },
+        { "option_id": 2, "text": "खेळणे", "is_correct": false },
+        { "option_id": 3, "text": "चिमटा", "is_correct": true },
+        { "option_id": 4, "text": "टोपी", "is_correct": false }
+      ],
+      "answer": "चिमटा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "हमीदने चिमटा कुठल्या दुकानातून घेतला?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्यांच्या", "is_correct": false },
+        { "option_id": 2, "text": "मिठाईच्या", "is_correct": false },
+        { "option_id": 3, "text": "लोखंडी वस्तूंच्या", "is_correct": true },
+        { "option_id": 4, "text": "कपड्यांच्या", "is_correct": false }
+      ],
+      "answer": "लोखंडी वस्तूंच्या"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "दुकानदाराने चिमट्याची पहिली किंमत किती सांगितली?",
+      "options": [
+        { "option_id": 1, "text": "तीन पैसे", "is_correct": false },
+        { "option_id": 2, "text": "पाच पैसे", "is_correct": false },
+        { "option_id": 3, "text": "सहा पैसे", "is_correct": true },
+        { "option_id": 4, "text": "चार पैसे", "is_correct": false }
+      ],
+      "answer": "सहा पैसे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "हमीदने चिमटा किती पैशांना घेतला?",
+      "options": [
+        { "option_id": 1, "text": "सहा पैसे", "is_correct": false },
+        { "option_id": 2, "text": "पाच पैसे", "is_correct": false },
+        { "option_id": 3, "text": "तीन पैसे", "is_correct": true },
+        { "option_id": 4, "text": "दोन पैसे", "is_correct": false }
+      ],
+      "answer": "तीन पैसे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "हमीदने चिमटा कशासाठी घेतला?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "आजीचे हात भाजू नयेत म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "मित्रांना दाखवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "स्वस्त होता म्हणून", "is_correct": false }
+      ],
+      "answer": "आजीचे हात भाजू नयेत म्हणून"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "अमीनाआजीने हमीदला कडेवर का उचलले?",
+      "options": [
+        { "option_id": 1, "text": "तो रडत होता म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "त्याचा आवाज ऐकून लाडाने", "is_correct": true },
+        { "option_id": 3, "text": "तो पडला म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "त्याला मारण्यासाठी", "is_correct": false }
+      ],
+      "answer": "त्याचा आवाज ऐकून लाडाने"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "चिमटा पाहून अमीनाआजी सुरुवातीला काय झाली?",
+      "options": [
+        { "option_id": 1, "text": "खूश झाली", "is_correct": false },
+        { "option_id": 2, "text": "दुःखी झाली/रागावली", "is_correct": true },
+        { "option_id": 3, "text": "हसली", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "दुःखी झाली/रागावली"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "अमीनाआजीला रडू का कोसळले?",
+      "options": [
+        { "option_id": 1, "text": "हमीदने पैसे वाया घालवले म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "हमीदचे प्रेम आणि त्याग पाहून", "is_correct": true },
+        { "option_id": 3, "text": "चिमटा तुटला म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "स्वयंपाक जळला म्हणून", "is_correct": false }
+      ],
+      "answer": "हमीदचे प्रेम आणि त्याग पाहून"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "रोजा म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "गुलाब", "is_correct": false },
+        { "option_id": 2, "text": "सूर्योदयापासून सूर्यास्तापर्यंत केलेला उपवास", "is_correct": true },
+        { "option_id": 3, "text": "नमाज", "is_correct": false },
+        { "option_id": 4, "text": "सण", "is_correct": false }
+      ],
+      "answer": "सूर्योदयापासून सूर्यास्तापर्यंत केलेला उपवास"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "ईदगाह म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "प्रार्थनास्थळ", "is_correct": true },
+        { "option_id": 2, "text": "शाळा", "is_correct": false },
+        { "option_id": 3, "text": "घर", "is_correct": false },
+        { "option_id": 4, "text": "बाजार", "is_correct": false }
+      ],
+      "answer": "प्रार्थनास्थळ"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "यात्रेत मुलांनी काय काय केले?",
+      "options": [
+        { "option_id": 1, "text": "खेळणी घेतली", "is_correct": false },
+        { "option_id": 2, "text": "मिठाई खाल्ली", "is_correct": false },
+        { "option_id": 3, "text": "चक्रावर बसले", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "हमीदच्या वडिलांचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "आबिद", "is_correct": true },
+        { "option_id": 2, "text": "महमूद", "is_correct": false },
+        { "option_id": 3, "text": "मोहसिन", "is_correct": false },
+        { "option_id": 4, "text": "नूरे", "is_correct": false }
+      ],
+      "answer": "आबिद"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "हमीदची आई कशाने मरण पावली?",
+      "options": [
+        { "option_id": 1, "text": "पांढरी पडत पडत (कदाचित रक्ताशय/काविळ)", "is_correct": true },
+        { "option_id": 2, "text": "कॉलऱ्याने", "is_correct": false },
+        { "option_id": 3, "text": "अपघाताने", "is_correct": false },
+        { "option_id": 4, "text": "वृद्धपकाळाने", "is_correct": false }
+      ],
+      "answer": "पांढरी पडत पडत (कदाचित रक्ताशय/काविळ)"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "हमीदच्या आजीचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "फातिमा", "is_correct": false },
+        { "option_id": 2, "text": "अमीना", "is_correct": true },
+        { "option_id": 3, "text": "सलमा", "is_correct": false },
+        { "option_id": 4, "text": "झरीना", "is_correct": false }
+      ],
+      "answer": "अमीना"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "दुकानदाराने 'योग्य भाव' म्हणून किती पैसे सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "तीन पैसे", "is_correct": false },
+        { "option_id": 2, "text": "चार पैसे", "is_correct": false },
+        { "option_id": 3, "text": "पाच पैसे", "is_correct": true },
+        { "option_id": 4, "text": "सहा पैसे", "is_correct": false }
+      ],
+      "answer": "पाच पैसे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "हमीदला कोणाची काळजी होती?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःची", "is_correct": false },
+        { "option_id": 2, "text": "खेळण्यांची", "is_correct": false },
+        { "option_id": 3, "text": "म्हाताऱ्या आजीची", "is_correct": true },
+        { "option_id": 4, "text": "मित्रांची", "is_correct": false }
+      ],
+      "answer": "म्हाताऱ्या आजीची"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "हमीदने मिठाई का घेतली नाही?",
+      "options": [
+        { "option_id": 1, "text": "त्याला आवडत नव्हती", "is_correct": false },
+        { "option_id": 2, "text": "त्याच्याकडे कमी पैसे होते आणि त्याला चिमटा घ्यायचा होता", "is_correct": true },
+        { "option_id": 3, "text": "दुकान बंद होते", "is_correct": false },
+        { "option_id": 4, "text": "मित्रांनी दिली नाही", "is_correct": false }
+      ],
+      "answer": "त्याच्याकडे कमी पैसे होते आणि त्याला चिमटा घ्यायचा होता"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "चिमटा कशासाठी उपयोगी आहे?",
+      "options": [
+        { "option_id": 1, "text": "फुलके तव्यावरून उतरवायला", "is_correct": false },
+        { "option_id": 2, "text": "विस्तवावर फुलके भाजायला", "is_correct": false },
+        { "option_id": 3, "text": "विस्तवातले निखारे उचलायला", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "आजी हमीदला काय देत होती?",
+      "options": [
+        { "option_id": 1, "text": "पैसे", "is_correct": false },
+        { "option_id": 2, "text": "आशीर्वाद", "is_correct": true },
+        { "option_id": 3, "text": "मिठाई", "is_correct": false },
+        { "option_id": 4, "text": "कपडे", "is_correct": false }
+      ],
+      "answer": "आशीर्वाद"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "अमीना हमीदला एकटे पाठवायला का घाबरत होती?",
+      "options": [
+        { "option_id": 1, "text": "गर्दीत हरवेल म्हणून", "is_correct": true },
+        { "option_id": 2, "text": "तो मस्ती करेल म्हणून", "is_correct": false },
+        { "option_id": 3, "text": "त्याला रस्ता माहित नव्हता", "is_correct": false },
+        { "option_id": 4, "text": "मित्र चांगले नव्हते", "is_correct": false }
+      ],
+      "answer": "गर्दीत हरवेल म्हणून"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "हमीदची टोपी कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "नवीन आणि रंगीत", "is_correct": false },
+        { "option_id": 2, "text": "जुनीपुराणी आणि काळी पडलेली", "is_correct": true },
+        { "option_id": 3, "text": "लाल रंगाची", "is_correct": false },
+        { "option_id": 4, "text": "फाटलेली", "is_correct": false }
+      ],
+      "answer": "जुनीपुराणी आणि काळी पडलेली"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "ईदगाहमध्ये नमाजच्या वेळी काय पाहिले जात नाही?",
+      "options": [
+        { "option_id": 1, "text": "वय", "is_correct": false },
+        { "option_id": 2, "text": "कपडे", "is_correct": false },
+        { "option_id": 3, "text": "पैसा वा प्रतिष्ठा (श्रीमंती-गरिबी)", "is_correct": true },
+        { "option_id": 4, "text": "जात", "is_correct": false }
+      ],
+      "answer": "पैसा वा प्रतिष्ठा (श्रीमंती-गरिबी)"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "ईदच्या दिवशी आकाश कसे दिसत होते?",
+      "options": [
+        { "option_id": 1, "text": "काळे", "is_correct": false },
+        { "option_id": 2, "text": "निळे", "is_correct": false },
+        { "option_id": 3, "text": "लालेलाल", "is_correct": true },
+        { "option_id": 4, "text": "पांढरे", "is_correct": false }
+      ],
+      "answer": "लालेलाल"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "हमीदच्या मित्रांनी कोणकोणती मिठाई खाल्ली?",
+      "options": [
+        { "option_id": 1, "text": "रेवड्या, गुलाबजामुन, जिलेबी", "is_correct": true },
+        { "option_id": 2, "text": "फक्त पेढे", "is_correct": false },
+        { "option_id": 3, "text": "चॉकलेट", "is_correct": false },
+        { "option_id": 4, "text": "बर्फी", "is_correct": false }
+      ],
+      "answer": "रेवड्या, गुलाबजामुन, जिलेबी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "हमीदने आपली तहान-भूक कशासाठी रोखली?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "आजीसाठी चिमटा घेण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पैसे वाचवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षा टाळण्यासाठी", "is_correct": false }
+      ],
+      "answer": "आजीसाठी चिमटा घेण्यासाठी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "ईदगाहच्या जमिनीवर काय घातलेले होते?",
+      "options": [
+        { "option_id": 1, "text": "सतरंजी", "is_correct": false },
+        { "option_id": 2, "text": "गवत", "is_correct": false },
+        { "option_id": 3, "text": "जाजम", "is_correct": true },
+        { "option_id": 4, "text": "कापड", "is_correct": false }
+      ],
+      "answer": "जाजम"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "दुकानदार हमीदला धुडकावून लावेल असे हमीदला का वाटले?",
+      "options": [
+        { "option_id": 1, "text": "कारण त्याने कमी किंमत (३ पैसे) मागितली", "is_correct": true },
+        { "option_id": 2, "text": "कारण तो लहान होता", "is_correct": false },
+        { "option_id": 3, "text": "कारण तो गरीब होता", "is_correct": false },
+        { "option_id": 4, "text": "कारण दुकान बंद होत होते", "is_correct": false }
+      ],
+      "answer": "कारण त्याने कमी किंमत (३ पैसे) मागितली"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "हमीद कोणत्या भावनेने म्हणाला की 'तुझे हात स्वयंपाक करताना भाजतात म्हणून चिमटा आणला'?",
+      "options": [
+        { "option_id": 1, "text": "गर्वाने", "is_correct": false },
+        { "option_id": 2, "text": "अपराधी भावनेने", "is_correct": true },
+        { "option_id": 3, "text": "रागाने", "is_correct": false },
+        { "option_id": 4, "text": "हसत", "is_correct": false }
+      ],
+      "answer": "अपराधी भावनेने"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "'आनंद उतू जाणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "दूध सांडणे", "is_correct": false },
+        { "option_id": 2, "text": "खूप आनंद होणे", "is_correct": true },
+        { "option_id": 3, "text": "आनंद संपणे", "is_correct": false },
+        { "option_id": 4, "text": "रडू येणे", "is_correct": false }
+      ],
+      "answer": "खूप आनंद होणे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "'मनावर ताबा मिळवणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "रागवणे", "is_correct": false },
+        { "option_id": 2, "text": "इच्छांवर नियंत्रण ठेवणे", "is_correct": true },
+        { "option_id": 3, "text": "मन मारणे", "is_correct": false },
+        { "option_id": 4, "text": "विचार न करणे", "is_correct": false }
+      ],
+      "answer": "इच्छांवर नियंत्रण ठेवणे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "हमीद घरी परतल्यावर आजीच्या कुशीत शिरला, तेव्हा आजीच्या डोळ्यांतून काय गळत होते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "आनंदाश्रू/अश्रू", "is_correct": true },
+        { "option_id": 3, "text": "काजळ", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "आनंदाश्रू/अश्रू"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "या कथेतील हमीदचा कोणता गुण दिसून येतो?",
+      "options": [
+        { "option_id": 1, "text": "संयम आणि त्याग", "is_correct": false },
+        { "option_id": 2, "text": "प्रेमळ स्वभाव", "is_correct": false },
+        { "option_id": 3, "text": "समजूतदारपणा", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "ईदगाह म्हणजे काय?",
+      "answer": "ईदगाह म्हणजे मुस्लिम बांधवांचे प्रार्थनास्थळ, जिथे ईदची नमाज पढली जाते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "रोजा म्हणजे काय?",
+      "answer": "रोजा म्हणजे सूर्योदयापासून सूर्यास्तापर्यंत केलेला उपवास."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ईदच्या दिवशी निसर्ग कसा दिसत होता?",
+      "answer": "ईदच्या दिवशी झाडे हिरवीगार, शेतात समृद्धी डोलत होती, आकाश लालेलाल झाले होते आणि सूर्य सुरेख दिसत होता."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "गावात कशाची गडबड चालली होती?",
+      "answer": "गावात ईदगाहला जाण्याची गडबड चालली होती."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हमीद कसा दिसत होता?",
+      "answer": "हमीद ४-५ वर्षांचा, गरीब चेहऱ्याचा आणि हडकुळा मुलगा होता."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "हमीदच्या आई-वडिलांचे काय झाले होते?",
+      "answer": "हमीदचे वडील कॉलऱ्याने वारले होते आणि आई पांढरी पडत पडत एक दिवस मरण पावली होती."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "हमीद कोणाजवळ राहत होता?",
+      "answer": "हमीद आपल्या म्हाताऱ्या अमीनाआजीजवळ राहत होता."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "हमीदचा वडिलांबद्दल काय विश्वास होता?",
+      "answer": "हमीदचा विश्वास होता की त्याचे अब्बाजान खूप पिशव्या भरून पैसे कमवायला गेले आहेत आणि ते परत येतील."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "अमीनाआजीला हमीदची काळजी का वाटत होती?",
+      "answer": "हमीद एकटाच ईदगाहला जात होता, त्याच्या पायात जोडे नव्हते आणि तो गर्दीत हरवेल या भीतीने तिला काळजी वाटत होती."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "अमीनाजवळ किती पैसे होते?",
+      "answer": "अमीनाजवळ फक्त दोन आणे होते (तीन पैसे हमीदला दिले आणि उरलेले बटव्यात)."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "हमीदने आजीला काय सांगितले?",
+      "answer": "हमीद म्हणाला, \"तू घाबरू नकोस. मी सगळ्यांच्या आधी परत येईन.\""
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "ईदगाहचे दृश्य कसे होते?",
+      "answer": "ईदगाहवर चिंचेची दाट सावली होती, खाली फरशी व जाजम होते आणि रोजे करणाऱ्यांच्या लांबच लांब रांगा लागल्या होत्या."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "नमाजच्या वेळी लोकांची हालचाल कशी दिसत होती?",
+      "answer": "सगळे एकदम वाकताना आणि उठताना पाहून जणू विजेचे लाखो दिवे एकदम लागावेत आणि विझावेत तसे दृश्य दिसत होते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "नमाज संपल्यावर लोक काय करतात?",
+      "answer": "नमाज संपल्यावर लोक परस्परांना मिठी मारून 'ईद मुबारक' करतात (भेटतात)."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "जत्रेतील चक्राचे (झोपाळ्याचे) वर्णन करा.",
+      "answer": "लाकडाचे हत्ती, घोडे, उंट लागलेले चक्र होते, ज्यावर एक पैसा देऊन २५ चकरांची मजा घेता येत होती."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "हमीदच्या मित्रांनी कोणती खेळणी घेतली?",
+      "answer": "महमूदने शिपाई आणि मोहसिनने पाणक्या घेतला."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "हमीदने खेळणी का घेतली नाहीत?",
+      "answer": "खेळणी मातीची होती, पडली तर फुटतील आणि महाग होती, शिवाय त्याच्याकडे कमी पैसे होते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "मुलांनी कोणती मिठाई खाल्ली?",
+      "answer": "मुलांनी रेवड्या, गुलाबजामुन, जिलेबी आणि करंजी खाल्ली."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "हमीद कोणत्या दुकानापुढे थांबला?",
+      "answer": "हमीद एका लोखंडी वस्तूंच्या दुकानापुढे थांबला."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "हमीदला चिमटा पाहून कोणाची आठवण झाली?",
+      "answer": "हमीदला चिमटा पाहून त्याच्या आजीची आठवण झाली."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "चिमट्याचा उपयोग काय?",
+      "answer": "तव्यावरून फुलके उतरवायला आणि विस्तवावर भाजायला, तसेच निखारे उचलायला चिमटा उपयोगी पडतो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "आजीचे हात का भाजत असत?",
+      "answer": "आजीकडे चिमटा नव्हता, त्यामुळे तव्यावरून भाकरी/फुलके उतरवताना तिचे हात भाजत असत."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "दुकानदाराने चिमट्याची सुरुवातीची किंमत काय सांगितली?",
+      "answer": "दुकानदाराने सुरुवातीला सहा पैसे किंमत सांगितली."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "हमीदने दुकानदाराला काय विचारले?",
+      "answer": "हमीदने विचारले, \"तीन पैशांना देणार का?\""
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "हमीदने स्वतःवर ताबा कसा मिळवला?",
+      "answer": "इतर मुले खेळणी आणि मिठाई घेत असताना हमीदने आपल्या इच्छांना आवर घातला आणि पैशांची बचत केली."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "घरी आल्यावर अमीनाआजीने काय केले?",
+      "answer": "घरी आल्यावर अमीनाआजीने हमीदला कडेवर उचलून लाड केले."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "हातात चिमटा पाहून अमीना काय म्हणाली?",
+      "answer": "अमीना म्हणाली, \"हा चिमटा कुठून आणलास?\""
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "अमीनाआजी दुःखी का झाली?",
+      "answer": "हमीदने दुपारपर्यंत काहीच खाल्ले-प्यायले नव्हते आणि जत्रेतून फक्त चिमटा आणला, म्हणून ती दुःखी झाली."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "हमीदने चिमटा आणण्याचे कारण काय सांगितले?",
+      "answer": "हमीद म्हणाला, \"तुझे हात स्वयंपाक करताना भाजतात न म्हणून आणलाय मी चिमटा!\""
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "हमीदचे उत्तर ऐकून अमीनाआजीचा राग कोठे गेला?",
+      "answer": "हमीदचे उत्तर ऐकून अमीनाआजीचा राग गायब झाला आणि त्याचे रूपांतर प्रेमात झाले."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "अमीनाआजीच्या मनात हमीदबद्दल काय विचार आले?",
+      "answer": "तिला वाटले की दुसऱ्या पोरांना खाताना पाहून याचे मन किती लालचावले असेल, पण तरीही तिथे त्याला म्हाताऱ्या आजीची काळजी होती."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "अमीनाआजीने हमीदला काय दिले?",
+      "answer": "अमीनाआजीने पदर पसरून हमीदला भरभरून आशीर्वाद दिले."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "हमीद आजीच्या कुशीत का शिरला?",
+      "answer": "आजीचे प्रेम आणि रडू पाहून, तसेच सुरक्षित वाटावे म्हणून तो तिच्या कुशीत शिरला."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "या पाठातून काय शिकायला मिळते?",
+      "answer": "या पाठातून मोठ्यांबद्दल प्रेम, आदर, त्याग आणि कठीण परिस्थितीतही समजूतदारपणा दाखवणे हे शिकायला मिळते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "'आनंद उतू जाणे' या वाक्प्रचाराचा वाक्यात उपयोग करा.",
+      "answer": "परीक्षेत पहिला नंबर आल्यावर राजूचा आनंद उतू जात होता."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "'धुडकावून लावणे' म्हणजे काय?",
+      "answer": "'धुडकावून लावणे' म्हणजे नकार देणे किंवा अपमानित करून पाठवणे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "'मन लालचावणे' म्हणजे काय?",
+      "answer": "'मन लालचावणे' म्हणजे एखादी गोष्ट हवीहवीशी वाटणे किंवा मोह होणे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "प्रेमचंद यांनी लिहिलेल्या या कथेचे वैशिष्ट्य काय?",
+      "answer": "बालमनाचे चित्रण आणि मानवी संवेदनांचे दर्शन हे या कथेचे वैशिष्ट्य आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "हमीदने किती पैशांचा त्याग केला?",
+      "answer": "हमीदने स्वतःसाठी काहीच खर्च न करता आपल्याकडील तीनही पैशांचा त्याग आजीसाठी केला."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "हमीदच्या मित्रांची नावे सांगा.",
+      "answer": "महमूद, मोहसिन, नूरे आणि सम्मी."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "यात्रेत खेळणी कोणकोणत्या प्रकारची होती?",
+      "answer": "राजा, शिपाई, गुन्हेगार, वकील, पाणक्या, साधू अशा प्रकारची खेळणी होती."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "ईदच्या दिवशी शुभेच्छा कशा देतात?",
+      "answer": "लोक एकमेकांना मिठी मारून 'ईद मुबारक' म्हणून शुभेच्छा देतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "हमीदच्या टोपीचा वरचा भाग कसा झाला होता?",
+      "answer": "हमीदच्या टोपीचा वरचा भाग काळा पडला होता."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हमीदच्या अम्मीजानबद्दल त्याची काय समजूत होती?",
+      "answer": "त्याची समजूत होती की अम्मीजान अल्लाच्या घरून खूप छान छान गोष्टी आणायला गेली आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "गावातून लोक कसे निघाले होते?",
+      "answer": "गावातून लोक आपापल्या मुलांसोबत आनंदाने ईदगाहकडे निघाले होते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "ईदगाहच्या ठिकाणी कोणती झाडे होती?",
+      "answer": "ईदगाहच्या ठिकाणी चिंचेची झाडे होती."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "चिमटा खरेदी केल्यावर हमीदला कसे वाटले?",
+      "answer": "चिमटा खरेदी केल्यावर हमीदला समाधान वाटले की त्याने आजीसाठी काहीतरी उपयोगी घेतले."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "दुकानदाराने हमीदला चिमटा दिल्यावर काय झाले?",
+      "answer": "दुकानदाराने हमीदला बोलावून तीन पैशांत चिमटा दिला आणि हमीद आनंदाने पुढे गेला."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "अमीनाआजीने हमीदला आशीर्वाद का दिला?",
+      "answer": "लहान वयातही हमीदने दाखवलेला समजूतदारपणा आणि आजीवरील प्रेम पाहून तिने त्याला आशीर्वाद दिला."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "या कथेतील 'ईद' हा सण कोणत्या धर्माचा आहे?",
+      "answer": "हा सण इस्लाम धर्माचा आहे."
+    }
+  ]
+}

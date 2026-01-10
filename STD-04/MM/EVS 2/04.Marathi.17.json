@@ -1,0 +1,911 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.17",
+    "standard": "4",
+    "subject": "परिसर अभ्यास (भाग २)",
+    "medium": "Marathi",
+    "chapter_name": "गडकोटांचे आणि आरमाराचे व्यवस्थापन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'संपूर्ण राज्याचे सार ते दुर्ग' असे कोणत्या ग्रंथात म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "दासबोध", "is_correct": false },
+        { "option_id": 2, "text": "आज्ञापत्र", "is_correct": true },
+        { "option_id": 3, "text": "ज्ञानेश्वरी", "is_correct": false },
+        { "option_id": 4, "text": "लीळाचरित्र", "is_correct": false }
+      ],
+      "answer": "आज्ञापत्र"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "निश्चित ध्येय साध्य करण्यासाठी हाती घेतलेले कार्य शिस्तबद्ध पद्धतीने करणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "राज्यकारभार", "is_correct": false },
+        { "option_id": 2, "text": "व्यवस्थापन कौशल्य", "is_correct": true },
+        { "option_id": 3, "text": "युद्धनीती", "is_correct": false },
+        { "option_id": 4, "text": "गनिमी कावा", "is_correct": false }
+      ],
+      "answer": "व्यवस्थापन कौशल्य"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "जलदुर्गांना दुसरे काय नाव आहे?",
+      "options": [
+        { "option_id": 1, "text": "वनदुर्ग", "is_correct": false },
+        { "option_id": 2, "text": "जंजिरा", "is_correct": true },
+        { "option_id": 3, "text": "गिरिदुर्ग", "is_correct": false },
+        { "option_id": 4, "text": "भुईकोट", "is_correct": false }
+      ],
+      "answer": "जंजिरा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी कोणत्या तज्ज्ञांकरवी नवीन किल्ले बांधले?",
+      "options": [
+        { "option_id": 1, "text": "हिरोजी इंदुलकर व अर्जोजी यादव", "is_correct": true },
+        { "option_id": 2, "text": "तानाजी मालुसरे", "is_correct": false },
+        { "option_id": 3, "text": "बाजीप्रभू देशपांडे", "is_correct": false },
+        { "option_id": 4, "text": "गागाभट्ट", "is_correct": false }
+      ],
+      "answer": "हिरोजी इंदुलकर व अर्जोजी यादव"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "किल्ल्याच्या संरक्षणाची मुख्य जबाबदारी कोणाची असे?",
+      "options": [
+        { "option_id": 1, "text": "सबनीस", "is_correct": false },
+        { "option_id": 2, "text": "किल्लेदार (हवालदार)", "is_correct": true },
+        { "option_id": 3, "text": "कारखानीस", "is_correct": false },
+        { "option_id": 4, "text": "शिबंदी", "is_correct": false }
+      ],
+      "answer": "किल्लेदार (हवालदार)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "गडावरील सरकारी कोठाराची व धान्याची व्यवस्था कोण पाहत असे?",
+      "options": [
+        { "option_id": 1, "text": "सबनीस", "is_correct": false },
+        { "option_id": 2, "text": "कारखानीस", "is_correct": true },
+        { "option_id": 3, "text": "किल्लेदार", "is_correct": false },
+        { "option_id": 4, "text": "हवालदार", "is_correct": false }
+      ],
+      "answer": "कारखानीस"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गडावरील जमाखर्चाचा हिशेब ठेवण्याचे काम कोणाचे असे?",
+      "options": [
+        { "option_id": 1, "text": "सबनीस", "is_correct": true },
+        { "option_id": 2, "text": "कारखानीस", "is_correct": false },
+        { "option_id": 3, "text": "किल्लेदार", "is_correct": false },
+        { "option_id": 4, "text": "तटसरनोबत", "is_correct": false }
+      ],
+      "answer": "सबनीस"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी मालवणजवळ समुद्रामध्ये कोणता जलदुर्ग बांधला?",
+      "options": [
+        { "option_id": 1, "text": "विजयदुर्ग", "is_correct": false },
+        { "option_id": 2, "text": "सिंधुदुर्ग", "is_correct": true },
+        { "option_id": 3, "text": "खांदेरी", "is_correct": false },
+        { "option_id": 4, "text": "कुलाबा", "is_correct": false }
+      ],
+      "answer": "सिंधुदुर्ग"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "ज्यांच्याजवळ आरमार, त्याचाच काय?",
+      "options": [
+        { "option_id": 1, "text": "किल्ला", "is_correct": false },
+        { "option_id": 2, "text": "समुद्र", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "खजिना", "is_correct": false }
+      ],
+      "answer": "समुद्र"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या आरमारात किती प्रकारची जहाजे होती?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "चारशे", "is_correct": false },
+        { "option_id": 3, "text": "विविध प्रकारची (गुराब, गलबत, पाल इ.)", "is_correct": true },
+        { "option_id": 4, "text": "एकच प्रकारची", "is_correct": false }
+      ],
+      "answer": "विविध प्रकारची (गुराब, गलबत, पाल इ.)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी आरमाराचे मुख्य अधिकारी कोणाला नेमले होते?",
+      "options": [
+        { "option_id": 1, "text": "कान्होजी आंग्रे", "is_correct": false },
+        { "option_id": 2, "text": "मायनाक भंडारी व लाय पाटील", "is_correct": true },
+        { "option_id": 3, "text": "तानाजी मालुसरे", "is_correct": false },
+        { "option_id": 4, "text": "सिद्दी हिलाल", "is_correct": false }
+      ],
+      "answer": "मायनाक भंडारी व लाय पाटील"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या काळात गनफौड म्हणजेच काय?",
+      "options": [
+        { "option_id": 1, "text": "तोफा", "is_correct": false },
+        { "option_id": 2, "text": "दारूगोळा", "is_correct": true },
+        { "option_id": 3, "text": "बंदुका", "is_correct": false },
+        { "option_id": 4, "text": "तलवारी", "is_correct": false }
+      ],
+      "answer": "दारूगोळा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या सैन्यात कोणाला सक्त मनाई होती?",
+      "options": [
+        { "option_id": 1, "text": "लहान मुलांना", "is_correct": false },
+        { "option_id": 2, "text": "स्त्रियांना लष्करी छावणीत नेण्यास", "is_correct": true },
+        { "option_id": 3, "text": "शेतकऱ्यांना", "is_correct": false },
+        { "option_id": 4, "text": "व्यापाऱ्यांना", "is_correct": false }
+      ],
+      "answer": "स्त्रियांना लष्करी छावणीत नेण्यास"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कोणत्या किल्ल्याला 'अजिंक्य तारा' असेही म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रतापगड", "is_correct": false },
+        { "option_id": 2, "text": "किल्ले सातारा", "is_correct": true },
+        { "option_id": 3, "text": "सिंधुदुर्ग", "is_correct": false },
+        { "option_id": 4, "text": "रायगड", "is_correct": false }
+      ],
+      "answer": "किल्ले सातारा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "शिवरायांना कशाचे जनक मानले जाते?",
+      "options": [
+        { "option_id": 1, "text": "परकीय व्यापाराचे", "is_correct": false },
+        { "option_id": 2, "text": "भारतीय आरमाराचे", "is_correct": true },
+        { "option_id": 3, "text": "शेतीचे", "is_correct": false },
+        { "option_id": 4, "text": "किल्ले बांधणीचे", "is_correct": false }
+      ],
+      "answer": "भारतीय आरमाराचे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या हेर खात्याचे प्रमुख कोण होते?",
+      "options": [
+        { "option_id": 1, "text": "बहिर्जी नाईक", "is_correct": true },
+        { "option_id": 2, "text": "येसाजी कंक", "is_correct": false },
+        { "option_id": 3, "text": "बाजी पासलकर", "is_correct": false },
+        { "option_id": 4, "text": "जिवा महाला", "is_correct": false }
+      ],
+      "answer": "बहिर्जी नाईक"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "किल्ल्यावर शिबंदी म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "धान्य", "is_correct": false },
+        { "option_id": 2, "text": "लष्करी लोक (सैनिक)", "is_correct": true },
+        { "option_id": 3, "text": "तटबंदी", "is_correct": false },
+        { "option_id": 4, "text": "खजिना", "is_correct": false }
+      ],
+      "answer": "लष्करी लोक (सैनिक)"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या काळात तोफा कशाच्या बनवल्या जात असत?",
+      "options": [
+        { "option_id": 1, "text": "प्लास्टिकच्या", "is_correct": false },
+        { "option_id": 2, "text": "लोखंड आणि पितळ", "is_correct": true },
+        { "option_id": 3, "text": "लाकडाच्या", "is_correct": false },
+        { "option_id": 4, "text": "दगडाच्या", "is_correct": false }
+      ],
+      "answer": "लोखंड आणि पितळ"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "गडाच्या संरक्षणासाठी कोठून तोफांचा मारा केला जाई?",
+      "options": [
+        { "option_id": 1, "text": "तळावरून", "is_correct": false },
+        { "option_id": 2, "text": "बुरुजावरून", "is_correct": true },
+        { "option_id": 3, "text": "गावावरून", "is_correct": false },
+        { "option_id": 4, "text": "नदीतून", "is_correct": false }
+      ],
+      "answer": "बुरुजावरून"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पावसाळ्यात तोफा गंजू नयेत म्हणून त्यांना काय लावले जाई?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "मेणाचा लेप", "is_correct": true },
+        { "option_id": 3, "text": "रंग", "is_correct": false },
+        { "option_id": 4, "text": "चिखल", "is_correct": false }
+      ],
+      "answer": "मेणाचा लेप"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "सह्याद्रीच्या पर्वतरांगांमधून फिरताना शिवरायांनी काय समजून घेतले होते?",
+      "options": [
+        { "option_id": 1, "text": "नद्यांची लांबी", "is_correct": false },
+        { "option_id": 2, "text": "गडकोटांचे महत्त्व", "is_correct": true },
+        { "option_id": 3, "text": "फक्त पिकांची माहिती", "is_correct": false },
+        { "option_id": 4, "text": "बाजारपेठा", "is_correct": false }
+      ],
+      "answer": "गडकोटांचे महत्त्व"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "गडावरील हवालदाराचे मुख्य काम कोणते होते?",
+      "options": [
+        { "option_id": 1, "text": "किल्ल्याचे संरक्षण व राज्यकारभार", "is_correct": true },
+        { "option_id": 2, "text": "केवळ स्वयंपाक करणे", "is_correct": false },
+        { "option_id": 3, "text": "धान्य विकणे", "is_correct": false },
+        { "option_id": 4, "text": "पाणी भरणे", "is_correct": false }
+      ],
+      "answer": "किल्ल्याचे संरक्षण व राज्यकारभार"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "गडावर पत्रव्यवहार सांभाळण्याचे काम कोणाचे होते?",
+      "options": [
+        { "option_id": 1, "text": "कारखानीस", "is_correct": false },
+        { "option_id": 2, "text": "सबनीस", "is_correct": true },
+        { "option_id": 3, "text": "हवालदार", "is_correct": false },
+        { "option_id": 4, "text": "गवंडी", "is_correct": false }
+      ],
+      "answer": "सबनीस"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "आरमार म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "घोडदळ", "is_correct": false },
+        { "option_id": 2, "text": "युद्धनौकांचा समूह", "is_correct": true },
+        { "option_id": 3, "text": "पायदळ", "is_correct": false },
+        { "option_id": 4, "text": "हत्तीदळ", "is_correct": false }
+      ],
+      "answer": "युद्धनौकांचा समूह"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कल्याण आणि भिवंडी येथे शिवरायांनी काय बांधले?",
+      "options": [
+        { "option_id": 1, "text": "नवीन किल्ले", "is_correct": false },
+        { "option_id": 2, "text": "जहाजे (आरमार)", "is_correct": true },
+        { "option_id": 3, "text": "रस्ते", "is_correct": false },
+        { "option_id": 4, "text": "शाळा", "is_correct": false }
+      ],
+      "answer": "जहाजे (आरमार)"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या सैनिकांनी कोणाचा आदर करावा, अशी त्यांची सक्त ताकीद होती?",
+      "options": [
+        { "option_id": 1, "text": "शत्रूचा", "is_correct": false },
+        { "option_id": 2, "text": "स्त्रियांचा", "is_correct": true },
+        { "option_id": 3, "text": "केवळ श्रीमंतांचा", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "स्त्रियांचा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "स्वराज्याच्या आरमारात कोणाचे वर्चस्व झुगारून दिले गेले?",
+      "options": [
+        { "option_id": 1, "text": "सिद्दी, पोर्तुगीज व डच", "is_correct": true },
+        { "option_id": 2, "text": "फक्त मुघलांचे", "is_correct": false },
+        { "option_id": 3, "text": "केवळ इंग्रजांचे", "is_correct": false },
+        { "option_id": 4, "text": "कोणाचेही नाही", "is_correct": false }
+      ],
+      "answer": "सिद्दी, पोर्तुगीज व डच"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी गडावर कोणत्या प्रकारच्या वस्तूंची साठवणूक केली होती?",
+      "options": [
+        { "option_id": 1, "text": "धान्य आणि दारूगोळा", "is_correct": true },
+        { "option_id": 2, "text": "फक्त कपडे", "is_correct": false },
+        { "option_id": 3, "text": "खेळणी", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "धान्य आणि दारूगोळा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "गडावरील कारखानदारांचे एक मुख्य काम कोणते होते?",
+      "options": [
+        { "option_id": 1, "text": "इमारतींची दुरुस्ती व देखभाल", "is_correct": true },
+        { "option_id": 2, "text": "हिशेब लिहिणे", "is_correct": false },
+        { "option_id": 3, "text": "युद्ध करणे", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "इमारतींची दुरुस्ती व देखभाल"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या काळात तोफेचे गोळे कशाचे बनवले जात असत?",
+      "options": [
+        { "option_id": 1, "text": "दगड आणि शिसे", "is_correct": true },
+        { "option_id": 2, "text": "लोखंड आणि तांबे", "is_correct": false },
+        { "option_id": 3, "text": "माती", "is_correct": false },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "दगड आणि शिसे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "आरमार उभे करून शिवरायांनी कशावर आपली सत्ता प्रस्थापित केली?",
+      "options": [
+        { "option_id": 1, "text": "कोकण किनारपट्टी व समुद्र", "is_correct": true },
+        { "option_id": 2, "text": "केवळ डोंगर", "is_correct": false },
+        { "option_id": 3, "text": "दिल्ली", "is_correct": false },
+        { "option_id": 4, "text": "दक्षिण भारत", "is_correct": false }
+      ],
+      "answer": "कोकण किनारपट्टी व समुद्र"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "शिवरायांचे व्यवस्थापन कौशल्य कोणत्या क्षेत्रात दिसून येते?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध आणि राज्यकारभार", "is_correct": true },
+        { "option_id": 2, "text": "केवळ खेळ", "is_correct": false },
+        { "option_id": 3, "text": "फक्त वाचन", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "युद्ध आणि राज्यकारभार"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "जलदुर्ग बांधण्यासाठी शिवरायांनी कोणत्या बेटाची निवड केली?",
+      "options": [
+        { "option_id": 1, "text": "कुरटे", "is_correct": true },
+        { "option_id": 2, "text": "अंदमान", "is_correct": false },
+        { "option_id": 3, "text": "माजुली", "is_correct": false },
+        { "option_id": 4, "text": "श्रीलंका", "is_correct": false }
+      ],
+      "answer": "कुरटे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "आरमारातील 'पाल' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "जहाजाचा एक प्रकार", "is_correct": true },
+        { "option_id": 3, "text": "हत्यार", "is_correct": false },
+        { "option_id": 4, "text": "किल्ला", "is_correct": false }
+      ],
+      "answer": "जहाजाचा एक प्रकार"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी आपल्या सैनिकांना काय सक्त ताकीद दिली होती?",
+      "options": [
+        { "option_id": 1, "text": "दारू पिऊ नये व रयतेला त्रास देऊ नये", "is_correct": true },
+        { "option_id": 2, "text": "शत्रूशी बोलू नये", "is_correct": false },
+        { "option_id": 3, "text": "फक्त रात्री लढावे", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "दारू पिऊ नये व रयतेला त्रास देऊ नये"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "विजयदुर्ग किल्ला महाराष्ट्राच्या कोणत्या जिल्ह्यात आहे?",
+      "options": [
+        { "option_id": 1, "text": "पुणे", "is_correct": false },
+        { "option_id": 2, "text": "सिंधुदुर्ग", "is_correct": true },
+        { "option_id": 3, "text": "नाशिक", "is_correct": false },
+        { "option_id": 4, "text": "नागपूर", "is_correct": false }
+      ],
+      "answer": "सिंधुदुर्ग"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "गडावरील शिबंदीची व्यवस्था पाहण्याचे काम कोणाचे होते?",
+      "options": [
+        { "option_id": 1, "text": "सबनीस", "is_correct": false },
+        { "option_id": 2, "text": "हवालदार", "is_correct": true },
+        { "option_id": 3, "text": "पंडित", "is_correct": false },
+        { "option_id": 4, "text": "व्यापारी", "is_correct": false }
+      ],
+      "answer": "हवालदार"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या काळात कोणते किल्ले सर्वात जास्त होते?",
+      "options": [
+        { "option_id": 1, "text": "भुईकोट", "is_correct": false },
+        { "option_id": 2, "text": "डोंगरी किल्ले", "is_correct": true },
+        { "option_id": 3, "text": "वनदुर्ग", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "डोंगरी किल्ले"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "सिंधुदुर्ग किल्ल्याच्या बांधकामासाठी काय वापरले गेले होते?",
+      "options": [
+        { "option_id": 1, "text": "पाच मण शिसे", "is_correct": true },
+        { "option_id": 2, "text": "केवळ माती", "is_correct": false },
+        { "option_id": 3, "text": "लाकूड", "is_correct": false },
+        { "option_id": 4, "text": "विटा", "is_correct": false }
+      ],
+      "answer": "पाच मण शिसे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या आरमारात किती जहाजे असावीत असा अंदाज आहे?",
+      "options": [
+        { "option_id": 1, "text": "दहा", "is_correct": false },
+        { "option_id": 2, "text": "चारशे", "is_correct": true },
+        { "option_id": 3, "text": "हजार", "is_correct": false },
+        { "option_id": 4, "text": "पन्नास", "is_correct": false }
+      ],
+      "answer": "चारशे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी परकीय व्यापारावर काय बसवले होते?",
+      "options": [
+        { "option_id": 1, "text": "बंदी", "is_correct": false },
+        { "option_id": 2, "text": "जबरदस्त कर (जकात)", "is_correct": true },
+        { "option_id": 3, "text": "बक्षीस", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "जबरदस्त कर (जकात)"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी लाकूड कापण्यासाठी कोणत्या झाडांना तोडण्यास मनाई केली होती?",
+      "options": [
+        { "option_id": 1, "text": "बाभळीची", "is_correct": false },
+        { "option_id": 2, "text": "आंबा व फणस", "is_correct": true },
+        { "option_id": 3, "text": "निवडुंग", "is_correct": false },
+        { "option_id": 4, "text": "गवत", "is_correct": false }
+      ],
+      "answer": "आंबा व फणस"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "शिवरायांनी कोणत्या किल्ल्याची डागडुजी करून त्याला 'प्रतापगड' नाव दिले?",
+      "options": [
+        { "option_id": 1, "text": "भोरप्या डोंगर", "is_correct": true },
+        { "option_id": 2, "text": "तोरणा", "is_correct": false },
+        { "option_id": 3, "text": "राजगड", "is_correct": false },
+        { "option_id": 4, "text": "पुरंदर", "is_correct": false }
+      ],
+      "answer": "भोरप्या डोंगर"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या काळात तोफेचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "धडधड", "is_correct": false },
+        { "option_id": 2, "text": "मुलुखमैदान (उदा.)", "is_correct": true },
+        { "option_id": 3, "text": "बाण", "is_correct": false },
+        { "option_id": 4, "text": "चक्र", "is_correct": false }
+      ],
+      "answer": "मुलुखमैदान (उदा.)"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "गडावरील शिबंदीला रयतेकडून काय घेण्यास मनाई होती?",
+      "options": [
+        { "option_id": 1, "text": "अन्न", "is_correct": false },
+        { "option_id": 2, "text": "जबरदस्तीने काहीही घेण्यास", "is_correct": true },
+        { "option_id": 3, "text": "नमस्कार", "is_correct": false },
+        { "option_id": 4, "text": "मदत", "is_correct": false }
+      ],
+      "answer": "जबरदस्तीने काहीही घेण्यास"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या व्यवस्थापन कौशल्याचा पाया काय होता?",
+      "options": [
+        { "option_id": 1, "text": "रयतेचे हित", "is_correct": true },
+        { "option_id": 2, "text": "स्वतःचा स्वार्थ", "is_correct": false },
+        { "option_id": 3, "text": "परकीय मदत", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "रयतेचे हित"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "सिंधुदुर्ग किल्ला कोठे आहे?",
+      "options": [
+        { "option_id": 1, "text": "मालवण", "is_correct": true },
+        { "option_id": 2, "text": "पुणे", "is_correct": false },
+        { "option_id": 3, "text": "मुंबई", "is_correct": false },
+        { "option_id": 4, "text": "रत्नागिरी", "is_correct": false }
+      ],
+      "answer": "मालवण"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या काळात आरमाराचे मुख्य केंद्र कोठे होते?",
+      "options": [
+        { "option_id": 1, "text": "कोकण किनारपट्टी", "is_correct": true },
+        { "option_id": 2, "text": "देशावर", "is_correct": false },
+        { "option_id": 3, "text": "विजापुरात", "is_correct": false },
+        { "option_id": 4, "text": "दिल्लीत", "is_correct": false }
+      ],
+      "answer": "कोकण किनारपट्टी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "गडावरील सर्व इमारतींची देखभाल करणारा अधिकारी कोण?",
+      "options": [
+        { "option_id": 1, "text": "कारखानीस", "is_correct": true },
+        { "option_id": 2, "text": "सबनीस", "is_correct": false },
+        { "option_id": 3, "text": "हवालदार", "is_correct": false },
+        { "option_id": 4, "text": "सैनिक", "is_correct": false }
+      ],
+      "answer": "कारखानीस"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "शिवरायांच्या आरमाराने कोणाला जेरीस आणले?",
+      "options": [
+        { "option_id": 1, "text": "मुघलांना", "is_correct": false },
+        { "option_id": 2, "text": "इंग्रज व सिद्दी", "is_correct": true },
+        { "option_id": 3, "text": "रयतेला", "is_correct": false },
+        { "option_id": 4, "text": "कोणालाही नाही", "is_correct": false }
+      ],
+      "answer": "इंग्रज व सिद्दी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "व्यवस्थापन कौशल्य म्हणजे काय?",
+      "answer": "निश्चित ध्येय साध्य करण्यासाठी हाती घेतलेले कार्य शिस्तबद्ध पद्धतीने करणे म्हणजे व्यवस्थापन कौशल्य होय."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी गडकोटांचे महत्त्व कशा प्रकारे ओळखले होते?",
+      "answer": "तरुणपणी सह्याद्रीच्या पर्वतरांगांमधून फिरताना आणि दुर्गांचे निरीक्षण करताना शिवरायांना गडकोटांचे स्वराज्याच्या संरक्षणासाठीचे महत्त्व उमगले होते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी बांधलेल्या तीन प्रकारच्या किल्ल्यांची नावे सांगा.",
+      "answer": "शिवरायांनी वनदुर्ग, गिरिदुर्ग (डोंगरी किल्ले) आणि जलदुर्ग हे तीन प्रकारचे किल्ले बांधले."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "जलदुर्गांना काय म्हटले जाते?",
+      "answer": "जलदुर्गांना 'जंजिरा' असेही म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी बांधलेल्या काही प्रसिद्ध किल्ल्यांची नावे सांगा.",
+      "answer": "राजगड, प्रतापगड आणि सिंधुदुर्ग हे शिवरायांनी बांधलेले काही प्रसिद्ध किल्ले आहेत."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "किल्लेदाराची (हवालदाराची) मुख्य कामे कोणती होती?",
+      "answer": "किल्ल्याचे संरक्षण करणे, सबनीस व कारखानीस यांच्या कामांवर देखरेख करणे आणि सरकारी आज्ञांचे पालन करणे ही किल्लेदाराची कामे होती."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "गडावरील सबनिसाची कामे कोणती होती?",
+      "answer": "गडावरील जमाखर्चाचा हिशेब ठेवणे, पत्रव्यवहार सांभाळणे आणि सैनिकांना पगार वाटणे ही सबनिसाची कामे होती."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कारखानीसाची गडावरील जबाबदारी काय होती?",
+      "answer": "गडावरील कोठार आणि धान्याची व्यवस्था पाहणे, इमारतींची दुरुस्ती करणे आणि युद्धाच्या वेळी दारूगोळा पुरवणे ही कारखानीसाची जबाबदारी होती."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या काळात तोफा कशा प्रकारे सुरक्षित ठेवल्या जात?",
+      "answer": "पावसाळ्यात तोफा गंजू नयेत म्हणून त्यांना मेणाचा लेप लावून सुरक्षित ठेवले जाई."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी आरमारात कोणत्या प्रकारची जहाजे बांधली?",
+      "answer": "शिवरायांनी गुराब, गलबत आणि पाल यांसारखी विविध प्रकारची युद्धनौका आरमारात बांधल्या."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आरमार उभे करण्यामागे शिवरायांचा कोणता हेतू होता?",
+      "answer": "समुद्रावरून होणारी परकीय आक्रमणे रोखणे आणि किनारपट्टीचे रक्षण करणे हा मुख्य हेतू होता."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या आरमारात कोणत्या समाजातील लोकांचा समावेश होता?",
+      "answer": "शिवरायांच्या आरमारात आगरी, कोळी, भंडारी आणि मुसलमान अशा सर्व धर्मांच्या व जातींच्या लोकांचा समावेश होता."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "शिवरायांना 'भारतीय आरमाराचे जनक' का म्हटले जाते?",
+      "answer": "परकीयांच्या आरमाराला तोंड देण्यासाठी शिवरायांनी भारतात स्वतःचे शक्तिशाली आरमार प्रथम उभे केले, म्हणून त्यांना भारतीय आरमाराचे जनक म्हटले जाते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी पर्यावरण रक्षणासाठी कोणता नियम केला होता?",
+      "answer": "विनाकारण झाडे तोडू नयेत आणि जहाजे बांधण्यासाठी लागणारे लाकूड मालकाच्या परवानगीने व मोबदला देऊनच घ्यावे, असा नियम त्यांनी केला होता."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या लष्करी छावणीत कशाची सक्त मनाई होती?",
+      "answer": "लष्करी छावणीत स्त्रियांना नेण्यास आणि सैनिकांनी नशा किंवा दारू पिण्यास सक्त मनाई होती."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "हेरांचे मुख्य काम काय होते?",
+      "answer": "शत्रूच्या हालचालींची गुप्त माहिती काढून ती वेळेवर शिवरायांपर्यंत पोहोचवणे हे हेरांचे काम होते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "गडावरील शिबंदी म्हणजे काय?",
+      "answer": "गडाच्या संरक्षणासाठी नेमलेले हवालदार, सबनीस, कारखानीस आणि पायदळ या सर्वांना मिळून शिबंदी म्हटले जाई."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "तोफा कशापासून तयार केल्या जात असत?",
+      "answer": "त्या काळी तोफा प्रामुख्याने लोखंड आणि पितळ यांपासून तयार केल्या जात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "स्वराज्याच्या आरमाराने कोणाला धडकी भरवली?",
+      "answer": "स्वराज्याच्या आरमाराने सिद्दी, पोर्तुगीज, डच आणि इंग्रज या परकीय सत्तांना धडकी भरवली."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "गडकोटांच्या व्यवस्थापनामुळे स्वराज्याचे रक्षण कसे झाले?",
+      "answer": "गडकोटांमुळे शत्रूचा प्रतिकार करणे सोपे झाले आणि संकटकाळी रयतेला तिथे आश्रय मिळाला."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "गिरिदुर्ग म्हणजे काय?",
+      "answer": "गिरिदुर्ग म्हणजे डोंगर माथ्यावर बांधलेला किल्ला होय."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी सिधुदुर्ग किल्ला कोठे बांधला?",
+      "answer": "शिवरायांनी सिंधुदुर्ग किल्ला मालवणजवळील कुरटे नावाच्या खडकाळ बेटावर बांधला."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "आरमारातील जहाजांची नावे सांगा.",
+      "answer": "गुराब, गलबत, पाल, मचवा, नांव, होडी ही जहाजांची नावे होती."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी कशाचा आधार घेऊन स्वराज्याचे रक्षण केले?",
+      "answer": "शिवरायांनी गडकोट, आरमार आणि आपल्या शिस्तबद्ध सैन्याचा आधार घेऊन स्वराज्याचे रक्षण केले."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "तटसरनोबत या अधिकाऱ्याचे काम काय होते?",
+      "answer": "तटसरनोबत हा किल्ल्याच्या तटबंदीच्या आणि बुरुजांच्या रक्षणाची जबाबदारी सांभाळत असे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या व्यवस्थापन कौशल्याचा एक पुरावा सांगा.",
+      "answer": "सिंधुदुर्ग किल्ल्याच्या बांधकामात आजही पाच मण शिसे वापरल्याचे पुरावे मिळतात, जे भक्कम नियोजनाचे प्रतीक आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "गडावरील कोठार कशासाठी वापरले जाई?",
+      "answer": "युद्धकाळात किंवा दुष्काळाच्या वेळी रयतेला व सैन्याला धान्य पुरवण्यासाठी कोठाराचा वापर होई."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी स्वराज्यात कोणाला संरक्षण दिले?",
+      "answer": "शिवरायांनी स्वराज्यात रयत, स्त्रिया, शेतकरी आणि सर्वसामान्य जनतेला पूर्ण संरक्षण दिले."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या आरमाराचे मुख्य अधिकारी कोण होते?",
+      "answer": "मायनाक भंडारी आणि लाय पाटील हे आरमाराचे प्रसिद्ध मुख्य अधिकारी होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पर्यावरण रक्षण आणि किल्ले बांधणी यांचा संबंध काय?",
+      "answer": "झाडे तोडताना निसर्गाची हानी होऊ नये आणि स्वराज्याला आवश्यक लाकूडही मिळावे, याचा समतोल शिवरायांनी राखला."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "जंजिरा म्हणजे काय?",
+      "answer": "जंजिरा म्हणजे समुद्रात असलेला जलदुर्ग होय."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "सह्याद्रीच्या पर्वतरांगा शिवरायांच्या कशा होत्या?",
+      "answer": "सह्याद्रीच्या पर्वतरांगा शिवरायांच्या सख्या सोबती आणि स्वराज्याचे संरक्षण कवच होत्या."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी आरमारासाठी नवीन जहाजे कोठे बांधली?",
+      "answer": "शिवरायांनी कल्याण आणि भिवंडी येथील खाडीमध्ये नवीन जहाजे बांधण्याची सोय केली होती."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या तोफखान्याची वैशिष्ट्ये कोणती होती?",
+      "answer": "तोफांचे नियोजन बुरुजावर असे आणि शत्रूला रोखण्यासाठी त्या अत्यंत प्रभावी होत्या."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "स्वराज्य रक्षणासाठी किल्ल्यांची काय गरज होती?",
+      "answer": "किल्ल्यांमुळे संपूर्ण मुलखावर लक्ष ठेवता येत असे आणि शत्रूच्या आक्रमणा वेळी ते बचावाचे केंद्र ठरत."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "किल्लेदाराला गडावर कोणाच्या मदतीने काम करावे लागे?",
+      "answer": "किल्लेदाराला सबनीस आणि कारखानीस यांच्या सहकार्याने गडाचा कारभार पाहावा लागे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या सैन्याची शिस्त कशी होती?",
+      "answer": "शिवरायांच्या सैन्याची शिस्त अत्यंत कडक होती, चुकीच्या वागणाऱ्यास शिक्षा दिली जाई."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी परकीय वस्तूंवर जकात का बसवली?",
+      "answer": "स्वदेशी व्यापाराला चालना मिळावी आणि परकीय व्यापाऱ्यांचे वर्चस्व कमी व्हावे म्हणून जकात बसवली."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी कोणाला स्वराज्याचे 'हिरे' म्हटले?",
+      "answer": "स्वराज्यासाठी निष्ठावान असलेल्या आणि शौर्य गाजवणाऱ्या आपल्या सहकाऱ्यांना ते हिरे मानत."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "गडकोटांचे आणि आरमाराचे व्यवस्थापन का महत्त्वाचे आहे?",
+      "answer": "स्वराज्याचे सार्वभौमत्व टिकवण्यासाठी आणि प्रजेच्या सुरक्षिततेसाठी हे व्यवस्थापन महत्त्वाचे होते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी बांधलेला सर्वात पहिला महत्त्वाचा किल्ला कोणता?",
+      "answer": "स्वराज्याची पहिली राजधानी असलेला 'राजगड' हा शिवरायांनी बांधलेला महत्त्वाचा किल्ला आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "गडावरील तोफांचा आवाज केव्हा केला जाई?",
+      "answer": "विजयाची बातमी सांगण्यासाठी, सण-उत्सवाच्या वेळी किंवा शत्रूचे आगमन सूचित करण्यासाठी तोफांचा आवाज केला जाई."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "आरमार उभे करताना शिवरायांनी कोणाकडून तंत्रज्ञान शिकून घेतले?",
+      "answer": "शिवरायांनी सुरुवातीला स्थानिक कारागीरांच्या मदतीने आणि परकीयांच्या जहाजांचे निरीक्षण करून तंत्रज्ञान अवगत केले."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या व्यवस्थापन कौशल्याचा एक नमुना सांगा.",
+      "answer": "गडावरील प्रत्येक कामासाठी स्वतंत्र अधिकारी नेमणे आणि त्यांच्यात जबाबदाऱ्यांचे वाटप करणे हा व्यवस्थापन कौशल्याचा नमुना आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "शिवाजी महाराजांची कीर्ती कशामुळे जगभर पसरली?",
+      "answer": "त्यांचे शौर्य, आदर्श राज्यकारभार आणि अद्वितीय व्यवस्थापन कौशल्य यामुळे त्यांची कीर्ती जगभर पसरली."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी रयतेची लूट करणाऱ्या सैनिकांना कोणती शिक्षा दिली?",
+      "answer": "रयतेची लूट करणाऱ्या सैनिकांना शिवराय अत्यंत कठोर शिक्षा देत असत."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "गडावरील पत्रव्यवहार कोठे जतन केला जाई?",
+      "answer": "गडावरील सबनिसाच्या कार्यालयात सर्व पत्रव्यवहार जतन केला जाई."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "शिवरायांनी 'सिंधुदुर्ग' बांधण्यासाठी पाया कशाने भरला?",
+      "answer": "सिंधुदुर्गचा पाया भक्कम करण्यासाठी त्यामध्ये शिसे ओतले गेले होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "शिवरायांच्या सहकाऱ्यांची नावे सांगा.",
+      "answer": "कान्होजी जेधे, बाजी पासलकर, फिरंगोजी नरसाळा आणि बहिर्जी नाईक ही काही सहकाऱ्यांची नावे आहेत."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "या पाठातून आपल्याला काय प्रेरणा मिळते?",
+      "answer": "शिस्त, नियोजन आणि ध्येय गाठण्यासाठी केलेल्या कष्टाची प्रेरणा या पाठातून मिळते."
+    }
+  ]
+}

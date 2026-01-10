@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.08",
+    "standard": "4",
+    "subject": "English",
+    "medium": "Marathi",
+    "chapter_name": "A Guessing Game"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the title of the chapter on page 11?",
+      "options": [
+        { "option_id": 1, "text": "A Reading Game", "is_correct": false },
+        { "option_id": 2, "text": "A Guessing Game", "is_correct": true },
+        { "option_id": 3, "text": "A Writing Game", "is_correct": false },
+        { "option_id": 4, "text": "A Singing Game", "is_correct": false }
+      ],
+      "answer": "A Guessing Game"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which animal gives us milk according to the clues?",
+      "options": [
+        { "option_id": 1, "text": "Elephant", "is_correct": false },
+        { "option_id": 2, "text": "Cow", "is_correct": true },
+        { "option_id": 3, "text": "Duck", "is_correct": false },
+        { "option_id": 4, "text": "Ant", "is_correct": false }
+      ],
+      "answer": "Cow"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What shines in the sky and is hot?",
+      "options": [
+        { "option_id": 1, "text": "Moon", "is_correct": false },
+        { "option_id": 2, "text": "Star", "is_correct": false },
+        { "option_id": 3, "text": "Sun", "is_correct": true },
+        { "option_id": 4, "text": "Bird", "is_correct": false }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which object has three blades?",
+      "options": [
+        { "option_id": 1, "text": "Knife", "is_correct": false },
+        { "option_id": 2, "text": "Fan", "is_correct": true },
+        { "option_id": 3, "text": "Table", "is_correct": false },
+        { "option_id": 4, "text": "Cup", "is_correct": false }
+      ],
+      "answer": "Fan"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What is green and flies?",
+      "options": [
+        { "option_id": 1, "text": "Duck", "is_correct": false },
+        { "option_id": 2, "text": "Parrot", "is_correct": true },
+        { "option_id": 3, "text": "Ant", "is_correct": false },
+        { "option_id": 4, "text": "Elephant", "is_correct": false }
+      ],
+      "answer": "Parrot"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which animal has a trunk and two big ears?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": false },
+        { "option_id": 2, "text": "Elephant", "is_correct": true },
+        { "option_id": 3, "text": "Dog", "is_correct": false },
+        { "option_id": 4, "text": "Lion", "is_correct": false }
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What is white and quacks?",
+      "options": [
+        { "option_id": 1, "text": "Swan", "is_correct": false },
+        { "option_id": 2, "text": "Parrot", "is_correct": false },
+        { "option_id": 3, "text": "Duck", "is_correct": true },
+        { "option_id": 4, "text": "Crow", "is_correct": false }
+      ],
+      "answer": "Duck"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which object is used to cut vegetables?",
+      "options": [
+        { "option_id": 1, "text": "Spoon", "is_correct": false },
+        { "option_id": 2, "text": "Knife", "is_correct": true },
+        { "option_id": 3, "text": "Fork", "is_correct": false },
+        { "option_id": 4, "text": "Plate", "is_correct": false }
+      ],
+      "answer": "Knife"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What rhymes with 'pup'?",
+      "options": [
+        { "option_id": 1, "text": "Cup", "is_correct": true },
+        { "option_id": 2, "text": "Cap", "is_correct": false },
+        { "option_id": 3, "text": "Cop", "is_correct": false },
+        { "option_id": 4, "text": "Map", "is_correct": false }
+      ],
+      "answer": "Cup"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What are small and bite?",
+      "options": [
+        { "option_id": 1, "text": "Birds", "is_correct": false },
+        { "option_id": 2, "text": "Ants", "is_correct": true },
+        { "option_id": 3, "text": "Cows", "is_correct": false },
+        { "option_id": 4, "text": "Elephants", "is_correct": false }
+      ],
+      "answer": "Ants"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What has four legs and a top?",
+      "options": [
+        { "option_id": 1, "text": "Chair", "is_correct": false },
+        { "option_id": 2, "text": "Table", "is_correct": true },
+        { "option_id": 3, "text": "Bed", "is_correct": false },
+        { "option_id": 4, "text": "Cupboard", "is_correct": false }
+      ],
+      "answer": "Table"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What flies in the sky (plural)?",
+      "options": [
+        { "option_id": 1, "text": "Fish", "is_correct": false },
+        { "option_id": 2, "text": "Birds", "is_correct": true },
+        { "option_id": 3, "text": "Ants", "is_correct": false },
+        { "option_id": 4, "text": "Cows", "is_correct": false }
+      ],
+      "answer": "Birds"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What grows on a tree according to the clue?",
+      "options": [
+        { "option_id": 1, "text": "Flower", "is_correct": true },
+        { "option_id": 2, "text": "Stone", "is_correct": false },
+        { "option_id": 3, "text": "Knife", "is_correct": false },
+        { "option_id": 4, "text": "Fan", "is_correct": false }
+      ],
+      "answer": "Flower"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which unit is this chapter from?",
+      "options": [
+        { "option_id": 1, "text": "Unit 2", "is_correct": false },
+        { "option_id": 2, "text": "Unit 1", "is_correct": true },
+        { "option_id": 3, "text": "Unit 3", "is_correct": false },
+        { "option_id": 4, "text": "Unit 4", "is_correct": false }
+      ],
+      "answer": "Unit 1"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What should you do with the small piece of paper?",
+      "options": [
+        { "option_id": 1, "text": "Tear it", "is_correct": false },
+        { "option_id": 2, "text": "Eat it", "is_correct": false },
+        { "option_id": 3, "text": "Fold it", "is_correct": true },
+        { "option_id": 4, "text": "Throw it", "is_correct": false }
+      ],
+      "answer": "Fold it"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What should you write on the paper?",
+      "options": [
+        { "option_id": 1, "text": "Your name", "is_correct": false },
+        { "option_id": 2, "text": "The English word for the picture", "is_correct": true },
+        { "option_id": 3, "text": "A number", "is_correct": false },
+        { "option_id": 4, "text": "A sentence", "is_correct": false }
+      ],
+      "answer": "The English word for the picture"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "How should you form groups for this game?",
+      "options": [
+        { "option_id": 1, "text": "In pairs", "is_correct": true },
+        { "option_id": 2, "text": "In groups of three", "is_correct": false },
+        { "option_id": 3, "text": "In groups of five", "is_correct": false },
+        { "option_id": 4, "text": "Individually", "is_correct": false }
+      ],
+      "answer": "In pairs"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What do you do when your friend guesses correctly?",
+      "options": [
+        { "option_id": 1, "text": "Hide the word", "is_correct": false },
+        { "option_id": 2, "text": "Show the word", "is_correct": true },
+        { "option_id": 3, "text": "Run away", "is_correct": false },
+        { "option_id": 4, "text": "Say nothing", "is_correct": false }
+      ],
+      "answer": "Show the word"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which object has a handle?",
+      "options": [
+        { "option_id": 1, "text": "Sun", "is_correct": false },
+        { "option_id": 2, "text": "Cup", "is_correct": true },
+        { "option_id": 3, "text": "Ant", "is_correct": false },
+        { "option_id": 4, "text": "Table (top)", "is_correct": false }
+      ],
+      "answer": "Cup"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What colour is the duck in the picture?",
+      "options": [
+        { "option_id": 1, "text": "Black", "is_correct": false },
+        { "option_id": 2, "text": "White", "is_correct": true },
+        { "option_id": 3, "text": "Yellow", "is_correct": false },
+        { "option_id": 4, "text": "Green", "is_correct": false }
+      ],
+      "answer": "White"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What colour is the parrot?",
+      "options": [
+        { "option_id": 1, "text": "Red", "is_correct": false },
+        { "option_id": 2, "text": "Blue", "is_correct": false },
+        { "option_id": 3, "text": "Green", "is_correct": true },
+        { "option_id": 4, "text": "Yellow", "is_correct": false }
+      ],
+      "answer": "Green"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What sound does a duck make?",
+      "options": [
+        { "option_id": 1, "text": "Moo", "is_correct": false },
+        { "option_id": 2, "text": "Quack", "is_correct": true },
+        { "option_id": 3, "text": "Chirp", "is_correct": false },
+        { "option_id": 4, "text": "Roar", "is_correct": false }
+      ],
+      "answer": "Quack"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What sound does a cow make (implied)?",
+      "options": [
+        { "option_id": 1, "text": "Quack", "is_correct": false },
+        { "option_id": 2, "text": "Moo", "is_correct": true },
+        { "option_id": 3, "text": "Bark", "is_correct": false },
+        { "option_id": 4, "text": "Meow", "is_correct": false }
+      ],
+      "answer": "Moo"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which of these is a furniture item?",
+      "options": [
+        { "option_id": 1, "text": "Knife", "is_correct": false },
+        { "option_id": 2, "text": "Table", "is_correct": true },
+        { "option_id": 3, "text": "Fan", "is_correct": false },
+        { "option_id": 4, "text": "Cup", "is_correct": false }
+      ],
+      "answer": "Table"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which of these is an electronic item?",
+      "options": [
+        { "option_id": 1, "text": "Fan", "is_correct": true },
+        { "option_id": 2, "text": "Table", "is_correct": false },
+        { "option_id": 3, "text": "Flower", "is_correct": false },
+        { "option_id": 4, "text": "Ant", "is_correct": false }
+      ],
+      "answer": "Fan"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which of these is a sharp tool?",
+      "options": [
+        { "option_id": 1, "text": "Cup", "is_correct": false },
+        { "option_id": 2, "text": "Knife", "is_correct": true },
+        { "option_id": 3, "text": "Table", "is_correct": false },
+        { "option_id": 4, "text": "Flower", "is_correct": false }
+      ],
+      "answer": "Knife"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which bird is green?",
+      "options": [
+        { "option_id": 1, "text": "Duck", "is_correct": false },
+        { "option_id": 2, "text": "Parrot", "is_correct": true },
+        { "option_id": 3, "text": "Crow", "is_correct": false },
+        { "option_id": 4, "text": "Sparrow", "is_correct": false }
+      ],
+      "answer": "Parrot"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The elephant has a ______ and two big ears.",
+      "options": [
+        { "option_id": 1, "text": "Tail", "is_correct": false },
+        { "option_id": 2, "text": "Trunk", "is_correct": true },
+        { "option_id": 3, "text": "Horn", "is_correct": false },
+        { "option_id": 4, "text": "Wing", "is_correct": false }
+      ],
+      "answer": "Trunk"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What page number is this chapter on?",
+      "options": [
+        { "option_id": 1, "text": "10", "is_correct": false },
+        { "option_id": 2, "text": "11", "is_correct": true },
+        { "option_id": 3, "text": "12", "is_correct": false },
+        { "option_id": 4, "text": "9", "is_correct": false }
+      ],
+      "answer": "11"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the code on the page?",
+      "options": [
+        { "option_id": 1, "text": "T8YATN", "is_correct": true },
+        { "option_id": 2, "text": "A1B2C3", "is_correct": false },
+        { "option_id": 3, "text": "XYZ123", "is_correct": false },
+        { "option_id": 4, "text": "UNIT1", "is_correct": false }
+      ],
+      "answer": "T8YATN"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which category does 'Ant' belong to?",
+      "options": [
+        { "option_id": 1, "text": "Bird", "is_correct": false },
+        { "option_id": 2, "text": "Insect", "is_correct": true },
+        { "option_id": 3, "text": "Furniture", "is_correct": false },
+        { "option_id": 4, "text": "Toy", "is_correct": false }
+      ],
+      "answer": "Insect"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which of these provides light and heat?",
+      "options": [
+        { "option_id": 1, "text": "Fan", "is_correct": false },
+        { "option_id": 2, "text": "Sun", "is_correct": true },
+        { "option_id": 3, "text": "Cup", "is_correct": false },
+        { "option_id": 4, "text": "Flower", "is_correct": false }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "The activity involves listening, reading, and ______.",
+      "options": [
+        { "option_id": 1, "text": "Sleeping", "is_correct": false },
+        { "option_id": 2, "text": "Playing", "is_correct": true },
+        { "option_id": 3, "text": "Running", "is_correct": false },
+        { "option_id": 4, "text": "Eating", "is_correct": false }
+      ],
+      "answer": "Playing"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is Table A?",
+      "options": [
+        { "option_id": 1, "text": "Sentences", "is_correct": false },
+        { "option_id": 2, "text": "Pictures", "is_correct": true },
+        { "option_id": 3, "text": "Numbers", "is_correct": false },
+        { "option_id": 4, "text": "Questions", "is_correct": false }
+      ],
+      "answer": "Pictures"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What is Table B?",
+      "options": [
+        { "option_id": 1, "text": "Pictures", "is_correct": false },
+        { "option_id": 2, "text": "Sentences / Clues", "is_correct": true },
+        { "option_id": 3, "text": "Games", "is_correct": false },
+        { "option_id": 4, "text": "Colors", "is_correct": false }
+      ],
+      "answer": "Sentences / Clues"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'elephant' is:",
+      "options": [
+        { "option_id": 1, "text": "Elefant", "is_correct": false },
+        { "option_id": 2, "text": "Elephant", "is_correct": true },
+        { "option_id": 3, "text": "Elephent", "is_correct": false },
+        { "option_id": 4, "text": "Alephant", "is_correct": false }
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'parrot' is:",
+      "options": [
+        { "option_id": 1, "text": "Parrot", "is_correct": true },
+        { "option_id": 2, "text": "Parot", "is_correct": false },
+        { "option_id": 3, "text": "Perrot", "is_correct": false },
+        { "option_id": 4, "text": "Parrott", "is_correct": false }
+      ],
+      "answer": "Parrot"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'vegetables' is:",
+      "options": [
+        { "option_id": 1, "text": "Vegtables", "is_correct": false },
+        { "option_id": 2, "text": "Vegetables", "is_correct": true },
+        { "option_id": 3, "text": "Vegitables", "is_correct": false },
+        { "option_id": 4, "text": "Vejetables", "is_correct": false }
+      ],
+      "answer": "Vegetables"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'knife' is:",
+      "options": [
+        { "option_id": 1, "text": "Nife", "is_correct": false },
+        { "option_id": 2, "text": "Knife", "is_correct": true },
+        { "option_id": 3, "text": "Knif", "is_correct": false },
+        { "option_id": 4, "text": "Knive", "is_correct": false }
+      ],
+      "answer": "Knife"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Correct spelling of 'rhymes' is:",
+      "options": [
+        { "option_id": 1, "text": "Rymes", "is_correct": false },
+        { "option_id": 2, "text": "Rhymes", "is_correct": true },
+        { "option_id": 3, "text": "Rhims", "is_correct": false },
+        { "option_id": 4, "text": "Rhyems", "is_correct": false }
+      ],
+      "answer": "Rhymes"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT an animal?",
+      "options": [
+        { "option_id": 1, "text": "Cow", "is_correct": false },
+        { "option_id": 2, "text": "Elephant", "is_correct": false },
+        { "option_id": 3, "text": "Table", "is_correct": true },
+        { "option_id": 4, "text": "Duck", "is_correct": false }
+      ],
+      "answer": "Table"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a bird?",
+      "options": [
+        { "option_id": 1, "text": "Duck", "is_correct": false },
+        { "option_id": 2, "text": "Parrot", "is_correct": false },
+        { "option_id": 3, "text": "Sparrow", "is_correct": false },
+        { "option_id": 4, "text": "Ant", "is_correct": true }
+      ],
+      "answer": "Ant"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which of these is used for drinking?",
+      "options": [
+        { "option_id": 1, "text": "Cup", "is_correct": true },
+        { "option_id": 2, "text": "Fan", "is_correct": false },
+        { "option_id": 3, "text": "Table", "is_correct": false },
+        { "option_id": 4, "text": "Knife", "is_correct": false }
+      ],
+      "answer": "Cup"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which of these gives breeze?",
+      "options": [
+        { "option_id": 1, "text": "Sun", "is_correct": false },
+        { "option_id": 2, "text": "Fan", "is_correct": true },
+        { "option_id": 3, "text": "Table", "is_correct": false },
+        { "option_id": 4, "text": "Cup", "is_correct": false }
+      ],
+      "answer": "Fan"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which of these has legs?",
+      "options": [
+        { "option_id": 1, "text": "Table", "is_correct": true },
+        { "option_id": 2, "text": "Cup", "is_correct": false },
+        { "option_id": 3, "text": "Knife", "is_correct": false },
+        { "option_id": 4, "text": "Sun", "is_correct": false }
+      ],
+      "answer": "Table"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'hot'?",
+      "options": [
+        { "option_id": 1, "text": "Warm", "is_correct": false },
+        { "option_id": 2, "text": "Cold", "is_correct": true },
+        { "option_id": 3, "text": "Dry", "is_correct": false },
+        { "option_id": 4, "text": "Wet", "is_correct": false }
+      ],
+      "answer": "Cold"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What is the opposite of 'white'?",
+      "options": [
+        { "option_id": 1, "text": "Bright", "is_correct": false },
+        { "option_id": 2, "text": "Black", "is_correct": true },
+        { "option_id": 3, "text": "Red", "is_correct": false },
+        { "option_id": 4, "text": "Blue", "is_correct": false }
+      ],
+      "answer": "Black"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the plural of 'Blade'?",
+      "options": [
+        { "option_id": 1, "text": "Blade", "is_correct": false },
+        { "option_id": 2, "text": "Blades", "is_correct": true },
+        { "option_id": 3, "text": "Bladess", "is_correct": false },
+        { "option_id": 4, "text": "Blads", "is_correct": false }
+      ],
+      "answer": "Blades"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What is the plural of 'Ear'?",
+      "options": [
+        { "option_id": 1, "text": "Eares", "is_correct": false },
+        { "option_id": 2, "text": "Ears", "is_correct": true },
+        { "option_id": 3, "text": "Ear", "is_correct": false },
+        { "option_id": 4, "text": "Eares", "is_correct": false }
+      ],
+      "answer": "Ears"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the plural of 'knife'?",
+      "options": [
+        { "option_id": 1, "text": "Knifes", "is_correct": false },
+        { "option_id": 2, "text": "Knives", "is_correct": true },
+        { "option_id": 3, "text": "Knife", "is_correct": false },
+        { "option_id": 4, "text": "Knifess", "is_correct": false }
+      ],
+      "answer": "Knives"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What animal gives us milk?",
+      "answer": "Cow."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What shines in the sky?",
+      "answer": "Sun."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What bird is green?",
+      "answer": "Parrot."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What animal has a trunk?",
+      "answer": "Elephant."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What rhymes with 'pup'?",
+      "answer": "Cup."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What object has three blades?",
+      "answer": "Fan."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is used to cut vegetables?",
+      "answer": "Knife."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What insect bites and is small?",
+      "answer": "Ant."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What object has four legs and a top?",
+      "answer": "Table."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What bird quacks?",
+      "answer": "Duck."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What flies in the sky?",
+      "answer": "Birds (or Parrot)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What grows on a tree (from the list)?",
+      "answer": "Flower."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How many blades does the fan have?",
+      "answer": "Three."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How many ears does an elephant have?",
+      "answer": "Two big ears."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How many legs does a table have?",
+      "answer": "Four."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What color is the sun?",
+      "answer": "Yellow."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What color is the parrot?",
+      "answer": "Green."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What color is the duck?",
+      "answer": "White."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What color is the elephant?",
+      "answer": "Grey."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'Elephant'.",
+      "answer": "E-L-E-P-H-A-N-T."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'Parrot'.",
+      "answer": "P-A-R-R-O-T."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'Knife'.",
+      "answer": "K-N-I-F-E."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'Table'.",
+      "answer": "T-A-B-L-E."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Write the spelling of 'Vegetables'.",
+      "answer": "V-E-G-E-T-A-B-L-E-S."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'hot'?",
+      "answer": "Cold."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'small'?",
+      "answer": "Big."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the opposite of 'white'?",
+      "answer": "Black."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'ear'?",
+      "answer": "Ears."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'leg'?",
+      "answer": "Legs."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the plural of 'blade'?",
+      "answer": "Blades."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Name a white bird from the lesson.",
+      "answer": "Duck."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Name a green bird from the lesson.",
+      "answer": "Parrot."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What do birds do in the sky?",
+      "answer": "Fly."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What do ants do?",
+      "answer": "Bite."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What do we do with a knife?",
+      "answer": "Cut."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What do we do with a cup?",
+      "answer": "Drink."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What unit is this chapter?",
+      "answer": "Unit 1."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "How do you play the game?",
+      "answer": "In pairs."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What must you do with the English word on paper?",
+      "answer": "Write it and fold it."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "When do you show the word?",
+      "answer": "When the friend guesses correctly."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Can you ask questions instead of reading sentences?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Give an example of a question for the game.",
+      "answer": "Is it white? / Does it quack?"
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What table has the pictures?",
+      "answer": "Table A."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What table has the sentences?",
+      "answer": "Table B."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Identify the object: It is hot and shines.",
+      "answer": "Sun."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Identify the object: It has a trunk.",
+      "answer": "Elephant."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Identify the object: It quacks.",
+      "answer": "Duck."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Identify the object: It gives milk.",
+      "answer": "Cow."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Identify the object: It cuts vegetables.",
+      "answer": "Knife."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Identify the object: It rhymes with pup.",
+      "answer": "Cup."
+    }
+  ]
+}

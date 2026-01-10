@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.09",
+    "standard": "4",
+    "subject": "परिसर अभ्यास (भाग १)",
+    "medium": "Marathi",
+    "chapter_name": "हवा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आपल्या सभोवताली काय पसरले आहे?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "हवा", "is_correct": true },
+        { "option_id": 3, "text": "माती", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "हवा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "डोळ्यांना रिकाम्या दिसणाऱ्या भांड्यातही काय असते?",
+      "options": [
+        { "option_id": 1, "text": "काहीच नसते", "is_correct": false },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "हवा", "is_correct": true },
+        { "option_id": 4, "text": "धूळ", "is_correct": false }
+      ],
+      "answer": "हवा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पाण्यापेक्षा हवा कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "जड", "is_correct": false },
+        { "option_id": 2, "text": "हलकी", "is_correct": true },
+        { "option_id": 3, "text": "समान वजनाची", "is_correct": false },
+        { "option_id": 4, "text": "घट्ट", "is_correct": false }
+      ],
+      "answer": "हलकी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पाण्यात उपडे धरलेले भांडे तिरपे केल्यावर काय बाहेर येते?",
+      "options": [
+        { "option_id": 1, "text": "माती", "is_correct": false },
+        { "option_id": 2, "text": "दगड", "is_correct": false },
+        { "option_id": 3, "text": "हवेचे बुडबुडे", "is_correct": true },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "हवेचे बुडबुडे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पृथ्वीभोवतालच्या हवेच्या आवरणास काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जलावरण", "is_correct": false },
+        { "option_id": 2, "text": "वातावरण", "is_correct": true },
+        { "option_id": 3, "text": "शिलावरण", "is_correct": false },
+        { "option_id": 4, "text": "जीवावरण", "is_correct": false }
+      ],
+      "answer": "वातावरण"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पृथ्वीपासून आपण जसजसे दूर जातो, तशी हवा कशी होते?",
+      "options": [
+        { "option_id": 1, "text": "दाट", "is_correct": false },
+        { "option_id": 2, "text": "विरळ", "is_correct": true },
+        { "option_id": 3, "text": "गरम", "is_correct": false },
+        { "option_id": 4, "text": "थंड", "is_correct": false }
+      ],
+      "answer": "विरळ"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "हवेचे थर पृथ्वीच्या पृष्ठभागाशी कसे असतात?",
+      "options": [
+        { "option_id": 1, "text": "विरळ", "is_correct": false },
+        { "option_id": 2, "text": "दाट", "is_correct": true },
+        { "option_id": 3, "text": "नसतातच", "is_correct": false },
+        { "option_id": 4, "text": "पातळ", "is_correct": false }
+      ],
+      "answer": "दाट"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ज्वलनास मदत करणाऱ्या हवेतील वायूला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 3, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 4, "text": "हायड्रोजन", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हवेत ऑक्सिजनचे प्रमाण किती असते?",
+      "options": [
+        { "option_id": 1, "text": "पाचवा भाग", "is_correct": true },
+        { "option_id": 2, "text": "अर्धा भाग", "is_correct": false },
+        { "option_id": 3, "text": "पूर्ण भाग", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "पाचवा भाग"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मेणबत्ती विझल्यावर पेल्यातील पाणी वर का चढते?",
+      "options": [
+        { "option_id": 1, "text": "हवा वाढल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "ऑक्सिजन संपल्यामुळे व त्याची जागा पाण्याने घेतल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "मेणबत्तीमुळे", "is_correct": false },
+        { "option_id": 4, "text": "पेल्यामुळे", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन संपल्यामुळे व त्याची जागा पाण्याने घेतल्यामुळे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "श्वसनासाठी आपल्याला कोणत्या वायूची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 2, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 3, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 4, "text": "धूर", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सोडावॉटरमध्ये कोणता वायू असतो?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": true },
+        { "option_id": 3, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 4, "text": "हवा", "is_correct": false }
+      ],
+      "answer": "कार्बन डायऑक्साइड"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "वनस्पती अन्न तयार करण्यासाठी हवेतील कोणत्या वायूचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 3, "text": "कार्बन डायऑक्साइड", "is_correct": true },
+        { "option_id": 4, "text": "हायड्रोजन", "is_correct": false }
+      ],
+      "answer": "कार्बन डायऑक्साइड"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "बर्फ टाकून थंड झालेल्या पेल्यावर बाहेरून काय जमा होते?",
+      "options": [
+        { "option_id": 1, "text": "धूळ", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याचे कण (बाष्प)", "is_correct": true },
+        { "option_id": 3, "text": "तेल", "is_correct": false },
+        { "option_id": 4, "text": "बर्फ", "is_correct": false }
+      ],
+      "answer": "पाण्याचे कण (बाष्प)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हवेमध्ये सर्वांत जास्त प्रमाण कोणत्या वायूचे असते?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 3, "text": "नायट्रोजन", "is_correct": true },
+        { "option_id": 4, "text": "बाष्प", "is_correct": false }
+      ],
+      "answer": "नायट्रोजन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "हवा हे कशाचे मिश्रण आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ ऑक्सिजनचे", "is_correct": false },
+        { "option_id": 2, "text": "केवळ नायट्रोजनचे", "is_correct": false },
+        { "option_id": 3, "text": "अनेक वायूंचे", "is_correct": true },
+        { "option_id": 4, "text": "केवळ बाष्पाचे", "is_correct": false }
+      ],
+      "answer": "अनेक वायूंचे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "इंधनाच्या ज्वलनातून काय बाहेर पडते?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "धूर", "is_correct": true },
+        { "option_id": 3, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 4, "text": "बर्फ", "is_correct": false }
+      ],
+      "answer": "धूर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "धुराने काय बिघडू शकते?",
+      "options": [
+        { "option_id": 1, "text": "आरोग्य", "is_correct": true },
+        { "option_id": 2, "text": "गाडी", "is_correct": false },
+        { "option_id": 3, "text": "रस्ते", "is_correct": false },
+        { "option_id": 4, "text": "घर", "is_correct": false }
+      ],
+      "answer": "आरोग्य"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा आकार कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "चौकोनी", "is_correct": false },
+        { "option_id": 2, "text": "गोल (चेंडूसारखा)", "is_correct": true },
+        { "option_id": 3, "text": "त्रिकोणी", "is_correct": false },
+        { "option_id": 4, "text": "सपाट", "is_correct": false }
+      ],
+      "answer": "गोल (चेंडूसारखा)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कागदाच्या चळतीमधील कोणता थर जास्त भार पेलतो?",
+      "options": [
+        { "option_id": 1, "text": "सर्वांत वरचा", "is_correct": false },
+        { "option_id": 2, "text": "मधला", "is_correct": false },
+        { "option_id": 3, "text": "सर्वांत खालचा", "is_correct": true },
+        { "option_id": 4, "text": "कोणताच नाही", "is_correct": false }
+      ],
+      "answer": "सर्वांत खालचा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कोणत्या थरातील कागद एकमेकांपासून मोकळे असतात?",
+      "options": [
+        { "option_id": 1, "text": "खालचे", "is_correct": false },
+        { "option_id": 2, "text": "वरचे", "is_correct": true },
+        { "option_id": 3, "text": "मधले", "is_correct": false },
+        { "option_id": 4, "text": "सर्वच", "is_correct": false }
+      ],
+      "answer": "वरचे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "उंचावरची हवा कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "दाट", "is_correct": false },
+        { "option_id": 2, "text": "विरळ", "is_correct": true },
+        { "option_id": 3, "text": "जड", "is_correct": false },
+        { "option_id": 4, "text": "रंगीत", "is_correct": false }
+      ],
+      "answer": "विरळ"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "हवेत पाणी कोणत्या रूपात असते?",
+      "options": [
+        { "option_id": 1, "text": "बर्फ रूपात", "is_correct": false },
+        { "option_id": 2, "text": "द्रव रूपात", "is_correct": false },
+        { "option_id": 3, "text": "वायू रूपात (बाष्प)", "is_correct": true },
+        { "option_id": 4, "text": "स्थायू रूपात", "is_correct": false }
+      ],
+      "answer": "वायू रूपात (बाष्प)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "आपल्या सभोवतालची हवा कुठपर्यंत पसरली आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त घरात", "is_correct": false },
+        { "option_id": 2, "text": "फक्त शाळेत", "is_correct": false },
+        { "option_id": 3, "text": "वातावरणापर्यंत", "is_correct": true },
+        { "option_id": 4, "text": "पाण्यात", "is_correct": false }
+      ],
+      "answer": "वातावरणापर्यंत"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "हवा जागेचा वापर करते का?",
+      "options": [
+        { "option_id": 1, "text": "नाही", "is_correct": false },
+        { "option_id": 2, "text": "हो", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त दिवसा", "is_correct": false }
+      ],
+      "answer": "हो"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कोणता वायू ज्वलनास मदत करत नाही?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "नायट्रोजन", "is_correct": true },
+        { "option_id": 3, "text": "हवा", "is_correct": false },
+        { "option_id": 4, "text": "वातावरण", "is_correct": false }
+      ],
+      "answer": "नायट्रोजन"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "इंजेक्शनच्या सिरिंजमध्ये औषध घेण्यापूर्वी काय करतात?",
+      "options": [
+        { "option_id": 1, "text": "दांडी बाहेर ओढतात", "is_correct": false },
+        { "option_id": 2, "text": "दांडी आत दाबतात", "is_correct": true },
+        { "option_id": 3, "text": "सिरिंज तोडतात", "is_correct": false },
+        { "option_id": 4, "text": "पाणी भरतात", "is_correct": false }
+      ],
+      "answer": "दांडी आत दाबतात"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कोणत्या वस्तूत हवा दाबून भरलेली असते?",
+      "options": [
+        { "option_id": 1, "text": "सायकलचे टायर", "is_correct": true },
+        { "option_id": 2, "text": "दगड", "is_correct": false },
+        { "option_id": 3, "text": "विटा", "is_correct": false },
+        { "option_id": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "सायकलचे टायर"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पाणी उकळत असताना हवेत काय मिसळते?",
+      "options": [
+        { "option_id": 1, "text": "धूर", "is_correct": false },
+        { "option_id": 2, "text": "बाष्प (वाफ)", "is_correct": true },
+        { "option_id": 3, "text": "धूळ", "is_correct": false },
+        { "option_id": 4, "text": "राख", "is_correct": false }
+      ],
+      "answer": "बाष्प (वाफ)"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "लाकूड जाळल्यावर हवेत काय मिसळते?",
+      "options": [
+        { "option_id": 1, "text": "धूर", "is_correct": true },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "बर्फ", "is_correct": false },
+        { "option_id": 4, "text": "ऑक्सिजन", "is_correct": false }
+      ],
+      "answer": "धूर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "हवेतील सर्वात कमी प्रमाण कोणत्या वायूचे असू शकते?",
+      "options": [
+        { "option_id": 1, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 2, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 3, "text": "इतर वायू", "is_correct": true },
+        { "option_id": 4, "text": "हवा", "is_correct": false }
+      ],
+      "answer": "इतर वायू"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "बशीत मेणबत्ती पेटवून त्यावर ग्लास उपडा केल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "मेणबत्ती कायम पेटत राहते", "is_correct": false },
+        { "option_id": 2, "text": "मेणबत्ती थोड्या वेळाने विझते", "is_correct": true },
+        { "option_id": 3, "text": "पाणी कमी होते", "is_correct": false },
+        { "option_id": 4, "text": "ग्लास फुटतो", "is_correct": false }
+      ],
+      "answer": "मेणबत्ती थोड्या वेळाने विझते"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कारखान्यांतून बाहेर पडणारा धूर कुठे जातो?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 2, "text": "हवेत मिसळतो", "is_correct": true },
+        { "option_id": 3, "text": "जमिनीत", "is_correct": false },
+        { "option_id": 4, "text": "घरात", "is_correct": false }
+      ],
+      "answer": "हवेत मिसळतो"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "हवेचे पृथ्वीजवळचे थर कसे असतात?",
+      "options": [
+        { "option_id": 1, "text": "विरळ", "is_correct": false },
+        { "option_id": 2, "text": "दाटीवाटीने", "is_correct": true },
+        { "option_id": 3, "text": "हलके", "is_correct": false },
+        { "option_id": 4, "text": "काळे", "is_correct": false }
+      ],
+      "answer": "दाटीवाटीने"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पृथ्वीपासून उंचावरची हवा पृथ्वीलगतच्या हवेपेक्षा कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "दाट", "is_correct": false },
+        { "option_id": 2, "text": "जड", "is_correct": false },
+        { "option_id": 3, "text": "विरळ", "is_correct": true },
+        { "option_id": 4, "text": "समान", "is_correct": false }
+      ],
+      "answer": "विरळ"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "हवेतील कोणता वायू वनस्पतींना अन्न तयार करण्यास मदत करतो?",
+      "options": [
+        { "option_id": 1, "text": "कार्बन डायऑक्साइड", "is_correct": true },
+        { "option_id": 2, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 3, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 4, "text": "बाष्प", "is_correct": false }
+      ],
+      "answer": "कार्बन डायऑक्साइड"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "रिकाम्या भांड्यात हवा असते हे सिद्ध करण्यासाठी कोणता प्रयोग करतात?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात भांडे उपडे बुडवणे", "is_correct": true },
+        { "option_id": 2, "text": "कागद जाळणे", "is_correct": false },
+        { "option_id": 3, "text": "मेणबत्ती पेटवणे", "is_correct": false },
+        { "option_id": 4, "text": "फुगा फुगवणे", "is_correct": false }
+      ],
+      "answer": "पाण्यात भांडे उपडे बुडवणे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "हवेचे वजन असते का?",
+      "options": [
+        { "option_id": 1, "text": "नाही", "is_correct": false },
+        { "option_id": 2, "text": "हो", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "फक्त हिवाळ्यात", "is_correct": false }
+      ],
+      "answer": "हो"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "हवा कशाचे मिश्रण आहे?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याचे", "is_correct": false },
+        { "option_id": 2, "text": "वायूंचे", "is_correct": true },
+        { "option_id": 3, "text": "मातीचे", "is_correct": false },
+        { "option_id": 4, "text": "दगडांचे", "is_correct": false }
+      ],
+      "answer": "वायूंचे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "आपण श्वास घेतो तेव्हा काय घेतो?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "हवा", "is_correct": true },
+        { "option_id": 3, "text": "अन्न", "is_correct": false },
+        { "option_id": 4, "text": "धूर", "is_correct": false }
+      ],
+      "answer": "हवा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "ज्वलन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "विझणे", "is_correct": false },
+        { "option_id": 2, "text": "जळणे", "is_correct": true },
+        { "option_id": 3, "text": "भिजणे", "is_correct": false },
+        { "option_id": 4, "text": "वाळणे", "is_correct": false }
+      ],
+      "answer": "जळणे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "मेणबत्तीच्या प्रयोगात पेल्यातील पाणी किती भाग वर चढते?",
+      "options": [
+        { "option_id": 1, "text": "पूर्ण पेला", "is_correct": false },
+        { "option_id": 2, "text": "अर्धा पेला", "is_correct": false },
+        { "option_id": 3, "text": "साधारणपणे पाचवा भाग", "is_correct": true },
+        { "option_id": 4, "text": "चढतच नाही", "is_correct": false }
+      ],
+      "answer": "साधारणपणे पाचवा भाग"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "हवेतील सर्वात मोठा भाग कोणत्या वायूचा असतो?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "नायट्रोजन", "is_correct": true },
+        { "option_id": 3, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 4, "text": "बाष्प", "is_correct": false }
+      ],
+      "answer": "नायट्रोजन"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "हवेचे थर कशामुळे दाटीवाटीने असतात?",
+      "options": [
+        { "option_id": 1, "text": "वजनामुळे (भाराने)", "is_correct": true },
+        { "option_id": 2, "text": "रंगामुळे", "is_correct": false },
+        { "option_id": 3, "text": "वासामुळे", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यामुळे", "is_correct": false }
+      ],
+      "answer": "वजनामुळे (भाराने)"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "वातावरणातील महत्त्वाचे वायू कोणते?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन, नायट्रोजन, कार्बन डायऑक्साइड", "is_correct": true },
+        { "option_id": 2, "text": "सोने, चांदी", "is_correct": false },
+        { "option_id": 3, "text": "लोखंड, तांबे", "is_correct": false },
+        { "option_id": 4, "text": "पेट्रोल, डिझेल", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन, नायट्रोजन, कार्बन डायऑक्साइड"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "हवा आपल्या कोठे असते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त वर", "is_correct": false },
+        { "option_id": 2, "text": "फक्त खाली", "is_correct": false },
+        { "option_id": 3, "text": "सभोवताली", "is_correct": true },
+        { "option_id": 4, "text": "फक्त पाण्यात", "is_correct": false }
+      ],
+      "answer": "सभोवताली"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "हवेतील पाण्याच्या रूपाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बर्फ", "is_correct": false },
+        { "option_id": 2, "text": "बाष्प", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "धुके", "is_correct": false }
+      ],
+      "answer": "बाष्प"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "हवा डोळ्यांना दिसते का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "उन्हाळ्यात", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "हवेतील कोणता घटक जळण्यास मदत करतो?",
+      "options": [
+        { "option_id": 1, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 3, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 4, "text": "बाष्प", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "रिकाम्या भांड्यात हवा आहे हे कसे समजते?",
+      "options": [
+        { "option_id": 1, "text": "ते पाण्यात बुडवून तिरपे केल्यावर बुडबुडे येतात", "is_correct": true },
+        { "option_id": 2, "text": "ते जड लागते", "is_correct": false },
+        { "option_id": 3, "text": "त्याला रंग असतो", "is_correct": false },
+        { "option_id": 4, "text": "त्याला वास असतो", "is_correct": false }
+      ],
+      "answer": "ते पाण्यात बुडवून तिरपे केल्यावर बुडबुडे येतात"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वातावरण म्हणजे काय?",
+      "answer": "पृथ्वीभोवतालच्या हवेच्या आवरणास वातावरण म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "हवा कशाचे मिश्रण आहे?",
+      "answer": "हवा अनेक वायूंचे मिश्रण आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ज्वलनास मदत करणारा वायू कोणता?",
+      "answer": "ऑक्सिजन हा वायू ज्वलनास मदत करतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "हवेत ऑक्सिजनचे प्रमाण किती असते?",
+      "answer": "हवेचे पाच भाग केल्यास त्यातील एक भाग ऑक्सिजन असतो (सुमारे २०-२१%)."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हवेत सर्वांत जास्त प्रमाणात कोणता वायू असतो?",
+      "answer": "हवेत सर्वांत जास्त प्रमाणात नायट्रोजन वायू असतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "वनस्पती अन्न तयार करण्यासाठी कोणत्या वायूचा वापर करतात?",
+      "answer": "वनस्पती अन्न तयार करण्यासाठी हवेतील कार्बन डायऑक्साइड वायूचा वापर करतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सोडावॉटरमधून कोणता वायू बाहेर पडतो?",
+      "answer": "सोडावॉटरमधून कार्बन डायऑक्साइड वायू बाहेर पडतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "हवेत पाणी कोणत्या रूपात असते?",
+      "answer": "हवेत पाणी बाष्पाच्या (वायूच्या) रूपात असते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "पृथ्वीच्या पृष्ठभागाजवळ हवा कशी असते?",
+      "answer": "पृथ्वीच्या पृष्ठभागाजवळ हवेचे थर दाटीवाटीने असतात, म्हणजेच हवा दाट असते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पृथ्वीपासून उंचावर जाताना हवा कशी होते?",
+      "answer": "पृथ्वीपासून उंचावर जाताना हवा विरळ होत जाते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "हवेचे मुख्य घटक कोणते आहेत?",
+      "answer": "ऑक्सिजन, नायट्रोजन, कार्बन डायऑक्साइड आणि बाष्प हे हवेचे मुख्य घटक आहेत."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "रिकाम्या भांड्यात हवा असते हे कसे सिद्ध कराल?",
+      "answer": "रिकामे भांडे पाण्यात उपडे बुडवून तिरपे केल्यास त्यातून बुडबुडे येतात, यावरून त्यात हवा असते हे सिद्ध होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मेणबत्तीवर पेला उपडा ठेवल्यास काय होते?",
+      "answer": "मेणबत्तीवर पेला उपडा ठेवल्यास ती थोड्या वेळाने विझते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मेणबत्ती विझल्यावर पेल्यातील पाण्याची पातळी का वाढते?",
+      "answer": "हवेतील ऑक्सिजन संपल्यामुळे त्याची जागा पाणी घेते, म्हणून पाण्याची पातळी वाढते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "धूर कशातून बाहेर पडतो?",
+      "answer": "इंधनाच्या (लाकूड, कोळसा, पेट्रोल) ज्वलनातून धूर बाहेर पडतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "हवा पाण्यापेक्षा हलकी आहे हे कसे समजते?",
+      "answer": "पाण्यात सोडलेली हवा बुडबुड्यांच्या रूपाने वर येते, यावरून हवा पाण्यापेक्षा हलकी आहे हे समजते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कागदाच्या चळतीत खालचे थर दाटीवाटीने का असतात?",
+      "answer": "वरच्या कागदांचा भार पडल्यामुळे खालचे थर दाटीवाटीने असतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "श्वसनासाठी आपण कोणता वायू वापरतो?",
+      "answer": "श्वसनासाठी आपण हवेतील ऑक्सिजन वायू वापरतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "इंजेक्शनच्या सिरिंजची दांडी औषध घेण्यापूर्वी का दाबावी लागते?",
+      "answer": "सिरिंजमधील हवा बाहेर काढण्यासाठी दांडी दाबावी लागते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "रोजच्या वापरात हवा दाबून भरलेली वस्तू कोणती?",
+      "answer": "सायकलचे टायर किंवा गाड्यांचे टायर यात हवा दाबून भरलेली असते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "हवा आपल्याला दिसते का?",
+      "answer": "नाही, हवा आपल्याला दिसत नाही, पण ती जाणवते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "धुराचा आरोग्यावर काय परिणाम होतो?",
+      "answer": "धुरामुळे हवा दूषित होते आणि त्यामुळे आरोग्य बिघडू शकते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "बर्फाच्या खड्यांमुळे पेल्यावर पाणी का जमा होते?",
+      "answer": "हवेतील बाष्प थंड पेल्याच्या संपर्कात आल्यावर त्याचे पाण्यात रूपांतर होते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "हवेचे थर एकमेकांपासून मोकळे कुठे असतात?",
+      "answer": "पृथ्वीपासून उंचावर हवेचे थर एकमेकांपासून मोकळे (विरळ) असतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "हवेतील कोणत्या वायूचा ज्वलनासाठी उपयोग होत नाही?",
+      "answer": "हवेतील नायट्रोजन, कार्बन डायऑक्साइड या वायूंचा ज्वलनासाठी उपयोग होत नाही."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "हवा सर्वत्र असते म्हणजे काय?",
+      "answer": "आपल्या सभोवताली, तसेच रिकाम्या वाटणाऱ्या भांड्यातही हवा असते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "उंचावर गिर्यारोहक ऑक्सिजनचे सिलिंडर का नेतात?",
+      "answer": "उंचावर हवा विरळ असते, त्यामुळे श्वास घेण्यास त्रास होऊ नये म्हणून ऑक्सिजनचे सिलिंडर नेतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "वातावरण कशाचे बनलेले आहे?",
+      "answer": "वातावरण हवेचे बनलेले आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "हवेचा दाब म्हणजे काय?",
+      "answer": "हवेला वजन असते, त्यामुळे हवेचा दाब निर्माण होतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "ज्वलन म्हणजे काय?",
+      "answer": "ज्वलन म्हणजे एखादा पदार्थ जळणे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "हवेतील वायूंचे प्रमाण समान असते का?",
+      "answer": "नाही, हवेतील वेगवेगळ्या वायूंचे प्रमाण वेगवेगळे असते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा आकार कशासारखा आहे?",
+      "answer": "पृथ्वीचा आकार गोल चेंडूसारखा आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "हवेत इतर वायू कोणते असतात?",
+      "answer": "ऑक्सिजन, नायट्रोजन, कार्बन डायऑक्साइड आणि बाष्प सोडून इतर निष्क्रीय वायू हवेत असतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "पाणी उकळताना हवेत काय मिसळते?",
+      "answer": "पाणी उकळताना हवेत पाण्याची वाफ (बाष्प) मिसळते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "हवेला वजन असते का?",
+      "answer": "हो, हवेला वजन असते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "हवेचे प्रदूषण कशामुळे होते?",
+      "answer": "वाहने आणि कारखान्यांतून निघणाऱ्या धुरामुळे हवेचे प्रदूषण होते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "बाष्प म्हणजे काय?",
+      "answer": "बाष्प म्हणजे पाण्याचे वायुरूप."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "हवेचे गुणधर्म कोणते?",
+      "answer": "हवेला जागा लागते, वजन असते आणि ती वायूंचे मिश्रण आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "हवेचा थर सर्वात जास्त दाट कुठे असतो?",
+      "answer": "पृथ्वीच्या पृष्ठभागालगत हवेचा थर सर्वात जास्त दाट असतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "श्वसन म्हणजे काय?",
+      "answer": "हवा नाकावाटे शरीरात घेणे आणि बाहेर सोडणे याला श्वसन म्हणतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "हवेतील सर्वात उपयुक्त वायू कोणता (श्वसनासाठी)?",
+      "answer": "श्वसनासाठी ऑक्सिजन हा सर्वात उपयुक्त वायू आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "हवेचा कोणता घटक वनस्पतींसाठी महत्त्वाचा आहे?",
+      "answer": "कार्बन डायऑक्साइड हा घटक वनस्पतींसाठी (अन्न तयार करण्यासाठी) महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "हवा जागा व्यापते हे कसे सिद्ध कराल?",
+      "answer": "पाण्यात बुडवलेल्या उलट्या पेल्यात पाणी शिरत नाही, यावरून हवा जागा व्यापते हे सिद्ध होते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "आपल्या सभोवताली हवा आहे हे कसे जाणवते?",
+      "answer": "वारा सुटल्यावर किंवा श्वास घेताना आपल्याला हवेची जाणीव होते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "हवेतील वायूंचे प्रमाण दाखवण्यासाठी कोणती आकृती वापरतात?",
+      "answer": "हवेतील वायूंचे प्रमाण दाखवण्यासाठी वर्तुळाची आकृती वापरतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "हवा विरळ होणे म्हणजे काय?",
+      "answer": "हवेतील वायूंचे प्रमाण कमी होणे आणि थर मोकळे होणे म्हणजे हवा विरळ होणे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "वातावरणाचे महत्त्व काय?",
+      "answer": "वातावरणामुळे सजीवांना श्वसनासाठी वायू मिळतात आणि पृथ्वीचे रक्षण होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "हवेतील बाष्पाचे प्रमाण कधी वाढते?",
+      "answer": "पावसाळ्यात किंवा दमट हवेत बाष्पाचे प्रमाण वाढते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "आपण रिकाम्या बाटलीला 'रिकामी' म्हणणे बरोबर आहे का?",
+      "answer": "नाही, कारण रिकाम्या बाटलीत हवा असते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "इंधन जाळल्याने काय तयार होते?",
+      "answer": "इंधन जाळल्याने उष्णता, प्रकाश आणि धूर तयार होतो."
+    }
+  ]
+}

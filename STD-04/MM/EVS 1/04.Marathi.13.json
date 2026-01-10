@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.13",
+    "standard": "4",
+    "subject": "परिसर अभ्यास (भाग १)",
+    "medium": "Marathi",
+    "chapter_name": "दिशा व नकाशा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "मुख्य दिशा किती आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "चार", "is_correct": true },
+        { "option_id": 3, "text": "आठ", "is_correct": false },
+        { "option_id": 4, "text": "दहा", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सूर्य ज्या दिशेला उगवतो, ती दिशा कोणती?",
+      "options": [
+        { "option_id": 1, "text": "पश्चिम", "is_correct": false },
+        { "option_id": 2, "text": "उत्तर", "is_correct": false },
+        { "option_id": 3, "text": "पूर्व", "is_correct": true },
+        { "option_id": 4, "text": "दक्षिण", "is_correct": false }
+      ],
+      "answer": "पूर्व"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सूर्य ज्या दिशेला मावळतो, ती दिशा कोणती?",
+      "options": [
+        { "option_id": 1, "text": "पूर्व", "is_correct": false },
+        { "option_id": 2, "text": "पश्चिम", "is_correct": true },
+        { "option_id": 3, "text": "उत्तर", "is_correct": false },
+        { "option_id": 4, "text": "दक्षिण", "is_correct": false }
+      ],
+      "answer": "पश्चिम"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पूर्व दिशेकडे तोंड करून उभे राहिल्यास, डाव्या हाताला कोणती दिशा असते?",
+      "options": [
+        { "option_id": 1, "text": "पश्चिम", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण", "is_correct": false },
+        { "option_id": 3, "text": "उत्तर", "is_correct": true },
+        { "option_id": 4, "text": "ईशान्य", "is_correct": false }
+      ],
+      "answer": "उत्तर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "उत्तर आणि पूर्व या मुख्य दिशांच्या दरम्यान कोणती उपदिशा असते?",
+      "options": [
+        { "option_id": 1, "text": "वायव्य", "is_correct": false },
+        { "option_id": 2, "text": "ईशान्य", "is_correct": true },
+        { "option_id": 3, "text": "आग्नेय", "is_correct": false },
+        { "option_id": 4, "text": "नैर्ऋत्य", "is_correct": false }
+      ],
+      "answer": "ईशान्य"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पूर्व आणि दक्षिण या दिशांच्या दरम्यान कोणती उपदिशा असते?",
+      "options": [
+        { "option_id": 1, "text": "आग्नेय", "is_correct": true },
+        { "option_id": 2, "text": "नैर्ऋत्य", "is_correct": false },
+        { "option_id": 3, "text": "वायव्य", "is_correct": false },
+        { "option_id": 4, "text": "ईशान्य", "is_correct": false }
+      ],
+      "answer": "आग्नेय"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "दक्षिण आणि पश्चिम या दिशांच्या दरम्यान कोणती उपदिशा असते?",
+      "options": [
+        { "option_id": 1, "text": "वायव्य", "is_correct": false },
+        { "option_id": 2, "text": "ईशान्य", "is_correct": false },
+        { "option_id": 3, "text": "नैर्ऋत्य", "is_correct": true },
+        { "option_id": 4, "text": "आग्नेय", "is_correct": false }
+      ],
+      "answer": "नैर्ऋत्य"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पश्चिम आणि उत्तर या दिशांच्या दरम्यान कोणती उपदिशा असते?",
+      "options": [
+        { "option_id": 1, "text": "ईशान्य", "is_correct": false },
+        { "option_id": 2, "text": "आग्नेय", "is_correct": false },
+        { "option_id": 3, "text": "वायव्य", "is_correct": true },
+        { "option_id": 4, "text": "नैर्ऋत्य", "is_correct": false }
+      ],
+      "answer": "वायव्य"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "उपदिशांची एकूण संख्या किती आहे?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "चार", "is_correct": true },
+        { "option_id": 3, "text": "सहा", "is_correct": false },
+        { "option_id": 4, "text": "आठ", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "नकाशावाचन करताना नकाशा जमिनीवर कसा ठेवावा?",
+      "options": [
+        { "option_id": 1, "text": "उभा", "is_correct": false },
+        { "option_id": 2, "text": "स्थानिक दिशांशी जुळवून", "is_correct": true },
+        { "option_id": 3, "text": "उलटा", "is_correct": false },
+        { "option_id": 4, "text": "घडी करून", "is_correct": false }
+      ],
+      "answer": "स्थानिक दिशांशी जुळवून"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "नकाशात दिशा चक्र कशासाठी दिले असते?",
+      "options": [
+        { "option_id": 1, "text": "शोभेसाठी", "is_correct": false },
+        { "option_id": 2, "text": "रंग भरण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "दिशा समजण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "प्रमाण मोजण्यासाठी", "is_correct": false }
+      ],
+      "answer": "दिशा समजण्यासाठी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "नकाशामध्ये ठिकाणांमधील अंतर दाखवण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रमाण", "is_correct": true },
+        { "option_id": 2, "text": "वजन", "is_correct": false },
+        { "option_id": 3, "text": "रंग", "is_correct": false },
+        { "option_id": 4, "text": "दिशा", "is_correct": false }
+      ],
+      "answer": "प्रमाण"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "जमिनीवरील दोन ठिकाणांमधील ३० मीटर अंतर नकाशात ३० सेमी दाखवले आहे, तर नकाशाचे प्रमाण काय असेल?",
+      "options": [
+        { "option_id": 1, "text": "१ सेमी = १ मीटर", "is_correct": true },
+        { "option_id": 2, "text": "१ सेमी = १० मीटर", "is_correct": false },
+        { "option_id": 3, "text": "१ सेमी = १०० मीटर", "is_correct": false },
+        { "option_id": 4, "text": "१ सेमी = १ किमी", "is_correct": false }
+      ],
+      "answer": "१ सेमी = १ मीटर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "दिशा ठरवण्यासाठी माणसाने प्रामुख्याने कशाचा आधार घेतला आहे?",
+      "options": [
+        { "option_id": 1, "text": "चंद्राचा", "is_correct": false },
+        { "option_id": 2, "text": "ताऱ्यांचा", "is_correct": false },
+        { "option_id": 3, "text": "सूर्याचा", "is_correct": true },
+        { "option_id": 4, "text": "वाऱ्याचा", "is_correct": false }
+      ],
+      "answer": "सूर्याचा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "नकाशात 'उत्तर' दिशा साधारणपणे कोणत्या बाजूला दाखवली जाते?",
+      "options": [
+        { "option_id": 1, "text": "खालच्या बाजूला", "is_correct": false },
+        { "option_id": 2, "text": "वरच्या बाजूला", "is_correct": true },
+        { "option_id": 3, "text": "उजव्या बाजूला", "is_correct": false },
+        { "option_id": 4, "text": "डाव्या बाजूला", "is_correct": false }
+      ],
+      "answer": "वरच्या बाजूला"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्र राज्याची राजधानी कोणती आहे?",
+      "options": [
+        { "option_id": 1, "text": "पुणे", "is_correct": false },
+        { "option_id": 2, "text": "नागपूर", "is_correct": false },
+        { "option_id": 3, "text": "मुंबई", "is_correct": true },
+        { "option_id": 4, "text": "नाशिक", "is_correct": false }
+      ],
+      "answer": "मुंबई"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्र राज्याची उपराजधानी कोणती आहे?",
+      "options": [
+        { "option_id": 1, "text": "कोल्हापूर", "is_correct": false },
+        { "option_id": 2, "text": "नागपूर", "is_correct": true },
+        { "option_id": 3, "text": "औरंगाबाद", "is_correct": false },
+        { "option_id": 4, "text": "ठाणे", "is_correct": false }
+      ],
+      "answer": "नागपूर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्राच्या पश्चिमेला कोणता समुद्र आहे?",
+      "options": [
+        { "option_id": 1, "text": "बंगालचा उपसागर", "is_correct": false },
+        { "option_id": 2, "text": "हिंदी महासागर", "is_correct": false },
+        { "option_id": 3, "text": "अरबी समुद्र", "is_correct": true },
+        { "option_id": 4, "text": "पॅसिफिक महासागर", "is_correct": false }
+      ],
+      "answer": "अरबी समुद्र"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "नकाशामध्ये सूची (Index) कशासाठी देतात?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा सुंदर दिसण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "नकाशातील माहिती समजण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "रिकामी जागा भरण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "चित्रे काढण्यासाठी", "is_correct": false }
+      ],
+      "answer": "नकाशातील माहिती समजण्यासाठी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "दिशा आणि उपदिशा मिळून एकूण किती दिशा होतात?",
+      "options": [
+        { "option_id": 1, "text": "चार", "is_correct": false },
+        { "option_id": 2, "text": "सहा", "is_correct": false },
+        { "option_id": 3, "text": "आठ", "is_correct": true },
+        { "option_id": 4, "text": "दहा", "is_correct": false }
+      ],
+      "answer": "आठ"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "उठावाचा नकाशा तयार करण्यासाठी खालीलपैकी कोणते साहित्य वापरता येते?",
+      "options": [
+        { "option_id": 1, "text": "माती आणि पुठ्ठा", "is_correct": true },
+        { "option_id": 2, "text": "फक्त पेन", "is_correct": false },
+        { "option_id": 3, "text": "फक्त कागद", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "माती आणि पुठ्ठा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "नकाशात प्रमाणाचा वापर केल्यामुळे काय सोपे होते?",
+      "options": [
+        { "option_id": 1, "text": "रंग देणे", "is_correct": false },
+        { "option_id": 2, "text": "अंतराचा अंदाज घेणे", "is_correct": true },
+        { "option_id": 3, "text": "दिशा ओळखणे", "is_correct": false },
+        { "option_id": 4, "text": "सूची बनवणे", "is_correct": false }
+      ],
+      "answer": "अंतराचा अंदाज घेणे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "उत्तर दिशेच्या अगदी विरुद्ध बाजूला कोणती दिशा असते?",
+      "options": [
+        { "option_id": 1, "text": "पूर्व", "is_correct": false },
+        { "option_id": 2, "text": "पश्चिम", "is_correct": false },
+        { "option_id": 3, "text": "दक्षिण", "is_correct": true },
+        { "option_id": 4, "text": "ईशान्य", "is_correct": false }
+      ],
+      "answer": "दक्षिण"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "जर नकाशात १ सेमी = १ किमी प्रमाण असेल, तर नकाशातील ५ सेमी अंतर प्रत्यक्षात किती असेल?",
+      "options": [
+        { "option_id": 1, "text": "१ किमी", "is_correct": false },
+        { "option_id": 2, "text": "५ किमी", "is_correct": true },
+        { "option_id": 3, "text": "१० किमी", "is_correct": false },
+        { "option_id": 4, "text": "५० किमी", "is_correct": false }
+      ],
+      "answer": "५ किमी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "आपल्या जिल्ह्याचा नकाशा वाचताना दिशाचक्र कोठे ठेवावे?",
+      "options": [
+        { "option_id": 1, "text": "नकाशाच्या बाहेर", "is_correct": false },
+        { "option_id": 2, "text": "नकाशाच्या कोपऱ्यात", "is_correct": false },
+        { "option_id": 3, "text": "नकाशावर जिल्ह्याच्या मध्यभागी", "is_correct": true },
+        { "option_id": 4, "text": "नकाशाच्या खाली", "is_correct": false }
+      ],
+      "answer": "नकाशावर जिल्ह्याच्या मध्यभागी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "मुख्य दिशांमधील जागा निश्चित करण्यासाठी कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "उपदिशांचा", "is_correct": true },
+        { "option_id": 2, "text": "रंगांचा", "is_correct": false },
+        { "option_id": 3, "text": "खालच्या दिशांचा", "is_correct": false },
+        { "option_id": 4, "text": "वरच्या दिशांचा", "is_correct": false }
+      ],
+      "answer": "उपदिशांचा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "नकाशामध्ये घरे, डोंगर दाखवण्यासाठी आपण काय काढतो?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्या आकाराची चित्रे", "is_correct": false },
+        { "option_id": 2, "text": "खऱ्या वस्तू", "is_correct": false },
+        { "option_id": 3, "text": "लहान आकाराची चित्रे (चिन्हे)", "is_correct": true },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "लहान आकाराची चित्रे (चिन्हे)"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "तुमच्या वर्गातील फळा वर्गाच्या कोणत्या दिशेला आहे हे कसे ठरवाल?",
+      "options": [
+        { "option_id": 1, "text": "शिक्षकांना विचारून", "is_correct": false },
+        { "option_id": 2, "text": "सूर्याच्या उगवण्यावरून मुख्य दिशा ठरवून", "is_correct": true },
+        { "option_id": 3, "text": "नकाशा पाहून", "is_correct": false },
+        { "option_id": 4, "text": "अंदाज लावून", "is_correct": false }
+      ],
+      "answer": "सूर्याच्या उगवण्यावरून मुख्य दिशा ठरवून"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "आपला भारत देश कोणत्या खंडात आहे?",
+      "options": [
+        { "option_id": 1, "text": "आफ्रिका", "is_correct": false },
+        { "option_id": 2, "text": "आशिया", "is_correct": true },
+        { "option_id": 3, "text": "युरोप", "is_correct": false },
+        { "option_id": 4, "text": "अमेरिका", "is_correct": false }
+      ],
+      "answer": "आशिया"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "मध्य प्रदेश हे राज्य महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "दक्षिण", "is_correct": false },
+        { "option_id": 2, "text": "उत्तर", "is_correct": true },
+        { "option_id": 3, "text": "पूर्व", "is_correct": false },
+        { "option_id": 4, "text": "पश्चिम", "is_correct": false }
+      ],
+      "answer": "उत्तर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "कर्नाटक हे राज्य महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण", "is_correct": true },
+        { "option_id": 3, "text": "पूर्व", "is_correct": false },
+        { "option_id": 4, "text": "पश्चिम", "is_correct": false }
+      ],
+      "answer": "दक्षिण"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "गुजरात हे राज्य महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "वायव्य", "is_correct": true },
+        { "option_id": 2, "text": "आग्नेय", "is_correct": false },
+        { "option_id": 3, "text": "ईशान्य", "is_correct": false },
+        { "option_id": 4, "text": "नैर्ऋत्य", "is_correct": false }
+      ],
+      "answer": "वायव्य"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "तेलंगणा हे राज्य महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "वायव्य", "is_correct": false },
+        { "option_id": 2, "text": "आग्नेय", "is_correct": true },
+        { "option_id": 3, "text": "उत्तर", "is_correct": false },
+        { "option_id": 4, "text": "पश्चिम", "is_correct": false }
+      ],
+      "answer": "आग्नेय"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "नकाशा वाचन अचूक होण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा भिंतीवर लावावा", "is_correct": false },
+        { "option_id": 2, "text": "नकाशा जमिनीवर ठेवून स्थानिक दिशांशी जुळवावा", "is_correct": true },
+        { "option_id": 3, "text": "नकाशा फोल्ड करावा", "is_correct": false },
+        { "option_id": 4, "text": "अंधारात वाचावा", "is_correct": false }
+      ],
+      "answer": "नकाशा जमिनीवर ठेवून स्थानिक दिशांशी जुळवावा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "दिशा नेहमी जमिनीला कशा असतात?",
+      "options": [
+        { "option_id": 1, "text": "लंब", "is_correct": false },
+        { "option_id": 2, "text": "समांतर", "is_correct": true },
+        { "option_id": 3, "text": "तिरप्या", "is_correct": false },
+        { "option_id": 4, "text": "विरुद्ध", "is_correct": false }
+      ],
+      "answer": "समांतर"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "नकाशातील ठिकाणांमधील अंतर कशामुळे कमी करता येते?",
+      "options": [
+        { "option_id": 1, "text": "प्रमाणबद्धतेमुळे", "is_correct": true },
+        { "option_id": 2, "text": "चित्रांमुळे", "is_correct": false },
+        { "option_id": 3, "text": "रंगामुळे", "is_correct": false },
+        { "option_id": 4, "text": "अक्षरांमुळे", "is_correct": false }
+      ],
+      "answer": "प्रमाणबद्धतेमुळे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "आपल्या जिल्ह्याच्या नकाशात इतर जिल्ह्यांच्या सीमा कशाने दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "जाड रेषेने", "is_correct": false },
+        { "option_id": 2, "text": "तुटक रेषेने (जिल्हा सीमा)", "is_correct": true },
+        { "option_id": 3, "text": "नदीने", "is_correct": false },
+        { "option_id": 4, "text": "रस्त्याने", "is_correct": false }
+      ],
+      "answer": "तुटक रेषेने (जिल्हा सीमा)"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "गोवा हे राज्य महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण", "is_correct": true },
+        { "option_id": 3, "text": "पूर्व", "is_correct": false },
+        { "option_id": 4, "text": "ईशान्य", "is_correct": false }
+      ],
+      "answer": "दक्षिण"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "छत्तीसगड हे राज्य महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "पूर्व", "is_correct": true },
+        { "option_id": 2, "text": "पश्चिम", "is_correct": false },
+        { "option_id": 3, "text": "उत्तर", "is_correct": false },
+        { "option_id": 4, "text": "दक्षिण", "is_correct": false }
+      ],
+      "answer": "पूर्व"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "नकाशात सूचीमध्ये काय दिले असते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त नद्यांची नावे", "is_correct": false },
+        { "option_id": 2, "text": "खुणा आणि त्यांचा अर्थ", "is_correct": true },
+        { "option_id": 3, "text": "फक्त रस्ते", "is_correct": false },
+        { "option_id": 4, "text": "गावांची नावे", "is_correct": false }
+      ],
+      "answer": "खुणा आणि त्यांचा अर्थ"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "उगवत्या सूर्याकडे तोंड करून उभे राहिल्यास तुमच्या उजव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण", "is_correct": true },
+        { "option_id": 3, "text": "पश्चिम", "is_correct": false },
+        { "option_id": 4, "text": "पूर्व", "is_correct": false }
+      ],
+      "answer": "दक्षिण"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "उगवत्या सूर्याकडे तोंड करून उभे राहिल्यास तुमच्या पाठीमागे कोणती दिशा असेल?",
+      "options": [
+        { "option_id": 1, "text": "पश्चिम", "is_correct": true },
+        { "option_id": 2, "text": "उत्तर", "is_correct": false },
+        { "option_id": 3, "text": "दक्षिण", "is_correct": false },
+        { "option_id": 4, "text": "ईशान्य", "is_correct": false }
+      ],
+      "answer": "पश्चिम"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "नकाशात राज्य सीमा कशाने दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "नदीने", "is_correct": false },
+        { "option_id": 2, "text": "जाड तुटक रेषेने (-.-.-)", "is_correct": true },
+        { "option_id": 3, "text": "झाडांनी", "is_correct": false },
+        { "option_id": 4, "text": "डोंगरांनी", "is_correct": false }
+      ],
+      "answer": "जाड तुटक रेषेने (-.-.-)"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "जमिनीवरील ३० मीटर अंतर नकाशात किती दाखवता येईल (जर प्रमाण १ सेमी = १ मीटर असेल)?",
+      "options": [
+        { "option_id": 1, "text": "३० मीटर", "is_correct": false },
+        { "option_id": 2, "text": "३० सेमी", "is_correct": true },
+        { "option_id": 3, "text": "३ सेमी", "is_correct": false },
+        { "option_id": 4, "text": "३०० सेमी", "is_correct": false }
+      ],
+      "answer": "३० सेमी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणती उपदिशा नाही?",
+      "options": [
+        { "option_id": 1, "text": "वायव्य", "is_correct": false },
+        { "option_id": 2, "text": "आग्नेय", "is_correct": false },
+        { "option_id": 3, "text": "उत्तर", "is_correct": true },
+        { "option_id": 4, "text": "नैर्ऋत्य", "is_correct": false }
+      ],
+      "answer": "उत्तर"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्राच्या नकाशात तुमची राहण्याची जागा शोधण्यासाठी कशाचा वापर कराल?",
+      "options": [
+        { "option_id": 1, "text": "होकायंत्राचा", "is_correct": false },
+        { "option_id": 2, "text": "जिल्हा व तालुक्यांच्या नावांचा", "is_correct": true },
+        { "option_id": 3, "text": "फक्त रंगांचा", "is_correct": false },
+        { "option_id": 4, "text": "प्रमाणाचा", "is_correct": false }
+      ],
+      "answer": "जिल्हा व तालुक्यांच्या नावांचा"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "नकाशात दिशा चक्र कशासाठी असते?",
+      "options": [
+        { "option_id": 1, "text": "नकाशातील दिशा ओळखण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "वेळ पाहण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "अंतर मोजण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "हवामान समजण्यासाठी", "is_correct": false }
+      ],
+      "answer": "नकाशातील दिशा ओळखण्यासाठी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "नकाशामध्ये जिल्हा मुख्यालय कशाने दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "काळा ठिपका", "is_correct": true },
+        { "option_id": 2, "text": "नदीची रेष", "is_correct": false },
+        { "option_id": 3, "text": "त्रिकोण", "is_correct": false },
+        { "option_id": 4, "text": "चौकोन", "is_correct": false }
+      ],
+      "answer": "काळा ठिपका"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "महाराष्ट्राच्या नकाशात राज्याची राजधानी आणि उपराजधानी कशाने दाखवली आहे?",
+      "options": [
+        { "option_id": 1, "text": "विशिष्ट चिन्हाने (काळा गोल)", "is_correct": true },
+        { "option_id": 2, "text": "लाल रंगाने", "is_correct": false },
+        { "option_id": 3, "text": "निळ्या रंगाने", "is_correct": false },
+        { "option_id": 4, "text": "हिरव्या रंगाने", "is_correct": false }
+      ],
+      "answer": "विशिष्ट चिन्हाने (काळा गोल)"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "नकाशामध्ये डोंगर कोणत्या रंगाने दाखवले जातात (साधारणपणे)?",
+      "options": [
+        { "option_id": 1, "text": "निळा", "is_correct": false },
+        { "option_id": 2, "text": "हिरवा", "is_correct": false },
+        { "option_id": 3, "text": "तपकिरी (Brown)", "is_correct": true },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "तपकिरी (Brown)"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "मुख्य दिशांची नावे लिहा.",
+      "answer": "पूर्व, पश्चिम, उत्तर आणि दक्षिण या चार मुख्य दिशा आहेत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "उपदिशांची नावे लिहा.",
+      "answer": "आग्नेय, नैर्ऋत्य, वायव्य आणि ईशान्य या चार उपदिशा आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पूर्व दिशा कशी ओळखाल?",
+      "answer": "ज्या बाजूला सूर्य उगवतो, ती पूर्व दिशा असते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "उत्तर दिशेच्या समोर कोणती दिशा असते?",
+      "answer": "उत्तर दिशेच्या समोर दक्षिण दिशा असते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "नकाशातील प्रमाण म्हणजे काय?",
+      "answer": "नकाशातील अंतर आणि जमिनीवरील प्रत्यक्ष अंतर यांच्यातील गुणोत्तर म्हणजे प्रमाण होय."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "नकाशात सूचीचा वापर कशासाठी होतो?",
+      "answer": "नकाशात वापरलेल्या चिन्हांचा, खुणांचा आणि रंगांचा अर्थ समजण्यासाठी सूचीचा वापर होतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "दिशाचक्राचा उपयोग काय आहे?",
+      "answer": "दिशा आणि उपदिशा समजून घेण्यासाठी दिशाचक्राचा उपयोग होतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "ईशान्य दिशा कोणत्या दोन मुख्य दिशांच्या दरम्यान असते?",
+      "answer": "ईशान्य दिशा उत्तर आणि पूर्व या दोन मुख्य दिशांच्या दरम्यान असते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "आग्नेय दिशा कोणत्या दोन मुख्य दिशांच्या दरम्यान असते?",
+      "answer": "आग्नेय दिशा पूर्व आणि दक्षिण या दोन मुख्य दिशांच्या दरम्यान असते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "नैर्ऋत्य दिशा कोणत्या दोन मुख्य दिशांच्या दरम्यान असते?",
+      "answer": "नैर्ऋत्य दिशा दक्षिण आणि पश्चिम या दोन मुख्य दिशांच्या दरम्यान असते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "वायव्य दिशा कोणत्या दोन मुख्य दिशांच्या दरम्यान असते?",
+      "answer": "वायव्य दिशा पश्चिम आणि उत्तर या दोन मुख्य दिशांच्या दरम्यान असते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "नकाशा जमिनीवर कसा ठेवावा?",
+      "answer": "नकाशातील दिशा जमिनीवरील (स्थानिक) दिशांशी जुळवून नकाशा जमिनीवर ठेवावा."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्र राज्याच्या पश्चिमेला कोणता समुद्र आहे?",
+      "answer": "महाराष्ट्र राज्याच्या पश्चिमेला अरबी समुद्र आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्र राज्याची राजधानी कोणती?",
+      "answer": "महाराष्ट्र राज्याची राजधानी मुंबई आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "महाराष्ट्र राज्याची उपराजधानी कोणती?",
+      "answer": "महाराष्ट्र राज्याची उपराजधानी नागपूर आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "नकाशात उत्तर दिशा कोणत्या बाजूला दर्शवतात?",
+      "answer": "नकाशात उत्तर दिशा नेहमी वरच्या बाजूला बाणाने दर्शवतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "आपल्या जिल्ह्याचे ठिकाण नकाशात कसे शोधाल?",
+      "answer": "नकाशातील सूचीच्या मदतीने आणि जिल्हा मुख्यालयाच्या चिन्हावरून आपण जिल्ह्याचे ठिकाण शोधू शकतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "नकाशात प्रमाण का दिलेले असते?",
+      "answer": "नकाशातील अंतरावरून जमिनीवरील प्रत्यक्ष अंतराचा अंदाज यावा म्हणून प्रमाण दिलेले असते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "दिशा कशाच्या आधाराने ठरवल्या जातात?",
+      "answer": "दिशा सूर्य उगवणे आणि मावळणे या निसर्गाच्या आधाराने ठरवल्या जातात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "आपण राहतो त्या ठिकाणापासून एखादे ठिकाण कोणत्या दिशेला आहे हे कसे ठरवावे?",
+      "answer": "आपण राहतो त्या ठिकाणी उभे राहून मुख्य दिशा निश्चित केल्यावर, त्या ठिकाणाची दिशा ठरवता येते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "नकाशा वाचनासाठी कशाची गरज असते?",
+      "answer": "नकाशा वाचनासाठी दिशा, सूची, शीर्षक आणि प्रमाणाची गरज असते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "गुजरात राज्य महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "answer": "गुजरात राज्य महाराष्ट्राच्या वायव्य दिशेला आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कर्नाटक राज्य महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "answer": "कर्नाटक राज्य महाराष्ट्राच्या दक्षिण दिशेला आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "मध्य प्रदेश राज्य महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "answer": "मध्य प्रदेश राज्य महाराष्ट्राच्या उत्तर दिशेला आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "तेलंगणा राज्य महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "answer": "तेलंगणा राज्य महाराष्ट्राच्या आग्नेय दिशेला आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "छत्तीसगड राज्य महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "answer": "छत्तीसगड राज्य महाराष्ट्राच्या पूर्व दिशेला आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "गोवा राज्य महाराष्ट्राच्या कोणत्या दिशेला आहे?",
+      "answer": "गोवा राज्य महाराष्ट्राच्या दक्षिण दिशेला आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "नकाशात '१ सेमी = १ किमी' याचा अर्थ काय?",
+      "answer": "याचा अर्थ नकाशातील १ सेमी अंतर हे जमिनीवरील प्रत्यक्ष १ किमी अंतराएवढे आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "उपदिशांची गरज का भासली?",
+      "answer": "दोन मुख्य दिशांच्या दरम्यान असलेल्या वस्तूंची किंवा ठिकाणांची दिशा नेमकेपणाने सांगण्यासाठी उपदिशांची गरज भासली."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "दिशा आणि उपदिशा कशा असतात?",
+      "answer": "दिशा आणि उपदिशा नेहमी जमिनीला समांतर असतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "नकाशात दोन ठिकाणांमधील अंतर मोजण्यासाठी कशाचा वापर कराल?",
+      "answer": "नकाशात दोन ठिकाणांमधील अंतर मोजण्यासाठी पट्टीचा (Scale) वापर करू."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "नकाशात निळा रंग कशासाठी वापरतात?",
+      "answer": "नकाशात निळा रंग पाण्याचे साठे (समुद्र, नदी, तलाव) दाखवण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "नकाशात तपकिरी रंग कशासाठी वापरतात?",
+      "answer": "नकाशात तपकिरी रंग पर्वत किंवा डोंगर दाखवण्यासाठी वापरतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "तुम्ही राहता तो जिल्हा नकाशात कसा ओळखाल?",
+      "answer": "नकाशातील जिल्ह्यांच्या नावावरून आणि सीमेवरून आम्ही आमचा जिल्हा ओळखू."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "नकाशात जिल्हा सीमा कशाने दाखवतात?",
+      "answer": "नकाशात जिल्हा सीमा तुटक रेषेने दाखवतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "नकाशात राज्य सीमा कशाने दाखवतात?",
+      "answer": "नकाशात राज्य सीमा जाड तुटक रेषेने (-.-.-) दाखवतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "सूर्यास्त कोणत्या दिशेला होतो?",
+      "answer": "सूर्यास्त पश्चिम दिशेला होतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "तुमच्या वर्गाची पूर्व दिशा कोणती?",
+      "answer": "वर्गात जिकडून ऊन येते किंवा सूर्य उगवतो ती बाजू पूर्व दिशा असते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "तुम्ही उगवत्या सूर्याकडे पाठ करून उभे राहिल्यास, समोर कोणती दिशा असेल?",
+      "answer": "उगवत्या सूर्याकडे पाठ करून उभे राहिल्यास समोर पश्चिम दिशा असेल."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "तुम्ही मावळत्या सूर्याकडे तोंड करून उभे राहिल्यास, उजव्या हाताला कोणती दिशा असेल?",
+      "answer": "मावळत्या सूर्याकडे तोंड करून उभे राहिल्यास (पश्चिम), उजव्या हाताला उत्तर दिशा असेल."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "नकाशात रस्ते कसे दाखवतात?",
+      "answer": "नकाशात रस्ते दुहेरी रेषेने किंवा काळ्या रेषेने दाखवतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "नकाशात लोहमार्ग कसे दाखवतात?",
+      "answer": "नकाशात लोहमार्ग काळ्या रेषेवर आडव्या रेषा मारून दाखवतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "नकाशात वने कशी दाखवतात?",
+      "answer": "नकाशात वने हिरव्या रंगाने दाखवतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "उठावाचा नकाशा म्हणजे काय?",
+      "answer": "जमिनीचा चढ-उतार (डोंगर, दऱ्या) स्पष्टपणे दाखवणाऱ्या नकाशाला उठावाचा नकाशा म्हणतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "तुमचा जिल्हा कोणत्या प्रशासकीय विभागात येतो?",
+      "answer": "(विद्यार्थ्याने स्वतःच्या जिल्ह्यानुसार उत्तर द्यावे, उदा. पुणे विभागात, औरंगाबाद विभागात इ.)"
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "दिशा चक्र कशासाठी वापरतात?",
+      "answer": "नकाशावरील ठिकाणांच्या दिशा आणि उपदिशा अचूकपणे ओळखण्यासाठी दिशा चक्र वापरतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "नकाशात प्रमाणबद्धता का महत्त्वाची आहे?",
+      "answer": "नकाशात प्रमाणबद्धतेमुळे आपल्याला दोन ठिकाणांमधील खऱ्या अंतराचा अचूक अंदाज येतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "नकाशा म्हणजे काय?",
+      "answer": "पृथ्वीचा किंवा तिच्या एखाद्या भागाचा सपाट कागदावर काढलेला आराखडा म्हणजे नकाशा होय."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "दिशा ओळखताना कशाची मदत होते?",
+      "answer": "दिशा ओळखताना निसर्गाची (सूर्याची) आणि दिशाचक्राची मदत होते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "उत्तर दिशा ओळखण्याची खूण काय?",
+      "answer": "नकाशात वरच्या बाजूला असलेला बाण उत्तर दिशा दर्शवतो."
+    }
+  ]
+}

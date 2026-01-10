@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.05",
+    "standard": "4",
+    "subject": "खेळू, करू, शिकू (शारीरिक शिक्षण)",
+    "medium": "Marathi",
+    "chapter_name": "व्यायाम"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "व्यायाम करण्यापूर्वी कोणत्या प्रकारचा व्यायाम करणे आवश्यक असते?",
+      "options": [
+        { "option_id": 1, "text": "उत्तेजक व्यायाम (वॉर्म अप)", "is_correct": true },
+        { "option_id": 2, "text": "शवासन", "is_correct": false },
+        { "option_id": 3, "text": "कठीण व्यायाम", "is_correct": false },
+        { "option_id": 4, "text": "झोप", "is_correct": false }
+      ],
+      "answer": "उत्तेजक व्यायाम (वॉर्म अप)"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "उत्तेजक व्यायामामुळे शरीराचे काय तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "स्नायू व सांधे जोरकस हालचालींसाठी", "is_correct": true },
+        { "option_id": 2, "text": "केस", "is_correct": false },
+        { "option_id": 3, "text": "नखे", "is_correct": false },
+        { "option_id": 4, "text": "दात", "is_correct": false }
+      ],
+      "answer": "स्नायू व सांधे जोरकस हालचालींसाठी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "उत्तेजक व्यायामाची सुरुवात कोठून करावी?",
+      "options": [
+        { "option_id": 1, "text": "पायाकडून डोक्याकडे", "is_correct": false },
+        { "option_id": 2, "text": "डोक्याकडून पायापर्यंत", "is_correct": true },
+        { "option_id": 3, "text": "हाताकडून पोटाकडे", "is_correct": false },
+        { "option_id": 4, "text": "कमरेकडून हाताकडे", "is_correct": false }
+      ],
+      "answer": "डोक्याकडून पायापर्यंत"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "उत्तेजक व्यायामात कोणत्या क्रियेचा वेग वाढतो?",
+      "options": [
+        { "option_id": 1, "text": "हृदयाची गती व श्वसनाचा वेग", "is_correct": true },
+        { "option_id": 2, "text": "केस वाढण्याचा वेग", "is_correct": false },
+        { "option_id": 3, "text": "नखे वाढण्याचा वेग", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "हृदयाची गती व श्वसनाचा वेग"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कमी जागेत आणि साहित्याशिवाय करता येणारा व्यायाम प्रकार कोणता?",
+      "options": [
+        { "option_id": 1, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 2, "text": "सूर्यनमस्कार", "is_correct": true },
+        { "option_id": 3, "text": "फुटबॉल", "is_correct": false },
+        { "option_id": 4, "text": "टेनिस", "is_correct": false }
+      ],
+      "answer": "सूर्यनमस्कार"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "सूर्यनमस्कार कधी करणे जास्त फायद्याचे असते?",
+      "options": [
+        { "option_id": 1, "text": "दुपारी", "is_correct": false },
+        { "option_id": 2, "text": "रात्री झोपताना", "is_correct": false },
+        { "option_id": 3, "text": "पहाटे सूर्योदयाच्या वेळी किंवा सायंकाळी सूर्यास्ताच्या वेळी", "is_correct": true },
+        { "option_id": 4, "text": "जेवणानंतर लगेच", "is_correct": false }
+      ],
+      "answer": "पहाटे सूर्योदयाच्या वेळी किंवा सायंकाळी सूर्यास्ताच्या वेळी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सूर्यनमस्कारात किती स्थिती (अंक) असतात?",
+      "options": [
+        { "option_id": 1, "text": "५", "is_correct": false },
+        { "option_id": 2, "text": "१०", "is_correct": true },
+        { "option_id": 3, "text": "१५", "is_correct": false },
+        { "option_id": 4, "text": "२०", "is_correct": false }
+      ],
+      "answer": "१०"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "अॅरोबिक्स म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "झोपून राहणे", "is_correct": false },
+        { "option_id": 2, "text": "संगीताच्या तालावर केल्या जाणाऱ्या वेगवान हालचाली", "is_correct": true },
+        { "option_id": 3, "text": "बैठे खेळ", "is_correct": false },
+        { "option_id": 4, "text": "चित्र काढणे", "is_correct": false }
+      ],
+      "answer": "संगीताच्या तालावर केल्या जाणाऱ्या वेगवान हालचाली"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "तालबद्ध कवायत कशाच्या साहाय्याने करता येते?",
+      "options": [
+        { "option_id": 1, "text": "डंबेल्स, घुंगरूकाठी", "is_correct": true },
+        { "option_id": 2, "text": "पुस्तके", "is_correct": false },
+        { "option_id": 3, "text": "पेन", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "डंबेल्स, घुंगरूकाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "शरीर स्थिती म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "आसन", "is_correct": true },
+        { "option_id": 2, "text": "धावणे", "is_correct": false },
+        { "option_id": 3, "text": "उडी मारणे", "is_correct": false },
+        { "option_id": 4, "text": "चालणे", "is_correct": false }
+      ],
+      "answer": "आसन"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "विविध शरीर स्थिती (आसने) करण्यापूर्वी काय करणे महत्त्वाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "भरपूर जेवणे", "is_correct": false },
+        { "option_id": 2, "text": "शरीर संचलन", "is_correct": true },
+        { "option_id": 3, "text": "टीव्ही पाहणे", "is_correct": false },
+        { "option_id": 4, "text": "झोपणे", "is_correct": false }
+      ],
+      "answer": "शरीर संचलन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "नियमित व्यायामामुळे काय सुधारते?",
+      "options": [
+        { "option_id": 1, "text": "तोल, संतुलन आणि ताकद", "is_correct": true },
+        { "option_id": 2, "text": "केसांचा रंग", "is_correct": false },
+        { "option_id": 3, "text": "नखांचा आकार", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "तोल, संतुलन आणि ताकद"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शरीर संचलन करताना हालचाली कशा असाव्यात?",
+      "options": [
+        { "option_id": 1, "text": "खूप वेगाने", "is_correct": false },
+        { "option_id": 2, "text": "खूप हळू किंवा संथ नसाव्यात, पण खूप वेगानेही नसाव्यात (नियंत्रित)", "is_correct": true },
+        { "option_id": 3, "text": "झटक्यात", "is_correct": false },
+        { "option_id": 4, "text": "कशाही", "is_correct": false }
+      ],
+      "answer": "खूप हळू किंवा संथ नसाव्यात, पण खूप वेगानेही नसाव्यात (नियंत्रित)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पाठात दिलेल्या गाण्यात सकाळी काय करायला सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "चालायला आणि धावायला", "is_correct": true },
+        { "option_id": 2, "text": "झोपायला", "is_correct": false },
+        { "option_id": 3, "text": "जेवायला", "is_correct": false },
+        { "option_id": 4, "text": "टीव्ही बघायला", "is_correct": false }
+      ],
+      "answer": "चालायला आणि धावायला"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "निरामय जीवनासाठी दररोज काय सुरू करावे?",
+      "options": [
+        { "option_id": 1, "text": "खाणे", "is_correct": false },
+        { "option_id": 2, "text": "योगासन, प्राणायाम, सूर्यनमस्कार", "is_correct": true },
+        { "option_id": 3, "text": "झोपणे", "is_correct": false },
+        { "option_id": 4, "text": "फिरणे", "is_correct": false }
+      ],
+      "answer": "योगासन, प्राणायाम, सूर्यनमस्कार"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "तंदुरुस्त शरीरासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "आराम", "is_correct": false },
+        { "option_id": 2, "text": "जमेल तो व्यायाम (पोहा, नाचा, सायकलिंग)", "is_correct": true },
+        { "option_id": 3, "text": "फक्त खाणे", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "जमेल तो व्यायाम (पोहा, नाचा, सायकलिंग)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "व्यायामशाळेत कशासाठी जावे?",
+      "options": [
+        { "option_id": 1, "text": "गप्पा मारायला", "is_correct": false },
+        { "option_id": 2, "text": "मेहनतीला", "is_correct": true },
+        { "option_id": 3, "text": "झोपायला", "is_correct": false },
+        { "option_id": 4, "text": "बसायला", "is_correct": false }
+      ],
+      "answer": "मेहनतीला"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "लवचीकपणा आणि चपळाई कशामुळे वाढते?",
+      "options": [
+        { "option_id": 1, "text": "झोपल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "व्यायामामुळे", "is_correct": true },
+        { "option_id": 3, "text": "खाल्ल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "बसल्यामुळे", "is_correct": false }
+      ],
+      "answer": "व्यायामामुळे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "उत्तेजक व्यायामात मान कशी फिरवावी?",
+      "options": [
+        { "option_id": 1, "text": "जोरात", "is_correct": false },
+        { "option_id": 2, "text": "गोलाकारात", "is_correct": true },
+        { "option_id": 3, "text": "झटक्यात", "is_correct": false },
+        { "option_id": 4, "text": "फिरवू नये", "is_correct": false }
+      ],
+      "answer": "गोलाकारात"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "हात कमरेवर ठेवून वाकण्याची कृती कशी करावी?",
+      "options": [
+        { "option_id": 1, "text": "पुढे व मागे", "is_correct": true },
+        { "option_id": 2, "text": "फक्त उजवीकडे", "is_correct": false },
+        { "option_id": 3, "text": "फक्त डावीकडे", "is_correct": false },
+        { "option_id": 4, "text": "गोल फिरवून", "is_correct": false }
+      ],
+      "answer": "पुढे व मागे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "खांद्यावर बोटे ठेवून काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "हात हलवू नयेत", "is_correct": false },
+        { "option_id": 2, "text": "हात गोल फिरवावे", "is_correct": true },
+        { "option_id": 3, "text": "हात सरळ ठेवावे", "is_correct": false },
+        { "option_id": 4, "text": "मान फिरवावी", "is_correct": false }
+      ],
+      "answer": "हात गोल फिरवावे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "तालबद्ध कवायतीत कोणते साहित्य वापरता येते?",
+      "options": [
+        { "option_id": 1, "text": "चेंडू, रुमाल, फुगे", "is_correct": true },
+        { "option_id": 2, "text": "विटा", "is_correct": false },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "काचा", "is_correct": false }
+      ],
+      "answer": "चेंडू, रुमाल, फुगे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सांघिक खेळातून काय मिळते?",
+      "options": [
+        { "option_id": 1, "text": "आनंद", "is_correct": true },
+        { "option_id": 2, "text": "कंटाळा", "is_correct": false },
+        { "option_id": 3, "text": "दुःख", "is_correct": false },
+        { "option_id": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "शिडीच्या कवायती कशासाठी असतात?",
+      "options": [
+        { "option_id": 1, "text": "वेग आणि चपळाई वाढवण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "बसण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "लिहिण्यासाठी", "is_correct": false }
+      ],
+      "answer": "वेग आणि चपळाई वाढवण्यासाठी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "व्यायाम करण्यापूर्वी काय टाळावे?",
+      "options": [
+        { "option_id": 1, "text": "भरपूर जेवण", "is_correct": true },
+        { "option_id": 2, "text": "पाणी पिणे (थोडे)", "is_correct": false },
+        { "option_id": 3, "text": "वॉर्म अप", "is_correct": false },
+        { "option_id": 4, "text": "श्वास घेणे", "is_correct": false }
+      ],
+      "answer": "भरपूर जेवण"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "शरीराच्या लवचीकपणामध्ये कशामुळे वृद्धी होते?",
+      "options": [
+        { "option_id": 1, "text": "विविध आसने आणि शरीर स्थितींमुळे", "is_correct": true },
+        { "option_id": 2, "text": "एकाच जागी बसल्यामुळे", "is_correct": false },
+        { "option_id": 3, "text": "झोपल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "टीव्ही पाहिल्यामुळे", "is_correct": false }
+      ],
+      "answer": "विविध आसने आणि शरीर स्थितींमुळे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "व्यायामामुळे कोणते अवयव ताण सहन करण्यास तयार होतात?",
+      "options": [
+        { "option_id": 1, "text": "केस", "is_correct": false },
+        { "option_id": 2, "text": "सांधे, स्नायू आणि अवयव", "is_correct": true },
+        { "option_id": 3, "text": "कपडे", "is_correct": false },
+        { "option_id": 4, "text": "बूट", "is_correct": false }
+      ],
+      "answer": "सांधे, स्नायू आणि अवयव"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "संगीताच्या तालावर करावयाच्या कवायतीत कोणते साधन वापरता येते?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "डंबेल्स", "is_correct": true },
+        { "option_id": 3, "text": "माती", "is_correct": false },
+        { "option_id": 4, "text": "विटा", "is_correct": false }
+      ],
+      "answer": "डंबेल्स"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "श्वासावर नियंत्रण ठेवणाऱ्या व्यायामाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "धावणे", "is_correct": false },
+        { "option_id": 2, "text": "प्राणायाम", "is_correct": true },
+        { "option_id": 3, "text": "उड्या मारणे", "is_correct": false },
+        { "option_id": 4, "text": "चालणे", "is_correct": false }
+      ],
+      "answer": "प्राणायाम"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "आरोग्यदायी शरीरासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "व्यायाम", "is_correct": true },
+        { "option_id": 2, "text": "आळस", "is_correct": false },
+        { "option_id": 3, "text": "जास्त खाणे", "is_correct": false },
+        { "option_id": 4, "text": "मोबाईल", "is_correct": false }
+      ],
+      "answer": "व्यायाम"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "सूर्यनमस्कारात पहिली स्थिती कोणती असते?",
+      "options": [
+        { "option_id": 1, "text": "प्रणामसन (हात जोडून उभे राहणे)", "is_correct": true },
+        { "option_id": 2, "text": "झोपणे", "is_correct": false },
+        { "option_id": 3, "text": "वाकणे", "is_correct": false },
+        { "option_id": 4, "text": "बसणे", "is_correct": false }
+      ],
+      "answer": "प्रणामसन (हात जोडून उभे राहणे)"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "अॅरोबिक्समध्ये हालचाली कशा असतात?",
+      "options": [
+        { "option_id": 1, "text": "संथ", "is_correct": false },
+        { "option_id": 2, "text": "वेगवान आणि लयबद्ध", "is_correct": true },
+        { "option_id": 3, "text": "विस्कळीत", "is_correct": false },
+        { "option_id": 4, "text": "कंटाळवाण्या", "is_correct": false }
+      ],
+      "answer": "वेगवान आणि लयबद्ध"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "व्यायामामुळे काय वाढते?",
+      "options": [
+        { "option_id": 1, "text": "रोग", "is_correct": false },
+        { "option_id": 2, "text": "प्रतिकारशक्ती", "is_correct": true },
+        { "option_id": 3, "text": "वजन (अनावश्यक)", "is_correct": false },
+        { "option_id": 4, "text": "आळस", "is_correct": false }
+      ],
+      "answer": "प्रतिकारशक्ती"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "गिर्यारोहण म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "डोंगर चढणे", "is_correct": true },
+        { "option_id": 2, "text": "पाण्यात पोहणे", "is_correct": false },
+        { "option_id": 3, "text": "रस्त्यावर धावणे", "is_correct": false },
+        { "option_id": 4, "text": "घरात बसणे", "is_correct": false }
+      ],
+      "answer": "डोंगर चढणे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "लेझीम कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "व्यायाम आणि मनोरंजनासाठी", "is_correct": true },
+        { "option_id": 2, "text": "जेवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "लिहिण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "व्यायाम आणि मनोरंजनासाठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "सायकलिंगमुळे कोणत्या अवयवाचा व्यायाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त डोळ्यांचा", "is_correct": false },
+        { "option_id": 2, "text": "प्रामुख्याने पायांचा", "is_correct": true },
+        { "option_id": 3, "text": "केसांचा", "is_correct": false },
+        { "option_id": 4, "text": "नखांचा", "is_correct": false }
+      ],
+      "answer": "प्रामुख्याने पायांचा"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "व्यायाम करताना जागा कशी असावी?",
+      "options": [
+        { "option_id": 1, "text": "अस्वच्छ", "is_correct": false },
+        { "option_id": 2, "text": "स्वच्छ व सुरक्षित", "is_correct": true },
+        { "option_id": 3, "text": "काटेरी", "is_correct": false },
+        { "option_id": 4, "text": "ओली", "is_correct": false }
+      ],
+      "answer": "स्वच्छ व सुरक्षित"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पाय न हलवता वळणे हा कोणता व्यायाम प्रकार आहे?",
+      "options": [
+        { "option_id": 1, "text": "उत्तेजक व्यायाम", "is_correct": true },
+        { "option_id": 2, "text": "सूर्यनमस्कार", "is_correct": false },
+        { "option_id": 3, "text": "प्राणायाम", "is_correct": false },
+        { "option_id": 4, "text": "ध्यान", "is_correct": false }
+      ],
+      "answer": "उत्तेजक व्यायाम"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "सूर्यनमस्कारामुळे काय मजबूत होते?",
+      "options": [
+        { "option_id": 1, "text": "हाडे आणि स्नायू", "is_correct": true },
+        { "option_id": 2, "text": "केस", "is_correct": false },
+        { "option_id": 3, "text": "कपडे", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "हाडे आणि स्नायू"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "व्यायामाच्या गाण्यात काय करायला सांगितले आहे?",
+      "options": [
+        { "option_id": 1, "text": "व्यायामाला चला", "is_correct": true },
+        { "option_id": 2, "text": "शाळेला चला", "is_correct": false },
+        { "option_id": 3, "text": "गावाला चला", "is_correct": false },
+        { "option_id": 4, "text": "बाजारात चला", "is_correct": false }
+      ],
+      "answer": "व्यायामाला चला"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "उत्तेजक व्यायामामुळे शरीराचे तापमान काय होते?",
+      "options": [
+        { "option_id": 1, "text": "कमी होते", "is_correct": false },
+        { "option_id": 2, "text": "वाढते", "is_correct": true },
+        { "option_id": 3, "text": "स्थिर राहते", "is_correct": false },
+        { "option_id": 4, "text": "शून्य होते", "is_correct": false }
+      ],
+      "answer": "वाढते"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "वेगवान हालचालींसाठी शरीर तयार करण्यासाठी कोणता व्यायाम करतात?",
+      "options": [
+        { "option_id": 1, "text": "शवासन", "is_correct": false },
+        { "option_id": 2, "text": "उत्तेजक व्यायाम", "is_correct": true },
+        { "option_id": 3, "text": "ध्यानासन", "is_correct": false },
+        { "option_id": 4, "text": "झोपणे", "is_correct": false }
+      ],
+      "answer": "उत्तेजक व्यायाम"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "सूर्यनमस्कार घालण्यासाठी जास्त जागेची गरज असते का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही, कमी जागेत करता येतो", "is_correct": true },
+        { "option_id": 3, "text": "मैदान लागते", "is_correct": false },
+        { "option_id": 4, "text": "रस्ता लागतो", "is_correct": false }
+      ],
+      "answer": "नाही, कमी जागेत करता येतो"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "तालबद्ध कवायतीत '१, २, ३, ४' असे काय दिले जाते?",
+      "options": [
+        { "option_id": 1, "text": "पैसे", "is_correct": false },
+        { "option_id": 2, "text": "अंक/ठेका (Counts)", "is_correct": true },
+        { "option_id": 3, "text": "बक्षीस", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षा", "is_correct": false }
+      ],
+      "answer": "अंक/ठेका (Counts)"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "शरीराचे सांधे फिरवणे हा कशाचा भाग आहे?",
+      "options": [
+        { "option_id": 1, "text": "झोपण्याचा", "is_correct": false },
+        { "option_id": 2, "text": "शरीर संचलनाचा", "is_correct": true },
+        { "option_id": 3, "text": "जेवणाचा", "is_correct": false },
+        { "option_id": 4, "text": "अभ्यासाचा", "is_correct": false }
+      ],
+      "answer": "शरीर संचलनाचा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "कोणत्या व्यायाम प्रकारात मान गोलाकार फिरवली जाते?",
+      "options": [
+        { "option_id": 1, "text": "उत्तेजक व्यायाम", "is_correct": true },
+        { "option_id": 2, "text": "धावणे", "is_correct": false },
+        { "option_id": 3, "text": "उड्या मारणे", "is_correct": false },
+        { "option_id": 4, "text": "पोहणे", "is_correct": false }
+      ],
+      "answer": "उत्तेजक व्यायाम"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "व्यायामामुळे मन कसे राहते?",
+      "options": [
+        { "option_id": 1, "text": "दुःखी", "is_correct": false },
+        { "option_id": 2, "text": "प्रसन्न आणि उत्साही", "is_correct": true },
+        { "option_id": 3, "text": "रागीट", "is_correct": false },
+        { "option_id": 4, "text": "उदासीन", "is_correct": false }
+      ],
+      "answer": "प्रसन्न आणि उत्साही"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "सूर्यनमस्काराचा सराव केल्याने काय सुधारते?",
+      "options": [
+        { "option_id": 1, "text": "अक्षर", "is_correct": false },
+        { "option_id": 2, "text": "लवचिकता आणि आरोग्य", "is_correct": true },
+        { "option_id": 3, "text": "कपडे", "is_correct": false },
+        { "option_id": 4, "text": "खेळणी", "is_correct": false }
+      ],
+      "answer": "लवचिकता आणि आरोग्य"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "व्यायामाच्या शेवटी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "शिथिलीकरण (Cool down)", "is_correct": true },
+        { "option_id": 2, "text": "जोरात धावणे", "is_correct": false },
+        { "option_id": 3, "text": "जड वजन उचलणे", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "शिथिलीकरण (Cool down)"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कोणत्या व्यायाम प्रकारात 'मूळ स्थिती' महत्त्वाची असते?",
+      "options": [
+        { "option_id": 1, "text": "सर्व व्यायाम प्रकारांत", "is_correct": true },
+        { "option_id": 2, "text": "फक्त चालताना", "is_correct": false },
+        { "option_id": 3, "text": "फक्त बोलताना", "is_correct": false },
+        { "option_id": 4, "text": "फक्त जेवताना", "is_correct": false }
+      ],
+      "answer": "सर्व व्यायाम प्रकारांत"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "उत्तेजक व्यायाम म्हणजे काय?",
+      "answer": "शरीराच्या स्नायू व सांधे यांना जोरकस हालचालींसाठी तयार करण्याच्या व्यायाम प्रकाराला उत्तेजक व्यायाम म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "उत्तेजक व्यायामाचा मुख्य फायदा काय आहे?",
+      "answer": "खेळताना होणाऱ्या दुखापती व इजा टाळणे शक्य होते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "उत्तेजक व्यायाम करण्याची पद्धत काय आहे?",
+      "answer": "डोक्याकडून पायापर्यंत क्रमवार विविध अवयवांना ताणणे, वाकणे, वळवणे व फिरवणे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "सूर्यनमस्कार म्हणजे काय?",
+      "answer": "कमी जागेत आणि साहित्याशिवाय संपूर्ण शरीराला व्यायाम देणारा प्रकार म्हणजे सूर्यनमस्कार."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सूर्यनमस्कार कधी घालावेत?",
+      "answer": "पहाटे सूर्योदयाच्या वेळी किंवा सायंकाळी सूर्यास्ताच्या वेळी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "अॅरोबिक्समध्ये कशाचा वापर केला जातो?",
+      "answer": "अॅरोबिक्समध्ये संगीताचा व तालाचा वापर केला जातो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "तालबद्ध कवायत कशाला म्हणतात?",
+      "answer": "संगीताच्या तालावर किंवा ठेक्यावर केली जाणारी शारीरिक कवायत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "तालबद्ध कवायतीत कोणती साधने वापरता येतात?",
+      "answer": "डंबेल्स, घुंगरूकाठी, चेंडू, रुमाल, फुगे इत्यादी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "शरीर संचलन म्हणजे काय?",
+      "answer": "आसने करण्यापूर्वी शरीराचे हातपाय हलवणे, सांधे फिरवणे, वाकणे अशा हालचाली करणे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "शरीर संचलनामुळे काय होते?",
+      "answer": "शरीराचे सांधे, स्नायू आणि अवयव ताण सहन करण्यासाठी तयार होतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "नियमित व्यायामाचे दोन फायदे सांगा.",
+      "answer": "आरोग्य सुधारते आणि शरीर तंदुरुस्त राहते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "उत्तेजक व्यायाम करताना हृदयाची गती काय होते?",
+      "answer": "उत्तेजक व्यायाम करताना हृदयाची गती वाढते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "व्यायामाच्या गाण्यात कोणकोणत्या गोष्टी करायला सांगितल्या आहेत?",
+      "answer": "चालायला, धावायला, योगासन, प्राणायाम, सूर्यनमस्कार, दोरीवरच्या उड्या, सायकलिंग इत्यादी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "निरामय जीवनासाठी काय आवश्यक आहे?",
+      "answer": "निरामय जीवनासाठी दररोज व्यायाम करणे आवश्यक आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "तंदुरुस्त शरीरासाठी काय करावे?",
+      "answer": "जमेल तो व्यायाम करावा, जसे की पोहणे, नाचणे, गिर्यारोहण करणे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "लेझीम खेळल्याने काय होते?",
+      "answer": "लेझीम खेळल्याने शरीराचा व्यायाम होतो आणि मनोरंजनही होते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "लाठीकाठी चालवणे हा कशाचा प्रकार आहे?",
+      "answer": "लाठीकाठी चालवणे हा एक व्यायामाचा आणि स्वसंरक्षणाचा प्रकार आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "सांघिक खेळातून काय मिळते?",
+      "answer": "सांघिक खेळातून आनंद मिळतो आणि संघभावना वाढते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "शिडीच्या कवायती कशासाठी असतात?",
+      "answer": "वेग आणि चपळाई वाढवण्यासाठी शिडीच्या कवायती असतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "व्यायामाला जाताना मनस्थिती कशी असावी?",
+      "answer": "व्यायामाला जाताना मनस्थिती उत्साही आणि आनंदी असावी."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "शरीराची योग्य स्थिती म्हणजे काय?",
+      "answer": "ज्या स्थितीत शरीरावर कमीत कमी ताण येतो ती योग्य स्थिती."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "सूर्यनमस्काराच्या स्थितीत श्वास कसा घ्यावा?",
+      "answer": "सूर्यनमस्काराच्या स्थितीत विशिष्ट क्रमाने श्वास घेणे आणि सोडणे आवश्यक असते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "अॅरोबिक्स करताना कोणत्या गोष्टीची गरज असते?",
+      "answer": "अॅरोबिक्स करताना मोकळी जागा आणि संगीताची गरज असते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कवायतीमध्ये 'एक-दोन-तीन-चार' असे का म्हणतात?",
+      "answer": "तालबद्धता आणि एकसूत्रीपणा येण्यासाठी असे म्हणतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "शरीर लवचिक असल्यास काय फायदा होतो?",
+      "answer": "शरीर लवचिक असल्यास हालचाली सहज करता येतात आणि दुखापत होण्याची शक्यता कमी होते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "व्यायामासाठी योग्य वेळ कोणती?",
+      "answer": "सकाळ किंवा संध्याकाळ ही व्यायामासाठी योग्य वेळ आहे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "प्राणायाम म्हणजे काय?",
+      "answer": "श्वसनावर नियंत्रण मिळवण्याचा सराव म्हणजे प्राणायाम."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "आसन करताना हालचाली कशा असाव्यात?",
+      "answer": "आसन करताना हालचाली संथ आणि नियंत्रित असाव्यात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "विविध शरीर स्थिती कोणकोणत्या प्रकारे करता येतात?",
+      "answer": "उभे राहून, बसून, पाठीवर झोपून आणि पोटावर झोपून विविध शरीर स्थिती करता येतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "नियमित सरावाने कोणती क्षमता सुधारते?",
+      "answer": "नियमित सरावाने तोल, संतुलन आणि दमदारपणा सुधारतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "व्यायामाच्या गाण्यात 'गिर्यारोहण' कशासाठी करायला सांगितले आहे?",
+      "answer": "तंदुरुस्त शरीरासाठी गिर्यारोहण करायला सांगितले आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "चपळाई वाढवण्यासाठी काय करावे?",
+      "answer": "चपळाई वाढवण्यासाठी वेगवान हालचाली, खेळ आणि कवायती कराव्यात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "समन्वय (Coordination) म्हणजे काय?",
+      "answer": "शरीराच्या विविध अवयवांच्या हालचालींमध्ये ताळमेळ असणे म्हणजे समन्वय."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "व्यायाम करताना कोणते कपडे वापरावेत?",
+      "answer": "व्यायाम करताना सैलसर आणि सुती कपडे (किंवा ट्रॅकसूट) वापरावेत."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "सूर्यनमस्कार हा पूर्ण व्यायाम का मानला जातो?",
+      "answer": "कारण यात शरीराच्या सर्व स्नायूंचा आणि सांध्यांचा व्यायाम होतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "अॅरोबिक्सचे एक वैशिष्ट्य सांगा.",
+      "answer": "ते संगीताच्या तालावर केले जाते आणि त्यामुळे उत्साह वाढतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "डंबेल्सचा वापर कसा करतात?",
+      "answer": "दोन्ही हातात डंबेल्स धरून विविध हालचाली आणि कवायती केल्या जातात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "व्यायामामुळे रक्ताभिसरण कसे होते?",
+      "answer": "व्यायामामुळे रक्ताभिसरण सुधारते आणि शरीरातील प्रत्येक पेशीला ऑक्सिजन मिळतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "उत्तेजक व्यायामात 'जॉगिंग' म्हणजे काय?",
+      "answer": "जागेवर किंवा हळू हळू धावणे म्हणजे जॉगिंग."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "व्यायाम न केल्यास काय होते?",
+      "answer": "व्यायाम न केल्यास शरीर आळशी बनते, वजन वाढते आणि आजार होण्याची शक्यता असते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "योगासनांचे महत्त्व काय आहे?",
+      "answer": "योगासनांमुळे शारीरिक आणि मानसिक आरोग्य उत्तम राहते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "तालबद्ध कवायतीत विविधता कशी आणता येते?",
+      "answer": "वेगवेगळी साधने (चेंडू, रुमाल इ.) आणि विविध संगीत वापरून विविधता आणता येते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "शरीर संचलन वेगाने का करू नये?",
+      "answer": "कारण त्यामुळे स्नायूंना धक्का लागू शकतो किंवा दुखापत होऊ शकते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "व्यायामामुळे झोप कशी लागते?",
+      "answer": "व्यायामामुळे शरीराला थकवा येतो आणि त्यामुळे रात्री गाढ झोप लागते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "शाळेत सामूहिक कवायत का घेतली जाते?",
+      "answer": "विद्यार्थ्यांमध्ये शिस्त, एकोपा आणि शारीरिक तंदुरुस्ती वाढवण्यासाठी."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "व्यायामानंतर पाणी लगेच प्यावे का?",
+      "answer": "नाही, व्यायामानंतर थोडे थांबून घोट घोट पाणी प्यावे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "कोणत्याही खेळापूर्वी वॉर्म अप का महत्त्वाचा आहे?",
+      "answer": "शरीर खेळासाठी तयार करण्यासाठी आणि दुखापती टाळण्यासाठी."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "व्यायामामुळे आत्मविश्वास कसा वाढतो?",
+      "answer": "शरीर सुदृढ झाल्यामुळे आणि कामे करण्याची क्षमता वाढल्यामुळे आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "मुद्रा म्हणजे काय (योगासनातील)?",
+      "answer": "हातांच्या बोटांची किंवा शरीराची विशिष्ट स्थिती म्हणजे मुद्रा."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "व्यायामामुळे भूक कशी लागते?",
+      "answer": "व्यायामामुळे पचनशक्ती सुधारते आणि चांगली भूक लागते."
+    }
+  ]
+}

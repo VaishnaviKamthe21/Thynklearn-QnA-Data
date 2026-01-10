@@ -1,0 +1,913 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.15",
+    "standard": "4",
+    "subject": "खेळू, करू, शिकू (कला शिक्षण)",
+    "medium": "Marathi",
+    "chapter_name": "नृत्य"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "नृत्यात हातांच्या बोटांचे वेगवेगळे आकार करून काय दाखवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "जादू", "is_correct": false },
+        { "option_id": 2, "text": "आंतरिक भाव (हस्तमुद्रा)", "is_correct": true },
+        { "option_id": 3, "text": "संख्या", "is_correct": false },
+        { "option_id": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "आंतरिक भाव (हस्तमुद्रा)"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "हातांच्या बोटांच्या विशिष्ट आकारांना नृत्यात काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "हस्तकला", "is_correct": false },
+        { "option_id": 2, "text": "हस्तमुद्रा", "is_correct": true },
+        { "option_id": 3, "text": "हस्ताक्षर", "is_correct": false },
+        { "option_id": 4, "text": "हस्तरेषा", "is_correct": false }
+      ],
+      "answer": "हस्तमुद्रा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "हस्तमुद्रांचे वर्गीकरण किती प्रकारांत केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "एका हाताने केल्या जाणाऱ्या हस्तमुद्रेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "संयुक्त हस्तमुद्रा", "is_correct": false },
+        { "option_id": 2, "text": "असंयुक्त हस्तमुद्रा", "is_correct": true },
+        { "option_id": 3, "text": "मिश्र हस्तमुद्रा", "is_correct": false },
+        { "option_id": 4, "text": "साधी मुद्रा", "is_correct": false }
+      ],
+      "answer": "असंयुक्त हस्तमुद्रा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "दोन हातांनी मिळून केल्या जाणाऱ्या एकाच मुद्रेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "असंयुक्त हस्तमुद्रा", "is_correct": false },
+        { "option_id": 2, "text": "संयुक्त हस्तमुद्रा", "is_correct": true },
+        { "option_id": 3, "text": "एकल मुद्रा", "is_correct": false },
+        { "option_id": 4, "text": "कठीण मुद्रा", "is_correct": false }
+      ],
+      "answer": "संयुक्त हस्तमुद्रा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "'पताका' ही कोणती हस्तमुद्रा आहे?",
+      "options": [
+        { "option_id": 1, "text": "संयुक्त", "is_correct": false },
+        { "option_id": 2, "text": "असंयुक्त", "is_correct": true },
+        { "option_id": 3, "text": "मिश्र", "is_correct": false },
+        { "option_id": 4, "text": "अवघड", "is_correct": false }
+      ],
+      "answer": "असंयुक्त"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "चारही बोटे सरळ ताठ ठेवून अंगठा किंचित आतल्या बाजूस वळवल्यास कोणती मुद्रा होते?",
+      "options": [
+        { "option_id": 1, "text": "शिखर", "is_correct": false },
+        { "option_id": 2, "text": "अंजली", "is_correct": false },
+        { "option_id": 3, "text": "पताका", "is_correct": true },
+        { "option_id": 4, "text": "मुष्टी", "is_correct": false }
+      ],
+      "answer": "पताका"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "नृत्याचा आरंभ करण्यासाठी कोणती मुद्रा वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "पताका", "is_correct": true },
+        { "option_id": 2, "text": "शिखर", "is_correct": false },
+        { "option_id": 3, "text": "अंजली", "is_correct": false },
+        { "option_id": 4, "text": "त्रिपताका", "is_correct": false }
+      ],
+      "answer": "पताका"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "चंदन लावण्यासाठी किंवा शपथ घेण्यासाठी कोणती मुद्रा वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "सूची", "is_correct": false },
+        { "option_id": 2, "text": "पताका", "is_correct": true },
+        { "option_id": 3, "text": "मुकुल", "is_correct": false },
+        { "option_id": 4, "text": "मृगशीर्ष", "is_correct": false }
+      ],
+      "answer": "पताका"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'अंजली' ही कोणती हस्तमुद्रा आहे?",
+      "options": [
+        { "option_id": 1, "text": "असंयुक्त", "is_correct": false },
+        { "option_id": 2, "text": "संयुक्त", "is_correct": true },
+        { "option_id": 3, "text": "मिश्र", "is_correct": false },
+        { "option_id": 4, "text": "एकहाती", "is_correct": false }
+      ],
+      "answer": "संयुक्त"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "दोन्ही हातांच्या पताका मुद्रा समोरासमोर जोडल्यास कोणती मुद्रा तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "कपोत", "is_correct": false },
+        { "option_id": 2, "text": "शिखर", "is_correct": false },
+        { "option_id": 3, "text": "अंजली", "is_correct": true },
+        { "option_id": 4, "text": "चक्र", "is_correct": false }
+      ],
+      "answer": "अंजली"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अंजली मुद्रा मस्तकाच्या एकदम वर केल्यास कोणाला नमस्कार होतो?",
+      "options": [
+        { "option_id": 1, "text": "गुरूस", "is_correct": false },
+        { "option_id": 2, "text": "देवतेस", "is_correct": true },
+        { "option_id": 3, "text": "प्रजेस", "is_correct": false },
+        { "option_id": 4, "text": "मित्रास", "is_correct": false }
+      ],
+      "answer": "देवतेस"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "गुरूस नमस्कार करण्यासाठी अंजली मुद्रा कोठे धरावी?",
+      "options": [
+        { "option_id": 1, "text": "मस्तकावर", "is_correct": false },
+        { "option_id": 2, "text": "छातीसमोर", "is_correct": false },
+        { "option_id": 3, "text": "तोंडासमोर", "is_correct": true },
+        { "option_id": 4, "text": "गुडघ्यावर", "is_correct": false }
+      ],
+      "answer": "तोंडासमोर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "प्रजेस नमस्कार करण्यासाठी अंजली मुद्रा कोठे धरावी?",
+      "options": [
+        { "option_id": 1, "text": "मस्तकावर", "is_correct": false },
+        { "option_id": 2, "text": "छातीसमोर", "is_correct": true },
+        { "option_id": 3, "text": "तोंडासमोर", "is_correct": false },
+        { "option_id": 4, "text": "डोक्यामागे", "is_correct": false }
+      ],
+      "answer": "छातीसमोर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'शिखर' ही कोणती हस्तमुद्रा आहे?",
+      "options": [
+        { "option_id": 1, "text": "असंयुक्त", "is_correct": false },
+        { "option_id": 2, "text": "मिश्र", "is_correct": true },
+        { "option_id": 3, "text": "संयुक्त", "is_correct": false },
+        { "option_id": 4, "text": "साधी", "is_correct": false }
+      ],
+      "answer": "मिश्र"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कळस किंवा टोक दाखवण्यासाठी कोणती मुद्रा वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "पताका", "is_correct": false },
+        { "option_id": 2, "text": "अंजली", "is_correct": false },
+        { "option_id": 3, "text": "शिखर", "is_correct": true },
+        { "option_id": 4, "text": "मुष्टी", "is_correct": false }
+      ],
+      "answer": "शिखर"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "शस्त्र धारण करण्यासाठी कोणती मुद्रा वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "शिखर", "is_correct": true },
+        { "option_id": 2, "text": "पताका", "is_correct": false },
+        { "option_id": 3, "text": "अंजली", "is_correct": false },
+        { "option_id": 4, "text": "हंसस्य", "is_correct": false }
+      ],
+      "answer": "शिखर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "प्रश्न विचारण्यासाठी कोणती मुद्रा वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "अंजली", "is_correct": false },
+        { "option_id": 2, "text": "शिखर", "is_correct": true },
+        { "option_id": 3, "text": "पताका", "is_correct": false },
+        { "option_id": 4, "text": "सर्पशीर्ष", "is_correct": false }
+      ],
+      "answer": "शिखर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "दूर अंतरावरील व्यक्तीस बोलावण्यासाठी कोणती मुद्रा वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "शिखर", "is_correct": false },
+        { "option_id": 2, "text": "पताका", "is_correct": true },
+        { "option_id": 3, "text": "मुष्टी", "is_correct": false },
+        { "option_id": 4, "text": "अंजली", "is_correct": false }
+      ],
+      "answer": "पताका"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "नृत्याला सौंदर्य कशामुळे प्राप्त होते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त कपड्यांमुळे", "is_correct": false },
+        { "option_id": 2, "text": "हस्तमुद्रांमुळे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त वेगामुळे", "is_correct": false },
+        { "option_id": 4, "text": "फक्त उड्या मारल्यामुळे", "is_correct": false }
+      ],
+      "answer": "हस्तमुद्रांमुळे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "'पाऊस आला' हे गीत कोणत्या प्रकारचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "भक्तीगीत", "is_correct": false },
+        { "option_id": 2, "text": "अभिनयगीत", "is_correct": true },
+        { "option_id": 3, "text": "पोवाडा", "is_correct": false },
+        { "option_id": 4, "text": "भारुड", "is_correct": false }
+      ],
+      "answer": "अभिनयगीत"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "अभिनयगीतात आजोबा मुलांना काय लावण्यास सांगतात?",
+      "options": [
+        { "option_id": 1, "text": "टीव्ही", "is_correct": false },
+        { "option_id": 2, "text": "खिडक्या दारे", "is_correct": true },
+        { "option_id": 3, "text": "झाडे", "is_correct": false },
+        { "option_id": 4, "text": "गाणी", "is_correct": false }
+      ],
+      "answer": "खिडक्या दारे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "पाऊस आल्यावर मुले काय करायचे म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "झोपून राहायचे", "is_correct": false },
+        { "option_id": 2, "text": "अभ्यास करायचा", "is_correct": false },
+        { "option_id": 3, "text": "ओले होऊ, नाचू गाऊ", "is_correct": true },
+        { "option_id": 4, "text": "रडायचे", "is_correct": false }
+      ],
+      "answer": "ओले होऊ, नाचू गाऊ"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सर्दी पडसे होऊ नये म्हणून चहात काय घालावे?",
+      "options": [
+        { "option_id": 1, "text": "साखर", "is_correct": false },
+        { "option_id": 2, "text": "मीठ", "is_correct": false },
+        { "option_id": 3, "text": "आले", "is_correct": true },
+        { "option_id": 4, "text": "बर्फ", "is_correct": false }
+      ],
+      "answer": "आले"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पाऊस आल्यावर काय घालावे असे आजोबा म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "नवीन कपडे", "is_correct": false },
+        { "option_id": 2, "text": "स्वेटर टोप्या", "is_correct": true },
+        { "option_id": 3, "text": "फटाके", "is_correct": false },
+        { "option_id": 4, "text": "बूट", "is_correct": false }
+      ],
+      "answer": "स्वेटर टोप्या"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "मुले काय वेचायला जायचे म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "फुले", "is_correct": false },
+        { "option_id": 2, "text": "गारा", "is_correct": true },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "कागद", "is_correct": false }
+      ],
+      "answer": "गारा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "अभिनयगीतात वारा कसा आहे?",
+      "options": [
+        { "option_id": 1, "text": "गरम", "is_correct": false },
+        { "option_id": 2, "text": "गार गार", "is_correct": true },
+        { "option_id": 3, "text": "जोराचा", "is_correct": false },
+        { "option_id": 4, "text": "मंद", "is_correct": false }
+      ],
+      "answer": "गार गार"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "नृत्यात छायाचित्रासारखे उभे राहण्याला (Pose) काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "चलचित्र", "is_correct": false },
+        { "option_id": 2, "text": "स्थिरचित्र (Stature/Pose)", "is_correct": true },
+        { "option_id": 3, "text": "धावणे", "is_correct": false },
+        { "option_id": 4, "text": "पळणे", "is_correct": false }
+      ],
+      "answer": "स्थिरचित्र (Stature/Pose)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "स्पर्श करणे या क्रियेसाठी कोणती मुद्रा वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "अंजली", "is_correct": false },
+        { "option_id": 2, "text": "शिखर", "is_correct": false },
+        { "option_id": 3, "text": "पताका", "is_correct": true },
+        { "option_id": 4, "text": "मुष्टी", "is_correct": false }
+      ],
+      "answer": "पताका"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "नृत्यात हातांच्या हालचालींसोबत कशाच्या हालचाली महत्त्वाच्या असतात?",
+      "options": [
+        { "option_id": 1, "text": "केसांच्या", "is_correct": false },
+        { "option_id": 2, "text": "पायांच्या", "is_correct": true },
+        { "option_id": 3, "text": "कपड्यांच्या", "is_correct": false },
+        { "option_id": 4, "text": "बूटच्या", "is_correct": false }
+      ],
+      "answer": "पायांच्या"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "नमस्कार करताना आपण कोणती मुद्रा करतो?",
+      "options": [
+        { "option_id": 1, "text": "पताका", "is_correct": false },
+        { "option_id": 2, "text": "अंजली", "is_correct": true },
+        { "option_id": 3, "text": "शिखर", "is_correct": false },
+        { "option_id": 4, "text": "मुष्टी", "is_correct": false }
+      ],
+      "answer": "अंजली"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "शपथ घेताना कोणती मुद्रा वापरली जाते?",
+      "options": [
+        { "option_id": 1, "text": "पताका", "is_correct": true },
+        { "option_id": 2, "text": "अंजली", "is_correct": false },
+        { "option_id": 3, "text": "शिखर", "is_correct": false },
+        { "option_id": 4, "text": "कटक", "is_correct": false }
+      ],
+      "answer": "पताका"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "दोन हातांनी मिळून केलेल्या मुद्रेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "संयुक्त किंवा मिश्र हस्तमुद्रा", "is_correct": true },
+        { "option_id": 2, "text": "असंयुक्त हस्तमुद्रा", "is_correct": false },
+        { "option_id": 3, "text": "एकल मुद्रा", "is_correct": false },
+        { "option_id": 4, "text": "सरळ मुद्रा", "is_correct": false }
+      ],
+      "answer": "संयुक्त किंवा मिश्र हस्तमुद्रा"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "गाण्यातील आशयानुसार काय दाखवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "वजन", "is_correct": false },
+        { "option_id": 2, "text": "आंतरिक भाव", "is_correct": true },
+        { "option_id": 3, "text": "वेळ", "is_correct": false },
+        { "option_id": 4, "text": "दिशा", "is_correct": false }
+      ],
+      "answer": "आंतरिक भाव"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पाऊस आल्यावर मुले कोणाला हाक मारतात?",
+      "options": [
+        { "option_id": 1, "text": "आईला", "is_correct": false },
+        { "option_id": 2, "text": "बाबांना", "is_correct": false },
+        { "option_id": 3, "text": "सर्वांना (साऱ्यांना)", "is_correct": true },
+        { "option_id": 4, "text": "शिक्षकांना", "is_correct": false }
+      ],
+      "answer": "सर्वांना (साऱ्यांना)"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "पाऊस आल्यावर जिकडेतिकडे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "काहीच नाही", "is_correct": false },
+        { "option_id": 2, "text": "पाणीच पाणी", "is_correct": true },
+        { "option_id": 3, "text": "अंधार", "is_correct": false },
+        { "option_id": 4, "text": "उजेड", "is_correct": false }
+      ],
+      "answer": "पाणीच पाणी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "नृत्यात कशाला महत्त्व आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ उभे राहण्याला", "is_correct": false },
+        { "option_id": 2, "text": "हालचाली आणि हावभावांना", "is_correct": true },
+        { "option_id": 3, "text": "फक्त गाण्याला", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्याला", "is_correct": false }
+      ],
+      "answer": "हालचाली आणि हावभावांना"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "नृत्य प्रकार ओळखण्यासाठी काय पाहावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "पुस्तक", "is_correct": false },
+        { "option_id": 2, "text": "वेशभूषा आणि हालचाली", "is_correct": true },
+        { "option_id": 3, "text": "नाव", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "वेशभूषा आणि हालचाली"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "अभिनयगीत म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "फक्त गाणे म्हणणे", "is_correct": false },
+        { "option_id": 2, "text": "गाण्याच्या शब्दांनुसार अभिनय करणे", "is_correct": true },
+        { "option_id": 3, "text": "वाद्य वाजवणे", "is_correct": false },
+        { "option_id": 4, "text": "चित्रे काढणे", "is_correct": false }
+      ],
+      "answer": "गाण्याच्या शब्दांनुसार अभिनय करणे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "कोणती मुद्रा एकहाती (असंयुक्त) आहे?",
+      "options": [
+        { "option_id": 1, "text": "अंजली", "is_correct": false },
+        { "option_id": 2, "text": "शिखर", "is_correct": false },
+        { "option_id": 3, "text": "पताका", "is_correct": true },
+        { "option_id": 4, "text": "कर्कट", "is_correct": false }
+      ],
+      "answer": "पताका"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "कोणती मुद्रा संयुक्त (दोन हातांची) आहे?",
+      "options": [
+        { "option_id": 1, "text": "पताका", "is_correct": false },
+        { "option_id": 2, "text": "अंजली", "is_correct": true },
+        { "option_id": 3, "text": "मुष्टी", "is_correct": false },
+        { "option_id": 4, "text": "सूची", "is_correct": false }
+      ],
+      "answer": "अंजली"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "शिखर मुद्रा कोणत्या प्रकारात मोडते?",
+      "options": [
+        { "option_id": 1, "text": "असंयुक्त", "is_correct": false },
+        { "option_id": 2, "text": "मिश्र हस्तमुद्रा", "is_correct": true },
+        { "option_id": 3, "text": "एकल", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "मिश्र हस्तमुद्रा"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "नृत्यात हस्तमुद्रांचे मुख्य उपयोग काय?",
+      "options": [
+        { "option_id": 1, "text": "मारामारी करणे", "is_correct": false },
+        { "option_id": 2, "text": "भाव व्यक्त करणे", "is_correct": true },
+        { "option_id": 3, "text": "खाणे", "is_correct": false },
+        { "option_id": 4, "text": "झोपणे", "is_correct": false }
+      ],
+      "answer": "भाव व्यक्त करणे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "कोणत्या नृत्यात हस्तमुद्रांचा वापर जास्त होतो?",
+      "options": [
+        { "option_id": 1, "text": "डिस्को", "is_correct": false },
+        { "option_id": 2, "text": "शास्त्रीय नृत्य (उदा. भरतनाट्यम)", "is_correct": true },
+        { "option_id": 3, "text": "ब्रेक डान्स", "is_correct": false },
+        { "option_id": 4, "text": "सल्सा", "is_correct": false }
+      ],
+      "answer": "शास्त्रीय नृत्य (उदा. भरतनाट्यम)"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "'माझे छायाचित्र' या उपक्रमात काय करायचे असते?",
+      "options": [
+        { "option_id": 1, "text": "फोटो काढायचा असतो", "is_correct": false },
+        { "option_id": 2, "text": "नृत्य करताना विविध पोझ (Poses) द्यायच्या असतात", "is_correct": true },
+        { "option_id": 3, "text": "चित्र काढायचे असते", "is_correct": false },
+        { "option_id": 4, "text": "गाणे म्हणायचे असते", "is_correct": false }
+      ],
+      "answer": "नृत्य करताना विविध पोझ (Poses) द्यायच्या असतात"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "पताका मुद्रेत अंगठा कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "सरळ", "is_correct": false },
+        { "option_id": 2, "text": "किंचित आतल्या बाजूस वळलेला", "is_correct": true },
+        { "option_id": 3, "text": "बाहेर वळलेला", "is_correct": false },
+        { "option_id": 4, "text": "दुमडलेला", "is_correct": false }
+      ],
+      "answer": "किंचित आतल्या बाजूस वळलेला"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "अभिनयगीतात पावसाळ्यातील कोणते वातावरण वर्णन केले आहे?",
+      "options": [
+        { "option_id": 1, "text": "उष्ण", "is_correct": false },
+        { "option_id": 2, "text": "गार गार वारा आणि पाणी", "is_correct": true },
+        { "option_id": 3, "text": "कोरडे", "is_correct": false },
+        { "option_id": 4, "text": "धूळयुक्त", "is_correct": false }
+      ],
+      "answer": "गार गार वारा आणि पाणी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "नृत्यात सौंदर्याची भर कोण घालते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ रंगमंच", "is_correct": false },
+        { "option_id": 2, "text": "हस्तमुद्रा आणि हावभाव", "is_correct": true },
+        { "option_id": 3, "text": "केवळ प्रकाश", "is_correct": false },
+        { "option_id": 4, "text": "केवळ प्रेक्षक", "is_correct": false }
+      ],
+      "answer": "हस्तमुद्रा आणि हावभाव"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "संयुक्त हस्तमुद्रा करण्यासाठी किती हातांची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कोणत्या मुद्रेने देवाला नमस्कार केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "पताका", "is_correct": false },
+        { "option_id": 2, "text": "शिखर", "is_correct": false },
+        { "option_id": 3, "text": "अंजली (मस्तकावर धरून)", "is_correct": true },
+        { "option_id": 4, "text": "मुष्टी", "is_correct": false }
+      ],
+      "answer": "अंजली (मस्तकावर धरून)"
+    }
+  ],
+  "short_answer_questions": [
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "हस्तमुद्रा म्हणजे काय?",
+      "answer": "नृत्य करताना गाण्यातील आशयानुसार हातांच्या बोटांचे वेगवेगळे आकार करून जो आंतरिक भाव दाखवला जातो, त्यास हस्तमुद्रा म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "असंयुक्त हस्तमुद्रा म्हणजे काय?",
+      "answer": "एका हाताने केल्या जाणाऱ्या हस्तमुद्रांना असंयुक्त हस्तमुद्रा म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "संयुक्त हस्तमुद्रा म्हणजे काय?",
+      "answer": "दोन हातांनी मिळून केलेल्या एकाच मुद्रेला संयुक्त हस्तमुद्रा म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मिश्र हस्तमुद्रा म्हणजे काय?",
+      "answer": "दोन हातांनी मिळून केल्या जाणाऱ्या, परंतु वेगवेगळ्या कृती दर्शवणाऱ्या मुद्रांना मिश्र हस्तमुद्रा म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पताका मुद्रा कशी करतात?",
+      "answer": "हाताची चारही बोटे सरळ ताठ ठेवून अंगठा किंचित आतल्या बाजूस वळवून पताका मुद्रा करतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पताका मुद्रेचे दोन उपयोग सांगा.",
+      "answer": "नृत्यारंभ करणे आणि चंदन लावणे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "अंजली मुद्रा कशी करतात?",
+      "answer": "दोन्ही हातांच्या पताका मुद्रा समोरासमोर एकत्र जोडून अंजली मुद्रा करतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "देवतेस नमस्कार करण्यासाठी अंजली मुद्रा कोठे धरावी?",
+      "answer": "मस्तकाच्या एकदम वर."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "गुरूस नमस्कार करण्यासाठी अंजली मुद्रा कोठे धरावी?",
+      "answer": "तोंडासमोर."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "प्रजेस नमस्कार करण्यासाठी अंजली मुद्रा कोठे धरावी?",
+      "answer": "छातीसमोर."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "शिखर मुद्रेचा उपयोग कशासाठी होतो?",
+      "answer": "कळस किंवा टोक दाखवण्यासाठी आणि शस्त्र धारण करण्यासाठी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "प्रश्न विचारण्यासाठी कोणती मुद्रा वापरतात?",
+      "answer": "शिखर मुद्रा."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "शपथ घेण्यासाठी कोणती मुद्रा वापरतात?",
+      "answer": "पताका मुद्रा."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "दूर अंतरावरील व्यक्तीस बोलावण्यासाठी कोणती मुद्रा वापरतात?",
+      "answer": "पताका मुद्रा."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "अभिनयगीत म्हणजे काय?",
+      "answer": "ज्या गीतात शब्दांनुसार हावभाव आणि कृती केली जाते, त्याला अभिनयगीत म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "'पाऊस आला' या गाण्यात आजोबा काय करायला सांगतात?",
+      "answer": "आजोबा खिडक्या दारे लावायला सांगतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "'पाऊस आला' या गाण्यात मुले काय करायला सांगतात?",
+      "answer": "मुले खिडक्या दारे उघडून, ओले होऊन नाचू गाऊ असे सांगतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "चहात आले का घालावे?",
+      "answer": "सर्दी पडसे होऊ नये म्हणून चहात आले घालावे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "गार वारा काय करतो?",
+      "answer": "गार वारा सर्वांना गारा वेचायला हाक मारतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "नृत्यात सौंदर्याची भर कोण घालते?",
+      "answer": "हस्तमुद्रा आणि चेहऱ्यावरील हावभाव."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "नृत्य प्रकार कसा ओळखता येतो?",
+      "answer": "नृत्य करणाऱ्याच्या वेशभूषेवरून आणि हालचालींवरून."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "माझे छायाचित्र (Pose) म्हणजे काय?",
+      "answer": "नृत्य करताना एखाद्या विशिष्ट क्षणी थांबून जो स्थिर अविर्भाव घेतला जातो, त्याला छायाचित्र (Pose) म्हणतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "तुम्हाला माहित असलेल्या एका नृत्य प्रकाराचे नाव सांगा.",
+      "answer": "कोळीनृत्य, लावणी, भरतनाट्यम, कथक इत्यादी."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "शास्त्रीय नृत्यात हस्तमुद्रा महत्त्वाच्या का आहेत?",
+      "answer": "कारण त्या कथेचा अर्थ आणि भावना मूकपणे व्यक्त करतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "नृत्यामुळे काय फायदा होतो?",
+      "answer": "शरीर लवचिक होते, मन आनंदी राहते आणि एकाग्रता वाढते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "तुम्ही नृत्याचे प्रदर्शन कोठे कराल?",
+      "answer": "शाळेच्या स्नेहसंमेलनात किंवा वर्गात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पताका मुद्रेचा उपयोग स्पर्श करण्यासाठी कसा होतो?",
+      "answer": "बोटांच्या सहाय्याने हळूवार स्पर्श करण्याचे भाव दाखवून."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "संयुक्त हस्तमुद्रेचे अजून एक उदाहरण सांगा.",
+      "answer": "कर्कट, स्वस्तिक, डोला, पुष्पपुट."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "असंयुक्त हस्तमुद्रेचे अजून एक उदाहरण सांगा.",
+      "answer": "त्रिपताका, अर्द्रचंद्र, मुष्टी, शिखऱ."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पाऊस पडल्यावर निसर्गात काय बदल होतो?",
+      "answer": "जिकडेतिकडे पाणीच पाणी होते आणि गारवा निर्माण होतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "स्वेटर आणि टोप्या कशासाठी घालाव्या?",
+      "answer": "थंडीपासून संरक्षण करण्यासाठी."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "नृत्यात लय म्हणजे काय?",
+      "answer": "नृत्याच्या हालचालींचा वेग म्हणजे लय."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "शिखर मुद्रेत अंगठा कसा असतो?",
+      "answer": "शिखर मुद्रेत अंगठा वरच्या दिशेला (शिखरासारखा) असतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "नृत्याची आवड कशी जोपासावी?",
+      "answer": "नृत्याचे कार्यक्रम पाहून आणि नियमित सराव करून."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "तुम्ही नृत्याची चित्रे गोळा करून काय कराल?",
+      "answer": "मी ती चिकटवहीत चिकटवून संग्रह करेन."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "अभिनयगीत गाताना चेहऱ्यावर काय असावे?",
+      "answer": "गीताच्या अर्थानुसार योग्य हावभाव असावेत."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "नृत्यात पाठांतर आवश्यक आहे का?",
+      "answer": "हो, नृत्याच्या हालचाली आणि मुद्रा लक्षात ठेवण्यासाठी सराव आवश्यक आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "अंजली मुद्रा आणि नमस्कार यात काय साम्य आहे?",
+      "answer": "अंजली मुद्रा हीच नमस्काराची मुद्रा आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "पताका मुद्रा आशीर्वाद देण्यासाठी कशी वापरतात?",
+      "answer": "हाताचा तळवा समोरच्या व्यक्तीकडे करून आशीर्वाद देतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "नृत्य शिकण्यासाठी कोणाचे मार्गदर्शन घ्यावे?",
+      "answer": "नृत्य शिक्षकाचे किंवा गुरूंचे मार्गदर्शन घ्यावे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "तुमच्या आवडत्या नृत्याचे नाव सांगा.",
+      "answer": "(विद्यार्थी त्यांच्या आवडीनुसार उत्तर देतील, उदा. गरबा, भांगडा)."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "पाऊस आल्यावर तुम्ही काय करता?",
+      "answer": "मी पावसात भिजतो, कागदाच्या होड्या सोडतो आणि मज्जा करतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "नृत्यात तालाचे महत्त्व काय?",
+      "answer": "तालामुळे नृत्याला गती आणि शिस्त येते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हस्तमुद्रांमुळे काय सोपे होते?",
+      "answer": "शब्द न बोलता संवाद साधणे आणि भावना व्यक्त करणे सोपे होते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "कोणत्याही कार्यक्रमाची सुरुवात नृत्याने करता येते का?",
+      "answer": "हो, गणेशवंदना किंवा स्वागत नृत्याने करता येते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "नृत्यात वेशभूषा का महत्त्वाची असते?",
+      "answer": "नृत्याचा प्रकार आणि पात्र ओळखण्यासाठी वेशभूषा महत्त्वाची असते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पावसाळ्यातील एक गीत सांगा.",
+      "answer": "येरे येरे पावसा, नाच रे मोरा इत्यादी."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "नृत्य करताना स्टेजची भीती कशी घालवावी?",
+      "answer": "भरपूर सराव करून आणि आत्मविश्वासाने सादर करून."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "संयुक्त आणि असंयुक्त मुद्रेत मुख्य फरक काय?",
+      "answer": "संयुक्त मुद्रा दोन हातांनी करतात, तर असंयुक्त मुद्रा एका हाताने करतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "नृत्य हा कशाचा भाग आहे?",
+      "answer": "नृत्य हा कला शिक्षणाचा आणि आपल्या संस्कृतीचा भाग आहे."
+    }
+  ]
+}
