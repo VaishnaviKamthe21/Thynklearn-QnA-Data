@@ -1,8 +1,8 @@
 {
   "chapter_metadata": {
-    "chapter_id": "10.Science.1.2",
+    "chapter_id": "10.Science.2",
     "standard": "10",
-    "subject": "Science",
+    "subject": "Science1",
     "medium": "English",
     "chapter_name": "Periodic Classification of Elements"
   },
@@ -12,10 +12,26 @@
       "question_type": "MCQ",
       "question": "What is a major demerit of Mendeleev’s periodic table regarding cobalt and nickel?",
       "options": [
-        { "option_id": 1, "text": "They have the same atomic number", "is_correct": false },
-        { "option_id": 2, "text": "They have the same atomic mass", "is_correct": true },
-        { "option_id": 3, "text": "They are both metals", "is_correct": false },
-        { "option_id": 4, "text": "They are both gases", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "They have the same atomic number",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They have the same atomic mass",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They are both metals",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They are both gases",
+          "is_correct": false
+        }
       ],
       "answer": "They have the same atomic mass"
     },
@@ -24,10 +40,26 @@
       "question_type": "MCQ",
       "question": "Why was the placement of isotopes a problem in Mendeleev’s periodic table?",
       "options": [
-        { "option_id": 1, "text": "Isotopes have different chemical properties", "is_correct": false },
-        { "option_id": 2, "text": "Isotopes have the same chemical properties but different atomic masses", "is_correct": true },
-        { "option_id": 3, "text": "Isotopes do not exist in nature", "is_correct": false },
-        { "option_id": 4, "text": "Isotopes are unstable", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Isotopes have different chemical properties",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Isotopes have the same chemical properties but different atomic masses",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Isotopes do not exist in nature",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Isotopes are unstable",
+          "is_correct": false
+        }
       ],
       "answer": "Isotopes have the same chemical properties but different atomic masses"
     },
@@ -36,10 +68,26 @@
       "question_type": "MCQ",
       "question": "What is the basis of the modern periodic law?",
       "options": [
-        { "option_id": 1, "text": "Atomic mass of elements", "is_correct": false },
-        { "option_id": 2, "text": "Valency of elements", "is_correct": false },
-        { "option_id": 3, "text": "Atomic number of elements", "is_correct": true },
-        { "option_id": 4, "text": "Density of elements", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Atomic mass of elements",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Valency of elements",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Atomic number of elements",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Density of elements",
+          "is_correct": false
+        }
       ],
       "answer": "Atomic number of elements"
     },
@@ -48,10 +96,26 @@
       "question_type": "MCQ",
       "question": "Which group contains the alkali metals in the modern periodic table?",
       "options": [
-        { "option_id": 1, "text": "Group 1", "is_correct": true },
-        { "option_id": 2, "text": "Group 2", "is_correct": false },
-        { "option_id": 3, "text": "Group 17", "is_correct": false },
-        { "option_id": 4, "text": "Group 18", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Group 1",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Group 2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Group 17",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Group 18",
+          "is_correct": false
+        }
       ],
       "answer": "Group 1"
     },
@@ -60,10 +124,26 @@
       "question_type": "MCQ",
       "question": "What is the characteristic of elements in the same group?",
       "options": [
-        { "option_id": 1, "text": "They have same number of electron shells", "is_correct": false },
-        { "option_id": 2, "text": "They have same number of valence electrons", "is_correct": true },
-        { "option_id": 3, "text": "They have same atomic mass", "is_correct": false },
-        { "option_id": 4, "text": "They have same reactivity with water", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "They have same number of electron shells",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They have same number of valence electrons",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They have same atomic mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They have same reactivity with water",
+          "is_correct": false
+        }
       ],
       "answer": "They have same number of valence electrons"
     },
@@ -72,10 +152,26 @@
       "question_type": "MCQ",
       "question": "Which block in the modern periodic table contains the transition elements?",
       "options": [
-        { "option_id": 1, "text": "s-block", "is_correct": false },
-        { "option_id": 2, "text": "p-block", "is_correct": false },
-        { "option_id": 3, "text": "d-block", "is_correct": true },
-        { "option_id": 4, "text": "f-block", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "s-block",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "p-block",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "d-block",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "f-block",
+          "is_correct": false
+        }
       ],
       "answer": "d-block"
     },
@@ -84,10 +180,26 @@
       "question_type": "MCQ",
       "question": "Which series is placed separately at the bottom of the modern periodic table?",
       "options": [
-        { "option_id": 1, "text": "Alkali metals", "is_correct": false },
-        { "option_id": 2, "text": "Lanthanide and Actinide series", "is_correct": true },
-        { "option_id": 3, "text": "Halogens", "is_correct": false },
-        { "option_id": 4, "text": "Noble gases", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Alkali metals",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lanthanide and Actinide series",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Halogens",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noble gases",
+          "is_correct": false
+        }
       ],
       "answer": "Lanthanide and Actinide series"
     },
@@ -96,10 +208,26 @@
       "question_type": "MCQ",
       "question": "In a period, how do properties of elements change from left to right?",
       "options": [
-        { "option_id": 1, "text": "Change rapidly and unpredictably", "is_correct": false },
-        { "option_id": 2, "text": "Remain the same", "is_correct": false },
-        { "option_id": 3, "text": "Change slowly and gradually", "is_correct": true },
-        { "option_id": 4, "text": "Become nonmetallic only", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Change rapidly and unpredictably",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Remain the same",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Change slowly and gradually",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Become nonmetallic only",
+          "is_correct": false
+        }
       ],
       "answer": "Change slowly and gradually"
     },
@@ -108,10 +236,26 @@
       "question_type": "MCQ",
       "question": "Why does atomic radius decrease across a period from left to right?",
       "options": [
-        { "option_id": 1, "text": "Because new shells are added", "is_correct": false },
-        { "option_id": 2, "text": "Because nuclear charge increases while outer electrons are in the same shell", "is_correct": true },
-        { "option_id": 3, "text": "Because valence electrons are lost", "is_correct": false },
-        { "option_id": 4, "text": "Because elements become metals", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Because new shells are added",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Because nuclear charge increases while outer electrons are in the same shell",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Because valence electrons are lost",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Because elements become metals",
+          "is_correct": false
+        }
       ],
       "answer": "Because nuclear charge increases while outer electrons are in the same shell"
     },
@@ -120,10 +264,26 @@
       "question_type": "MCQ",
       "question": "Which property increases while going down a group in the periodic table?",
       "options": [
-        { "option_id": 1, "text": "Electronegativity", "is_correct": false },
-        { "option_id": 2, "text": "Metallic character", "is_correct": true },
-        { "option_id": 3, "text": "Nonmetallic character", "is_correct": false },
-        { "option_id": 4, "text": "Valency", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Electronegativity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Metallic character",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nonmetallic character",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Valency",
+          "is_correct": false
+        }
       ],
       "answer": "Metallic character"
     },
@@ -132,10 +292,26 @@
       "question_type": "MCQ",
       "question": "What is the general formula of halogens?",
       "options": [
-        { "option_id": 1, "text": "X2", "is_correct": true },
-        { "option_id": 2, "text": "XCl", "is_correct": false },
-        { "option_id": 3, "text": "XO", "is_correct": false },
-        { "option_id": 4, "text": "XOH", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "X2",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "XCl",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "XO",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "XOH",
+          "is_correct": false
+        }
       ],
       "answer": "X2"
     },
@@ -144,10 +320,26 @@
       "question_type": "MCQ",
       "question": "Which element has the highest electronegativity in period 2?",
       "options": [
-        { "option_id": 1, "text": "Lithium", "is_correct": false },
-        { "option_id": 2, "text": "Fluorine", "is_correct": true },
-        { "option_id": 3, "text": "Carbon", "is_correct": false },
-        { "option_id": 4, "text": "Oxygen", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fluorine",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Carbon",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oxygen",
+          "is_correct": false
+        }
       ],
       "answer": "Fluorine"
     },
@@ -156,10 +348,26 @@
       "question_type": "MCQ",
       "question": "What determines the group of an element in the modern periodic table?",
       "options": [
-        { "option_id": 1, "text": "Atomic mass", "is_correct": false },
-        { "option_id": 2, "text": "Number of shells", "is_correct": false },
-        { "option_id": 3, "text": "Number of valence electrons", "is_correct": true },
-        { "option_id": 4, "text": "Density", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Atomic mass",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Number of shells",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Number of valence electrons",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Density",
+          "is_correct": false
+        }
       ],
       "answer": "Number of valence electrons"
     },
@@ -168,10 +376,26 @@
       "question_type": "MCQ",
       "question": "Which element has the smallest atomic radius among Li, Be, B, C, N, O, F?",
       "options": [
-        { "option_id": 1, "text": "Lithium", "is_correct": false },
-        { "option_id": 2, "text": "Beryllium", "is_correct": false },
-        { "option_id": 3, "text": "Fluorine", "is_correct": true },
-        { "option_id": 4, "text": "Carbon", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Beryllium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fluorine",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Carbon",
+          "is_correct": false
+        }
       ],
       "answer": "Fluorine"
     },
@@ -180,10 +404,26 @@
       "question_type": "MCQ",
       "question": "Which block of the modern periodic table contains nonmetals?",
       "options": [
-        { "option_id": 1, "text": "s-block", "is_correct": false },
-        { "option_id": 2, "text": "p-block", "is_correct": true },
-        { "option_id": 3, "text": "d-block", "is_correct": false },
-        { "option_id": 4, "text": "f-block", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "s-block",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "p-block",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "d-block",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "f-block",
+          "is_correct": false
+        }
       ],
       "answer": "p-block"
     },
@@ -192,10 +432,26 @@
       "question_type": "MCQ",
       "question": "Which period has elements with electrons in shells K, L and M?",
       "options": [
-        { "option_id": 1, "text": "Period 1", "is_correct": false },
-        { "option_id": 2, "text": "Period 2", "is_correct": false },
-        { "option_id": 3, "text": "Period 3", "is_correct": true },
-        { "option_id": 4, "text": "Period 4", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Period 1",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Period 2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Period 3",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Period 4",
+          "is_correct": false
+        }
       ],
       "answer": "Period 3"
     },
@@ -204,10 +460,26 @@
       "question_type": "MCQ",
       "question": "Which element is most metallic among Be, C, O, Li?",
       "options": [
-        { "option_id": 1, "text": "Beryllium", "is_correct": false },
-        { "option_id": 2, "text": "Carbon", "is_correct": false },
-        { "option_id": 3, "text": "Oxygen", "is_correct": false },
-        { "option_id": 4, "text": "Lithium", "is_correct": true }
+        {
+          "option_id": 1,
+          "text": "Beryllium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carbon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lithium",
+          "is_correct": true
+        }
       ],
       "answer": "Lithium"
     },
@@ -216,10 +488,26 @@
       "question_type": "MCQ",
       "question": "Which element has the highest nonmetallic character among Be, C, O, Li?",
       "options": [
-        { "option_id": 1, "text": "Beryllium", "is_correct": false },
-        { "option_id": 2, "text": "Carbon", "is_correct": false },
-        { "option_id": 3, "text": "Oxygen", "is_correct": true },
-        { "option_id": 4, "text": "Lithium", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Beryllium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carbon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Oxygen",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Lithium",
+          "is_correct": false
+        }
       ],
       "answer": "Oxygen"
     },
@@ -228,10 +516,26 @@
       "question_type": "MCQ",
       "question": "Which element among Na, Mg, Al, Si, P has the largest atomic radius?",
       "options": [
-        { "option_id": 1, "text": "Sodium", "is_correct": true },
-        { "option_id": 2, "text": "Magnesium", "is_correct": false },
-        { "option_id": 3, "text": "Aluminium", "is_correct": false },
-        { "option_id": 4, "text": "Silicon", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Sodium",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Magnesium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aluminium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silicon",
+          "is_correct": false
+        }
       ],
       "answer": "Sodium"
     },
@@ -240,10 +544,26 @@
       "question_type": "MCQ",
       "question": "Which property decreases while going from left to right in a period?",
       "options": [
-        { "option_id": 1, "text": "Atomic radius", "is_correct": true },
-        { "option_id": 2, "text": "Electronegativity", "is_correct": false },
-        { "option_id": 3, "text": "Nonmetallic character", "is_correct": false },
-        { "option_id": 4, "text": "Valency", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Atomic radius",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Electronegativity",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nonmetallic character",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Valency",
+          "is_correct": false
+        }
       ],
       "answer": "Atomic radius"
     },
@@ -252,10 +572,26 @@
       "question_type": "MCQ",
       "question": "Which element is a noble gas?",
       "options": [
-        { "option_id": 1, "text": "Helium", "is_correct": true },
-        { "option_id": 2, "text": "Sodium", "is_correct": false },
-        { "option_id": 3, "text": "Carbon", "is_correct": false },
-        { "option_id": 4, "text": "Oxygen", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Helium",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sodium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carbon",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oxygen",
+          "is_correct": false
+        }
       ],
       "answer": "Helium"
     },
@@ -264,10 +600,26 @@
       "question_type": "MCQ",
       "question": "Which group in the modern periodic table is called the halogens?",
       "options": [
-        { "option_id": 1, "text": "Group 17", "is_correct": true },
-        { "option_id": 2, "text": "Group 16", "is_correct": false },
-        { "option_id": 3, "text": "Group 1", "is_correct": false },
-        { "option_id": 4, "text": "Group 18", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Group 17",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Group 16",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Group 1",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Group 18",
+          "is_correct": false
+        }
       ],
       "answer": "Group 17"
     },
@@ -276,10 +628,26 @@
       "question_type": "MCQ",
       "question": "Which property of elements increases across a period from left to right?",
       "options": [
-        { "option_id": 1, "text": "Atomic radius", "is_correct": false },
-        { "option_id": 2, "text": "Electronegativity", "is_correct": true },
-        { "option_id": 3, "text": "Metallic character", "is_correct": false },
-        { "option_id": 4, "text": "Number of shells", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Atomic radius",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electronegativity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Metallic character",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Number of shells",
+          "is_correct": false
+        }
       ],
       "answer": "Electronegativity"
     },
@@ -288,10 +656,26 @@
       "question_type": "MCQ",
       "question": "Which element among Li, Be, B, C has the highest metallic character?",
       "options": [
-        { "option_id": 1, "text": "Lithium", "is_correct": true },
-        { "option_id": 2, "text": "Beryllium", "is_correct": false },
-        { "option_id": 3, "text": "Boron", "is_correct": false },
-        { "option_id": 4, "text": "Carbon", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Lithium",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Beryllium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Boron",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carbon",
+          "is_correct": false
+        }
       ],
       "answer": "Lithium"
     },
@@ -300,10 +684,26 @@
       "question_type": "MCQ",
       "question": "Which element among Na, Mg, Al, Si has the highest electronegativity?",
       "options": [
-        { "option_id": 1, "text": "Sodium", "is_correct": false },
-        { "option_id": 2, "text": "Magnesium", "is_correct": false },
-        { "option_id": 3, "text": "Aluminium", "is_correct": false },
-        { "option_id": 4, "text": "Silicon", "is_correct": true }
+        {
+          "option_id": 1,
+          "text": "Sodium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magnesium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aluminium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silicon",
+          "is_correct": true
+        }
       ],
       "answer": "Silicon"
     },
@@ -312,10 +712,26 @@
       "question_type": "MCQ",
       "question": "Which series includes the f-block elements?",
       "options": [
-        { "option_id": 1, "text": "Lanthanides and Actinides", "is_correct": true },
-        { "option_id": 2, "text": "Alkali metals", "is_correct": false },
-        { "option_id": 3, "text": "Halogens", "is_correct": false },
-        { "option_id": 4, "text": "Noble gases", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Lanthanides and Actinides",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alkali metals",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Halogens",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noble gases",
+          "is_correct": false
+        }
       ],
       "answer": "Lanthanides and Actinides"
     },
@@ -324,10 +740,26 @@
       "question_type": "MCQ",
       "question": "Which property is generally the same for elements in a group?",
       "options": [
-        { "option_id": 1, "text": "Atomic radius", "is_correct": false },
-        { "option_id": 2, "text": "Number of valence electrons", "is_correct": true },
-        { "option_id": 3, "text": "Electronegativity", "is_correct": false },
-        { "option_id": 4, "text": "Metallic character", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Atomic radius",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Number of valence electrons",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Electronegativity",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Metallic character",
+          "is_correct": false
+        }
       ],
       "answer": "Number of valence electrons"
     },
@@ -336,10 +768,26 @@
       "question_type": "MCQ",
       "question": "What is the valency of oxygen in most compounds?",
       "options": [
-        { "option_id": 1, "text": "1", "is_correct": false },
-        { "option_id": 2, "text": "2", "is_correct": true },
-        { "option_id": 3, "text": "3", "is_correct": false },
-        { "option_id": 4, "text": "4", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "4",
+          "is_correct": false
+        }
       ],
       "answer": "2"
     },
@@ -348,10 +796,26 @@
       "question_type": "MCQ",
       "question": "Which element is a halogen with the highest atomic number?",
       "options": [
-        { "option_id": 1, "text": "Fluorine", "is_correct": false },
-        { "option_id": 2, "text": "Chlorine", "is_correct": false },
-        { "option_id": 3, "text": "Iodine", "is_correct": false },
-        { "option_id": 4, "text": "Astatine", "is_correct": true }
+        {
+          "option_id": 1,
+          "text": "Fluorine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Chlorine",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Iodine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Astatine",
+          "is_correct": true
+        }
       ],
       "answer": "Astatine"
     },
@@ -360,10 +824,26 @@
       "question_type": "MCQ",
       "question": "Which property decreases down a group in the periodic table?",
       "options": [
-        { "option_id": 1, "text": "Atomic radius", "is_correct": false },
-        { "option_id": 2, "text": "Electronegativity", "is_correct": true },
-        { "option_id": 3, "text": "Metallic character", "is_correct": false },
-        { "option_id": 4, "text": "Number of shells", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Atomic radius",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Electronegativity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Metallic character",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Number of shells",
+          "is_correct": false
+        }
       ],
       "answer": "Electronegativity"
     },
@@ -372,10 +852,26 @@
       "question_type": "MCQ",
       "question": "Which property generally increases down a group?",
       "options": [
-        { "option_id": 1, "text": "Atomic size", "is_correct": true },
-        { "option_id": 2, "text": "Electronegativity", "is_correct": false },
-        { "option_id": 3, "text": "Ionization energy", "is_correct": false },
-        { "option_id": 4, "text": "Nonmetallic character", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Atomic size",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Electronegativity",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ionization energy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nonmetallic character",
+          "is_correct": false
+        }
       ],
       "answer": "Atomic size"
     },
@@ -384,10 +880,26 @@
       "question_type": "MCQ",
       "question": "Which element in period 3 has the smallest atomic radius?",
       "options": [
-        { "option_id": 1, "text": "Sodium", "is_correct": false },
-        { "option_id": 2, "text": "Magnesium", "is_correct": false },
-        { "option_id": 3, "text": "Chlorine", "is_correct": true },
-        { "option_id": 4, "text": "Aluminium", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Sodium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magnesium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chlorine",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Aluminium",
+          "is_correct": false
+        }
       ],
       "answer": "Chlorine"
     },
@@ -396,10 +908,26 @@
       "question_type": "MCQ",
       "question": "Which is a d-block element?",
       "options": [
-        { "option_id": 1, "text": "Iron", "is_correct": true },
-        { "option_id": 2, "text": "Sodium", "is_correct": false },
-        { "option_id": 3, "text": "Oxygen", "is_correct": false },
-        { "option_id": 4, "text": "Fluorine", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sodium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Oxygen",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fluorine",
+          "is_correct": false
+        }
       ],
       "answer": "Iron"
     },
@@ -408,10 +936,26 @@
       "question_type": "MCQ",
       "question": "Which is the correct order of increasing metallic character in period 3?",
       "options": [
-        { "option_id": 1, "text": "Na < Mg < Al < Si < P < S < Cl", "is_correct": false },
-        { "option_id": 2, "text": "Cl < S < P < Si < Al < Mg < Na", "is_correct": true },
-        { "option_id": 3, "text": "Na < Mg < Al < Si < P < S < Cl", "is_correct": false },
-        { "option_id": 4, "text": "Cl > S > P > Si > Al > Mg > Na", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Na < Mg < Al < Si < P < S < Cl",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cl < S < P < Si < Al < Mg < Na",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Na < Mg < Al < Si < P < S < Cl",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cl > S > P > Si > Al > Mg > Na",
+          "is_correct": false
+        }
       ],
       "answer": "Cl < S < P < Si < Al < Mg < Na"
     },
@@ -420,10 +964,26 @@
       "question_type": "MCQ",
       "question": "Which group is called the noble gases?",
       "options": [
-        { "option_id": 1, "text": "Group 1", "is_correct": false },
-        { "option_id": 2, "text": "Group 17", "is_correct": false },
-        { "option_id": 3, "text": "Group 18", "is_correct": true },
-        { "option_id": 4, "text": "Group 16", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Group 1",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Group 17",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Group 18",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Group 16",
+          "is_correct": false
+        }
       ],
       "answer": "Group 18"
     },
@@ -432,10 +992,26 @@
       "question_type": "MCQ",
       "question": "Which property is directly related to nuclear charge?",
       "options": [
-        { "option_id": 1, "text": "Atomic radius", "is_correct": true },
-        { "option_id": 2, "text": "Valency", "is_correct": false },
-        { "option_id": 3, "text": "Number of shells", "is_correct": false },
-        { "option_id": 4, "text": "Metallic character", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Atomic radius",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Valency",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Number of shells",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Metallic character",
+          "is_correct": false
+        }
       ],
       "answer": "Atomic radius"
     },
@@ -444,10 +1020,26 @@
       "question_type": "MCQ",
       "question": "Which element in period 2 has the highest ionization energy?",
       "options": [
-        { "option_id": 1, "text": "Lithium", "is_correct": false },
-        { "option_id": 2, "text": "Beryllium", "is_correct": false },
-        { "option_id": 3, "text": "Fluorine", "is_correct": true },
-        { "option_id": 4, "text": "Boron", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Beryllium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fluorine",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Boron",
+          "is_correct": false
+        }
       ],
       "answer": "Fluorine"
     },
@@ -456,10 +1048,26 @@
       "question_type": "MCQ",
       "question": "Which element has the general electronic configuration ns2 np5?",
       "options": [
-        { "option_id": 1, "text": "Halogens", "is_correct": true },
-        { "option_id": 2, "text": "Alkali metals", "is_correct": false },
-        { "option_id": 3, "text": "Alkaline earth metals", "is_correct": false },
-        { "option_id": 4, "text": "Noble gases", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Halogens",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Alkali metals",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Alkaline earth metals",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noble gases",
+          "is_correct": false
+        }
       ],
       "answer": "Halogens"
     },
@@ -468,10 +1076,26 @@
       "question_type": "MCQ",
       "question": "Which element is in group 2, period 3?",
       "options": [
-        { "option_id": 1, "text": "Magnesium", "is_correct": true },
-        { "option_id": 2, "text": "Sodium", "is_correct": false },
-        { "option_id": 3, "text": "Aluminium", "is_correct": false },
-        { "option_id": 4, "text": "Phosphorus", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Magnesium",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sodium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aluminium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Phosphorus",
+          "is_correct": false
+        }
       ],
       "answer": "Magnesium"
     },
@@ -480,10 +1104,26 @@
       "question_type": "MCQ",
       "question": "Which property is mostly responsible for chemical reactivity in a group?",
       "options": [
-        { "option_id": 1, "text": "Number of shells", "is_correct": false },
-        { "option_id": 2, "text": "Number of valence electrons", "is_correct": true },
-        { "option_id": 3, "text": "Atomic radius", "is_correct": false },
-        { "option_id": 4, "text": "Density", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Number of shells",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Number of valence electrons",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Atomic radius",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Density",
+          "is_correct": false
+        }
       ],
       "answer": "Number of valence electrons"
     },
@@ -492,10 +1132,26 @@
       "question_type": "MCQ",
       "question": "Which property decreases across a period due to increased nuclear charge?",
       "options": [
-        { "option_id": 1, "text": "Atomic radius", "is_correct": true },
-        { "option_id": 2, "text": "Electronegativity", "is_correct": false },
-        { "option_id": 3, "text": "Valency", "is_correct": false },
-        { "option_id": 4, "text": "Nonmetallic character", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Atomic radius",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Electronegativity",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Valency",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nonmetallic character",
+          "is_correct": false
+        }
       ],
       "answer": "Atomic radius"
     },
@@ -504,10 +1160,26 @@
       "question_type": "MCQ",
       "question": "Which block contains the s and p block elements together?",
       "options": [
-        { "option_id": 1, "text": "Main group elements", "is_correct": true },
-        { "option_id": 2, "text": "Transition elements", "is_correct": false },
-        { "option_id": 3, "text": "Inner transition elements", "is_correct": false },
-        { "option_id": 4, "text": "Noble gases", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Main group elements",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Transition elements",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Inner transition elements",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noble gases",
+          "is_correct": false
+        }
       ],
       "answer": "Main group elements"
     },
@@ -516,10 +1188,26 @@
       "question_type": "MCQ",
       "question": "Which element in period 2 has the smallest atomic radius?",
       "options": [
-        { "option_id": 1, "text": "Lithium", "is_correct": false },
-        { "option_id": 2, "text": "Fluorine", "is_correct": true },
-        { "option_id": 3, "text": "Carbon", "is_correct": false },
-        { "option_id": 4, "text": "Beryllium", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fluorine",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Carbon",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Beryllium",
+          "is_correct": false
+        }
       ],
       "answer": "Fluorine"
     },
@@ -528,10 +1216,26 @@
       "question_type": "MCQ",
       "question": "Which element is in group 1, period 4?",
       "options": [
-        { "option_id": 1, "text": "Potassium", "is_correct": true },
-        { "option_id": 2, "text": "Sodium", "is_correct": false },
-        { "option_id": 3, "text": "Lithium", "is_correct": false },
-        { "option_id": 4, "text": "Rubidium", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Potassium",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sodium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lithium",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rubidium",
+          "is_correct": false
+        }
       ],
       "answer": "Potassium"
     },
@@ -540,10 +1244,26 @@
       "question_type": "MCQ",
       "question": "Which element is more metallic: Ca or Sr?",
       "options": [
-        { "option_id": 1, "text": "Calcium", "is_correct": false },
-        { "option_id": 2, "text": "Strontium", "is_correct": true },
-        { "option_id": 3, "text": "Both same", "is_correct": false },
-        { "option_id": 4, "text": "None of these", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Calcium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Strontium",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Both same",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "None of these",
+          "is_correct": false
+        }
       ],
       "answer": "Strontium"
     },
@@ -552,10 +1272,26 @@
       "question_type": "MCQ",
       "question": "Which group contains elements with ns2 configuration?",
       "options": [
-        { "option_id": 1, "text": "Alkali metals", "is_correct": false },
-        { "option_id": 2, "text": "Alkaline earth metals", "is_correct": true },
-        { "option_id": 3, "text": "Halogens", "is_correct": false },
-        { "option_id": 4, "text": "Noble gases", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Alkali metals",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alkaline earth metals",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Halogens",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noble gases",
+          "is_correct": false
+        }
       ],
       "answer": "Alkaline earth metals"
     },
@@ -564,10 +1300,26 @@
       "question_type": "MCQ",
       "question": "Which element is most electronegative in group 17?",
       "options": [
-        { "option_id": 1, "text": "Fluorine", "is_correct": true },
-        { "option_id": 2, "text": "Chlorine", "is_correct": false },
-        { "option_id": 3, "text": "Bromine", "is_correct": false },
-        { "option_id": 4, "text": "Iodine", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Fluorine",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Chlorine",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bromine",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Iodine",
+          "is_correct": false
+        }
       ],
       "answer": "Fluorine"
     },
@@ -576,10 +1328,26 @@
       "question_type": "MCQ",
       "question": "Which element in period 3 has the highest ionization energy?",
       "options": [
-        { "option_id": 1, "text": "Sodium", "is_correct": false },
-        { "option_id": 2, "text": "Magnesium", "is_correct": false },
-        { "option_id": 3, "text": "Chlorine", "is_correct": true },
-        { "option_id": 4, "text": "Argon", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Sodium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Magnesium",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Chlorine",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Argon",
+          "is_correct": false
+        }
       ],
       "answer": "Chlorine"
     },
@@ -588,10 +1356,26 @@
       "question_type": "MCQ",
       "question": "Which of these is a metalloid?",
       "options": [
-        { "option_id": 1, "text": "Sodium", "is_correct": false },
-        { "option_id": 2, "text": "Silicon", "is_correct": true },
-        { "option_id": 3, "text": "Carbon", "is_correct": false },
-        { "option_id": 4, "text": "Iron", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Sodium",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Silicon",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Carbon",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Iron",
+          "is_correct": false
+        }
       ],
       "answer": "Silicon"
     },
@@ -600,10 +1384,26 @@
       "question_type": "MCQ",
       "question": "What happens to nonmetallic character down a group?",
       "options": [
-        { "option_id": 1, "text": "Increases", "is_correct": false },
-        { "option_id": 2, "text": "Decreases", "is_correct": true },
-        { "option_id": 3, "text": "Stays the same", "is_correct": false },
-        { "option_id": 4, "text": "Unpredictable", "is_correct": false }
+        {
+          "option_id": 1,
+          "text": "Increases",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Decreases",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stays the same",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Unpredictable",
+          "is_correct": false
+        }
       ],
       "answer": "Decreases"
     },

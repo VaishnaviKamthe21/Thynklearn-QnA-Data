@@ -1,8 +1,8 @@
 {
   "chapter_metadata": {
-    "chapter_id": "10.English.01",
+    "chapter_id": "10.Science.1",
     "standard": "10",
-    "subject": "Science and Technology Part 2",
+    "subject": "Science2",
     "medium": "English",
     "chapter_name": "Heredity and Evolution"
   },
@@ -12,1402 +12,602 @@
       "question_type": "MCQ",
       "question": "Who is considered the pioneer of modern genetics?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Hugo de Vries",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Gregor Johann Mendel",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Walter Sutton",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Johannes Purkinje",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Hugo de Vries", "is_correct": false },
+        { "option_id": 2, "text": "Gregor Johann Mendel", "is_correct": true },
+        { "option_id": 3, "text": "Walter Sutton", "is_correct": false },
+        { "option_id": 4, "text": "Johannes Purkinje", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Gregor Johann Mendel"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
       "question": "The transfer of biological characters from one generation to another via genes is called _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Evolution",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Heredity",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Speciation",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Transcription",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Evolution", "is_correct": false },
+        { "option_id": 2, "text": "Heredity", "is_correct": true },
+        { "option_id": 3, "text": "Speciation", "is_correct": false },
+        { "option_id": 4, "text": "Transcription", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Heredity"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
       "question": "The process of RNA synthesis is called _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Translation",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Transcription",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Translocation",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Mutation",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Translation", "is_correct": false },
+        { "option_id": 2, "text": "Transcription", "is_correct": true },
+        { "option_id": 3, "text": "Translocation", "is_correct": false },
+        { "option_id": 4, "text": "Mutation", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Transcription"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
       "question": "Which scientist observed paired chromosomes in the cells of a grasshopper?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Walter Sutton",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "Oswald Avery",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Francois Jacob",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Charles Darwin",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Walter Sutton", "is_correct": true },
+        { "option_id": 2, "text": "Oswald Avery", "is_correct": false },
+        { "option_id": 3, "text": "Francois Jacob", "is_correct": false },
+        { "option_id": 4, "text": "Charles Darwin", "is_correct": false }
       ],
-      "answer": "Option 1"
+      "answer": "Walter Sutton"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
       "question": "The 3-nucleotide sequence on mRNA which codes for a specific amino acid is called _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Gene",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Triplet codon",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Anticodon",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "DNA strand",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Gene", "is_correct": false },
+        { "option_id": 2, "text": "Triplet codon", "is_correct": true },
+        { "option_id": 3, "text": "Anticodon", "is_correct": false },
+        { "option_id": 4, "text": "DNA strand", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Triplet codon"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
       "question": "Sudden changes in the genetic material are known as _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Variation",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Mutation",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Evolution",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Translation",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Variation", "is_correct": false },
+        { "option_id": 2, "text": "Mutation", "is_correct": true },
+        { "option_id": 3, "text": "Evolution", "is_correct": false },
+        { "option_id": 4, "text": "Translation", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Mutation"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
       "question": "Which of the following is a vestigial organ in humans?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Heart",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Appendix",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Lungs",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Intestine",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Heart", "is_correct": false },
+        { "option_id": 2, "text": "Appendix", "is_correct": true },
+        { "option_id": 3, "text": "Lungs", "is_correct": false },
+        { "option_id": 4, "text": "Intestine", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Appendix"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
       "question": "The theory of natural selection was given by _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Lamarck",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Charles Darwin",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Gregor Mendel",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Hugo de Vries",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Lamarck", "is_correct": false },
+        { "option_id": 2, "text": "Charles Darwin", "is_correct": true },
+        { "option_id": 3, "text": "Gregor Mendel", "is_correct": false },
+        { "option_id": 4, "text": "Hugo de Vries", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Charles Darwin"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
       "question": "Peripatus is a connecting link between Annelida and _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Mollusca",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Arthropoda",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Mammalia",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Pisces",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Mollusca", "is_correct": false },
+        { "option_id": 2, "text": "Arthropoda", "is_correct": true },
+        { "option_id": 3, "text": "Mammalia", "is_correct": false },
+        { "option_id": 4, "text": "Pisces", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Arthropoda"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
       "question": "The study of fossils is an important aspect of _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Morphology",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Palaeontology",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Embryology",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Anatomy",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Morphology", "is_correct": false },
+        { "option_id": 2, "text": "Palaeontology", "is_correct": true },
+        { "option_id": 3, "text": "Embryology", "is_correct": false },
+        { "option_id": 4, "text": "Anatomy", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Palaeontology"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
       "question": "Which of the following is considered the first record of a human-like animal?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Australopithecus",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Ramapithecus",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Neanderthal man",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Cro-Magnon man",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Australopithecus", "is_correct": false },
+        { "option_id": 2, "text": "Ramapithecus", "is_correct": true },
+        { "option_id": 3, "text": "Neanderthal man", "is_correct": false },
+        { "option_id": 4, "text": "Cro-Magnon man", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Ramapithecus"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
       "question": "The age of fossils is determined by _____ method.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Carbon dating",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "Electrolysis",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Transcription",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Anatomy",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Carbon dating", "is_correct": true },
+        { "option_id": 2, "text": "Electrolysis", "is_correct": false },
+        { "option_id": 3, "text": "Transcription", "is_correct": false },
+        { "option_id": 4, "text": "Anatomy", "is_correct": false }
       ],
-      "answer": "Option 1"
+      "answer": "Carbon dating"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
       "question": "According to the text, life originated in _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Air",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Ocean",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Mountains",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Rocks",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Air", "is_correct": false },
+        { "option_id": 2, "text": "Ocean", "is_correct": true },
+        { "option_id": 3, "text": "Mountains", "is_correct": false },
+        { "option_id": 4, "text": "Rocks", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Ocean"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
       "question": "Transfer of information from DNA to mRNA is called _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Translation",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Transcription",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Translocation",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Mutation",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Translation", "is_correct": false },
+        { "option_id": 2, "text": "Transcription", "is_correct": true },
+        { "option_id": 3, "text": "Translocation", "is_correct": false },
+        { "option_id": 4, "text": "Mutation", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Transcription"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
       "question": "Uracil is present in _____ instead of Thymine.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "DNA",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "RNA",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Protein",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Chromosome",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "DNA", "is_correct": false },
+        { "option_id": 2, "text": "RNA", "is_correct": true },
+        { "option_id": 3, "text": "Protein", "is_correct": false },
+        { "option_id": 4, "text": "Chromosome", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "RNA"
     },
     {
       "question_id": 16,
       "question_type": "MCQ",
       "question": "Who proposed the 'theory of inheritance of acquired characters'?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Darwin",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Jean-Baptiste Lamarck",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Mendel",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Walter Sutton",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Darwin", "is_correct": false },
+        { "option_id": 2, "text": "Jean-Baptiste Lamarck", "is_correct": true },
+        { "option_id": 3, "text": "Mendel", "is_correct": false },
+        { "option_id": 4, "text": "Walter Sutton", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Jean-Baptiste Lamarck"
     },
     {
       "question_id": 17,
       "question_type": "MCQ",
       "question": "Formation of new species due to changes in specific characters of living organisms is called _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Heredity",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Speciation",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Variation",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Anatomy",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Heredity", "is_correct": false },
+        { "option_id": 2, "text": "Speciation", "is_correct": true },
+        { "option_id": 3, "text": "Variation", "is_correct": false },
+        { "option_id": 4, "text": "Anatomy", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Speciation"
     },
     {
       "question_id": 18,
       "question_type": "MCQ",
       "question": "Cro-Magnon man existed about _____ years ago.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "10,000",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "50,000",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "2,00,000",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "4,000",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "10,000", "is_correct": false },
+        { "option_id": 2, "text": "50,000", "is_correct": true },
+        { "option_id": 3, "text": "2,00,000", "is_correct": false },
+        { "option_id": 4, "text": "4,000", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "50,000"
     },
     {
       "question_id": 19,
       "question_type": "MCQ",
       "question": "Which of the following is a connecting link between reptiles and mammals?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Lungfish",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Duck-billed platypus",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Peripatus",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Archaeopteryx",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Lungfish", "is_correct": false },
+        { "option_id": 2, "text": "Duck-billed platypus", "is_correct": true },
+        { "option_id": 3, "text": "Peripatus", "is_correct": false },
+        { "option_id": 4, "text": "Archaeopteryx", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Duck-billed platypus"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
       "question": "The ribosome moves along the mRNA by a distance of one triplet codon; this is called _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Transcription",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Translocation",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Translation",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Mutation",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Transcription", "is_correct": false },
+        { "option_id": 2, "text": "Translocation", "is_correct": true },
+        { "option_id": 3, "text": "Translation", "is_correct": false },
+        { "option_id": 4, "text": "Mutation", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Translocation"
     },
     {
       "question_id": 21,
       "question_type": "MCQ",
       "question": "Modern man is scientifically known as _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Homo erectus",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Homo sapiens",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Homo habilis",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Australopithecus",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Homo erectus", "is_correct": false },
+        { "option_id": 2, "text": "Homo sapiens", "is_correct": true },
+        { "option_id": 3, "text": "Homo habilis", "is_correct": false },
+        { "option_id": 4, "text": "Australopithecus", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Homo sapiens"
     },
     {
       "question_id": 22,
       "question_type": "MCQ",
       "question": "What is the gradual development of living organisms over a long duration called?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Speciation",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Evolution",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Heredity",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Anatomy",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Speciation", "is_correct": false },
+        { "option_id": 2, "text": "Evolution", "is_correct": true },
+        { "option_id": 3, "text": "Heredity", "is_correct": false },
+        { "option_id": 4, "text": "Anatomy", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Evolution"
     },
     {
       "question_id": 23,
       "question_type": "MCQ",
       "question": "In carbon dating, the ratio of _____ is measured.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "C-12 to C-13",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "C-14 to C-12",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "C-14 to C-13",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "C-12 to N-14",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "C-12 to C-13", "is_correct": false },
+        { "option_id": 2, "text": "C-14 to C-12", "is_correct": true },
+        { "option_id": 3, "text": "C-14 to C-13", "is_correct": false },
+        { "option_id": 4, "text": "C-12 to N-14", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "C-14 to C-12"
     },
     {
       "question_id": 24,
       "question_type": "MCQ",
-      "question": "Which of these is NOT a point mentioned as an evidence of evolution?",
+      "question": "Which of these is NOT an evidence of evolution?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Morphological",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Anatomical",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Physical exercise",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Palaeontological",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Morphological", "is_correct": false },
+        { "option_id": 2, "text": "Anatomical", "is_correct": false },
+        { "option_id": 3, "text": "Physical exercise", "is_correct": true },
+        { "option_id": 4, "text": "Palaeontological", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Physical exercise"
     },
     {
       "question_id": 25,
       "question_type": "MCQ",
       "question": "The 'Origin of Species' book was published by _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Lamarck",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Charles Darwin",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Mendel",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Hugo de Vries",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Lamarck", "is_correct": false },
+        { "option_id": 2, "text": "Charles Darwin", "is_correct": true },
+        { "option_id": 3, "text": "Mendel", "is_correct": false },
+        { "option_id": 4, "text": "Hugo de Vries", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Charles Darwin"
     },
     {
       "question_id": 26,
       "question_type": "MCQ",
       "question": "Which organ in humans is functional in ruminants for digestion of cellulose?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Ear muscles",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Appendix",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Wisdom teeth",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Tail-bone",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Ear muscles", "is_correct": false },
+        { "option_id": 2, "text": "Appendix", "is_correct": true },
+        { "option_id": 3, "text": "Wisdom teeth", "is_correct": false },
+        { "option_id": 4, "text": "Tail-bone", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Appendix"
     },
     {
       "question_id": 27,
       "question_type": "MCQ",
       "question": "The time of origin of the universe is about _____ years ago.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "3.5 billion",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "20 billion",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "10 million",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "50,000",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "3.5 billion", "is_correct": false },
+        { "option_id": 2, "text": "20 billion", "is_correct": true },
+        { "option_id": 3, "text": "10 million", "is_correct": false },
+        { "option_id": 4, "text": "50,000", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "20 billion"
     },
     {
       "question_id": 28,
       "question_type": "MCQ",
       "question": "How many years ago did the brain of man sufficiently evolve to be called a wise man?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "2 crore",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "50,000",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "1,50,000",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "10,000",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "2 crore", "is_correct": false },
+        { "option_id": 2, "text": "50,000", "is_correct": true },
+        { "option_id": 3, "text": "1,50,000", "is_correct": false },
+        { "option_id": 4, "text": "10,000", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "50,000"
     },
     {
       "question_id": 29,
       "question_type": "MCQ",
       "question": "Which of the following evolved about 2.5 crore years ago?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Apes",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "Monkeys",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Lemurs",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Modern humans",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Apes", "is_correct": true },
+        { "option_id": 2, "text": "Monkeys", "is_correct": false },
+        { "option_id": 3, "text": "Lemurs", "is_correct": false },
+        { "option_id": 4, "text": "Modern humans", "is_correct": false }
       ],
-      "answer": "Option 1"
+      "answer": "Apes"
     },
     {
       "question_id": 30,
       "question_type": "MCQ",
       "question": "Dr. Har Govind Khorana made important contribution in finding codons for _____ amino acids.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "10",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "20",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "30",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "64",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "10", "is_correct": false },
+        { "option_id": 2, "text": "20", "is_correct": true },
+        { "option_id": 3, "text": "30", "is_correct": false },
+        { "option_id": 4, "text": "64", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "20"
     },
     {
       "question_id": 31,
       "question_type": "MCQ",
       "question": "Embryological evidences show similarities in _____ stages of development.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Final",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Initial",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Middle",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "All",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Final", "is_correct": false },
+        { "option_id": 2, "text": "Initial", "is_correct": true },
+        { "option_id": 3, "text": "Middle", "is_correct": false },
+        { "option_id": 4, "text": "All", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Initial"
     },
     {
       "question_id": 32,
       "question_type": "MCQ",
       "question": "Agriculture started about _____ years ago.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "5,000",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "10,000",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "50,000",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "400",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "5,000", "is_correct": false },
+        { "option_id": 2, "text": "10,000", "is_correct": true },
+        { "option_id": 3, "text": "50,000", "is_correct": false },
+        { "option_id": 4, "text": "400", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "10,000"
     },
     {
       "question_id": 33,
       "question_type": "MCQ",
       "question": "The first Apes in Africa evolved from monkeys by losing their _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Teeth",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Tail",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Hair",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Ears",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Teeth", "is_correct": false },
+        { "option_id": 2, "text": "Tail", "is_correct": true },
+        { "option_id": 3, "text": "Hair", "is_correct": false },
+        { "option_id": 4, "text": "Ears", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Tail"
     },
     {
       "question_id": 34,
       "question_type": "MCQ",
       "question": "Archaeopteryx is a connecting link between _____ and birds.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Amphibians",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Reptiles",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Mammals",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Pisces",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Amphibians", "is_correct": false },
+        { "option_id": 2, "text": "Reptiles", "is_correct": true },
+        { "option_id": 3, "text": "Mammals", "is_correct": false },
+        { "option_id": 4, "text": "Pisces", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Reptiles"
     },
     {
       "question_id": 35,
       "question_type": "MCQ",
       "question": "Amino acids are brought to mRNA by _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "rRNA",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "tRNA",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "DNA",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Nucleus",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "rRNA", "is_correct": false },
+        { "option_id": 2, "text": "tRNA", "is_correct": true },
+        { "option_id": 3, "text": "DNA", "is_correct": false },
+        { "option_id": 4, "text": "Nucleus", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "tRNA"
     },
     {
       "question_id": 36,
       "question_type": "MCQ",
       "question": "The sequence of nucleotides in mRNA is _____ to the DNA strand used for synthesis.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Identical",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Complementary",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Parallel",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Opposite",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Identical", "is_correct": false },
+        { "option_id": 2, "text": "Complementary", "is_correct": true },
+        { "option_id": 3, "text": "Parallel", "is_correct": false },
+        { "option_id": 4, "text": "Opposite", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Complementary"
     },
     {
       "question_id": 37,
       "question_type": "MCQ",
       "question": "Who proved that DNA is the genetic material in all organisms except viruses?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Mendel",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Avery, McCarty and McLeod",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Jacob and Monod",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Darwin",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Mendel", "is_correct": false },
+        { "option_id": 2, "text": "Avery, McCarty and McLeod", "is_correct": true },
+        { "option_id": 3, "text": "Jacob and Monod", "is_correct": false },
+        { "option_id": 4, "text": "Darwin", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Avery, McCarty and McLeod"
     },
     {
       "question_id": 38,
       "question_type": "MCQ",
       "question": "Lamarckism is based on the concept of 'use or _____ of organs'.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Creation",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Disuse",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Strength",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Colour",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Creation", "is_correct": false },
+        { "option_id": 2, "text": "Disuse", "is_correct": true },
+        { "option_id": 3, "text": "Strength", "is_correct": false },
+        { "option_id": 4, "text": "Colour", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Disuse"
     },
     {
       "question_id": 39,
       "question_type": "MCQ",
       "question": "Carbon dating was developed by _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Willard Libby",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "Charles Darwin",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Walter Sutton",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Hugo de Vries",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Willard Libby", "is_correct": true },
+        { "option_id": 2, "text": "Charles Darwin", "is_correct": false },
+        { "option_id": 3, "text": "Walter Sutton", "is_correct": false },
+        { "option_id": 4, "text": "Hugo de Vries", "is_correct": false }
       ],
-      "answer": "Option 1"
+      "answer": "Willard Libby"
     },
     {
       "question_id": 40,
       "question_type": "MCQ",
       "question": "What is the process of synthesizing proteins as per the information on DNA?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Transcription",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Central Dogma",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Lamarckism",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Carbon dating",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Transcription", "is_correct": false },
+        { "option_id": 2, "text": "Central Dogma", "is_correct": true },
+        { "option_id": 3, "text": "Lamarckism", "is_correct": false },
+        { "option_id": 4, "text": "Carbon dating", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Central Dogma"
     },
     {
       "question_id": 41,
       "question_type": "MCQ",
       "question": "Neanderthal man can be considered as the first example of _____ man.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Skilled",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Wise",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Strong",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Walking",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Skilled", "is_correct": false },
+        { "option_id": 2, "text": "Wise", "is_correct": true },
+        { "option_id": 3, "text": "Strong", "is_correct": false },
+        { "option_id": 4, "text": "Walking", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Wise"
     },
     {
       "question_id": 42,
       "question_type": "MCQ",
       "question": "In RNA, Adenine always pairs with _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Thymine",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Uracil",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Guanine",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Cytosine",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Thymine", "is_correct": false },
+        { "option_id": 2, "text": "Uracil", "is_correct": true },
+        { "option_id": 3, "text": "Guanine", "is_correct": false },
+        { "option_id": 4, "text": "Cytosine", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Uracil"
     },
     {
       "question_id": 43,
       "question_type": "MCQ",
       "question": "What is the first step of protein synthesis?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Translation",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Transcription",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Translocation",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Mutation",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Translation", "is_correct": false },
+        { "option_id": 2, "text": "Transcription", "is_correct": true },
+        { "option_id": 3, "text": "Translocation", "is_correct": false },
+        { "option_id": 4, "text": "Mutation", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Transcription"
     },
     {
       "question_id": 44,
       "question_type": "MCQ",
       "question": "Which of the following is NOT an evidence of anatomy?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Human hand",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Flippers of whale",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Skin colour",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Patagium of bat",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Human hand", "is_correct": false },
+        { "option_id": 2, "text": "Flippers of whale", "is_correct": false },
+        { "option_id": 3, "text": "Skin colour", "is_correct": true },
+        { "option_id": 4, "text": "Patagium of bat", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Skin colour"
     },
     {
       "question_id": 45,
       "question_type": "MCQ",
       "question": "The time passed since the death of a plant or animal is calculated by measuring the radioactivity of _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "C-12",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "C-14",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Nitrogen",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Oxygen",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "C-12", "is_correct": false },
+        { "option_id": 2, "text": "C-14", "is_correct": true },
+        { "option_id": 3, "text": "Nitrogen", "is_correct": false },
+        { "option_id": 4, "text": "Oxygen", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "C-14"
     },
     {
       "question_id": 46,
       "question_type": "MCQ",
       "question": "Wisdom teeth in humans are _____ organs.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Useful",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Vestigial",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Reptilian",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Large",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Useful", "is_correct": false },
+        { "option_id": 2, "text": "Vestigial", "is_correct": true },
+        { "option_id": 3, "text": "Reptilian", "is_correct": false },
+        { "option_id": 4, "text": "Large", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Vestigial"
     },
     {
       "question_id": 47,
       "question_type": "MCQ",
       "question": "Monkeys in South America evolved from lemur-like animals _____ years ago.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "7 crore",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "4 crore",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "2 crore",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "10,000",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "7 crore", "is_correct": false },
+        { "option_id": 2, "text": "4 crore", "is_correct": true },
+        { "option_id": 3, "text": "2 crore", "is_correct": false },
+        { "option_id": 4, "text": "10,000", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "4 crore"
     },
     {
       "question_id": 48,
       "question_type": "MCQ",
       "question": "Which stage of embryos shows great similarities in various vertebrates?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Initial",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "Final",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Juvenile",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Late",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Initial", "is_correct": true },
+        { "option_id": 2, "text": "Final", "is_correct": false },
+        { "option_id": 3, "text": "Juvenile", "is_correct": false },
+        { "option_id": 4, "text": "Late", "is_correct": false }
       ],
-      "answer": "Option 1"
+      "answer": "Initial"
     },
     {
       "question_id": 49,
       "question_type": "MCQ",
       "question": "The 'use or disuse of organs' theory is known as _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Darwinism",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Lamarckism",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Mendelism",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Carbon dating",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Darwinism", "is_correct": false },
+        { "option_id": 2, "text": "Lamarckism", "is_correct": true },
+        { "option_id": 3, "text": "Mendelism", "is_correct": false },
+        { "option_id": 4, "text": "Carbon dating", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Lamarckism"
     },
     {
       "question_id": 50,
       "question_type": "MCQ",
       "question": "Species is the group of organisms that can produce fertile individuals through _____ reproduction.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Asexual",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Natural",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Artificial",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Cloning",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Asexual", "is_correct": false },
+        { "option_id": 2, "text": "Natural", "is_correct": true },
+        { "option_id": 3, "text": "Artificial", "is_correct": false },
+        { "option_id": 4, "text": "Cloning", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Natural"
     },
-    {
+  {
       "question_id": 51,
       "question_type": "SHORT",
       "question": "Define Heredity.",

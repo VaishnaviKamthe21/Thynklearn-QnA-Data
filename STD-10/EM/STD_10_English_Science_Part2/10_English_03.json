@@ -1,8 +1,8 @@
 {
   "chapter_metadata": {
-    "chapter_id": "10.English.03",
+    "chapter_id": "10.Science.3",
     "standard": "10",
-    "subject": "Science and Technology Part 2",
+    "subject": "Science2",
     "medium": "English",
     "chapter_name": "Life Processes in Living Organisms Part - 2"
   },
@@ -12,1400 +12,600 @@
       "question_type": "MCQ",
       "question": "Which life process is responsible for the maintenance of the continuity of a species?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Nutrition",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Respiration",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Reproduction",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Excretion",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Nutrition", "is_correct": false },
+        { "option_id": 2, "text": "Respiration", "is_correct": false },
+        { "option_id": 3, "text": "Reproduction", "is_correct": true },
+        { "option_id": 4, "text": "Excretion", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Reproduction"
     },
     {
       "question_id": 2,
       "question_type": "MCQ",
       "question": "Asexual reproduction in unicellular organisms like Amoeba occurs by which method?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Budding",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Fragmentation",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Binary fission",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Regeneration",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Budding", "is_correct": false },
+        { "option_id": 2, "text": "Fragmentation", "is_correct": false },
+        { "option_id": 3, "text": "Binary fission", "is_correct": true },
+        { "option_id": 4, "text": "Regeneration", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Binary fission"
     },
     {
       "question_id": 3,
       "question_type": "MCQ",
       "question": "Which organism performs transverse binary fission?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Amoeba",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Euglena",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Paramecium",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Bacteria",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Amoeba", "is_correct": false },
+        { "option_id": 2, "text": "Euglena", "is_correct": false },
+        { "option_id": 3, "text": "Paramecium", "is_correct": true },
+        { "option_id": 4, "text": "Bacteria", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Paramecium"
     },
     {
       "question_id": 4,
       "question_type": "MCQ",
       "question": "In which plane does Amoeba divide during simple binary fission?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Transverse",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Longitudinal",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Any plane",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Equatorial",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Transverse", "is_correct": false },
+        { "option_id": 2, "text": "Longitudinal", "is_correct": false },
+        { "option_id": 3, "text": "Any plane", "is_correct": true },
+        { "option_id": 4, "text": "Equatorial", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Any plane"
     },
     {
       "question_id": 5,
       "question_type": "MCQ",
       "question": "What is the protective covering formed by Amoeba during multiple fission?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Bud",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Spore",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Cyst",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Oocyte",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Bud", "is_correct": false },
+        { "option_id": 2, "text": "Spore", "is_correct": false },
+        { "option_id": 3, "text": "Cyst", "is_correct": true },
+        { "option_id": 4, "text": "Oocyte", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Cyst"
     },
     {
       "question_id": 6,
       "question_type": "MCQ",
       "question": "Which unicellular fungus reproduces by budding?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Mucor",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Spirogyra",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Yeast",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Planaria",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Mucor", "is_correct": false },
+        { "option_id": 2, "text": "Spirogyra", "is_correct": false },
+        { "option_id": 3, "text": "Yeast", "is_correct": true },
+        { "option_id": 4, "text": "Planaria", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Yeast"
     },
     {
       "question_id": 7,
       "question_type": "MCQ",
       "question": "Spirogyra reproduces asexually through which method?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Regeneration",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Fragmentation",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Budding",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Binary fission",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Regeneration", "is_correct": false },
+        { "option_id": 2, "text": "Fragmentation", "is_correct": true },
+        { "option_id": 3, "text": "Budding", "is_correct": false },
+        { "option_id": 4, "text": "Binary fission", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Fragmentation"
     },
     {
       "question_id": 8,
       "question_type": "MCQ",
       "question": "Which animal shows extensive regeneration of body parts?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Lizard",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Planaria",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Hydra",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Sycon",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Lizard", "is_correct": false },
+        { "option_id": 2, "text": "Planaria", "is_correct": true },
+        { "option_id": 3, "text": "Hydra", "is_correct": false },
+        { "option_id": 4, "text": "Sycon", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Planaria"
     },
     {
       "question_id": 9,
       "question_type": "MCQ",
       "question": "Vegetative propagation in Bryophyllum occurs with the help of buds on _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Stem",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Roots",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Leaf margin",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Nodes",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Stem", "is_correct": false },
+        { "option_id": 2, "text": "Roots", "is_correct": false },
+        { "option_id": 3, "text": "Leaf margin", "is_correct": true },
+        { "option_id": 4, "text": "Nodes", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Leaf margin"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
       "question": "Which of these is the structural unit of sexual reproduction in plants?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Seed",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Flower",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Fruit",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Pollen",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Seed", "is_correct": false },
+        { "option_id": 2, "text": "Flower", "is_correct": true },
+        { "option_id": 3, "text": "Fruit", "is_correct": false },
+        { "option_id": 4, "text": "Pollen", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Flower"
     },
     {
       "question_id": 11,
       "question_type": "MCQ",
       "question": "Which floral whorls are considered as 'essential whorls'?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Calyx and Corolla",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Androecium and Gynoecium",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Petals and Sepals",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Pedicel and Stigma",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Calyx and Corolla", "is_correct": false },
+        { "option_id": 2, "text": "Androecium and Gynoecium", "is_correct": true },
+        { "option_id": 3, "text": "Petals and Sepals", "is_correct": false },
+        { "option_id": 4, "text": "Pedicel and Stigma", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Androecium and Gynoecium"
     },
     {
       "question_id": 12,
       "question_type": "MCQ",
       "question": "Transfer of pollen grains from anther to stigma is called _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Fertilization",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Pollination",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Germination",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Translocation",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Fertilization", "is_correct": false },
+        { "option_id": 2, "text": "Pollination", "is_correct": true },
+        { "option_id": 3, "text": "Germination", "is_correct": false },
+        { "option_id": 4, "text": "Translocation", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Pollination"
     },
     {
       "question_id": 13,
       "question_type": "MCQ",
       "question": "Double fertilization in angiosperms involves the formation of a zygote and _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Pollen tube",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Style",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Endosperm",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Stamen",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Pollen tube", "is_correct": false },
+        { "option_id": 2, "text": "Style", "is_correct": false },
+        { "option_id": 3, "text": "Endosperm", "is_correct": true },
+        { "option_id": 4, "text": "Stamen", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Endosperm"
     },
     {
       "question_id": 14,
       "question_type": "MCQ",
       "question": "Where are sperms produced in the human male reproductive system?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Scrotum",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Seminiferous tubules",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Vas deferens",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Prostate gland",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Scrotum", "is_correct": false },
+        { "option_id": 2, "text": "Seminiferous tubules", "is_correct": true },
+        { "option_id": 3, "text": "Vas deferens", "is_correct": false },
+        { "option_id": 4, "text": "Prostate gland", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Seminiferous tubules"
     },
     {
       "question_id": 15,
       "question_type": "MCQ",
       "question": "The small oocyte enters the oviduct through a funnel-like opening at its _____ end.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Basal",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Fixed",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Free",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Middle",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Basal", "is_correct": false },
+        { "option_id": 2, "text": "Fixed", "is_correct": false },
+        { "option_id": 3, "text": "Free", "is_correct": true },
+        { "option_id": 4, "text": "Middle", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Free"
     },
     {
       "question_id": 16,
       "question_type": "MCQ",
       "question": "How many autosomes are present in a human gamete?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "44",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "22",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "46",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "23",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "44", "is_correct": false },
+        { "option_id": 2, "text": "22", "is_correct": true },
+        { "option_id": 3, "text": "46", "is_correct": false },
+        { "option_id": 4, "text": "23", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "22"
     },
     {
       "question_id": 17,
       "question_type": "MCQ",
       "question": "Which hormone is responsible for the regeneration of the endometrium?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Estrogen",
-          "is_correct": true
-        },
-        {
-          "option_id": 2,
-          "text": "Progesterone",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "LH",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "FSH",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Estrogen", "is_correct": true },
+        { "option_id": 2, "text": "Progesterone", "is_correct": false },
+        { "option_id": 3, "text": "LH", "is_correct": false },
+        { "option_id": 4, "text": "FSH", "is_correct": false }
       ],
-      "answer": "Option 1"
+      "answer": "Estrogen"
     },
     {
       "question_id": 18,
       "question_type": "MCQ",
       "question": "Menopause usually occurs in women at the age of approximately _____ years.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "18",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "30",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "45-50",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "60",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "18", "is_correct": false },
+        { "option_id": 2, "text": "30", "is_correct": false },
+        { "option_id": 3, "text": "45-50", "is_correct": true },
+        { "option_id": 4, "text": "60", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "45-50"
     },
     {
       "question_id": 19,
       "question_type": "MCQ",
       "question": "Twins formed from two separate zygotes are called _____ twins.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Monozygotic",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Dizygotic",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Siamese",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Identical",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Monozygotic", "is_correct": false },
+        { "option_id": 2, "text": "Dizygotic", "is_correct": true },
+        { "option_id": 3, "text": "Siamese", "is_correct": false },
+        { "option_id": 4, "text": "Identical", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Dizygotic"
     },
     {
       "question_id": 20,
       "question_type": "MCQ",
       "question": "Which of these is a bacterial sexual disease?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "AIDS",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Hepatitis",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Syphilis",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Down’s Syndrome",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "AIDS", "is_correct": false },
+        { "option_id": 2, "text": "Hepatitis", "is_correct": false },
+        { "option_id": 3, "text": "Syphilis", "is_correct": true },
+        { "option_id": 4, "text": "Down’s Syndrome", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Syphilis"
     },
     {
       "question_id": 21,
       "question_type": "MCQ",
       "question": "The male whorl of a flower is called _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Calyx",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Corolla",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Androecium",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Gynaecium",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Calyx", "is_correct": false },
+        { "option_id": 2, "text": "Corolla", "is_correct": false },
+        { "option_id": 3, "text": "Androecium", "is_correct": true },
+        { "option_id": 4, "text": "Gynaecium", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Androecium"
     },
     {
       "question_id": 22,
       "question_type": "MCQ",
       "question": "Which hormone is secreted by the corpus luteum?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Estrogen",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Progesterone",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "FSH",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "LH",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Estrogen", "is_correct": false },
+        { "option_id": 2, "text": "Progesterone", "is_correct": true },
+        { "option_id": 3, "text": "FSH", "is_correct": false },
+        { "option_id": 4, "text": "LH", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Progesterone"
     },
     {
       "question_id": 23,
       "question_type": "MCQ",
       "question": "What is the length of the epididymis?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "60 micrometers",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "6.5 meters",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "6 meters",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "10 meters",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "60 micrometers", "is_correct": false },
+        { "option_id": 2, "text": "6.5 meters", "is_correct": false },
+        { "option_id": 3, "text": "6 meters", "is_correct": true },
+        { "option_id": 4, "text": "10 meters", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "6 meters"
     },
     {
       "question_id": 24,
       "question_type": "MCQ",
       "question": "Which of these is an abiotic agent of pollination?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Insects",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Birds",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Wind",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Snails",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Insects", "is_correct": false },
+        { "option_id": 2, "text": "Birds", "is_correct": false },
+        { "option_id": 3, "text": "Wind", "is_correct": true },
+        { "option_id": 4, "text": "Snails", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Wind"
     },
     {
       "question_id": 25,
       "question_type": "MCQ",
       "question": "A flower without a stalk is called _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Pedicellate",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Sessile",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Unisexual",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Bisexual",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Pedicellate", "is_correct": false },
+        { "option_id": 2, "text": "Sessile", "is_correct": true },
+        { "option_id": 3, "text": "Unisexual", "is_correct": false },
+        { "option_id": 4, "text": "Bisexual", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Sessile"
     },
     {
       "question_id": 26,
       "question_type": "MCQ",
       "question": "Which of the following is not a paired organ in the male reproductive system?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Testes",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Seminal vesicle",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Prostate gland",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Cowper's gland",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Testes", "is_correct": false },
+        { "option_id": 2, "text": "Seminal vesicle", "is_correct": false },
+        { "option_id": 3, "text": "Prostate gland", "is_correct": true },
+        { "option_id": 4, "text": "Cowper's gland", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Prostate gland"
     },
     {
       "question_id": 27,
       "question_type": "MCQ",
       "question": "In Vitro Fertilization technique is used when there is _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "High sperm count",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Problem in implantation",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Low sperm count",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Normal oviducts",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "High sperm count", "is_correct": false },
+        { "option_id": 2, "text": "Problem in implantation", "is_correct": false },
+        { "option_id": 3, "text": "Low sperm count", "is_correct": true },
+        { "option_id": 4, "text": "Normal oviducts", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Low sperm count"
     },
     {
       "question_id": 28,
       "question_type": "MCQ",
       "question": "At the time of birth, female ovaries contain _____ million immature oocytes.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "400",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "10-15",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "2-4",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "1",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "400", "is_correct": false },
+        { "option_id": 2, "text": "10-15", "is_correct": false },
+        { "option_id": 3, "text": "2-4", "is_correct": true },
+        { "option_id": 4, "text": "1", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "2-4"
     },
     {
       "question_id": 29,
       "question_type": "MCQ",
       "question": "Which chromosome configuration leads to the birth of a girl?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "44 + XY",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "22 + X",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "44 + XX",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "44 + YY",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "44 + XY", "is_correct": false },
+        { "option_id": 2, "text": "22 + X", "is_correct": false },
+        { "option_id": 3, "text": "44 + XX", "is_correct": true },
+        { "option_id": 4, "text": "44 + YY", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "44 + XX"
     },
     {
       "question_id": 30,
       "question_type": "MCQ",
       "question": "In plants, the zygote develops into _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Fruit",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Pollen",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Seed",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Flower",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Fruit", "is_correct": false },
+        { "option_id": 2, "text": "Pollen", "is_correct": false },
+        { "option_id": 3, "text": "Seed", "is_correct": true },
+        { "option_id": 4, "text": "Flower", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Seed"
     },
     {
       "question_id": 31,
       "question_type": "MCQ",
       "question": "Which of these is a symptom of gonorrhea?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Alopecia",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Inflammation of urinary tract",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Joint patches",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Mental illness",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Alopecia", "is_correct": false },
+        { "option_id": 2, "text": "Inflammation of urinary tract", "is_correct": true },
+        { "option_id": 3, "text": "Joint patches", "is_correct": false },
+        { "option_id": 4, "text": "Mental illness", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Inflammation of urinary tract"
     },
     {
       "question_id": 32,
       "question_type": "MCQ",
       "question": "Which technique is used to have a child if a woman has a problematic uterus?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "IVF",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Surrogacy",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Sperm bank",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Binary fission",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "IVF", "is_correct": false },
+        { "option_id": 2, "text": "Surrogacy", "is_correct": true },
+        { "option_id": 3, "text": "Sperm bank", "is_correct": false },
+        { "option_id": 4, "text": "Binary fission", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Surrogacy"
     },
     {
       "question_id": 33,
       "question_type": "MCQ",
       "question": "Self-pollination occurs between _____ flowers.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Two plants of same species",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Two different species",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Same plant or one flower",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Different ecosystems",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Two plants of same species", "is_correct": false },
+        { "option_id": 2, "text": "Two different species", "is_correct": false },
+        { "option_id": 3, "text": "Same plant or one flower", "is_correct": true },
+        { "option_id": 4, "text": "Different ecosystems", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Same plant or one flower"
     },
     {
       "question_id": 34,
       "question_type": "MCQ",
       "question": "Which sugar provides energy to sperms in semen?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Glucose",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Fructose",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Sucrose",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Maltose",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Glucose", "is_correct": false },
+        { "option_id": 2, "text": "Fructose", "is_correct": true },
+        { "option_id": 3, "text": "Sucrose", "is_correct": false },
+        { "option_id": 4, "text": "Maltose", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Fructose"
     },
     {
       "question_id": 35,
       "question_type": "MCQ",
       "question": "Which cell division is responsible for asexual reproduction?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Meiosis",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Mitosis",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Reduction division",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "None of these",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Meiosis", "is_correct": false },
+        { "option_id": 2, "text": "Mitosis", "is_correct": true },
+        { "option_id": 3, "text": "Reduction division", "is_correct": false },
+        { "option_id": 4, "text": "None of these", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Mitosis"
     },
     {
       "question_id": 36,
       "question_type": "MCQ",
       "question": "Longitudinal binary fission is characteristic of _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Amoeba",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Paramecium",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Euglena",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Yeast",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Amoeba", "is_correct": false },
+        { "option_id": 2, "text": "Paramecium", "is_correct": false },
+        { "option_id": 3, "text": "Euglena", "is_correct": true },
+        { "option_id": 4, "text": "Yeast", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Euglena"
     },
     {
       "question_id": 37,
       "question_type": "MCQ",
       "question": "Which part of the flower is green in color and protects inner whorls?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Petals",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Sepals",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Anther",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Style",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Petals", "is_correct": false },
+        { "option_id": 2, "text": "Sepals", "is_correct": true },
+        { "option_id": 3, "text": "Anther", "is_correct": false },
+        { "option_id": 4, "text": "Style", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Sepals"
     },
     {
       "question_id": 38,
       "question_type": "MCQ",
       "question": "How many polar nuclei are involved in double fertilization?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "One",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Two",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Three",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "None",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "One", "is_correct": false },
+        { "option_id": 2, "text": "Two", "is_correct": true },
+        { "option_id": 3, "text": "Three", "is_correct": false },
+        { "option_id": 4, "text": "None", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Two"
     },
     {
       "question_id": 39,
       "question_type": "MCQ",
       "question": "Where does implantation of the embryo occur?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Ovary",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Oviduct",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Uterus",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Vagina",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Ovary", "is_correct": false },
+        { "option_id": 2, "text": "Oviduct", "is_correct": false },
+        { "option_id": 3, "text": "Uterus", "is_correct": true },
+        { "option_id": 4, "text": "Vagina", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Uterus"
     },
     {
       "question_id": 40,
       "question_type": "MCQ",
       "question": "Which of these is the female whorl of the flower?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Androecium",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Stamen",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Gynaecium",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Pedicel",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Androecium", "is_correct": false },
+        { "option_id": 2, "text": "Stamen", "is_correct": false },
+        { "option_id": 3, "text": "Gynaecium", "is_correct": true },
+        { "option_id": 4, "text": "Pedicel", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Gynaecium"
     },
     {
       "question_id": 41,
       "question_type": "MCQ",
       "question": "What happens if a monozygotic embryo splits more than 8 days after zygote formation?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Normal twins are born",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Dizygotic twins are born",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Conjoined twins are born",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "No twins are born",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Normal twins are born", "is_correct": false },
+        { "option_id": 2, "text": "Dizygotic twins are born", "is_correct": false },
+        { "option_id": 3, "text": "Conjoined twins are born", "is_correct": true },
+        { "option_id": 4, "text": "No twins are born", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Conjoined twins are born"
     },
     {
       "question_id": 42,
       "question_type": "MCQ",
       "question": "Which hormone causes the burst of a follicle for ovulation?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "FSH",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Estrogen",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "LH",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Progesterone",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "FSH", "is_correct": false },
+        { "option_id": 2, "text": "Estrogen", "is_correct": false },
+        { "option_id": 3, "text": "LH", "is_correct": true },
+        { "option_id": 4, "text": "Progesterone", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "LH"
     },
     {
       "question_id": 43,
       "question_type": "MCQ",
       "question": "Sexual reproduction involves two germ cells: male gamete and _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Zygote",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Sperm",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Female gamete",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Spore",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Zygote", "is_correct": false },
+        { "option_id": 2, "text": "Sperm", "is_correct": false },
+        { "option_id": 3, "text": "Female gamete", "is_correct": true },
+        { "option_id": 4, "text": "Spore", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Female gamete"
     },
     {
       "question_id": 44,
       "question_type": "MCQ",
       "question": "Which organ provides nutrition to the budding Hydra?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Dermal layers",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Parent Hydra",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Regenerative cells",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Nascent Hydra",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Dermal layers", "is_correct": false },
+        { "option_id": 2, "text": "Parent Hydra", "is_correct": true },
+        { "option_id": 3, "text": "Regenerative cells", "is_correct": false },
+        { "option_id": 4, "text": "Nascent Hydra", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Parent Hydra"
     },
     {
       "question_id": 45,
       "question_type": "MCQ",
       "question": "Fungi like Mucor have a _____ body.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Unicellular",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Filamentous",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "Circular",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "Symmetric",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Unicellular", "is_correct": false },
+        { "option_id": 2, "text": "Filamentous", "is_correct": true },
+        { "option_id": 3, "text": "Circular", "is_correct": false },
+        { "option_id": 4, "text": "Symmetric", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "Filamentous"
     },
     {
       "question_id": 46,
       "question_type": "MCQ",
       "question": "What is the interval for the regeneration of the endometrium?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "1-5 days",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "28-30 days",
-          "is_correct": true
-        },
-        {
-          "option_id": 3,
-          "text": "15-20 days",
-          "is_correct": false
-        },
-        {
-          "option_id": 4,
-          "text": "10-12 days",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "1-5 days", "is_correct": false },
+        { "option_id": 2, "text": "28-30 days", "is_correct": true },
+        { "option_id": 3, "text": "15-20 days", "is_correct": false },
+        { "option_id": 4, "text": "10-12 days", "is_correct": false }
       ],
-      "answer": "Option 2"
+      "answer": "28-30 days"
     },
     {
       "question_id": 47,
       "question_type": "MCQ",
       "question": "Which of these is a biotic agent for pollination?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Wind",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Water",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Insects",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Gravity",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Wind", "is_correct": false },
+        { "option_id": 2, "text": "Water", "is_correct": false },
+        { "option_id": 3, "text": "Insects", "is_correct": true },
+        { "option_id": 4, "text": "Gravity", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Insects"
     },
     {
       "question_id": 48,
       "question_type": "MCQ",
       "question": "In humans, fertilization occurs in the _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Uterus",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Vagina",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Oviduct",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Ovary",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Uterus", "is_correct": false },
+        { "option_id": 2, "text": "Vagina", "is_correct": false },
+        { "option_id": 3, "text": "Oviduct", "is_correct": true },
+        { "option_id": 4, "text": "Ovary", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Oviduct"
     },
     {
       "question_id": 49,
       "question_type": "MCQ",
       "question": "What provides nutrition to the embryo sac in an ovule?",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Style",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Sepals",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Endosperm",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Stigma",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Style", "is_correct": false },
+        { "option_id": 2, "text": "Sepals", "is_correct": false },
+        { "option_id": 3, "text": "Endosperm", "is_correct": true },
+        { "option_id": 4, "text": "Stigma", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Endosperm"
     },
     {
       "question_id": 50,
       "question_type": "MCQ",
       "question": "The semen is ejaculated out through the _____.",
       "options": [
-        {
-          "option_id": 1,
-          "text": "Vas deferens",
-          "is_correct": false
-        },
-        {
-          "option_id": 2,
-          "text": "Epididymis",
-          "is_correct": false
-        },
-        {
-          "option_id": 3,
-          "text": "Penis",
-          "is_correct": true
-        },
-        {
-          "option_id": 4,
-          "text": "Testis",
-          "is_correct": false
-        }
+        { "option_id": 1, "text": "Vas deferens", "is_correct": false },
+        { "option_id": 2, "text": "Epididymis", "is_correct": false },
+        { "option_id": 3, "text": "Penis", "is_correct": true },
+        { "option_id": 4, "text": "Testis", "is_correct": false }
       ],
-      "answer": "Option 3"
+      "answer": "Penis"
     },
     {
       "question_id": 51,
