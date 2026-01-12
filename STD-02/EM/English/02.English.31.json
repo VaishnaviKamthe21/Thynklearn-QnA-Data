@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "2.English.31",
+    "standard": "2",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Story Time - What Do You See?"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "This story is from which epic?",
+      "options": [
+        { "option_id": 1, "text": "Ramayana", "is_correct": false },
+        { "option_id": 2, "text": "Mahabharat", "is_correct": true },
+        { "option_id": 3, "text": "Vedas", "is_correct": false },
+        { "option_id": 4, "text": "Puranas", "is_correct": false }
+      ],
+      "answer": "Mahabharat"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who was the great teacher mentioned in the story?",
+      "options": [
+        { "option_id": 1, "text": "Bhishma", "is_correct": false },
+        { "option_id": 2, "text": "Dronacharya", "is_correct": true },
+        { "option_id": 3, "text": "Krishna", "is_correct": false },
+        { "option_id": 4, "text": "Arjun", "is_correct": false }
+      ],
+      "answer": "Dronacharya"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What skills were the students being trained in?",
+      "options": [
+        { "option_id": 1, "text": "Dancing and singing", "is_correct": false },
+        { "option_id": 2, "text": "Cooking and cleaning", "is_correct": false },
+        { "option_id": 3, "text": "Archery and warcraft", "is_correct": true },
+        { "option_id": 4, "text": "Painting and drawing", "is_correct": false }
+      ],
+      "answer": "Archery and warcraft"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What did Dronacharya place on the branch of a tree?",
+      "options": [
+        { "option_id": 1, "text": "A real parrot", "is_correct": false },
+        { "option_id": 2, "text": "A wooden parrot", "is_correct": true },
+        { "option_id": 3, "text": "A fruit", "is_correct": false },
+        { "option_id": 4, "text": "A target board", "is_correct": false }
+      ],
+      "answer": "A wooden parrot"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Where were the students asked to hit?",
+      "options": [
+        { "option_id": 1, "text": "The bird's tail", "is_correct": false },
+        { "option_id": 2, "text": "The bird's wing", "is_correct": false },
+        { "option_id": 3, "text": "The bird's eye", "is_correct": true },
+        { "option_id": 4, "text": "The tree branch", "is_correct": false }
+      ],
+      "answer": "The bird's eye"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who was the first student called for the test?",
+      "options": [
+        { "option_id": 1, "text": "Arjun", "is_correct": false },
+        { "option_id": 2, "text": "Yudhishthir", "is_correct": false },
+        { "option_id": 3, "text": "Bheem", "is_correct": true },
+        { "option_id": 4, "text": "Nakul", "is_correct": false }
+      ],
+      "answer": "Bheem"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What did Bheem see?",
+      "options": [
+        { "option_id": 1, "text": "Only the bird's eye", "is_correct": false },
+        { "option_id": 2, "text": "The sky, clouds, and sun", "is_correct": true },
+        { "option_id": 3, "text": "The tree branches", "is_correct": false },
+        { "option_id": 4, "text": "His brothers", "is_correct": false }
+      ],
+      "answer": "The sky, clouds, and sun"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What did Yudhishthir see?",
+      "options": [
+        { "option_id": 1, "text": "The wooden bird, branches, and tree", "is_correct": true },
+        { "option_id": 2, "text": "Only the bird's eye", "is_correct": false },
+        { "option_id": 3, "text": "The sky", "is_correct": false },
+        { "option_id": 4, "text": "Nothing", "is_correct": false }
+      ],
+      "answer": "The wooden bird, branches, and tree"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who was allowed to shoot the arrow?",
+      "options": [
+        { "option_id": 1, "text": "Bheem", "is_correct": false },
+        { "option_id": 2, "text": "Yudhishthir", "is_correct": false },
+        { "option_id": 3, "text": "Arjun", "is_correct": true },
+        { "option_id": 4, "text": "Sahadev", "is_correct": false }
+      ],
+      "answer": "Arjun"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What did Arjun see?",
+      "options": [
+        { "option_id": 1, "text": "The tree", "is_correct": false },
+        { "option_id": 2, "text": "The sky", "is_correct": false },
+        { "option_id": 3, "text": "Only the eye of the wooden bird", "is_correct": true },
+        { "option_id": 4, "text": "The sun", "is_correct": false }
+      ],
+      "answer": "Only the eye of the wooden bird"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What helps you achieve your goal according to Dronacharya?",
+      "options": [
+        { "option_id": 1, "text": "Looking everywhere", "is_correct": false },
+        { "option_id": 2, "text": "Focusing on your goal", "is_correct": true },
+        { "option_id": 3, "text": "Talking to friends", "is_correct": false },
+        { "option_id": 4, "text": "Closing your eyes", "is_correct": false }
+      ],
+      "answer": "Focusing on your goal"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which sport uses a bow and arrow?",
+      "options": [
+        { "option_id": 1, "text": "Cricket", "is_correct": false },
+        { "option_id": 2, "text": "Football", "is_correct": false },
+        { "option_id": 3, "text": "Archery", "is_correct": true },
+        { "option_id": 4, "text": "Swimming", "is_correct": false }
+      ],
+      "answer": "Archery"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who said 'You are not ready to shoot yet'?",
+      "options": [
+        { "option_id": 1, "text": "Arjun", "is_correct": false },
+        { "option_id": 2, "text": "Bheem", "is_correct": false },
+        { "option_id": 3, "text": "Dronacharya", "is_correct": true },
+        { "option_id": 4, "text": "Yudhishthir", "is_correct": false }
+      ],
+      "answer": "Dronacharya"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Did Arjun hit the target?",
+      "options": [
+        { "option_id": 1, "text": "Yes, exactly", "is_correct": true },
+        { "option_id": 2, "text": "No, he missed", "is_correct": false },
+        { "option_id": 3, "text": "He hit the wing", "is_correct": false },
+        { "option_id": 4, "text": "He didn't shoot", "is_correct": false }
+      ],
+      "answer": "Yes, exactly"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What fell down after Arjun shot?",
+      "options": [
+        { "option_id": 1, "text": "The tree", "is_correct": false },
+        { "option_id": 2, "text": "The wooden bird", "is_correct": true },
+        { "option_id": 3, "text": "A leaf", "is_correct": false },
+        { "option_id": 4, "text": "The bow", "is_correct": false }
+      ],
+      "answer": "The wooden bird"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "Who was the teacher of the Pandava princes?",
+      "answer": "Dronacharya."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "What did Dronacharya want to test?",
+      "answer": "He wanted to test their archery skills."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "What object was placed on the tree for the test?",
+      "answer": "A wooden parrot (bird)."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "Who saw the sky, clouds, and sun?",
+      "answer": "Bheem saw them."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "Who saw the wooden bird, the branches, and the tree?",
+      "answer": "Yudhishthir saw them."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "Why did Dronacharya stop Bheem and Yudhishthir?",
+      "answer": "Because they were not focusing only on the target (the bird's eye)."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "What was the only thing Arjun could see?",
+      "answer": "The eye of the wooden bird."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "Unscramble the word: 'warro'.",
+      "answer": "Arrow."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "Unscramble the word: 'rayrech'.",
+      "answer": "Archery."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "Name two sports mentioned in the activity.",
+      "answer": "Football and Cricket (or Kabaddi, Chess, Hockey, Swimming)."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "What is the key to achieving your goal according to the story?",
+      "answer": "Focus."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "Who shot the arrow successfully?",
+      "answer": "Arjun shot the arrow successfully."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "Name one cousin mentioned in the story besides Arjun's brothers.",
+      "answer": "The text mentions cousins generally, but Bheem and Yudhishthir are brothers."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "Unscramble the word: 'wbo'.",
+      "answer": "Bow."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "What did Dronacharya do after Arjun's shot?",
+      "answer": "He patted Arjun on the back."
+    }
+  ]
+}
