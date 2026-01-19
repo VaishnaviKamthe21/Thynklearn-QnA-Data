@@ -1,0 +1,51 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.SEMI.4.7",
+    "standard": "10",
+    "subject": "English",
+    "medium": "SEMI",
+    "chapter_name": "Live English! (Blogging)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does the term 'blog' stand for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Web log",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Web list",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Web line",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Web link",
+          "is_correct": false
+        }
+      ],
+      "answer": "Web log"
+    },
+    {
+      "question_id": 2,
+      "question_type": "SHORT",
+      "question": "What is a blog?",
+      "answer": "A blog is an online public diary where posts are shared on the internet."
+    },
+    {
+      "question_id": 3,
+      "question_type": "LONG",
+      "question": "Explain the importance of blogging.",
+      "answer": "Blogging allows people to express opinions, share information and connect with others. It supports creativity, learning and communication."
+    }
+  ]
+}
