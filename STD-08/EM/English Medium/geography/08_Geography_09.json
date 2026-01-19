@@ -1,0 +1,1209 @@
+[
+  {
+  "chapter_metadata": {
+    "chapter_id": "08.Geography.09",
+    "standard": "08",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "Map Scale"
+  },
+    "question_id": 1,
+    "question_type": "MCQ",
+    "question": "Why does a painter hold a pencil in a particular way before drawing?",
+    "options": [
+      { "option_id": 1, "text": "To take an estimated scale of the scene", "is_correct": true },
+      { "option_id": 2, "text": "To clean the pencil", "is_correct": false },
+      { "option_id": 3, "text": "To make the drawing colorful", "is_correct": false },
+      { "option_id": 4, "text": "To write notes", "is_correct": false }
+    ],
+    "answer": "To take an estimated scale of the scene"
+  },
+  {
+    "question_id": 2,
+    "question_type": "MCQ",
+    "question": "What is common between a painter drawing a scene and a cartographer preparing a map?",
+    "options": [
+      { "option_id": 1, "text": "Both use colors", "is_correct": false },
+      { "option_id": 2, "text": "Both work indoors", "is_correct": false },
+      { "option_id": 3, "text": "Both use a scale to represent real distances", "is_correct": true },
+      { "option_id": 4, "text": "Both draw freehand", "is_correct": false }
+    ],
+    "answer": "Both use a scale to represent real distances"
+  },
+  {
+    "question_id": 3,
+    "question_type": "MCQ",
+    "question": "What is the purpose of a map scale?",
+    "options": [
+      { "option_id": 1, "text": "To make the map colorful", "is_correct": false },
+      { "option_id": 2, "text": "To show political boundaries", "is_correct": false },
+      { "option_id": 3, "text": "To correlate map distances with actual ground distances", "is_correct": true },
+      { "option_id": 4, "text": "To indicate north direction", "is_correct": false }
+    ],
+    "answer": "To correlate map distances with actual ground distances"
+  },
+  {
+    "question_id": 4,
+    "question_type": "MCQ",
+    "question": "Which of the following is NOT a method of expressing map scale?",
+    "options": [
+      { "option_id": 1, "text": "Verbal Scale", "is_correct": false },
+      { "option_id": 2, "text": "Numerical Scale", "is_correct": false },
+      { "option_id": 3, "text": "Linear Scale", "is_correct": false },
+      { "option_id": 4, "text": "Pictorial Scale", "is_correct": true }
+    ],
+    "answer": "Pictorial Scale"
+  },
+  {
+    "question_id": 5,
+    "question_type": "MCQ",
+    "question": "In the verbal scale '1 cm = 60 km', what does 'cm' represent?",
+    "options": [
+      { "option_id": 1, "text": "Distance on the ground", "is_correct": false },
+      { "option_id": 2, "text": "Distance on the map", "is_correct": true },
+      { "option_id": 3, "text": "Height of the map", "is_correct": false },
+      { "option_id": 4, "text": "Time taken to travel", "is_correct": false }
+    ],
+    "answer": "Distance on the map"
+  },
+  {
+    "question_id": 6,
+    "question_type": "MCQ",
+    "question": "What does the numerical scale 1:60,00,000 mean?",
+    "options": [
+      { "option_id": 1, "text": "1 cm on map = 60 km on ground", "is_correct": true },
+      { "option_id": 2, "text": "1 km on map = 60 cm on ground", "is_correct": false },
+      { "option_id": 3, "text": "1 m on map = 60 m on ground", "is_correct": false },
+      { "option_id": 4, "text": "1 mm on map = 60 mm on ground", "is_correct": false }
+    ],
+    "answer": "1 cm on map = 60 km on ground"
+  },
+  {
+    "question_id": 7,
+    "question_type": "MCQ",
+    "question": "What is another name for a numerical scale?",
+    "options": [
+      { "option_id": 1, "text": "Graphical Scale", "is_correct": false },
+      { "option_id": 2, "text": "Representative Fraction", "is_correct": true },
+      { "option_id": 3, "text": "Verbal Fraction", "is_correct": false },
+      { "option_id": 4, "text": "Linear Fraction", "is_correct": false }
+    ],
+    "answer": "Representative Fraction"
+  },
+  {
+    "question_id": 8,
+    "question_type": "MCQ",
+    "question": "Which scale changes automatically when a map is reduced or enlarged?",
+    "options": [
+      { "option_id": 1, "text": "Verbal Scale", "is_correct": false },
+      { "option_id": 2, "text": "Numerical Scale", "is_correct": false },
+      { "option_id": 3, "text": "Graphical Scale", "is_correct": true },
+      { "option_id": 4, "text": "All of the above", "is_correct": false }
+    ],
+    "answer": "Graphical Scale"
+  },
+  {
+    "question_id": 9,
+    "question_type": "MCQ",
+    "question": "What is a large scale map?",
+    "options": [
+      { "option_id": 1, "text": "A map showing a large area with less detail", "is_correct": false },
+      { "option_id": 2, "text": "A map showing a small area with more detail", "is_correct": true },
+      { "option_id": 3, "text": "A map with a large numerical scale denominator", "is_correct": false },
+      { "option_id": 4, "text": "A map of the world", "is_correct": false }
+    ],
+    "answer": "A map showing a small area with more detail"
+  },
+  {
+    "question_id": 10,
+    "question_type": "MCQ",
+    "question": "Which of the following is an example of a large scale map?",
+    "options": [
+      { "option_id": 1, "text": "World map", "is_correct": false },
+      { "option_id": 2, "text": "Map of a village", "is_correct": true },
+      { "option_id": 3, "text": "Map of a continent", "is_correct": false },
+      { "option_id": 4, "text": "Atlas map", "is_correct": false }
+    ],
+    "answer": "Map of a village"
+  },
+  {
+    "question_id": 11,
+    "question_type": "MCQ",
+    "question": "Which numerical scale represents a large scale map?",
+    "options": [
+      { "option_id": 1, "text": "1:10,00,000", "is_correct": false },
+      { "option_id": 2, "text": "1:50,000", "is_correct": false },
+      { "option_id": 3, "text": "1:25,000", "is_correct": true },
+      { "option_id": 4, "text": "1:5,000,000", "is_correct": false }
+    ],
+    "answer": "1:25,000"
+  },
+  {
+    "question_id": 12,
+    "question_type": "MCQ",
+    "question": "What is a small scale map?",
+    "options": [
+      { "option_id": 1, "text": "A map showing a small area in great detail", "is_correct": false },
+      { "option_id": 2, "text": "A map showing a large area with less detail", "is_correct": true },
+      { "option_id": 3, "text": "A map with small font size", "is_correct": false },
+      { "option_id": 4, "text": "A map printed on small paper", "is_correct": false }
+    ],
+    "answer": "A map showing a large area with less detail"
+  },
+  {
+    "question_id": 13,
+    "question_type": "MCQ",
+    "question": "Which of these is a small scale map?",
+    "options": [
+      { "option_id": 1, "text": "Map of a school", "is_correct": false },
+      { "option_id": 2, "text": "Map of a garden", "is_correct": false },
+      { "option_id": 3, "text": "Map of India", "is_correct": true },
+      { "option_id": 4, "text": "Map of a building", "is_correct": false }
+    ],
+    "answer": "Map of India"
+  },
+  {
+    "question_id": 14,
+    "question_type": "MCQ",
+    "question": "In the ratio 1:60,00,000, what does '1' represent?",
+    "options": [
+      { "option_id": 1, "text": "Distance on the ground", "is_correct": false },
+      { "option_id": 2, "text": "Distance on the map", "is_correct": true },
+      { "option_id": 3, "text": "Time in hours", "is_correct": false },
+      { "option_id": 4, "text": "Height in meters", "is_correct": false }
+    ],
+    "answer": "Distance on the map"
+  },
+  {
+    "question_id": 15,
+    "question_type": "MCQ",
+    "question": "Which tool can be used to measure distances on a map if a ruler is not available?",
+    "options": [
+      { "option_id": 1, "text": "Compass", "is_correct": true },
+      { "option_id": 2, "text": "Thermometer", "is_correct": false },
+      { "option_id": 3, "text": "Barometer", "is_correct": false },
+      { "option_id": 4, "text": "Speedometer", "is_correct": false }
+    ],
+    "answer": "Compass"
+  },
+  {
+    "question_id": 16,
+    "question_type": "MCQ",
+    "question": "What happens to a graphical scale when a map is enlarged?",
+    "options": [
+      { "option_id": 1, "text": "It disappears", "is_correct": false },
+      { "option_id": 2, "text": "It remains the same", "is_correct": false },
+      { "option_id": 3, "text": "It enlarges proportionally", "is_correct": true },
+      { "option_id": 4, "text": "It becomes numerical", "is_correct": false }
+    ],
+    "answer": "It enlarges proportionally"
+  },
+  {
+    "question_id": 17,
+    "question_type": "MCQ",
+    "question": "Why is a numerical scale called a 'global scale'?",
+    "options": [
+      { "option_id": 1, "text": "Because it uses numbers understandable worldwide", "is_correct": true },
+      { "option_id": 2, "text": "Because it shows the whole world", "is_correct": false },
+      { "option_id": 3, "text": "Because it is used only on world maps", "is_correct": false },
+      { "option_id": 4, "text": "Because it was invented globally", "is_correct": false }
+    ],
+    "answer": "Because it uses numbers understandable worldwide"
+  },
+  {
+    "question_id": 18,
+    "question_type": "MCQ",
+    "question": "What does the left side of a map scale represent?",
+    "options": [
+      { "option_id": 1, "text": "Actual ground distance", "is_correct": false },
+      { "option_id": 2, "text": "Distance on the map", "is_correct": true },
+      { "option_id": 3, "text": "Height above sea level", "is_correct": false },
+      { "option_id": 4, "text": "Time zone difference", "is_correct": false }
+    ],
+    "answer": "Distance on the map"
+  },
+  {
+    "question_id": 19,
+    "question_type": "MCQ",
+    "question": "If 1 cm on a map = 100 m on ground, what is the numerical scale?",
+    "options": [
+      { "option_id": 1, "text": "1:100", "is_correct": false },
+      { "option_id": 2, "text": "1:1,000", "is_correct": false },
+      { "option_id": 3, "text": "1:10,000", "is_correct": true },
+      { "option_id": 4, "text": "1:1,00,000", "is_correct": false }
+    ],
+    "answer": "1:10,000"
+  },
+  {
+    "question_id": 20,
+    "question_type": "MCQ",
+    "question": "Which type of map typically uses a small scale?",
+    "options": [
+      { "option_id": 1, "text": "City map", "is_correct": false },
+      { "option_id": 2, "text": "Atlas map", "is_correct": true },
+      { "option_id": 3, "text": "Campus map", "is_correct": false },
+      { "option_id": 4, "text": "Farm map", "is_correct": false }
+    ],
+    "answer": "Atlas map"
+  },
+  {
+    "question_id": 21,
+    "question_type": "MCQ",
+    "question": "What is the main advantage of a graphical scale?",
+    "options": [
+      { "option_id": 1, "text": "It uses words", "is_correct": false },
+      { "option_id": 2, "text": "It remains accurate when map size changes", "is_correct": true },
+      { "option_id": 3, "text": "It is easier to draw", "is_correct": false },
+      { "option_id": 4, "text": "It doesn't need numbers", "is_correct": false }
+    ],
+    "answer": "It remains accurate when map size changes"
+  },
+  {
+    "question_id": 22,
+    "question_type": "MCQ",
+    "question": "Which of these is a large scale map?",
+    "options": [
+      { "option_id": 1, "text": "1:2,500", "is_correct": true },
+      { "option_id": 2, "text": "1:50,000", "is_correct": false },
+      { "option_id": 3, "text": "1:10,00,000", "is_correct": false },
+      { "option_id": 4, "text": "1:25,00,000", "is_correct": false }
+    ],
+    "answer": "1:2,500"
+  },
+  {
+    "question_id": 23,
+    "question_type": "MCQ",
+    "question": "What does RF stand for in map scales?",
+    "options": [
+      { "option_id": 1, "text": "Real Fraction", "is_correct": false },
+      { "option_id": 2, "text": "Representative Fraction", "is_correct": true },
+      { "option_id": 3, "text": "Ratio Fraction", "is_correct": false },
+      { "option_id": 4, "text": "Readable Fraction", "is_correct": false }
+    ],
+    "answer": "Representative Fraction"
+  },
+  {
+    "question_id": 24,
+    "question_type": "MCQ",
+    "question": "When measuring curved distances on a map, what can be used?",
+    "options": [
+      { "option_id": 1, "text": "Ruler only", "is_correct": false },
+      { "option_id": 2, "text": "Thread", "is_correct": true },
+      { "option_id": 3, "text": "Compass only", "is_correct": false },
+      { "option_id": 4, "text": "Thermometer", "is_correct": false }
+    ],
+    "answer": "Thread"
+  },
+  {
+    "question_id": 25,
+    "question_type": "MCQ",
+    "question": "What is the scale if 2 cm on a map represents 500 m on ground?",
+    "options": [
+      { "option_id": 1, "text": "1:25,000", "is_correct": true },
+      { "option_id": 2, "text": "1:2,500", "is_correct": false },
+      { "option_id": 3, "text": "1:250", "is_correct": false },
+      { "option_id": 4, "text": "1:50,000", "is_correct": false }
+    ],
+    "answer": "1:25,000"
+  },
+  {
+    "question_id": 26,
+    "question_type": "MCQ",
+    "question": "Which of these maps would show the most detail?",
+    "options": [
+      { "option_id": 1, "text": "1:1,000", "is_correct": true },
+      { "option_id": 2, "text": "1:10,000", "is_correct": false },
+      { "option_id": 3, "text": "1:1,00,000", "is_correct": false },
+      { "option_id": 4, "text": "1:10,00,000", "is_correct": false }
+    ],
+    "answer": "1:1,000"
+  },
+  {
+    "question_id": 27,
+    "question_type": "MCQ",
+    "question": "What does the right side of a map scale represent?",
+    "options": [
+      { "option_id": 1, "text": "Distance on the map", "is_correct": false },
+      { "option_id": 2, "text": "Actual ground distance", "is_correct": true },
+      { "option_id": 3, "text": "Map title", "is_correct": false },
+      { "option_id": 4, "text": "Direction", "is_correct": false }
+    ],
+    "answer": "Actual ground distance"
+  },
+  {
+    "question_id": 28,
+    "question_type": "MCQ",
+    "question": "Which scale is most affected by photocopying a map?",
+    "options": [
+      { "option_id": 1, "text": "Verbal scale", "is_correct": false },
+      { "option_id": 2, "text": "Numerical scale", "is_correct": false },
+      { "option_id": 3, "text": "Graphical scale", "is_correct": false },
+      { "option_id": 4, "text": "Verbal and numerical scales remain unchanged", "is_correct": true }
+    ],
+    "answer": "Verbal and numerical scales remain unchanged"
+  },
+  {
+    "question_id": 29,
+    "question_type": "MCQ",
+    "question": "What is the verbal scale for 1:50,000?",
+    "options": [
+      { "option_id": 1, "text": "1 cm = 50 km", "is_correct": false },
+      { "option_id": 2, "text": "1 cm = 500 m", "is_correct": false },
+      { "option_id": 3, "text": "1 cm = 0.5 km", "is_correct": true },
+      { "option_id": 4, "text": "1 cm = 5 km", "is_correct": false }
+    ],
+    "answer": "1 cm = 0.5 km"
+  },
+  {
+    "question_id": 30,
+    "question_type": "MCQ",
+    "question": "Which of these is a characteristic of small scale maps?",
+    "options": [
+      { "option_id": 1, "text": "Show large areas", "is_correct": true },
+      { "option_id": 2, "text": "Show small areas", "is_correct": false },
+      { "option_id": 3, "text": "Show great detail", "is_correct": false },
+      { "option_id": 4, "text": "Used for city planning", "is_correct": false }
+    ],
+    "answer": "Show large areas"
+  },
+  {
+    "question_id": 31,
+    "question_type": "MCQ",
+    "question": "What unit is typically used in the denominator of a numerical scale?",
+    "options": [
+      { "option_id": 1, "text": "Centimeters", "is_correct": false },
+      { "option_id": 2, "text": "The same unit as numerator", "is_correct": true },
+      { "option_id": 3, "text": "Kilometers", "is_correct": false },
+      { "option_id": 4, "text": "Meters", "is_correct": false }
+    ],
+    "answer": "The same unit as numerator"
+  },
+  {
+    "question_id": 32,
+    "question_type": "MCQ",
+    "question": "Which map would have the smallest scale?",
+    "options": [
+      { "option_id": 1, "text": "Map of a house", "is_correct": false },
+      { "option_id": 2, "text": "Map of a city", "is_correct": false },
+      { "option_id": 3, "text": "Map of a country", "is_correct": false },
+      { "option_id": 4, "text": "Map of the world", "is_correct": true }
+    ],
+    "answer": "Map of the world"
+  },
+  {
+    "question_id": 33,
+    "question_type": "MCQ",
+    "question": "What does the term 'scale' refer to in cartography?",
+    "options": [
+      { "option_id": 1, "text": "The size of the map paper", "is_correct": false },
+      { "option_id": 2, "text": "The ratio between map distance and ground distance", "is_correct": true },
+      { "option_id": 3, "text": "The weight of the map", "is_correct": false },
+      { "option_id": 4, "text": "The colors used on the map", "is_correct": false }
+    ],
+    "answer": "The ratio between map distance and ground distance"
+  },
+  {
+    "question_id": 34,
+    "question_type": "MCQ",
+    "question": "Which of these numerical scales is the smallest?",
+    "options": [
+      { "option_id": 1, "text": "1:1,000", "is_correct": false },
+      { "option_id": 2, "text": "1:10,000", "is_correct": false },
+      { "option_id": 3, "text": "1:1,00,000", "is_correct": false },
+      { "option_id": 4, "text": "1:10,00,000", "is_correct": true }
+    ],
+    "answer": "1:10,00,000"
+  },
+  {
+    "question_id": 35,
+    "question_type": "MCQ",
+    "question": "What is essential before preparing a map?",
+    "options": [
+      { "option_id": 1, "text": "Choosing colors", "is_correct": false },
+      { "option_id": 2, "text": "Fixing a scale", "is_correct": true },
+      { "option_id": 3, "text": "Buying expensive paper", "is_correct": false },
+      { "option_id": 4, "text": "Learning to draw", "is_correct": false }
+    ],
+    "answer": "Fixing a scale"
+  },
+  {
+    "question_id": 36,
+    "question_type": "MCQ",
+    "question": "Which scale method uses words like 'cm' and 'km'?",
+    "options": [
+      { "option_id": 1, "text": "Numerical scale", "is_correct": false },
+      { "option_id": 2, "text": "Graphical scale", "is_correct": false },
+      { "option_id": 3, "text": "Verbal scale", "is_correct": true },
+      { "option_id": 4, "text": "Linear scale", "is_correct": false }
+    ],
+    "answer": "Verbal scale"
+  },
+  {
+    "question_id": 37,
+    "question_type": "MCQ",
+    "question": "What happens to distances in a photograph compared to real life?",
+    "options": [
+      { "option_id": 1, "text": "They increase", "is_correct": false },
+      { "option_id": 2, "text": "They decrease proportionally", "is_correct": true },
+      { "option_id": 3, "text": "They remain the same", "is_correct": false },
+      { "option_id": 4, "text": "They become distorted", "is_correct": false }
+    ],
+    "answer": "They decrease proportionally"
+  },
+  {
+    "question_id": 38,
+    "question_type": "MCQ",
+    "question": "Which of these is true about large scale maps?",
+    "options": [
+      { "option_id": 1, "text": "They show less detail", "is_correct": false },
+      { "option_id": 2, "text": "They have a larger denominator in RF", "is_correct": false },
+      { "option_id": 3, "text": "They cover larger areas", "is_correct": false },
+      { "option_id": 4, "text": "They have a smaller denominator in RF", "is_correct": true }
+    ],
+    "answer": "They have a smaller denominator in RF"
+  },
+  {
+    "question_id": 39,
+    "question_type": "MCQ",
+    "question": "What measurement is typically used in surveying for map preparation?",
+    "options": [
+      { "option_id": 1, "text": "Ground distances", "is_correct": true },
+      { "option_id": 2, "text": "Air distances", "is_correct": false },
+      { "option_id": 3, "text": "Sea depths", "is_correct": false },
+      { "option_id": 4, "text": "Building heights", "is_correct": false }
+    ],
+    "answer": "Ground distances"
+  },
+  {
+    "question_id": 40,
+    "question_type": "MCQ",
+    "question": "Which scale would be best for a map of your school?",
+    "options": [
+      { "option_id": 1, "text": "1:10,00,000", "is_correct": false },
+      { "option_id": 2, "text": "1:1,00,000", "is_correct": false },
+      { "option_id": 3, "text": "1:10,000", "is_correct": false },
+      { "option_id": 4, "text": "1:1,000", "is_correct": true }
+    ],
+    "answer": "1:1,000"
+  },
+  {
+    "question_id": 41,
+    "question_type": "MCQ",
+    "question": "What is the numerical scale for '1 cm = 1 km'?",
+    "options": [
+      { "option_id": 1, "text": "1:100", "is_correct": false },
+      { "option_id": 2, "text": "1:1,000", "is_correct": false },
+      { "option_id": 3, "text": "1:10,000", "is_correct": false },
+      { "option_id": 4, "text": "1:1,00,000", "is_correct": true }
+    ],
+    "answer": "1:1,00,000"
+  },
+  {
+    "question_id": 42,
+    "question_type": "MCQ",
+    "question": "Which type of map shows more information about a small area?",
+    "options": [
+      { "option_id": 1, "text": "Small scale map", "is_correct": false },
+      { "option_id": 2, "text": "Large scale map", "is_correct": true },
+      { "option_id": 3, "text": "World map", "is_correct": false },
+      { "option_id": 4, "text": "Atlas map", "is_correct": false }
+    ],
+    "answer": "Large scale map"
+  },
+  {
+    "question_id": 43,
+    "question_type": "MCQ",
+    "question": "What does a scale of 1:25,000 mean?",
+    "options": [
+      { "option_id": 1, "text": "1 unit on map = 25,000 same units on ground", "is_correct": true },
+      { "option_id": 2, "text": "25,000 units on map = 1 unit on ground", "is_correct": false },
+      { "option_id": 3, "text": "1 cm = 25,000 km", "is_correct": false },
+      { "option_id": 4, "text": "25,000 cm = 1 km", "is_correct": false }
+    ],
+    "answer": "1 unit on map = 25,000 same units on ground"
+  },
+  {
+    "question_id": 44,
+    "question_type": "MCQ",
+    "question": "Which of these is NOT a use of map scale?",
+    "options": [
+      { "option_id": 1, "text": "Calculating actual distances", "is_correct": false },
+      { "option_id": 2, "text": "Understanding map proportions", "is_correct": false },
+      { "option_id": 3, "text": "Determining map colors", "is_correct": true },
+      { "option_id": 4, "text": "Comparing different maps", "is_correct": false }
+    ],
+    "answer": "Determining map colors"
+  },
+  {
+    "question_id": 45,
+    "question_type": "MCQ",
+    "question": "What is the first step in preparing a map?",
+    "options": [
+      { "option_id": 1, "text": "Surveying the area", "is_correct": true },
+      { "option_id": 2, "text": "Choosing paper size", "is_correct": false },
+      { "option_id": 3, "text": "Drawing borders", "is_correct": false },
+      { "option_id": 4, "text": "Writing the title", "is_correct": false }
+    ],
+    "answer": "Surveying the area"
+  },
+  {
+    "question_id": 46,
+    "question_type": "MCQ",
+    "question": "Which scale is most commonly used in atlases?",
+    "options": [
+      { "option_id": 1, "text": "Large scale", "is_correct": false },
+      { "option_id": 2, "text": "Small scale", "is_correct": true },
+      { "option_id": 3, "text": "Verbal scale", "is_correct": false },
+      { "option_id": 4, "text": "Graphical scale only", "is_correct": false }
+    ],
+    "answer": "Small scale"
+  },
+  {
+    "question_id": 47,
+    "question_type": "MCQ",
+    "question": "What does a larger RF denominator indicate?",
+    "options": [
+      { "option_id": 1, "text": "Larger scale map", "is_correct": false },
+      { "option_id": 2, "text": "Smaller scale map", "is_correct": true },
+      { "option_id": 3, "text": "More detailed map", "is_correct": false },
+      { "option_id": 4, "text": "Larger map size", "is_correct": false }
+    ],
+    "answer": "Smaller scale map"
+  },
+  {
+    "question_id": 48,
+    "question_type": "MCQ",
+    "question": "Which of these would require the largest scale map?",
+    "options": [
+      { "option_id": 1, "text": "Showing all continents", "is_correct": false },
+      { "option_id": 2, "text": "Showing a house plan", "is_correct": true },
+      { "option_id": 3, "text": "Showing a country", "is_correct": false },
+      { "option_id": 4, "text": "Showing a state", "is_correct": false }
+    ],
+    "answer": "Showing a house plan"
+  },
+  {
+    "question_id": 49,
+    "question_type": "MCQ",
+    "question": "What is the purpose of the 'Try this' activity with student heights?",
+    "options": [
+      { "option_id": 1, "text": "To measure student growth", "is_correct": false },
+      { "option_id": 2, "text": "To understand proportional reduction like in maps", "is_correct": true },
+      { "option_id": 3, "text": "To take class attendance", "is_correct": false },
+      { "option_id": 4, "text": "To decorate the classroom", "is_correct": false }
+    ],
+    "answer": "To understand proportional reduction like in maps"
+  },
+  {
+    "question_id": 50,
+    "question_type": "MCQ",
+    "question": "Which statement about map scales is correct?",
+    "options": [
+      { "option_id": 1, "text": "All maps have the same scale", "is_correct": false },
+      { "option_id": 2, "text": "Scale is not important for map reading", "is_correct": false },
+      { "option_id": 3, "text": "Different maps can have different scales", "is_correct": true },
+      { "option_id": 4, "text": "Scale only applies to world maps", "is_correct": false }
+    ],
+    "answer": "Different maps can have different scales"
+  },
+  {
+    "question_id": 51,
+    "question_type": "SHORT",
+    "question": "What is map scale?",
+    "answer": "The ratio between distance on a map and actual distance on the ground."
+  },
+  {
+    "question_id": 52,
+    "question_type": "SHORT",
+    "question": "Why does a painter hold a pencil at arm's length before drawing?",
+    "answer": "To estimate the scale and proportions of the scene."
+  },
+  {
+    "question_id": 53,
+    "question_type": "SHORT",
+    "question": "What are the three methods of expressing map scale?",
+    "answer": "Verbal scale, numerical scale, and linear/graphical scale."
+  },
+  {
+    "question_id": 54,
+    "question_type": "SHORT",
+    "question": "What is a verbal scale?",
+    "answer": "A scale expressed in words, e.g., '1 cm = 10 km'."
+  },
+  {
+    "question_id": 55,
+    "question_type": "SHORT",
+    "question": "What is a numerical scale?",
+    "answer": "A scale expressed as a ratio or representative fraction, e.g., 1:100,000."
+  },
+  {
+    "question_id": 56,
+    "question_type": "SHORT",
+    "question": "What is a graphical scale?",
+    "answer": "A scale shown as a line or bar marked with distances."
+  },
+  {
+    "question_id": 57,
+    "question_type": "SHORT",
+    "question": "What does RF stand for?",
+    "answer": "Representative Fraction."
+  },
+  {
+    "question_id": 58,
+    "question_type": "SHORT",
+    "question": "What is a large scale map?",
+    "answer": "A map that shows a small area with great detail."
+  },
+  {
+    "question_id": 59,
+    "question_type": "SHORT",
+    "question": "Give an example of a large scale map.",
+    "answer": "Map of a village, school, or building."
+  },
+  {
+    "question_id": 60,
+    "question_type": "SHORT",
+    "question": "What is a small scale map?",
+    "answer": "A map that shows a large area with less detail."
+  },
+  {
+    "question_id": 61,
+    "question_type": "SHORT",
+    "question": "Give an example of a small scale map.",
+    "answer": "World map, atlas map, or map of a country."
+  },
+  {
+    "question_id": 62,
+    "question_type": "SHORT",
+    "question": "Which scale has a larger ratio: 1:1,000 or 1:100,000?",
+    "answer": "1:1,000 (smaller denominator means larger scale)."
+  },
+  {
+    "question_id": 63,
+    "question_type": "SHORT",
+    "question": "What is the advantage of a graphical scale?",
+    "answer": "It remains accurate when the map is reduced or enlarged."
+  },
+  {
+    "question_id": 64,
+    "question_type": "SHORT",
+    "question": "What happens to verbal and numerical scales when a map is photocopied and reduced?",
+    "answer": "They become incorrect unless recalculated."
+  },
+  {
+    "question_id": 65,
+    "question_type": "SHORT",
+    "question": "How can you measure a curved distance on a map?",
+    "answer": "Using a thread or flexible ruler."
+  },
+  {
+    "question_id": 66,
+    "question_type": "SHORT",
+    "question": "What is surveying in map making?",
+    "answer": "Measuring actual ground distances before drawing a map."
+  },
+  {
+    "question_id": 67,
+    "question_type": "SHORT",
+    "question": "Convert the verbal scale '1 cm = 50 km' to numerical scale.",
+    "answer": "1:5,000,000."
+  },
+  {
+    "question_id": 68,
+    "question_type": "SHORT",
+    "question": "Convert the numerical scale 1:25,000 to verbal scale in metric system.",
+    "answer": "1 cm = 0.25 km or 250 m."
+  },
+  {
+    "question_id": 69,
+    "question_type": "SHORT",
+    "question": "What does the left side of a scale bar represent?",
+    "answer": "Distance on the map."
+  },
+  {
+    "question_id": 70,
+    "question_type": "SHORT",
+    "question": "What does the right side of a scale bar represent?",
+    "answer": "Actual distance on the ground."
+  },
+  {
+    "question_id": 71,
+    "question_type": "SHORT",
+    "question": "Why is a numerical scale called a global scale?",
+    "answer": "Because it uses numbers understandable worldwide, regardless of local units."
+  },
+  {
+    "question_id": 72,
+    "question_type": "SHORT",
+    "question": "Which scale would you use for a map of your classroom?",
+    "answer": "Large scale (e.g., 1:100)."
+  },
+  {
+    "question_id": 73,
+    "question_type": "SHORT",
+    "question": "Which scale would you use for a map of Asia?",
+    "answer": "Small scale (e.g., 1:10,000,000)."
+  },
+  {
+    "question_id": 74,
+    "question_type": "SHORT",
+    "question": "What is the purpose of scale in a map?",
+    "answer": "To allow accurate measurement of real distances from the map."
+  },
+  {
+    "question_id": 75,
+    "question_type": "SHORT",
+    "question": "What tool besides a ruler can be used to measure straight distances on a map?",
+    "answer": "Compass or divider."
+  },
+  {
+    "question_id": 76,
+    "question_type": "SHORT",
+    "question": "What is the relationship between map scale and detail?",
+    "answer": "Larger scale shows more detail; smaller scale shows less detail."
+  },
+  {
+    "question_id": 77,
+    "question_type": "SHORT",
+    "question": "Is 1:50,000 a large or small scale?",
+    "answer": "Large scale (compared to world maps)."
+  },
+  {
+    "question_id": 78,
+    "question_type": "SHORT",
+    "question": "Is 1:5,000,000 a large or small scale?",
+    "answer": "Small scale."
+  },
+  {
+    "question_id": 79,
+    "question_type": "SHORT",
+    "question": "What unit is used in the denominator of a numerical scale?",
+    "answer": "Same unit as the numerator (both in cm, both in inches, etc.)."
+  },
+  {
+    "question_id": 80,
+    "question_type": "SHORT",
+    "question": "How do you calculate actual distance using a map scale?",
+    "answer": "Multiply map distance by the scale factor."
+  },
+  {
+    "question_id": 81,
+    "question_type": "SHORT",
+    "question": "If 2 cm on map = 1 km on ground, what is the RF?",
+    "answer": "1:50,000."
+  },
+  {
+    "question_id": 82,
+    "question_type": "SHORT",
+    "question": "What is the first step in preparing a map to scale?",
+    "answer": "Surveying and measuring actual distances."
+  },
+  {
+    "question_id": 83,
+    "question_type": "SHORT",
+    "question": "Why must a scale be mentioned on a map?",
+    "answer": "To help users understand and measure real distances."
+  },
+  {
+    "question_id": 84,
+    "question_type": "SHORT",
+    "question": "What type of scale is 1 cm = 200 m?",
+    "answer": "Verbal scale."
+  },
+  {
+    "question_id": 85,
+    "question_type": "SHORT",
+    "question": "What type of scale is shown as a line divided into parts?",
+    "answer": "Graphical or linear scale."
+  },
+  {
+    "question_id": 86,
+    "question_type": "SHORT",
+    "question": "Which map shows a larger area: large scale or small scale?",
+    "answer": "Small scale map."
+  },
+  {
+    "question_id": 87,
+    "question_type": "SHORT",
+    "question": "Which map shows more detail: 1:10,000 or 1:100,000?",
+    "answer": "1:10,000."
+  },
+  {
+    "question_id": 88,
+    "question_type": "SHORT",
+    "question": "What is the meaning of 1:1,000,000?",
+    "answer": "1 unit on map = 1,000,000 same units on ground."
+  },
+  {
+    "question_id": 89,
+    "question_type": "SHORT",
+    "question": "How does a graphical scale help when a map is enlarged?",
+    "answer": "It enlarges proportionally and remains accurate."
+  },
+  {
+    "question_id": 90,
+    "question_type": "SHORT",
+    "question": "What is the main limitation of verbal scale?",
+    "answer": "It depends on specific units (km, miles) and changes if map is resized."
+  },
+  {
+    "question_id": 91,
+    "question_type": "SHORT",
+    "question": "What is the main advantage of numerical scale?",
+    "answer": "It is unitless and universally understandable."
+  },
+  {
+    "question_id": 92,
+    "question_type": "SHORT",
+    "question": "Can you measure distance on a map without a scale?",
+    "answer": "No, you cannot determine actual distance without a scale."
+  },
+  {
+    "question_id": 93,
+    "question_type": "SHORT",
+    "question": "What is the scale if 5 cm on map = 10 km on ground?",
+    "answer": "1:200,000."
+  },
+  {
+    "question_id": 94,
+    "question_type": "SHORT",
+    "question": "What does 'proportional reduction' mean in mapping?",
+    "answer": "All distances on the map are reduced by the same ratio."
+  },
+  {
+    "question_id": 95,
+    "question_type": "SHORT",
+    "question": "Why are atlas maps usually small scale?",
+    "answer": "To show large areas like countries or continents on small pages."
+  },
+  {
+    "question_id": 96,
+    "question_type": "SHORT",
+    "question": "What is a plan?",
+    "answer": "A large scale map of a small area like a building or garden."
+  },
+  {
+    "question_id": 97,
+    "question_type": "SHORT",
+    "question": "How is a map different from a picture?",
+    "answer": "A map is drawn to scale; a picture may not be proportional."
+  },
+  {
+    "question_id": 98,
+    "question_type": "SHORT",
+    "question": "What is the role of geometry in map making?",
+    "answer": "To accurately reduce real distances to map distances using scale."
+  },
+  {
+    "question_id": 99,
+    "question_type": "SHORT",
+    "question": "What is the full form of RF?",
+    "answer": "Representative Fraction."
+  },
+  {
+    "question_id": 100,
+    "question_type": "SHORT",
+    "question": "What is the meaning of 'scale 1 inch = 1 mile'?",
+    "answer": "One inch on the map equals one mile on the ground."
+  },
+  {
+    "question_id": 101,
+    "question_type": "SHORT",
+    "question": "Which is larger scale: 1:2,500 or 1:25,000?",
+    "answer": "1:2,500."
+  },
+  {
+    "question_id": 102,
+    "question_type": "SHORT",
+    "question": "What scale is used for world maps in atlases?",
+    "answer": "Small scale (e.g., 1:30,000,000)."
+  },
+  {
+    "question_id": 103,
+    "question_type": "SHORT",
+    "question": "What is a line scale?",
+    "answer": "Another name for graphical or linear scale."
+  },
+  {
+    "question_id": 104,
+    "question_type": "SHORT",
+    "question": "How do you read distance from a graphical scale?",
+    "answer": "Place a ruler or divider on the scale bar and read the ground distance."
+  },
+  {
+    "question_id": 105,
+    "question_type": "SHORT",
+    "question": "What is the purpose of the 'Try this' activity with student heights?",
+    "answer": "To understand how scale reduces real measurements proportionally."
+  },
+  {
+    "question_id": 106,
+    "question_type": "SHORT",
+    "question": "If actual distance is 500 m and map distance is 5 cm, what is the RF?",
+    "answer": "1:10,000."
+  },
+  {
+    "question_id": 107,
+    "question_type": "SHORT",
+    "question": "What is the RF for '1 cm = 0.5 km'?",
+    "answer": "1:50,000."
+  },
+  {
+    "question_id": 108,
+    "question_type": "SHORT",
+    "question": "What does a scale of 1:1 mean?",
+    "answer": "Map is same size as reality (full scale, used for plans)."
+  },
+  {
+    "question_id": 109,
+    "question_type": "SHORT",
+    "question": "Why is scale important in cartography?",
+    "answer": "It provides accuracy and allows comparison between maps."
+  },
+  {
+    "question_id": 110,
+    "question_type": "SHORT",
+    "question": "What is a cadastral map?",
+    "answer": "A large scale map showing property boundaries."
+  },
+  {
+    "question_id": 111,
+    "question_type": "SHORT",
+    "question": "How is a small scale map useful?",
+    "answer": "For overview of large regions, navigation, and general reference."
+  },
+  {
+    "question_id": 112,
+    "question_type": "SHORT",
+    "question": "How is a large scale map useful?",
+    "answer": "For detailed planning, construction, and local navigation."
+  },
+  {
+    "question_id": 113,
+    "question_type": "SHORT",
+    "question": "What is the difference between map distance and ground distance?",
+    "answer": "Map distance is measured on paper; ground distance is real-world distance."
+  },
+  {
+    "question_id": 114,
+    "question_type": "SHORT",
+    "question": "What is a topographic map?",
+    "answer": "A large scale map showing natural and man-made features with contours."
+  },
+  {
+    "question_id": 115,
+    "question_type": "SHORT",
+    "question": "Can scale be written in words and numbers on the same map?",
+    "answer": "Yes, often multiple scale methods are shown."
+  },
+  {
+    "question_id": 116,
+    "question_type": "SHORT",
+    "question": "What is a scale statement?",
+    "answer": "Another term for verbal scale."
+  },
+  {
+    "question_id": 117,
+    "question_type": "SHORT",
+    "question": "What does 'not to scale' mean on a drawing?",
+    "answer": "The drawing is not proportional to real measurements."
+  },
+  {
+    "question_id": 118,
+    "question_type": "SHORT",
+    "question": "How does map scale affect map size?",
+    "answer": "Larger scale requires more paper for same area; smaller scale fits larger area on same paper."
+  },
+  {
+    "question_id": 119,
+    "question_type": "SHORT",
+    "question": "What is the scale if 4 cm on map = 2 km on ground?",
+    "answer": "1:50,000."
+  },
+  {
+    "question_id": 120,
+    "question_type": "SHORT",
+    "question": "Why do wall maps often have graphical scales?",
+    "answer": "Because they may be viewed from a distance and graphical scale is easy to use."
+  },
+  {
+    "question_id": 121,
+    "question_type": "SHORT",
+    "question": "What is the principle behind map scale?",
+    "answer": "Proportional reduction of real-world distances."
+  },
+  {
+    "question_id": 122,
+    "question_type": "SHORT",
+    "question": "How do you choose a scale for a map?",
+    "answer": "Based on purpose, area to be shown, and required detail."
+  },
+  {
+    "question_id": 123,
+    "question_type": "SHORT",
+    "question": "What is a medium scale map?",
+    "answer": "A map with scale between large and small, e.g., 1:100,000 to 1:1,000,000."
+  },
+  {
+    "question_id": 124,
+    "question_type": "SHORT",
+    "question": "What is the scale of most city maps?",
+    "answer": "Large scale (e.g., 1:10,000 to 1:50,000)."
+  },
+  {
+    "question_id": 125,
+    "question_type": "SHORT",
+    "question": "What is the scale of a globe?",
+    "answer": "Very small scale (e.g., 1:40,000,000 for a typical classroom globe)."
+  },
+  {
+    "question_id": 126,
+    "question_type": "SHORT",
+    "question": "How does map scale relate to map generalization?",
+    "answer": "Smaller scale requires more generalization (omitting detail)."
+  },
+  {
+    "question_id": 127,
+    "question_type": "SHORT",
+    "question": "What is a 'scale change'?",
+    "answer": "When a map is reduced or enlarged, changing its scale."
+  },
+  {
+    "question_id": 128,
+    "question_type": "SHORT",
+    "question": "Why is it important to understand map scale?",
+    "answer": "To interpret maps correctly and measure distances accurately."
+  },
+  {
+    "question_id": 129,
+    "question_type": "SHORT",
+    "question": "What is the difference between map scale and map projection?",
+    "answer": "Scale relates to size; projection relates to shape and distortion."
+  },
+  {
+    "question_id": 130,
+    "question_type": "SHORT",
+    "question": "What is a fractional scale?",
+    "answer": "Another name for numerical scale or RF."
+  },
+  {
+    "question_id": 131,
+    "question_type": "SHORT",
+    "question": "How do you measure distance on a map with a graphical scale?",
+    "answer": "Use a ruler or paper edge to transfer distance to scale bar."
+  },
+  {
+    "question_id": 132,
+    "question_type": "SHORT",
+    "question": "What is the meaning of '1:63,360'?",
+    "answer": "1 inch = 1 mile (since 1 mile = 63,360 inches)."
+  },
+  {
+    "question_id": 133,
+    "question_type": "SHORT",
+    "question": "What is a scale converter?",
+    "answer": "A tool or formula to convert between different scale expressions."
+  },
+  {
+    "question_id": 134,
+    "question_type": "SHORT",
+    "question": "Why is scale not constant on a small scale world map?",
+    "answer": "Due to map projection distortion, scale varies across the map."
+  },
+  {
+    "question_id": 135,
+    "question_type": "SHORT",
+    "question": "What is the simplest way to express scale?",
+    "answer": "Verbal scale (e.g., 1 cm to 1 km)."
+  },
+  {
+    "question_id": 136,
+    "question_type": "SHORT",
+    "question": "What is the most precise way to express scale?",
+    "answer": "Numerical scale (RF)."
+  },
+  {
+    "question_id": 137,
+    "question_type": "SHORT",
+    "question": "What is the most practical way to express scale?",
+    "answer": "Graphical scale (easy to use directly on map)."
+  },
+  {
+    "question_id": 138,
+    "question_type": "SHORT",
+    "question": "What is the scale if actual distance 1000 m is shown as 10 cm on map?",
+    "answer": "1:10,000."
+  },
+  {
+    "question_id": 139,
+    "question_type": "SHORT",
+    "question": "How does map scale affect symbol size?",
+    "answer": "On larger scale maps, symbols can be closer to actual size; on smaller scale, symbols are exaggerated."
+  },
+  {
+    "question_id": 140,
+    "question_type": "SHORT",
+    "question": "What is a 'statement of scale'?",
+    "answer": "Same as verbal scale."
+  },
+  {
+    "question_id": 141,
+    "question_type": "SHORT",
+    "question": "What does 'large scale' mean in everyday language?",
+    "answer": "Big or extensive, but in maps it means detailed view of small area."
+  },
+  {
+    "question_id": 142,
+    "question_type": "SHORT",
+    "question": "Why do military maps use large scales?",
+    "answer": "For detailed terrain information and precise navigation."
+  },
+  {
+    "question_id": 143,
+    "question_type": "SHORT",
+    "question": "What is the scale of a typical road atlas?",
+    "answer": "Small to medium scale (e.g., 1:200,000 to 1:1,000,000)."
+  },
+  {
+    "question_id": 144,
+    "question_type": "SHORT",
+    "question": "How does digital mapping handle scale?",
+    "answer": "Through zoom levels that change scale dynamically."
+  },
+  {
+    "question_id": 145,
+    "question_type": "SHORT",
+    "question": "What is a 'scale bar'?",
+    "answer": "Another term for graphical scale."
+  },
+  {
+    "question_id": 146,
+    "question_type": "SHORT",
+    "question": "Why are graphical scales divided into primary and secondary divisions?",
+    "answer": "To allow precise measurement of different distance ranges."
+  },
+  {
+    "question_id": 147,
+    "question_type": "SHORT",
+    "question": "What is the relationship between map scale and map purpose?",
+    "answer": "Purpose determines required scale (e.g., navigation vs. overview)."
+  },
+  {
+    "question_id": 148,
+    "question_type": "SHORT",
+    "question": "How do you calculate map distance from actual distance?",
+    "answer": "Divide actual distance by scale denominator."
+  },
+  {
+    "question_id": 149,
+    "question_type": "SHORT",
+    "question": "What is the scale if 1 cm on map = 100 m on ground?",
+    "answer": "1:10,000."
+  },
+  {
+    "question_id": 150,
+    "question_type": "SHORT",
+    "question": "Why is understanding scale fundamental to geography?",
+    "answer": "Because it allows accurate spatial analysis and comparison between places."
+  }
+]
