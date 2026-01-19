@@ -1,0 +1,282 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "02.Marathi.02",
+    "standard": "2",
+    "subject": "Hindi",
+    "medium": "Marathi",
+    "chapter_name": "पानी दे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कवि बादल से क्या माँगता है?",
+      "options": [
+        { "option_id": 1, "text": "बिजली दे", "is_correct": false },
+        { "option_id": 2, "text": "हवा दे", "is_correct": false },
+        { "option_id": 3, "text": "पानी दे", "is_correct": true },
+        { "option_id": 4, "text": "धूप दे", "is_correct": false }
+      ],
+      "answer": "पानी दे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवि किस खेत में पानी बरसाने को कहता है?",
+      "options": [
+        { "option_id": 1, "text": "सूखे खेत में", "is_correct": true },
+        { "option_id": 2, "text": "नदी में", "is_correct": false },
+        { "option_id": 3, "text": "पहाड़ों में", "is_correct": false },
+        { "option_id": 4, "text": "समुद्र में", "is_correct": false }
+      ],
+      "answer": "सूखे खेत में"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवि किसे अन्न उगाने वाला कहता है?",
+      "options": [
+        { "option_id": 1, "text": "पेड़", "is_correct": false },
+        { "option_id": 2, "text": "खेत", "is_correct": true },
+        { "option_id": 3, "text": "बादल", "is_correct": false },
+        { "option_id": 4, "text": "पहाड़", "is_correct": false }
+      ],
+      "answer": "खेत"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "किसके आने से धरती में हरियाली छा जाती है?",
+      "options": [
+        { "option_id": 1, "text": "धूप", "is_correct": false },
+        { "option_id": 2, "text": "बारिश", "is_correct": true },
+        { "option_id": 3, "text": "हवा", "is_correct": false },
+        { "option_id": 4, "text": "कोहरा", "is_correct": false }
+      ],
+      "answer": "बारिश"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "बादल किसके ऊपर गरजता है?",
+      "options": [
+        { "option_id": 1, "text": "नदी के ऊपर", "is_correct": false },
+        { "option_id": 2, "text": "घर के ऊपर", "is_correct": false },
+        { "option_id": 3, "text": "आसमान के ऊपर", "is_correct": true },
+        { "option_id": 4, "text": "जंगल के ऊपर", "is_correct": false }
+      ],
+      "answer": "आसमान के ऊपर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "बारिश आने पर बच्चे क्या करते हैं?",
+      "options": [
+        { "option_id": 1, "text": "सो जाते हैं", "is_correct": false },
+        { "option_id": 2, "text": "घर के अंदर बैठते हैं", "is_correct": false },
+        { "option_id": 3, "text": "भीगकर खुश होते हैं", "is_correct": true },
+        { "option_id": 4, "text": "रोते हैं", "is_correct": false }
+      ],
+      "answer": "भीगकर खुश होते हैं"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवि पानी को किसके लिए उपयोगी बताता है?",
+      "options": [
+        { "option_id": 1, "text": "मनोरंजन के लिए", "is_correct": false },
+        { "option_id": 2, "text": "खेती और जीवन के लिए", "is_correct": true },
+        { "option_id": 3, "text": "सिर्फ सफाई के लिए", "is_correct": false },
+        { "option_id": 4, "text": "खेल के लिए", "is_correct": false }
+      ],
+      "answer": "खेती और जीवन के लिए"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "बिजली किसके साथ चमकती है?",
+      "options": [
+        { "option_id": 1, "text": "बारिश के साथ", "is_correct": true },
+        { "option_id": 2, "text": "धूप के साथ", "is_correct": false },
+        { "option_id": 3, "text": "धुंध के साथ", "is_correct": false },
+        { "option_id": 4, "text": "हवा के साथ", "is_correct": false }
+      ],
+      "answer": "बारिश के साथ"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "किसके गिरने से नदियाँ भर जाती हैं?",
+      "options": [
+        { "option_id": 1, "text": "पत्थर", "is_correct": false },
+        { "option_id": 2, "text": "पत्ते", "is_correct": false },
+        { "option_id": 3, "text": "बारिश का पानी", "is_correct": true },
+        { "option_id": 4, "text": "रेत", "is_correct": false }
+      ],
+      "answer": "बारिश का पानी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पानी किसके जीवन के लिए जरूरी है?",
+      "options": [
+        { "option_id": 1, "text": "केवल मनुष्य", "is_correct": false },
+        { "option_id": 2, "text": "केवल पशु", "is_correct": false },
+        { "option_id": 3, "text": "सभी जीवों के लिए", "is_correct": true },
+        { "option_id": 4, "text": "केवल पेड़", "is_correct": false }
+      ],
+      "answer": "सभी जीवों के लिए"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "बारिश के बाद क्या खिल उठती है?",
+      "options": [
+        { "option_id": 1, "text": "धरती", "is_correct": true },
+        { "option_id": 2, "text": "पहाड़", "is_correct": false },
+        { "option_id": 3, "text": "रेगिस्तान", "is_correct": false },
+        { "option_id": 4, "text": "आसमान", "is_correct": false }
+      ],
+      "answer": "धरती"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "बारिश किसकी प्यास बुझाती है?",
+      "options": [
+        { "option_id": 1, "text": "धरती की", "is_correct": true },
+        { "option_id": 2, "text": "हवा की", "is_correct": false },
+        { "option_id": 3, "text": "बादल की", "is_correct": false },
+        { "option_id": 4, "text": "पेड़ की छाया की", "is_correct": false }
+      ],
+      "answer": "धरती की"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कवि बारिश को किस रूप में देखता है?",
+      "options": [
+        { "option_id": 1, "text": "दंड", "is_correct": false },
+        { "option_id": 2, "text": "आशीर्वाद", "is_correct": true },
+        { "option_id": 3, "text": "सजा", "is_correct": false },
+        { "option_id": 4, "text": "खतरा", "is_correct": false }
+      ],
+      "answer": "आशीर्वाद"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवि किससे खेत में हरियाली लाने को कहता है?",
+      "options": [
+        { "option_id": 1, "text": "चांद", "is_correct": false },
+        { "option_id": 2, "text": "तारे", "is_correct": false },
+        { "option_id": 3, "text": "बादल", "is_correct": true },
+        { "option_id": 4, "text": "पक्षी", "is_correct": false }
+      ],
+      "answer": "बादल"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "बारिश को कवि किस प्रकार बुलाता है?",
+      "options": [
+        { "option_id": 1, "text": "डरकर", "is_correct": false },
+        { "option_id": 2, "text": "क्रोध से", "is_correct": false },
+        { "option_id": 3, "text": "प्रार्थना करके", "is_correct": true },
+        { "option_id": 4, "text": "मना करके", "is_correct": false }
+      ],
+      "answer": "प्रार्थना करके"
+    },
+
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कवि बादल से क्या प्रार्थना करता है?",
+      "answer": "कवि बादल से खेतों और धरती पर पानी बरसाने की प्रार्थना करता है।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "बारिश आने पर धरती पर क्या प्रभाव पड़ता है?",
+      "answer": "बारिश आने पर धरती हरी-भरी हो जाती है और फसलें उगती हैं।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "खेत में पानी क्यों जरूरी है?",
+      "answer": "खेत में पानी जरूरी है क्योंकि उससे फसलें उगती और बढ़ती हैं।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "बारिश के पानी से नदियों में क्या होता है?",
+      "answer": "बारिश के पानी से नदियाँ भर जाती हैं।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "पानी जीवन के लिए क्यों आवश्यक है?",
+      "answer": "क्योंकि पानी के बिना मनुष्य, पशु और पौधे जीवित नहीं रह सकते।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "बच्चे बारिश में क्यों खुश होते हैं?",
+      "answer": "क्योंकि वे बारिश में खेलते और भीगते हैं, जिससे उन्हें आनंद मिलता है।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "धरती की प्यास कैसे बुझती है?",
+      "answer": "बारिश के पानी से धरती की प्यास बुझती है।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "बारिश के बिना खेती पर क्या असर पड़ता है?",
+      "answer": "बारिश के बिना खेती सूख जाती है और अनाज नहीं उगता।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कवि बारिश को आशीर्वाद क्यों मानता है?",
+      "answer": "क्योंकि बारिश से खेत, पौधे और जीव-जंतु सभी को जीवन मिलता है।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "पानी को बचाना क्यों चाहिए?",
+      "answer": "क्योंकि पानी सीमित है और सभी के जीवन के लिए आवश्यक है।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "कवि खेतों के लिए किससे पानी माँगता है?",
+      "answer": "कवि बादल से खेतों के लिए पानी माँगता है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "बारिश आने पर पौधों में क्या परिवर्तन होता है?",
+      "answer": "बारिश आने पर पौधे हरे-भरे और ताज़ा हो जाते हैं।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "मानव जीवन में पानी का क्या महत्व है?",
+      "answer": "मानव जीवन में पानी पीने, खेती, सफाई और स्वास्थ्य के लिए महत्वपूर्ण है।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "कवि धरती को किस रूप में प्रस्तुत करता है?",
+      "answer": "धरती को प्यासे रूप में प्रस्तुत करता है जिसे पानी की आवश्यकता है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "पानी का संरक्षण क्यों जरूरी है?",
+      "answer": "ताकि भविष्य में भी सभी जीवों को पर्याप्त पानी मिल सके।"
+    }
+  ]
+}
