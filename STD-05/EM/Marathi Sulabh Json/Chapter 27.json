@@ -1,575 +1,1591 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "chapter_number": 27,
-  "chapter_name": "आपली शाळा",
-  "mode": "Outside Textbook | Max Safe Unique",
-  "counts": {
-    "one_line_questions": 65,
-    "mcqs": 35
-  },
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "‘आपली शाळा’ या धड्याचा मुख्य विचार काय आहे?",
-      "answer": "शाळेचे महत्त्व आणि शिस्त यांची जाणीव."
-    },
-    {
-      "id": 2,
-      "question": "शाळा म्हणजे काय?",
-      "answer": "शिक्षण देणारी संस्था."
-    },
-    {
-      "id": 3,
-      "question": "शाळेत जाणे का आवश्यक आहे?",
-      "answer": "ज्ञान आणि संस्कार मिळण्यासाठी."
-    },
-    {
-      "id": 4,
-      "question": "शाळेमुळे आपल्यात कोणते गुण विकसित होतात?",
-      "answer": "शिस्त, मैत्री आणि जबाबदारी."
-    },
-    {
-      "id": 5,
-      "question": "शाळेतील शिक्षकांचे महत्त्व काय आहे?",
-      "answer": "ज्ञान देणे आणि मार्गदर्शन करणे."
-    },
-    {
-      "id": 6,
-      "question": "शाळा विद्यार्थ्यांचे व्यक्तिमत्त्व कसे घडवते?",
-      "answer": "संस्कार आणि शिक्षणाने."
-    },
-    {
-      "id": 7,
-      "question": "शाळेत शिस्त का आवश्यक आहे?",
-      "answer": "सर्वांचे काम सुरळीत चालण्यासाठी."
-    },
-    {
-      "id": 8,
-      "question": "शाळेतील प्रार्थनेचे महत्त्व काय आहे?",
-      "answer": "एकाग्रता आणि सकारात्मक विचार."
-    },
-    {
-      "id": 9,
-      "question": "शाळा समाजासाठी का महत्त्वाची आहे?",
-      "answer": "शिक्षित नागरिक घडवण्यासाठी."
-    },
-    {
-      "id": 10,
-      "question": "शाळेमुळे मैत्री कशी वाढते?",
-      "answer": "एकत्र शिकणे आणि खेळणे."
-    },
-    {
-      "id": 11,
-      "question": "शाळेत वेळेवर जाणे का आवश्यक आहे?",
-      "answer": "दिनक्रम शिस्तबद्ध राहतो."
-    },
-    {
-      "id": 12,
-      "question": "शाळेतील नियम का पाळावेत?",
-      "answer": "सुरक्षित आणि शिस्तबद्ध वातावरणासाठी."
-    },
-    {
-      "id": 13,
-      "question": "शाळा आणि शिक्षण यांचा संबंध काय आहे?",
-      "answer": "शाळेतून शिक्षण मिळते."
-    },
-    {
-      "id": 14,
-      "question": "शाळेतील खेळांचे महत्त्व काय आहे?",
-      "answer": "शारीरिक आणि मानसिक विकास."
-    },
-    {
-      "id": 15,
-      "question": "शाळेमुळे आत्मविश्वास कसा वाढतो?",
-      "answer": "ज्ञान आणि कौशल्यांमुळे."
-    },
-    {
-      "id": 16,
-      "question": "शाळेत स्वच्छता का आवश्यक आहे?",
-      "answer": "आरोग्यासाठी."
-    },
-    {
-      "id": 17,
-      "question": "शाळा विद्यार्थ्यांना काय शिकवते?",
-      "answer": "ज्ञान, शिस्त आणि मूल्ये."
-    },
-    {
-      "id": 18,
-      "question": "शाळेतील ग्रंथालयाचे महत्त्व काय आहे?",
-      "answer": "वाचनाची आवड वाढते."
-    },
-    {
-      "id": 19,
-      "question": "शाळेत सहकार्य का आवश्यक आहे?",
-      "answer": "संघभावना वाढते."
-    },
-    {
-      "id": 20,
-      "question": "शाळेमुळे वेळेचे महत्त्व कसे कळते?",
-      "answer": "वेळापत्रकामुळे."
-    },
-    {
-      "id": 21,
-      "question": "शाळेत गृहपाठ का दिला जातो?",
-      "answer": "सरावासाठी."
-    },
-    {
-      "id": 22,
-      "question": "शाळेतील कार्यक्रमांचे महत्त्व काय आहे?",
-      "answer": "कलागुणांना वाव मिळतो."
-    },
-    {
-      "id": 23,
-      "question": "शाळा आणि भविष्य यांचा संबंध काय?",
-      "answer": "भविष्याची तयारी."
-    },
-    {
-      "id": 24,
-      "question": "शाळेत शिस्तभंग केल्यास काय होते?",
-      "answer": "शिकण्यावर परिणाम होतो."
-    },
-    {
-      "id": 25,
-      "question": "शाळेमुळे समाजात काय बदल होतो?",
-      "answer": "शिक्षणाचा प्रसार."
-    },
-    {
-      "id": 26,
-      "question": "शाळेतील सहशालेय उपक्रम का आवश्यक आहेत?",
-      "answer": "सर्वांगीण विकासासाठी."
-    },
-    {
-      "id": 27,
-      "question": "शाळा आणि संस्कार यांचा संबंध काय?",
-      "answer": "मूल्ये शिकवली जातात."
-    },
-    {
-      "id": 28,
-      "question": "शाळेत उपस्थिती का महत्त्वाची आहे?",
-      "answer": "अभ्यास नियमित राहतो."
-    },
-    {
-      "id": 29,
-      "question": "शाळेतील शिक्षक-विद्यार्थी नाते कसे असते?",
-      "answer": "आदर आणि विश्वासावर."
-    },
-    {
-      "id": 30,
-      "question": "शाळेमुळे वाचनाची सवय कशी लागते?",
-      "answer": "पुस्तकांमुळे."
-    },
-    {
-      "id": 31,
-      "question": "शाळेत खेळाचे मैदान का आवश्यक आहे?",
-      "answer": "शारीरिक तंदुरुस्तीसाठी."
-    },
-    {
-      "id": 32,
-      "question": "शाळेतील सभा का घेतली जाते?",
-      "answer": "महत्त्वाची माहिती देण्यासाठी."
-    },
-    {
-      "id": 33,
-      "question": "शाळा विद्यार्थ्यांना जबाबदारी कशी शिकवते?",
-      "answer": "नियम आणि कामांद्वारे."
-    },
-    {
-      "id": 34,
-      "question": "शाळेमुळे सामाजिक जाणीव कशी वाढते?",
-      "answer": "एकत्र राहण्याने."
-    },
-    {
-      "id": 35,
-      "question": "शाळा आणि पालक यांचा संबंध काय?",
-      "answer": "विद्यार्थ्यांच्या प्रगतीसाठी."
-    },
-    {
-      "id": 36,
-      "question": "शाळेत स्वच्छ गणवेश का आवश्यक आहे?",
-      "answer": "शिस्त आणि एकरूपतेसाठी."
-    },
-    {
-      "id": 37,
-      "question": "शाळेमुळे नेतृत्वगुण कसे विकसित होतात?",
-      "answer": "उपक्रमांमुळे."
-    },
-    {
-      "id": 38,
-      "question": "शाळेतील शिक्षकांचा आदर का करावा?",
-      "answer": "ते मार्गदर्शक असतात."
-    },
-    {
-      "id": 39,
-      "question": "शाळा विद्यार्थ्यांना कसे प्रेरित करते?",
-      "answer": "यशस्वी उदाहरणांद्वारे."
-    },
-    {
-      "id": 40,
-      "question": "शाळेत वेळेचे पालन का आवश्यक आहे?",
-      "answer": "शिस्तीसाठी."
-    },
-    {
-      "id": 41,
-      "question": "शाळेमुळे व्यक्तिमत्त्वात काय बदल होतो?",
-      "answer": "आत्मविश्वास वाढतो."
-    },
-    {
-      "id": 42,
-      "question": "शाळा आणि राष्ट्रनिर्माण यांचा संबंध काय?",
-      "answer": "शिक्षित नागरिक घडतात."
-    },
-    {
-      "id": 43,
-      "question": "शाळेत प्रश्न विचारणे का आवश्यक आहे?",
-      "answer": "समज वाढण्यासाठी."
-    },
-    {
-      "id": 44,
-      "question": "शाळेतील मैत्री आयुष्यभर का टिकते?",
-      "answer": "बालपणीची नाती असतात."
-    },
-    {
-      "id": 45,
-      "question": "शाळेमुळे वर्तनात सुधारणा कशी होते?",
-      "answer": "शिस्तीमुळे."
-    },
-    {
-      "id": 46,
-      "question": "शाळा विद्यार्थ्यांना स्वप्ने कशी दाखवते?",
-      "answer": "शिक्षणाद्वारे."
-    },
-    {
-      "id": 47,
-      "question": "शाळेतील परीक्षा का घेतल्या जातात?",
-      "answer": "अभ्यास मोजण्यासाठी."
-    },
-    {
-      "id": 48,
-      "question": "शाळेमुळे समाजात समानता कशी वाढते?",
-      "answer": "सर्वांना शिक्षण."
-    },
-    {
-      "id": 49,
-      "question": "शाळा विद्यार्थ्यांना ध्येय कसे ठरवायला शिकवते?",
-      "answer": "मार्गदर्शनाने."
-    },
-    {
-      "id": 50,
-      "question": "शाळेतील शिक्षण आयुष्यभर कसे उपयोगी पडते?",
-      "answer": "जीवनकौशल्यांमुळे."
-    },
-    {
-      "id": 51,
-      "question": "शाळेत शिस्तबद्ध वागणूक का आवश्यक आहे?",
-      "answer": "सकारात्मक वातावरणासाठी."
-    },
-    {
-      "id": 52,
-      "question": "शाळेमुळे आत्मसन्मान कसा वाढतो?",
-      "answer": "यशामुळे."
-    },
-    {
-      "id": 53,
-      "question": "शाळा आणि जीवन यांचा संबंध काय?",
-      "answer": "शाळा जीवनाची तयारी करते."
-    },
-    {
-      "id": 54,
-      "question": "शाळेतील उपक्रमांमुळे काय लाभ होतो?",
-      "answer": "सर्वांगीण विकास."
-    },
-    {
-      "id": 55,
-      "question": "शाळेतील शिक्षण समाजाला कसे उपयोगी आहे?",
-      "answer": "सजग नागरिक घडतात."
-    },
-    {
-      "id": 56,
-      "question": "शाळेमुळे मुलांचे भविष्य कसे घडते?",
-      "answer": "ज्ञान आणि मूल्यांमुळे."
-    },
-    {
-      "id": 57,
-      "question": "शाळा आपल्याला काय देते?",
-      "answer": "ज्ञान, संस्कार आणि दिशा."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "‘आपली शाळा’ या धड्याचा मुख्य विषय कोणता आहे?",
-      "options": {
-        "A": "शाळेचे महत्त्व",
-        "B": "खेळ",
-        "C": "पर्यावरण",
-        "D": "वाहतूक"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 2,
-      "question": "शाळेत जाण्याचा मुख्य उद्देश काय आहे?",
-      "options": {
-        "A": "शिक्षण",
-        "B": "मनोरंजन",
-        "C": "आळस",
-        "D": "खेळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 3,
-      "question": "शाळेतील शिक्षकांचे काम काय आहे?",
-      "options": {
-        "A": "मार्गदर्शन",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 4,
-      "question": "शाळेत शिस्त का आवश्यक आहे?",
-      "options": {
-        "A": "सुरळीत कामासाठी",
-        "B": "वेळ वाया",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 5,
-      "question": "शाळेमुळे कोणते गुण विकसित होतात?",
-      "options": {
-        "A": "शिस्त",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 6,
-      "question": "शाळेतील खेळांचे महत्त्व काय आहे?",
-      "options": {
-        "A": "विकास",
-        "B": "आळस",
-        "C": "वेळ वाया",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 7,
-      "question": "शाळेत स्वच्छता का आवश्यक आहे?",
-      "options": {
-        "A": "आरोग्यासाठी",
-        "B": "सजावट",
-        "C": "खेळ",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "question": "शाळेतील ग्रंथालय कशासाठी आहे?",
-      "options": {
-        "A": "वाचन",
-        "B": "खेळ",
-        "C": "आळस",
-        "D": "मनोरंजन"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 9,
-      "question": "शाळेत सहकार्य का आवश्यक आहे?",
-      "options": {
-        "A": "संघभावना",
-        "B": "गोंधळ",
-        "C": "आळस",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "शाळेतील परीक्षा का घेतल्या जातात?",
-      "options": {
-        "A": "अभ्यास मोजण्यासाठी",
-        "B": "मनोरंजन",
-        "C": "आळस",
-        "D": "खेळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 11,
-      "question": "शाळा समाजासाठी का महत्त्वाची आहे?",
-      "options": {
-        "A": "शिक्षित नागरिक",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "question": "शाळेमुळे आत्मविश्वास कसा वाढतो?",
-      "options": {
-        "A": "ज्ञानामुळे",
-        "B": "आळस",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 13,
-      "question": "शाळेतील प्रार्थनेचे महत्त्व काय आहे?",
-      "options": {
-        "A": "एकाग्रता",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "शाळेमुळे नेतृत्वगुण कसे विकसित होतात?",
-      "options": {
-        "A": "उपक्रम",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 15,
-      "question": "शाळा आणि भविष्य यांचा संबंध काय?",
-      "options": {
-        "A": "तयारी",
-        "B": "संबंध नाही",
-        "C": "थोडा",
-        "D": "अस्पष्ट"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "question": "शाळेत वेळेचे पालन का आवश्यक आहे?",
-      "options": {
-        "A": "शिस्त",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "शाळेतील मैत्री का महत्त्वाची आहे?",
-      "options": {
-        "A": "सामाजिक विकास",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "शाळेतील उपक्रमांचे महत्त्व काय आहे?",
-      "options": {
-        "A": "सर्वांगीण विकास",
-        "B": "वेळ वाया",
-        "C": "आळस",
-        "D": "गोंधळ"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "शाळा विद्यार्थ्यांना जबाबदारी कशी शिकवते?",
-      "options": {
-        "A": "नियम",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 20,
-      "question": "शाळेमुळे समाजात समानता कशी वाढते?",
-      "options": {
-        "A": "सर्वांना शिक्षण",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 21,
-      "question": "शाळेतील शिक्षकांचा आदर का करावा?",
-      "options": {
-        "A": "मार्गदर्शक",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "question": "शाळेतील शिक्षण आयुष्यभर का उपयोगी पडते?",
-      "options": {
-        "A": "जीवनकौशल्ये",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 23,
-      "question": "शाळेमुळे व्यक्तिमत्त्वात काय बदल होतो?",
-      "options": {
-        "A": "आत्मविश्वास",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "शाळा आणि राष्ट्रनिर्माण यांचा संबंध काय?",
-      "options": {
-        "A": "शिक्षण",
-        "B": "खेळ",
-        "C": "मनोरंजन",
-        "D": "आळस"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "question": "शाळा विद्यार्थ्यांना ध्येय कसे ठरवायला शिकवते?",
-      "options": {
-        "A": "मार्गदर्शन",
-        "B": "आळस",
-        "C": "गोंधळ",
-        "D": "भीती"
-      },
-      "answer": "A"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.27",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Aapli Shala"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "शाळा (School) कशासाठी असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शिक्षणासाठी/ज्ञानासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोपण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जेवण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शिक्षणासाठी/ज्ञानासाठी"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "शाळेत कोण शिकवते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शिक्षक/गुरुजी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पोलीस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "डॉक्टर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दुकानदार",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शिक्षक/गुरुजी"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "शाळेच्या प्रमुखाला काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मुख्याध्यापक (Principal)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मंत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "राजा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कॅप्टन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मुख्याध्यापक (Principal)"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "वर्गात (Classroom) काय असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फळा, बाक, मुले",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "टीव्ही, बेड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झाडे, डोंगर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गाड्या",
+                    "is_correct": false
+                }
+            ],
+            "answer": "फळा, बाक, मुले"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "फळ्यावर (Blackboard) कशाने लिहितात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खडूने (Chalk)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पेनाने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पेन्सिलने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बोटाने",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खडूने (Chalk)"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "तुम्ही कशावर लिहिता?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "वहीवर (Notebook)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "भिंतीवर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "बेंचवर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हातावर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "वहीवर (Notebook)"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "वहीवर लिहिण्यासाठी काय वापरता?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पेन/पेन्सिल",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खडू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रंग",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "माती",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पेन/पेन्सिल"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "शाळेची वेळ पाळावी का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, शिस्त महत्त्वाची आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीही जावे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दुपारी जावे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, शिस्त महत्त्वाची आहे"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "शाळेत जाताना काय घालावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गणवेश (Uniform)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जीन्स",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पायजमा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "साडी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गणवेश (Uniform)"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "शाळेचा गणवेश का असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "समानतेसाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मजेसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "थंडीसाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रंगासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "समानतेसाठी"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "परिपाठ (Assembly) मध्ये काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रार्थना/राष्ट्रगीत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाच",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जेवण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोप",
+                    "is_correct": false
+                }
+            ],
+            "answer": "प्रार्थना/राष्ट्रगीत"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "तुम्ही प्रतिज्ञा (Pledge) म्हणता का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, रोज",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीतरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विसरलो",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, रोज"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "शाळेत वाचनालय (Library) असते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नसावे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कशाला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "वाचनालयात काय करावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शांतपणे वाचावे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गोंधळ करावा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जेवावे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पळावे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शांतपणे वाचावे"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "पुस्तके कशी हाताळावीत?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "काळजीपूर्वक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फाडावीत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "फेकावीत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "लिहावे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "काळजीपूर्वक"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "प्रयोगशाळा (Laboratory) कशासाठी असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "विज्ञानाचे प्रयोग करण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "खेळण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गाण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "स्वयंपाकासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विज्ञानाचे प्रयोग करण्यासाठी"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "संगणक कक्ष (Computer Lab) मध्ये काय असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "संगणक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पुस्तके",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चेंडू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झाडे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "संगणक"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "मैदानावर (Playground) काय करावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खेळावे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "अभ्यास करावा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोपावे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रडावे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खेळावे"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "शाळेत मित्र होतात का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, खूप",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शत्रू होतात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "एकटेच",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, खूप"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "मित्रांशी कसे वागावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रेमाने/मदतीने",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "भांडून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मारून",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वाईट",
+                    "is_correct": false
+                }
+            ],
+            "answer": "प्रेमाने/मदतीने"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "शिक्षकांचा आदर (Respect) करावा का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, नेहमी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कधीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फक्त मार्क मिळाल्यावर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, नेहमी"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "गृहपाठ (Homework) पूर्ण करावा का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, वेळेवर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दुसऱ्याचा बघावा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विसरावा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, वेळेवर"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "शाळेला सुट्टी कधी असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "रविवारी/सणाला",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "सोमवारी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नेहमी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कधीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "रविवारी/सणाला"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "उन्हाळ्याची सुट्टी कधी लागते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मे महिन्यात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "डिसेंबरमध्ये",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जूनमध्ये",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पावसाळ्यात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मे महिन्यात"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "शाळेत सहल (Picnic) जाते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जाऊ नये",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "का?",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "सहलीत काय मजा येते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "धमाल/तळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "अभ्यास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कंटाळा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रडणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "धमाल/तळ"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "स्नेहसंमेलन (Gathering) मध्ये काय असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नृत्य/नाटक/गाणी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "परीक्षा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मार",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नृत्य/नाटक/गाणी"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "तुम्ही गॅदरिंगमध्ये भाग घेता का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भीती वाटते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बघतो",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "शाळेची घंटा (Bell) वाजल्यावर काय होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तास बदलतो/शाळा सुटते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गाणे लागते",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मजा येते",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तास बदलतो/शाळा सुटते"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "मधली सुट्टी (Recess) कशासाठी असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "डबा खाण्यासाठी/लघुशंकेसाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घरी जाण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोपण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अभ्यासासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "डबा खाण्यासाठी/लघुशंकेसाठी"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "डबा (Tiffin) शेअर करावा का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, मैत्री वाढते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "एकट्याने खावा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फेकून द्यावा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, मैत्री वाढते"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "शाळा स्वच्छ ठेवावी का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, आपले कर्तव्य आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिपाई करेल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "घाण करावी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, आपले कर्तव्य आहे"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "शाळेच्या भिंतीवर लिहावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाही",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पेन्सिलने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खडूने",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाही"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "तुमची शाळा तुम्हाला आवडते का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, खूप",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "थोडी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अजिबात नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, खूप"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "शाळा हे विद्येचे -",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मंदिर आहे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घर आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दुकान आहे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बाजार आहे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मंदिर आहे"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "‘साने गुरुजी’ कोण होते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शिक्षक/लेखक (श्याम ची आई)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दुकानदार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "डॉक्टर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वकील",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शिक्षक/लेखक (श्याम ची आई)"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "‘श्यामची आई’ पुस्तक कोणी लिहिले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "साने गुरुजी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पु.ल. देशपांडे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शिवाजी महाराज",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गांधीजी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "साने गुरुजी"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "शाळेत निकाल (Result) कधी लागतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "परीक्षेनंतर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "परीक्षेआधी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वर्षाच्या सुरुवातीला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कधीही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "परीक्षेनंतर"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "पास झाल्यावर काय वाटते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आनंद",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दुःख",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "भीती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "राग",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आनंद"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "नापास झाल्यावर काय करावे?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पुन्हा प्रयत्न करावा (खचून जाऊ नये)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शाळा सोडावी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रडत बसावे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पुन्हा प्रयत्न करावा (खचून जाऊ नये)"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "गुणपत्रक (Report Card) पालकांना दाखवावे का?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हो, सही घ्यावी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नाही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "लपवून ठेवावे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फाडून टाकावे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हो, सही घ्यावी"
+        },
+        {
+            "question_id": 42,
+            "question_type": "SHORT",
+            "question": "तुम्ही कोणत्या इयत्तेत आहात?",
+            "answer": "पाचवीत."
+        },
+        {
+            "question_id": 43,
+            "question_type": "SHORT",
+            "question": "तुमच्या शाळेचे नाव काय आहे?",
+            "answer": "(शाळेचे नाव)."
+        },
+        {
+            "question_id": 44,
+            "question_type": "SHORT",
+            "question": "तुमच्या वर्गशिक्षकांचे नाव काय?",
+            "answer": "(नाव)."
+        },
+        {
+            "question_id": 45,
+            "question_type": "SHORT",
+            "question": "तुम्ही शाळेत कशाने जाता?",
+            "answer": "पायी/बसने."
+        },
+        {
+            "question_id": 46,
+            "question_type": "SHORT",
+            "question": "शाळेत पाणी पिण्याची सोय आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 47,
+            "question_type": "SHORT",
+            "question": "स्वच्छतागृह (Toilet) आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 48,
+            "question_type": "SHORT",
+            "question": "ते वापरल्यावर पाणी टाकता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 49,
+            "question_type": "SHORT",
+            "question": "हात धुतल्याशिवाय डबा खाता का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 50,
+            "question_type": "SHORT",
+            "question": "वर्गात कचरापेटी (Dustbin) आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "पेन्सिलला टोक केल्यावर कचरा कुठे टाकता?",
+            "answer": "कचरापेटीत."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "वर्गात गोंधळ (Noise) करावा का?",
+            "answer": "नाही, शांत बसावे."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "शिक्षक नसताना काय करावे?",
+            "answer": "स्व-अभ्यास (Self Study)."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "वर्ग प्रतिनिधी (Monitor) कोण आहे?",
+            "answer": "माझा मित्र/मी."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "मॉनिटरचे काम काय असते?",
+            "answer": "वर्गात शिस्त ठेवणे."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "तुम्ही वर्गात प्रश्न विचारता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "शंका (Doubt) विचारणे चांगले आहे का?",
+            "answer": "हो, ज्ञान वाढते."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "शिक्षक रागावतात का?",
+            "answer": "चूक केल्यावर रागावतात (सुधारण्यासाठी)."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "शिक्षक प्रेम करतात का?",
+            "answer": "हो, खूप."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "तुम्ही गुरू पौर्णिमा (Guru Purnima) साजरी करता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "त्या दिवशी काय करता?",
+            "answer": "शिक्षकांना फूल देतो/नमस्कार करतो."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "शिक्षक दिन (Teachers Day) कधी असतो?",
+            "answer": "५ सप्टेंबर."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "५ सप्टेंबर कोणाचा जन्मदिन आहे?",
+            "answer": "डॉ. सर्वपल्ली राधाकृष्णन."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "त्या दिवशी मुले काय बनतात?",
+            "answer": "शिक्षक."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "बाल दिन (Childrens Day) कधी असतो?",
+            "answer": "१४ नोव्हेंबर."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "तो कोणाचा जन्मदिन आहे?",
+            "answer": "चाचा नेहरू."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "नेहरूंना काय आवडायचे?",
+            "answer": "मुले आणि गुलाब."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "प्रजासत्ताक दिन (Republic Day) कधी असतो?",
+            "answer": "२६ जानेवारी."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "स्वातंत्र्य दिन (Independence Day) कधी असतो?",
+            "answer": "१५ ऑगस्ट."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "या दिवशी ध्वजवंदन (Flag Hoisting) होते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "राष्ट्रध्वजाला (Tiranga) सलामी देता का?",
+            "answer": "हो, जय हिंद."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "अशोक चक्रात किती आरे असतात?",
+            "answer": "२४."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "शाळेत शिस्त (Discipline) महत्त्वाची असते.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "शाळेचे नियम पाळावेत.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "प्रार्थनेच्या वेळी डोळे मिटावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "शाळेच्या बागेत काय असते?",
+            "answer": "फुले, झाडे, खेळणी."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "तुम्ही झाडांना पाणी घालता का?",
+            "answer": "कधीतरी."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "शाळेत क्रीडा महोत्सव होतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "तुम्ही धावण्यात भाग घेता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "बुद्धिबळ स्पर्धा असते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "चित्रकला स्पर्धा (Drawing Competition) आवडते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "हस्ताक्षर सुंदर असावे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "सुंदर हस्ताक्षर हाच -",
+            "answer": "दागिना आहे."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "पाढे (Tables) पाठ आहेत का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "किती पर्यंत?",
+            "answer": "३० पर्यंत (किंवा १०/२०)."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "कविता पाठ करता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "भाषण (Speech) देता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "मराठी विषय आवडतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "इंग्रजी विषय आवडतो का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "गणित कठीण वाटते का?",
+            "answer": "थोडेसे/नाही."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "विज्ञान आवडते का?",
+            "answer": "हो, प्रयोग करायला."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "इतिहास छान आहे का?",
+            "answer": "हो, गोष्टींसारखा."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "भूगोल आवडतो का?",
+            "answer": "हो, नकाशामुळे."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "परीक्षा (Exam) जवळ आल्यावर काय करता?",
+            "answer": "अभ्यास."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "कॉपी (Copy) करावी का?",
+            "answer": "नाही, फसवणूक आहे."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "प्रामाणिकपणे पेपर लिहावा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "शाळेचा निकाल १००% लागावा.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "माजी विद्यार्थी (Alumni) शाळेत येतात का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "त्यांचे कौतुक होते का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "शाळा सोडताना रडू येते का?",
+            "answer": "हो (निरोप समारंभ)."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "शाळेच्या आठवणी राहतात का?",
+            "answer": "हो, आयुष्यभर."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "शाळा म्हणजे दुसरे घर.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "आई-वडिलांनंतर गुरुजन महत्त्वाचे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "शाळा सुटल्यावर सरळ घरी जावे.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "रस्त्यात रेंगाळू नये.",
+            "answer": "हो."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "शाळेची फी (Fee) वेळेवर भरावी का?",
+            "answer": "हो (पालकांनी)."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "मोफत शिक्षण हक्क कायदा (RTE) काय आहे?",
+            "answer": "सक्तीचे आणि मोफत शिक्षण."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "मुलींना शिक्षण दिले पाहिजे का?",
+            "answer": "हो, सावित्रीबाई फुलेंमुळे."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "पहिली शिक्षिका कोण?",
+            "answer": "सावित्रीबाई फुले."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "महात्मा फुलेंनी शाळा काढली.",
+            "answer": "हो, पुण्यात (भिडे वाडा)."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "तुम्ही मोठे होऊन शाळेचे नाव काढाल का?",
+            "answer": "हो, नक्कीच."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "शाळेसाठी देणगी (Donation) द्याल का?",
+            "answer": "हो (श्रीमंत झाल्यावर)."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "माझी शाळा, माझी जबाबदारी.",
+            "answer": "हो."
+        }
+    ]
 }

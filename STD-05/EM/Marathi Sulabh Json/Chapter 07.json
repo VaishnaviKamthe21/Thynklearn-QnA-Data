@@ -1,575 +1,1993 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "chapter_number": 7,
-  "chapter_name": "खेळत खेळत वाचूया",
-  "mode": "Outside Textbook | Max Safe Unique",
-  "counts": {
-    "one_line_questions": 65,
-    "mcqs": 35
-  },
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "वाचन खेळांचा मुख्य उद्देश काय आहे?",
-      "answer": "वाचनाची आवड निर्माण करणे हा मुख्य उद्देश आहे."
-    },
-    {
-      "id": 2,
-      "question": "खेळातून वाचन शिकल्याने मुलांचा दृष्टिकोन कसा बदलतो?",
-      "answer": "वाचन भीतीऐवजी आनंदाशी जोडले जाते."
-    },
-    {
-      "id": 3,
-      "question": "शब्दकार्ड खेळ मुलांना कसा मदत करतो?",
-      "answer": "शब्द ओळख आणि स्मरण वाढवतो."
-    },
-    {
-      "id": 4,
-      "question": "चित्रवाचन उपक्रम वाचनसमज कशी वाढवतो?",
-      "answer": "चित्रांमुळे अर्थ लवकर समजतो."
-    },
-    {
-      "id": 5,
-      "question": "गट वाचन खेळांचा सामाजिक फायदा काय आहे?",
-      "answer": "सहकार्याची भावना वाढते."
-    },
-    {
-      "id": 6,
-      "question": "वाचन खेळांमुळे उच्चार सुधारण्यास कशी मदत होते?",
-      "answer": "शब्द मोठ्याने वाचल्याने उच्चार सुधारतात."
-    },
-    {
-      "id": 7,
-      "question": "भूमिकानाट्य वाचनासाठी का उपयुक्त ठरते?",
-      "answer": "संवाद समजायला मदत होते."
-    },
-    {
-      "id": 8,
-      "question": "वाचन खेळांमध्ये हालचाली का असतात?",
-      "answer": "शिकणे सक्रिय ठेवण्यासाठी असतात."
-    },
-    {
-      "id": 9,
-      "question": "वेळमर्यादेतील वाचन खेळ कशासाठी वापरतात?",
-      "answer": "एकाग्रता वाढवण्यासाठी वापरतात."
-    },
-    {
-      "id": 10,
-      "question": "वाचन खेळांमुळे स्मरणशक्ती कशी सुधारते?",
-      "answer": "आनंददायी अनुभवामुळे माहिती लक्षात राहते."
-    },
-    {
-      "id": 11,
-      "question": "शब्द शोध खेळाचा वाचनाशी काय संबंध आहे?",
-      "answer": "शब्दसंग्रह वाढवण्यास मदत करतो."
-    },
-    {
-      "id": 12,
-      "question": "डिजिटल वाचन खेळ मुलांना का आकर्षित करतात?",
-      "answer": "तंत्रज्ञानामुळे सहभाग वाढतो."
-    },
-    {
-      "id": 13,
-      "question": "वाचन खेळांमुळे पुस्तकांबद्दल भीती का कमी होते?",
-      "answer": "खेळामुळे ताण कमी होतो."
-    },
-    {
-      "id": 14,
-      "question": "वाचन खेळ घरात कसे वापरता येतात?",
-      "answer": "पालक आणि मुले एकत्र वाचू शकतात."
-    },
-    {
-      "id": 15,
-      "question": "वाचन खेळांचा शिक्षकांना काय उपयोग होतो?",
-      "answer": "अध्यापन अधिक रंजक होते."
-    },
-    {
-      "id": 16,
-      "question": "वाचन खेळांमुळे शब्दसंपदा कशी वाढते?",
-      "answer": "नवीन शब्द नैसर्गिकरित्या शिकले जातात."
-    },
-    {
-      "id": 17,
-      "question": "वाचन खेळांमध्ये नियम का आवश्यक असतात?",
-      "answer": "खेळ सुरळीत चालण्यासाठी आवश्यक असतात."
-    },
-    {
-      "id": 18,
-      "question": "वाचन खेळांचा उपयोग पुनरावृत्तीसाठी का होतो?",
-      "answer": "शिकलेले पक्के करण्यासाठी होतो."
-    },
-    {
-      "id": 19,
-      "question": "वाचन खेळांमुळे कल्पनाशक्ती कशी वाढते?",
-      "answer": "कथा आणि भूमिका वापरल्यामुळे वाढते."
-    },
-    {
-      "id": 20,
-      "question": "वाचन खेळ गटात का खेळले जातात?",
-      "answer": "परस्पर शिकण्यासाठी खेळले जातात."
-    },
-    {
-      "id": 21,
-      "question": "वाचन खेळांचा दीर्घकालीन फायदा काय आहे?",
-      "answer": "वाचनाची सवय टिकून राहते."
-    },
-    {
-      "id": 22,
-      "question": "वाचन खेळांमुळे भाषेची भीती का कमी होते?",
-      "answer": "खेळामुळे दबाव जाणवत नाही."
-    },
-    {
-      "id": 23,
-      "question": "वाचन खेळांचा उपयोग मूल्यमापनासाठी कसा होतो?",
-      "answer": "विद्यार्थ्यांची समज तपासता येते."
-    },
-    {
-      "id": 24,
-      "question": "वाचन खेळांमुळे लक्ष केंद्रित कसे होते?",
-      "answer": "खेळात गुंतल्यामुळे लक्ष टिकते."
-    },
-    {
-      "id": 25,
-      "question": "वाचन खेळांमध्ये हालचाल का महत्त्वाची आहे?",
-      "answer": "शारीरिक सहभागामुळे शिकणे वाढते."
-    },
-    {
-      "id": 26,
-      "question": "वाचन खेळांमुळे सामाजिक कौशल्ये कशी वाढतात?",
-      "answer": "संवाद आणि सहकार्य वाढते."
-    },
-    {
-      "id": 27,
-      "question": "वाचन खेळांचा उपयोग शब्दार्थ शिकण्यासाठी कसा होतो?",
-      "answer": "अर्थ खेळातून सहज समजतो."
-    },
-    {
-      "id": 28,
-      "question": "वाचन खेळांमुळे शिकण्याचा आनंद का वाढतो?",
-      "answer": "मजेशीर वातावरण तयार होते."
-    },
-    {
-      "id": 29,
-      "question": "वाचन खेळांमध्ये वेळेचे नियोजन का आवश्यक असते?",
-      "answer": "सर्वांना संधी मिळण्यासाठी आवश्यक असते."
-    },
-    {
-      "id": 30,
-      "question": "वाचन खेळांचा उपयोग आत्ममूल्यांकनासाठी कसा होतो?",
-      "answer": "विद्यार्थी स्वतःची प्रगती ओळखतो."
-    },
-    {
-      "id": 31,
-      "question": "वाचन खेळांमुळे आत्मशिस्त कशी वाढते?",
-      "answer": "नियम पाळण्याची सवय लागते."
-    },
-    {
-      "id": 32,
-      "question": "वाचन खेळ वेगवेगळ्या वयोगटांसाठी कसे वापरता येतात?",
-      "answer": "वयानुसार खेळ बदलता येतात."
-    },
-    {
-      "id": 33,
-      "question": "वाचन खेळांमुळे भाषेचा सराव कसा होतो?",
-      "answer": "वारंवार वाचन केल्याने सराव होतो."
-    },
-    {
-      "id": 34,
-      "question": "वाचन खेळांमध्ये शिक्षकांची भूमिका काय असते?",
-      "answer": "मार्गदर्शन आणि प्रोत्साहन देणे."
-    },
-    {
-      "id": 35,
-      "question": "वाचन खेळांमुळे गैरसमज कसे टाळता येतात?",
-      "answer": "चर्चा आणि स्पष्टीकरणामुळे टाळता येतात."
-    },
-    {
-      "id": 36,
-      "question": "वाचन खेळांचा उपयोग कथावाचनासाठी कसा होतो?",
-      "answer": "कथा समजायला सोपी होते."
-    },
-    {
-      "id": 37,
-      "question": "वाचन खेळांमुळे आत्मविश्वास का वाढतो?",
-      "answer": "यशस्वी अनुभव मिळतात."
-    },
-    {
-      "id": 38,
-      "question": "वाचन खेळांचा उपयोग शब्दलेखनासाठी कसा होतो?",
-      "answer": "शब्द लक्षात राहतात."
-    },
-    {
-      "id": 39,
-      "question": "वाचन खेळांमध्ये अभिप्राय का महत्त्वाचा असतो?",
-      "answer": "सुधारणा करण्यास मदत होते."
-    },
-    {
-      "id": 40,
-      "question": "वाचन खेळांमुळे शिकण्याची गती कशी वाढते?",
-      "answer": "रस निर्माण झाल्यामुळे वाढते."
-    },
-    {
-      "id": 41,
-      "question": "वाचन खेळांचा वापर शाळेबाहेर कसा करता येतो?",
-      "answer": "घर आणि ग्रंथालयात वापरता येतो."
-    },
-    {
-      "id": 42,
-      "question": "वाचन खेळांमुळे शिकण्याचा ताण कसा कमी होतो?",
-      "answer": "खेळामुळे ताण हलका होतो."
-    },
-    {
-      "id": 43,
-      "question": "वाचन खेळांचा उपयोग समूह वाचनासाठी कसा होतो?",
-      "answer": "सर्वजण एकत्र वाचू शकतात."
-    },
-    {
-      "id": 44,
-      "question": "वाचन खेळांमुळे सर्जनशीलता कशी वाढते?",
-      "answer": "नवीन कल्पना सुचतात."
-    },
-    {
-      "id": 45,
-      "question": "वाचन खेळांमध्ये भूमिका बदल का करतात?",
-      "answer": "सर्वांना समान संधी देण्यासाठी."
-    },
-    {
-      "id": 46,
-      "question": "वाचन खेळांचा उपयोग पुनःपुन्हा का करतात?",
-      "answer": "सवय पक्की करण्यासाठी."
-    },
-    {
-      "id": 47,
-      "question": "वाचन खेळांमुळे भाषेचा आत्मविश्वास कसा वाढतो?",
-      "answer": "सहज वाचनामुळे वाढतो."
-    },
-    {
-      "id": 48,
-      "question": "वाचन खेळांचा उपयोग जटिल मजकूरासाठी कसा होतो?",
-      "answer": "समज टप्प्याटप्प्याने वाढते."
-    },
-    {
-      "id": 49,
-      "question": "वाचन खेळांमुळे शिकण्याची रुची कशी टिकते?",
-      "answer": "खेळ बदलत राहिल्यामुळे टिकते."
-    },
-    {
-      "id": 50,
-      "question": "वाचन खेळांचा उपयोग शब्दजोडी शिकण्यासाठी कसा होतो?",
-      "answer": "शब्दांमधील नाते समजते."
-    },
-    {
-      "id": 51,
-      "question": "वाचन खेळांमुळे शिकण्याचा अनुभव कसा बदलतो?",
-      "answer": "अनुभव अधिक सकारात्मक होतो."
-    },
-    {
-      "id": 52,
-      "question": "वाचन खेळांचा उपयोग आकलन तपासण्यासाठी कसा होतो?",
-      "answer": "प्रश्नोत्तर खेळ वापरले जातात."
-    },
-    {
-      "id": 53,
-      "question": "वाचन खेळांमुळे अध्ययन कौशल्ये कशी वाढतात?",
-      "answer": "वाचन, समज आणि स्मरण वाढते."
-    },
-    {
-      "id": 54,
-      "question": "वाचन खेळांचा उपयोग भाषिक अडचणींसाठी कसा होतो?",
-      "answer": "सोप्या कृती वापरल्या जातात."
-    },
-    {
-      "id": 55,
-      "question": "वाचन खेळांमुळे आत्मप्रेरणा कशी वाढते?",
-      "answer": "यशाची भावना मिळते."
-    },
-    {
-      "id": 56,
-      "question": "वाचन खेळांचा उपयोग कथा रचनेसाठी कसा होतो?",
-      "answer": "कल्पनांना चालना मिळते."
-    },
-    {
-      "id": 57,
-      "question": "वाचन खेळांमुळे शिकण्याची गुणवत्ता कशी सुधारते?",
-      "answer": "सक्रिय सहभागामुळे सुधारते."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "वाचन खेळांचा मुख्य उद्देश कोणता आहे?",
-      "options": {
-        "A": "वाचन टाळणे",
-        "B": "वाचन आनंददायी करणे",
-        "C": "फक्त स्पर्धा",
-        "D": "वेळ घालवणे"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 2,
-      "question": "चित्रवाचन खेळ कशासाठी उपयुक्त आहे?",
-      "options": {
-        "A": "अर्थ समजण्यासाठी",
-        "B": "वेळ वाया घालवण्यासाठी",
-        "C": "नियम मोडण्यासाठी",
-        "D": "स्पर्धा वाढवण्यासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 3,
-      "question": "गट वाचन खेळाचा सामाजिक फायदा कोणता आहे?",
-      "options": {
-        "A": "एकटेपणा",
-        "B": "सहकार्य",
-        "C": "भीती",
-        "D": "आळस"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 4,
-      "question": "डिजिटल वाचन खेळांचा विशेष फायदा काय आहे?",
-      "options": {
-        "A": "सहभाग वाढतो",
-        "B": "ताण वाढतो",
-        "C": "लक्ष कमी होते",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 5,
-      "question": "वाचन खेळांमुळे कोणते कौशल्य सुधारते?",
-      "options": {
-        "A": "गोंधळ",
-        "B": "वाचनसमज",
-        "C": "भीती",
-        "D": "आळस"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 6,
-      "question": "वेळमर्यादेतील वाचन खेळ कशासाठी उपयोगी आहेत?",
-      "options": {
-        "A": "एकाग्रता वाढवण्यासाठी",
-        "B": "दबाव वाढवण्यासाठी",
-        "C": "वेळ वाया घालवण्यासाठी",
-        "D": "स्पर्धा थांबवण्यासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 7,
-      "question": "भूमिकानाट्य वाचनासाठी का वापरले जाते?",
-      "options": {
-        "A": "संवाद समजण्यासाठी",
-        "B": "वेळ घालवण्यासाठी",
-        "C": "नियम मोडण्यासाठी",
-        "D": "गोंधळ वाढवण्यासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 8,
-      "question": "वाचन खेळ घरात खेळल्याने काय फायदा होतो?",
-      "options": {
-        "A": "कुटुंबीय सहभाग",
-        "B": "वेळ वाया जातो",
-        "C": "ताण वाढतो",
-        "D": "आळस वाढतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 9,
-      "question": "वाचन खेळांचा उपयोग पुनरावृत्तीसाठी का होतो?",
-      "options": {
-        "A": "शिकलेले पक्के करण्यासाठी",
-        "B": "नियम मोडण्यासाठी",
-        "C": "वेळ वाया घालवण्यासाठी",
-        "D": "गोंधळ वाढवण्यासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "वाचन खेळांमुळे कल्पनाशक्ती कशी वाढते?",
-      "options": {
-        "A": "कथा वापरल्याने",
-        "B": "वेळ कमी झाल्याने",
-        "C": "नियम वाढल्याने",
-        "D": "स्पर्धा वाढल्याने"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 11,
-      "question": "वाचन खेळांमध्ये नियम पाळणे का आवश्यक आहे?",
-      "options": {
-        "A": "खेळ सुरळीत चालण्यासाठी",
-        "B": "दबाव वाढवण्यासाठी",
-        "C": "वेळ घालवण्यासाठी",
-        "D": "स्पर्धा थांबवण्यासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 12,
-      "question": "वाचन खेळांचा उपयोग मूल्यमापनासाठी कसा होतो?",
-      "options": {
-        "A": "समज तपासण्यासाठी",
-        "B": "वेळ वाया घालवण्यासाठी",
-        "C": "नियम मोडण्यासाठी",
-        "D": "गोंधळ वाढवण्यासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 13,
-      "question": "वाचन खेळांमुळे लक्ष केंद्रित कसे होते?",
-      "options": {
-        "A": "खेळात गुंतल्यामुळे",
-        "B": "ताण वाढल्यामुळे",
-        "C": "वेळ कमी झाल्यामुळे",
-        "D": "भीती वाढल्यामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "वाचन खेळांमध्ये हालचाल का असते?",
-      "options": {
-        "A": "शिकणे सक्रिय ठेवण्यासाठी",
-        "B": "वेळ घालवण्यासाठी",
-        "C": "नियम मोडण्यासाठी",
-        "D": "स्पर्धा वाढवण्यासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 15,
-      "question": "वाचन खेळांमुळे सामाजिक कौशल्ये कशी वाढतात?",
-      "options": {
-        "A": "संवाद वाढल्यामुळे",
-        "B": "एकटेपणा वाढल्यामुळे",
-        "C": "भीती वाढल्यामुळे",
-        "D": "आळस वाढल्यामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 16,
-      "question": "वाचन खेळांचा उपयोग शब्दार्थ शिकण्यासाठी कसा होतो?",
-      "options": {
-        "A": "खेळातून अर्थ समजतो",
-        "B": "वेळ वाया जातो",
-        "C": "नियम मोडले जातात",
-        "D": "गोंधळ वाढतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 17,
-      "question": "वाचन खेळांमुळे आत्मशिस्त कशी वाढते?",
-      "options": {
-        "A": "नियम पाळल्यामुळे",
-        "B": "वेळ कमी झाल्यामुळे",
-        "C": "स्पर्धा वाढल्यामुळे",
-        "D": "भीती वाढल्यामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 18,
-      "question": "वाचन खेळ वेगवेगळ्या वयोगटांसाठी का उपयुक्त आहेत?",
-      "options": {
-        "A": "खेळ बदलता येतात",
-        "B": "वेळ वाया जातो",
-        "C": "नियम मोडतात",
-        "D": "ताण वाढतो"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "वाचन खेळांमध्ये शिक्षकांची भूमिका काय असते?",
-      "options": {
-        "A": "मार्गदर्शन करणे",
-        "B": "फक्त निरीक्षण",
-        "C": "दबाव टाकणे",
-        "D": "स्पर्धा वाढवणे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 20,
-      "question": "वाचन खेळांचा उपयोग आकलन तपासण्यासाठी कसा होतो?",
-      "options": {
-        "A": "प्रश्नोत्तर खेळातून",
-        "B": "वेळ वाया घालवण्यासाठी",
-        "C": "नियम मोडण्यासाठी",
-        "D": "गोंधळ वाढवण्यासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 21,
-      "question": "वाचन खेळांमुळे आत्मविश्वास का वाढतो?",
-      "options": {
-        "A": "यशस्वी अनुभव मिळतात",
-        "B": "वेळ कमी होतो",
-        "C": "नियम वाढतात",
-        "D": "स्पर्धा वाढते"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 22,
-      "question": "वाचन खेळांचा उपयोग भाषिक अडचणींसाठी कसा होतो?",
-      "options": {
-        "A": "सोप्या कृती वापरून",
-        "B": "वेळ वाया घालवून",
-        "C": "नियम मोडून",
-        "D": "गोंधळ वाढवून"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 23,
-      "question": "वाचन खेळांमुळे शिकण्याची रुची कशी टिकते?",
-      "options": {
-        "A": "खेळ बदलत राहिल्यामुळे",
-        "B": "दबाव वाढल्यामुळे",
-        "C": "वेळ कमी झाल्यामुळे",
-        "D": "भीती वाढल्यामुळे"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 24,
-      "question": "वाचन खेळांचा उपयोग कथा रचनेसाठी कसा होतो?",
-      "options": {
-        "A": "कल्पनांना चालना देऊन",
-        "B": "वेळ वाया घालवून",
-        "C": "नियम मोडून",
-        "D": "गोंधळ वाढवून"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 25,
-      "question": "वाचन खेळांमुळे शिकण्याची गुणवत्ता कशी सुधारते?",
-      "options": {
-        "A": "सक्रिय सहभागामुळे",
-        "B": "वेळ कमी झाल्यामुळे",
-        "C": "नियम वाढल्यामुळे",
-        "D": "स्पर्धा वाढल्यामुळे"
-      },
-      "answer": "A"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.07",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Khelat Khelat Vachuya"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "‘खेळत खेळत वाचूया’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खेळाच्या माध्यमातून वाचन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फक्त खेळणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "वाचू नको",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खेळाच्या माध्यमातून वाचन"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "‘पत्र’ कुठे टाकतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पोस्ट पेटीत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कचरा पेटीत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नदीमध्ये",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विहिरीत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पोस्ट पेटीत"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "‘पोस्ट पेटी’चा रंग कोणता असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लाल",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "निळा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पिवळा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काळा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "लाल"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "पत्र कोण वाटतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पोस्टमन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पोलीस",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "डॉक्टर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शेतकरी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पोस्टमन"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "‘रुग्ण’ कोठे जातात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दवाखान्यात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शाळेत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पोस्टात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बागेत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दवाखान्यात"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "‘शिक्षक’ कुठे शिकवतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शाळेत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मैदानावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "बाजारात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शाळेत"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "‘फळा’ (Blackboard) कशासाठी असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लिहण्यासाठी/शिकवण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "साफ करण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोपण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खाण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "लिहण्यासाठी/शिकवण्यासाठी"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "‘खडू’ (Chalk) कशासाठी असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लिहण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "फोडण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खेळण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "खाण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "लिहण्यासाठी"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "‘प्रयोगशाळा’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Laboratory",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Library",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ground",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Class",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Laboratory"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "‘वाचनालय’ (Library) म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पुस्तके वाचण्याचे ठिकाण",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जेवणाचे ठिकाण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खेळण्याचे ठिकाण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपण्याचे ठिकाण",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पुस्तके वाचण्याचे ठिकाण"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "‘शाळा’ - समानार्थी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "विद्यालय",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दुकान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "मंदिर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विद्यालय"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "‘पुस्तक’ - समानार्थी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ग्रंथ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वही",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पेन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दगड",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ग्रंथ"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "‘मित्र’ - समानार्थी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सवंगडी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शत्रू",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गुरु",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "देव",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सवंगडी"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "‘अभ्यास’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Study",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Play",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Eat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Study"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "‘परीक्षा’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Exam",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Result",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pass",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fail",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Exam"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "‘निकाल’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Result",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Exam",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Study",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "School",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Result"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "‘सुट्टी’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Holiday",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Work",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "School",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Class",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Holiday"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "‘मैदान’ - समानार्थी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "क्रीडांगण",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वर्ग",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "स्टेज",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रस्ता",
+                    "is_correct": false
+                }
+            ],
+            "answer": "क्रीडांगण"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "‘बगीचा’ - समानार्थी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "बाग/उद्यान",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जंगल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शेत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गाव",
+                    "is_correct": false
+                }
+            ],
+            "answer": "बाग/उद्यान"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "‘फुलदाणी’त काय ठेवतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फुले",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाने",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दगड",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कागद",
+                    "is_correct": false
+                }
+            ],
+            "answer": "फुले"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "‘कचरा पेटी’ कशासाठी असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कचरा टाकण्यासाठी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कचरा साठवण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाणी पिण्यासाठी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जेवण्यासाठी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कचरा टाकण्यासाठी"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "‘संगणक’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Computer",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "TV",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Mobile",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Radio",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Computer"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "‘भ्रमणध्वनी’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Mobile",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Computer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Phone",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "TV",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Mobile"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "‘दूरदर्शन’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Television",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Radio",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Computer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mobile",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Television"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "‘विमान’ कोठे उडते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "आकाक्षात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाण्यात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रस्त्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रुळावर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "आकाक्षात"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "‘रेलगाडी’ कशावर धावते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "रुळावर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाण्यात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "हवेत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रस्त्यावर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "रुळावर"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "‘बस’ कोठे धावते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "रस्त्यावर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हवेत",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाण्यात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शेतात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "रस्त्यावर"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "‘बोट’ (Boat) कोठे चालते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पाण्यात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रस्त्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रुळावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हवेत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पाण्यात"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "‘रिक्षा’ला किती चाके असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तीन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दोन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पाच",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तीन"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "‘सायकल’ला किती चाके असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दोन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "तीन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "एक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दोन"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "‘मोटार’ (Car) ला किती चाके असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चार",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दोन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "तीन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सहा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चार"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "‘वाचूया’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Let's read",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Let's play",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Let's eat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Let's go",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Let's read"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "‘लिहूया’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Let's write",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Let's read",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Let's sing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Let's dance",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Let's write"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "‘गाऊया’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Let's sing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Let's dance",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Let's play",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Let's sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Let's sing"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "‘नाचूया’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Let's dance",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Let's sing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Let's jump",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Let's run",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Let's dance"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "‘हसूया’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Let's laugh",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Let's cry",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Let's shout",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Let's sit",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Let's laugh"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "‘खेळूया’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Let's play",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Let's work",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Let's study",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Let's go",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Let's play"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "‘पळूया’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Let's run",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Let's walk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Let's stop",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Let's sit",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Let's run"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "‘थांबूया’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Let's stop",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Let's go",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Let's run",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Let's play",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Let's stop"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "‘बस’ स्थानकाला काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bus stop/Stand",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Station",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Airport",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Port",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bus stop/Stand"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "‘रेलवे’ स्थानकाला काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Station",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stand",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Stop",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Depot",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Station"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "‘विमान’तळाला काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Airport",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Port",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Station",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Stand",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Airport"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "‘बंदर’ (Port) कोठे असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "समुद्रकिनारी",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "नदीकिनारी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "डोंगरावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "शहरात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "समुद्रकिनारी"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "‘दुकान’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shop",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Home",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "School",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Office",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shop"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "‘भाजी मंडई’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Vegetable Market",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fruit Market",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fish Market",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cloth Market",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vegetable Market"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "‘बँक’ मध्ये काय असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पैसे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "भाजी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खेळणी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कपडे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पैसे"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "‘पोलीस ठाणे’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Police Station",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Hospital",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "School",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bank",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Police Station"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "‘ग्रामपंचायत’ कोठे असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गावात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शहरात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जंगलात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "परदेशात",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गावात"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "‘महानगरपालिका’ कोठे असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शहरात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "गावात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खेडेगावात",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वाडीत",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शहरात"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "‘सरपंच’ कोणाचा प्रमुख असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गावाचा/ग्रामपंचायतीचा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शाळेचा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शहराचा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "देशाचा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गावाचा/ग्रामपंचायतीचा"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "तुम्ही वाचनालयात जाता का?",
+            "answer": "हो, मी गोष्टींची पुस्तके वाचायला जातो."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "शाळेत तुम्ही काय काय शिकता?",
+            "answer": "वाचन, लेखन, गणित, विज्ञान इ."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "तुम्हाला कोणता विषय कठीण जातो?",
+            "answer": "कोणताच नाही, मला सर्व विषय आवडतात."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "‘वाचाल तर वाचाल’ म्हणजे काय?",
+            "answer": "वाचनाने ज्ञान मिळते आणि संकटकाळी मदत होते."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "‘लिखाण’ सुधारण्यासाठी काय करावे?",
+            "answer": "शुद्धलेखन लिहावे."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "गणित सोडवण्यासाठी काय आवश्यक आहे?",
+            "answer": "पाढे पाठांतर."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "विज्ञानात आपण काय करतो?",
+            "answer": "प्रयोग."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "इतिहासात आपण काय शिकतो?",
+            "answer": "भूतकाळातील गोष्टी."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "भूगोलात आपण काय शिकतो?",
+            "answer": "पृथ्वी, नद्या, पर्वत इ."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "मराठी आपली कोणती भाषा आहे?",
+            "answer": "मातृभाषा/राजभाषा."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "इंग्रजी ही कोणती भाषा आहे?",
+            "answer": "आंतरराष्ट्रीय भाषा."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "हिंदी आपली कोणती भाषा आहे?",
+            "answer": "राष्ट्रभाषा (मानली जाते)."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "शब्दकोश (Dictionary) कशासाठी असतो?",
+            "answer": "शब्दांचे अर्थ शोधण्यासाठी."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "नकाशा (Map) कशासाठी असतो?",
+            "answer": "ठिकाणे शोधण्यासाठी."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "ग्लोब (Globe) म्हणजे काय?",
+            "answer": "पृथ्वीची प्रतिकृती."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "घड्याळात किती काटे असतात?",
+            "answer": "तीन (तास, मिनिट, सेकंद)."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "एका तासात किती मिनिटे असतात?",
+            "answer": "साठ."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "एका मिनिटात किती सेकंद असतात?",
+            "answer": "साठ."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "अर्धा तास म्हणजे किती मिनिटे?",
+            "answer": "तीस."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "पाऊण तास म्हणजे किती मिनिटे?",
+            "answer": "पंचेचाळीस."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "सव्वा तास म्हणजे किती?",
+            "answer": "एक तास पंधरा मिनिटे."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "दीड तास म्हणजे किती?",
+            "answer": "एक तास तीस मिनिटे."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "अडीच तास म्हणजे किती?",
+            "answer": "दोन तास तीस मिनिटे."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "बारा वाजता काय होते?",
+            "answer": "दुपार किंवा मध्यरात्र."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "सूर्य डोक्यावर कधी येतो?",
+            "answer": "दुपारी बारा वाजता."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "शाळा किती वाजता भरते?",
+            "answer": "(वेळ) सकाळी/दुपारी."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "शाळा कधी सुटते?",
+            "answer": "(वेळ) संध्याकाळी."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "तुम्ही रोज डबा नेता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "डब्यात काय असते?",
+            "answer": "पोळी-भाजी."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "पाण्याची बाटली नेता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "दप्तर जड असते का?",
+            "answer": "नाही, वेळेपत्रकानुसार असते."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "शाळेची घंटा कोण वाजवते?",
+            "answer": "शिपाई काका."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "शाळेचे मुख्याध्यापक कोण आहेत?",
+            "answer": "(नाव) किंवा हेडमास्तर."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "तुमचे वर्गशिक्षक कोण आहेत?",
+            "answer": "(नाव)."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "शाळेचे मैदान मोठे आहे का?",
+            "answer": "हो/नाही."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "शाळेत बाग आहे का?",
+            "answer": "हो/नाही."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "तुम्ही सहलीला जाता का?",
+            "answer": "हो, दरवर्षी."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "सहलीला काय मजा येते?",
+            "answer": "फिरणे, खाणे आणि खेळणे."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "गदरिंग (Gathering) मध्ये काय असते?",
+            "answer": "सांस्कृतिक कार्यक्रम."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "बक्षीस समारंभ कधी होतो?",
+            "answer": "निकाल लागल्यावर किंवा गॅदरिंगमध्ये."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "तुम्हाला बक्षीस मिळाले आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "परीक्षेची भीती वाटते का?",
+            "answer": "नाही, अभ्यास केल्यावर वाटत नाही."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "कॉपी (Cheating) करावी का?",
+            "answer": "नाही, कधीच नाही."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "प्रामाणिकपणे पेपर लिहावा का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "पास झाल्यावर पेढे का वाटतात?",
+            "answer": "आनंद साजरा करण्यासाठी."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "नापास झाल्यावर काय करावे?",
+            "answer": "दुप्पट अभ्यास करावा."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "शाळे चे नाव काय?",
+            "answer": "(शाळेचे नाव)."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "तुम्ही कोणत्या इयत्तेत आहात?",
+            "answer": "पाचवीत."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "तुमचा हजेरी क्रमांक (Roll No) काय आहे?",
+            "answer": "(क्रमांक)."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "तुम्ही मॉनिटर आहात का?",
+            "answer": "हो/नाही."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "मॉनिटरचे काम काय असते?",
+            "answer": "वर्ग शांत ठेवणे."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "फळा (Board) कोण पुसते?",
+            "answer": "मॉनिटर किंवा शिपाई."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "सुविचार कोण लिहितो?",
+            "answer": "विद्यार्थी."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "परिपाठ (Assembly) मध्ये काय होते?",
+            "answer": "प्रार्थना आणि बातम्या."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "राष्ट्रगीत म्हणताना हालचाल करावी का?",
+            "answer": "नाही, स्तब्ध उभे राहावे."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "प्रतिज्ञा (Pledge) म्हणा.",
+            "answer": "भारत माझा देश आहे..."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "‘वंदे मातरम’ कोणी लिहिले?",
+            "answer": "बंकिमचंद्र चॅटर्जी."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "‘जन गण मन’ कोणी लिहिले?",
+            "answer": "रवींद्रनाथ टागोर."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "‘जय हिंद’ कोणी म्हटले?",
+            "answer": "सुभाषचंद्र बोस."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "‘चले जाव’ घोषणा कोणी दिली?",
+            "answer": "महात्मा गांधींनी."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "स्वातंत्र्यवीरांचे फोटो कोठे असतात?",
+            "answer": "शाळेच्या ऑफिसमध्ये/वर्गात."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "शिवाजी महाराजांचा फोटो आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "डॉ. बाबासाहेब आंबेडकरांचा फोटो आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "महात्मा गांधींचा फोटो आहे का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "साने गुरुजीनी काय लिहिले?",
+            "answer": "श्यामची आई."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "पु.ल. देशपांडे कोण होते?",
+            "answer": "मराठी लेखक आणि विनोदी कलाकार."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "कुसुमाग्रज कोण होते?",
+            "answer": "प्रसिद्ध कवी."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "बालकवी कोणाला म्हणतात?",
+            "answer": "त्र्यंबक बापूजी ठोंबरे."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "तुमचे आवडते पुस्तक कोणते?",
+            "answer": "श्यामची आई/गोट्या/चंपक."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "वर्तमानपत्र वाचता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "कोणते वर्तमानपत्र वाचता?",
+            "answer": "सकाळ/लोकमत/सामना इ."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "बातम्या ऐकता का?",
+            "answer": "हो, टीव्हीवर."
+        },
+        {
+            "question_id": 123,
+            "question_type": "SHORT",
+            "question": "हवामान अंदाज कशासाठी?",
+            "answer": "पाऊस/ऊन समजण्यासाठी."
+        },
+        {
+            "question_id": 124,
+            "question_type": "SHORT",
+            "question": "शेतीविषयक बातम्या कोणासाठी?",
+            "answer": "शेतकऱ्यांसाठी."
+        },
+        {
+            "question_id": 125,
+            "question_type": "SHORT",
+            "question": "क्रीडा बातम्या कोणासाठी?",
+            "answer": "खेळाडूंसाठी."
+        },
+        {
+            "question_id": 126,
+            "question_type": "SHORT",
+            "question": "मुलांसाठी कोणते पान असते?",
+            "answer": "बालमैफल/छोटू."
+        },
+        {
+            "question_id": 127,
+            "question_type": "SHORT",
+            "question": "शब्दकोडे सोडवता का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 128,
+            "question_type": "SHORT",
+            "question": "विनोद वाचायला आवडतात का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 129,
+            "question_type": "SHORT",
+            "question": "गोष्टी सांगायला आवडतात का?",
+            "answer": "हो."
+        },
+        {
+            "question_id": 130,
+            "question_type": "SHORT",
+            "question": "जुनी पुस्तके कोणाला द्यावीत?",
+            "answer": "गरजू विद्यार्थ्यांना."
+        },
+        {
+            "question_id": 131,
+            "question_type": "SHORT",
+            "question": "वहीची पाने फाडावीत का?",
+            "answer": "नाही."
+        },
+        {
+            "question_id": 132,
+            "question_type": "SHORT",
+            "question": "पुस्तकाला कव्हर का घालावे?",
+            "answer": "पुस्तक खराब होऊ नये म्हणून."
+        },
+        {
+            "question_id": 133,
+            "question_type": "SHORT",
+            "question": "नावाचे लेबल का लावावे?",
+            "answer": "पुस्तक हरवू नये म्हणून."
+        },
+        {
+            "question_id": 134,
+            "question_type": "SHORT",
+            "question": "अक्षर सुंदर करण्यासाठी काय करावे?",
+            "answer": "रोज सराव करावा."
+        },
+        {
+            "question_id": 135,
+            "question_type": "SHORT",
+            "question": "मराठीत किती मुळाक्षरे आहेत?",
+            "answer": "अ ते ज्ञ पर्यंत."
+        },
+        {
+            "question_id": 136,
+            "question_type": "SHORT",
+            "question": "बारखडी म्हणजे काय?",
+            "answer": "क का कि की..."
+        },
+        {
+            "question_id": 137,
+            "question_type": "SHORT",
+            "question": "जोडाक्षर म्हणजे काय?",
+            "answer": "दोन अक्षरे जोडलेली."
+        },
+        {
+            "question_id": 138,
+            "question_type": "SHORT",
+            "question": "विरामचिन्हे म्हणजे काय?",
+            "answer": "पूर्णविराम, स्वल्पविराम इ."
+        },
+        {
+            "question_id": 139,
+            "question_type": "SHORT",
+            "question": "पूर्णविराम (.) कधी देतात?",
+            "answer": "वाक्य पूर्ण झाल्यावर."
+        },
+        {
+            "question_id": 140,
+            "question_type": "SHORT",
+            "question": "प्रश्नचिन्ह (?) कधी देतात?",
+            "answer": "प्रश्न विचारल्यावर."
+        },
+        {
+            "question_id": 141,
+            "question_type": "SHORT",
+            "question": "उद्गारवाचक चिन्ह (!) कधी देतात?",
+            "answer": "नवल/आनंद झाल्यावर."
+        },
+        {
+            "question_id": 142,
+            "question_type": "SHORT",
+            "question": "अवतरण चिन्ह () कधी देतात?",
+            "answer": "बोलताना."
+        },
+        {
+            "question_id": 143,
+            "question_type": "SHORT",
+            "question": "परिच्छेद (Paragraph) का पाडतात?",
+            "answer": "विषय बदलल्यावर."
+        },
+        {
+            "question_id": 144,
+            "question_type": "SHORT",
+            "question": "निबंध कसा लिहावा?",
+            "answer": "मुद्देसूद आणि छान."
+        },
+        {
+            "question_id": 145,
+            "question_type": "SHORT",
+            "question": "पत्र कसे लिहावे?",
+            "answer": "मायना आणि पत्ता लिहून."
+        },
+        {
+            "question_id": 146,
+            "question_type": "SHORT",
+            "question": "अर्ज कसा करावा?",
+            "answer": "विनंती करून."
+        },
+        {
+            "question_id": 147,
+            "question_type": "SHORT",
+            "question": "शुभेच्छा पत्र कधी देतात?",
+            "answer": "वाढदिवसाला/सणाला."
+        }
+    ]
 }

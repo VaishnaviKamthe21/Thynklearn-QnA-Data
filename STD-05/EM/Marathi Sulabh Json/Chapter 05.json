@@ -1,482 +1,2005 @@
 {
-  "class": "5",
-  "subject": "मराठी सुलभभारती",
-  "board_medium": "SSC Marathi",
-  "chapter_number": 5,
-  "chapter_name": "डाव डाव!",
-  "mode": "Maximally Unique (No Forced Padding)",
-  "one_line_questions": [
-    {
-      "id": 1,
-      "question": "‘डाव डाव!’ या पाठाचा मुख्य विषय काय आहे?",
-      "answer": "या पाठाचा मुख्य विषय खेळातील योग्य डावपेच आहे."
-    },
-    {
-      "id": 2,
-      "question": "या पाठात ‘डाव’ या शब्दाचा अर्थ काय सांगितला आहे?",
-      "answer": "डाव म्हणजे विचारपूर्वक वापरलेली युक्ती."
-    },
-    {
-      "id": 3,
-      "question": "खेळात डाव कधी टाकावा लागतो?",
-      "answer": "योग्य वेळ ओळखल्यावर डाव टाकावा लागतो."
-    },
-    {
-      "id": 4,
-      "question": "डाव टाकताना परिस्थितीचा विचार का करावा लागतो?",
-      "answer": "परिस्थितीमुळे डाव यशस्वी किंवा अपयशी ठरतो."
-    },
-    {
-      "id": 5,
-      "question": "खेळात घाई का नुकसानकारक ठरते?",
-      "answer": "घाईमुळे चुकीचा निर्णय होतो."
-    },
-    {
-      "id": 6,
-      "question": "संयम हा खेळात महत्त्वाचा गुण का आहे?",
-      "answer": "संयमामुळे योग्य निर्णय घेता येतो."
-    },
-    {
-      "id": 7,
-      "question": "खेळात अनुभवाचा उपयोग कसा होतो?",
-      "answer": "अनुभवामुळे पुढील डाव अधिक योग्य ठरतो."
-    },
-    {
-      "id": 8,
-      "question": "डाव यशस्वी होण्यासाठी कोणते गुण आवश्यक आहेत?",
-      "answer": "विचारशक्ती आणि संयम आवश्यक आहेत."
-    },
-    {
-      "id": 9,
-      "question": "या पाठातून विद्यार्थ्यांना काय शिकायला मिळते?",
-      "answer": "विचारपूर्वक निर्णय घेणे शिकायला मिळते."
-    },
-    {
-      "id": 10,
-      "question": "डाव अयशस्वी ठरण्याचे मुख्य कारण काय असते?",
-      "answer": "चुकीचा अंदाज हे मुख्य कारण असते."
-    },
-    {
-      "id": 11,
-      "question": "खेळात विचार करण्याची सवय का आवश्यक आहे?",
-      "answer": "कारण प्रत्येक कृतीचा परिणाम होतो."
-    },
-    {
-      "id": 12,
-      "question": "या पाठाचा विद्यार्थ्यांच्या जीवनाशी काय संबंध आहे?",
-      "answer": "जीवनातही योग्य निर्णय महत्त्वाचे असतात."
-    },
-    {
-      "id": 13,
-      "question": "खेळात योग्य वेळेचे महत्त्व काय आहे?",
-      "answer": "योग्य वेळ डाव यशस्वी करते."
-    },
-    {
-      "id": 14,
-      "question": "डाव टाकताना शांतता का आवश्यक आहे?",
-      "answer": "शांततेमुळे योग्य विचार करता येतो."
-    },
-    {
-      "id": 15,
-      "question": "या पाठात कोणत्या प्रकारचा खेळ सूचित केला आहे?",
-      "answer": "बुद्धी आणि रणनीतीवर आधारित खेळ सूचित केला आहे."
-    },
-    {
-      "id": 16,
-      "question": "खेळात चूक झाल्यास काय शिकायला मिळते?",
-      "answer": "चुकीतून सुधारणा शिकायला मिळते."
-    },
-    {
-      "id": 17,
-      "question": "डाव यशस्वी झाल्यावर काय होते?",
-      "answer": "खेळात प्रगती होते."
-    },
-    {
-      "id": 18,
-      "question": "डाव अपयशी ठरल्यास काय करावे?",
-      "answer": "पुन्हा विचार करून नवीन डाव टाकावा."
-    },
-    {
-      "id": 19,
-      "question": "या पाठात कोणता गुण अप्रत्यक्षपणे दाखवला आहे?",
-      "answer": "संयम हा गुण दाखवला आहे."
-    },
-    {
-      "id": 20,
-      "question": "खेळात नियमांचे पालन का महत्त्वाचे आहे?",
-      "answer": "नियमांमुळे खेळ सुरळीत चालतो."
-    },
-    {
-      "id": 21,
-      "question": "या पाठाचा मुख्य संदेश काय आहे?",
-      "answer": "विचार करून कृती करावी हा संदेश आहे."
-    },
-    {
-      "id": 22,
-      "question": "खेळातील डाव आणि जीवनातील निर्णय यात काय साम्य आहे?",
-      "answer": "दोन्ही ठिकाणी विचार महत्त्वाचा असतो."
-    },
-    {
-      "id": 23,
-      "question": "डाव टाकताना आत्मविश्वास का आवश्यक आहे?",
-      "answer": "आत्मविश्वासामुळे निर्णय ठाम होतो."
-    },
-    {
-      "id": 24,
-      "question": "खेळात लक्ष केंद्रित करणे का गरजेचे आहे?",
-      "answer": "लक्षामुळे चूक टाळता येते."
-    },
-    {
-      "id": 25,
-      "question": "या पाठात खेळातून कोणते जीवनमूल्य शिकवले आहे?",
-      "answer": "जबाबदारीचे मूल्य शिकवले आहे."
-    },
-    {
-      "id": 26,
-      "question": "डाव ठरवताना विरोधकाचा विचार का करावा लागतो?",
-      "answer": "विरोधकामुळे डाव बदलावा लागू शकतो."
-    },
-    {
-      "id": 27,
-      "question": "खेळात डाव बदलण्याची गरज कधी पडते?",
-      "answer": "परिस्थिती बदलल्यावर गरज पडते."
-    },
-    {
-      "id": 28,
-      "question": "या पाठात खेळाचा कोणता पैलू महत्त्वाचा आहे?",
-      "answer": "रणनीतीचा पैलू महत्त्वाचा आहे."
-    },
-    {
-      "id": 29,
-      "question": "खेळात विचार न करता कृती केल्यास काय होते?",
-      "answer": "अपयश येण्याची शक्यता वाढते."
-    },
-    {
-      "id": 30,
-      "question": "डाव टाकताना अनुभव आणि विचार यांचा संबंध काय आहे?",
-      "answer": "अनुभव विचाराला दिशा देतो."
-    },
-    {
-      "id": 31,
-      "question": "या पाठातून मिळणारा व्यवहारिक धडा कोणता आहे?",
-      "answer": "घाई टाळून विचार करणे."
-    },
-    {
-      "id": 32,
-      "question": "खेळात यश मिळवण्यासाठी काय आवश्यक आहे?",
-      "answer": "योग्य डाव आणि संयम आवश्यक आहे."
-    },
-    {
-      "id": 33,
-      "question": "डाव अचूक लागल्यास काय परिणाम होतो?",
-      "answer": "खेळात आघाडी मिळते."
-    },
-    {
-      "id": 34,
-      "question": "या पाठातील शीर्षकाचा अर्थ काय होतो?",
-      "answer": "डाव टाकण्याचे महत्त्व दर्शवते."
-    },
-    {
-      "id": 35,
-      "question": "खेळात चुका कमी करण्यासाठी काय करावे?",
-      "answer": "विचारपूर्वक निर्णय घ्यावा."
-    },
-    {
-      "id": 36,
-      "question": "खेळात डाव आखताना कोणत्या चुका टाळाव्यात?",
-      "answer": "घाई, गोंधळ आणि अति आत्मविश्वास टाळावा."
-    },
-    {
-      "id": 37,
-      "question": "डाव आखताना विरोधकाचे निरीक्षण का महत्त्वाचे आहे?",
-      "answer": "विरोधकाची हालचाल समजल्यास योग्य डाव ठरतो."
-    },
-    {
-      "id": 38,
-      "question": "खेळात शांत मनाचा कसा उपयोग होतो?",
-      "answer": "शांत मनामुळे योग्य निर्णय घेता येतो."
-    },
-    {
-      "id": 39,
-      "question": "खेळात डाव बदलण्याची लवचिकता का आवश्यक आहे?",
-      "answer": "कारण प्रत्येक परिस्थिती सारखी नसते."
-    },
-    {
-      "id": 40,
-      "question": "डाव आखताना टीमवर्क कसा मदत करतो?",
-      "answer": "सहकार्यामुळे डाव अधिक प्रभावी ठरतो."
-    },
-    {
-      "id": 41,
-      "question": "खेळात वेळेचे नियोजन का गरजेचे असते?",
-      "answer": "योग्य वेळी योग्य कृती करता येते."
-    },
-    {
-      "id": 42,
-      "question": "खेळात अपयश आले तरी पुढे का खेळावे?",
-      "answer": "अपयशातून शिकण्याची संधी मिळते."
-    },
-    {
-      "id": 43,
-      "question": "डाव यशस्वी न झाल्यास खेळाडूने काय करावे?",
-      "answer": "चूक ओळखून सुधारणा करावी."
-    },
-    {
-      "id": 44,
-      "question": "खेळात आत्मविश्वास आणि अति आत्मविश्वास यात फरक काय?",
-      "answer": "आत्मविश्वास उपयुक्त तर अति आत्मविश्वास घातक असतो."
-    },
-    {
-      "id": 45,
-      "question": "खेळातील अनुभव जीवनात कसा उपयोगी पडतो?",
-      "answer": "जीवनातील निर्णय अधिक योग्य होतात."
-    },
-    {
-      "id": 46,
-      "question": "डाव आखताना कल्पकतेची भूमिका काय असते?",
-      "answer": "कल्पकतेमुळे नवे मार्ग सापडतात."
-    },
-    {
-      "id": 47,
-      "question": "खेळात डावपेच ठरवताना संयम का हवा?",
-      "answer": "संयमामुळे घाई टाळता येते."
-    },
-    {
-      "id": 48,
-      "question": "खेळात चुका स्वीकारणे का महत्त्वाचे आहे?",
-      "answer": "चुका मान्य केल्याने सुधारणा शक्य होते."
-    },
-    {
-      "id": 49,
-      "question": "डाव आखताना निरीक्षणशक्ती का आवश्यक आहे?",
-      "answer": "निरीक्षणामुळे परिस्थिती स्पष्ट होते."
-    },
-    {
-      "id": 50,
-      "question": "खेळात डाव ठरवताना अनुभव आणि विचार यांचा कसा मेळ घालावा?",
-      "answer": "अनुभवाला विचाराची जोड द्यावी."
-    }
-  ],
-  "mcqs": [
-    {
-      "id": 1,
-      "question": "‘डाव डाव!’ या पाठाचा मुख्य विषय कोणता आहे?",
-      "options": {
-        "A": "खेळ",
-        "B": "निसर्ग",
-        "C": "प्रवास",
-        "D": "कविता"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 2,
-      "question": "‘डाव’ या शब्दाचा अर्थ काय आहे?",
-      "options": {
-        "A": "वेग",
-        "B": "युक्ती",
-        "C": "थकवा",
-        "D": "नियम"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 3,
-      "question": "खेळात डाव कशावर अवलंबून असतो?",
-      "options": {
-        "A": "नशीब",
-        "B": "विचार",
-        "C": "भीती",
-        "D": "गोंधळ"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 4,
-      "question": "घाई केल्याने काय होते?",
-      "options": {
-        "A": "विजय",
-        "B": "चूक",
-        "C": "आनंद",
-        "D": "विश्रांती"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 5,
-      "question": "खेळात संयम का आवश्यक आहे?",
-      "options": {
-        "A": "वेळ वाढवण्यासाठी",
-        "B": "चूक टाळण्यासाठी",
-        "C": "आवाजासाठी",
-        "D": "थकण्यासाठी"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 6,
-      "question": "या पाठातून कोणता गुण विकसित होतो?",
-      "options": {
-        "A": "आळस",
-        "B": "संयम",
-        "C": "राग",
-        "D": "स्पर्धा"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 7,
-      "question": "खेळात अनुभवाचा उपयोग कसा होतो?",
-      "options": {
-        "A": "चूक वाढते",
-        "B": "डाव सुधारतो",
-        "C": "वेळ जातो",
-        "D": "नियम बदलतात"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 8,
-      "question": "डाव यशस्वी होण्यासाठी काय आवश्यक आहे?",
-      "options": {
-        "A": "घाई",
-        "B": "योग्य विचार",
-        "C": "राग",
-        "D": "आळस"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 9,
-      "question": "खेळात नियम का आवश्यक आहेत?",
-      "options": {
-        "A": "मर्यादा ठरवण्यासाठी",
-        "B": "खेळ थांबवण्यासाठी",
-        "C": "वेळ वाढवण्यासाठी",
-        "D": "गोंधळासाठी"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 10,
-      "question": "या पाठाचा मुख्य संदेश कोणता आहे?",
-      "options": {
-        "A": "घाई करावी",
-        "B": "विचार करून कृती करावी",
-        "C": "नशीब महत्त्वाचे",
-        "D": "स्पर्धा वाढवावी"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 11,
-      "question": "डाव टाकताना कोणती गोष्ट टाळावी?",
-      "options": {
-        "A": "संयम",
-        "B": "घाई",
-        "C": "विचार",
-        "D": "अनुभव"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 12,
-      "question": "खेळात लक्ष केंद्रित केल्याने काय होते?",
-      "options": {
-        "A": "चूक वाढते",
-        "B": "योग्य निर्णय होतो",
-        "C": "थकवा येतो",
-        "D": "वेळ जातो"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 13,
-      "question": "डाव बदलण्याची गरज कधी पडते?",
-      "options": {
-        "A": "परिस्थिती बदलल्यावर",
-        "B": "नेहमी",
-        "C": "कधीच नाही",
-        "D": "नियम मोडल्यावर"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 14,
-      "question": "या पाठात खेळाचा कोणता पैलू महत्त्वाचा आहे?",
-      "options": {
-        "A": "वेग",
-        "B": "रणनीती",
-        "C": "शक्ती",
-        "D": "भाग्य"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 15,
-      "question": "खेळात चूक झाल्यास काय करावे?",
-      "options": {
-        "A": "खेळ सोडावा",
-        "B": "पुन्हा विचार करावा",
-        "C": "राग करावा",
-        "D": "नियम मोडावे"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 16,
-      "question": "खेळात अति आत्मविश्वासाचा परिणाम काय होतो?",
-      "options": {
-        "A": "विजय हमखास",
-        "B": "चूक होण्याची शक्यता",
-        "C": "खेळ सोपा होतो",
-        "D": "नियम बदलतात"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 17,
-      "question": "खेळात टीमवर्कचा मुख्य फायदा कोणता?",
-      "options": {
-        "A": "वेळ जातो",
-        "B": "डाव मजबूत होतो",
-        "C": "स्पर्धा वाढते",
-        "D": "गोंधळ होतो"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 18,
-      "question": "डाव आखताना कल्पकता का उपयुक्त ठरते?",
-      "options": {
-        "A": "नवे पर्याय मिळतात",
-        "B": "वेळ वाया जातो",
-        "C": "नियम मोडले जातात",
-        "D": "चूक वाढते"
-      },
-      "answer": "A"
-    },
-    {
-      "id": 19,
-      "question": "खेळात शांतता राखल्याने काय साध्य होते?",
-      "options": {
-        "A": "थकवा",
-        "B": "योग्य निर्णय",
-        "C": "वेग",
-        "D": "गोंधळ"
-      },
-      "answer": "B"
-    },
-    {
-      "id": 20,
-      "question": "खेळात अपयश आल्यावर काय करणे योग्य?",
-      "options": {
-        "A": "खेळ सोडणे",
-        "B": "पुन्हा प्रयत्न करणे",
-        "C": "राग करणे",
-        "D": "नियम मोडणे"
-      },
-      "answer": "B"
-    }
-  ]
+    "chapter_metadata": {
+        "chapter_id": "5.class.05",
+        "standard": "5",
+        "subject": "Marathi Sulabhbharati",
+        "medium": "English Medium",
+        "chapter_name": "Dav Dav!"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "‘डाव’ हा शब्द कोणत्या संदर्भात येतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खेळ",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "अभ्यास",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जेवण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोप",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खेळ"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "लपाछपीच्या खेळात ज्याच्यावर राज्य असते तो काय करतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "डोळे मिटतो",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पळतो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "लपतो",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हसतो",
+                    "is_correct": false
+                }
+            ],
+            "answer": "डोळे मिटतो"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "खेळाडू बाद कधी होतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नियम मोडल्यावर/पकडल्यावर",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जिंकल्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "घरी गेल्यावर",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जेवल्यावर",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नियम मोडल्यावर/पकडल्यावर"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "कबड्डीमध्ये ‘श्वास रोखणे’ याला काय म्हणतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "दम",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "धाव",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "उडी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "फेक",
+                    "is_correct": false
+                }
+            ],
+            "answer": "दम"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "क्रिकेटमध्ये किती यष्टी (Stumps) असतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तीन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "दोन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पाच",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तीन"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "खो-खो खेळात बसलेल्या खेळाडूंची दिशा कशी असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "विरुद्ध",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "एकसारखी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गोलाकार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "उभी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "विरुद्ध"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "‘धाव’ (Run) कशात काढतात?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "क्रिकेट",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "बुद्धिबळ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कॅरम",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "लुडो",
+                    "is_correct": false
+                }
+            ],
+            "answer": "क्रिकेट"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "बुद्धिबळात ‘राजा’ किती असतो?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "एक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दोन",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आठ",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "सोळा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "एक"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "कॅरम खेळण्यासाठी कशाची गरज असते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "बोर्ड आणि सोंगट्या",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "बॅट आणि बॉल",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रॅकेट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जाळी",
+                    "is_correct": false
+                }
+            ],
+            "answer": "बोर्ड आणि सोंगट्या"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "‘सापशिडी’ खेळताना काय लागते?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "फासा (Dice)",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "बॅट",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मैदान",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "स्टंप",
+                    "is_correct": false
+                }
+            ],
+            "answer": "फासा (Dice)"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "‘ससा’ शब्दाचा समानार्थी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शशक",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "वनराज",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "गज",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "अश्व",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शशक"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "‘कासव’ आणि ‘ससा’ यांच्यात काय झाले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शर्यत",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "भांडण",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मैत्री",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शर्यत"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "शर्यत कोण जिंकले?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कासव",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "ससा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कोल्हा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "कुत्रा",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कासव"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "ससा का हरला?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "झोपल्यामुळे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पळाल्यामुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रडल्यामुळे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "घाबरल्यामुळे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "झोपल्यामुळे"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "‘वेगाने’ धावणारा प्राणी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चित्ता/ससा",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कासव",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "हत्ती",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गोगलगाय",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चित्ता/ससा"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "‘हळू’ चालणारा प्राणी?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कासव",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "घोडा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कुत्रा",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वाघ",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कासव"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "‘गर्व’ कोणाला झाला होता?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सशाला",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कासवाला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झाडाला",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रस्त्याला",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सशाला"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "‘अति तिथे माती’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जास्त केल्याने नुकसान होते",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "माती खाणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शेतकरी",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झाडे लावणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जास्त केल्याने नुकसान होते"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "‘थेंबे थेंबे तळे साचे’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "बचत करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पाऊस पडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाणी सांडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "तलाव",
+                    "is_correct": false
+                }
+            ],
+            "answer": "बचत करणे"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "‘करावे तसे भरावे’ म्हणजे काय?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कर्मानुसार फळ मिळणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "भांडे भरणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "काम करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "लिहिणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कर्मानुसार फळ मिळणे"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "‘नाचता येईना अंगण वाकडे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्वतःला जमत नसताना दुसऱ्याला दोष देणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "अंगण खराब असणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नाचता न येणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "घर लहान असणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्वतःला जमत नसताना दुसऱ्याला दोष देणे"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "‘दिव्याखाली अंधार’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मोठ्या माणसांतही दोष असू शकतात",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दिवा नसणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "रात्र होणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वीज जाणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मोठ्या माणसांतही दोष असू शकतात"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "‘पळसाला पाने’ किती?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "तीन",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चार",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पाच",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दोन",
+                    "is_correct": false
+                }
+            ],
+            "answer": "तीन"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "‘तोंडात बोट घालणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नवल वाटणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "बोट चावणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चूप बसणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जेवणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नवल वाटणे"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "‘हात देणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मदत करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हात मिळवणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मारणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "टाळी देणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मदत करणे"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "‘पोटात कावळे ओरडणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खूप भूक लागणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "पोट दुखणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कावळा ओरडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जेवणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खूप भूक लागणे"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "‘डोळे उघडणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चूक समजणे/जाग येणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "झोपू न देणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चष्मा लावणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रडणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चूक समजणे/जाग येणे"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "‘कान भरन’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "चुगली करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कानात औषध टाकणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "ऐकू न येणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "गाणे ऐकणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "चुगली करणे"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "‘आग लावणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "भांडण लावणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "चूल पेटवणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "होळी करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "दिवा लावणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "भांडण लावणे"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "‘तमा न बाळगणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पर्वा न करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "काळजी घेणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "घाबरणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पळून जाणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पर्वा न करणे"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "‘धाबे दणाणणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खूप घाबरणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "भूकंप होणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "पडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हसणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खूप घाबरणे"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "‘शाब्बासकी देणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "कौतुक करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "शिक्षा करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मारणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "ओरडणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "कौतुक करणे"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "‘हिरमोड होणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाराज होणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "आनंद होणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "मोडणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हरवणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाराज होणे"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "‘जीवापाड जपणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "खूप काळजी घेणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मारणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "सोडून देणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विसरणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "खूप काळजी घेणे"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "‘दंगा करणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मस्ती करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "अभ्यास करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शांत बसणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मस्ती करणे"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "‘धुमाकूळ घालणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "गोंधळ घालणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "स्वच्छता करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "शाळा भरणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जेवण बनवणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "गोंधळ घालणे"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "‘पसार होणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "पळून जाणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "येणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोपणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रडणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "पळून जाणे"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "‘कपाळावर हात मारणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "हताश होणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "डोकं दुखणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "नमस्कार करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "विचार करणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "हताश होणे"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "‘बत्ती गुल होणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "समजणे बंद होणे/वीज जाणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दिवा लावणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "झोपणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "उठणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "समजणे बंद होणे/वीज जाणे"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "‘दंग होणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "मग्न होणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हरवणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "घाबरणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पळणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "मग्न होणे"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "‘कान टवकारणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "सावध होऊन ऐकणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "कान हलवणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "कानात बोलणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "काहीच नाही",
+                    "is_correct": false
+                }
+            ],
+            "answer": "सावध होऊन ऐकणे"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "‘तोंड वाकडे करणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "नाराजी दाखवणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हसणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आरशात बघणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "जेवणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "नाराजी दाखवणे"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "‘पाठ थोपटणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "शाब्बासकी देणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "मारणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "खाजवणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "धक्का देणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "शाब्बासकी देणे"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "‘जीव लावणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "माया करणे/प्रेम करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "जीव देणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "घाबरवणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रागवणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "माया करणे/प्रेम करणे"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "‘मन लावणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "लक्ष देणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "दुर्लक्ष करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "विसरणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "झोपणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "लक्ष देणे"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "‘भान नसणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "जाणीव नसणे/गुंग होणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "हुशार असणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "जागृत असणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "वेळ असणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "जाणीव नसणे/गुंग होणे"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "‘वाखाणणी करणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "स्तुती करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "निंदा करणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चूक काढणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रागवणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "स्तुती करणे"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "‘डोळा लागणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "झोप लागणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "डोळा दुखणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "बघणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "रडणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "झोप लागणे"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "‘वाट पाहणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "प्रतिक्षा करणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "रस्ता बघणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "चालणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "पळणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "प्रतिक्षा करणे"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "‘डोळे पाणावणे’ - अर्थ?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "रडू येणे",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "डोळे धुणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "आनंद होणे",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "हसणे",
+                    "is_correct": false
+                }
+            ],
+            "answer": "रडू येणे"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "तुम्हाला कोणता खेळ सर्वात जास्त आवडतो?",
+            "answer": "मला क्रिकेट हा खेळ सर्वात जास्त आवडतो."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "बैठे खेळ म्हणजे काय?",
+            "answer": "जे खेळ एका जागी बसून खेळले जातात."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "मैदानी खेळ म्हणजे काय?",
+            "answer": "जे खेळ मैदानावर पळून खेळले जातात."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "कॅरममध्ये किती सोंगट्या असतात?",
+            "answer": "कॅरममध्ये ९ काळ्या, ९ पांढऱ्या आणि १ लाल (राणी) सोंगटी असते."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "बुद्धिबळात सैनिकाला काय म्हणतात?",
+            "answer": "प्यादे (Pawn)."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "‘लगोरी’ खेळात कशाचा वापर होतो?",
+            "answer": "सात दगडांचा आणि चेंडूचा."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "‘विटी-दांडू’ म्हणजे काय?",
+            "answer": "एक लाकडी दांडू आणि छोटी विटी यांचा खेळ."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "‘सूरपारंब्या’ कोठे खेळतात?",
+            "answer": "झाडावर (वर्डाच्या झाडावर)."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "खेळ खेळल्याने काय फायदा होतो?",
+            "answer": "शरीर निरोगी राहते आणि सांघिक भावना वाढते."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "खेळात हार-जीत महत्त्वाची आहे का?",
+            "answer": "नाही, खेळात सहभाग आणि आनंद महत्त्वाचा आहे."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "‘खेळाडूवृत्ती’ म्हणजे काय?",
+            "answer": "हार-जीत आनंदानं स्वीकारणे आणि प्रतिस्पर्ध्याचा आदर करणे."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "भारताचा राष्ट्रीय खेळ कोणता?",
+            "answer": "हॉकी."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "क्रिकेटचा देव कोणाला म्हणतात?",
+            "answer": "सचिन तेंडुलकर."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "ऑलिम्पिकमध्ये सुवर्णपदक कशाचे असते?",
+            "answer": "सोन्याचे (विजेत्यासाठी)."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "धावण्याच्या शर्यतीत काय करावे लागते?",
+            "answer": "सर्वात वेगाने धावावे लागते."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "जलतरण म्हणजे काय?",
+            "answer": "पाण्यात पोहण्याची शर्यत."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "कुस्ती कोठे खेळली जाते?",
+            "answer": "आखाड्यात किंवा मॅटवर."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "कबड्डी संघात किती खेळाडू असतात?",
+            "answer": "सात."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "खो-खो संघात किती खेळाडू असतात?",
+            "answer": "नऊ."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "क्रिकेट संघात किती खेळाडू असतात?",
+            "answer": "अकरा."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "बॅडमिंटन खेळायला काय लागते?",
+            "answer": "रॅकेट आणि शटलकॉक (फूल)."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "टेबल टेनिस कोठे खेळतात?",
+            "answer": "टेबलवर."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "बुद्धिबळाचा शोध कोणत्या देशात लागला?",
+            "answer": "भारत."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "सापशिडी खेळात शिडी काय करते?",
+            "answer": "शिडी आपल्याला वर नेते (प्रगती)."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "सापशिडी खेळात साप काय करतो?",
+            "answer": "साप आपल्याला खाली आणतो (अधोगती)."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "‘ल्युडो’ खेळात किती रंग असतात?",
+            "answer": "चार (लाल, निळा, हिरवा, पिवळा)."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "पत्ते खेळात किती पाने असतात?",
+            "answer": "बावन (52)."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "जोकर पत्ता कशासाठी असतो?",
+            "answer": "मदतीसाठी किंवा वेगळा म्हणून."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "रस्सीखेच खेळात काय करतात?",
+            "answer": "दोन्ही बाजूचे गट दोरी ओढतात."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "‘आंधळी कोशिंबीर’ म्हणजे काय?",
+            "answer": "एकाच्या डोळ्यावर पट्टी बांधून इतरांना पकडणे."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "‘गोट्या’ कशाच्या असतात?",
+            "answer": "काचेच्या."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "भिंगरी कशी फिरते?",
+            "answer": "गोल."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "भोवरा कसा फिरतो?",
+            "answer": "दोरीने ओढल्यावर गोल फिरतो."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "तुमच्या शाळेत क्रीडा महोत्सव होतो का?",
+            "answer": "हो, दरवर्षी होतो."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "तुम्ही कोणत्या स्पर्धेत भाग घेता?",
+            "answer": "धावणे आणि लांब उडी."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "व्यायाम का करावा?",
+            "answer": "तंदुरुस्त राहण्यासाठी."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "सूर्यनमस्कार म्हणजे काय?",
+            "answer": "सूर्याला वंदन करून केलेला व्यायाम."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "प्राणायाम म्हणजे काय?",
+            "answer": "श्वासाचा व्यायाम."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "योग दिन कधी असतो?",
+            "answer": "२१ जून."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "मेध्यान ध्यान (Meditation) का करावे?",
+            "answer": "मनःशांतीसाठी."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "खेळताना दुखापत झाली तर काय करावे?",
+            "answer": "प्रथमोपचार करावेत."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "खेळाचे नियम का पाळावेत?",
+            "answer": "खेळ शिस्तीत पार पाडण्यासाठी."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "पंच (Umpire) म्हणजे कोण?",
+            "answer": "खेळाचा निर्णय देणारा प्रमुख."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "प्रेक्षक काय करतात?",
+            "answer": "टाळ्या वाजवून खेळाडूंचा उत्साह वाढवतात."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "जिंकलेल्या संघाला काय मिळते?",
+            "answer": "चषक (Trophy) किंवा पदक."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "हरलेल्या संघाने काय करावे?",
+            "answer": "पुन्हा जोमाने तयारी करावी."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "‘सांघिक भावना’ म्हणजे काय?",
+            "answer": "सर्वांनी मिळून एकजूटीने खेळणे."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "एकल खेळ कोणते?",
+            "answer": "बुद्धिबळ, टेनिस (Singles), बॅडमिंटन (Singles)."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "सांघिक खेळ कोणते?",
+            "answer": "क्रिकेट, फुटबॉल, कबड्डी."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "फुटबॉलमध्ये चेंडूला हात लावता येतो का?",
+            "answer": "नाही (फक्त गोलकिपरला)."
+        },
+        {
+            "question_id": 101,
+            "question_type": "SHORT",
+            "question": "बास्केटबॉलमध्ये काय करतात?",
+            "answer": "चेंडू बास्केटमध्ये टाकतात."
+        },
+        {
+            "question_id": 102,
+            "question_type": "SHORT",
+            "question": "हॉलीबॉलमध्ये चेंडू कोठून मारतात?",
+            "answer": "जाळीच्या वरून."
+        },
+        {
+            "question_id": 103,
+            "question_type": "SHORT",
+            "question": "स्केटिंग करायला काय लागते?",
+            "answer": "स्केट्स (चाकांचे बूट)."
+        },
+        {
+            "question_id": 104,
+            "question_type": "SHORT",
+            "question": "सायकलिंग हा व्यायाम आहे का?",
+            "answer": "हो, सायकल चालवणे उत्तम व्यायाम आहे."
+        },
+        {
+            "question_id": 105,
+            "question_type": "SHORT",
+            "question": "पोहणे हा पूर्ण व्यायाम आहे का?",
+            "answer": "हो, पोहण्याने संपूर्ण शरीराचा व्यायाम होतो."
+        },
+        {
+            "question_id": 106,
+            "question_type": "SHORT",
+            "question": "सकाळी लवकर उठून काय करावे?",
+            "answer": "व्यायाम किंवा फिरणे."
+        },
+        {
+            "question_id": 107,
+            "question_type": "SHORT",
+            "question": "संतुलित आहार म्हणजे काय?",
+            "answer": "सर्व जीवनसत्त्वे असलेला आहार."
+        },
+        {
+            "question_id": 108,
+            "question_type": "SHORT",
+            "question": "जंक फूड खावे का?",
+            "answer": "नाही, ते आरोग्याला हानिकारक असते."
+        },
+        {
+            "question_id": 109,
+            "question_type": "SHORT",
+            "question": "फळे आणि भाज्या का खाव्यात?",
+            "answer": "तंदुरुस्त राहण्यासाठी."
+        },
+        {
+            "question_id": 110,
+            "question_type": "SHORT",
+            "question": "पाणी किती प्यावे?",
+            "answer": "दिवसभरात भरपूर (८-१० ग्लास) पाणी प्यावे."
+        },
+        {
+            "question_id": 111,
+            "question_type": "SHORT",
+            "question": "झोप किती घ्यावी?",
+            "answer": "लहान मुलांनी ८-९ तास झोप घ्यावी."
+        },
+        {
+            "question_id": 112,
+            "question_type": "SHORT",
+            "question": "स्वच्छता का पाळावी?",
+            "answer": "आजार होऊ नयेत म्हणून."
+        },
+        {
+            "question_id": 113,
+            "question_type": "SHORT",
+            "question": "नखे का कापावीत?",
+            "answer": "नखांतील मळ पोटात जाऊ नये म्हणून."
+        },
+        {
+            "question_id": 114,
+            "question_type": "SHORT",
+            "question": "आंघोळ का करावी?",
+            "answer": "शरीर स्वच्छ ठेवण्यासाठी."
+        },
+        {
+            "question_id": 115,
+            "question_type": "SHORT",
+            "question": "दात का घासावेत?",
+            "answer": "दात किडू नयेत म्हणून."
+        },
+        {
+            "question_id": 116,
+            "question_type": "SHORT",
+            "question": "केस का विंचरावेत?",
+            "answer": "नीटनेटक्या दिसण्यासाठी."
+        },
+        {
+            "question_id": 117,
+            "question_type": "SHORT",
+            "question": "कपडे कसे असावेत?",
+            "answer": "स्वच्छ आणि धुतलेले."
+        },
+        {
+            "question_id": 118,
+            "question_type": "SHORT",
+            "question": "परिसर कसा ठेवावा?",
+            "answer": "स्वच्छ."
+        },
+        {
+            "question_id": 119,
+            "question_type": "SHORT",
+            "question": "कचरा कोठे टाकावा?",
+            "answer": "कचराकुंडीत."
+        },
+        {
+            "question_id": 120,
+            "question_type": "SHORT",
+            "question": "प्लास्टिक पिशव्या वापरावेत का?",
+            "answer": "नाही, कापडी पिशव्या वापराव्यात."
+        },
+        {
+            "question_id": 121,
+            "question_type": "SHORT",
+            "question": "झाडांची काळजी कशी घ्यावी?",
+            "answer": "त्यांना पाणी घालून."
+        },
+        {
+            "question_id": 122,
+            "question_type": "SHORT",
+            "question": "प्राण्यांशी कसे वागावे?",
+            "answer": "प्रेमाने."
+        },
+        {
+            "question_id": 123,
+            "question_type": "SHORT",
+            "question": "वडिलांना काय म्हणावे?",
+            "answer": "बाबा."
+        },
+        {
+            "question_id": 124,
+            "question_type": "SHORT",
+            "question": "आईला काय म्हणावे?",
+            "answer": "आई / मातोश्री."
+        },
+        {
+            "question_id": 125,
+            "question_type": "SHORT",
+            "question": "आजोबांना काय म्हणावे?",
+            "answer": "आजोबा."
+        },
+        {
+            "question_id": 126,
+            "question_type": "SHORT",
+            "question": "आजीला काय म्हणावे?",
+            "answer": "आजी."
+        },
+        {
+            "question_id": 127,
+            "question_type": "SHORT",
+            "question": "शिक्षकांचा आदर कसा करावा?",
+            "answer": "त्यांचे ऐकून आणि नमस्कार करून."
+        },
+        {
+            "question_id": 128,
+            "question_type": "SHORT",
+            "question": "मित्रांशी कसे वागावे?",
+            "answer": "मैत्रीने आणि मदतीने."
+        },
+        {
+            "question_id": 129,
+            "question_type": "SHORT",
+            "question": "खोटे बोलू नये असे कोणी सांगितले?",
+            "answer": "गांधीजींनी (आणि सर्वांनी)."
+        },
+        {
+            "question_id": 130,
+            "question_type": "SHORT",
+            "question": "‘चले जाव’ चळवळ कोणी केली?",
+            "answer": "भारतीयांनी स्वातंत्र्यासाठी."
+        },
+        {
+            "question_id": 131,
+            "question_type": "SHORT",
+            "question": "‘स्वराज्य माझा जन्मसिद्ध हक्क आहे’ हे कोणी म्हटले?",
+            "answer": "लोकमान्य टिळक."
+        },
+        {
+            "question_id": 132,
+            "question_type": "SHORT",
+            "question": "‘जय जवान जय किसान’ हे कोणी म्हटले?",
+            "answer": "लाल बहादूर शास्त्री."
+        },
+        {
+            "question_id": 133,
+            "question_type": "SHORT",
+            "question": "भारताचे राष्ट्रगीत कोणते?",
+            "answer": "जन गण मन."
+        },
+        {
+            "question_id": 134,
+            "question_type": "SHORT",
+            "question": "आपला राष्ट्रध्वज कोणता?",
+            "answer": "तिरंगा."
+        },
+        {
+            "question_id": 135,
+            "question_type": "SHORT",
+            "question": "तिरंग्यात किती रंग आहेत?",
+            "answer": "तीन (आणि मध्यभागी चक्र)."
+        },
+        {
+            "question_id": 136,
+            "question_type": "SHORT",
+            "question": "अशोक चक्रात किती आऱ्या आहेत?",
+            "answer": "चोवीस."
+        },
+        {
+            "question_id": 137,
+            "question_type": "SHORT",
+            "question": "केसरी रंग कशाचे प्रतीक आहे?",
+            "answer": "त्यागाचे आणि शौर्याचे."
+        },
+        {
+            "question_id": 138,
+            "question_type": "SHORT",
+            "question": "पांढरा रंग कशाचे प्रतीक आहे?",
+            "answer": "शांततेचे."
+        },
+        {
+            "question_id": 139,
+            "question_type": "SHORT",
+            "question": "हिरवा रंग कशाचे प्रतीक आहे?",
+            "answer": "समृद्धीचे."
+        },
+        {
+            "question_id": 140,
+            "question_type": "SHORT",
+            "question": "आपण स्वातंत्र्य दिन कधी साजरा करतो?",
+            "answer": "१५ ऑगस्ट."
+        },
+        {
+            "question_id": 141,
+            "question_type": "SHORT",
+            "question": "प्रजासत्ताक दिन कधी असतो?",
+            "answer": "२६ जानेवारी."
+        },
+        {
+            "question_id": 142,
+            "question_type": "SHORT",
+            "question": "गांधी जयंती कधी असते?",
+            "answer": "२ ऑक्टोबर."
+        },
+        {
+            "question_id": 143,
+            "question_type": "SHORT",
+            "question": "बालदिन कधी असतो?",
+            "answer": "१४ नोव्हेंबर."
+        },
+        {
+            "question_id": 144,
+            "question_type": "SHORT",
+            "question": "शिक्षक दिन कधी असतो?",
+            "answer": "५ सप्टेंबर."
+        },
+        {
+            "question_id": 145,
+            "question_type": "SHORT",
+            "question": "पर्यावरण दिन कधी असतो?",
+            "answer": "५ जून."
+        },
+        {
+            "question_id": 146,
+            "question_type": "SHORT",
+            "question": "मराठी राजभाषा दिन?",
+            "answer": "२७ फेब्रुवारी."
+        },
+        {
+            "question_id": 147,
+            "question_type": "SHORT",
+            "question": "वाचन प्रेरणा दिन?",
+            "answer": "१५ ऑक्टोबर (डॉ. कलाम जयंती)."
+        },
+        {
+            "question_id": 148,
+            "question_type": "SHORT",
+            "question": "विज्ञान दिन?",
+            "answer": "२८ फेब्रुवारी."
+        },
+        {
+            "question_id": 149,
+            "question_type": "SHORT",
+            "question": "गणित दिवस?",
+            "answer": "२२ डिसेंबर."
+        }
+    ]
 }
