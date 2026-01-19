@@ -108,24 +108,24 @@
       "question_type": "MCQ",
       "question": "Where do fish live in our world?",
       "options": [
-        { "option_id": 1, "text": "In water", "is_correct": true },
+        { "option_id": 1, "text": "In the water", "is_correct": true },
         { "option_id": 2, "text": "On trees", "is_correct": false },
         { "option_id": 3, "text": "On roads", "is_correct": false },
         { "option_id": 4, "text": "In houses", "is_correct": false }
       ],
-      "answer": "In water"
+      "answer": "In the water"
     },
     {
       "question_id": 10,
       "question_type": "MCQ",
       "question": "Where does a boat move in our world?",
       "options": [
-        { "option_id": 1, "text": "In water", "is_correct": true },
+        { "option_id": 1, "text": "In the water", "is_correct": true },
         { "option_id": 2, "text": "On land", "is_correct": false },
         { "option_id": 3, "text": "In the sky", "is_correct": false },
         { "option_id": 4, "text": "On trees", "is_correct": false }
       ],
-      "answer": "In water"
+      "answer": "In the water"
     },
     {
       "question_id": 11,
@@ -133,7 +133,7 @@
       "question": "Where does a car move in our world?",
       "options": [
         { "option_id": 1, "text": "On the road", "is_correct": true },
-        { "option_id": 2, "text": "In water", "is_correct": false },
+        { "option_id": 2, "text": "In the water", "is_correct": false },
         { "option_id": 3, "text": "In the sky", "is_correct": false },
         { "option_id": 4, "text": "On trees", "is_correct": false }
       ],
@@ -146,7 +146,7 @@
       "options": [
         { "option_id": 1, "text": "On railway tracks", "is_correct": true },
         { "option_id": 2, "text": "On roads", "is_correct": false },
-        { "option_id": 3, "text": "In water", "is_correct": false },
+        { "option_id": 3, "text": "In the water", "is_correct": false },
         { "option_id": 4, "text": "In the sky", "is_correct": false }
       ],
       "answer": "On railway tracks"
@@ -187,93 +187,92 @@
       ],
       "answer": "In the water"
     },
-
     {
-      "question_id": 101,
+      "question_id": 16,
       "question_type": "SHORT",
       "question": "Where are the fish shown in the picture?",
       "answer": "The fish are hanging from trees."
     },
     {
-      "question_id": 102,
+      "question_id": 17,
       "question_type": "SHORT",
       "question": "Where is the boat shown?",
       "answer": "The boat is shown on land."
     },
     {
-      "question_id": 103,
+      "question_id": 18,
       "question_type": "SHORT",
       "question": "Where is the car shown?",
       "answer": "The car is shown in the water."
     },
     {
-      "question_id": 104,
+      "question_id": 19,
       "question_type": "SHORT",
       "question": "Where is the train running?",
       "answer": "The train is running on the road."
     },
     {
-      "question_id": 105,
+      "question_id": 20,
       "question_type": "SHORT",
       "question": "What is flying in the sky?",
       "answer": "Apples are flying in the sky."
     },
     {
-      "question_id": 106,
+      "question_id": 21,
       "question_type": "SHORT",
       "question": "Where do fish live in our world?",
       "answer": "Fish live in water."
     },
     {
-      "question_id": 107,
+      "question_id": 22,
       "question_type": "SHORT",
       "question": "Do fish hang from trees in our world?",
       "answer": "No, fish do not hang from trees."
     },
     {
-      "question_id": 108,
+      "question_id": 23,
       "question_type": "SHORT",
       "question": "Where does a boat move in our world?",
       "answer": "A boat moves in water."
     },
     {
-      "question_id": 109,
+      "question_id": 24,
       "question_type": "SHORT",
       "question": "Where does a car move in our world?",
       "answer": "A car moves on the road."
     },
     {
-      "question_id": 110,
+      "question_id": 25,
       "question_type": "SHORT",
       "question": "Where does a train run in our world?",
       "answer": "A train runs on railway tracks."
     },
     {
-      "question_id": 111,
+      "question_id": 26,
       "question_type": "SHORT",
       "question": "Write the first word of the pyramid.",
       "answer": "Fish."
     },
     {
-      "question_id": 112,
+      "question_id": 27,
       "question_type": "SHORT",
       "question": "Write the second line of the pyramid.",
       "answer": "Five fishes."
     },
     {
-      "question_id": 113,
+      "question_id": 28,
       "question_type": "SHORT",
       "question": "Write the third line of the pyramid.",
       "answer": "Five fishes live."
     },
     {
-      "question_id": 114,
+      "question_id": 29,
       "question_type": "SHORT",
       "question": "Write the fourth line of the pyramid.",
       "answer": "Five fishes live in the water."
     },
     {
-      "question_id": 115,
+      "question_id": 30,
       "question_type": "SHORT",
       "question": "Write the last line of the pyramid.",
       "answer": "Five fat fishes live in the cold water."
